@@ -31,4 +31,7 @@ Alternatively, for more randomness you can change `head` to `shuf` like this:
 shuf -n7 ~/bin/wiki-welcome/articles/$article | cowthink -W 78 -f tux
 ```
 
+This repo uses material from Wikipedia, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>. Respective authorship can be found on the page of each article.
+
+
 PRs are welcome--except for adding more wikipedia articles. I can add all Level-5 Vital articles just fine but it is over 1GB so...
