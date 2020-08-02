@@ -1,6 +1,6 @@
 # wiki-welcome
 
-![](preview.webm)
+![](preview.gif)
 
 A welcome banner for your shell which selects a few lines from a random Wikipedia article.
 
