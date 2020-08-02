@@ -146,7 +146,7 @@ The revolution in materials came first, with the use of cast iron, plate glass, 
 
 French industrialist François Coignet was the first to use iron-reinforced concrete, that is, concrete strengthened with iron bars, as a technique for constructing buildings. In 1853 Coignet built the first iron reinforced concrete structure, a four-story house in the suburbs of Paris. A further important step forward was the invention of the safety elevator by Elisha Otis, first demonstrated at the New York Crystal Palace exposition in 1854, which made tall office and apartment buildings practical. Another important technology for the new architecture was electric light, which greatly reduced the inherent danger of fires caused by gas in the 19th century.
 
-The debut of new materials and techniques inspired architects to break away from the neoclassical and eclectic models that dominated European and American architecture in the late 19th century, most notably eclecticism, Victorian and Edwardian architecture, and the Beaux-Arts architectural style. This break with the past was particularly urged by the architectural theorist and historian Eugène Viollet-le-Duc. In his 1872 book Entretiens sur L'Architecture, he urged: \"use the means and knowledge given to us by our times, without the intervening traditions which are no longer viable today, and in that way we can inaugurate a new architecture. For each function its material; for each material its form and its ornament.\" This book influenced a generation of architects, including Louis Sullivan, Victor Horta, Hector Guimard, and Antoni Gaudí.
+The debut of new materials and techniques inspired architects to break away from the neoclassical and eclectic models that dominated European and American architecture in the late 19th century, most notably eclecticism, Victorian and Edwardian architecture, and the Beaux-Arts architectural style. This break with the past was particularly urged by the architectural theorist and historian Eugène Viollet-le-Duc. In his 1872 book Entretiens sur L'Architecture, he urged: "use the means and knowledge given to us by our times, without the intervening traditions which are no longer viable today, and in that way we can inaugurate a new architecture. For each function its material; for each material its form and its ornament." This book influenced a generation of architects, including Louis Sullivan, Victor Horta, Hector Guimard, and Antoni Gaudí.
 
 Early modernism in Europe (1900–1914)
 
@@ -264,7 +264,7 @@ At the end of the 19th century, a few architects began to challenge the traditio
 
 Architects also began to experiment with new materials and techniques, which gave them greater freedom to create new forms. In 1903–1904 in Paris Auguste Perret and Henri Sauvage began to use reinforced concrete, previously only used for industrial structures, to build apartment buildings. Reinforced concrete, which could be molded into any shape, and which could create enormous spaces without the need of supporting pillars, replaced stone and brick as the primary material for modernist architects. The first concrete apartment buildings by Perret and Sauvage were covered with ceramic tiles, but in 1905 Perret built the first concrete parking garage on 51 rue de Ponthieu in Paris; here the concrete was left bare, and the space between the concrete was filled with glass windows. Henri Sauvage added another construction innovation in an apartment building on Rue Vavin in Paris (1912–1914); the reinforced concrete building was in steps, with each floor set back from the floor below, creating a series of terraces. Between 1910 and 1913, Auguste Perret built the Théâtre des Champs-Élysées, a masterpiece of reinforced concrete construction, with Art Deco sculptural bas-reliefs on the facade by Antoine Bourdelle. Because of the concrete construction, no columns blocked the spectator's view of the stage.
 
-Otto Wagner, in Vienna, was another pioneer of the new style. In his book Moderne Architektur (1895) he had called for a more rationalist style of architecture, based on \"modern life\". He designed a stylized ornamental metro station at Karlsplatz in Vienna (1888–89), then an ornamental Art Nouveau residence, Majolika House (1898), before moving to a much more geometric and simplified style, without ornament, in the Austrian Postal Savings Bank (1904–1906). Wagner declared his intention to express the function of the building in its exterior. The reinforced concrete exterior was covered with plaques of marble attached with bolts of polished aluminum. The interior was purely functional and spare, a large open space of steel, glass and concrete where the only decoration was the structure itself.
+Otto Wagner, in Vienna, was another pioneer of the new style. In his book Moderne Architektur (1895) he had called for a more rationalist style of architecture, based on "modern life". He designed a stylized ornamental metro station at Karlsplatz in Vienna (1888–89), then an ornamental Art Nouveau residence, Majolika House (1898), before moving to a much more geometric and simplified style, without ornament, in the Austrian Postal Savings Bank (1904–1906). Wagner declared his intention to express the function of the building in its exterior. The reinforced concrete exterior was covered with plaques of marble attached with bolts of polished aluminum. The interior was purely functional and spare, a large open space of steel, glass and concrete where the only decoration was the structure itself.
 
 The Viennese architect Adolf Loos also began removing any ornament from his buildings. His Steiner House, in Vienna (1910), was an example of what he called rationalist architecture; it had a simple stucco rectangular facade with square windows and no ornament. . The fame of the new movement, which became known as the Vienna Secession spread beyond Austria. Josef Hoffmann, a student of Wagner, constructed a landmark of early modernist architecture, the Palais Stoclet, in Brussels, in 1906–1911. This residence, built of brick covered with Norwegian marble, was composed of geometric blocks, wings and a tower. A large pool in front of the house reflected its cubic forms. The interior was decorated with paintings by Gustav Klimt and other artists, and the architect even designed clothing for the family to match the architecture.
 
@@ -324,7 +324,7 @@ The Robie House by Frank Lloyd Wright, Chicago (1909)
 
 \t\t
 
-Frank Lloyd Wright was a highly original and independent American architect who refused to be categorized in any one architectural movement. Like Le Corbusier and Ludwig Mies van der Rohe, he had no formal architectural training. In 1887–93 he worked in the Chicago office of Louis Sullivan, who pioneered the first tall steel-frame office buildings in Chicago, and who famously stated \"form follows function\". Wright set out to break all the traditional rules. He was particularly famous for his Prairie Houses, including the Winslow House in River Forest, Illinois (1893–94); Arthur Heurtley House (1902) and Robie House (1909); sprawling, geometric residences without decoration, with strong horizontal lines which seemed to grow out of the earth, and which echoed the wide flat spaces of the American prairie. His Larkin Building (1904–1906) in Buffalo, New York, Unity Temple (1905) in Oak Park, Illinois and Unity Temple had highly original forms and no connection with historical precedents.
+Frank Lloyd Wright was a highly original and independent American architect who refused to be categorized in any one architectural movement. Like Le Corbusier and Ludwig Mies van der Rohe, he had no formal architectural training. In 1887–93 he worked in the Chicago office of Louis Sullivan, who pioneered the first tall steel-frame office buildings in Chicago, and who famously stated "form follows function". Wright set out to break all the traditional rules. He was particularly famous for his Prairie Houses, including the Winslow House in River Forest, Illinois (1893–94); Arthur Heurtley House (1902) and Robie House (1909); sprawling, geometric residences without decoration, with strong horizontal lines which seemed to grow out of the earth, and which echoed the wide flat spaces of the American prairie. His Larkin Building (1904–1906) in Buffalo, New York, Unity Temple (1905) in Oak Park, Illinois and Unity Temple had highly original forms and no connection with historical precedents.
 
 Early skyscrapers
 
@@ -390,7 +390,7 @@ The neo-Gothic crown of the Woolworth Building by Cass Gilbert (1912)
 
 \t\t
 
-At the end of the 19th century, the first skyscrapers began to appear in the United States. They were a response to the shortage of land and high cost of real estate in the center of the fast-growing American cities, and the availability of new technologies, including fireproof steel frames and improvements in the safety elevator invented by Elisha Otis in 1852. The first steel-framed \"skyscraper\", The Home Insurance Building in Chicago, was ten stories high. It was designed by William Le Baron Jenney in 1883, and was briefly the tallest building in the world. Louis Sullivan built another monumental new structure, the Carson, Pirie, Scott and Company Building, in the heart of Chicago in 1904–06. While these buildings were revolutionary in their steel frames and height, their decoration was borrowed from Neo-Renaissance, Neo-Gothic and Beaux-Arts architecture. The Woolworth Building, designed by Cass Gilbert, was completed in 1912, and was the tallest building in the world until the completion of the Chrysler Building in 1929. The structure was purely modern, but its exterior was decorated with Neo-Gothic ornament, complete with decorative buttresses, arches and spires, which caused it be nicknamed the \"Cathedral of Commerce.\"
+At the end of the 19th century, the first skyscrapers began to appear in the United States. They were a response to the shortage of land and high cost of real estate in the center of the fast-growing American cities, and the availability of new technologies, including fireproof steel frames and improvements in the safety elevator invented by Elisha Otis in 1852. The first steel-framed "skyscraper", The Home Insurance Building in Chicago, was ten stories high. It was designed by William Le Baron Jenney in 1883, and was briefly the tallest building in the world. Louis Sullivan built another monumental new structure, the Carson, Pirie, Scott and Company Building, in the heart of Chicago in 1904–06. While these buildings were revolutionary in their steel frames and height, their decoration was borrowed from Neo-Renaissance, Neo-Gothic and Beaux-Arts architecture. The Woolworth Building, designed by Cass Gilbert, was completed in 1912, and was the tallest building in the world until the completion of the Chrysler Building in 1929. The structure was purely modern, but its exterior was decorated with Neo-Gothic ornament, complete with decorative buttresses, arches and spires, which caused it be nicknamed the "Cathedral of Commerce."
 
 Rise of Modernism in Europe and Russia (1918–1931)
 
@@ -470,7 +470,7 @@ Hôtel Martel rue Mallet-Stevens, by Robert Mallet-Stevens (1926–1927)
 
 \t\t
 
-The dominant figure in the rise of modernism in France was Charles-Édouard Jeanneret, a Swiss-French architect who in 1920 took the name Le Corbusier. In 1920 he co-founded a journal called 'L'Espirit Nouveau and energetically promoted architecture that was functional, pure, and free of any decoration or historical associations. He was also a passionate advocate of a new urbanism, based on planned cities. In 1922 he presented a design of a city for three million people, whose inhabitants lived in identical sixty-story tall skyscrapers surrounded by open parkland. He designed modular houses, which would be mass-produced on the same plan and assembled into apartment blocks, neighborhoods and cities. In 1923 he published \"Toward an Architecture\", with his famous slogan, \"a house is a machine for living in.\" He tirelessly promoted his ideas through slogans, articles, books, conferences, and participation in Expositions.
+The dominant figure in the rise of modernism in France was Charles-Édouard Jeanneret, a Swiss-French architect who in 1920 took the name Le Corbusier. In 1920 he co-founded a journal called 'L'Espirit Nouveau and energetically promoted architecture that was functional, pure, and free of any decoration or historical associations. He was also a passionate advocate of a new urbanism, based on planned cities. In 1922 he presented a design of a city for three million people, whose inhabitants lived in identical sixty-story tall skyscrapers surrounded by open parkland. He designed modular houses, which would be mass-produced on the same plan and assembled into apartment blocks, neighborhoods and cities. In 1923 he published "Toward an Architecture", with his famous slogan, "a house is a machine for living in." He tirelessly promoted his ideas through slogans, articles, books, conferences, and participation in Expositions.
 
 To illustrate his ideas, in the 1920s he built a series of houses and villas in and around Paris. They were all built according to a common system, based upon the use of reinforced concrete, and of reinforced concrete pylons in the interior which supported the structure, allowing glass curtain walls on the facade and open floor plans, independent of the structure. They were always white, and had no ornament or decoration on the outside or inside. The best-known of these houses was the Villa Savoye, built in 1928–1931 in the Paris suburb of Poissy. An elegant white box wrapped with a ribbon of glass windows around on the facade, with living space that opened upon an interior garden and countryside around, raised up by a row of white pylons in the center of a large lawn, it became an icon of modernist architecture.
 
@@ -712,7 +712,7 @@ Van Nelle Factory in Rotterdam by Leendert van der Vlugt and Mart Stam (1927–1
 
 \t\t
 
-After the Russian Revolution of 1917, Russian avant-garde artists and architects began searching for a new Soviet style which could replace traditional neoclassicism. The new architectural movements were closely tied with the literary and artistic movements of the period, the futurism of poet Vladimir Mayakovskiy, the Suprematism of painter Kasimir Malevich, and the colorful Rayonism of painter Mikhail Larionov. The most startling design that emerged was the tower proposed by painter and sculptor Vladimir Tatlin for the Moscow meeting of the Third Communist International in 1920: he proposed two interlaced towers of metal four hundred meters high, with four geometric volumes suspended from cables. The movement of Russian Constructivist architecture was launched in 1921 by a group of artists led by Aleksandr Rodchenko. Their manifesto proclaimed that their goal was to find the \"communist expression of material structures.\" Soviet architects began to construct workers' clubs, communal apartment houses, and communal kitchens for feeding whole neighborhoods.
+After the Russian Revolution of 1917, Russian avant-garde artists and architects began searching for a new Soviet style which could replace traditional neoclassicism. The new architectural movements were closely tied with the literary and artistic movements of the period, the futurism of poet Vladimir Mayakovskiy, the Suprematism of painter Kasimir Malevich, and the colorful Rayonism of painter Mikhail Larionov. The most startling design that emerged was the tower proposed by painter and sculptor Vladimir Tatlin for the Moscow meeting of the Third Communist International in 1920: he proposed two interlaced towers of metal four hundred meters high, with four geometric volumes suspended from cables. The movement of Russian Constructivist architecture was launched in 1921 by a group of artists led by Aleksandr Rodchenko. Their manifesto proclaimed that their goal was to find the "communist expression of material structures." Soviet architects began to construct workers' clubs, communal apartment houses, and communal kitchens for feeding whole neighborhoods.
 
 One of the first prominent constructivist architects to emerge in Moscow was Konstantin Melnikov, the number of working clubs – including Rusakov Workers' Club (1928) – and his own living house, Melnikov House (1929) near Arbat Street in Moscow. Melnikov traveled to Paris in 1925 where he built the Soviet Pavilion for the International Exhibition of Modern Decorative and Industrial Arts in Paris in 1925; it was a highly geometric vertical construction of glass and steel crossed by a diagonal stairway, and crowned with a hammer and sickle. The leading group of constructivist architects, led by Vesnin brothers and Moisei Ginzburg, was publishing the 'Contemporary Architecture' journal. This group created several major constructivist projects in the wake of the First Five Year Plan – including colossal Dnieper Hydroelectric Station (1932) – and made an attempt to start the standardization of living blocks with Ginzburg's Narkomfin building. A number of architects from the pre-Soviet period also took up the constructivist style. The most famous example was Lenin's Mausoleum in Moscow (1924), by Alexey Shchusev (1924)
 
@@ -724,7 +724,7 @@ Modernism becomes a movement: CIAM (1928)
 
 Main article: Congrès Internationaux d'Architecture Moderne
 
-By the late 1920s, modernism had become an important movement in Europe. Architecture, which previously had been predominantly national, began to become international. The architects traveled, met each other, and shared ideas. Several modernists, including Le Corbusier, had participated in the competition for the headquarters of the League of Nations in 1927. In the same year, the German Werkbund organized an architectural exposition at the Weissenhof Estate Stuttgart. Seventeen leading modernist architects in Europe were invited to design twenty-one houses; Le Corbusier, and Ludwig Mies van der Rohe played a major part. In 1927 Le Corbusier, Pierre Chareau and others proposed the foundation of an international conference to establish the basis for a common style. The first meeting of the Congrès Internationaux d'Architecture Moderne or International Congresses of Modern Architects (CIAM), was held in a chateau on Lake Leman in Switzerland June 26–28, 1928. Those attending included Le Corbusier, Robert Mallet-Stevens, Auguste Perret, Pierre Chareau and Tony Garnier from France; Victor Bourgeois from Belgium; Walter Gropius, Erich Mendelsohn, Ernst May and Ludwig Mies van der Rohe from Germany; Josef Frank from Austria; Mart Stam and Gerrit Rietveld from the Netherlands, and Adolf Loos from Czechoslovakia. A delegation of Soviet architects was invited to attend, but they were unable to obtain visas. Later members included Josep Lluís Sert of Spain and Alvar Aalto of Finland. No one attended from the United States. A second meeting was organized in 1930 in Brussels by Victor Bourgeois on the topic \"Rational methods for groups of habitations\". A third meeting, on \"The functional city\", was scheduled for Moscow in 1932, but was cancelled at the last minute. Instead the delegates held their meeting on a cruise ship traveling between Marseille and Athens. On board, they together drafted a text on how modern cities should be organized. The text, called The Athens Charter, after considerable editing by Corbusier and others, was finally published in 1957 and became an influential text for city planners in the 1950s and 1960s. The group met once more in Paris in 1937 to discuss public housing and was scheduled to meet in the United States in 1939, but the meeting was cancelled because of the war. The legacy of the CIAM was a roughly common style and doctrine which helped define modern architecture in Europe and the United States after World War II.
+By the late 1920s, modernism had become an important movement in Europe. Architecture, which previously had been predominantly national, began to become international. The architects traveled, met each other, and shared ideas. Several modernists, including Le Corbusier, had participated in the competition for the headquarters of the League of Nations in 1927. In the same year, the German Werkbund organized an architectural exposition at the Weissenhof Estate Stuttgart. Seventeen leading modernist architects in Europe were invited to design twenty-one houses; Le Corbusier, and Ludwig Mies van der Rohe played a major part. In 1927 Le Corbusier, Pierre Chareau and others proposed the foundation of an international conference to establish the basis for a common style. The first meeting of the Congrès Internationaux d'Architecture Moderne or International Congresses of Modern Architects (CIAM), was held in a chateau on Lake Leman in Switzerland June 26–28, 1928. Those attending included Le Corbusier, Robert Mallet-Stevens, Auguste Perret, Pierre Chareau and Tony Garnier from France; Victor Bourgeois from Belgium; Walter Gropius, Erich Mendelsohn, Ernst May and Ludwig Mies van der Rohe from Germany; Josef Frank from Austria; Mart Stam and Gerrit Rietveld from the Netherlands, and Adolf Loos from Czechoslovakia. A delegation of Soviet architects was invited to attend, but they were unable to obtain visas. Later members included Josep Lluís Sert of Spain and Alvar Aalto of Finland. No one attended from the United States. A second meeting was organized in 1930 in Brussels by Victor Bourgeois on the topic "Rational methods for groups of habitations". A third meeting, on "The functional city", was scheduled for Moscow in 1932, but was cancelled at the last minute. Instead the delegates held their meeting on a cruise ship traveling between Marseille and Athens. On board, they together drafted a text on how modern cities should be organized. The text, called The Athens Charter, after considerable editing by Corbusier and others, was finally published in 1957 and became an influential text for city planners in the 1950s and 1960s. The group met once more in Paris in 1937 to discuss public housing and was scheduled to meet in the United States in 1939, but the meeting was cancelled because of the war. The legacy of the CIAM was a roughly common style and doctrine which helped define modern architecture in Europe and the United States after World War II.
 
 Art Deco
 
@@ -808,7 +808,7 @@ Crown of the General Electric Building (also known as 570 Lexington Avenue) by C
 
 \t\t
 
-In the late 1920s and early 1930s, an exuberant American variant of Art Deco appeared in the Chrysler Building, Empire State Building and Rockefeller Center in New York City, and Guardian Building in Detroit. The first skyscrapers in Chicago and New York had been designed in a neo-gothic or neoclassical style, but these buildings were very different; they combined modern materials and technology (stainless steel, concrete, aluminum, chrome-plated steel) with Art Deco geometry; stylized zig-zags, lightning flashes, fountains, sunrises, and, at the top of the Chrysler building, Art Deco \"gargoyles\" in the form of stainless steel radiator ornaments. The interiors of these new buildings, sometimes termed Cathedrals of Commerce\", were lavishly decorated in bright contrasting colors, with geometric patterns variously influenced by Egyptian and Mayan pyramids, African textile patterns, and European cathedrals, Frank Lloyd Wright himself experimented with Mayan Revival, in the concrete cube-based Ennis House of 1924 in Los Angeles. The style appeared in the late 1920s and 1930s in all major American cities. The style was used most often in office buildings, but it also appeared in the enormous movie palaces that were built in large cities when sound films were introduced.
+In the late 1920s and early 1930s, an exuberant American variant of Art Deco appeared in the Chrysler Building, Empire State Building and Rockefeller Center in New York City, and Guardian Building in Detroit. The first skyscrapers in Chicago and New York had been designed in a neo-gothic or neoclassical style, but these buildings were very different; they combined modern materials and technology (stainless steel, concrete, aluminum, chrome-plated steel) with Art Deco geometry; stylized zig-zags, lightning flashes, fountains, sunrises, and, at the top of the Chrysler building, Art Deco "gargoyles" in the form of stainless steel radiator ornaments. The interiors of these new buildings, sometimes termed Cathedrals of Commerce", were lavishly decorated in bright contrasting colors, with geometric patterns variously influenced by Egyptian and Mayan pyramids, African textile patterns, and European cathedrals, Frank Lloyd Wright himself experimented with Mayan Revival, in the concrete cube-based Ennis House of 1924 in Los Angeles. The style appeared in the late 1920s and 1930s in all major American cities. The style was used most often in office buildings, but it also appeared in the enormous movie palaces that were built in large cities when sound films were introduced.
 
 Streamline style and Public Works Administration (1933–1939)
 
@@ -852,7 +852,7 @@ Long Beach Main Post Office (1933–34)
 
 \t\t
 
-The beginning of the Great Depression in 1929 brought an end to lavishly decorated Art Deco architecture and a temporary halt to the construction of new skyscrapers. It also brought in a new style, called \"Streamline Moderne\" or sometimes just Streamline. This style, sometimes modeled after for the form of ocean liners, featured rounded corners, strong horizontal lines, and often nautical features, such as superstructures and steel railings. It was associated with modernity and especially with transportation; the style was often used for new airport terminals, train and bus stations, and for gas stations and diners built along the growing American highway system. In the 1930s the style was used not only in buildings, but in railroad locomotives, and even refrigerators and vacuum cleaners. It both borrowed from industrial design and influenced it.
+The beginning of the Great Depression in 1929 brought an end to lavishly decorated Art Deco architecture and a temporary halt to the construction of new skyscrapers. It also brought in a new style, called "Streamline Moderne" or sometimes just Streamline. This style, sometimes modeled after for the form of ocean liners, featured rounded corners, strong horizontal lines, and often nautical features, such as superstructures and steel railings. It was associated with modernity and especially with transportation; the style was often used for new airport terminals, train and bus stations, and for gas stations and diners built along the growing American highway system. In the 1930s the style was used not only in buildings, but in railroad locomotives, and even refrigerators and vacuum cleaners. It both borrowed from industrial design and influenced it.
 
 In the United States, the Great Depression led to a new style for government buildings, sometimes called PWA Moderne, for the Public Works Administration, which launched gigantic construction programs in the U.S. to stimulate employment. It was essentially classical architecture stripped of ornament, and was employed in state and federal buildings, from post offices to the largest office building in the world at that time, Pentagon (1941–43), begun just before the United States entered the Second World War.
 
@@ -900,7 +900,7 @@ Lovell Health House in Los Feliz, Los Angeles, California, by Richard Neutra (19
 
 \t\t
 
-During the 1920s and 1930s, Frank Lloyd Wright resolutely refused to associate himself with any architectural movements. He considered his architecture to be entirely unique and his own. Between 1916 and 1922, he broke away from his earlier prairie house style and worked instead on houses decorated with textured blocks of cement; this became known as his \"Mayan style\", after the pyramids of the ancient Mayan civilization. He experimented for a time with modular mass-produced housing. He identified his architecture as \"Usonian\", a combination of USA, \"utopian\" and \"organic social order\". His business was severely affected by the beginning of the Great Depression that began in 1929; he had fewer wealthy clients who wanted to experiment. Between 1928 and 1935, he built only two buildings: a hotel near Chandler, Arizona, and the most famous of all his residences, Fallingwater (1934–37), a vacation house in Pennsylvania for Edgar J. Kaufman. Fallingwater is a remarkable structure of concrete slabs suspended over a waterfall, perfectly uniting architecture and nature.
+During the 1920s and 1930s, Frank Lloyd Wright resolutely refused to associate himself with any architectural movements. He considered his architecture to be entirely unique and his own. Between 1916 and 1922, he broke away from his earlier prairie house style and worked instead on houses decorated with textured blocks of cement; this became known as his "Mayan style", after the pyramids of the ancient Mayan civilization. He experimented for a time with modular mass-produced housing. He identified his architecture as "Usonian", a combination of USA, "utopian" and "organic social order". His business was severely affected by the beginning of the Great Depression that began in 1929; he had fewer wealthy clients who wanted to experiment. Between 1928 and 1935, he built only two buildings: a hotel near Chandler, Arizona, and the most famous of all his residences, Fallingwater (1934–37), a vacation house in Pennsylvania for Edgar J. Kaufman. Fallingwater is a remarkable structure of concrete slabs suspended over a waterfall, perfectly uniting architecture and nature.
 
 The Austrian architect Rudolph Schindler designed what could be called the first house in the modern style in 1922, the Schindler house. 
 Schindler also contributed to American modernism with his design for the Lovell Beach House in Newport Beach. The Austrian architect Richard Neutra moved to the United States in 1923, worked for short time with Frank Lloyd Wright, also quickly became a force in American architecture through his modernist design for the same client, the Lovell Health House in Los Angeles. Neutra's most notable architectural work was the Kaufmann Desert House in 1946, and he designed hundreds of further projects.
@@ -1075,15 +1075,15 @@ The Chapel of Notre-Dame-du-Haut in Ronchamp (1950–1955)
 
 \t\t
 
-Shortly after the War, the French architect Le Corbusier, who was nearly sixty years old and had not constructed a building in ten years, was commissioned by the French government to construct a new apartment block in Marseille. He called it Unité d'Habitation in Marseille, but it more popularly took the name of the Cité Radieuse, after his book about futuristic urban planning. Following his doctrines of design, the building had a concrete frame raised up above the street on pylons. it contained 337 duplex apartment units, fit into the framework like pieces of a puzzle. Each unit had two levels and a small terrace. Interior \"streets\" had shops, a nursery school and other serves, and the flat terrace roof had a running track, ventilation ducts, and a small theater. Le Corbusier designed furniture, carpets and lamps to go with the building, all purely functional; the only decoration was a choice of interior colors that Le Corbusier gave to residents. Unité d'Habitation became a prototype for similar buildings in other cities, both in France and Germany. Combined with his equally radical organic design for the Chapel of Notre-Dame du-Haut at Ronchamp, this work propelled Corbusier in the first rank of postwar modern architects.
+Shortly after the War, the French architect Le Corbusier, who was nearly sixty years old and had not constructed a building in ten years, was commissioned by the French government to construct a new apartment block in Marseille. He called it Unité d'Habitation in Marseille, but it more popularly took the name of the Cité Radieuse, after his book about futuristic urban planning. Following his doctrines of design, the building had a concrete frame raised up above the street on pylons. it contained 337 duplex apartment units, fit into the framework like pieces of a puzzle. Each unit had two levels and a small terrace. Interior "streets" had shops, a nursery school and other serves, and the flat terrace roof had a running track, ventilation ducts, and a small theater. Le Corbusier designed furniture, carpets and lamps to go with the building, all purely functional; the only decoration was a choice of interior colors that Le Corbusier gave to residents. Unité d'Habitation became a prototype for similar buildings in other cities, both in France and Germany. Combined with his equally radical organic design for the Chapel of Notre-Dame du-Haut at Ronchamp, this work propelled Corbusier in the first rank of postwar modern architects.
 
 Team X and the 1953 International Congress of Modern Architecture
 
 See also: Architecture of Casablanca § GAMMA
 
-In the early 1950s, Michel Écochard, director of urban planning under the French Protectorate in Morocco, commissioned GAMMA (Groupe des Architectes Modernes Marocains)—which initially included the architects Elie Azagury, George Candillis, Alexis Josic and Shadrach Woods—to design housing in the Hay Mohammedi neighborhood of Casablanca that provided a \"culturally specific living tissue\" for laborers and migrants from the countryside. Sémiramis, Nid d’Abeille (Honeycomb), and Carrières Centrales were some of the first examples of this Vernacular Modernism. 
+In the early 1950s, Michel Écochard, director of urban planning under the French Protectorate in Morocco, commissioned GAMMA (Groupe des Architectes Modernes Marocains)—which initially included the architects Elie Azagury, George Candillis, Alexis Josic and Shadrach Woods—to design housing in the Hay Mohammedi neighborhood of Casablanca that provided a "culturally specific living tissue" for laborers and migrants from the countryside. Sémiramis, Nid d’Abeille (Honeycomb), and Carrières Centrales were some of the first examples of this Vernacular Modernism. 
 
-At the 1953 Congrès Internationaux d'Architecture Moderne (CIAM), ATBAT-Afrique—the Africa branch of Atelier des Bâtisseurs founded in 1947 by figures including Le Corbusier, Vladimir Bodiansky, and André Wogenscky—prepared a study of Casablanca's bidonvilles entitled \"Habitat for the Greatest Number.\" The presenters, Georges Candilis and Michel Ecochard, argued—against doctrine—that architects must consider local culture and climate in their designs. This generated great debate among modernist architects around the world and eventually provoked a schism and the creation of Team 10. Ecochard's 8x8 meter model at Carrières Centrales earned him recognition as a pioneer in the architecture of collective housing, though his Moroccan colleague Elie Azagury was critical of him for serving as a tool of the French colonial regime and for ignoring the economic and social necessity that Moroccans live in higher density vertical housing.
+At the 1953 Congrès Internationaux d'Architecture Moderne (CIAM), ATBAT-Afrique—the Africa branch of Atelier des Bâtisseurs founded in 1947 by figures including Le Corbusier, Vladimir Bodiansky, and André Wogenscky—prepared a study of Casablanca's bidonvilles entitled "Habitat for the Greatest Number." The presenters, Georges Candilis and Michel Ecochard, argued—against doctrine—that architects must consider local culture and climate in their designs. This generated great debate among modernist architects around the world and eventually provoked a schism and the creation of Team 10. Ecochard's 8x8 meter model at Carrières Centrales earned him recognition as a pioneer in the architecture of collective housing, though his Moroccan colleague Elie Azagury was critical of him for serving as a tool of the French colonial regime and for ignoring the economic and social necessity that Moroccans live in higher density vertical housing.
 
 Postwar modernism in the United States (1945–1985)
 
@@ -1133,7 +1133,7 @@ Solomon Guggenheim Museum, by Frank Lloyd Wright (1946–1959)
 
 \t\t
 
-Frank Lloyd Wright was eighty years old in 1947; he had been present at the beginning of American modernism, and though he refused to accept that he belonged to any movement, continued to play a leading role almost to its end. One of his most original late projects was the campus of Florida Southern College in Lakeland, Florida, begun in 1941 and completed in 1943. He designed nine new buildings in a style that he described as \"The Child of the Sun\". He wrote that he wanted the campus to \"grow out of the ground and into the light, a child of the sun.\"
+Frank Lloyd Wright was eighty years old in 1947; he had been present at the beginning of American modernism, and though he refused to accept that he belonged to any movement, continued to play a leading role almost to its end. One of his most original late projects was the campus of Florida Southern College in Lakeland, Florida, begun in 1941 and completed in 1943. He designed nine new buildings in a style that he described as "The Child of the Sun". He wrote that he wanted the campus to "grow out of the ground and into the light, a child of the sun."
 
 He completed several notable projects in the 1940s, including the Johnson Wax Headquarters and the Price Tower in Bartlesville, Oklahoma (1956). The building is unusual that it is supported by its central core of four elevator shafts; the rest of the building is cantilevered to this core, like the branches of a tree. Wright originally planned the structure for an apartment building in New York City. That project was cancelled because of the Great Depression, and he adapted the design for an oil pipeline and equipment company in Oklahoma. He wrote that in New York City his building would have been lost in a forest of tall buildings, but that in Oklahoma it stood alone. The design is asymmetrical; each side is different.
 
@@ -1215,7 +1215,7 @@ The Seagram Building, New York City, 1958, by Ludwig Mies van der Rohe
 
 \t\t
 
-Ludwig Mies van der Rohe described his architecture with the famous saying, \"Less is more\". As the director of the school of architecture of what is now called the Illinois Institute of Technology from 1939 to 1956, Mies (as he was commonly known) made Chicago the leading city for American modernism in the postwar years. He constructed new buildings for the Institute in modernist style, two high-rise apartment buildings on Lakeshore Drive (1948–51), which became models for high-rises across the country. Other major works included Farnsworth House in Plano, Illinois (1945–1951), a simple horizontal glass box that had an enormous influence on American residential architecture. The Chicago Convention Center (1952–54) and Crown Hall at the Illinois Institute of Technology (1950–56), and The Seagram Building in New York City (1954–58) also set a new standard for purity and elegance. Based on granite pillars, the smooth glass and steel walls were given a touch of color by the use of bronze-toned I-beams in the structure. He returned to Germany in 1962–68 to build the new Nationalgallerie in Berlin. His students and followers included Philip Johnson, and Eero Saarinen, whose work was substantially influenced by his ideas.
+Ludwig Mies van der Rohe described his architecture with the famous saying, "Less is more". As the director of the school of architecture of what is now called the Illinois Institute of Technology from 1939 to 1956, Mies (as he was commonly known) made Chicago the leading city for American modernism in the postwar years. He constructed new buildings for the Institute in modernist style, two high-rise apartment buildings on Lakeshore Drive (1948–51), which became models for high-rises across the country. Other major works included Farnsworth House in Plano, Illinois (1945–1951), a simple horizontal glass box that had an enormous influence on American residential architecture. The Chicago Convention Center (1952–54) and Crown Hall at the Illinois Institute of Technology (1950–56), and The Seagram Building in New York City (1954–58) also set a new standard for purity and elegance. Based on granite pillars, the smooth glass and steel walls were given a touch of color by the use of bronze-toned I-beams in the structure. He returned to Germany in 1962–68 to build the new Nationalgallerie in Berlin. His students and followers included Philip Johnson, and Eero Saarinen, whose work was substantially influenced by his ideas.
 
 Richard Neutra and Charles & Ray Eames
 
@@ -1305,7 +1305,7 @@ The Metropolitan Opera House at Lincoln Center in New York City by Wallace Harri
 
 \t\t
 
-Many of the notable modern buildings in the postwar years were produced by two architectural mega-agencies, which brought together large teams of designers for very complex projects. The firm of Skidmore, Owings & Merrill was founded in Chicago in 1936 by Louis Skidmore and Nathaniel Owings, and joined in 1939 by engineer John Merrill, It soon went under the name of SOM. Its first big project was Oak Ridge National Laboratory in Oak Ridge, Tennessee, the gigantic government installation that produced plutonium for the first nuclear weapons. In 1964 the firm had eighteen \"partner-owners\", 54 \"associate participants,\"and 750 architects, technicians, designers, decorators, and landscape architects. Their style was largely inspired by the work of Ludwig Mies van der Rohe, and their buildings soon had a large place in the New York skyline, including the Lever House (1951–52) and the Manufacturers Trust Company Building (1954). Later buildings by the firm include Beinecke Library at Yale University (1963), the Willis Tower, formerly Sears Tower in Chicago (1973) and One World Trade Center in New York City (2013), which replaced the building destroyed in the terrorist attack of September 11, 2001.
+Many of the notable modern buildings in the postwar years were produced by two architectural mega-agencies, which brought together large teams of designers for very complex projects. The firm of Skidmore, Owings & Merrill was founded in Chicago in 1936 by Louis Skidmore and Nathaniel Owings, and joined in 1939 by engineer John Merrill, It soon went under the name of SOM. Its first big project was Oak Ridge National Laboratory in Oak Ridge, Tennessee, the gigantic government installation that produced plutonium for the first nuclear weapons. In 1964 the firm had eighteen "partner-owners", 54 "associate participants,"and 750 architects, technicians, designers, decorators, and landscape architects. Their style was largely inspired by the work of Ludwig Mies van der Rohe, and their buildings soon had a large place in the New York skyline, including the Lever House (1951–52) and the Manufacturers Trust Company Building (1954). Later buildings by the firm include Beinecke Library at Yale University (1963), the Willis Tower, formerly Sears Tower in Chicago (1973) and One World Trade Center in New York City (2013), which replaced the building destroyed in the terrorist attack of September 11, 2001.
 
 Wallace Harrison played a major part in the modern architectural history of New York; as the architectural advisor of the Rockefeller Family, he helped design Rockefeller Center, the major Art Deco architectural project of the 1930s. He was supervising architect for the 1939 New York World's Fair, and, with his partner Max Abramowitz, was the builder and chief architect of the headquarters of the United Nations; Harrison headed a committee of international architects, which included Oscar Niemeyer (who produced the original plan approved by the committee) and Le Corbusier. Other landmark New York buildings designed by Harrison and his firm included Metropolitan Opera House, the master plan for Lincoln Center, and John F. Kennedy International Airport.
 
@@ -1543,11 +1543,11 @@ Willis Tower in Chicago was the first building to use the bundled-tube design.
 
 In 1955, employed by the architectural firm Skidmore, Owings & Merrill (SOM), he began working in Chicago. He was made a partner in 1966. He worked the rest of his life side by side with Architect Bruce Graham.  Khan introduced design methods and concepts for efficient use of material in building architecture. His first building to employ the tube structure was the Chestnut De-Witt apartment building. During the 1960s and 1970s, he became noted for his designs for Chicago's 100-story John Hancock Center, which was the first building to use the trussed-tube design, and 110-story Sears Tower, since renamed Willis Tower, the tallest building in the world from 1973 until 1998, which was the first building to use the framed-tube design. 
 
-He believed that engineers needed a broader perspective on life, saying, \"The technical man must not be lost in his own technology; he must be able to appreciate life, and life is art, drama, music, and most importantly, people.\" Khan's personal papers, most of which were in his office at the time of his death, are held by the Ryerson & Burnham Libraries at the Art Institute of Chicago. The Fazlur Khan Collection includes manuscripts, sketches, audio cassette tapes, slides and other materials regarding his work.
+He believed that engineers needed a broader perspective on life, saying, "The technical man must not be lost in his own technology; he must be able to appreciate life, and life is art, drama, music, and most importantly, people." Khan's personal papers, most of which were in his office at the time of his death, are held by the Ryerson & Burnham Libraries at the Art Institute of Chicago. The Fazlur Khan Collection includes manuscripts, sketches, audio cassette tapes, slides and other materials regarding his work.
 
 Khan's seminal work of developing tall building structural systems are still used today as the starting point when considering design options for tall buildings. Tube structures have since been used in many skyscrapers, including the construction of the World Trade Center, Aon Centre, Petronas Towers, Jin Mao Building, Bank of China Tower and most other buildings in excess of 40 stories constructed since the 1960s. The strong influence of tube structure design is also evident in the world's current tallest skyscraper, the Burj Khalifa in Dubai. According to Stephen Bayley of The Daily Telegraph:
 
-Khan invented a new way of building tall. ... So Fazlur Khan created the unconventional skyscraper. Reversing the logic of the steel frame, he decided that the building's external envelope could – given enough trussing, framing and bracing – be the structure itself. This made buildings even lighter. The \"bundled tube\" meant buildings no longer need be boxlike in appearance: they could become sculpture. Khan's amazing insight – he was name-checked by Obama in his Cairo University speech last year – changed both the economics and the morphology of supertall buildings. And it made Burj Khalifa possible: proportionately, Burj employs perhaps half the steel that conservatively supports the Empire State Building. ... Burj Khalifa is the ultimate expression of his audacious, lightweight design philosophy.
+Khan invented a new way of building tall. ... So Fazlur Khan created the unconventional skyscraper. Reversing the logic of the steel frame, he decided that the building's external envelope could – given enough trussing, framing and bracing – be the structure itself. This made buildings even lighter. The "bundled tube" meant buildings no longer need be boxlike in appearance: they could become sculpture. Khan's amazing insight – he was name-checked by Obama in his Cairo University speech last year – changed both the economics and the morphology of supertall buildings. And it made Burj Khalifa possible: proportionately, Burj employs perhaps half the steel that conservatively supports the Empire State Building. ... Burj Khalifa is the ultimate expression of his audacious, lightweight design philosophy.
 
 Minoru Yamasaki
 
@@ -1581,7 +1581,7 @@ The Century Plaza Towers in Los Angeles, California (1975)
 
 \t\t
 
-In the United States, Minoru Yamasaki found major independent success in implementing unique engineering solutions to then-complicated problems, including the space that elevator shafts took up on each floor, and dealing with his personal fear of heights. During this period, he created a number of office buildings which led to his innovative design of the 1,360 ft (410 m) towers of the World Trade Center in 1964, which began construction March 21, 1966. The first of the towers was finished in 1970. Many of his buildings feature superficial details inspired by the pointed arches of Gothic architecture, and make use of extremely narrow vertical windows. This narrow-windowed style arose from his own personal fear of heights. One particular design challenge of the World Trade Center's design related to the efficacy of the elevator system, which was unique in the world. Yamasaki integrated the fastest elevators at the time, running at 1,700 feet per minute. Instead of placing a large traditional elevator shaft in the core of each tower, Yamasaki created the Twin Towers' \"Skylobby\" system. The Skylobby design created three separate, connected elevator systems which would serve different segments of the building, depending on which floor was chosen, saving approximately 70% of the space used for a traditional shaft. The space saved was then used for office space. In addition to these accomplishments, he had also designed the Pruitt-Igoe Housing Project, the largest ever housing project built in the United States, which was fully torn down in 1976 due to bad market conditions and the decrepit state of the buildings themselves. Separately, he had also designed the Century Plaza Towers, among 64 other projects he had developed during his career.
+In the United States, Minoru Yamasaki found major independent success in implementing unique engineering solutions to then-complicated problems, including the space that elevator shafts took up on each floor, and dealing with his personal fear of heights. During this period, he created a number of office buildings which led to his innovative design of the 1,360 ft (410 m) towers of the World Trade Center in 1964, which began construction March 21, 1966. The first of the towers was finished in 1970. Many of his buildings feature superficial details inspired by the pointed arches of Gothic architecture, and make use of extremely narrow vertical windows. This narrow-windowed style arose from his own personal fear of heights. One particular design challenge of the World Trade Center's design related to the efficacy of the elevator system, which was unique in the world. Yamasaki integrated the fastest elevators at the time, running at 1,700 feet per minute. Instead of placing a large traditional elevator shaft in the core of each tower, Yamasaki created the Twin Towers' "Skylobby" system. The Skylobby design created three separate, connected elevator systems which would serve different segments of the building, depending on which floor was chosen, saving approximately 70% of the space used for a traditional shaft. The space saved was then used for office space. In addition to these accomplishments, he had also designed the Pruitt-Igoe Housing Project, the largest ever housing project built in the United States, which was fully torn down in 1976 due to bad market conditions and the decrepit state of the buildings themselves. Separately, he had also designed the Century Plaza Towers, among 64 other projects he had developed during his career.
 
 Postwar modernism in Europe (1945–1975)
 
@@ -1669,7 +1669,7 @@ Warszawa Centralna railway station in Poland by Arseniusz Romanowicz (1975)
 \t\t\t
 
 \t\t\t
-Municipal Orphanage in Amsterdam by Aldo van Eyck (1960), \"Aesthetics of Number\", architectural movement Structuralism.
+Municipal Orphanage in Amsterdam by Aldo van Eyck (1960), "Aesthetics of Number", architectural movement Structuralism.
 
 \t\t\t
 
@@ -1791,7 +1791,7 @@ The Alfonso Caro Auditorium in UNAM, Mexico City, by Eugenio Peschard (1953)
 
 \t\t
 
-Architectural historians sometimes label Latin American modernism as \"tropical modernism.\" This reflects architects who adapted modernism to the tropical climate as well as the sociopolitical contexts of Latin America.
+Architectural historians sometimes label Latin American modernism as "tropical modernism." This reflects architects who adapted modernism to the tropical climate as well as the sociopolitical contexts of Latin America.
 
 Brazil became a showcase of modern architecture in the late 1930s through the work of Lucio Costa (1902–1998) and Oscar Niemeyer (1907–2012). Costa had the lead and Niemeyer collaborated on the Ministry of Education and Health in Rio de Janeiro (1936–43) and the Brazilian pavilion at the 1939 World's Fair in New York. Following the war, Niemeyer, along with Le Corbusier, conceived the form of the United Nations Headquarters constructed by Walter Harrison.
 
@@ -1927,7 +1927,7 @@ List of post-war Category A listed buildings in Scotland
 
 References
 
-^ \"What is Modern architecture?\". Royal Institute of British Architects. Retrieved 15 October 2018.
+^ "What is Modern architecture?". Royal Institute of British Architects. Retrieved 15 October 2018.
 
 ^ Tietz 1999, pp. 6–10.
 
@@ -1935,13 +1935,13 @@ References
 
 ^ Bony 2012, pp. 14–16.
 
-^ a b \"François Coignet | French house builder\". Encyclopedia Britannica.
+^ a b "François Coignet | French house builder". Encyclopedia Britannica.
 
 ^ Bony 2012, p. 42.
 
 ^ Bony 2012, p. 16.
 
-^ Crouch, Christopher. 2000. \"Modernism in Art Design and Architecture\", New York: St. Martins Press.ISBN 0-312-21830-3 (cloth) ISBN 0-312-21832-X (pbk)
+^ Crouch, Christopher. 2000. "Modernism in Art Design and Architecture", New York: St. Martins Press.ISBN 0-312-21830-3 (cloth) ISBN 0-312-21832-X (pbk)
 
 ^ Viollet Le-duc, Entretiens sur Architecture
 
@@ -1963,7 +1963,7 @@ References
 
 ^ Lucius Burckhardt (1987) . The Werkbund. ? : Hyperion Press. ISBN. Frederic J. Schwartz (1996). The Werkbund: Design Theory and Mass Culture Before the First World War. New Haven, Conn. : Yale University Press. ISBN.
 
-^ Mark Jarzombek. \"Joseph August Lux: Werkbund Promoter, Historian of a Lost Modernity,\" Journal of the Society of Architectural Historians 63/1 (June 2004): 202–219.
+^ Mark Jarzombek. "Joseph August Lux: Werkbund Promoter, Historian of a Lost Modernity," Journal of the Society of Architectural Historians 63/1 (June 2004): 202–219.
 
 ^ Tietz 1999, p. 19.
 
@@ -1973,7 +1973,7 @@ References
 
 ^ Burchard & Bush-Brown 1966, p. 83.
 
-^ Le Corbusier, Vers une architecture\", (1923), Flammarion edition (1995), pages XVIII-XIX
+^ Le Corbusier, Vers une architecture", (1923), Flammarion edition (1995), pages XVIII-XIX
 
 ^ Bony 2012, p. 83.
 
@@ -1991,9 +1991,9 @@ References
 
 ^ Bony 2012, pp. 86–87.
 
-^ \"Alexey Shchusev (1873–1949)\". Retrieved 2015-08-16.
+^ "Alexey Shchusev (1873–1949)". Retrieved 2015-08-16.
 
-^ Udovički-Selb, Danilo (2012-01-01). \"Facing Hitler's Pavilion: The Uses of Modernity in the Soviet Pavilion at the 1937 Paris International Exhibition\". Journal of Contemporary History. 47 (1): 13–47. doi:10.1177/0022009411422369. ISSN 0022-0094.
+^ Udovički-Selb, Danilo (2012-01-01). "Facing Hitler's Pavilion: The Uses of Modernity in the Soviet Pavilion at the 1937 Paris International Exhibition". Journal of Contemporary History. 47 (1): 13–47. doi:10.1177/0022009411422369. ISSN 0022-0094.
 
 ^ Bony 2012, pp. 84–85.
 
@@ -2005,7 +2005,7 @@ References
 
 ^ Ducher 2014, p. 204.
 
-^ a b \"Growth, Efficiency, and Modernism\" (PDF). U.S. General Services Administration. 2006 . p. 27. Archived from the original (PDF) on 2011-03-31. Retrieved March 31, 2011.
+^ a b "Growth, Efficiency, and Modernism" (PDF). U.S. General Services Administration. 2006 . p. 27. Archived from the original (PDF) on 2011-03-31. Retrieved March 31, 2011.
 
 ^ Bony 2012, p. 99.
 
@@ -2027,25 +2027,25 @@ References
 
 ^ a b Dahmani, Iman; El moumni, Lahbib; Meslil, El mahdi (2019). Modern Casablanca Map. Translated by Borim, Ian. Casablanca: MAMMA Group. ISBN 978-9920-9339-0-2.
 
-^ \"Adaptations of Vernacular Modernism in Casablanca\". Retrieved 2020-04-15.
+^ "Adaptations of Vernacular Modernism in Casablanca". Retrieved 2020-04-15.
 
-^ \"TEAM 10\". www.team10online.org. Retrieved 2020-04-17.
+^ "TEAM 10". www.team10online.org. Retrieved 2020-04-17.
 
-^ a b \"The Gamma Grid | Model House\". transculturalmodernism.org. Retrieved 2019-10-18.
+^ a b "The Gamma Grid | Model House". transculturalmodernism.org. Retrieved 2019-10-18.
 
 ^ Dahmani, Iman; El moumni, Lahbib; Meslil, El mahdi (2019). Modern Casablanca Map. Translated by Borim, Ian. Casablanca: MAMMA Group. ISBN 978-9920-9339-0-2.
 
-^ \"TEAM 10\". www.team10online.org. Retrieved 2020-04-17.
+^ "TEAM 10". www.team10online.org. Retrieved 2020-04-17.
 
-^ Pedret, Annie. \"TEAM 10 Introduction\". www.team10online.org. Retrieved 2019-10-18.
+^ Pedret, Annie. "TEAM 10 Introduction". www.team10online.org. Retrieved 2019-10-18.
 
-^ Chnaoui, Aziza (2010-11-02). \"Depoliticizing Group GAMMA: contesting modernism in Morocco\". In Lu, Duanfang (ed.). Third World Modernism: Architecture, Development and Identity. Routledge. ISBN 9781136895487.
+^ Chnaoui, Aziza (2010-11-02). "Depoliticizing Group GAMMA: contesting modernism in Morocco". In Lu, Duanfang (ed.). Third World Modernism: Architecture, Development and Identity. Routledge. ISBN 9781136895487.
 
-^ \"Habitat collectif méditerranéen et dynamique des espaces ouverts\". resohab.univ-paris1.fr. Retrieved 2020-04-18.
+^ "Habitat collectif méditerranéen et dynamique des espaces ouverts". resohab.univ-paris1.fr. Retrieved 2020-04-18.
 
-^ Fabrizi, Mariabruna (2016-12-07). \"Understanding the Grid /1: Michel Ecochard's Planning and Building...\" SOCKS. Retrieved 2020-04-18.
+^ Fabrizi, Mariabruna (2016-12-07). "Understanding the Grid /1: Michel Ecochard's Planning and Building..." SOCKS. Retrieved 2020-04-18.
 
-^ Chaouni, Aziza (2014-07-03). \"Interview with Elie Azagury\". Journal of Architectural Education. 68 (2): 210–216. doi:10.1080/10464883.2014.943632. ISSN 1046-4883.
+^ Chaouni, Aziza (2014-07-03). "Interview with Elie Azagury". Journal of Architectural Education. 68 (2): 210–216. doi:10.1080/10464883.2014.943632. ISSN 1046-4883.
 
 ^ Bony 2012, p. 120.
 
@@ -2069,15 +2069,15 @@ References
 
 ^ Bony 2012, p. 210.
 
-^ \"Obama Mentions Fazlur Rahman Khan\". The Muslim Observer. 19 June 2009. Archived from the original on 19 June 2013. Retrieved 11 October 2011.
+^ "Obama Mentions Fazlur Rahman Khan". The Muslim Observer. 19 June 2009. Archived from the original on 19 June 2013. Retrieved 11 October 2011.
 
-^ Baker, William F. (2001). \"Structural Innovation\" (PDF). Tall Buildings and Urban Habitat: Cities in the Third Millennium. New York: Spon Press. pp. 481–493. ISBN 0-415-23241-4. Archived from the original (PDF) on 2 February 2014.
+^ Baker, William F. (2001). "Structural Innovation" (PDF). Tall Buildings and Urban Habitat: Cities in the Third Millennium. New York: Spon Press. pp. 481–493. ISBN 0-415-23241-4. Archived from the original (PDF) on 2 February 2014.
 
-^ Stephen Bayley (5 January 2010). \"Burj Dubai: The new pinnacle of vanity\". The Daily Telegraph. Retrieved 2010-02-26.
+^ Stephen Bayley (5 January 2010). "Burj Dubai: The new pinnacle of vanity". The Daily Telegraph. Retrieved 2010-02-26.
 
 ^ Remarks by the Hon. Richard J. Hughes, World Trade Center Press Conference, New York Hilton Hotel, January 18, 1964.
 
-^ \"History of the Twin Towers\". Port Authority of New York and New Jersey. Retrieved 2014-12-12.
+^ "History of the Twin Towers". Port Authority of New York and New Jersey. Retrieved 2014-12-12.
 
 ^ James, Glanz; Lipton, Eric (2003). City in the sky: the rise and fall of the World Trade Center. Macmillan. p. 109. ISBN 978-0-8050-7428-4.
 
@@ -2101,9 +2101,9 @@ References
 
 ^ Mark Byrnes An African City's Unusual Preservation Legacy 8 February 2012 Atlantic Cities
 
-^ \"Eritrea capital Asmera makes World Heritage list\". 8 July 2017. Retrieved 8 July 2017.
+^ "Eritrea capital Asmera makes World Heritage list". 8 July 2017. Retrieved 8 July 2017.
 
-^ infomediaire. \"Architecture : Casablanca tient sa carte moderne – Infomédiaire\" (in French). Retrieved 2020-05-19.
+^ infomediaire. "Architecture : Casablanca tient sa carte moderne – Infomédiaire" (in French). Retrieved 2020-05-19.
 
 Bibliography
 
@@ -2149,7 +2149,7 @@ Six Building Designers Who Are Redefining Modern Architecture, an April 2011 rad
 
 Architecture and Modernism
 
-\"Preservation of Modern Buildings\" edition of AIA Architect
+"Preservation of Modern Buildings" edition of AIA Architect
 
 Brussels50s60s.be, Overview of the architecture of the 1950s and 1960s in Brussels
 
@@ -3560,6 +3560,3 @@ HDS: 011188
 LCCN: sh99004838
 
 NDL: 00565811
-
-"
-

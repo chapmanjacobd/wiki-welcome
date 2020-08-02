@@ -1,6 +1,6 @@
 "For the regions of the sovereign state, see Bosnia (region) and Herzegovina.
 
-\"Bosnia\" redirects here. For other uses, see Bosnia (disambiguation).
+"Bosnia" redirects here. For other uses, see Bosnia (disambiguation).
 
 Country in the Balkans
 
@@ -14,7 +14,7 @@ Bosna i Hercegovina
 
  Coat of arms
 
-Anthem: \"Državna himna Bosne i Hercegovine\" / \"Државна химна Босне и Херцеговине\"
+Anthem: "Državna himna Bosne i Hercegovine" / "Државна химна Босне и Херцеговине"
 
 Location of Bosnia and Herzegovina (green)in Europe (dark grey)
 
@@ -194,7 +194,7 @@ Bosnia and Herzegovina is bordered by Serbia to the east, Montenegro to the sout
 
 Bosnia and Herzegovina was settled at least from Upper Palaeolithic and has preserved prehistoric art found in Badanj cave. The permanent human settlement traces back to the Neolithic age, inhabited by cultures such as Butmir, Kakanj, and Vučedol. After arrival of the first Indo-Europeans it was populated by several Illyrian and Celtic civilizations. Culturally, politically, and socially, the country has a rich but complex history, having been first settled by the South Slavic peoples that populate the area today from the 6th through to the 9th centuries. In the 12th century the Banate of Bosnia was established, which evolved into the Kingdom of Bosnia in the 14th century, after which it was annexed into the Ottoman Empire, under whose rule it remained from the mid-15th to the late 19th centuries. The Ottomans brought Islam to the region, and altered much of the cultural and social outlook of the country. This was followed by annexation into the Austro-Hungarian Monarchy, which lasted up until World War I. In the interwar period, Bosnia and Herzegovina was part of the Kingdom of Yugoslavia and after World War II, it was granted full republic status in the newly formed Socialist Federal Republic of Yugoslavia. Following the dissolution of Yugoslavia, the republic proclaimed independence in 1992, which was followed by the Bosnian War, lasting until late 1995 with the Dayton Agreement.
 
-The country is home to three main ethnic groups or, officially, constituent peoples, as specified in the constitution. Bosniaks are the largest group of the three, with Serbs second, and Croats third. A native of Bosnia and Herzegovina, regardless of ethnicity, is usually identified in English as a Bosnian. Minorities, defined under the constitutional nomenclature \"Others\", include Jews, Roma, Ukrainians, and Turks. Bosnia and Herzegovina has a bicameral legislature and a three-member Presidency composed of a member of each major ethnic group. However, the central government's power is highly limited, as the country is largely decentralized and comprises two autonomous entities: the Federation of Bosnia and Herzegovina and Republika Srpska, with a third unit, the Brčko District, governed under local government. The Federation of Bosnia and Herzegovina consists of 10 cantons.
+The country is home to three main ethnic groups or, officially, constituent peoples, as specified in the constitution. Bosniaks are the largest group of the three, with Serbs second, and Croats third. A native of Bosnia and Herzegovina, regardless of ethnicity, is usually identified in English as a Bosnian. Minorities, defined under the constitutional nomenclature "Others", include Jews, Roma, Ukrainians, and Turks. Bosnia and Herzegovina has a bicameral legislature and a three-member Presidency composed of a member of each major ethnic group. However, the central government's power is highly limited, as the country is largely decentralized and comprises two autonomous entities: the Federation of Bosnia and Herzegovina and Republika Srpska, with a third unit, the Brčko District, governed under local government. The Federation of Bosnia and Herzegovina consists of 10 cantons.
 
 Bosnia and Herzegovina is a developing country and ranks 75th in terms of human development. Its economy is dominated by the industry and agriculture sectors, followed by the tourism and service sectors. The country has a social security and universal healthcare system, and primary- and secondary-level education is tuition-free. It is a member of the UN, OSCE, Council of Europe, PfP, CEFTA, and a founding member of the Union for the Mediterranean upon its establishment in July 2008. The country is an applicant for membership to the European Union and has been a candidate for NATO membership since April 2010, when it received a Membership Action Plan. Bosnia and Herzegovina also experienced a significant rise in tourism in recent years.
 
@@ -286,11 +286,11 @@ Contents
 
 Etymology
 
-The first preserved widely acknowledged mention of Bosnia is in De Administrando Imperio, a politico-geographical handbook written by the Byzantine emperor Constantine VII in the mid-10th century (between 948 and 952) describing the \"small land\" (χωρίον in Greek) of \"Bosona\" (Βοσώνα).
+The first preserved widely acknowledged mention of Bosnia is in De Administrando Imperio, a politico-geographical handbook written by the Byzantine emperor Constantine VII in the mid-10th century (between 948 and 952) describing the "small land" (χωρίον in Greek) of "Bosona" (Βοσώνα).
 
-The name is believed to have derived from the hydronym of the river Bosna coursing through the Bosnian heartland. According to philologist Anton Mayer the name Bosna could derive from Illyrian *\"Bass-an-as\"), which would derive from the Proto-Indo-European root \"bos\" or \"bogh\"—meaning \"the running water\". According to English medievalist William Miller the Slavic settlers in Bosnia \"adapted the Latin designation  Basante, to their own idiom by calling the stream Bosna and themselves Bosniaks \".
+The name is believed to have derived from the hydronym of the river Bosna coursing through the Bosnian heartland. According to philologist Anton Mayer the name Bosna could derive from Illyrian *"Bass-an-as"), which would derive from the Proto-Indo-European root "bos" or "bogh"—meaning "the running water". According to English medievalist William Miller the Slavic settlers in Bosnia "adapted the Latin designation  Basante, to their own idiom by calling the stream Bosna and themselves Bosniaks ".
 
-The name Herzegovina (\"herzog's \", from German word for \"duke\") originates from Bosnian magnate Stjepan Vukčić Kosača's title, \"Herceg (Herzog) of Hum and the Coast\" (1448). Hum, formerly Zahumlje, was an early medieval principality that was conquered by the Bosnian Banate in the first half of the 14th century. The region was administered by the Ottomans as the Sanjak of Herzegovina (Hersek) within the Eyalet of Bosnia up until the formation of the short-lived Herzegovina Eyalet in the 1830s, which remerged in the 1850s, after which the entity became commonly known as Bosnia and Herzegovina.
+The name Herzegovina ("herzog's ", from German word for "duke") originates from Bosnian magnate Stjepan Vukčić Kosača's title, "Herceg (Herzog) of Hum and the Coast" (1448). Hum, formerly Zahumlje, was an early medieval principality that was conquered by the Bosnian Banate in the first half of the 14th century. The region was administered by the Ottomans as the Sanjak of Herzegovina (Hersek) within the Eyalet of Bosnia up until the formation of the short-lived Herzegovina Eyalet in the 1830s, which remerged in the 1850s, after which the entity became commonly known as Bosnia and Herzegovina.
 
 On initial proclamation of independence in 1992, the country's official name was the Republic of Bosnia and Herzegovina but following the 1995 Dayton Agreement and the new constitution that accompanied it the official name was changed to Bosnia and Herzegovina.
 
@@ -325,7 +325,7 @@ Conflict between the Illyrians and Romans started in 229 BC, but Rome did not co
 Following the split of the Empire between 337 and 395 AD, Dalmatia and Pannonia became parts of the Western Roman Empire. The region was conquered by the Ostrogoths in 455 AD. It subsequently changed hands between the Alans and the Huns. By the 6th century, Emperor Justinian had reconquered the area for the Byzantine Empire. Slavs overwhelmed the Balkans in the 6th and 7th centuries. Illyrian cultural traits were adopted by the South Slavs, as evidenced in certain customs and traditions, placenames, etc.
 Timothy Gregory explains:
 
-It is now generally agreed that the people who lived in the Balkans after the Slavic \"invasions\" were probably for the most part the same as those who had lived there earlier, although the creation of new political groups and arrival of small numbers of immigrants caused people to look at themselves as distinct from their neighbours, including the Byzantines.
+It is now generally agreed that the people who lived in the Balkans after the Slavic "invasions" were probably for the most part the same as those who had lived there earlier, although the creation of new political groups and arrival of small numbers of immigrants caused people to look at themselves as distinct from their neighbours, including the Byzantines.
 
 Gregory, Timothy E. (2010). A History of Byzantium (2 ed.). Chichester: Wiley-Blackwell. p. 169.
 
@@ -336,15 +336,15 @@ Middle Ages
 Hval's Codex, illustrated Slavic manuscript from medieval Bosnia.
 
 The Early Slavs raided the Western Balkans, including Bosnia, in the 6th and early 7th century (amid the Migration Period), and were composed of small tribal units drawn from a single Slavic confederation known to the Byzantines as the Sclaveni (whilst the related Antes, roughly speaking, colonized the eastern portions of the Balkans).
-Tribes recorded by the ethnonyms of \"Serb\" and \"Croat\" are described as a second, latter, migration of different people during the second quarter of the 7th century who do not seem to have been particularly numerous; these early \"Serb\" and \"Croat\" tribes, whose exact identity is subject to scholarly debate, came to predominate over the Slavs in the neighbouring regions. The bulk of Bosnia proper, however, appears to have been a territory between Serb and Croat rule and is not enumerated as one of the regions settled by those tribes.
+Tribes recorded by the ethnonyms of "Serb" and "Croat" are described as a second, latter, migration of different people during the second quarter of the 7th century who do not seem to have been particularly numerous; these early "Serb" and "Croat" tribes, whose exact identity is subject to scholarly debate, came to predominate over the Slavs in the neighbouring regions. The bulk of Bosnia proper, however, appears to have been a territory between Serb and Croat rule and is not enumerated as one of the regions settled by those tribes.
 
-Bosnia is first mentioned as a land (horion Bosona) in Byzantine Emperor Constantine Porphyrogenitus' De Administrando Imperio in the mid 10th century, at the end of a chapter (Chap. 32) entitled Of the Serbs and the country in which they now dwell. This has been scholarly interpreted in several ways and used especially by the Serb national ideologists to prove Bosnia as originally a \"Serb\" land. Other scholars have asserted the inclusion of Bosnia into Chapter 32 to merely be the result of Serbian Grand Duke Časlav's temporary rule over Bosnia at the time, while also pointing out Porphyrogenitus does not say anywhere explicitly that Bosnia is a \"Serb land\". In fact, the very translation of the critical sentence where the word Bosona (Bosnia) appears is subject to varying interpretation.
+Bosnia is first mentioned as a land (horion Bosona) in Byzantine Emperor Constantine Porphyrogenitus' De Administrando Imperio in the mid 10th century, at the end of a chapter (Chap. 32) entitled Of the Serbs and the country in which they now dwell. This has been scholarly interpreted in several ways and used especially by the Serb national ideologists to prove Bosnia as originally a "Serb" land. Other scholars have asserted the inclusion of Bosnia into Chapter 32 to merely be the result of Serbian Grand Duke Časlav's temporary rule over Bosnia at the time, while also pointing out Porphyrogenitus does not say anywhere explicitly that Bosnia is a "Serb land". In fact, the very translation of the critical sentence where the word Bosona (Bosnia) appears is subject to varying interpretation.
 
 In time, Bosnia formed a unit under its own ruler, who called himself Bosnian. Bosnia, along with other territories, became part of Duklja in the 11th century, although it retained its own nobility and institutions.
 
 Bosnia in the Middle Ages spanning the Banate of Bosnia and the succeeding Kingdom of Bosnia.
 
-In the High Middle Ages political circumstance led to the area being contested between the Kingdom of Hungary and the Byzantine Empire. Following another shift of power between the two in the early 12th century, Bosnia found itself outside the control of both and emerged as the Banate of Bosnia (under the rule of local bans). The first Bosnian ban known by name was Ban Borić. The second was Ban Kulin whose rule marked the start of a controversy involving the Bosnian Church – considered heretical by the Roman Catholic Church. In response to Hungarian attempts to use church politics regarding the issue as a way to reclaim sovereignty over Bosnia, Kulin held a council of local church leaders to renounce the heresy and embraced Catholicism in 1203. Despite this, Hungarian ambitions remained unchanged long after Kulin's death in 1204, waning only after an unsuccessful invasion in 1254. During this time the population was called Dobri Bošnjani (\"Good Bosnians\"). The names Serb and Croat, though occasionally appearing in peripheral areas, were not used in Bosnia proper.
+In the High Middle Ages political circumstance led to the area being contested between the Kingdom of Hungary and the Byzantine Empire. Following another shift of power between the two in the early 12th century, Bosnia found itself outside the control of both and emerged as the Banate of Bosnia (under the rule of local bans). The first Bosnian ban known by name was Ban Borić. The second was Ban Kulin whose rule marked the start of a controversy involving the Bosnian Church – considered heretical by the Roman Catholic Church. In response to Hungarian attempts to use church politics regarding the issue as a way to reclaim sovereignty over Bosnia, Kulin held a council of local church leaders to renounce the heresy and embraced Catholicism in 1203. Despite this, Hungarian ambitions remained unchanged long after Kulin's death in 1204, waning only after an unsuccessful invasion in 1254. During this time the population was called Dobri Bošnjani ("Good Bosnians"). The names Serb and Croat, though occasionally appearing in peripheral areas, were not used in Bosnia proper.
 
 Bosnian history from then until the early 14th century was marked by a power struggle between the Šubić and Kotromanić families. This conflict came to an end in 1322, when Stephen II Kotromanić became Ban. By the time of his death in 1353, he was successful in annexing territories to the north and west, as well as Zahumlje and parts of Dalmatia. He was succeeded by his ambitious nephew Tvrtko who, following a prolonged struggle with nobility and inter-family strife, gained full control of the country in 1367. By the year 1377, Bosnia was elevated into a kingdom with the coronation of Tvrtko as the first Bosnian King in Mile near Visoko in the Bosnian heartland.
 
@@ -360,7 +360,7 @@ The Ottoman conquest of Bosnia marked a new era in the country's history and int
 
 Within Bosnia the Ottomans introduced a number of key changes in the territory's socio-political administration; including a new landholding system, a reorganization of administrative units, and a complex system of social differentiation by class and religious affiliation.
 
-The four centuries of Ottoman rule also had a drastic impact on Bosnia's population make-up, which changed several times as a result of the empire's conquests, frequent wars with European powers, forced and economic migrations, and epidemics. A native Slavic-speaking Muslim community emerged and eventually became the largest of the ethno-religious groups due to lack of strong Christian church organizations and continuous rivalry between the Orthodox and Catholic churches, while the indigenous Bosnian Church disappeared altogether (ostensibly by conversion of its members to Islam). The Ottomans referred to them as kristianlar while the Orthodox and Catholics were called gebir or kafir, meaning \"unbeliever\". The Bosnian Franciscans (and the Catholic population as a whole) were protected by official imperial decrees and in accordance and full extent of Ottoman laws, however in effect, these often merely affected arbitrary rule and behavior of powerful local elite.
+The four centuries of Ottoman rule also had a drastic impact on Bosnia's population make-up, which changed several times as a result of the empire's conquests, frequent wars with European powers, forced and economic migrations, and epidemics. A native Slavic-speaking Muslim community emerged and eventually became the largest of the ethno-religious groups due to lack of strong Christian church organizations and continuous rivalry between the Orthodox and Catholic churches, while the indigenous Bosnian Church disappeared altogether (ostensibly by conversion of its members to Islam). The Ottomans referred to them as kristianlar while the Orthodox and Catholics were called gebir or kafir, meaning "unbeliever". The Bosnian Franciscans (and the Catholic population as a whole) were protected by official imperial decrees and in accordance and full extent of Ottoman laws, however in effect, these often merely affected arbitrary rule and behavior of powerful local elite.
 
 As the Ottoman Empire continued their rule in the Balkans (Rumelia), Bosnia was somewhat relieved of the pressures of being a frontier province, and experienced a period of general welfare. A number of cities, such as Sarajevo and Mostar, were established and grew into regional centers of trade and urban culture and were then visited by Ottoman traveler Evliya Çelebi in 1648. Within these cities, various Ottoman Sultans financed the construction of many works of Bosnian architecture such as the country's first library in Sarajevo, madrassas, a school of Sufi philosophy, and a clock tower (Sahat Kula), bridges such as the Stari Most, the Tsar's Mosque and the Gazi Husrev-beg's Mosque.
 
@@ -382,7 +382,7 @@ Main article: History of Bosnia and Herzegovina (1878–1918)
 
 At the Congress of Berlin in 1878, the Austro-Hungarian Foreign Minister Gyula Andrássy obtained the occupation and administration of Bosnia and Herzegovina, and he also obtained the right to station garrisons in the Sanjak of Novi Pazar, which would remain under Ottoman administration until 1908, when the Austro-Hungarian troops withdrew from the Sanjak.
 
-Although Austro-Hungarian officials quickly came to an agreement with Bosnians, tensions remained and a mass emigration of Bosnians occurred. However, a state of relative stability was reached soon enough and Austro-Hungarian authorities were able to embark on a number of social and administrative reforms they intended would make Bosnia and Herzegovina into a \"model\" colony.
+Although Austro-Hungarian officials quickly came to an agreement with Bosnians, tensions remained and a mass emigration of Bosnians occurred. However, a state of relative stability was reached soon enough and Austro-Hungarian authorities were able to embark on a number of social and administrative reforms they intended would make Bosnia and Herzegovina into a "model" colony.
 
 Habsburg rule had several key concerns in Bosnia. It tried to dissipate the South Slav nationalism by disputing the earlier Serb and Croat claims to Bosnia and encouraging identification of Bosnian or Bosniak identity. Habsburg rule also tried to provide for modernisation by codifying laws, introducing new political institutions, and establishing and expanding industries.
 
@@ -542,7 +542,7 @@ The third level of Bosnia and Herzegovina's political subdivision is manifested 
 
 The fourth level of political division in Bosnia and Herzegovina is the municipality. The Federation of Bosnia and Herzegovina is divided into 74 municipalities, and Republika Srpska into 63. Municipalities also have their own local government, and are typically based on the most significant city or place in their territory. As such, many municipalities have a long tradition and history with their present boundaries. Some others, however, were only created following the recent war after traditional municipalities were split by the Inter-Entity Boundary Line. Each canton in the Federation of Bosnia and Herzegovina consists of several municipalities, which are divided into local communities.
 
-Besides entities, cantons, and municipalities, Bosnia and Herzegovina also has four \"official\" cities. These are: Banja Luka, Mostar, Sarajevo, and East Sarajevo. The territory and government of the cities of Banja Luka and Mostar corresponds to the municipalities of the same name, while the cities of Sarajevo and East Sarajevo officially consist of several municipalities. Cities have their own city government whose power is in between that of the municipalities and cantons (or the entity, in the case of Republika Srpska).
+Besides entities, cantons, and municipalities, Bosnia and Herzegovina also has four "official" cities. These are: Banja Luka, Mostar, Sarajevo, and East Sarajevo. The territory and government of the cities of Banja Luka and Mostar corresponds to the municipalities of the same name, while the cities of Sarajevo and East Sarajevo officially consist of several municipalities. Cities have their own city government whose power is in between that of the municipalities and cantons (or the entity, in the case of Republika Srpska).
 
 More recently, several central institutions have been established (such as defense ministry, security ministry, state court, indirect taxation service and so on) in the process of transferring part of the jurisdiction from the entities to the state. The representation of the government of Bosnia and Herzegovina is by elites who represent the country's three major groups, with each having a guaranteed share of power.
 
@@ -560,7 +560,7 @@ Military
 
 This section relies largely or entirely on a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing citations to additional sources.
 
-Find sources: \"Bosnia and Herzegovina\" – news · newspapers · books · scholar · JSTOR (March 2018)
+Find sources: "Bosnia and Herzegovina" – news · newspapers · books · scholar · JSTOR (March 2018)
 
 The Armed Forces of Bosnia and Herzegovina (OSBiH) were unified into a single entity in 2005, with the merger of the Army of the Federation of Bosnia and Herzegovina and the Army of Republika Srpska, which had defended their respective regions. The Ministry of Defense was founded in 2004.
 
@@ -604,11 +604,11 @@ Croats (15.43%)
 
 Others (2.73%)
 
-Bosnia and Herzegovina is home to three ethnic \"constituent peoples\", namely Bosniaks, Serbs, and Croats, plus a number of smaller groups including Jews and Roma. According to data from 2013 census published by the Agency for Statistics of Bosnia and Herzegovina, Bosniaks constitute 50.11% of the population, Serbs 30.78%, Croats 15.43%, and others form 2.73%, with the remaining respondents not declaring their ethnicity or not answering. The census results are contested by the Republika Srpska statistical office and by Bosnian Serb politicians. The dispute over the census concerns the inclusion of non-permanent Bosnian residents in the figures, which Republika Srpska officials oppose. The European Union's statistics office, Eurostat, concluded in May 2016 that the census methodology used by the Bosnian statistical agency is in line with international recommendations.
+Bosnia and Herzegovina is home to three ethnic "constituent peoples", namely Bosniaks, Serbs, and Croats, plus a number of smaller groups including Jews and Roma. According to data from 2013 census published by the Agency for Statistics of Bosnia and Herzegovina, Bosniaks constitute 50.11% of the population, Serbs 30.78%, Croats 15.43%, and others form 2.73%, with the remaining respondents not declaring their ethnicity or not answering. The census results are contested by the Republika Srpska statistical office and by Bosnian Serb politicians. The dispute over the census concerns the inclusion of non-permanent Bosnian residents in the figures, which Republika Srpska officials oppose. The European Union's statistics office, Eurostat, concluded in May 2016 that the census methodology used by the Bosnian statistical agency is in line with international recommendations.
 
 Languages
 
-Bosnia's constitution does not specify any official languages. However, academics Hilary Footitt and Michael Kelly note the Dayton Agreement states it is \"done in Bosnian, Croatian, English and Serbian\", and they describe this as the \"de facto recognition of three official languages\" at the state level. The equal status of Bosnian, Serbian and Croatian was verified by the Constitutional Court in 2000. It ruled the provisions of the Federation and Republika Srpska constitutions on language were incompatible with the state constitution, since they only recognised \"Bosniak\" and Croatian (in the case of the Federation) and Serbian (in the case of Republika Srpska) as official languages at the entity level. As a result, the wording of the entity constitutions was changed and all three languages were made official in both entities. The three standard languages are fully mutually intelligible and are known collectively under the appellation of Serbo-Croatian, despite this term not being formally recognized in the country. Use of one of the three languages has become a marker of ethnic identity. Michael Kelly and Catherine Baker argue: \"The three official languages of today's Bosnian state...represent the symbolic assertion of national identity over the pragmatism of mutual intelligibility\".
+Bosnia's constitution does not specify any official languages. However, academics Hilary Footitt and Michael Kelly note the Dayton Agreement states it is "done in Bosnian, Croatian, English and Serbian", and they describe this as the "de facto recognition of three official languages" at the state level. The equal status of Bosnian, Serbian and Croatian was verified by the Constitutional Court in 2000. It ruled the provisions of the Federation and Republika Srpska constitutions on language were incompatible with the state constitution, since they only recognised "Bosniak" and Croatian (in the case of the Federation) and Serbian (in the case of Republika Srpska) as official languages at the entity level. As a result, the wording of the entity constitutions was changed and all three languages were made official in both entities. The three standard languages are fully mutually intelligible and are known collectively under the appellation of Serbo-Croatian, despite this term not being formally recognized in the country. Use of one of the three languages has become a marker of ethnic identity. Michael Kelly and Catherine Baker argue: "The three official languages of today's Bosnian state...represent the symbolic assertion of national identity over the pragmatism of mutual intelligibility".
 
 According to the 1992 European Charter for Regional or Minority Languages, Bosnia and Herzegovina recognizes the following minority languages: Albanian, Montenegrin, Czech, Italian, Hungarian, Macedonian, German, Polish, Romani, Romanian, Rusyn, Slovak, Slovene, Turkish, Ukrainian and Jewish (Yiddish and Ladino). The German minority in Bosnia and Herzegovina are mostly remnants of Donauschwaben (Danube Swabians), who settled in the area after the Habsburg monarchy claimed the Balkans from the Ottoman Empire. Due to expulsions and (forced) assimilation after the two World Wars, the number of ethnic Germans in Bosnia and Herzegovina was drastically diminished.
 
@@ -756,7 +756,7 @@ In 2018, Central Bank of Bosnia and Herzegovina made a profit of 8,430,875 km (�
 
 The World Bank predicts that the economy will grow 3.4% in 2019.
 
-Bosnia and Herzegovina was placed 83rd on the Index of Economic Freedom for 2019. The total rating for Bosnia and Herzegovina is 61.9. This position represents some progress relative to the 91st place in 2018. This result is below the regional level, but still above the global average, making Bosnia and Herzegovina a \"moderately free\" country.
+Bosnia and Herzegovina was placed 83rd on the Index of Economic Freedom for 2019. The total rating for Bosnia and Herzegovina is 61.9. This position represents some progress relative to the 91st place in 2018. This result is below the regional level, but still above the global average, making Bosnia and Herzegovina a "moderately free" country.
 
 On 31 January 2019, total deposits in Bosnian banks were KM 21.9 billion (€11.20 billion), which represents 61.15% of nominal GDP.
 
@@ -810,13 +810,13 @@ In 2018, 1.883.772 tourists visited Bosnia-Herzegovina, an increase of 44,1%, an
 
 In 2017, 1,307,319 tourists visited Bosnia and Herzegovina, an increase of 13.7%, and had 2,677,125 overnight hotel stays, a 12.3% increase from the previous year. 71.5% of the tourists came from foreign countries.
 
-In 2006, when ranking the best cities in the world, Lonely Planet placed Sarajevo, the national capital and host of the 1984 Winter Olympic Games, as #43 on the list. Tourism in Sarajevo is chiefly focused on historical, religious, and cultural aspects. In 2010, Lonely Planet's \"Best in Travel\" nominated it as one of the top ten cities to visit that year. Sarajevo also won travel blog Foxnomad's \"Best City to Visit\" competition in 2012, beating more than one hundred other cities around the entire world.
+In 2006, when ranking the best cities in the world, Lonely Planet placed Sarajevo, the national capital and host of the 1984 Winter Olympic Games, as #43 on the list. Tourism in Sarajevo is chiefly focused on historical, religious, and cultural aspects. In 2010, Lonely Planet's "Best in Travel" nominated it as one of the top ten cities to visit that year. Sarajevo also won travel blog Foxnomad's "Best City to Visit" competition in 2012, beating more than one hundred other cities around the entire world.
 
 Međugorje has become one of the most popular pilgrimage sites for Christians in the world and has turned into Europe's third most important religious place, where each year more than 1 million people visit. It has been estimated that 30 million pilgrims have come to Međugorje since the reputed apparitions began in 1981.
 
 Bosnia has also become an increasingly popular skiing and Ecotourism destination. Bosnia and Herzegovina remains one of the last undiscovered natural regions of the southern area of the Alps, with vast tracts of wild and untouched nature attracting adventurers and nature lovers. National Geographic magazine named Bosnia and Herzegovina as the best mountain biking adventure destination for 2012. The central Bosnian Dinaric Alps are favored by hikers and mountaineers, containing both Mediterranean and Alpine climates. Whitewater rafting is somewhat of a national pastime, with three rivers, including the deepest river canyon in Europe, the Tara River Canyon.
 
-Most recently, the Huffington Post named Bosnia and Herzegovina the \"9th Greatest Adventure in the World for 2013\", adding that the country boasts \"the cleanest water and air in Europe; the greatest untouched forests; and the most wildlife. The best way to experience is the three rivers trip, which purls through the best the Balkans have to offer.\"
+Most recently, the Huffington Post named Bosnia and Herzegovina the "9th Greatest Adventure in the World for 2013", adding that the country boasts "the cleanest water and air in Europe; the greatest untouched forests; and the most wildlife. The best way to experience is the three rivers trip, which purls through the best the Balkans have to offer."
 
 Tourist attractions
 
@@ -824,17 +824,17 @@ This article is in list format, but may read better as prose. You can help by co
 
 Some of the tourist attractions in Bosnia and Herzegovina include:
 
-Sarajevo, the \"Olympic City\" or \"European Jerusalem\"; the scientific, cultural, tourist and commercial center of Bosnia and Herzegovina as well as its capital
+Sarajevo, the "Olympic City" or "European Jerusalem"; the scientific, cultural, tourist and commercial center of Bosnia and Herzegovina as well as its capital
 
 Vratnik old town and Bijela Tabija fortress in Sarajevo
 
 Shrine of Our Lady of Međugorje, with Annual Youth Festival; the site of a Marian apparition and subsequent Catholic pilgrimage destination
 
-Mostar, the \"City on Neretva\" or \"City of Sunshine\"; the location of the UNESCO World Heritage Sites of Stari most and old-town Mostar
+Mostar, the "City on Neretva" or "City of Sunshine"; the location of the UNESCO World Heritage Sites of Stari most and old-town Mostar
 
 Višegrad, location of the UNESCO World Heritage Site of the Mehmed Paša Sokolović Bridge
 
-Banja Luka, the \"Green City\", with sights such as the Kastel fortress and Ferhadija mosque
+Banja Luka, the "Green City", with sights such as the Kastel fortress and Ferhadija mosque
 
 Bihać and the waterfalls of the river Una within Una National Park
 
@@ -890,7 +890,7 @@ Main article: Education in Bosnia and Herzegovina
 
 The University of Sarajevo's Faculty of Law
 
-Higher education has a long and rich tradition in Bosnia and Herzegovina. The first bespoke higher-education institution was a school of Sufi philosophy established by Gazi Husrev-beg in 1531. Numerous other religious schools then followed. In 1887, under the Austro-Hungarian Empire, a Sharia law school began a five-year program. In the 1940s the University of Sarajevo became the city's first secular higher education institute. In the 1950s post-bachelaurate graduate degrees became available. Severely damaged during the war, it was recently rebuilt in partnership with more than 40 other universities. There are various other institutions of higher education, including: University \"Džemal Bijedić\" of Mostar, University of Banja Luka, University of Mostar, University of East Sarajevo, University of Tuzla, American University in Bosnia and Herzegovina and the Academy of Sciences and Arts of Bosnia and Herzegovina, which is held in high regard as one of the most prestigious creative arts academies in the region.
+Higher education has a long and rich tradition in Bosnia and Herzegovina. The first bespoke higher-education institution was a school of Sufi philosophy established by Gazi Husrev-beg in 1531. Numerous other religious schools then followed. In 1887, under the Austro-Hungarian Empire, a Sharia law school began a five-year program. In the 1940s the University of Sarajevo became the city's first secular higher education institute. In the 1950s post-bachelaurate graduate degrees became available. Severely damaged during the war, it was recently rebuilt in partnership with more than 40 other universities. There are various other institutions of higher education, including: University "Džemal Bijedić" of Mostar, University of Banja Luka, University of Mostar, University of East Sarajevo, University of Tuzla, American University in Bosnia and Herzegovina and the Academy of Sciences and Arts of Bosnia and Herzegovina, which is held in high regard as one of the most prestigious creative arts academies in the region.
 
 Also, Bosnia and Herzegovina is home to several private and international higher education institutions, some of which are:
 
@@ -958,11 +958,11 @@ See also: List of Bosnia and Herzegovina patriotic songs
 
 Typical Bosnian and Herzegovinian songs are ganga, rera, and the traditional Slavic music for the folk dances such as kolo and from Ottoman era the most popular is sevdalinka. Pop and Rock music has a tradition here as well, with the more famous musicians including Dino Zonić, Goran Bregović, Davorin Popović, Kemal Monteno, Zdravko Čolić, Elvir Laković, Edo Maajka, Hari Mata Hari and Dino Merlin. Other composers such as Đorđe Novković, Al' Dino, Haris Džinović, Kornelije Kovač, and many pop and rock bands, for example, Bijelo Dugme, Crvena Jabuka, Divlje Jagode, Indexi, Plavi Orkestar, Zabranjeno Pušenje, Ambasadori, Dubioza kolektiv, who were among the leading ones in the former Yugoslavia. Bosnia is home to the composer Dušan Šestić, the creator of the national anthem of Bosnia and Herzegovina and father of singer Marija Šestić, to the world known jazz musician, educator and Bosnian jazz ambassador Sinan Alimanović, composer Saša Lošić and pianist Saša Toperić. In the villages, especially in Herzegovina, Bosniaks, Serbs, and Croats play the ancient Gusle. The gusle is used mainly to recite epic poems in a usually dramatic tone.
 
-Probably the most distinctive and identifiably \"Bosnian\" of music, Sevdalinka is a kind of emotional, melancholic folk song that often describes sad subjects such as love and loss, the death of a dear person or heartbreak. Sevdalinkas were traditionally performed with a saz, a Turkish string instrument, which was later replaced by the accordion. However the more modern arrangement, to the derision of some purists, is typically a vocalist accompanied by the accordion along with snare drums, upright bass, guitars, clarinets and violins.
+Probably the most distinctive and identifiably "Bosnian" of music, Sevdalinka is a kind of emotional, melancholic folk song that often describes sad subjects such as love and loss, the death of a dear person or heartbreak. Sevdalinkas were traditionally performed with a saz, a Turkish string instrument, which was later replaced by the accordion. However the more modern arrangement, to the derision of some purists, is typically a vocalist accompanied by the accordion along with snare drums, upright bass, guitars, clarinets and violins.
 
 Main article: Bosnian root music
 
-Rural folk traditions in Bosnia and Herzegovina include the shouted, polyphonic ganga and \"ravne pjesme\" (flat song) styles, as well as instruments like a droneless bagpipe, wooden flute and šargija. The gusle, an instrument found throughout the Balkans, is also used to accompany ancient Slavic epic poems. There are also Bosnian folk songs in the Ladino language, derived from the area's Jewish population.
+Rural folk traditions in Bosnia and Herzegovina include the shouted, polyphonic ganga and "ravne pjesme" (flat song) styles, as well as instruments like a droneless bagpipe, wooden flute and šargija. The gusle, an instrument found throughout the Balkans, is also used to accompany ancient Slavic epic poems. There are also Bosnian folk songs in the Ladino language, derived from the area's Jewish population.
 
 Bosnians dancing a traditional Kolo
 
@@ -1039,7 +1039,7 @@ Notes
 
 References
 
-^ a b c d \"Constitution of Bosnia and Herzegovina\" (PDF). Archived (PDF) from the original on 28 October 2015. Retrieved 6 March 2015.
+^ a b c d "Constitution of Bosnia and Herzegovina" (PDF). Archived (PDF) from the original on 28 October 2015. Retrieved 6 March 2015.
 
 ^ https://mojabih.oslobodjenje.ba/vijesti/danas-se-iz-norveske-kuci-vraca-13-drzavljana-bih-a-sta-je-sa-ostalima/2700
 
@@ -1049,31 +1049,31 @@ References
 
 ^ CIA 2019.
 
-^ United Nations. \"World Population Prospects 2019\".
+^ United Nations. "World Population Prospects 2019".
 
-^ \"Demography 2016\" (PDF). Archived from the original (PDF) on 14 November 2018. Retrieved 24 October 2018.
+^ "Demography 2016" (PDF). Archived from the original (PDF) on 14 November 2018. Retrieved 24 October 2018.
 
-^ a b c d \"Report for Selected Countries and Subjects\". IMF. 28 December 2019.
+^ a b c d "Report for Selected Countries and Subjects". IMF. 28 December 2019.
 
-^ \"Distribution of family income – Gini index\". The World Factbook. TWB. Archived from the original on 29 October 2017. Retrieved 29 October 2017.
+^ "Distribution of family income – Gini index". The World Factbook. TWB. Archived from the original on 29 October 2017. Retrieved 29 October 2017.
 
-^ \"Human Development Report 2019\". United Nations Development Programme. 10 December 2019. Retrieved 10 December 2019.
+^ "Human Development Report 2019". United Nations Development Programme. 10 December 2019. Retrieved 10 December 2019.
 
-^ a b c d \"Census of population, households and dwellings in Bosnia and Herzegovina, 2013: Final results\" (PDF). Agency for Statistics of Bosnia and Herzegovina. June 2016. Archived from the original (PDF) on 30 June 2016. Retrieved 1 July 2016.
+^ a b c d "Census of population, households and dwellings in Bosnia and Herzegovina, 2013: Final results" (PDF). Agency for Statistics of Bosnia and Herzegovina. June 2016. Archived from the original (PDF) on 30 June 2016. Retrieved 1 July 2016.
 
 ^ Jones, Daniel (2003) , Peter Roach; James Hartmann; Jane Setter (eds.), English Pronouncing Dictionary, Cambridge: Cambridge University Press, ISBN 3-12-539683-2
 
-^ \"Bosnia\". Merriam-Webster Dictionary., \"Herzegovina\". Merriam-Webster Dictionary.
+^ "Bosnia". Merriam-Webster Dictionary., "Herzegovina". Merriam-Webster Dictionary.
 
-^ \"Human Development Indices and Indicators: 2018 Statistical Update\" (PDF). UNDP. Archived (PDF) from the original on 22 March 2017. Retrieved 16 September 2018.
+^ "Human Development Indices and Indicators: 2018 Statistical Update" (PDF). UNDP. Archived (PDF) from the original on 22 March 2017. Retrieved 16 September 2018.
 
-^ \"List of Member States of the Union for the Mediterranean - UfM\". Archived from the original on 12 May 2018. Retrieved 5 May 2018.
+^ "List of Member States of the Union for the Mediterranean - UfM". Archived from the original on 12 May 2018. Retrieved 5 May 2018.
 
-^ \"Membership Action Plan (MAP)\". nato.int. NATO. Archived from the original on 18 April 2015. Retrieved 6 April 2015. In April 2010, NATO Foreign Ministers at their meeting in Tallinn, reviewed progress in Bosnia and Herzegovina's reform efforts and invited the country to join the Membership Action Plan.
+^ "Membership Action Plan (MAP)". nato.int. NATO. Archived from the original on 18 April 2015. Retrieved 6 April 2015. In April 2010, NATO Foreign Ministers at their meeting in Tallinn, reviewed progress in Bosnia and Herzegovina's reform efforts and invited the country to join the Membership Action Plan.
 
-^ \"About the Sarajevo Film Festival\". Sarajevo Film Festival Official Website. Archived from the original on 4 November 2012.
+^ "About the Sarajevo Film Festival". Sarajevo Film Festival Official Website. Archived from the original on 4 November 2012.
 
-^ \"Inside Film's Guide to Film Festivals\". Inside Film. Archived from the original on 15 January 2016. Retrieved 12 February 2016.
+^ "Inside Film's Guide to Film Festivals". Inside Film. Archived from the original on 15 January 2016. Retrieved 12 February 2016.
 
 ^ Constantine VIIPorphyrogenitus (1993). De Administrando Imperio (Moravcsik, Gyula ed.). Washington D.C.: Dumbarton Oaks Center for Byzantine Studies. pp. 153–55.
 
@@ -1107,23 +1107,23 @@ References
 
 ^ Fine 1991, p. 223.
 
-^ Paul Mojzes. Religion and the war in Bosnia. Oxford University Press, 2000, p 22; \"Medieval Bosnia was founded as an independent state (Banate) by Ban Kulin (1180–1204).\".
+^ Paul Mojzes. Religion and the war in Bosnia. Oxford University Press, 2000, p 22; "Medieval Bosnia was founded as an independent state (Banate) by Ban Kulin (1180–1204).".
 
 ^ Fine 1991, p. 288.
 
-^ Robert J. Donia, John V.A Fine (2005). Bosnia and Hercegovina: A Tradition Betrayed. C. Hurst Co. Publishers. Archived from the original on 15 September 2015., p. 71; In the Middle Ages the Bosnians called themselves \"Bosnians\" or used even more local (county, regional) names.
+^ Robert J. Donia, John V.A Fine (2005). Bosnia and Hercegovina: A Tradition Betrayed. C. Hurst Co. Publishers. Archived from the original on 15 September 2015., p. 71; In the Middle Ages the Bosnians called themselves "Bosnians" or used even more local (county, regional) names.
 
 ^ Kolstø, Pål (2005). Myths and boundaries in south-eastern Europe. Hurst Co., p. 120; ..medieval Bosnia was a country of one people, of the single Bosnian people called the Bošnjani, who belonged to three confessions.
 
-^ John V.A. Fine. \"What is a Bosnian?\". London Review of Books; Vol.16 No.8. 28 April 1994. pp. 9–10. Archived from the original on 3 December 2013. Retrieved 30 June 2016.
+^ John V.A. Fine. "What is a Bosnian?". London Review of Books; Vol.16 No.8. 28 April 1994. pp. 9–10. Archived from the original on 3 December 2013. Retrieved 30 June 2016.
 
-^ \"Declared as national monument\". Archived from the original on 16 January 2009.
+^ "Declared as national monument". Archived from the original on 16 January 2009.
 
 ^ Anđelić Pavao, Krunidbena i grobna crkva bosanskih vladara u Milima (Arnautovićima) kod Visokog. Glasnik Zemaljskog muzeja XXXIV/1979., Zemaljski muzej Bosne i Hercegovine, Sarajevo, 1980,183–247
 
 ^ Singleton, Frederick Bernard (1985). A Short History of the Yugoslav Peoples. Cambridge University Press. p. 496. ISBN 0-521-27485-0.
 
-^ Buzov, Snježana (2004). Koller, Markus (ed.). \"Ottoman Perceptions of Bosnia as Reflected in the Works of Ottoman Authors who Visited or Lived in Bosnia\". Ottoman Bosnia: A History in Peril. University of Wisconsin Press: 83–92. Cite journal requires |journal= (help)
+^ Buzov, Snježana (2004). Koller, Markus (ed.). "Ottoman Perceptions of Bosnia as Reflected in the Works of Ottoman Authors who Visited or Lived in Bosnia". Ottoman Bosnia: A History in Peril. University of Wisconsin Press: 83–92. Cite journal requires |journal= (help)
 
 ^ Velikonja 2003, pp. 29–30.
 
@@ -1157,9 +1157,9 @@ References
 
 ^ Tomasevich 2001, p. 485The Bosnian wartime militia (Schutzkorps), which became known for its persecution of Serbs, was overwhelmingly Muslim.
 
-^ Danijela Nadj. \"An International Symposium \"Southeastern Europe 1918–1995\"\". Hic.hr. Archived from the original on 22 August 2006. Retrieved 14 June 2006.
+^ Danijela Nadj. "An International Symposium "Southeastern Europe 1918–1995. Hic.hr. Archived from the original on 22 August 2006. Retrieved 14 June 2006.
 
-^ \"Balkan 'Auschwitz' haunts Croatia\". BBC News. 25 April 2005. Archived from the original on 9 August 2012. Retrieved 21 June 2012.
+^ "Balkan 'Auschwitz' haunts Croatia". BBC News. 25 April 2005. Archived from the original on 9 August 2012. Retrieved 21 June 2012.
 
 ^ a b c Philip J. Cohen (1996). Serbia's Secret War: Propaganda and the Deceit of History. College Station: Texas AM University Press. pp. 109–10. ISBN 978-0-89096-760-7.
 
@@ -1173,11 +1173,11 @@ References
 
 ^ Hoare, Marko Attila (2006). Genocide and Resistance in Hitler's Bosnia: The Partisans and the Chetniks 1941–1943. New York: Oxford University Press. p. 13. ISBN 978-0-19-726380-8.
 
-^ a b Geiger, Vladimir. \"Human Losses of the Croats in World War II and the Immediate Post-War Period Caused by the Chetniks (Yugoslav Army in the Fatherand) and the Partisans (People's Liberation Army and the Partisan Detachments of Yugoslavia/Yugoslav Army) and the Communist Authorities: Numerical Indicators\". Croatian Institute of History: 85–87. Archived from the original on 17 November 2015. Retrieved 25 October 2015. Cite journal requires |journal= (help)
+^ a b Geiger, Vladimir. "Human Losses of the Croats in World War II and the Immediate Post-War Period Caused by the Chetniks (Yugoslav Army in the Fatherand) and the Partisans (People's Liberation Army and the Partisan Detachments of Yugoslavia/Yugoslav Army) and the Communist Authorities: Numerical Indicators". Croatian Institute of History: 85–87. Archived from the original on 17 November 2015. Retrieved 25 October 2015. Cite journal requires |journal= (help)
 
 ^ Lepre, George (1997). Himmler's Bosnian Division: The Waffen-SS Handschar Division 1943–1945. Schiffer Publishing. ISBN 0-7643-0134-9.
 
-^ Hadžijahić, Muhamed (1973), \"Muslimanske rezolucije iz 1941 godine \", Istorija Naroda Bosne i Hercegovine (in Serbo-Croatian), Sarajevo: Institut za istoriju radničkog pokreta, p. 277
+^ Hadžijahić, Muhamed (1973), "Muslimanske rezolucije iz 1941 godine ", Istorija Naroda Bosne i Hercegovine (in Serbo-Croatian), Sarajevo: Institut za istoriju radničkog pokreta, p. 277
 
 ^ Redžić, Enver (2005). Bosnia and Herzegovina in the Second World War. London: Frank Cass. pp. 225–227.
 
@@ -1185,15 +1185,15 @@ References
 
 ^ Stojic, Mile (2005). Branko Mikulic – socialist emperor manqué Archived 9 August 2006 at the Wayback Machine. BH Dani
 
-^ \"The Balkans: A post-Communist History\" (PDF). Archived from the original (PDF) on 1 July 2014. Retrieved 14 June 2006.
+^ "The Balkans: A post-Communist History" (PDF). Archived from the original (PDF) on 1 July 2014. Retrieved 14 June 2006.
 
-^ \"ICTY: Prlić et al. (IT-04-74)\". Archived from the original on 2 August 2009.
+^ "ICTY: Prlić et al. (IT-04-74)". Archived from the original on 2 August 2009.
 
-^ \"Prlic et al. Initial Indictment\". United Nations. Archived from the original on 28 February 2009. Retrieved 3 February 2010.
+^ "Prlic et al. Initial Indictment". United Nations. Archived from the original on 28 February 2009. Retrieved 3 February 2010.
 
-^ \"The International Criminal Tribunal for the Former Yugoslavia, Case NO: IT-01-47-PT (Amended Indictment)\" (PDF). 11 January 2002. Archived (PDF) from the original on 14 May 2011. Retrieved 1 January 2009.
+^ "The International Criminal Tribunal for the Former Yugoslavia, Case NO: IT-01-47-PT (Amended Indictment)" (PDF). 11 January 2002. Archived (PDF) from the original on 14 May 2011. Retrieved 1 January 2009.
 
-^ \"The Referendum on Independence in Bosnia–Herzegovina: February 29 – March 1, 1992\". Commission on Security and Cooperation in Europe. 1992. p. 19. Archived from the original on 22 May 2011. Retrieved 28 December 2009.
+^ "The Referendum on Independence in Bosnia–Herzegovina: February 29 – March 1, 1992". Commission on Security and Cooperation in Europe. 1992. p. 19. Archived from the original on 22 May 2011. Retrieved 28 December 2009.
 
 ^ Bose, Sumantra (2009). Contested lands: Israel-Palestine, Kashmir, Bosnia, Cyprus, and Sri Lanka. Harvard University Press. p. 124. Archived from the original on 11 January 2016. Retrieved 11 October 2015.
 
@@ -1201,49 +1201,49 @@ References
 
 ^ Ramet, Sabrina P. (2006). The Three Yugoslavias: State-Building and Legitimation, 1918–2004. Indiana University Press. p. 379. ISBN 0-271-01629-9.
 
-^ \"ICTY: Naletilić and Martinović verdict – A. Historical background\". Archived from the original on 19 June 2009.
+^ "ICTY: Naletilić and Martinović verdict – A. Historical background". Archived from the original on 19 June 2009.
 
-^ \"ICTY: The attack against the civilian population and related requirements\". Archived from the original on 19 February 2009.
+^ "ICTY: The attack against the civilian population and related requirements". Archived from the original on 19 February 2009.
 
 ^ The Geography of Genocide, Allan D. Cooper, p. 178, University Press of America, 2008, ISBN 0-7618-4097-4
 
-^ \"Judgement\". UN. 5 March 2007. Archived from the original on 16 October 2008. Retrieved 13 January 2013.
+^ "Judgement". UN. 5 March 2007. Archived from the original on 16 October 2008. Retrieved 13 January 2013.
 
-^ \"Press Release\". UN. 5 March 2007. Archived from the original on 24 March 2009. Retrieved 7 January 2013.
+^ "Press Release". UN. 5 March 2007. Archived from the original on 24 March 2009. Retrieved 7 January 2013.
 
-^ \"Crimes in Stolac Municipality\" (PDF). Archived from the original (PDF) on 9 January 2009.
+^ "Crimes in Stolac Municipality" (PDF). Archived from the original (PDF) on 9 January 2009.
 
-^ \"Indictment\". UN. 5 March 2007. Archived from the original on 12 February 2005. Retrieved 7 January 2013.
+^ "Indictment". UN. 5 March 2007. Archived from the original on 12 February 2005. Retrieved 7 January 2013.
 
-^ \"Research and Documentation Center: Rezultati istraživanja \"Ljudski gubici '91–'95\"\". idc.org.ba. Archived from the original on 3 December 2010.
+^ "Research and Documentation Center: Rezultati istraživanja "Ljudski gubici '91–'95. idc.org.ba. Archived from the original on 3 December 2010.
 
-^ \"The humanitarian operation in Bosnia, 1992–95: the dilemmas of negotiating humanitarian access\" (PDF). United Nations High Commission for Refugees. May 1999. Archived (PDF) from the original on 24 June 2008. Retrieved 24 June 2008.
+^ "The humanitarian operation in Bosnia, 1992–95: the dilemmas of negotiating humanitarian access" (PDF). United Nations High Commission for Refugees. May 1999. Archived (PDF) from the original on 24 June 2008. Retrieved 24 June 2008.
 
-^ \"ICTY: Conflict between Bosnia and Herzegovina and the Federal Republic of Yugoslavia\". Archived from the original on 6 June 2008. Retrieved 22 June 2008.
+^ "ICTY: Conflict between Bosnia and Herzegovina and the Federal Republic of Yugoslavia". Archived from the original on 6 June 2008. Retrieved 22 June 2008.
 
-^ \"ICTY: Conflict between Bosnia and Croatia\". Archived from the original on 6 June 2008. Retrieved 22 June 2008.
+^ "ICTY: Conflict between Bosnia and Croatia". Archived from the original on 6 June 2008. Retrieved 22 June 2008.
 
 ^ ICTY cases, indictments and proceedings Archived 6 August 2009 at the Wayback Machine
 
-^ \"Bosnia holds ceremony for remains of 284 found in mass grave\". MSN News. Archived from the original on 22 July 2014. Retrieved 20 July 2014.
+^ "Bosnia holds ceremony for remains of 284 found in mass grave". MSN News. Archived from the original on 22 July 2014. Retrieved 20 July 2014.
 
-^ \"ICJ: The genocide case: Bosnia v. Serbia\" (PDF). Archived (PDF) from the original on 21 October 2012. Retrieved 22 June 2008.
+^ "ICJ: The genocide case: Bosnia v. Serbia" (PDF). Archived (PDF) from the original on 21 October 2012. Retrieved 22 June 2008.
 
-^ \"Bosnian protests: A Balkan Spring?\". bbc.co.uk. 8 February 2014. Archived from the original on 9 February 2014. Retrieved 8 February 2014.
+^ "Bosnian protests: A Balkan Spring?". bbc.co.uk. 8 February 2014. Archived from the original on 9 February 2014. Retrieved 8 February 2014.
 
-^ \"Građanski bunt u BiH\". klix.ba. 8 February 2014. Archived from the original on 7 February 2014. Retrieved 8 February 2014.
+^ "Građanski bunt u BiH". klix.ba. 8 February 2014. Archived from the original on 7 February 2014. Retrieved 8 February 2014.
 
-^ Bilefsky, Dan (8 February 2014). \"Protests Over Government and Economy Roil Bosnia\". nytimes.com. Archived from the original on 8 February 2014. Retrieved 8 February 2014.
+^ Bilefsky, Dan (8 February 2014). "Protests Over Government and Economy Roil Bosnia". nytimes.com. Archived from the original on 8 February 2014. Retrieved 8 February 2014.
 
-^ \"Bosnian Protesters Torch Government Buildings in Sarajevo, Tuzla\". rferl.org. 8 February 2014. Archived from the original on 8 February 2014. Retrieved 8 February 2014.
+^ "Bosnian Protesters Torch Government Buildings in Sarajevo, Tuzla". rferl.org. 8 February 2014. Archived from the original on 8 February 2014. Retrieved 8 February 2014.
 
-^ \"Bosnia–Hercegovina protests break out in violence\". bbc.co.uk. 8 February 2014. Archived from the original on 7 February 2014. Retrieved 8 February 2014.
+^ "Bosnia–Hercegovina protests break out in violence". bbc.co.uk. 8 February 2014. Archived from the original on 7 February 2014. Retrieved 8 February 2014.
 
-^ \"Bosnian protesters storm government buildings\". The Sydney Morning Herald. 8 February 2014. Archived from the original on 17 June 2014. Retrieved 8 February 2014.
+^ "Bosnian protesters storm government buildings". The Sydney Morning Herald. 8 February 2014. Archived from the original on 17 June 2014. Retrieved 8 February 2014.
 
 ^ a b Field Listing – Coastline Archived 16 July 2017 at the Wayback Machine, The World Factbook, 22 August 2006
 
-^ \"Bosnia and Herzegovina: I: Introduction\". Encarta. 2006. Archived from the original on 29 October 2009. Retrieved 12 February 2009.
+^ "Bosnia and Herzegovina: I: Introduction". Encarta. 2006. Archived from the original on 29 October 2009. Retrieved 12 February 2009.
 
 ^ Cuvalo, Ante (2010). The A to Z of Bosnia and Herzegovina. Plymouth, UK: Rowman Littlefield. p. lxxi, 154–155. ISBN 0810876477.
 
@@ -1251,7 +1251,7 @@ References
 
 ^ CIA. sfn error: no target: CITEREFCIA (help)
 
-^ a b Izet Čengić, Azra Čabaravdić. \"Watershed Management in Mountain Regions in Bosnia and Herzegovina\" (PDF). FAO. p. 113. Archived from the original (PDF) on 14 October 2017. Retrieved 16 June 2011.
+^ a b Izet Čengić, Azra Čabaravdić. "Watershed Management in Mountain Regions in Bosnia and Herzegovina" (PDF). FAO. p. 113. Archived from the original (PDF) on 14 October 2017. Retrieved 16 June 2011.
 
 ^ http://www.ohr.int/interview-christian-schwarz-schilling-high-representative-for-bih-the-last-bosnian-viceroy-4/
 
@@ -1261,39 +1261,39 @@ References
 
 ^ https://www.economist.com/eastern-approaches/2011/04/13/two-visions-for-bosnia
 
-^ \"Parliamentarism in Bosnia and Herzegovina during the period 1945 – 1990\". www.parlament.ba. Archived from the original on 13 September 2018. Retrieved 24 November 2018.
+^ "Parliamentarism in Bosnia and Herzegovina during the period 1945 – 1990". www.parlament.ba. Archived from the original on 13 September 2018. Retrieved 24 November 2018.
 
-^ Marjan Nikolov and Borce Trenovski and Gabriela Dimovska (2015). \"Open and transparent budget process in Western Balkan countries\" (PDF). MPRA Paper No. 76299. Archived (PDF) from the original on 28 October 2015. Retrieved 1 November 2014.
+^ Marjan Nikolov and Borce Trenovski and Gabriela Dimovska (2015). "Open and transparent budget process in Western Balkan countries" (PDF). MPRA Paper No. 76299. Archived (PDF) from the original on 28 October 2015. Retrieved 1 November 2014.
 
 ^ OHR Bulletin 66 (3 February 1998). Final hearing of the Arbitration Tribunal in Vienna Archived 5 June 2015 at the Wayback Machine. OHR.
 
-^ \"'The Contradictions of \"Democracy\" without Consent', East European Constitutional Review, New York University Law School, 1998\". Archived from the original on 17 May 2013.
+^ "'The Contradictions of "Democracy" without Consent', East European Constitutional Review, New York University Law School, 1998". Archived from the original on 17 May 2013.
 
-^ \"Bosnia breaks through ethnic divide by merging Serb, Muslim-Croat forces\". Stars and Stripes. 11 January 2006. Archived from the original on 2 October 2018. Retrieved 13 March 2015.
+^ "Bosnia breaks through ethnic divide by merging Serb, Muslim-Croat forces". Stars and Stripes. 11 January 2006. Archived from the original on 2 October 2018. Retrieved 13 March 2015.
 
-^ \"European Commission – Enlargement – Bosnia and Herzegovina – Relations with the EU\". Europa (web portal). Archived from the original on 26 January 2009. Retrieved 3 January 2009.
+^ "European Commission – Enlargement – Bosnia and Herzegovina – Relations with the EU". Europa (web portal). Archived from the original on 26 January 2009. Retrieved 3 January 2009.
 
-^ \"Bosnia gets Nato membership plan\". 22 April 2010. Archived from the original on 28 March 2019. Retrieved 9 March 2019.
+^ "Bosnia gets Nato membership plan". 22 April 2010. Archived from the original on 28 March 2019. Retrieved 9 March 2019.
 
-^ \"NATO Approves Membership Action Plan for Bosnia\". Balkan Insight. 5 December 2018. Retrieved 9 March 2019.
+^ "NATO Approves Membership Action Plan for Bosnia". Balkan Insight. 5 December 2018. Retrieved 9 March 2019.
 
-^ \"Population, total | Data\". data.worldbank.org. Retrieved 2 August 2019.
+^ "Population, total | Data". data.worldbank.org. Retrieved 2 August 2019.
 
-^ Ljubas, Zdravko (3 February 2011). \"Hopes Fade For Census in Bosnia in 2011\". Balkan Insight. Archived from the original on 16 August 2016. Retrieved 1 July 2016.
+^ Ljubas, Zdravko (3 February 2011). "Hopes Fade For Census in Bosnia in 2011". Balkan Insight. Archived from the original on 16 August 2016. Retrieved 1 July 2016.
 
-^ Kurt, Senka (1 August 2011). \"Bosnia Edges Closer To Population Census\". Balkan Insight. Archived from the original on 29 July 2013. Retrieved 26 March 2013.
+^ Kurt, Senka (1 August 2011). "Bosnia Edges Closer To Population Census". Balkan Insight. Archived from the original on 29 July 2013. Retrieved 26 March 2013.
 
 ^ abc, Census shows dramatic decline in Bosnian population since 1990s Archived 6 November 2013 at the Wayback Machine
 
-^ \"Second Class Citizens: Discrimination against Roma, Jews, and Other National Minorities in Bosnia and Herzegovina\". Human Rights Watch. 4 April 2012. Archived from the original on 16 August 2016. Retrieved 1 July 2016.
+^ "Second Class Citizens: Discrimination against Roma, Jews, and Other National Minorities in Bosnia and Herzegovina". Human Rights Watch. 4 April 2012. Archived from the original on 16 August 2016. Retrieved 1 July 2016.
 
-^ Toe, Rodolfo (30 June 2016). \"Census Reveals Bosnia's Changed Demography\". Balkan Insight. Archived from the original on 30 June 2016. Retrieved 1 July 2016.
+^ Toe, Rodolfo (30 June 2016). "Census Reveals Bosnia's Changed Demography". Balkan Insight. Archived from the original on 30 June 2016. Retrieved 1 July 2016.
 
-^ Toe, Rodolfo (30 June 2016). \"Bosnia to Publish Census Without Serb Agreement\". Balkan Insight. Archived from the original on 30 June 2016. Retrieved 1 July 2016.
+^ Toe, Rodolfo (30 June 2016). "Bosnia to Publish Census Without Serb Agreement". Balkan Insight. Archived from the original on 30 June 2016. Retrieved 1 July 2016.
 
-^ \"Bosnia–Herzegovina has lost a fifth of its pre-war population\". The Guardian. 2016. Archived from the original on 7 July 2016. Retrieved 11 July 2016.
+^ "Bosnia–Herzegovina has lost a fifth of its pre-war population". The Guardian. 2016. Archived from the original on 7 July 2016. Retrieved 11 July 2016.
 
-^ Faingold, Eduardo D. (2004). \"Language rights and language justice in the constitutions of the world\" (PDF). Language Problems Language Planning. 28 (1): 11–24. doi:10.1075/lplp.28.1.03fai.
+^ Faingold, Eduardo D. (2004). "Language rights and language justice in the constitutions of the world" (PDF). Language Problems Language Planning. 28 (1): 11–24. doi:10.1075/lplp.28.1.03fai.
 
 ^ Sadurski, Wojciech (2005). Rights Before Courts: A Study of Constitutional Courts in Postcommunist States of Central and Eastern Europe. Springer. p. 342. ISBN 1402030061.
 
@@ -1303,111 +1303,111 @@ References
 
 ^ Kelly, Michael; Baker, Catherine (2013). Interpreting the Peace: Peace Operations, Conflict and Language in Bosnia–Herzegovina. Basingstoke: Palgrave Macmillan. p. 10. ISBN 1137029838.
 
-^ \"Reservations and Declarations for Treaty No.148 – European Charter for Regional or Minority Languages\". Council of Europe. Council of Europe. Archived from the original on 8 December 2015. Retrieved 25 April 2017.
+^ "Reservations and Declarations for Treaty No.148 – European Charter for Regional or Minority Languages". Council of Europe. Council of Europe. Archived from the original on 8 December 2015. Retrieved 25 April 2017.
 
-^ Arbeitsgemeinschaft Deutscher Minderheiten. \"Deutsche Minderheit in Bosnien-Herzegowina – German minority in Bosnia and Herzegovina\". fuen.org. Archived from the original on 25 September 2015.
+^ Arbeitsgemeinschaft Deutscher Minderheiten. "Deutsche Minderheit in Bosnien-Herzegowina – German minority in Bosnia and Herzegovina". fuen.org. Archived from the original on 25 September 2015.
 
-^ \"2016 Report on International Religious Freedom: Bosnia and Herzegovina\". United States Department of State. 2020. Retrieved 12 July 2020.
+^ "2016 Report on International Religious Freedom: Bosnia and Herzegovina". United States Department of State. 2020. Retrieved 12 July 2020.
 
-^ a b \"The World's Muslims: Unity and Diversity\" (PDF). Pew Research Center. 2012. p. 30. Archived from the original (PDF) on 26 January 2017. Retrieved 7 April 2016.
+^ a b "The World's Muslims: Unity and Diversity" (PDF). Pew Research Center. 2012. p. 30. Archived from the original (PDF) on 26 January 2017. Retrieved 7 April 2016.
 
-^ \"CIA – The World Factbook – Bosnia and Herzegovina\". Archived from the original on 6 April 2011. Retrieved 23 September 2009.
+^ "CIA – The World Factbook – Bosnia and Herzegovina". Archived from the original on 6 April 2011. Retrieved 23 September 2009.
 
-^ \"Final results\" (PDF) (pdf). Popis 2013 BiH. Archived (PDF) from the original on 14 October 2017. Retrieved 19 December 2017.
+^ "Final results" (PDF) (pdf). Popis 2013 BiH. Archived (PDF) from the original on 14 October 2017. Retrieved 19 December 2017.
 
-^ \"2013 Census of Population, Households and Dwellings in Bosnia and Herzegovina – final results\" (PDF). popis.gov.ba. Agency for Statistics of Bosnia and Herzegovina. 2013. Retrieved 19 April 2017.
+^ "2013 Census of Population, Households and Dwellings in Bosnia and Herzegovina – final results" (PDF). popis.gov.ba. Agency for Statistics of Bosnia and Herzegovina. 2013. Retrieved 19 April 2017.
 
-^ \"Archived copy\". Archived from the original on 22 March 2019. Retrieved 22 March 2019.CS1 maint: archived copy as title (link)
+^ "Archived copy". Archived from the original on 22 March 2019. Retrieved 22 March 2019.CS1 maint: archived copy as title (link)
 
-^ Ciric, Aleksandar. \"A Divided Bosnia, January 29, 1996\". Archived from the original on 5 September 2013. Retrieved 12 February 2016.
+^ Ciric, Aleksandar. "A Divided Bosnia, January 29, 1996". Archived from the original on 5 September 2013. Retrieved 12 February 2016.
 
 ^ Daclon, Corrado Maria (1997). Bosnia. Maggioli. Italy
 
-^ \"Post-conflict Bosnia and Herzegovina – Martha Walsh – Employment Sector\". ILO. Archived from the original on 7 September 2008. Retrieved 5 May 2009.
+^ "Post-conflict Bosnia and Herzegovina – Martha Walsh – Employment Sector". ILO. Archived from the original on 7 September 2008. Retrieved 5 May 2009.
 
 ^ World Factbook. Central Intelligence Agency.
 
-^ \"Table 15: Inequality in income or expenditure\" (PDF). Human Development Report 2006. United Nations Development Programme. 2006. p. 335. Archived from the original (PDF) on 6 December 2006. Retrieved 9 January 2007.
+^ "Table 15: Inequality in income or expenditure" (PDF). Human Development Report 2006. United Nations Development Programme. 2006. p. 335. Archived from the original (PDF) on 6 December 2006. Retrieved 9 January 2007.
 
-^ \"GDP per capita in PPS\". Eurostat. Archived from the original on 8 January 2012. Retrieved 1 October 2011.
+^ "GDP per capita in PPS". Eurostat. Archived from the original on 8 January 2012. Retrieved 1 October 2011.
 
-^ Elvira M. Jukic. \"IMF To Loan Bosnia $500 Million\". Balkan Insight. Archived from the original on 9 May 2013. Retrieved 26 March 2013.
+^ Elvira M. Jukic. "IMF To Loan Bosnia $500 Million". Balkan Insight. Archived from the original on 9 May 2013. Retrieved 26 March 2013.
 
-^ \"Siva ekonomija čini 25 posto BDP-a BiH\". Archived from the original on 1 June 2018. Retrieved 24 May 2018.
+^ "Siva ekonomija čini 25 posto BDP-a BiH". Archived from the original on 1 June 2018. Retrieved 24 May 2018.
 
-^ \"BiH povećala izvoz u 2017. godini: Evo koje države najviše uvoze naše proizvode - Kameleon MM\". radiokameleon.ba. Archived from the original on 17 February 2018. Retrieved 17 February 2018.
+^ "BiH povećala izvoz u 2017. godini: Evo koje države najviše uvoze naše proizvode - Kameleon MM". radiokameleon.ba. Archived from the original on 17 February 2018. Retrieved 17 February 2018.
 
-^ \"Izvoz u prošloj godini premašio 11 milijardi KM i povećan za 17 posto\". Archived from the original on 31 March 2018. Retrieved 31 March 2018.
+^ "Izvoz u prošloj godini premašio 11 milijardi KM i povećan za 17 posto". Archived from the original on 31 March 2018. Retrieved 31 March 2018.
 
-^ \"Nezaposlenost prvi put ide ispod 20 posto - Biznis Info\". 15 March 2018. Archived from the original on 17 March 2018. Retrieved 16 March 2018.
+^ "Nezaposlenost prvi put ide ispod 20 posto - Biznis Info". 15 March 2018. Archived from the original on 17 March 2018. Retrieved 16 March 2018.
 
-^ \"Javni dug BiH prošle godine smanjen za 744,59 miliona KM\". Archived from the original on 5 May 2018. Retrieved 5 May 2018.
+^ "Javni dug BiH prošle godine smanjen za 744,59 miliona KM". Archived from the original on 5 May 2018. Retrieved 5 May 2018.
 
-^ \"Više od 30.000 bh. kompanija ostvarilo ukupni prihod od 65 milijardi KM\". Archived from the original on 2 July 2018. Retrieved 2 July 2018.
+^ "Više od 30.000 bh. kompanija ostvarilo ukupni prihod od 65 milijardi KM". Archived from the original on 2 July 2018. Retrieved 2 July 2018.
 
-^ \"U 2017. u BiH investirano 777,7 miliona KM - Biznis Info\". 9 August 2018. Archived from the original on 10 August 2018. Retrieved 10 August 2018.
+^ "U 2017. u BiH investirano 777,7 miliona KM - Biznis Info". 9 August 2018. Archived from the original on 10 August 2018. Retrieved 10 August 2018.
 
-^ \"Archived copy\" (PDF). Archived from the original (PDF) on 10 April 2019. Retrieved 11 September 2018.CS1 maint: archived copy as title (link)
+^ "Archived copy" (PDF). Archived from the original (PDF) on 10 April 2019. Retrieved 11 September 2018.CS1 maint: archived copy as title (link)
 
-^ \"Američki IBM: BiH treća u svijetu po stranim investicijama, prema broju stanovnika - Biznis Info\". 6 September 2018. Archived from the original on 11 September 2018. Retrieved 11 September 2018.
+^ "Američki IBM: BiH treća u svijetu po stranim investicijama, prema broju stanovnika - Biznis Info". 6 September 2018. Archived from the original on 11 September 2018. Retrieved 11 September 2018.
 
-^ \"Archived copy\". Archived from the original on 23 March 2019. Retrieved 23 March 2019.CS1 maint: archived copy as title (link)
+^ "Archived copy". Archived from the original on 23 March 2019. Retrieved 23 March 2019.CS1 maint: archived copy as title (link)
 
-^ \"Prosječna cijena prodatih novih stanova u BiH 1.639 KM\". Archived from the original on 23 August 2018. Retrieved 22 August 2018.
+^ "Prosječna cijena prodatih novih stanova u BiH 1.639 KM". Archived from the original on 23 August 2018. Retrieved 22 August 2018.
 
-^ \"Javni dug BiH oko 11,8 milijardi KM\". www.6yka.com. Archived from the original on 6 November 2018. Retrieved 6 November 2018.
+^ "Javni dug BiH oko 11,8 milijardi KM". www.6yka.com. Archived from the original on 6 November 2018. Retrieved 6 November 2018.
 
-^ \"U sedam mjeseci BiH posjetilo više od 800.000 turista - Biznis Info\". 10 September 2018. Archived from the original on 11 September 2018. Retrieved 11 September 2018.
+^ "U sedam mjeseci BiH posjetilo više od 800.000 turista - Biznis Info". 10 September 2018. Archived from the original on 11 September 2018. Retrieved 11 September 2018.
 
-^ \"Archived copy\". Archived from the original on 19 January 2019. Retrieved 18 January 2019.CS1 maint: archived copy as title (link)
+^ "Archived copy". Archived from the original on 19 January 2019. Retrieved 18 January 2019.CS1 maint: archived copy as title (link)
 
-^ \"Archived copy\". Archived from the original on 31 January 2019. Retrieved 31 January 2019.CS1 maint: archived copy as title (link)
+^ "Archived copy". Archived from the original on 31 January 2019. Retrieved 31 January 2019.CS1 maint: archived copy as title (link)
 
-^ \"Računar u poslovanju koristi 99,5 posto firmi u BiH, a internet 99,3 posto\". Klix.ba.
+^ "Računar u poslovanju koristi 99,5 posto firmi u BiH, a internet 99,3 posto". Klix.ba.
 
 ^ http://biznis.ba/cbbih-priliv-direktnih-stranih-investicija-u-2018-godini-7834-miliona-km/
 
-^ \"Archived copy\". Archived from the original on 8 April 2019. Retrieved 9 April 2019.CS1 maint: archived copy as title (link)
+^ "Archived copy". Archived from the original on 8 April 2019. Retrieved 9 April 2019.CS1 maint: archived copy as title (link)
 
-^ \"Archived copy\". Archived from the original on 10 January 2019. Retrieved 10 January 2019.CS1 maint: archived copy as title (link)
+^ "Archived copy". Archived from the original on 10 January 2019. Retrieved 10 January 2019.CS1 maint: archived copy as title (link)
 
-^ \"Archived copy\". Archived from the original on 30 January 2019. Retrieved 30 January 2019.CS1 maint: archived copy as title (link)
+^ "Archived copy". Archived from the original on 30 January 2019. Retrieved 30 January 2019.CS1 maint: archived copy as title (link)
 
-^ \"Archived copy\". Archived from the original on 26 March 2019. Retrieved 26 March 2019.CS1 maint: archived copy as title (link)
+^ "Archived copy". Archived from the original on 26 March 2019. Retrieved 26 March 2019.CS1 maint: archived copy as title (link)
 
 ^ https://www.klix.ba/biznis/prosjecna-cijena-prodatih-novih-stanova-1-606-km-po-kvadratu/190820100
 
-^ \"Smanjen izvoz iz BiH u prvoj polovini 2019\". 22 July 2019.
+^ "Smanjen izvoz iz BiH u prvoj polovini 2019". 22 July 2019.
 
 ^ https://www.klix.ba/biznis/privreda/za-sedam-mjeseci-u-bih-vise-od-900-hiljada-turista-ostvareno-1-8-miliona-nocenja/190916052
 
 ^ https://www.biznisinfo.ba/pojacan-priliv-direktnih-stranih-investicija/
 
-^ \"EAD Basic – Error Page\". eurocontrol.int. Archived from the original on 23 August 2014. Retrieved 12 February 2016.
+^ "EAD Basic – Error Page". eurocontrol.int. Archived from the original on 23 August 2014. Retrieved 12 February 2016.
 
-^ \"Bosnia–Herzegovina – Telecoms Market Overview Statistics Report Covers the Regulatory Environment, Major Players and Market Developments\". Businesswire.com. 8 October 2008. Archived from the original on 4 May 2009. Retrieved 3 January 2009.
+^ "Bosnia–Herzegovina – Telecoms Market Overview Statistics Report Covers the Regulatory Environment, Major Players and Market Developments". Businesswire.com. 8 October 2008. Archived from the original on 4 May 2009. Retrieved 3 January 2009.
 
 ^ Udovicic, Radenko (3 May 2002). What is Happening with the Oldest Bosnian-Herzegovinian Daily: Oslobođenje to be sold for 4.7 Million Marks Archived 27 February 2012 at the Wayback Machine Mediaonline.ba: Southeast European Media Journal.
 
-^ \"Al Jazeera Launches Its Balkans Broadcast Centre\". The Guardian. London. 11 November 2011. Archived from the original on 26 January 2017. Retrieved 14 December 2016.
+^ "Al Jazeera Launches Its Balkans Broadcast Centre". The Guardian. London. 11 November 2011. Archived from the original on 26 January 2017. Retrieved 14 December 2016.
 
-^ Vučićević, Bojan. \"Growing Influence of Global Media in Balkans\". Media Center Sarajevo. Archived from the original on 23 April 2018. Retrieved 22 April 2018.
+^ Vučićević, Bojan. "Growing Influence of Global Media in Balkans". Media Center Sarajevo. Archived from the original on 23 April 2018. Retrieved 22 April 2018.
 
-^ \"Press Freedom Index\". Reporters Without Borders. Archived from the original on 21 November 2011. Retrieved 12 February 2016.
+^ "Press Freedom Index". Reporters Without Borders. Archived from the original on 21 November 2011. Retrieved 12 February 2016.
 
-^ \"U BiH tokom 2017. registrovano više od 3 miliona korisnika interneta\". Archived from the original on 19 April 2018. Retrieved 19 April 2018.
+^ "U BiH tokom 2017. registrovano više od 3 miliona korisnika interneta". Archived from the original on 19 April 2018. Retrieved 19 April 2018.
 
 ^ a b Bosnia's newfound tourism Archived 24 December 2007 at the Wayback Machine, Reuters; accessed 31 March 2018.
 
-^ \"Archived copy\". Archived from the original on 23 March 2019. Retrieved 23 March 2019.CS1 maint: archived copy as title (link)
+^ "Archived copy". Archived from the original on 23 March 2019. Retrieved 23 March 2019.CS1 maint: archived copy as title (link)
 
-^ \"BiH: U 2017. ostvareno 1,3 miliona turističkih posjeta i 2,6 miliona noćenja\". Archived from the original on 17 February 2018. Retrieved 17 February 2018.
+^ "BiH: U 2017. ostvareno 1,3 miliona turističkih posjeta i 2,6 miliona noćenja". Archived from the original on 17 February 2018. Retrieved 17 February 2018.
 
-^ \"Lonely Planet: Sarajevo 43th  Best City in the World\". Bosnia Travel. Archived from the original on 23 February 2007.
+^ "Lonely Planet: Sarajevo 43th  Best City in the World". Bosnia Travel. Archived from the original on 23 February 2007.
 
-^ \"Press Centre Lonely Planet Reveals Its Best Destinations, Journeys Experiences for 2010\". Lonely Planet. 2 November 2009. Archived from the original on 6 November 2010. Retrieved 4 January 2011.
+^ "Press Centre Lonely Planet Reveals Its Best Destinations, Journeys Experiences for 2010". Lonely Planet. 2 November 2009. Archived from the original on 6 November 2010. Retrieved 4 January 2011.
 
-^ Polat, Anil (27 March 2012). \"The Best City To Visit Travel Tournament 2012: Championship\". Foxnomad. Archived from the original on 30 March 2012. Retrieved 30 March 2012.
+^ Polat, Anil (27 March 2012). "The Best City To Visit Travel Tournament 2012: Championship". Foxnomad. Archived from the original on 30 March 2012. Retrieved 30 March 2012.
 
 ^ RomeReports: Visionaries of Medjugorje may appear before the Vatican Archived 5 May 2013 at the Wayback Machine; retrieved 26 February 2011.
 
@@ -1415,45 +1415,45 @@ References
 
 ^  Archived 24 April 2012 at the Wayback Machine,
 
-^ Bangs, Richard (10 January 2013). \"13 Greatest Adventures For 2013\". The Huffington Post. Archived from the original on 11 January 2013. Retrieved 11 January 2013.
+^ Bangs, Richard (10 January 2013). "13 Greatest Adventures For 2013". The Huffington Post. Archived from the original on 11 January 2013. Retrieved 11 January 2013.
 
-^ Caludio Agostoni, Parallelzero. \"Exploring Tito's Cold War bunker\". gulfnews.com. Archived from the original on 3 July 2012. Retrieved 3 July 2012.
+^ Caludio Agostoni, Parallelzero. "Exploring Tito's Cold War bunker". gulfnews.com. Archived from the original on 3 July 2012. Retrieved 3 July 2012.
 
 ^ University of Sarajevo Archived 10 September 2015 at the Wayback Machine on Sarajevo official web site
 
-^ \"About University\". University of Sarajevo. Archived from the original on 4 December 2008.
+^ "About University". University of Sarajevo. Archived from the original on 4 December 2008.
 
-^ \"Education System in Bosnia and Herzegovina\". EuroEducation.net – The European Education Directory. Archived from the original on 15 February 2012. Retrieved 18 July 2007.
+^ "Education System in Bosnia and Herzegovina". EuroEducation.net – The European Education Directory. Archived from the original on 15 February 2012. Retrieved 18 July 2007.
 
 ^ Hozić, 2008; Thompson De Luce, 2002; Kurspahić, 2003; Jusić, 2006
 
-^ a b Tarik Jusić, \"Bosnia and Herzegovina Archived 4 March 2016 at the Wayback Machine\", EJC Media Landscapes
+^ a b Tarik Jusić, "Bosnia and Herzegovina Archived 4 March 2016 at the Wayback Machine", EJC Media Landscapes
 
-^ \"Home Festival Awards Juries: International Jury \"Prizes of the International Jury\". www.berlinale.de/en. 2016. Archived from the original on 16 August 2011. Retrieved 23 February 2016.
+^ "Home Festival Awards Juries: International Jury "Prizes of the International Jury". www.berlinale.de/en. 2016. Archived from the original on 16 August 2011. Retrieved 23 February 2016.
 
-^ \"Bosnia and Herzegovina\". Encyclopædia Britannica. 2009. Archived from the original on 3 May 2009. Retrieved 27 July 2009.
+^ "Bosnia and Herzegovina". Encyclopædia Britannica. 2009. Archived from the original on 3 May 2009. Retrieved 27 July 2009.
 
-^ Britannica, Encyclopedia (11 August 2002). \"Encyclopedia britannica\". Encyclopedia Britannica – via Google Books.
+^ Britannica, Encyclopedia (11 August 2002). "Encyclopedia britannica". Encyclopedia Britannica – via Google Books.
 
 ^ Countries and Their Cultures: Saint Kitts and Nevis to Zimbabwe. p. 68.
 
-^ \"Serbian cuisine\". TravelSerbia.Info – Your travel guide for Serbia. Archived from the original on 30 March 2010. Retrieved 9 August 2010.
+^ "Serbian cuisine". TravelSerbia.Info – Your travel guide for Serbia. Archived from the original on 30 March 2010. Retrieved 9 August 2010.
 
-^ Jones, Lora (13 April 2018). \"Coffee: Who grows, drinks and pays the most?\". BBC News. Archived from the original on 13 June 2018. Retrieved 13 May 2018.
+^ Jones, Lora (13 April 2018). "Coffee: Who grows, drinks and pays the most?". BBC News. Archived from the original on 13 June 2018. Retrieved 13 May 2018.
 
-^ \"Ring zamijenio nalivperom\" (in Bosnian, Croatian, and Serbian). Nezavisne novine. 12 June 2005. Archived from the original on 1 October 2007.
+^ "Ring zamijenio nalivperom" (in Bosnian, Croatian, and Serbian). Nezavisne novine. 12 June 2005. Archived from the original on 1 October 2007.
 
 Bibliography
 
 Allcock, John B., Marko Milivojevic, et al. Conflict in the Former Yugoslavia: An Encyclopedia (1998)
 
-CIA (9 May 2019). \"Bosnia and Herzegovina\". The World Factbook. Retrieved 13 May 2019.CS1 maint: ref=harv (link)
+CIA (9 May 2019). "Bosnia and Herzegovina". The World Factbook. Retrieved 13 May 2019.CS1 maint: ref=harv (link)
 
 Fine, John Van Antwerp, Jr. (1991). The Early Medieval Balkans: A Critical Survey from the Sixth to the Late Twelfth Century. University of Michigan Press. ISBN 978-0-472-08149-3.CS1 maint: ref=harv (link)
 
 Fine, John Van Antwerp, Jr. (1994). The Late Medieval Balkans: A Critical Survey from the Late Twelfth Century to the Ottoman Conquest. University of Michigan Press. ISBN 9780472082605.CS1 maint: ref=harv (link)
 
-Basic, Denis (2009). \"4.1.1. Early Medieval Bosnia in Porphyrogenitus' De Administrando Imperio\". The Roots of the Religious, Ethnic, and National Identity of the Bosnian-Herzegovinian Muslims. University of Washington.CS1 maint: ref=harv (link)
+Basic, Denis (2009). "4.1.1. Early Medieval Bosnia in Porphyrogenitus' De Administrando Imperio". The Roots of the Religious, Ethnic, and National Identity of the Bosnian-Herzegovinian Muslims. University of Washington.CS1 maint: ref=harv (link)
 
 Coupland, Nikolas (2010). The Handbook of Language and Globalization. Blackwell Publishing. ISBN 978-1-4051-7581-4.
 
@@ -2944,7 +2944,7 @@ Non-Aligned Movement
 
 United Nations
 
-1 As the \"Turkish Cypriot State\".
+1 As the "Turkish Cypriot State".
 
 v
 
@@ -2993,6 +2993,3 @@ TDVİA: bosna-hersek
 VIAF: 126120141
 
  WorldCat Identities: lccn-n81035836
-
-"
-

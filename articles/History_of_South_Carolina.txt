@@ -1,5 +1,3 @@
-"
-
 Part of a series on the
 
 History of South Carolina
@@ -36,7 +34,7 @@ In the Stamp Act Crisis of 1765, South Carolina banded together with the other c
 
 In the early decades, the colony cultivated cotton on plantations of the sea islands and Low Country, along with rice, indigo and some tobacco as commodity crops, all worked by African slaves, most from West Africa. In the 19th century, invention of the cotton gin enabled profitable processing of short-staple cotton, which grew better in the Piedmont than did long-staple cotton. The hilly upland areas, where landowners were generally subsistence farmers with few slaves, were much poorer; a regional conflict between the coastal and inland areas developed in the political system, long dominated by the Low Country planters. With outspoken leaders such as John C. Calhoun, the state vied with Virginia as the dominant political and social force in the South. It fought federal tariffs in the 1830s and demanded that its rights to practice slavery be recognized in newly established territories. With the 1860 election of Republicans under Abraham Lincoln, who vowed to prevent slavery's expansion, the voters demanded secession. In December 1860, the state seceded from the Union; in February 1861, it joined the new Confederate States of America.
 
-In April 1861, the American Civil War began when Confederate forces attacked the American fort at Fort Sumter in Charleston harbor. From 1865 to 1877, South Carolina underwent Reconstruction. Congress shut down the civilian government in 1867, put the army in charge, gave Freedmen (freed slaves) the vote and prevented ex-Confederates from holding office. A Republican legislature supported by Freedmen, northern carpetbaggers and white Southern scalawags created and funded a public school system, and created social welfare institutions. The constitution they passed was kept nearly unaltered for 27 years, and most legislation passed during the Reconstruction years lasted longer than that. By 1877, the white conservatives, calling themselves \"Redeemers\", had regained political power. In the 1880s, Jim Crow laws were passed that were especially severe in the state, to create public segregation and control movement of African-American laborers. After 1890, almost all blacks lost their vote, not to regain it until 1965.
+In April 1861, the American Civil War began when Confederate forces attacked the American fort at Fort Sumter in Charleston harbor. From 1865 to 1877, South Carolina underwent Reconstruction. Congress shut down the civilian government in 1867, put the army in charge, gave Freedmen (freed slaves) the vote and prevented ex-Confederates from holding office. A Republican legislature supported by Freedmen, northern carpetbaggers and white Southern scalawags created and funded a public school system, and created social welfare institutions. The constitution they passed was kept nearly unaltered for 27 years, and most legislation passed during the Reconstruction years lasted longer than that. By 1877, the white conservatives, calling themselves "Redeemers", had regained political power. In the 1880s, Jim Crow laws were passed that were especially severe in the state, to create public segregation and control movement of African-American laborers. After 1890, almost all blacks lost their vote, not to regain it until 1965.
 
 An 1861 engraving of Fort Sumter before the attack that began the Civil War
 
@@ -154,7 +152,7 @@ Main article: Colonial period of South Carolina
 
 The Carolina Colonies
 
-By the end of the 16th century, the Spanish and French had left the area of South Carolina after several reconnaissance missions, expeditions and failed colonization attempts, notably the short-living French outpost of Charlesfort followed by the Spanish town of Santa Elena on modern-day Parris Island between 1562 and 1587. In 1629, Charles I, King of England, granted his attorney general a charter to everything between latitudes 36 and 31. He called this land the Province of Carolana, which would later be changed to \"Carolina\" for pronunciation, after the Latin form of his own name.
+By the end of the 16th century, the Spanish and French had left the area of South Carolina after several reconnaissance missions, expeditions and failed colonization attempts, notably the short-living French outpost of Charlesfort followed by the Spanish town of Santa Elena on modern-day Parris Island between 1562 and 1587. In 1629, Charles I, King of England, granted his attorney general a charter to everything between latitudes 36 and 31. He called this land the Province of Carolana, which would later be changed to "Carolina" for pronunciation, after the Latin form of his own name.
 
 In 1663, Charles II granted the land to the eight Lords Proprietors in return for their financial and political assistance in restoring him to the throne in 1660. Charles II intended that the newly created Province of Carolina would serve as an English bulwark to the contested lands claimed by Spanish Florida and prevent Spanish expansion northward. The eight nobles ruled the Province of Carolina as a proprietary colony. After the Yamasee War of 1715–1717, the Lords Proprietors came under increasing pressure from settlers and were forced to relinquish their charter to the Crown in 1719. The proprietors retained their right to the land until 1719, when the colony was officially split into the provinces of North Carolina and South Carolina as crown colonies.
 
@@ -184,7 +182,7 @@ Slaves
 
 Census listing number of slaves in South Carolina, 1721
 
-After the Yamasee War, the planters turned exclusively to importing African slaves for labor. With the establishment of rice and indigo as commodity export crops, South Carolina became a slave society, with slavery central to its economy. By 1708, African slaves composed a majority of the population in the colony; the blacks composed the majority of the population in the state into the 20th century. Planters used slave labor to support cultivation and processing of rice and indigo as commodity crops. Building dams, irrigation ditches and related infrastructure, enslaved Africans created the equivalent of huge earthworks to regulate water for the rice culture. Although the methods for cultivation of rice were patterned on those of West African rice growers, white planters took credit for what they called \"an achievement no less skillful than that which excites our wonder in viewing the works of the ancient Egyptians.\"
+After the Yamasee War, the planters turned exclusively to importing African slaves for labor. With the establishment of rice and indigo as commodity export crops, South Carolina became a slave society, with slavery central to its economy. By 1708, African slaves composed a majority of the population in the colony; the blacks composed the majority of the population in the state into the 20th century. Planters used slave labor to support cultivation and processing of rice and indigo as commodity crops. Building dams, irrigation ditches and related infrastructure, enslaved Africans created the equivalent of huge earthworks to regulate water for the rice culture. Although the methods for cultivation of rice were patterned on those of West African rice growers, white planters took credit for what they called "an achievement no less skillful than that which excites our wonder in viewing the works of the ancient Egyptians."
 
 While some lifetime indentured servants came to South Carolina transported as prisoners from Britain, having been sentenced for their part in the failed Scottish Jacobite Rebellions of 1744–46, by far most of the slaves came from West Africa. In the Low Country, including the Sea Islands, where large populations of Africans lived together, they developed a creolized culture and language known as Gullah/Geechee (the latter a term used in Georgia). They interacted with and adopted some elements of the English language and colonial culture and language. The Gullah adapted to elements of American society during the slavery years. Since the late nineteenth century, they have retained their distinctive life styles, products, and language to perpetuate their unique ethnic identity. Beginning about 1910, tens of thousands of blacks left the state in the Great Migration, traveling for work and other opportunities to the northern and midwestern industrial cities.
 
@@ -198,7 +196,7 @@ The market for land functioned efficiently and reflected both rapid economic dev
 
 Back country
 
-In contrast to the Tidewater, the back country was settled later in the 18th century, chiefly by Scots-Irish and North British migrants, who had quickly moved down from Pennsylvania and Virginia. The immigrants from Ulster, the Scottish lowlands, and the north of England (the border counties) composed the largest group from the British Isles before the Revolution. They came mostly in the 18th century, later than other colonial immigrants. Such \"North Britons were a large majority in much of the South Carolina upcountry.\" The character of this environment was \"well matched to the culture of the British borderlands.\"
+In contrast to the Tidewater, the back country was settled later in the 18th century, chiefly by Scots-Irish and North British migrants, who had quickly moved down from Pennsylvania and Virginia. The immigrants from Ulster, the Scottish lowlands, and the north of England (the border counties) composed the largest group from the British Isles before the Revolution. They came mostly in the 18th century, later than other colonial immigrants. Such "North Britons were a large majority in much of the South Carolina upcountry." The character of this environment was "well matched to the culture of the British borderlands."
 
 They settled in the backcountry throughout the South and relied on subsistence farming. Mostly they did not own slaves. Given the differences in background, class, slave holding, economics, and culture, there was long-standing competition between the Low Country and back country that played out in politics.
 
@@ -208,7 +206,7 @@ In the early period, planters earned wealth from two major crops: rice and indig
 
 Indigo production
 
-In the 1740s, Eliza Lucas Pinckney began indigo culture and processing in coastal South Carolina. Indigo was in heavy demand in Europe for making dyes for clothing. An \"Indigo Bonanza\" followed, with South Carolina production approaching a million pounds (400 plus Tonnes) in the late 1750s. This growth was stimulated by a British bounty of six pence per pound.
+In the 1740s, Eliza Lucas Pinckney began indigo culture and processing in coastal South Carolina. Indigo was in heavy demand in Europe for making dyes for clothing. An "Indigo Bonanza" followed, with South Carolina production approaching a million pounds (400 plus Tonnes) in the late 1750s. This growth was stimulated by a British bounty of six pence per pound.
 
 South Carolina did not have a monopoly of the British market, but the demand was strong and many planters switched to the new crop when the price of rice fell. Carolina indigo had a mediocre reputation because Carolina planters failed to achieve consistent high quality production standards. Carolina indigo nevertheless succeeded in displacing French and Spanish indigo in the British and in some continental markets, reflecting the demand for cheap dyestuffs from manufacturers of low-cost textiles, the fastest-growing sectors of the European textile industries at the onset of industrialization.
 
@@ -236,9 +234,9 @@ White colonists were not the only ones with a desire for freedom. Estimates are 
 
 Lord Charles Montagu, South Carolina Governor
 
-On October 7, 1780, at Kings Mountain, John Sevier and William Campbell, using volunteers from the mountains and from Tennessee, surrounded 1000 Loyalist soldiers camped on a mountain top. It was a decisive Patriot victory. It was the first Patriot victory since the British had taken Charleston. Thomas Jefferson, governor of Virginia at the time, called it, \"The turn of the tide of success.\"
+On October 7, 1780, at Kings Mountain, John Sevier and William Campbell, using volunteers from the mountains and from Tennessee, surrounded 1000 Loyalist soldiers camped on a mountain top. It was a decisive Patriot victory. It was the first Patriot victory since the British had taken Charleston. Thomas Jefferson, governor of Virginia at the time, called it, "The turn of the tide of success."
 
-While tensions mounted between the Crown and the Carolinas, some key southern Pastors became a target of King George: \"... this church (Bullock Creek) was noted as one of the \"Four Bees\" in King George's bonnet due to its pastor, Rev. Joseph Alexander, preaching open rebellion to the British Crown in June 1780. Bullock Creek Presbyterian Church was a place noted for being a Whig party stronghold. Under a ground swell of such Calvin Protestant leadership, South Carolina moved from a back seat to the front in the war against tyranny. Patriots went on to regain control of Charleston and South Carolina with untrained militiamen by trapping Colonel Banastre \"No Quarter\" Tarleton's troops along a river.
+While tensions mounted between the Crown and the Carolinas, some key southern Pastors became a target of King George: "... this church (Bullock Creek) was noted as one of the "Four Bees" in King George's bonnet due to its pastor, Rev. Joseph Alexander, preaching open rebellion to the British Crown in June 1780. Bullock Creek Presbyterian Church was a place noted for being a Whig party stronghold. Under a ground swell of such Calvin Protestant leadership, South Carolina moved from a back seat to the front in the war against tyranny. Patriots went on to regain control of Charleston and South Carolina with untrained militiamen by trapping Colonel Banastre "No Quarter" Tarleton's troops along a river.
 
 In 1787, John Rutledge, Charles Pinckney, Charles Cotesworth Pinckney, and Pierce Butler went to Philadelphia where the Constitutional Convention was being held and constructed what served as a detailed outline for the U.S. Constitution. The federal Constitution was ratified by the state in 1787. The new state constitution was ratified in 1790 without the support of the Upcountry.
 
@@ -256,7 +254,7 @@ South Carolina had one of the strongest Loyalists factions of any state. About 5
 
 Although the state had experienced a bitter bloody internal civil war 1780-82. civilian leaders nevertheless it adopted a policy of reconciliation that proved more moderate than any other state. About 4500 white Loyalists left when the war ended, but the majority remained behind. The state successfully and quickly reincorporated the vast majority. Some were required to pay a 10% fine of the value of the property. The legislature named 232 Loyalists liable for confiscation of their property, but most appealed and were forgiven.
 
-Rebecca Brannon, says South Carolinians, \"offered the most generous reconciliation to Loyalists ... despite suffering the worst extremes of violent civil war\" According to a reviewer, she:
+Rebecca Brannon, says South Carolinians, "offered the most generous reconciliation to Loyalists ... despite suffering the worst extremes of violent civil war" According to a reviewer, she:
 
 convincingly argues that South Carolinians, driven by social, political, and economic imperatives, engaged in a process of integration that was significantly more generous than that of other states. Indeed, Brannon's account strongly suggests that it was precisely the brutality and destructiveness of the conflict in the Palmetto State that led South Carolinians to favor reconciliation over retribution.
 
@@ -288,7 +286,7 @@ By 1830, 85% of inhabitants of rice plantations in the Low Country were slaves. 
 
 In 1822, a black freedman named Denmark Vesey and compatriots around Charlestown organized a plan for thousands of slaves to participate in an armed uprising to gain freedom. Vesey's plan, inspired by the 1791 Haitian Revolution, called for thousands of armed black men to kill their owners, seize the city of Charleston, and escape from the United States by sailing to Haiti. The plot was discovered when two slaves opposed to the plan leaked word of it to white authorities. Charleston authorities charged 131 men with participating in the conspiracy. In total, the state convicted 67 men and executed by hanging 35 of them, including Vesey. White fear of slave insurrections after the Vesey conspiracy led to a 9:15 pm curfew for slaves in Charleston, and the establishment of a municipal guard of 150 white men in Charleston, with half the men stationed in an arsenal called the Citadel. Columbia was protected by an arsenal.
 
-Plantations in older Southern states such as South Carolina wore out the soil to such an extent that 42% of state residents left the state for the lower South, to develop plantations with newer soil. The remaining South Carolina plantations were especially hard hit when worldwide cotton markets turned down in 1826–32 and again in 1837–49. Economic hardships caused many South Carolinians to believe that a \"Forty Bale theory\" explained their problems.
+Plantations in older Southern states such as South Carolina wore out the soil to such an extent that 42% of state residents left the state for the lower South, to develop plantations with newer soil. The remaining South Carolina plantations were especially hard hit when worldwide cotton markets turned down in 1826–32 and again in 1837–49. Economic hardships caused many South Carolinians to believe that a "Forty Bale theory" explained their problems.
 
 Nullification
 
@@ -296,11 +294,11 @@ Main article: Nullification crisis
 
 The white minority in South Carolina felt more threatened than in other parts of the South, and reacted more to the economic Panic of 1819, the Missouri Controversy of 1820, and attempts at emancipation in the form of the Ohio Resolutions of 1824 and the American Colonization Petition of 1827. South Carolina's first attempt at nullification occurred in 1822, when South Carolina adopted a policy of jailing foreign black sailors at South Carolina ports. This policy violated a treaty between the United Kingdom and the United States, but South Carolina defied a complaint from Britain through American Secretary of State John Quincy Adams and a United States Supreme Court justice's federal circuit decision condemning the jailings. Foreign blacks from Santo Domingo had previously communicated with Denmark Vesey's conspirators, and the South Carolina State Senate declared that the need to prevent insurrections was more important than laws, treaties or constitutions.
 
-South Carolinian George McDuffie popularized the \"Forty Bale theory\" to explain South Carolina's economic woes. He said that tariffs that became progressively higher in 1816, 1824 and 1828 had the same effect as if a thief stole forty bales out of a hundred from every barn. The tariffs applied to imports of goods such as iron, wool, and finished cotton products. The Forty Bale theory was based on faulty math, as Britain could sell finished cotton goods made from Southern raw cotton around the world, not just to the United States. Still, the theory was a popular explanation for economic problems that were caused in large part by overproduction of cotton in the Deep South, competing with South Carolina's declining crops because of its depleted soil. South Carolinians, rightly or wrongly, blamed the tariff for the fact that cotton prices fell from 18 cents a pound to 9 cents a pound during the 1820s.
+South Carolinian George McDuffie popularized the "Forty Bale theory" to explain South Carolina's economic woes. He said that tariffs that became progressively higher in 1816, 1824 and 1828 had the same effect as if a thief stole forty bales out of a hundred from every barn. The tariffs applied to imports of goods such as iron, wool, and finished cotton products. The Forty Bale theory was based on faulty math, as Britain could sell finished cotton goods made from Southern raw cotton around the world, not just to the United States. Still, the theory was a popular explanation for economic problems that were caused in large part by overproduction of cotton in the Deep South, competing with South Carolina's declining crops because of its depleted soil. South Carolinians, rightly or wrongly, blamed the tariff for the fact that cotton prices fell from 18 cents a pound to 9 cents a pound during the 1820s.
 
 While the effects of the tariff were exaggerated, manufactured imports from Europe were cheaper than American-made products without the tariff, and the tariff did reduce British imports of cotton to some extent. These were largely short-term problems that existed before United States factories and textile makers could compete with Europe. Also, the tariff replaced a tax system where slave states previously had to pay more in taxes for the increased representation they got in the U.S. House of Representatives under the three-fifths clause.
 
-The Tariff of 1828, which South Carolina agitators called the Tariff of Abominations, set the tariff rate at 50 percent. Although John C. Calhoun previously supported tariffs, he anonymously wrote the South Carolina Exposition and Protest, which was a states' rights argument for nullifying the tariff. Calhoun's theory was that the threat of secession would lead to a \"concurrent majority\" that would possess every white minority's consent, as opposed to a \"tyrannical majority\" of Northerners controlling the South. Both Calhoun and Robert Barnwell Rhett foresaw that the same arguments could be used to defend slavery when necessary.
+The Tariff of 1828, which South Carolina agitators called the Tariff of Abominations, set the tariff rate at 50 percent. Although John C. Calhoun previously supported tariffs, he anonymously wrote the South Carolina Exposition and Protest, which was a states' rights argument for nullifying the tariff. Calhoun's theory was that the threat of secession would lead to a "concurrent majority" that would possess every white minority's consent, as opposed to a "tyrannical majority" of Northerners controlling the South. Both Calhoun and Robert Barnwell Rhett foresaw that the same arguments could be used to defend slavery when necessary.
 
 President Andrew Jackson successfully forced the nullifiers to back down and allowed a gradual reduction of tariff rates. Calhoun and Senator Henry Clay agreed upon the Compromise Tariff of 1833, which would lower rates over 10 years. Calhoun later supported national protection for slavery in the form of the Fugitive Slave Law of 1850 and federal protection of slavery in the territories conquered from Mexico, in contradiction to his previous support for nullification and states' rights.
 
@@ -310,7 +308,7 @@ On July 29, 1835, Charleston Postmaster Alfred Huger found abolitionist literatu
 
 Protest of the Negro Act of 1740
 
-John Belton O'Neall summarized the Negro Act of 1740, in his written work, The Negro Law of South Carolina, when he stated: \"A slave may, by the consent of his master, acquire and hold personal property. All, thus required, is regarded in law as that of the master.\" Across the South, state supreme courts supported the position of this law. In 1848, O'Neall was the only one to express protest against the Act, arguing for the propriety of receiving testimony from enslaved Africans (many of whom, by 1848, were Christians) under oath: \"Negroes (slave or free) will feel the sanctions of an oath, with as much force as any of the ignorant classes of white people, in a Christian country.\"
+John Belton O'Neall summarized the Negro Act of 1740, in his written work, The Negro Law of South Carolina, when he stated: "A slave may, by the consent of his master, acquire and hold personal property. All, thus required, is regarded in law as that of the master." Across the South, state supreme courts supported the position of this law. In 1848, O'Neall was the only one to express protest against the Act, arguing for the propriety of receiving testimony from enslaved Africans (many of whom, by 1848, were Christians) under oath: "Negroes (slave or free) will feel the sanctions of an oath, with as much force as any of the ignorant classes of white people, in a Christian country."
 
 Secession and war
 
@@ -322,7 +320,7 @@ Main article: South Carolina in the American Civil War
 
 Prewar tensions
 
-Few white South Carolinians considered abolition of slavery as an option. Having lived as a minority among the majority-black slaves, they feared that, if freed, the slaves would try to \"Africanize\" the whites' cherished society and culture. This was what they believed had happened after slave revolutions in Haiti, in which numerous whites and free people of color were killed during the revolution. South Carolina's white politicians were divided between devoted Unionists who opposed any sort of secession, and those who believed secession was a state's right.
+Few white South Carolinians considered abolition of slavery as an option. Having lived as a minority among the majority-black slaves, they feared that, if freed, the slaves would try to "Africanize" the whites' cherished society and culture. This was what they believed had happened after slave revolutions in Haiti, in which numerous whites and free people of color were killed during the revolution. South Carolina's white politicians were divided between devoted Unionists who opposed any sort of secession, and those who believed secession was a state's right.
 
 John C. Calhoun noted that the dry and barren West could not support a plantation system and would remain without slaves. Calhoun proposed that Congress should not exclude slavery from territories but let each state choose for itself whether it would allow slaves within its borders. After Calhoun's death in 1850, however, South Carolina was left without a leader great enough in national standing and character to prevent action by those more militant South Carolinian factions who wanted to secede immediately. Andrew Pickens Butler argued against Charleston publisher Robert Barnwell Rhett, who advocated immediate secession and, if necessary, independence. Butler won the battle, but Rhett outlived him.
 
@@ -332,7 +330,7 @@ Fort Sumter
 
 1861, inside Ft. Sumter, flying the flag of Robert E. Lee's Headquarters.
 
-On February 4, the seven seceded states approved a new constitution for the Confederate States of America. Lincoln argued that the United States were \"one nation, indivisible,\" and denied the Southern states' right to secede. South Carolina entered the Confederacy on February 8, 1861, thus ending fewer than six weeks of being an independent State of South Carolina. Meanwhile Major Robert Anderson, commander of the U.S. troops in Charleston, withdrew his men into the small island fortress of Fort Sumter in Charleston Harbor and raised the U.S. flag. Fort Sumter was vastly outgunned by shore batteries and was too small to be a military threat but it had high symbolic value. In a letter delivered January 31, 1861, South Carolina Governor Pickens demanded of President Buchanan that he surrender Fort Sumter, because \"I regard that possession is not consistent with the dignity or safety of the State of South Carolina.\" Buchanan refused. Lincoln was determined to hold it to assert national power and prestige; he wanted the Confederacy to fire the first shot. If it was to be a dignified independent nation the Confederacy could not tolerate a foreign fort in its second largest harbor.
+On February 4, the seven seceded states approved a new constitution for the Confederate States of America. Lincoln argued that the United States were "one nation, indivisible," and denied the Southern states' right to secede. South Carolina entered the Confederacy on February 8, 1861, thus ending fewer than six weeks of being an independent State of South Carolina. Meanwhile Major Robert Anderson, commander of the U.S. troops in Charleston, withdrew his men into the small island fortress of Fort Sumter in Charleston Harbor and raised the U.S. flag. Fort Sumter was vastly outgunned by shore batteries and was too small to be a military threat but it had high symbolic value. In a letter delivered January 31, 1861, South Carolina Governor Pickens demanded of President Buchanan that he surrender Fort Sumter, because "I regard that possession is not consistent with the dignity or safety of the State of South Carolina." Buchanan refused. Lincoln was determined to hold it to assert national power and prestige; he wanted the Confederacy to fire the first shot. If it was to be a dignified independent nation the Confederacy could not tolerate a foreign fort in its second largest harbor.
 
 About 6,000 Confederate men were stationed around the rim of the harbor, ready to take on the 60 men in Fort Sumter. At 4:30 a.m. on April 12, after two days of fruitless negotiations, and with Union ships just outside the harbor, the Confederates opened fire on orders from President Jefferson Davis. Edmund Ruffin fired the first shot. Thirty-four hours later, Anderson's men raised the white flag and were allowed to leave the fort with colors flying and drums beating, saluting the U.S. flag with a 50-gun salute before taking it down. During this salute, one of the guns exploded, killing a young soldier—the only casualty of the bombardment and the first casualty of the war. In a mass frenzy, North and South men rushed to enlist, as Lincoln called up troops to recapture the fort.
 
@@ -340,9 +338,9 @@ Civil War devastates the state
 
 The South was at a disadvantage in number, weaponry, and maritime skills; the region did not have much of a maritime tradition and few sailors. Federal ships sailed south and blocked off one port after another. As early as November, Union troops occupied the Sea Islands in the Beaufort area, and established an important base for the men and ships that would obstruct the ports at Charleston and Savannah. Many plantation owners had already fled to distant interior refuges, sometimes taking their slaves with them.
 
-Those African-Americans who remained on the Sea Islands became the first \"freedmen\" of the war. Under military supervision, the Sea Islands became a laboratory for education, with Northern missionary teachers finding former enslaved adults as well as children eager for learning. The supervisors assigned plots of plantation land to individual freedmen households, who began to do subsistence farming, generally of food crops and cotton or rice.
+Those African-Americans who remained on the Sea Islands became the first "freedmen" of the war. Under military supervision, the Sea Islands became a laboratory for education, with Northern missionary teachers finding former enslaved adults as well as children eager for learning. The supervisors assigned plots of plantation land to individual freedmen households, who began to do subsistence farming, generally of food crops and cotton or rice.
 
-Despite South Carolina's important role, and the Union's unsuccessful attempt to take Charleston from 1863 onward, fighting was largely limited to naval activities until almost the end of the war. Having completed his March to the Sea at Savannah in 1865, Union General Sherman took his army to Columbia, then north into North Carolina. With most major Confederate resistance eliminated by this point, the Union army was nearly unopposed. Sherman's troops embarked on an orgy of looting and destruction as there was widespread resentment at South Carolina being \"the mother of secession\" and the principal reason why the war started in the first place. Columbia and many other towns were burned.
+Despite South Carolina's important role, and the Union's unsuccessful attempt to take Charleston from 1863 onward, fighting was largely limited to naval activities until almost the end of the war. Having completed his March to the Sea at Savannah in 1865, Union General Sherman took his army to Columbia, then north into North Carolina. With most major Confederate resistance eliminated by this point, the Union army was nearly unopposed. Sherman's troops embarked on an orgy of looting and destruction as there was widespread resentment at South Carolina being "the mother of secession" and the principal reason why the war started in the first place. Columbia and many other towns were burned.
 
 On February 21, 1865, with the Confederate forces finally evacuated from Charleston, the black 54th Massachusetts Regiment, led by Thomas Baker, Albert Adams, David Adams, Nelson R. Anderson, William H. Alexander, Beverly Harris, Joseph Anderson, Robert Abram, Elijah Brown, Wiley Abbott, marched through the city. At a ceremony at which the U.S. flag was raised over Fort Sumter, former fort commander Robert Anderson was joined on the platform by two African Americans: Union hero Robert Smalls, who had piloted a Confederate ship to Union lines, and the son of Denmark Vesey.
 
@@ -354,15 +352,15 @@ A cotton farmer and his children pose before taking their crop to a cotton gin, 
 
 African Americans had long composed the majority of the state's population. However, in 1860, only 2 percent of the state's black population were free; most were mulattos or free people of color, with ties of kinship to white families. They were well established as more educated and skilled artisans in Charleston and some other cities despite social restrictions, and sometimes as landowners and slaveholders. As a result, free people of color before the war became important leaders in the South Carolina government during Reconstruction; they made up 26 percent of blacks elected to office in the state between 1868 and 1876 and played important roles in the Republican Party, prepared by their education, skills and experiences before the war.
 
-Despite the anti-Northern fury of prewar and wartime politics, most South Carolinians, including the state's leading opinion-maker, Wade Hampton III, believed that white citizens would do well to accept President Andrew Johnson's terms for full reentry to the Union. However, the state legislature, in 1865, passed \"Black Codes\" to control the work and movement of freedmen. This angered Northerners, who accused the state of imposing semi-slavery on the freedmen. The South Carolina Black Codes have been described:
+Despite the anti-Northern fury of prewar and wartime politics, most South Carolinians, including the state's leading opinion-maker, Wade Hampton III, believed that white citizens would do well to accept President Andrew Johnson's terms for full reentry to the Union. However, the state legislature, in 1865, passed "Black Codes" to control the work and movement of freedmen. This angered Northerners, who accused the state of imposing semi-slavery on the freedmen. The South Carolina Black Codes have been described:
 
-Persons of color contracting for service were to be known as \"servants\", and those with whom they contracted, as \"masters.\" On farms the hours of labor would be from sunrise to sunset daily, except on Sunday. The negroes were to get out of bed at dawn. Time lost would be deducted from their wages, as would be the cost of food, nursing, etc., during absence from sickness. Absentees on Sunday must return to the plantation by sunset. House servants were to be at call at all hours of the day and night on all days of the week. They must be \"especially civil and polite to their masters, their masters' families and guests\", and they in return would receive \"gentle and kind treatment.\" Corporal and other punishment was to be administered only upon order of the district judge or other civil magistrate. A vagrant law of some severity was enacted to keep the negroes from roaming the roads and living the lives of beggars and thieves.
+Persons of color contracting for service were to be known as "servants", and those with whom they contracted, as "masters." On farms the hours of labor would be from sunrise to sunset daily, except on Sunday. The negroes were to get out of bed at dawn. Time lost would be deducted from their wages, as would be the cost of food, nursing, etc., during absence from sickness. Absentees on Sunday must return to the plantation by sunset. House servants were to be at call at all hours of the day and night on all days of the week. They must be "especially civil and polite to their masters, their masters' families and guests", and they in return would receive "gentle and kind treatment." Corporal and other punishment was to be administered only upon order of the district judge or other civil magistrate. A vagrant law of some severity was enacted to keep the negroes from roaming the roads and living the lives of beggars and thieves.
 
 The Black Codes outraged northern opinion and apparently were never put into effect in any state.
 
 Republican rule
 
-After winning the 1866 elections, the Radical Republicans took control of the Reconstruction process. The Army registered all male voters, and elections returned a Republican government composed of a coalition of freedmen, \"carpetbaggers\", and \"scalawags\". By a constitutional convention, new voters created the Constitution of 1868; this brought democratic reforms to the state, including its first public school system. Native white Republicans supported it, but white Democrats viewed the Republican government as representative of black interests only and were largely unsupportive.
+After winning the 1866 elections, the Radical Republicans took control of the Reconstruction process. The Army registered all male voters, and elections returned a Republican government composed of a coalition of freedmen, "carpetbaggers", and "scalawags". By a constitutional convention, new voters created the Constitution of 1868; this brought democratic reforms to the state, including its first public school system. Native white Republicans supported it, but white Democrats viewed the Republican government as representative of black interests only and were largely unsupportive.
 
 Adding to the interracial animosity was the sense of many whites that their former slaves had betrayed them. Before the war, slaveholders had convinced themselves that they were treating their slaves well and had earned their slaves' loyalty. When the Union Army rolled in and slaves deserted by the thousands, slaveholders were stunned. The black population scrambled to preserve its new rights while the white population attempted to claw its way back up the social ladder by denying blacks those same rights and reviving white supremacy.
 
@@ -372,7 +370,7 @@ The declaration was followed by mass arrests and a series of Congressional heari
 
 Spending and debt
 
-A major theme of conservative opposition to Republican state government was the escalating state debt, and the rising taxes paid by a white population that was much poorer than before the war. Much of the state money had been squandered or wasted. Simkins and Woody say that, \"The state debt increased rapidly, interest was seldom paid, and credit of the state was almost wiped out; yet with one or two exceptions the offenders were not brought to justice.\"
+A major theme of conservative opposition to Republican state government was the escalating state debt, and the rising taxes paid by a white population that was much poorer than before the war. Much of the state money had been squandered or wasted. Simkins and Woody say that, "The state debt increased rapidly, interest was seldom paid, and credit of the state was almost wiped out; yet with one or two exceptions the offenders were not brought to justice."
 
 Reconstruction government established public education for the first time, and new charitable institutions, together with improved prisons. There was corruption, but it was mostly white Southerners who benefited, particularly by investments to develop railroads and other infrastructure. Taxes had been exceedingly low before the war because the planter class refused to support programs such as education welfare. The exigencies of the postwar period caused the state debt to climb rapidly. When Republicans came to power in 1868, the debt stood at $5.4 million. By the time Republicans lost control in 1877, state debt had risen to $18.5 million.
 
@@ -384,19 +382,19 @@ See also: Disputed government of South Carolina of 1876-77
 
 From 1868 on, elections were accompanied by increasing violence from white paramilitary groups such as the Red Shirts. Because of the violence in 1870, Republican Governor Chamberlain requested assistance from Washington to try to keep control. President Ulysses S. Grant sent federal troops to try to preserve order and ensure a fair election.
 
-Using as a model the \"Mississippi Plan\", which had redeemed that state in 1874, South Carolina whites used intimidation, violence, persuasion, and control of the blacks. In 1876, tensions were high, especially in Piedmont towns where the numbers of blacks were fewer than whites. In these counties, blacks sometimes made up a narrow majority. There were numerous demonstrations by the Red Shirts—white Democrats determined to win the upcoming elections by any means possible. The Red Shirts turned the tide in South Carolina, convincing whites that this could indeed be the year they regain control and terrorizing blacks to stay away from voting, due to incidents such as the Hamburg Massacre in July, the Ellenton riots in October, and other similar events in Aiken County and Edgefield District. Armed with heavy pistols and rifles, they rode on horseback to every Republican meeting, and demanded a chance to speak. The Red Shirts milled among the crowds. Each selected a black man to watch, privately threatening to shoot him if he raised a disturbance. The Redeemers organized hundreds of rifle clubs. Obeying proclamations to disband, they sometimes reorganized as missionary societies or dancing clubs—with rifles.
+Using as a model the "Mississippi Plan", which had redeemed that state in 1874, South Carolina whites used intimidation, violence, persuasion, and control of the blacks. In 1876, tensions were high, especially in Piedmont towns where the numbers of blacks were fewer than whites. In these counties, blacks sometimes made up a narrow majority. There were numerous demonstrations by the Red Shirts—white Democrats determined to win the upcoming elections by any means possible. The Red Shirts turned the tide in South Carolina, convincing whites that this could indeed be the year they regain control and terrorizing blacks to stay away from voting, due to incidents such as the Hamburg Massacre in July, the Ellenton riots in October, and other similar events in Aiken County and Edgefield District. Armed with heavy pistols and rifles, they rode on horseback to every Republican meeting, and demanded a chance to speak. The Red Shirts milled among the crowds. Each selected a black man to watch, privately threatening to shoot him if he raised a disturbance. The Redeemers organized hundreds of rifle clubs. Obeying proclamations to disband, they sometimes reorganized as missionary societies or dancing clubs—with rifles.
 
-They set up an ironclad economic boycott against black activists and \"scalawags\" who refused to vote the Democratic ticket. People lost jobs over their political views. They beat down the opposition—but always just within the law. In 1876, Wade Hampton made more than forty speeches across the state. Some Black Republicans joined his cause; donning the Red Shirts, they paraded with the whites. Most scalawags \"crossed Jordan\", as switching to the Democrats was called.
+They set up an ironclad economic boycott against black activists and "scalawags" who refused to vote the Democratic ticket. People lost jobs over their political views. They beat down the opposition—but always just within the law. In 1876, Wade Hampton made more than forty speeches across the state. Some Black Republicans joined his cause; donning the Red Shirts, they paraded with the whites. Most scalawags "crossed Jordan", as switching to the Democrats was called.
 
 On election day, there was intimidation and fraud on all sides, employed by both parties. Edgefield and Laurens counties had more votes for Democratic candidate Wade Hampton III than the total number of registered voters in either county. The returns were disputed all the way to Washington, where they played a central role in the Compromise of 1877. Both parties claimed victory. For a while, two separate state assemblies did business side by side on the floor of the state house (their Speakers shared the Speaker's desk, but each had his own gavel), until the Democrats moved to their own building. There the Democrats continued to pass resolutions and conducted the state's business, just as the Republicans were doing. The Republican State Assembly tossed out results of the tainted election and reelected Chamberlain as governor. A week later, General Wade Hampton III took the oath of office for the Democrats.
 
-Finally, in return for the South's support of his own convoluted presidential \"victory\" over Samuel Tilden, President Rutherford B. Hayes withdrew federal troops from Columbia and the rest of the South in 1877. The Republican government dissolved and Chamberlain headed north, as Wade Hampton and his Redeemers took control.
+Finally, in return for the South's support of his own convoluted presidential "victory" over Samuel Tilden, President Rutherford B. Hayes withdrew federal troops from Columbia and the rest of the South in 1877. The Republican government dissolved and Chamberlain headed north, as Wade Hampton and his Redeemers took control.
 
 Memory
 
 Whites and blacks in South Carolina developed different memories of Reconstruction and used them to justify their politics. James Shepherd Pike, a prominent Republican journalist, visited the state in 1873 and wrote accounts that were widely reprinted and published as a book, The Prostrate State (1874). Historian Eric Foner writes:
 
-The book depicted a state engulfed by political corruption, drained by governmental extravagance, and under the control of \"a mass of black barbarism.\" The South's problems, he insisted, arose from \"Negro government.\" The solution was to restore leading whites to political power.
+The book depicted a state engulfed by political corruption, drained by governmental extravagance, and under the control of "a mass of black barbarism." The South's problems, he insisted, arose from "Negro government." The solution was to restore leading whites to political power.
 
 Similar views were developed in scholarly monographs by academic historians of the Dunning School based at Columbia University in the early 20th century; they served as historians at major colleges in the South, influencing interpretation of Reconstruction into the 1960s. They argued that corrupt Yankee carpetbaggers controlled for financial profit the mass of ignorant black voters and nearly plunged South Carolina into economic ruin and social chaos. The heroes in this version were the Red Shirts: white paramilitary insurgents who, beginning in 1874, rescued the state from misrule and preserved democracy, expelled blacks from the public square by intimidation during elections, restored law and order, and created a long era of comity between the races.
 
@@ -406,11 +404,11 @@ In the 1980s, social battles over the display of the Confederate flag following 
 
 Conservative rule 1877–90
 
-Wade Hampton III, the \"Savior of South Carolina\".
+Wade Hampton III, the "Savior of South Carolina".
 
 The Democrats were led by General Wade Hampton III and other former Confederate veterans who espoused a return to the policies of the antebellum period. Known as the Conservatives, or the Bourbons, they favored a minimalist approach by the government and a conciliatory policy towards blacks while maintaining white supremacy. Also of interest to the Conservatives was the restoration of the University of South Carolina to its prominent prewar status as the leading institution of higher education in the state and the region. They closed the college before passing a law to restrict admission to whites only. The legislature designated Claflin College for higher education for blacks. (The Reconstruction legislature had opened the college to blacks and established supplemental programs to prepare them for study.)
 
-Once in power, the Democrats quickly consolidated their position and sought to unravel the legacy of the Radical Republicans. They pressured Republicans to resign from their positions, which included violence and intimidation by members of the Red Shirts, a paramilitary group described the historian George Rabe as the \"military arm of the Democratic Party,\" who also worked to suppress black voting. Within a year both the legislative and judiciary were firmly in the control of the Democrats. The Democrats launched investigations into the corruption and frauds committed by Republicans during Reconstruction. They dropped the charges when the Federal government dropped its charges against whites accused of violence in the 1876 election campaign.
+Once in power, the Democrats quickly consolidated their position and sought to unravel the legacy of the Radical Republicans. They pressured Republicans to resign from their positions, which included violence and intimidation by members of the Red Shirts, a paramilitary group described the historian George Rabe as the "military arm of the Democratic Party," who also worked to suppress black voting. Within a year both the legislative and judiciary were firmly in the control of the Democrats. The Democrats launched investigations into the corruption and frauds committed by Republicans during Reconstruction. They dropped the charges when the Federal government dropped its charges against whites accused of violence in the 1876 election campaign.
 
 With their position secure, the Democrats next tackled the state debt. Many Democrats from the upcountry, led by General Martin Gary, who had developed the Edgefield Plan for targeted violence to take back the state, pushed for the entire state debt to be canceled, but Gary was opposed by Charleston holders of the bonds. A compromise moderated by Wade Hampton was achieved and by October 1882, the state debt was reduced to $6.5 million.
 
@@ -422,9 +420,9 @@ Tillman era and disfranchisement, 1890–1914
 
 Statue of Ben Tillman, one of the most outspoken advocates of racism to serve in Congress.
 
-In 1890, Ben Tillman set his sights on the gubernatorial contest. The farmers rallied behind his candidacy and Tillman easily defeated the conservative nominee, A.C. Haskell. The conservatives failed to grasp the strength of the farmers' movement in the state. The planter elite no longer engendered automatic respect for having fought in the Civil War. Not only that, but Tillman's \"humorous and coarse speech appealed to a majority no more delicate than he in matters of taste.\"
+In 1890, Ben Tillman set his sights on the gubernatorial contest. The farmers rallied behind his candidacy and Tillman easily defeated the conservative nominee, A.C. Haskell. The conservatives failed to grasp the strength of the farmers' movement in the state. The planter elite no longer engendered automatic respect for having fought in the Civil War. Not only that, but Tillman's "humorous and coarse speech appealed to a majority no more delicate than he in matters of taste."
 
-The Tillman movement succeeded in enacting a number of Tillman's proposals and pet projects. Among those was the crafting of a new state constitution and a state dispensary system for alcohol. Tillman held a \"pathological fear of Negro rule.\" White elites created a new constitution with provisions to suppress voting by blacks and poor whites following the 1890 model of Mississippi, which had survived an appeal to the US Supreme Court.
+The Tillman movement succeeded in enacting a number of Tillman's proposals and pet projects. Among those was the crafting of a new state constitution and a state dispensary system for alcohol. Tillman held a "pathological fear of Negro rule." White elites created a new constitution with provisions to suppress voting by blacks and poor whites following the 1890 model of Mississippi, which had survived an appeal to the US Supreme Court.
 
 They followed what was known as the Mississippi Plan, which had survived a US Supreme Court challenge. Disfranchisement was chiefly accomplished through provisions related to making voter registration more difficult, such as poll taxes and literacy tests, which in practice adversely affected African Americans and poor whites. After promulgation of the new Constitution of 1895, voting was for more than sixty years essentially restricted to whites, establishing a one-party Democratic state. White Democrats benefited by controlling a House of Representatives apportionment based on the total state population, although the number of voters had been drastically reduced. Blacks were excluded from the political system in every way, including from serving in local offices and on juries.
 
@@ -432,7 +430,7 @@ During Reconstruction, black legislators had been a majority in the lower house 
 
 The 1900 census demonstrated the extent of disfranchisement: a total of 782,509 African Americans made up more than 58 percent of the state's population, essentially without any representation. The political loss affected educated and illiterate men alike. It meant that without their interests represented, blacks were unfairly treated within the state. They were unable to serve on juries; segregated schools and services were underfunded; law enforcement was dominated by whites. African Americans did not recover the ability to exercise suffrage and political rights until the Civil Rights Movement won passage of Federal legislation in 1964 and 1965.
 
-The state Dispensary, described as \"Ben Tillman's Baby\", was never popular in the state, and violence broke out in Darlington over its enforcement. In 1907, the Dispensary Act was repealed. In 1915, the legal sale of alcohol was prohibited by referendum.
+The state Dispensary, described as "Ben Tillman's Baby", was never popular in the state, and violence broke out in Darlington over its enforcement. In 1907, the Dispensary Act was repealed. In 1915, the legal sale of alcohol was prohibited by referendum.
 
 Tillman's influence on the politics of South Carolina began to wane after he was elected by the legislature to the U.S. Senate in 1895. The Conservatives recaptured the legislature in 1902. The elite planter, Duncan Clinch Heyward, won the gubernatorial election. He made no substantial changes and Heyward continued to enforce the Dispensary Act at great difficulty. The state continued its rapid pace of industrialization, which gave rise to a new class of white voters, the cotton mill workers.
 
@@ -440,7 +438,7 @@ White sharecroppers and mill workers coalesced behind the candidacy of Tillmanit
 
 Economic booms and busts
 
-In the 1880s Atlanta editor Henry W. Grady won attention in the state for his vision of a \"New South\", a South based on the modern industrial model. By now, the idea had already struck some enterprising South Carolinians that the cotton they were shipping north could also be processed in South Carolina mills. The idea was not new; in 1854, De Bow's Commercial Review of the South & West had boasted to investors of South Carolina's potential for manufacturing, citing its three lines of railroads, inexpensive raw materials, non-freezing rivers, and labor pool. Slavery was so profitable before 1860 that it absorbed available capital and repelled Northern investors, but now the time for industrialization was at hand. By 1900, the textile industry was established in upland areas, which had water-power and an available white labor force, comprising men, women, and children willing to move from hard-scrabble farms to mill towns.
+In the 1880s Atlanta editor Henry W. Grady won attention in the state for his vision of a "New South", a South based on the modern industrial model. By now, the idea had already struck some enterprising South Carolinians that the cotton they were shipping north could also be processed in South Carolina mills. The idea was not new; in 1854, De Bow's Commercial Review of the South & West had boasted to investors of South Carolina's potential for manufacturing, citing its three lines of railroads, inexpensive raw materials, non-freezing rivers, and labor pool. Slavery was so profitable before 1860 that it absorbed available capital and repelled Northern investors, but now the time for industrialization was at hand. By 1900, the textile industry was established in upland areas, which had water-power and an available white labor force, comprising men, women, and children willing to move from hard-scrabble farms to mill towns.
 
 In 1902, the Charleston Expedition drew visitors from around the world. President Theodore Roosevelt, whose mother had attended school in Columbia, called for reconciliation of still simmering animosities between the North and the South.
 
@@ -454,7 +452,7 @@ Main article: Civil Rights movement in South Carolina
 
 Compared to hot spots such as Mississippi and Alabama, desegregation went rather smoothly during the 1950s and 1960s in South Carolina. As early as 1948, however, when Strom Thurmond ran for President on the States Rights ticket, South Carolina whites were showing discontent with the Democrats' post–World War II continuation of the New Deal's federalization of power. South Carolina blacks had problems with the Southern version of states' rights; by 1940, the voter registration provisions written into the 1895 constitution effectively still limited African American voters to 3,000—only 0.8 percent of those of voting age in the state. African Americans had not been able to elect a representative since the 19th century. Hundreds of thousands left the state for industrial cities in the Great Migration of the 20th century. By 1960, during the Civil Rights Movement, South Carolina had a population of 2,382,594, of whom nearly 35%, or 829,291 were African Americans, who had been without representation for 60 years. In addition, the state enforced legal racial segregation in public facilities.
 
-Non-violent action against segregation began in Rock Hill in 1961, when nine black Friendship Junior College students took seats at the whites-only lunch counter at a downtown McCrory's and refused to leave. When police arrested them, the students were given the choice of paying $200 fines or serving 30 days of hard labor in the York County jail. The Friendship Nine, as they became known, chose the latter, gaining national attention in the Civil Rights Movement because of their decision to use the \"jail, no bail\" strategy.
+Non-violent action against segregation began in Rock Hill in 1961, when nine black Friendship Junior College students took seats at the whites-only lunch counter at a downtown McCrory's and refused to leave. When police arrested them, the students were given the choice of paying $200 fines or serving 30 days of hard labor in the York County jail. The Friendship Nine, as they became known, chose the latter, gaining national attention in the Civil Rights Movement because of their decision to use the "jail, no bail" strategy.
 
 Recent events
 
@@ -464,7 +462,7 @@ The rapid decline of agriculture in the state has been one of the most important
 
 After 1972, both houses of the state legislature were reapportioned into single-member districts, ending another rural advantage. Coupled with the federal Voting Rights Act of 1965, which protected voting for African Americans, the reapportionment transformed South Carolina politics. The South Carolina Democratic party, which dominated the state for nearly a century after Reconstruction, due to suppression of black voting, began to decline at the state and county level with the 1994 elections. The majority white voters had been supporting Republican presidential candidates since the late 1960s and gradually elected the party candidates to local and state offices as well. Republicans won all but one statewide constitutional office, and control of the state house of representatives.
 
-Fritz Hollings, governor 1959–63, who was a key supporter of development, executed a campaign to promote industrial training programs and implemented a state-wide economic development strategy. The end of the Cold War in 1990 brought the closing of military installations, such as the naval facilities in North Charleston, which Rep. Mendel Rivers had long sponsored. The quest for new jobs became a high state priority. Starting in 1975 the state used its attractive climate, lack of powerful labor unions, and low wage rates to attract foreign investment in factories, including Michelin, which located its U.S. headquarters in the state. The stretch of Interstate 85 from the North Carolina line to Greenville became \"UN Alley\" as international companies opened operations.
+Fritz Hollings, governor 1959–63, who was a key supporter of development, executed a campaign to promote industrial training programs and implemented a state-wide economic development strategy. The end of the Cold War in 1990 brought the closing of military installations, such as the naval facilities in North Charleston, which Rep. Mendel Rivers had long sponsored. The quest for new jobs became a high state priority. Starting in 1975 the state used its attractive climate, lack of powerful labor unions, and low wage rates to attract foreign investment in factories, including Michelin, which located its U.S. headquarters in the state. The stretch of Interstate 85 from the North Carolina line to Greenville became "UN Alley" as international companies opened operations.
 
 Tourism became a major industry, especially in the Myrtle Beach area. With its semitropical climate, cheap land and low construction costs (because of low wages), the state became a developer's dream. Barrier islands, such as Kiawah and Hilton Head, were developed as retirement communities for wealthy outsiders. The state's attempts to manage coastal development in an orderly and environmentally sound manner have run afoul of federal court decisions. The U.S. Supreme Court (in Lucas v. South Carolina Coastal Council) ruled that the state, in forbidding construction on threatened beachfront property, had, in effect, seized the plaintiff's property without due process of law. The rush to build upscale housing along the coast paid its price in the billions of dollars of losses as Hurricane Hugo swept through on September 21–22, 1989. Charleston was more used to hurricanes; historical preservation groups immediately stepped in to begin salvage and reconstruction, with the result that one year after Hugo, the city was virtually returned to normal.
 
@@ -476,15 +474,15 @@ In 2009, the state outbid the state of Washington for a giant new Boeing plant, 
 
 Politics
 
-In the 1970s, South Carolina white voters elected the state's first Republican governor since Reconstruction. In 1987 and 1991, the state elected and reelected Governor Carroll Campbell, another Republican. Many politicians switched from the Democratic Party to the GOP, including David Beasley, a former Democrat who claimed to have undergone a spiritual rebirth; he was elected governor as a Republican. In 1996, Beasley surprised citizens by announcing that he could not justify keeping the Confederate flag flying over the capitol. He said that a \"spate of racially motivated violence compelled him to reconsider the politics and symbolism of the Confederate flag, and he concluded it should be moved.\" Traditionalists were further surprised when Bob Jones III, head of Bob Jones University, announced he held the same view.
+In the 1970s, South Carolina white voters elected the state's first Republican governor since Reconstruction. In 1987 and 1991, the state elected and reelected Governor Carroll Campbell, another Republican. Many politicians switched from the Democratic Party to the GOP, including David Beasley, a former Democrat who claimed to have undergone a spiritual rebirth; he was elected governor as a Republican. In 1996, Beasley surprised citizens by announcing that he could not justify keeping the Confederate flag flying over the capitol. He said that a "spate of racially motivated violence compelled him to reconsider the politics and symbolism of the Confederate flag, and he concluded it should be moved." Traditionalists were further surprised when Bob Jones III, head of Bob Jones University, announced he held the same view.
 
 Beasley was upset for reelection in 1998 by the little-known Jim Hodges, a state assemblyman from Lancaster. Hodges attacked Beasley's opposition to the creation of a state lottery to support education. Hodges called for a fresh tax base to improve public education. Despite Hodges' unwillingness to join Beasley in his opposition to flying the Confederate flag, the NAACP announced its support for Hodges. (At the same time the NAACP demanded a boycott of conferences in the state over the flag issue). Hodges reportedly accepted millions in contributions from the gambling industry, which some estimated spent a total of $10 million to defeat Beasely.
 
-After the election, with public opinions steadfastly against video gambling, Hodges asked for a statewide referendum on the issue. He claimed that he would personally join the expected majority in saying \"no\" on legalized gambling, but vowed not to campaign against it. Critics in both parties suggested that Hodges' debts to the state's gambling interests were keeping him from campaigning against legalized gambling. The state constitution does not provide for referendums except for ratification of amendments. State legislators shut down the state's video casinos soon after Hodges took office.
+After the election, with public opinions steadfastly against video gambling, Hodges asked for a statewide referendum on the issue. He claimed that he would personally join the expected majority in saying "no" on legalized gambling, but vowed not to campaign against it. Critics in both parties suggested that Hodges' debts to the state's gambling interests were keeping him from campaigning against legalized gambling. The state constitution does not provide for referendums except for ratification of amendments. State legislators shut down the state's video casinos soon after Hodges took office.
 
-Upon his election, Hodges announced that he agreed with Beasley's increasingly popular compromise proposal on the Confederate flag issue. He supported the flag's transfer to a Confederate monument on the State House's grounds. Many South Carolinians agreed with this position as the only solution. Further, they admired Hodges' solution to nuclear waste shipments to the state. Hodges alienated moderate voters sufficiently so that in 2002, most of the state's major newspapers supported the Republican Mark Sanford to replace him. Hodges was held responsible for the state's mishandling of the Hurricane Floyd evacuation in 1999. By 2002, most of the funds from Hodges' \"South Carolina Education Lottery\" were used to pay for college scholarships, rather than to improve impoverished rural and inner-city schools. Religious leaders denounced the lottery as taxing the poor to pay for higher education for the middle class.
+Upon his election, Hodges announced that he agreed with Beasley's increasingly popular compromise proposal on the Confederate flag issue. He supported the flag's transfer to a Confederate monument on the State House's grounds. Many South Carolinians agreed with this position as the only solution. Further, they admired Hodges' solution to nuclear waste shipments to the state. Hodges alienated moderate voters sufficiently so that in 2002, most of the state's major newspapers supported the Republican Mark Sanford to replace him. Hodges was held responsible for the state's mishandling of the Hurricane Floyd evacuation in 1999. By 2002, most of the funds from Hodges' "South Carolina Education Lottery" were used to pay for college scholarships, rather than to improve impoverished rural and inner-city schools. Religious leaders denounced the lottery as taxing the poor to pay for higher education for the middle class.
 
-In the lottery's first year, Hodges' administration awarded $40 million for \"LIFE Scholarships\", granted to any South Carolinian student with a B average, graduation in the top 30% of the student's high school class, and an 1,100 SAT score. Hodges' administration awarded $5.8 million for \"HOPE Scholarships\", which had lower GPA requirements.
+In the lottery's first year, Hodges' administration awarded $40 million for "LIFE Scholarships", granted to any South Carolinian student with a B average, graduation in the top 30% of the student's high school class, and an 1,100 SAT score. Hodges' administration awarded $5.8 million for "HOPE Scholarships", which had lower GPA requirements.
 
 Hodges lost his campaign for reelection in 2002 against the Republican conservative Mark Sanford, a former U.S. congressman from Sullivan's Island.
 
@@ -525,7 +523,7 @@ References
 
 Peirce, Neal R. The Deep South States of America: People, Politics, and Power in the Seven Deep South States (1974) solid reporting on politics and economics 1960–72
 
-\"54th and 55th Regiment of Massachusetts\" report on 55th Massachusetts leaders on February 21, 1865
+"54th and 55th Regiment of Massachusetts" report on 55th Massachusetts leaders on February 21, 1865
 
 Bibliography
 
@@ -537,7 +535,7 @@ Edgar, Walter. South Carolina: A History, (1998) the standard scholarly history
 
 Edgar, Walter, ed. The South Carolina Encyclopedia, (University of South Carolina Press, 2006) ISBN 1-57003-598-9, the most comprehensive scholarly guide
 
-Rogers, Jr., George C. \"Who is a South Carolinian?,\" South Carolina Historical Magazine, Oct 2000, Vol. 101 Issue 4, pp. 319–329, emphasis on race, ethnicity and identity
+Rogers, Jr., George C. "Who is a South Carolinian?," South Carolina Historical Magazine, Oct 2000, Vol. 101 Issue 4, pp. 319–329, emphasis on race, ethnicity and identity
 
 Rogers Jr. George C. and C. James Taylor. A South Carolina Chronology, 1497–1992 (2nd ed. 1994)
 
@@ -557,7 +555,7 @@ Burton, Orville Vernon. In My Father's House Are Many Mansions: Family and Commu
 
 Carney, Judith A. Black Rice: The African Origins of Rice Cultivation in the Americas. Cambridge, MA: Harvard University Press, 2002.
 
-Chaplin, Joyce E. \"Creating a Cotton South in Georgia and South Carolina, 1760-1815.\" Journal of Southern History 57.2 (1991): 171-200 online.
+Chaplin, Joyce E. "Creating a Cotton South in Georgia and South Carolina, 1760-1815." Journal of Southern History 57.2 (1991): 171-200 online.
 
 Clarke, Erskine. Our Southern Zion: A History of Calvinism in the South Carolina Low Country, 1690–1990 (1996)
 
@@ -565,7 +563,7 @@ Channing, Steven. Crisis of Fear: Secession in South Carolina (1970)
 
 Coit, Margaret L. John C. Calhoun: American Portrait (1950)
 
-Coclanis, Peter A., \"Global Perspectives on the Early Economic History of South Carolina,\" South Carolina Historical Magazine, 106 (April–July 2005), 130–46.
+Coclanis, Peter A., "Global Perspectives on the Early Economic History of South Carolina," South Carolina Historical Magazine, 106 (April–July 2005), 130–46.
 
 Crane, Verner W. The Southern Frontier, 1670–1732 (1956)
 
@@ -577,17 +575,17 @@ Hart, Emma. Building Charleston: Town and Society in the Eighteenth Century Brit
 
 Johnson Jr., George Lloyd. The Frontier in the Colonial South: South Carolina Backcountry, 1736–1800 (1997)
 
-Jedidiah Morse (1797). \"South Carolina\". The American Gazetteer. Boston, Massachusetts: At the presses of S. Hall, and Thomas & Andrews. OL 23272543M.
+Jedidiah Morse (1797). "South Carolina". The American Gazetteer. Boston, Massachusetts: At the presses of S. Hall, and Thomas & Andrews. OL 23272543M.
 
 Nagl, Dominik. No Part of the Mother Country, but Distinct Dominions - Law, State Formation and Governance in England, Massachusetts and South Carolina, 1630–1769 (LIT, 2013).online
 
-Powers, Bernard E., Jr., \"'The Worst of All Barbarism': Racial Anxiety and the Approach of Secession in the Palmetto State,\" South Carolina Historical Magazine 112 (July–Oct. 2011), 139–56.
+Powers, Bernard E., Jr., "'The Worst of All Barbarism': Racial Anxiety and the Approach of Secession in the Palmetto State," South Carolina Historical Magazine 112 (July–Oct. 2011), 139–56.
 
 Rogers, George C. Evolution of a Federalist: William Loughton Smith of Charleston (1758–1812) (1962)
 
 Roper, L. H. Conceiving Carolina: Proprietors, Planters, and Plots, 1662–1729 Palgrave Macmillan, ISBN 1-4039-6479-3.
 
-Scarborough, William K., \"Propagandists for Secession: Edmund Ruffin of Virginia and Robert Barnwell Rhett of South Carolina,\" South Carolina Historical Magazine 112 (July–Oct. 2011), 126–38.
+Scarborough, William K., "Propagandists for Secession: Edmund Ruffin of Virginia and Robert Barnwell Rhett of South Carolina," South Carolina Historical Magazine 112 (July–Oct. 2011), 126–38.
 
 Schultz, Harold S. Nationalism and Sectionalism in South Carolina, 1852–1860 (1950)
 
@@ -605,9 +603,9 @@ Scholarly studies: since 1865
 
 Bass, Jack and Marilyn W. Thompson. Ol' Strom: An Unauthorized Biography of Strom Thurmond,. (2003)
 
-Bedingfield, Sid, \"John H. McCray, Accommodationism, and the Framing of the Civil Rights Struggle in South Carolina, 1940–48,\" Journalism History 37 (Summer 2011), 91–101.
+Bedingfield, Sid, "John H. McCray, Accommodationism, and the Framing of the Civil Rights Struggle in South Carolina, 1940–48," Journalism History 37 (Summer 2011), 91–101.
 
-Brock, Euline W. \"Thomas W. Cardozo: Fallible Black Reconstruction Leader.\" Journal of Southern History 47.2 (1981): 183–206. in JSTOR
+Brock, Euline W. "Thomas W. Cardozo: Fallible Black Reconstruction Leader." Journal of Southern History 47.2 (1981): 183–206. in JSTOR
 
 Brown, D. Clayton. King Cotton: A Cultural, Political, and Economic History since 1945 (University Press of Mississippi, 2011), 440 pp. ISBN 978-1-60473-798-1
 
@@ -617,23 +615,23 @@ Clarke, Erskine. Our Southern Zion: A History of Calvinism in the South Carolina
 
 Cooper Jr., William J. The Conservative Regime: South Carolina, 1877–1890 (1968).
 
-Ford, Lacy K. \"Rednecks and Merchants: Economic Development and Social Tensions in the South Carolina Upcountry, 1865–1900\", Journal of American History, LXXI (September 1984), 294–318; in JSTOR
+Ford, Lacy K. "Rednecks and Merchants: Economic Development and Social Tensions in the South Carolina Upcountry, 1865–1900", Journal of American History, LXXI (September 1984), 294–318; in JSTOR
 
-Hine, William C. \"Dr. Benjamin A. Boseman, Jr.: Charleston's Black Physician-Politician,\" in Howard N. Rabinowitz, ed. Southern Black Leaders of the Reconstruction Era (1982), pp. 335–362.
+Hine, William C. "Dr. Benjamin A. Boseman, Jr.: Charleston's Black Physician-Politician," in Howard N. Rabinowitz, ed. Southern Black Leaders of the Reconstruction Era (1982), pp. 335–362.
 
 Holt, Thomas. Black over white: Negro political leadership in South Carolina during Reconstruction (1979).
 
-Holt, Thomas C. \"Negro State Legislators in South Carolina during Reconstruction,\" in Howard N. Rabinowitz, ed. Southern Black Leaders of the Reconstruction Era (1982), pp. 223–249.
+Holt, Thomas C. "Negro State Legislators in South Carolina during Reconstruction," in Howard N. Rabinowitz, ed. Southern Black Leaders of the Reconstruction Era (1982), pp. 223–249.
 
 Kantrowitz, Stephen. Ben Tillman & the Reconstruction of White Supremacy (2002)
 
-Kantrowitz, Stephen. \"Ben Tillman and Hendrix McLane, Agrarian Rebels: White Manhood, 'The Farmers,' and the Limits of Southern Populism.\" Journal of Southern History. Volume: 66. Issue: 3. (2000), pp. 497+. online edition
+Kantrowitz, Stephen. "Ben Tillman and Hendrix McLane, Agrarian Rebels: White Manhood, 'The Farmers,' and the Limits of Southern Populism." Journal of Southern History. Volume: 66. Issue: 3. (2000), pp. 497+. online edition
 
 Keyserling, Harriet. Against the Tide: One Woman's Political Struggle. University of South Carolina Press, 1998.
 
 Lamson, Peggy. The Glorious Failure: Black Congressman Robert Brown Elliott and the Reconstruction in South Carolina (1973).
 
-Minchin, Timothy J., \"An Uphill Fight: Ernest F. Hollings and the Struggle to Protect the South Carolina Textile Industry, 1959–2005,\" South Carolina Historical Magazine, 109 (July 2008), 187–211.
+Minchin, Timothy J., "An Uphill Fight: Ernest F. Hollings and the Struggle to Protect the South Carolina Textile Industry, 1959–2005," South Carolina Historical Magazine, 109 (July 2008), 187–211.
 
 Peirce, Neal R. The Deep South States of America: People, Politics, and Power in the Seven Deep South States; (1974)online; solid reporting on politics and economics 1960–72
 
@@ -647,7 +645,7 @@ Simkins, Francis Butler. Pitchfork Ben Tillman: South Carolinian (1944)
 
 Simkins, Francis Butler, and Robert Hilliard Woody. South Carolina during Reconstruction (1932).
 
-Slap, Andrew; \"The Spirit of '76: The Reconstruction of History in the Redemption of South Carolina\" in The Historian. Volume: 63. Issue: 4. 2001. pp. 769+ on 1876
+Slap, Andrew; "The Spirit of '76: The Reconstruction of History in the Redemption of South Carolina" in The Historian. Volume: 63. Issue: 4. 2001. pp. 769+ on 1876
 
 Tullos, Allen Habits of Industry: White Culture and the Transformation of the Carolina Piedmont (1989) online
 
@@ -655,7 +653,7 @@ Tuten, James H. Lowcountry Time and Tide: The Fall of the South Carolina Rice Ki
 
 Williamson Joel R. After Slavery: The Negro in South Carolina during Reconstruction, 1861–1877 (1965)
 
-Woody, Robert H. \"Jonathan Jasper Wright, Associate Justice of the Supreme Court of South Carolina, 1870–77.\" Journal of Negro History 18.2 (1933): 114–131. in JSTOR, Leading black jurist
+Woody, Robert H. "Jonathan Jasper Wright, Associate Justice of the Supreme Court of South Carolina, 1870–77." Journal of Negro History 18.2 (1933): 114–131. in JSTOR, Leading black jurist
 
 Zucek, Richard. State of Rebellion: Reconstruction in South Carolina (U of South Carolina Press, 1996)
 
@@ -669,7 +667,7 @@ Carlton, David L. Mill and Town in South Carolina, 1880–1920 (1982)
 
 Doyle, Don H. New Men, New Cities, New South: Atlanta, Nashville, Charleston, Mobile, 1860–1910 (1990)
 
-Graham, Latria (March 8, 2016). \"Why these harrowing testimonies of freed slaves are still relevant\". The Guardian. (Spartanburg).
+Graham, Latria (March 8, 2016). "Why these harrowing testimonies of freed slaves are still relevant". The Guardian. (Spartanburg).
 
 Huff, Jr., Archie Vernon. Greenville: The History of the City and County in the South Carolina Piedmont (1995)
 
@@ -685,11 +683,11 @@ Notes
 
 ^ Walter Edgar, Partisans and Redcoats: The Southern Conflict that Turned the Tide of the American Revolution (2001) p. 34
 
-^ \"The American Revolution\". Nps.gov. Retrieved 2 January 2018.
+^ "The American Revolution". Nps.gov. Retrieved 2 January 2018.
 
 ^ Edgar 1998, pp. 11–12
 
-^ \"SC Indian Tribes - Native Americans in South Carolina\". Sciway.net. Retrieved 2 January 2018.
+^ "SC Indian Tribes - Native Americans in South Carolina". Sciway.net. Retrieved 2 January 2018.
 
 ^ Danforth Prince (10 March 2011). Frommer's The Carolinas and Georgia. John Wiley & Sons. p. 11. ISBN 978-1-118-03341-8.
 
@@ -697,21 +695,21 @@ Notes
 
 ^ Patricia Riles Wickman (2 March 1999). The Tree that Bends: Discourse, Power, and the Survival of Maskoki People. University of Alabama Press. p. 179. ISBN 978-0-8173-0966-4.
 
-^ Joseph Hall, \"The Great Indian Slave Caper\", review of Alan Gallay, The Indian Slave Trade: The Rise of the English Empire in the American South, 1670-1717, New Haven: Yale University Press, 2002, Common-place, vol. 3, no. 1, October 2002, accessed 4 Nov 2009
+^ Joseph Hall, "The Great Indian Slave Caper", review of Alan Gallay, The Indian Slave Trade: The Rise of the English Empire in the American South, 1670-1717, New Haven: Yale University Press, 2002, Common-place, vol. 3, no. 1, October 2002, accessed 4 Nov 2009
 
-^ \"The Regulator Movement in South Carolina\". U-s-history.com. Retrieved 2017-10-18.
+^ "The Regulator Movement in South Carolina". U-s-history.com. Retrieved 2017-10-18.
 
-^ \"Hokan-Siouan Languages\". Encyclopedia2.thefreedictionary.com. Retrieved 2 January 2018.
+^ "Hokan-Siouan Languages". Encyclopedia2.thefreedictionary.com. Retrieved 2 January 2018.
 
-^ a b c \"The Unabridged Version of Tribes of the Carolina Lowland: Pedee - Sewee - Winyaw - Waccamaw - Cape Fear - Congaree - Wateree - Santee.\" Stanley South. University of South Carolina - Columbia, stansouth@sc.edu (1972)
+^ a b c "The Unabridged Version of Tribes of the Carolina Lowland: Pedee - Sewee - Winyaw - Waccamaw - Cape Fear - Congaree - Wateree - Santee." Stanley South. University of South Carolina - Columbia, stansouth@sc.edu (1972)
 
-^ \"Lumbee Language and the Lumbee Indian Culture (Croatan, Croatoan, Pamlico, Carolina Algonquian)\". Native-languages.org. Retrieved 2 January 2018.
+^ "Lumbee Language and the Lumbee Indian Culture (Croatan, Croatoan, Pamlico, Carolina Algonquian)". Native-languages.org. Retrieved 2 January 2018.
 
 ^ Oatis, A Colonial Complex
 
 ^ Speck, Frank G. Catawba Texts 1934.
 
-^ Peter A. Coclanis, \"Global perspectives on the early economic history of South Carolina,\" South Carolina Historical Magazine, April- July 2005, Vol. 106, #2-3, pp. 130–146 (subscription required)
+^ Peter A. Coclanis, "Global perspectives on the early economic history of South Carolina," South Carolina Historical Magazine, April- July 2005, Vol. 106, #2-3, pp. 130–146 (subscription required)
 
 ^ William L. Ramsey, The Yemasee War: A Study of Culture, Economy, and Conflict in the Colonial South (2008)
 
@@ -719,11 +717,11 @@ Notes
 
 ^ Carney, Judith A. Black Rice: The African Origins of Rice Cultivation in the Americas. 97-98.
 
-^ J. Lorand Matory, \"The Illusion of Isolation: The Gullah/Geechees and the Political Economy of African Culture in the Americas\", Comparative Studies in Society & History, Oct 2008, Vol. 50 Issue 4, pp. 949–980, text available online at Duke University
+^ J. Lorand Matory, "The Illusion of Isolation: The Gullah/Geechees and the Political Economy of African Culture in the Americas", Comparative Studies in Society & History, Oct 2008, Vol. 50 Issue 4, pp. 949–980, text available online at Duke University
 
 ^ S. Max Edelson, Plantation Enterprise in Colonial South Carolina (2007)
 
-^ David B. Ryden and Russell R. Menard, \"South Carolina's Colonial Land Market,\" Social Science History, Winter 2005, Vol. 29 Issue 4, pp. 599–623
+^ David B. Ryden and Russell R. Menard, "South Carolina's Colonial Land Market," Social Science History, Winter 2005, Vol. 29 Issue 4, pp. 599–623
 
 ^ David Hackett Fischer. Albion's Seed: Four British Folkways in America (1989), pp. 634–635
 
@@ -731,25 +729,25 @@ Notes
 
 ^ Rise of the Georgetown Rice Culture Archived 2006-12-05 at the Wayback Machine
 
-^ \"Rice, Indigo, and Fever in Colonial South Carolina\" accessed 7 Mar 2008
+^ "Rice, Indigo, and Fever in Colonial South Carolina" accessed 7 Mar 2008
 
-^ R. C. Nash, \"South Carolina indigo, European textiles, and the British Atlantic economy in the eighteenth century,\" Economic History Review, May 2010, Vol. 63 Issue 2, pp. 362–392
+^ R. C. Nash, "South Carolina indigo, European textiles, and the British Atlantic economy in the eighteenth century," Economic History Review, May 2010, Vol. 63 Issue 2, pp. 362–392
 
-^ \"History of Jews in South Carolina\", Jewish Encyclopedia
+^ "History of Jews in South Carolina", Jewish Encyclopedia
 
-^ Kurt Gingrich, \"'That Will Make Carolina Powerful and Flourishing': Scots and Huguenots in Carolina in the 1680s.\" South Carolina Historical Magazine 110.1/2 (2009): 6-34. online
+^ Kurt Gingrich, "'That Will Make Carolina Powerful and Flourishing': Scots and Huguenots in Carolina in the 1680s." South Carolina Historical Magazine 110.1/2 (2009): 6-34. online
 
 ^ Konadu, Kwasi (2010-05-12). The Akan Diaspora in the Americas. Oxford University Press. ISBN 9780199745388.
 
-^ \"Slavery and the Making of America. Timeline | PBS\". www.pbs.org. Retrieved 2017-10-09.
+^ "Slavery and the Making of America. Timeline | PBS". www.pbs.org. Retrieved 2017-10-09.
 
-^ Gabbatt, Adam (24 October 2017). \"A sign on scrubland marks one of America's largest slave uprisings. Is this how to remember black heroes?\". Guardian US. Retrieved 24 October 2017.
+^ Gabbatt, Adam (24 October 2017). "A sign on scrubland marks one of America's largest slave uprisings. Is this how to remember black heroes?". Guardian US. Retrieved 24 October 2017.
 
 ^ Peter Kolchin, American Slavery: 1619-1877, New York: Hill and Wang, 1994, p. 73
 
 ^ Kings Mountain National Military Park, National Park Service, accessed 5 Mar 2008
 
-^ Peter N. Moore, \"The Local Origins of Allegiance in Revolutionary South Carolina: The Waxhaws as a Case Study,\" South Carolina Historical Magazine 2006 107(1): 26-41
+^ Peter N. Moore, "The Local Origins of Allegiance in Revolutionary South Carolina: The Waxhaws as a Case Study," South Carolina Historical Magazine 2006 107(1): 26-41
 
 ^ Walter Edgar, ed. South Carolina Encyclopedia (2006) pp 571-73.
 
@@ -771,11 +769,11 @@ Notes
 On March 13, 1833 Rhett said, A people, owning slaves, are mad, or worse than mad, who do not hold their destinies in their own hands ... Every stride of this Government, over your rights, brings it nearer and nearer to your peculiar policy. ... The whole world are in arms against your institutions ... Let Gentlemen not be deceived. It is not the Tariff – not Internal Improvement – nor yet the Force bill, which constitutes the great evil against which we are contending. ... These are but the forms in which the despotic nature of the government is evinced – but it is the despotism which constitutes the evil: and until this Government is made a limited Government ... there is no liberty – no security for the South.
 
 ^ As early as 1830, in the midst of the Nullification Crisis, Calhoun identified the right to own slaves as the chief southern minority right being threatened:
-\"I consider the tariff act as the occasion, rather than the real cause of the present unhappy state of things. The truth can no longer be disguised, that the peculiar domestick  institution of the Southern States and the consequent direction which that and her soil have given to her industry, has placed them in regard to taxation and appropriations in opposite relation to the majority of the Union, against the danger of which, if there be no protective power in the reserved rights of the states they must in the end be forced to rebel, or, submit to have their paramount interests sacrificed, their domestic institutions subordinated by Colonization and other schemes, and themselves and children reduced to wretchedness.\" - Ellis, Richard E. The Union at Risk: Jacksonian Democracy, States' Rights, and the Nullification Crisis (1987), p. 193; Freehling, William W. Prelude to Civil War: The Nullification Crisis in South Carolina 1816-1836. (1965), p. 257; Ellis, p. 193. Ellis further notes that \"Calhoun and the nullifiers were not the first southerners to link slavery with states' rights. At various points in their careers, John Taylor, John Randolph, and Nathaniel Macon had warned that giving too much power to the federal government, especially on such an open-ended issue as internal improvement, could ultimately provide it with the power to emancipate slaves against their owners' wishes.\"
+"I consider the tariff act as the occasion, rather than the real cause of the present unhappy state of things. The truth can no longer be disguised, that the peculiar domestick  institution of the Southern States and the consequent direction which that and her soil have given to her industry, has placed them in regard to taxation and appropriations in opposite relation to the majority of the Union, against the danger of which, if there be no protective power in the reserved rights of the states they must in the end be forced to rebel, or, submit to have their paramount interests sacrificed, their domestic institutions subordinated by Colonization and other schemes, and themselves and children reduced to wretchedness." - Ellis, Richard E. The Union at Risk: Jacksonian Democracy, States' Rights, and the Nullification Crisis (1987), p. 193; Freehling, William W. Prelude to Civil War: The Nullification Crisis in South Carolina 1816-1836. (1965), p. 257; Ellis, p. 193. Ellis further notes that "Calhoun and the nullifiers were not the first southerners to link slavery with states' rights. At various points in their careers, John Taylor, John Randolph, and Nathaniel Macon had warned that giving too much power to the federal government, especially on such an open-ended issue as internal improvement, could ultimately provide it with the power to emancipate slaves against their owners' wishes."
 
-^ John Niven, John C. Calhoun and the Price of Union, p. 197 - The author said the following about Calhoun's description of the tariff issue: \"Finally, the root of the nullification crisis was exposed. What had begun as a reaction to a depression in the cotton states, a slump that had been particularly severe in South Carolina, had rapidly resolved itself into an all-encompassing fear on the part of a majority of the planter elite class that the growing industrialization of the North, expressing itself politically through the majority will, would eventually demand emancipation, heedless of the social consequences.\"
+^ John Niven, John C. Calhoun and the Price of Union, p. 197 - The author said the following about Calhoun's description of the tariff issue: "Finally, the root of the nullification crisis was exposed. What had begun as a reaction to a depression in the cotton states, a slump that had been particularly severe in South Carolina, had rapidly resolved itself into an all-encompassing fear on the part of a majority of the planter elite class that the growing industrialization of the North, expressing itself politically through the majority will, would eventually demand emancipation, heedless of the social consequences."
 
-^ Library of Congress, \"A Century of Lawmaking for a New Nation: U.S. Congressional Documents and Debates, 1774-1875 Memory.loc.gov, accessed 7 Mar 2008
+^ Library of Congress, "A Century of Lawmaking for a New Nation: U.S. Congressional Documents and Debates, 1774-1875 Memory.loc.gov, accessed 7 Mar 2008
 
 ^ Freehling, The Road to Disunion, p. 517
 
@@ -787,7 +785,7 @@ On March 13, 1833 Rhett said, A people, owning slaves, are mad, or worse than ma
 
 ^ Morris, Thomas (21 Jan 2004). Southern Slavery and the Law, 1619-1860. Univ of North Carolina Press. p. 350. ISBN 9780807864302. Retrieved 4 June 2018.
 
-^ a b O'Neall, John Belton. \"The Negro Law of South Carolina\". Internet Archive. J.G. Bowman. Retrieved 29 May 2018. This article incorporates text from this source, which is in the public domain.
+^ a b O'Neall, John Belton. "The Negro Law of South Carolina". Internet Archive. J.G. Bowman. Retrieved 29 May 2018. This article incorporates text from this source, which is in the public domain.
 
 ^ Penningroth, Dylan (21 July 2004). The Claims of Kinfolk: African American Property and Community in the Nineteenth-Century South. UNC Press Books. p. 208. ISBN 9780807862131. Retrieved 4 June 2018.
 
@@ -801,9 +799,9 @@ On March 13, 1833 Rhett said, A people, owning slaves, are mad, or worse than ma
 
 ^ David Detzer, Allegiance: Fort Sumter, Charleston, and the Beginning of the Civil War (2001)
 
-^ Walter B. Edgar. South Carolina: A History\". Columbia, SC: University of South Carolina Press, 1998, p. 375.
+^ Walter B. Edgar. South Carolina: A History". Columbia, SC: University of South Carolina Press, 1998, p. 375.
 
-^ E. Horace Fitchett, \"The Traditions of the Free Negro in Charleston, South Carolina\", Journal of Negro History, XXV (April 1940), p. 139
+^ E. Horace Fitchett, "The Traditions of the Free Negro in Charleston, South Carolina", Journal of Negro History, XXV (April 1940), p. 139
 
 ^ Thomas Holt, Black Over White: Negro Political Leadership in South Carolina During Reconstruction, University of Illinois Press, 1979, p. 43
 
@@ -825,9 +823,9 @@ On March 13, 1833 Rhett said, A people, owning slaves, are mad, or worse than ma
 
 ^ The Political Situation, 10 December 1871, The New York Times, accessed 5 Mar 2008
 
-^ Mark M. Smith, \"'All Is Not Quiet in Our Hellish County': Facts, Fiction, Politics, and Race - The Ellenton Riot of 1876,\" South Carolina Historical Magazine, Vol. 95, No. 2 (April 1994), 142-155 (subscription required)
+^ Mark M. Smith, "'All Is Not Quiet in Our Hellish County': Facts, Fiction, Politics, and Race - The Ellenton Riot of 1876," South Carolina Historical Magazine, Vol. 95, No. 2 (April 1994), 142-155 (subscription required)
 
-^ Melinda Meeks Hennessy, \"Racial Violence During Reconstruction: The 1876 Riots in Charleston and Cainhoy\", South Carolina Historical Magazine, Vol. 86, No. 2, (April 1985), 104-106 (subscription required)
+^ Melinda Meeks Hennessy, "Racial Violence During Reconstruction: The 1876 Riots in Charleston and Cainhoy", South Carolina Historical Magazine, Vol. 86, No. 2, (April 1985), 104-106 (subscription required)
 
 ^ Eric Foner, Give Me Liberty!: An American History (2nd ed. 2008) vol 2, pp. 577–78
 
@@ -863,7 +861,7 @@ On March 13, 1833 Rhett said, A people, owning slaves, are mad, or worse than ma
 
 ^ David L. Carlton, Mill and Town in South Carolina, 1880-1920 (1982)
 
-^ John Fraser Hart, \"The Demise of King Cotton,\" Annals of the Association of American Geographers, Sep 1977, Vol. 67 Issue 3, pp. 307–322
+^ John Fraser Hart, "The Demise of King Cotton," Annals of the Association of American Geographers, Sep 1977, Vol. 67 Issue 3, pp. 307–322
 
 ^ Steven Hahn, A Nation under Our Feet: Black Political Struggles in the Rural South from Slavery to the Great Migration (2005)
 
@@ -873,15 +871,15 @@ On March 13, 1833 Rhett said, A people, owning slaves, are mad, or worse than ma
 
 ^ Siglas, Mike (2003). South Carolina. Emeryville, CA: Avalon Travel Publishing. ISBN 1-56691-545-7.
 
-^ Lacy K. Ford, Jr., and R. Phillip Stone, \"Economic Development and Globalization in South Carolina,\" Southern Cultures, Spring 2007, Vol. 13#1, pp. 18–50
+^ Lacy K. Ford, Jr., and R. Phillip Stone, "Economic Development and Globalization in South Carolina," Southern Cultures, Spring 2007, Vol. 13#1, pp. 18–50
 
 ^ John McDermott and Yvonne Wenger, Boeing lands in North Charleston Charleston Post and Courier October 28, 2009
 
-^ \"Profile in Courage Award, David Beasley\", JFK Library
+^ "Profile in Courage Award, David Beasley", JFK Library
 
-^ Michael Graham, \"The Luckiest Politician in America?\", The National Review, May 24, 2000, accessed 24 Mar 2008
+^ Michael Graham, "The Luckiest Politician in America?", The National Review, May 24, 2000, accessed 24 Mar 2008
 
-^ \"Scholarships South Carolina Department of Education\". Retrieved August 26, 2005.
+^ "Scholarships South Carolina Department of Education". Retrieved August 26, 2005.
 
 External links
 
@@ -1880,6 +1878,3 @@ Years in South Carolina (1788–present)
 2028
 
 2029
-
-"
-

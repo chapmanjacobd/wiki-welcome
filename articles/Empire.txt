@@ -262,13 +262,13 @@ An empire is a aggregate of many separate states or territories under a supreme 
 
 Definitions of what physically and politically constitute an empire vary. It might be a state affecting imperial policies or a particular political structure. Empires are typically formed from diverse ethnic, national, cultural, and religious components. 'Empire' and 'colonialism' are used to refer to relationships between a powerful state or society versus a less powerful one.
 
-Tom Nairn and Paul James define empires as polities that \"extend relations of power across territorial spaces over which they have no prior or given legal sovereignty, and where, in one or more of the domains of economics, politics, and culture, they gain some measure of extensive hegemony over those spaces for the purpose of extracting or accruing value\". Rein Taagepera has defined an empire as \"any relatively large sovereign political entity whose components are not sovereign\".
+Tom Nairn and Paul James define empires as polities that "extend relations of power across territorial spaces over which they have no prior or given legal sovereignty, and where, in one or more of the domains of economics, politics, and culture, they gain some measure of extensive hegemony over those spaces for the purpose of extracting or accruing value". Rein Taagepera has defined an empire as "any relatively large sovereign political entity whose components are not sovereign".
 
 The terrestrial empire's maritime analogue is the thalassocracy, an empire composed of islands and coasts which are accessible to its terrestrial homeland, such as the Athenian-dominated Delian League.
 
-Furthermore, empires can expand by both land and sea. Stephen Howe notes that empires by land can be characterized by expansion over terrain, \"extending directly outwards from the original frontier\" while an empire by sea can be characterized by colonial expansion and empire building \"by an increasingly powerful navy\".
+Furthermore, empires can expand by both land and sea. Stephen Howe notes that empires by land can be characterized by expansion over terrain, "extending directly outwards from the original frontier" while an empire by sea can be characterized by colonial expansion and empire building "by an increasingly powerful navy".
 
-However, sometimes an empire is only a semantic construction, such as when a ruler assumes the title of \"emperor\". That polity over which the ruler reigns logically becomes an \"empire\", despite having no additional territory or hegemony. Examples of this form of empire are the Central African Empire, or the Korean Empire proclaimed in 1897 when Korea, far from gaining new territory, was on the verge of being annexed by the Empire of Japan, one of the last to use the name officially. Among the last states in the 20th century known as empires in this sense were the Central African Empire, Ethiopia, Empire of Vietnam, Manchukuo, Russia, Germany, and Korea.
+However, sometimes an empire is only a semantic construction, such as when a ruler assumes the title of "emperor". That polity over which the ruler reigns logically becomes an "empire", despite having no additional territory or hegemony. Examples of this form of empire are the Central African Empire, or the Korean Empire proclaimed in 1897 when Korea, far from gaining new territory, was on the verge of being annexed by the Empire of Japan, one of the last to use the name officially. Among the last states in the 20th century known as empires in this sense were the Central African Empire, Ethiopia, Empire of Vietnam, Manchukuo, Russia, Germany, and Korea.
 
 Additionally an empire can be also seen in realms like heaven or the ocean.
 
@@ -278,7 +278,7 @@ Empires originated as different types of states, although they commonly began as
 
 Diachronic map of the main empires of the modern era (1492–1945).
 
-Europeans began applying the designation of \"empire\" to non-European monarchies, such as the Qing Empire and the Mughal Empire, as well as the Maratha Empire, eventually leading to the looser denotations applicable to any political structure meeting the criteria of \"imperium\". Some monarchies styled themselves as having greater size, scope, and power than the territorial, politico-military, and economic facts support. As a consequence, some monarchs assumed the title of \"emperor\" (or its corresponding translation, tsar, empereur, kaiser, shah etc.) and renamed their states as \"The Empire of ...\". 
+Europeans began applying the designation of "empire" to non-European monarchies, such as the Qing Empire and the Mughal Empire, as well as the Maratha Empire, eventually leading to the looser denotations applicable to any political structure meeting the criteria of "imperium". Some monarchies styled themselves as having greater size, scope, and power than the territorial, politico-military, and economic facts support. As a consequence, some monarchs assumed the title of "emperor" (or its corresponding translation, tsar, empereur, kaiser, shah etc.) and renamed their states as "The Empire of ...". 
 Empires were seen as an expanding power, administration, ideas and beliefs followed by cultural habits from place to place. Empires tend to impose their culture on the subject states to strengthen the imperial structure. This can have notable effects that outlast the empire itself, both positive and negative. Most histories of empires have been hostile, especially if the authors were promoting nationalism. Stephen Howe, although himself hostile, listed positive qualities: the guaranteed stability, security, and legal order for their subjects. They tried to minimize ethnic and religious antagonism inside the empire. The aristocracies that ruled them were often more cosmopolitan and broad-minded than their nationalistic successors. 
 
 History of imperialism
@@ -337,7 +337,7 @@ Han Empire of China in 2 AD.
 
 \t\t
 
-The Axial Age (mid-First Millennium BC) witnessed unprecedented imperial expansion in the Indo-Mediterranean region and China. The successful and extensive Achaemenid Empire (550–330 BC), also known as the first Persian Empire, covered Mesopotamia, Egypt, parts of Greece, Thrace, the Middle East, much of Central Asia, and North-Western India. It is considered the first great empire in history or the first \"world empire\". It was overthrown and replaced by the short-lived empire of Alexander the Great. His Empire was succeeded by three Empires ruled by the Diadochi—the Seleucid, Ptolemaic, and Macedonian, which, despite being independent, are called the \"Hellenistic Empire\" by virtue of their similarities in culture and administration.
+The Axial Age (mid-First Millennium BC) witnessed unprecedented imperial expansion in the Indo-Mediterranean region and China. The successful and extensive Achaemenid Empire (550–330 BC), also known as the first Persian Empire, covered Mesopotamia, Egypt, parts of Greece, Thrace, the Middle East, much of Central Asia, and North-Western India. It is considered the first great empire in history or the first "world empire". It was overthrown and replaced by the short-lived empire of Alexander the Great. His Empire was succeeded by three Empires ruled by the Diadochi—the Seleucid, Ptolemaic, and Macedonian, which, despite being independent, are called the "Hellenistic Empire" by virtue of their similarities in culture and administration.
 
 Meanwhile, in the western Mediterranean the Empires of Carthage and Rome began their rise. Having decisively defeated Carthage in 202 BC, Rome defeated Macedonia in 200 BC and the Seleucids in 190–189 BC to establish an all-Mediterranean Empire. The Seleucid Empire broke apart and its former eastern part was absorbed by the Parthian Empire. In 30 BC Rome annexed Ptolemaic Egypt.
 
@@ -347,15 +347,15 @@ In 221 BC, China became an empire when the State of Qin ended the chaotic Warrin
 
 Map showing the four empires of Eurasia in the 2nd century AD
 
-The Romans were the first people to invent and embody the concept of empire in their two mandates: to wage war and to make and execute laws. They were the most extensive Western empire until the early modern period, and left a lasting impact on European society. Many languages, cultural values, religious institutions, political divisions, urban centers, and legal systems can trace their origins to the Roman Empire. The Roman Empire governed and rested on exploitative actions. They took slaves and money from the peripheries to support the imperial center. However, the absolute reliance on conquered peoples to carry out the empire's fortune, sustain wealth, and fight wars would ultimately lead to the collapse of the Roman Empire. The Romans were strong believers in what they called their \"civilizing mission\". This term was legitimized and justified by writers like Cicero who wrote that only under Roman rule could the world flourish and prosper. This ideology, that was envisioned to bring a new world order, was eventually spread across the Mediterranean world and beyond. People started to build houses like Romans, eat the same food, wear the same clothes and engage in the same games. Even rights of citizenship and authority to rule were granted to people not born within Roman territory.
+The Romans were the first people to invent and embody the concept of empire in their two mandates: to wage war and to make and execute laws. They were the most extensive Western empire until the early modern period, and left a lasting impact on European society. Many languages, cultural values, religious institutions, political divisions, urban centers, and legal systems can trace their origins to the Roman Empire. The Roman Empire governed and rested on exploitative actions. They took slaves and money from the peripheries to support the imperial center. However, the absolute reliance on conquered peoples to carry out the empire's fortune, sustain wealth, and fight wars would ultimately lead to the collapse of the Roman Empire. The Romans were strong believers in what they called their "civilizing mission". This term was legitimized and justified by writers like Cicero who wrote that only under Roman rule could the world flourish and prosper. This ideology, that was envisioned to bring a new world order, was eventually spread across the Mediterranean world and beyond. People started to build houses like Romans, eat the same food, wear the same clothes and engage in the same games. Even rights of citizenship and authority to rule were granted to people not born within Roman territory.
 
-The Latin word imperium, referring to a magistrate's power to command, gradually assumed the meaning \"The territory in which a magistrate can effectively enforce his commands\", while the term \"imperator\" was originally an honorific meaning \"commander\". The title was given to generals who were victorious in battle. Thus, an \"empire\" may include regions that are not legally within the territory of a state, but are under either direct or indirect control of that state, such as a colony, client state, or protectorate. Although historians use the terms \"Republican Period\" and \"Imperial Period\" to identify the periods of Roman history before and after absolute power was assumed by Augustus, the Romans themselves continued to refer to their government as a republic, and during the Republican Period, the territories controlled by the republic were referred to as \"Imperium Romanum\". The emperor's actual legal power derived from holding the office of \"consul\", but he was traditionally honored with the titles of imperator (commander) and princeps (first man or, chief). Later, these terms came to have legal significance in their own right; an army calling their general \"imperator\" was a direct challenge to the authority of the current emperor.
+The Latin word imperium, referring to a magistrate's power to command, gradually assumed the meaning "The territory in which a magistrate can effectively enforce his commands", while the term "imperator" was originally an honorific meaning "commander". The title was given to generals who were victorious in battle. Thus, an "empire" may include regions that are not legally within the territory of a state, but are under either direct or indirect control of that state, such as a colony, client state, or protectorate. Although historians use the terms "Republican Period" and "Imperial Period" to identify the periods of Roman history before and after absolute power was assumed by Augustus, the Romans themselves continued to refer to their government as a republic, and during the Republican Period, the territories controlled by the republic were referred to as "Imperium Romanum". The emperor's actual legal power derived from holding the office of "consul", but he was traditionally honored with the titles of imperator (commander) and princeps (first man or, chief). Later, these terms came to have legal significance in their own right; an army calling their general "imperator" was a direct challenge to the authority of the current emperor.
 
-The legal systems of France and its former colonies are strongly influenced by Roman law. Similarly, the United States was founded on a model inspired by the Roman Republic, with upper and lower legislative assemblies, and executive power vested in a single individual, the president. The president, as \"commander-in-chief\" of the armed forces, reflects the ancient Roman titles imperator princeps. The Roman Catholic Church, founded in the early Imperial Period, spread across Europe, first by the activities of Christian evangelists, and later by official imperial promulgation.
+The legal systems of France and its former colonies are strongly influenced by Roman law. Similarly, the United States was founded on a model inspired by the Roman Republic, with upper and lower legislative assemblies, and executive power vested in a single individual, the president. The president, as "commander-in-chief" of the armed forces, reflects the ancient Roman titles imperator princeps. The Roman Catholic Church, founded in the early Imperial Period, spread across Europe, first by the activities of Christian evangelists, and later by official imperial promulgation.
 
 Post-classical period
 
-In Western Asia, the term \"Persian Empire\" came to denote the Iranian imperial states established at different historical periods of pre–Islamic and post–Islamic Persia.
+In Western Asia, the term "Persian Empire" came to denote the Iranian imperial states established at different historical periods of pre–Islamic and post–Islamic Persia.
 
 In East Asia, various Chinese empires dominated the political, economic and cultural landscapes during this era, the most powerful of which was probably the Tang Empire (618–690, 705–907). Other influential Chinese empires during the post-classical period include the Sui Empire (581–618), the Great Liao Empire (916–1125), the Song Empire (960–1279), the Western Xia Empire (1038–1227), the Great Jin Empire (1115–1234), the Western Liao Empire (1124–1218), the Great Yuan Empire (1271–1368), and the Great Ming Empire (1368–1644). During this period, Japan and Korea underwent voluntary Sinicization. The Sui, Tang and Song empires had the world's largest economy and were the most technologically advanced during their time; the Great Yuan Empire was the world's ninth largest empire by total land area; while the Great Ming Empire is famous for the seven maritime expeditions led by Zheng He.
 
@@ -427,10 +427,10 @@ The Ajuran Sultanate was a Somali empire in the medieval times that dominated th
 
 In the 7th century, Maritime Southeast Asia witnessed the rise of a Buddhist thallasocracy, the Srivijaya Empire, which thrived for 600 years and was succeeded by the Hindu-Buddhist Majapahit Empire that ruled from the 13th to 15th centuries. In the Southeast Asian mainland, the Hindu-Buddhist Khmer Empire was centered in the city of Angkor and flourished from the 9th to 13th centuries. Following the demise of the Khmer Empire, the Siamese Empire flourished alongside the Burmese and Lan Chang Empires from the 13th through the 18th centuries. In Eastern Europe, during the year of 917, the Byzantine Empire was forced to recognize the Imperial title of Bulgarian rulers (who were called Tsars). The Bulgarian Empire remained a major power in the Balkans until its fall in the late 14th century.
 
-At the time, in the Medieval West, the title \"empire\" had a specific technical meaning that was exclusively applied to states that considered themselves the heirs and successors of the Roman Empire. Among these were the \"Byzantine Empire\", which was the actual continuation of the Eastern portion of the Roman Empire, the Carolingian Empire, the largely Germanic Holy Roman Empire, and the Russian Empire. Yet, these states did not always fit the geographic, political, or military profiles of empires in the modern sense of the word. To legitimise their imperium, these states directly claimed the title of Empire from Rome. The sacrum Romanum imperium (Holy Roman Empire), which lasted from 800 to 1806, claimed to have exclusively comprehended Christian principalities, and was only nominally a discrete imperial state. The Holy Roman Empire was not always centrally-governed, as it had neither core nor peripheral territories, and was not governed by a central, politico-military elite. Hence, Voltaire's remark that the Holy Roman Empire \"was neither holy, nor Roman, nor an empire\" is accurate to the degree that it ignores German rule over Italian, French, Provençal, Polish, Flemish, Dutch, and Bohemian populations, and the efforts of the ninth-century Holy Roman Emperors (i.e., the Ottonians) to establish central control. Voltaire's \"nor an empire\" observation applies to its late period.
+At the time, in the Medieval West, the title "empire" had a specific technical meaning that was exclusively applied to states that considered themselves the heirs and successors of the Roman Empire. Among these were the "Byzantine Empire", which was the actual continuation of the Eastern portion of the Roman Empire, the Carolingian Empire, the largely Germanic Holy Roman Empire, and the Russian Empire. Yet, these states did not always fit the geographic, political, or military profiles of empires in the modern sense of the word. To legitimise their imperium, these states directly claimed the title of Empire from Rome. The sacrum Romanum imperium (Holy Roman Empire), which lasted from 800 to 1806, claimed to have exclusively comprehended Christian principalities, and was only nominally a discrete imperial state. The Holy Roman Empire was not always centrally-governed, as it had neither core nor peripheral territories, and was not governed by a central, politico-military elite. Hence, Voltaire's remark that the Holy Roman Empire "was neither holy, nor Roman, nor an empire" is accurate to the degree that it ignores German rule over Italian, French, Provençal, Polish, Flemish, Dutch, and Bohemian populations, and the efforts of the ninth-century Holy Roman Emperors (i.e., the Ottonians) to establish central control. Voltaire's "nor an empire" observation applies to its late period.
 
 In 1204, after the Fourth Crusade conquered Constantinople, the crusaders established a Latin Empire (1204–1261) in that city, while the defeated Byzantine Empire's descendants established two smaller, short-lived empires in Asia Minor: the Empire of Nicaea (1204–1261) and the Empire of Trebizond (1204–1461). 
-Constantinople was retaken in 1261 by the Byzantine successor state centered in Nicaea, re-establishing the Byzantine Empire until 1453, by which time the Turkish-Muslim Ottoman Empire (ca. 1300–1918), had conquered most of the region. The Ottoman Empire was a successor of the Abbasid Empire and it was the most powerful empire to succeed the Abbasi empires at the time, as well as one of the most powerful empires in the world. The Ottoman Empire centered on modern day Turkey, dominated the eastern Mediterranean, overthrew the Byzantine Empire to claim Constantinople and it would start battering at Austria and Malta, which were countries that were key to central and to south-west Europe respectively — mainly for their geographical location. The reason these occurrences of batterings were so important was because the Ottomans were Muslim, and the rest of Europe was Christian, so there was a sense of religious fighting going on. This was not just a rivalry of East and West but a rivalry between Christians and Muslims. Both the Christians and Muslims had alliances with other countries, and they had problems in them as well. The flows of trade and of cultural influences across the supposed great divide never ceased, so the countries never stopped bartering with each other. These epochal clashes between civilizations profoundly shaped many people's thinking back then, and continues to do so in the present day. Modern hatred against Muslim communities in South-Eastern Europe, mainly in Bosnia and Kosovo, has often been articulated in terms of seeing them as unwelcome residues of this imperialism: in short, as Turks. Moreover, Eastern Orthodox imperialism was not re-established until the coronation of Peter the Great as Emperor of Russia in 1721. Likewise, with the collapse of the Holy Roman Empire in 1806 during the Napoleonic Wars (1803–1815), the Austrian Empire (1804–1867) emerged reconstituted as the Empire of Austria–Hungary (1867–1918), having \"inherited\" the imperium of Central and Western Europe from the losers of said wars.
+Constantinople was retaken in 1261 by the Byzantine successor state centered in Nicaea, re-establishing the Byzantine Empire until 1453, by which time the Turkish-Muslim Ottoman Empire (ca. 1300–1918), had conquered most of the region. The Ottoman Empire was a successor of the Abbasid Empire and it was the most powerful empire to succeed the Abbasi empires at the time, as well as one of the most powerful empires in the world. The Ottoman Empire centered on modern day Turkey, dominated the eastern Mediterranean, overthrew the Byzantine Empire to claim Constantinople and it would start battering at Austria and Malta, which were countries that were key to central and to south-west Europe respectively — mainly for their geographical location. The reason these occurrences of batterings were so important was because the Ottomans were Muslim, and the rest of Europe was Christian, so there was a sense of religious fighting going on. This was not just a rivalry of East and West but a rivalry between Christians and Muslims. Both the Christians and Muslims had alliances with other countries, and they had problems in them as well. The flows of trade and of cultural influences across the supposed great divide never ceased, so the countries never stopped bartering with each other. These epochal clashes between civilizations profoundly shaped many people's thinking back then, and continues to do so in the present day. Modern hatred against Muslim communities in South-Eastern Europe, mainly in Bosnia and Kosovo, has often been articulated in terms of seeing them as unwelcome residues of this imperialism: in short, as Turks. Moreover, Eastern Orthodox imperialism was not re-established until the coronation of Peter the Great as Emperor of Russia in 1721. Likewise, with the collapse of the Holy Roman Empire in 1806 during the Napoleonic Wars (1803–1815), the Austrian Empire (1804–1867) emerged reconstituted as the Empire of Austria–Hungary (1867–1918), having "inherited" the imperium of Central and Western Europe from the losers of said wars.
 
 In the thirteenth century, Genghis Khan expanded the Mongol Empire to be the largest contiguous empire in the world. However, within two generations, the empire was separated into four discrete khanates under Genghis Khan's grandsons. One of them, Kublai Khan, conquered China and established the Yuan dynasty with the imperial capital at Beijing. One family ruled the whole Eurasian land mass from the Pacific to the Adriatic and Baltic Seas. The emergence of the Pax Mongolica had significantly eased trade and commerce across Asia. The Safavid Empire of Iran was also founded.
 
@@ -453,7 +453,7 @@ All areas of the world that were once part of the Portuguese Empire. The Portugu
 
 This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2019) (Learn how and when to remove this template message)
 
-In the 15th century, Castile (Spain) landing in the so-called \"New World\" (first, the Americas, and later Australia), along with Portuguese travels around the Cape of Good Hope and along the coast of Africa bordering the southeast Indian Ocean, proved ripe opportunities for the continent's Renaissance-era monarchies to establish colonial empires like those of the ancient Romans and Greeks. In the Old World, colonial imperialism was attempted and established on the Canary Islands and Ireland. These conquered lands and people became de jure subordinates of the empire, rather than de facto imperial territories and subjects. Such subjugation often elicited \"client-state\" resentment that the empire unwisely ignored, leading to the collapse of the European colonial imperial system in the late 19th through the mid-20th century. Portuguese discovery of Newfoundland in the New World gave way to many expeditions led by England (later Britain), Spain, France, and the Dutch Republic. In the 18th century, the Spanish Empire was at its height because of the great mass of goods taken from conquered territory in the Americas (nowadays Mexico, parts of the United States, the Caribbean, most of Central America, and South America) and the Philippines.
+In the 15th century, Castile (Spain) landing in the so-called "New World" (first, the Americas, and later Australia), along with Portuguese travels around the Cape of Good Hope and along the coast of Africa bordering the southeast Indian Ocean, proved ripe opportunities for the continent's Renaissance-era monarchies to establish colonial empires like those of the ancient Romans and Greeks. In the Old World, colonial imperialism was attempted and established on the Canary Islands and Ireland. These conquered lands and people became de jure subordinates of the empire, rather than de facto imperial territories and subjects. Such subjugation often elicited "client-state" resentment that the empire unwisely ignored, leading to the collapse of the European colonial imperial system in the late 19th through the mid-20th century. Portuguese discovery of Newfoundland in the New World gave way to many expeditions led by England (later Britain), Spain, France, and the Dutch Republic. In the 18th century, the Spanish Empire was at its height because of the great mass of goods taken from conquered territory in the Americas (nowadays Mexico, parts of the United States, the Caribbean, most of Central America, and South America) and the Philippines.
 
 Modern period
 
@@ -559,7 +559,7 @@ The German Empire in 1914.
 
 \t\t
 
-The British established their first empire (1583–1783) in North America by colonising lands that made up British America, including parts of Canada, the Caribbean and the Thirteen Colonies. In 1776, the Continental Congress of the Thirteen Colonies declared itself independent from the British Empire, thus beginning the American Revolution. Britain turned towards Asia, the Pacific, and later Africa, with subsequent exploration leading to the rise of the Second British Empire (1783–1815), which was followed by the Industrial Revolution and Britain's Imperial Century (1815–1914). It became the largest empire in world history, encompassing one quarter of the world's land area and one fifth of its population. The impacts of this period are still prominent in the current age \"including widespread use of the English language, belief in Protestant religion, economic globalization, modern precepts of law and order, and representative democracy.\"
+The British established their first empire (1583–1783) in North America by colonising lands that made up British America, including parts of Canada, the Caribbean and the Thirteen Colonies. In 1776, the Continental Congress of the Thirteen Colonies declared itself independent from the British Empire, thus beginning the American Revolution. Britain turned towards Asia, the Pacific, and later Africa, with subsequent exploration leading to the rise of the Second British Empire (1783–1815), which was followed by the Industrial Revolution and Britain's Imperial Century (1815–1914). It became the largest empire in world history, encompassing one quarter of the world's land area and one fifth of its population. The impacts of this period are still prominent in the current age "including widespread use of the English language, belief in Protestant religion, economic globalization, modern precepts of law and order, and representative democracy."
 
 The Great Qing Empire of China (1636–1912) was the fifth largest empire in world history by total land area, and laid the foundation for the modern territorial claims of both the People's Republic of China and the Republic of China. Apart from having direct control over much of East Asia, the empire also exerted domination over other states through the Chinese tributary system. The multiethnic and multicultural nature of the Great Qing Empire was crucial to the subsequent birth of the nationalistic concept of zhonghua minzu. The empire reached its peak during the reign of the Qianlong Emperor, after which the empire entered a period of prolonged decline, culminating in its collapse as a result of the Xinhai Revolution.
 
@@ -567,13 +567,13 @@ The Ashanti Empire (or Confederacy), also Asanteman (1701–1896), was a West Af
 
 The Sikh Empire (1799–1846) was established in the Punjab region of India. The empire collapsed when its founder, Ranjit Singh, died and its army fell to the British. During the same period, the Maratha Empire (also known as the Maratha Confederacy) was a Hindu state located in present-day India. It existed from 1674 to 1818, and at its peak, the empire's territories covered much of Southern Asia. The empire was founded and consolidated by Shivaji. After the death of Mughal Emperor Aurangzeb, it expanded greatly under the rule of the Peshwas. In 1761, the Maratha army lost the Third Battle of Panipat, which halted the expansion of the empire. Later, the empire was divided into a confederacy of states which, in 1818, were lost to the British during the Anglo-Maratha wars.
 
-The French emperors Napoleon I and Napoleon III (See: Premier Empire, Second French Empire) each attempted establishing a western imperial hegemony centered in France. The French colonial empire constituted the overseas colonies, protectorates and mandate territories that came under French rule from the 16th century onward. A distinction is generally made between the \"first colonial empire,\" that existed until 1814, and the \"second colonial empire\", which began with the conquest of Algiers in 1830. The second colonial empire came to an end after the decolonizations of Indochina (1954), Algeria (1962) and French Africa. At its apex, it was one of the largest empires in history; including metropolitan France, the total amount of land under French sovereignty reached 11,500,000 km2 (4,400,000 sq mi), with a population of 110 million people in 1939.
+The French emperors Napoleon I and Napoleon III (See: Premier Empire, Second French Empire) each attempted establishing a western imperial hegemony centered in France. The French colonial empire constituted the overseas colonies, protectorates and mandate territories that came under French rule from the 16th century onward. A distinction is generally made between the "first colonial empire," that existed until 1814, and the "second colonial empire", which began with the conquest of Algiers in 1830. The second colonial empire came to an end after the decolonizations of Indochina (1954), Algeria (1962) and French Africa. At its apex, it was one of the largest empires in history; including metropolitan France, the total amount of land under French sovereignty reached 11,500,000 km2 (4,400,000 sq mi), with a population of 110 million people in 1939.
 
 The Empire of Brazil (1822–1889) was the only South American modern monarchy, established by the heir of the Portuguese Empire as an independent nation eventually became an emerging international power. The new country was huge but sparsely populated and ethnically diverse. In 1889 the monarchy was overthrown in a sudden coup d'état led by a clique of military leaders whose goal was the formation of a republic.
 
-The German Empire (1871–1918), another \"heir to the Holy Roman Empire\", arose in 1871.
+The German Empire (1871–1918), another "heir to the Holy Roman Empire", arose in 1871.
 
-The term \"American Empire\" refers to the United States' cultural ideologies and foreign policy strategies. The term is most commonly used to describe the U.S.'s status since the 20th century, but it can also be applied to the United States' world standing before the rise of nationalism in the 20th century. The United States is not traditionally recognized as an empire, in part because the U.S. adopted a different political system from those that previous empires had used. Despite these systematic differences, the political objectives and strategies of the United States government have been quite similar to those of previous empires. Due to this similarity some scholars confess: \"When it walks like a duck, talks like a duck, it's a duck.\" Academic, Krishna Kumar, argues the distinct principles of nationalism and imperialism may result in common practice; that is, the pursuit of nationalism can often coincide with the pursuit of imperialism in terms of strategy and decision making. Throughout the 19th century, the United States government attempted to expand its territory by any means necessary. Regardless of the supposed motivation for this constant expansion, all of these land acquisitions were carried out by imperialistic means. This was done by financial means in some cases, and by military force in others. Most notably, the Louisiana Purchase (1803), the Texas Annexation (1845), and the Mexican Cession (1848) highlight the imperialistic goals of the United States during this “modern period” of imperialism. The U.S. government has stopped pursuing additional territories since the mid 20th century. However, some scholars still consider U.S. foreign policy strategies to be imperialistic. This idea is explored in the \"contemporary usage\" section.
+The term "American Empire" refers to the United States' cultural ideologies and foreign policy strategies. The term is most commonly used to describe the U.S.'s status since the 20th century, but it can also be applied to the United States' world standing before the rise of nationalism in the 20th century. The United States is not traditionally recognized as an empire, in part because the U.S. adopted a different political system from those that previous empires had used. Despite these systematic differences, the political objectives and strategies of the United States government have been quite similar to those of previous empires. Due to this similarity some scholars confess: "When it walks like a duck, talks like a duck, it's a duck." Academic, Krishna Kumar, argues the distinct principles of nationalism and imperialism may result in common practice; that is, the pursuit of nationalism can often coincide with the pursuit of imperialism in terms of strategy and decision making. Throughout the 19th century, the United States government attempted to expand its territory by any means necessary. Regardless of the supposed motivation for this constant expansion, all of these land acquisitions were carried out by imperialistic means. This was done by financial means in some cases, and by military force in others. Most notably, the Louisiana Purchase (1803), the Texas Annexation (1845), and the Mexican Cession (1848) highlight the imperialistic goals of the United States during this “modern period” of imperialism. The U.S. government has stopped pursuing additional territories since the mid 20th century. However, some scholars still consider U.S. foreign policy strategies to be imperialistic. This idea is explored in the "contemporary usage" section.
 
 Transition from empire
 
@@ -585,7 +585,7 @@ After the Second World War (1939–1945), the deconstruction of colonial empires
 
 France still governs overseas territories (French Guiana, Martinique, Réunion, French Polynesia, New Caledonia, Saint Martin, Saint-Pierre-et-Miquelon, Guadeloupe, TAAF, Wallis and Futuna, Saint Barthélemy, and Mayotte), and exerts hegemony in Francophone Africa (29 francophone countries such as Chad, Rwanda, et cetera). Fourteen British Overseas Territories remain under British sovereignty. Sixteen countries of the Commonwealth of Nations share their head of state, Queen Elizabeth II, as Commonwealth Realms.
 
-In 2004 Eliot A. Cohen summarized the contemporary transition from empire: \"The Age of Empire may indeed have ended, but then an age of American hegemony has begun, regardless of what one calls it.\"
+In 2004 Eliot A. Cohen summarized the contemporary transition from empire: "The Age of Empire may indeed have ended, but then an age of American hegemony has begun, regardless of what one calls it."
 
 Fall of empires
 
@@ -593,7 +593,7 @@ Roman Empire
 
 Further information: Fall of the Western Roman Empire
 
-The fall of the western half of the Roman Empire is seen as one of the most pivotal points in all of human history. This event traditionally marks the transition from classical civilization to the birth of Europe. The Roman Empire started to decline at the end of the reign of the last of the Five Good Emperors, Marcus Aurelius in 161–180 A.D. There is still a debate over the cause of the fall of one of the largest empires in history. Piganiol argues that the Roman Empire under its authority can be described as \"a period of terror\", holding its imperial system accountable for its failure. Another theory blames the rise of Christianity as the cause, arguing that the spread of certain Christian ideals caused internal weakness of the military and state. In the book The Fall of the Roman Empire, by Peter Heather, he contends that there are many factors, including issues of money and manpower, which produce military limitations and culminate in the Roman army's inability to effectively repel invading barbarians at the frontier. The Western Roman economy was already stretched to its limit in the 4th and 5th Centuries C.E. due to continual conflict and loss of territory which, in turn, generated loss of revenue from the tax base. There was also the looming presence of the Persians which, at any time, took a large percentage of the fighting force's attention. At the same time the Huns, a nomadic warrior people from the steppes of Asia, are also putting extreme pressure on the German tribes outside of the Roman frontier, which gave the German tribes no other choice, geographically, but to move into Roman territory. At this point, without increased funding, the Roman army could no longer effectively defend its borders against major waves of Germanic tribes. This inability is illustrated by the crushing defeat at Adrianople in 378 C.E. and, later, the Battle of Frigidus.
+The fall of the western half of the Roman Empire is seen as one of the most pivotal points in all of human history. This event traditionally marks the transition from classical civilization to the birth of Europe. The Roman Empire started to decline at the end of the reign of the last of the Five Good Emperors, Marcus Aurelius in 161–180 A.D. There is still a debate over the cause of the fall of one of the largest empires in history. Piganiol argues that the Roman Empire under its authority can be described as "a period of terror", holding its imperial system accountable for its failure. Another theory blames the rise of Christianity as the cause, arguing that the spread of certain Christian ideals caused internal weakness of the military and state. In the book The Fall of the Roman Empire, by Peter Heather, he contends that there are many factors, including issues of money and manpower, which produce military limitations and culminate in the Roman army's inability to effectively repel invading barbarians at the frontier. The Western Roman economy was already stretched to its limit in the 4th and 5th Centuries C.E. due to continual conflict and loss of territory which, in turn, generated loss of revenue from the tax base. There was also the looming presence of the Persians which, at any time, took a large percentage of the fighting force's attention. At the same time the Huns, a nomadic warrior people from the steppes of Asia, are also putting extreme pressure on the German tribes outside of the Roman frontier, which gave the German tribes no other choice, geographically, but to move into Roman territory. At this point, without increased funding, the Roman army could no longer effectively defend its borders against major waves of Germanic tribes. This inability is illustrated by the crushing defeat at Adrianople in 378 C.E. and, later, the Battle of Frigidus.
 
 Contemporary usage
 
@@ -601,13 +601,13 @@ Main article: Imperialism
 
 Contemporaneously, the concept of empire is politically valid, yet is not always used in the traditional sense. For example, Japan is considered the world's sole remaining empire because of the continued presence of the Japanese Emperor in national politics. Despite the semantic reference to imperial power, Japan is a de jure constitutional monarchy, with a homogeneous population of 127 million people that is 98.5 percent ethnic Japanese, making it one of the largest nation-states.
 
-Characterising some aspects of the United States in regards to its territorial expansion, foreign policy, and its international behaviour as \"American Empire\" is controversial but not uncommon. This characterisation is controversial because of the strong tendency in American society to reject claims of American imperialism. The initial motivations for the inception of the United States eventually led to the development of this tendency, which has been perpetuated by the country-wide obsession with this national narrative. The United States was formed because colonists did not like being under control of the British Empire. Essentially, the United States was formed in an attempt to reject imperialism. This makes it very hard for people to acknowledge America's status as an empire. This active rejection of imperialist status is not limited to high-ranking government officials, as it has been ingrained in American society throughout its entire history. As David Ludden explains, \"journalists, scholars, teachers, students, analysts, and politicians prefer to depict the U.S. as a nation pursuing its own interests and ideals\". This often results in imperialist endeavors being presented as measures taken to enhance state security. Ludden explains this phenomenon with the concept of \"ideological blinders\", which he says prevent American citizens from realizing the true nature of America's current systems and strategies. These \"ideological blinders\" that people wear have resulted in an \"invisible\" American empire of which most American citizens are unaware.
+Characterising some aspects of the United States in regards to its territorial expansion, foreign policy, and its international behaviour as "American Empire" is controversial but not uncommon. This characterisation is controversial because of the strong tendency in American society to reject claims of American imperialism. The initial motivations for the inception of the United States eventually led to the development of this tendency, which has been perpetuated by the country-wide obsession with this national narrative. The United States was formed because colonists did not like being under control of the British Empire. Essentially, the United States was formed in an attempt to reject imperialism. This makes it very hard for people to acknowledge America's status as an empire. This active rejection of imperialist status is not limited to high-ranking government officials, as it has been ingrained in American society throughout its entire history. As David Ludden explains, "journalists, scholars, teachers, students, analysts, and politicians prefer to depict the U.S. as a nation pursuing its own interests and ideals". This often results in imperialist endeavors being presented as measures taken to enhance state security. Ludden explains this phenomenon with the concept of "ideological blinders", which he says prevent American citizens from realizing the true nature of America's current systems and strategies. These "ideological blinders" that people wear have resulted in an "invisible" American empire of which most American citizens are unaware.
 
-Stuart Creighton Miller posits that the public's sense of innocence about Realpolitik (cf. American exceptionalism) impairs popular recognition of US imperial conduct since it governed other countries via surrogates. These surrogates were domestically-weak, right-wing governments that would collapse without US support. Former President G. W. Bush's Secretary of Defense, Donald Rumsfeld, said: \"We don't seek empires. We're not imperialistic; we never have been.\" This statement directly contradicts Thomas Jefferson who, in the 1780s while awaiting the fall of the Spanish empire, said: \"till our population can be sufficiently advanced to gain it from them piece by piece\". In turn, historian Sidney Lens argues that from its inception, the US has used every means available to dominate foreign peoples and states.
+Stuart Creighton Miller posits that the public's sense of innocence about Realpolitik (cf. American exceptionalism) impairs popular recognition of US imperial conduct since it governed other countries via surrogates. These surrogates were domestically-weak, right-wing governments that would collapse without US support. Former President G. W. Bush's Secretary of Defense, Donald Rumsfeld, said: "We don't seek empires. We're not imperialistic; we never have been." This statement directly contradicts Thomas Jefferson who, in the 1780s while awaiting the fall of the Spanish empire, said: "till our population can be sufficiently advanced to gain it from them piece by piece". In turn, historian Sidney Lens argues that from its inception, the US has used every means available to dominate foreign peoples and states.
 
 Since the European Union was formed as a polity in 1993, it has established its own currency, its own citizenship, established discrete military forces, and exercises its limited hegemony in the Mediterranean, eastern parts of Europe, Sub-Saharan Africa, and Asia. The big size and high development index of the EU economy often has the ability to influence global trade regulations in its favour. The political scientist Jan Zielonka suggests that this behaviour is imperial because it coerces its neighbouring countries into adopting its European economic, legal, and political structures.
 
-In his book review of Empire (2000) by Michael Hardt and Antonio Negri, Mehmet Akif Okur posits that since the 11 September 2001 terrorist attacks in the US, the international relations determining the world's balance of power (political, economic, military) have been altered. These alterations include the intellectual (political science) trends that perceive the contemporary world's order via the re-territorrialisation of political space, the re-emergence of classical imperialist practices (the \"inside\" vs. \"outside\" duality, cf. the Other), the deliberate weakening of international organisations, the restructured international economy, economic nationalism, the expanded arming of most countries, the proliferation of nuclear weapon capabilities and the politics of identity emphasizing a state's subjective perception of its place in the world, as a nation and as a civilisation. These changes constitute the \"Age of Nation Empires\"; as imperial usage, nation-empire denotes the return of geopolitical power from global power blocs to regional power blocs (i.e., centred upon a \"regional power\" state ) and regional multi-state power alliances (i.e., Mediterranean, Latin America, South East Asia). Nation-empire regionalism claims sovereignty over their respective (regional) political (social, economic, ideologic), cultural, and military spheres.
+In his book review of Empire (2000) by Michael Hardt and Antonio Negri, Mehmet Akif Okur posits that since the 11 September 2001 terrorist attacks in the US, the international relations determining the world's balance of power (political, economic, military) have been altered. These alterations include the intellectual (political science) trends that perceive the contemporary world's order via the re-territorrialisation of political space, the re-emergence of classical imperialist practices (the "inside" vs. "outside" duality, cf. the Other), the deliberate weakening of international organisations, the restructured international economy, economic nationalism, the expanded arming of most countries, the proliferation of nuclear weapon capabilities and the politics of identity emphasizing a state's subjective perception of its place in the world, as a nation and as a civilisation. These changes constitute the "Age of Nation Empires"; as imperial usage, nation-empire denotes the return of geopolitical power from global power blocs to regional power blocs (i.e., centred upon a "regional power" state ) and regional multi-state power alliances (i.e., Mediterranean, Latin America, South East Asia). Nation-empire regionalism claims sovereignty over their respective (regional) political (social, economic, ideologic), cultural, and military spheres.
 
 Timeline of empires
 
@@ -621,7 +621,7 @@ The Empires of Nicaea and Trebizond were Byzantine successor states.
 
 The Empire of Bronze Age Egypt is not included in the graph. Established by Narmer circa 3000 BC, it lasted as long as China until it was conquered by Achaemenid Persia in 525 BC.
 
-Japan is presented for the period of its overseas Empire (1895–1945). The original Japanese Empire of \"the Eight Islands\" would be third persistent after Egypt and China.
+Japan is presented for the period of its overseas Empire (1895–1945). The original Japanese Empire of "the Eight Islands" would be third persistent after Egypt and China.
 
 Many Indian empires are also included, though only Mauryans, Guptas, Delhi Sultans, Mughals and Marathas ruled most of the India.
 
@@ -675,11 +675,11 @@ Our field’s fixation on the Westphalian state has tended to obscure the fact t
 
 Empire has been the historically predominant form of order in world politics. Looking at a time frame of several millennia, there was no global anarchic system until the European explorations and subsequent imperial and colonial ventures connected disparate regional systems, doing so approximately 500 years ago. Prior to this emergence of a global-scope system, the pattern of world politics was characterized by regional systems. These regional systems were initially anarchic and marked by high levels of military competition. But almost universally, they tended to consolidate into regional empires ... Thus it was empires—not anarchic state systems—that typically dominated the regional systems in all parts of the world ... Within this global pattern of regional empires, European political order was distinctly anomalous because it persisted so long as an anarchy.
 
-Similarly, Anthony Pagden, Eliot A. Cohen, Jane Burbank and Frederick Cooper estimate that \"empires have always been more frequent, more extensive political and social forms than tribal territories or nations have ever been\". Many empires endured for centuries, while the age of the ancient Egyptian, Chinese and Japanese Empires is counted in millennia. \"Most people throughout history have lived under imperial rule.\" 
+Similarly, Anthony Pagden, Eliot A. Cohen, Jane Burbank and Frederick Cooper estimate that "empires have always been more frequent, more extensive political and social forms than tribal territories or nations have ever been". Many empires endured for centuries, while the age of the ancient Egyptian, Chinese and Japanese Empires is counted in millennia. "Most people throughout history have lived under imperial rule." 
 
 Empires have played a long and critical part in human history ...  efforts in words and wars to put national unity at the center of political imagination, imperial politics, imperial practices, and imperial cultures have shaped the world we live in ... Rome was evoked as a model of splendor and order into the Twentieth century and beyond… By comparison, the nation-state appears as a blip on the historical horizon, a state form that emerged recently from under imperial skies and whose hold on the world's political imagination may well prove partial or transitory… The endurance of empire challenges the notion that the nation-state is natural, necessary, and inevitable ...
 
-Political scientist Hedley Bull wrote that \"in the broad sweep of human history ... the form of states system has been the exception rather than the rule\". His colleague Robert Gilpin confirmed this conclusion for the pre-modern period:
+Political scientist Hedley Bull wrote that "in the broad sweep of human history ... the form of states system has been the exception rather than the rule". His colleague Robert Gilpin confirmed this conclusion for the pre-modern period:
 
 The history of interstate relations was largely that of successive great empires. The pattern of international political change during the millennia of the pre-modern era has been described as an imperial cycle ... World politics was characterized by the rise and decline of powerful empires, each of which in turn unified and ordered its respective international system. The recurrent pattern in every civilization of which we have knowledge was for one state to unify the system under its imperial domination. The propensity toward universal empire was the principal feature of pre-modern politics.
 
@@ -689,7 +689,7 @@ Empires have been the key actors in world politics for millennia. They helped cr
 
 Universal empire
 
-Expert on warfare Quincy Wright generalized on what he called \"universal empire\"—empire unifying all the contemporary system:
+Expert on warfare Quincy Wright generalized on what he called "universal empire"—empire unifying all the contemporary system:
 
 Balance of power systems have in the past tended, through the process of conquest of lesser states by greater states, towards reduction in the number of states involved, and towards less frequent but more devastating wars, until eventually a universal empire has been established through the conquest by one of all those remaining.
 
@@ -707,14 +707,14 @@ Fichte, having witnessed the battle at Jena in 1806 when Napoleon overwhelmed Pr
 
 There is necessary tendency in every cultivated State to extend itself generally ... Such is the case in Ancient History ... As the States become stronger in themselves and cast off that  foreign power, the tendency towards a Universal Monarchy over the whole Christian World necessarily comes to light ... This tendency ... has shown itself successively in several States which could make pretensions to such a dominion, and since the fall of the Papacy, it has become the sole animating principle of our History ... Whether clearly or not—it may be obscurely—yet has this tendency lain at the root of the undertakings of many States in Modern Times ... Although no individual Epoch may have contemplated this purpose, yet is this the spirit which runs through all these individual Epochs, and invisibly urges them onward.
 
-Fichte's later compatriot, Geographer Alexander von Humboldt (1769–1859), in the mid-Nineteenth century observed a macro-historic trend of imperial growth in both Hemispheres: \"Men of great and strong minds, as well as whole nations, acted under influence of one idea, the purity of which was utterly unknown to them.\"
+Fichte's later compatriot, Geographer Alexander von Humboldt (1769–1859), in the mid-Nineteenth century observed a macro-historic trend of imperial growth in both Hemispheres: "Men of great and strong minds, as well as whole nations, acted under influence of one idea, the purity of which was utterly unknown to them."
 The imperial expansion filled the world circa 1900. Two famous contemporary observers—Frederick Turner and Halford Mackinder described the event and drew implications, the former predicting American overseas expansion and the latter stressing that the world empire is now in sight.
 
-Friedrich Ratzel, writing at the same time, observed that the \"drive toward the building of continually larger states continues throughout the entirety of history\" and is active in the present. He drew \"Seven Laws of Expansionism\". His seventh law stated: \"The general trend toward amalgamation transmits the tendency of territorial growth from state to state and increases the tendency in the process of transmission.\" He commented on this law to make its meaning clear: \"There is on this small planet sufficient space for only one great state.\"
+Friedrich Ratzel, writing at the same time, observed that the "drive toward the building of continually larger states continues throughout the entirety of history" and is active in the present. He drew "Seven Laws of Expansionism". His seventh law stated: "The general trend toward amalgamation transmits the tendency of territorial growth from state to state and increases the tendency in the process of transmission." He commented on this law to make its meaning clear: "There is on this small planet sufficient space for only one great state."
 
 Two other contemporaries—Kang Yu-wei and George Vacher de Lapouge—stressed that imperial expansion cannot indefinitely proceed on the definite surface of the globe and therefore world empire is imminent. Kang Yu-wei in 1885 believed that the imperial trend will culminate in the contest between Washington and Berlin and Vacher de Lapouge in 1899 estimated that the final contest will be between Russia and America in which America is likely to triumph.
 
-The above envisaged contests indeed took place, known to us as World War I and II. Writing during the Second, political scientists Derwent Whittlesey, Robert Strausz-Hupé and John H. Herz concluded: “Now that the earth is at last parceled out, consolidation has commenced.” In \"this world of fighting superstates there could be no end to war until one state had subjected all others, until world empire had been achieved by the strongest. This undoubtedly is the logical final stage in the geopolitical theory of evolution.\" 
+The above envisaged contests indeed took place, known to us as World War I and II. Writing during the Second, political scientists Derwent Whittlesey, Robert Strausz-Hupé and John H. Herz concluded: “Now that the earth is at last parceled out, consolidation has commenced.” In "this world of fighting superstates there could be no end to war until one state had subjected all others, until world empire had been achieved by the strongest. This undoubtedly is the logical final stage in the geopolitical theory of evolution." 
 
 The world is no longer large enough to harbor several self-contained powers ... The trend toward world domination or hegemony of a single power is but the ultimate consummation of a power-system engrafted upon an otherwise integrated world.
 
@@ -722,11 +722,11 @@ Writing in the last year of the War, German Historian Ludwig Dehio drew a simila
 
 he old European tendency toward division is now being thrust aside by the new global trend toward unification. And the onrush of this trend may not come to rest until it has asserted itself throughout our planet ... The global order still seems to be going through its birth pangs ... With the last tempest barely over, a new one is gathering.
 
-The year after the War and in the first year of the nuclear age, Albert Einstein and British Philosopher Bertrand Russell, known as prominent pacifists, outlined for the near future a perspective of world empire (world government established by force). Einstein believed that, unless world government is established by agreement, an imperial world government would come by war or wars. Russell expected a third World War to result in a world government under the empire of the United States. Three years later, another prominent pacifist, Theologian Reinhold Niebuhr, generalized on the ancient Empires of Egypt, Babylon, Persia and Greece to imply for the modern world: \"The analogy in present global terms would be the final unification of the world through the preponderant power of either America or Russia, whichever proved herself victorious in the final struggle.\"
+The year after the War and in the first year of the nuclear age, Albert Einstein and British Philosopher Bertrand Russell, known as prominent pacifists, outlined for the near future a perspective of world empire (world government established by force). Einstein believed that, unless world government is established by agreement, an imperial world government would come by war or wars. Russell expected a third World War to result in a world government under the empire of the United States. Three years later, another prominent pacifist, Theologian Reinhold Niebuhr, generalized on the ancient Empires of Egypt, Babylon, Persia and Greece to imply for the modern world: "The analogy in present global terms would be the final unification of the world through the preponderant power of either America or Russia, whichever proved herself victorious in the final struggle."
 
-Russian colleague of Russell and Neighbour, Georgy Fedotov, wrote in 1945: All empires are but stages on the way to the sole Empire which must swallow all others. The only question is who will build it and on which foundations. Universal unity is the only alternative to annihilation. Unity by conference is utopian but unity by conquest by the strongest Power is not and probably the uncompleted in this War will be completed in the next. \"Pax Atlantica\" is the best of possible outcomes.
+Russian colleague of Russell and Neighbour, Georgy Fedotov, wrote in 1945: All empires are but stages on the way to the sole Empire which must swallow all others. The only question is who will build it and on which foundations. Universal unity is the only alternative to annihilation. Unity by conference is utopian but unity by conquest by the strongest Power is not and probably the uncompleted in this War will be completed in the next. "Pax Atlantica" is the best of possible outcomes.
 
-Originally drafted as a secret study for the Office of Strategic Services (the precursor of the CIA) in 1944 and published as a book three years later, The Struggle for the World... by James Burnham concludes: If either of the two Superpowers wins, the result would be a universal empire which in our case would also be a world empire. The historical stage for a world empire had already been set prior to and independently of the discovery of atomic weapons but these weapons make a world empire inevitable and imminent. \"The atomic weapons ... will not permit the world to wait.\" Only a world empire can establish monopoly on atomic weapons and thus guarantee the survival of civilization. A world empire \"is in fact the objective of the Third World War which, in its preliminary stages, has already began\". The issue of a world empire \"will be decided, and in our day. In the course of the decision, both of the present antagonists may, it is true, be destroyed, but one of them must be.\" In 1951, Hans Morgenthau concluded that the \"best\" outcome of World War III would be world empire:
+Originally drafted as a secret study for the Office of Strategic Services (the precursor of the CIA) in 1944 and published as a book three years later, The Struggle for the World... by James Burnham concludes: If either of the two Superpowers wins, the result would be a universal empire which in our case would also be a world empire. The historical stage for a world empire had already been set prior to and independently of the discovery of atomic weapons but these weapons make a world empire inevitable and imminent. "The atomic weapons ... will not permit the world to wait." Only a world empire can establish monopoly on atomic weapons and thus guarantee the survival of civilization. A world empire "is in fact the objective of the Third World War which, in its preliminary stages, has already began". The issue of a world empire "will be decided, and in our day. In the course of the decision, both of the present antagonists may, it is true, be destroyed, but one of them must be." In 1951, Hans Morgenthau concluded that the "best" outcome of World War III would be world empire:
 
 Today war has become an instrument of universal destruction, an instrument that destroys the victor and the vanquished ... At worst, victor and loser would be undistinguishable under the leveling impact of such a catastrophe ... At best, the destruction on one side would not be quite as great as on the other; the victor would be somewhat better off than the loser and would establish, with the aid of modern technology, his domination over the world.
 
@@ -734,35 +734,35 @@ Expert on earlier civilizations, Toynbee, further developed the subject of World
 
 The outcome of the Third World War ... seemed likely to be the imposition of an ecumenical peace of the Roman kind by the victor whose victory would leave him with a monopoly on the control of atomic energy in his grasp ... This denouement was foreshadowed, not only by present facts, but by historical precedents, since, in the histories of other civilizations, the time of troubles had been apt to culminate in the delivery of a knock-out blow resulting in the establishment of a universal state ...
 
-The year this volume of A Study of History was published, US Secretary of State John Foster Dulles announced \"a knock-out blow\" as an official doctrine, a detailed Plan was elaborated and Fortune magazine mapped the design. Section VIII, \"Atomic Armaments\", of the famous National Security Council Report 68 (NSC 68), approved by President Harry Truman in 1951, uses the term \"blow\" 17 times, mostly preceded by such adjectives as \"powerful\", \"overwhelming\", or \"crippling\". Another term applied by the strategists was \"Sunday punch\".
+The year this volume of A Study of History was published, US Secretary of State John Foster Dulles announced "a knock-out blow" as an official doctrine, a detailed Plan was elaborated and Fortune magazine mapped the design. Section VIII, "Atomic Armaments", of the famous National Security Council Report 68 (NSC 68), approved by President Harry Truman in 1951, uses the term "blow" 17 times, mostly preceded by such adjectives as "powerful", "overwhelming", or "crippling". Another term applied by the strategists was "Sunday punch".
 
-A pupil of Toynbee, William McNeill, associated on the case of ancient China, which \"put a quietus upon the disorders of the warring states by erecting an imperial bureaucratic structure ... The warring states of the Twentieth century seem headed for a similar resolution of their conflicts.\" The ancient \"resolution\" McNeill evoked was one of the most sweeping universal conquests in world history, performed by Qin in 230–221 BC. Chinese classic Sima Qian (d. 86 BC) described the event (6:234): \"Qin raised troops on grand scale\" and \"the whole world celebrated a great bacchanal\". Herman Kahn of the RAND Corporation criticized to an assembled group of SAC officers their war plan (SIOP-62). He did not use the term bacchanal but he coined on the occasion an associating word: \"Gentlemen, you do not have a war plan. You have a wargasm!\" History did not completely repeat itself but it passed close.
+A pupil of Toynbee, William McNeill, associated on the case of ancient China, which "put a quietus upon the disorders of the warring states by erecting an imperial bureaucratic structure ... The warring states of the Twentieth century seem headed for a similar resolution of their conflicts." The ancient "resolution" McNeill evoked was one of the most sweeping universal conquests in world history, performed by Qin in 230–221 BC. Chinese classic Sima Qian (d. 86 BC) described the event (6:234): "Qin raised troops on grand scale" and "the whole world celebrated a great bacchanal". Herman Kahn of the RAND Corporation criticized to an assembled group of SAC officers their war plan (SIOP-62). He did not use the term bacchanal but he coined on the occasion an associating word: "Gentlemen, you do not have a war plan. You have a wargasm!" History did not completely repeat itself but it passed close.
 
 Circumscription theory
 
 Main article: Carneiro's circumscription theory
 
-According to the circumscription theory of Robert Carneiro, \"the more sharply circumscribed area, the more rapidly it will become politically unified.\" The Empires of Egypt, China and Japan are named the most durable political structures in human history. Correspondingly, these are the three most circumscribed civilizations in human history. The Empires of Egypt (established by Narmer c. 3000 BC) and China (established by Cheng in 221 BC) endured for over two millennia. German Sociologist Friedrich Tenbruck, criticizing the Western idea of progress, emphasized that China and Egypt remained at one particular stage of development for millennia. This stage was universal empire. The development of Egypt and China came to a halt once their empires \"reached the limits of their natural habitat\". Sinology does not recognize the Eurocentric view of the \"inevitable\" imperial fall; Egyptology and Japanology pose equal challenges.
+According to the circumscription theory of Robert Carneiro, "the more sharply circumscribed area, the more rapidly it will become politically unified." The Empires of Egypt, China and Japan are named the most durable political structures in human history. Correspondingly, these are the three most circumscribed civilizations in human history. The Empires of Egypt (established by Narmer c. 3000 BC) and China (established by Cheng in 221 BC) endured for over two millennia. German Sociologist Friedrich Tenbruck, criticizing the Western idea of progress, emphasized that China and Egypt remained at one particular stage of development for millennia. This stage was universal empire. The development of Egypt and China came to a halt once their empires "reached the limits of their natural habitat". Sinology does not recognize the Eurocentric view of the "inevitable" imperial fall; Egyptology and Japanology pose equal challenges.
 
-Carneiro explored the Bronze Age civilizations. Stuart J. Kaufman, Richard Little and William Wohlforth researched the next three millennia, comparing eight civilizations. They conclude: The \"rigidity of the borders\" contributed importantly to hegemony in every concerned case. Hence, \"when the system's borders are rigid, the probability of hegemony is high\".
+Carneiro explored the Bronze Age civilizations. Stuart J. Kaufman, Richard Little and William Wohlforth researched the next three millennia, comparing eight civilizations. They conclude: The "rigidity of the borders" contributed importantly to hegemony in every concerned case. Hence, "when the system's borders are rigid, the probability of hegemony is high".
 
-The circumscription theory was stressed in the comparative studies of the Roman and Chinese Empires. The circumscribed Chinese Empire recovered from all falls, while the fall of Rome, by contrast, was fatal. \"What counteracted this  tendency in Europe ... was a countervailing tendency for the geographical boundaries of the system to expand.\" If \"Europe had been a closed system, some great power would eventually have succeeded in establishing absolute supremacy over the other states in the region\".
+The circumscription theory was stressed in the comparative studies of the Roman and Chinese Empires. The circumscribed Chinese Empire recovered from all falls, while the fall of Rome, by contrast, was fatal. "What counteracted this  tendency in Europe ... was a countervailing tendency for the geographical boundaries of the system to expand." If "Europe had been a closed system, some great power would eventually have succeeded in establishing absolute supremacy over the other states in the region".
 
 The ancient Chinese system was relatively enclosed, whereas the European system began to expand its reach to the rest of the world from the onset of system formation… In addition, overseas provided outlet for territorial competition, thereby allowing international competition on the European continent to ... trump the ongoing pressure toward convergence.
 
-His 1945 book on the four centuries of the European power struggle, Ludwig Dehio titled The Precarious Balance. He explained the durability of the European states system by its overseas expansion: \"Overseas expansion and the system of states were born at the same time; the vitality that burst the bounds of the Western world also destroyed its unity.\" Edward Carr causally linked the end of the overseas outlet for imperial expansion and World Wars. In the nineteenth century, he wrote during the Second World War, imperialist wars were waged against \"primitive\" peoples. \"It was silly for European countries to fight against one another when they could still ... maintain social cohesion by continuous expansion in Asia and Africa. Since 1900, however, this has no longer been possible: \"the situation has radically changed\". Now wars are between \"imperial powers.\" Hans Morgenthau wrote that the very imperial expansion into relatively empty geographical spaces in the Eighteenth and Nineteenth centuries, in Africa, Eurasia, and western North America, deflected great power politics into the periphery of the earth, thereby reducing conflict. For example, the more attention Russia, France and the United States paid to expanding into far-flung territories in imperial fashion, the less attention they paid to one another, and the more peaceful, in a sense, the world was. But by the late nineteenth century, the consolidation of the great nation-states and empires of the West was consummated, and territorial gains could only be made at the expense of one another. John H. Herz outlined one \"chief function\" of the overseas expansion and the impact of its end: 
+His 1945 book on the four centuries of the European power struggle, Ludwig Dehio titled The Precarious Balance. He explained the durability of the European states system by its overseas expansion: "Overseas expansion and the system of states were born at the same time; the vitality that burst the bounds of the Western world also destroyed its unity." Edward Carr causally linked the end of the overseas outlet for imperial expansion and World Wars. In the nineteenth century, he wrote during the Second World War, imperialist wars were waged against "primitive" peoples. "It was silly for European countries to fight against one another when they could still ... maintain social cohesion by continuous expansion in Asia and Africa. Since 1900, however, this has no longer been possible: "the situation has radically changed". Now wars are between "imperial powers." Hans Morgenthau wrote that the very imperial expansion into relatively empty geographical spaces in the Eighteenth and Nineteenth centuries, in Africa, Eurasia, and western North America, deflected great power politics into the periphery of the earth, thereby reducing conflict. For example, the more attention Russia, France and the United States paid to expanding into far-flung territories in imperial fashion, the less attention they paid to one another, and the more peaceful, in a sense, the world was. But by the late nineteenth century, the consolidation of the great nation-states and empires of the West was consummated, and territorial gains could only be made at the expense of one another. John H. Herz outlined one "chief function" of the overseas expansion and the impact of its end: 
 
  European balance of power could be maintained or adjusted because it was relatively easy to divert European conflicts into overseas directions and adjust them there. Thus the openness of the world contributed to the consolidation of the territorial system. The end of the 'world frontier' and the resulting closedness of an interdependent world inevitably affected the system's effectiveness.
 
 Some later commentators drew similar conclusions:
 
-For some commentators, the passing of the Nineteenth century seemed destined to mark the end of this long era of European empire building. The unexplored and unclaimed \"blank\" spaces on the world map were rapidly diminishing ... and the sense of \"global closure\" prompted an anxious fin-de-siècle debate about the future of the great empires ... The \"closure\" of the global imperial system implied ... the beginning of a new era of intensifying inter-imperial struggle along borders that now straddled the globe.
+For some commentators, the passing of the Nineteenth century seemed destined to mark the end of this long era of European empire building. The unexplored and unclaimed "blank" spaces on the world map were rapidly diminishing ... and the sense of "global closure" prompted an anxious fin-de-siècle debate about the future of the great empires ... The "closure" of the global imperial system implied ... the beginning of a new era of intensifying inter-imperial struggle along borders that now straddled the globe.
 
-The opportunity for any system to expand in size seems almost a necessary condition for it to remain balanced, at least over the long haul. Far from being impossible or exceedingly improbable, systemic hegemony is likely under two conditions: \"when the boundaries of the international system remain stable and no new major powers emerge from outside the system.\" With the system becoming global, further expansion is precluded. The geopolitical condition of \"global closure\" will remain to the end of history. Since \"the contemporary international system is global, we can rule out the possibility that geographic expansion of the system will contribute to the emergence of a new balance of power, as it did so many times in the past.\" As Quincy Wright had put it, \"this process can no longer continue without interplanetary wars.\"
+The opportunity for any system to expand in size seems almost a necessary condition for it to remain balanced, at least over the long haul. Far from being impossible or exceedingly improbable, systemic hegemony is likely under two conditions: "when the boundaries of the international system remain stable and no new major powers emerge from outside the system." With the system becoming global, further expansion is precluded. The geopolitical condition of "global closure" will remain to the end of history. Since "the contemporary international system is global, we can rule out the possibility that geographic expansion of the system will contribute to the emergence of a new balance of power, as it did so many times in the past." As Quincy Wright had put it, "this process can no longer continue without interplanetary wars."
 
-One of leading experts on world-system theory, Christopher Chase-Dunn, noted that the circumscription theory is applicable for the global system, since the global system is circumscribed. In fact, within less than a century of its circumscribed existence the global system overcame the centuries-old balance of power and reached the unipolarity. Given \"constant spatial parameters\" of the global system, its unipolar structure is neither historically unusual nor theoretically surprising.
+One of leading experts on world-system theory, Christopher Chase-Dunn, noted that the circumscription theory is applicable for the global system, since the global system is circumscribed. In fact, within less than a century of its circumscribed existence the global system overcame the centuries-old balance of power and reached the unipolarity. Given "constant spatial parameters" of the global system, its unipolar structure is neither historically unusual nor theoretically surprising.
 
-Randall Schweller theorized that a \"closed international system\", such as the global became a century ago, would reach \"entropy\" in a kind of thermodynamic law. Once the state of entropy is reached, there is no going back. The initial conditions are lost forever. Stressing the curiosity of the fact, Schweller writes that since the moment the modern world became a closed system, the process has worked in only one direction: from many poles to two poles to one pole. Thus unipolarity might represent the entropy—stable and permanent loss of variation—in the global system.
+Randall Schweller theorized that a "closed international system", such as the global became a century ago, would reach "entropy" in a kind of thermodynamic law. Once the state of entropy is reached, there is no going back. The initial conditions are lost forever. Stressing the curiosity of the fact, Schweller writes that since the moment the modern world became a closed system, the process has worked in only one direction: from many poles to two poles to one pole. Thus unipolarity might represent the entropy—stable and permanent loss of variation—in the global system.
 
 Present
 
@@ -780,13 +780,13 @@ Simon Dalby associates the network of bases with the Roman imperial system:
 
 Looking at these impressive facilities which reproduce substantial parts of American suburbia complete with movie theatres and restaurant chains, the parallels with Roman garrison towns built on the Rhine, or on Hadrian’s wall in England, where the remains are strikingly visible on the landscape, are obvious … Less visible is the sheer scale of the logistics to keep garrison troops in residence in the far-flung reaches of empire ... That  presence literally builds the cultural logic of the garrison troops into the landscape, a permanent reminder of imperial control.
 
-Kenneth Pomeranz and Harvard Historian Niall Ferguson share the above-cited views: \"With American military bases in over 120 countries, we have hardly seen the end of empire.” This “vast archipelago of US military bases … far exceeds 19th-century British ambitions. Britain’s imperium consisted of specific, albeit numerous, colonies and clients; the American imperial vision is much more global…”
+Kenneth Pomeranz and Harvard Historian Niall Ferguson share the above-cited views: "With American military bases in over 120 countries, we have hardly seen the end of empire.” This “vast archipelago of US military bases … far exceeds 19th-century British ambitions. Britain’s imperium consisted of specific, albeit numerous, colonies and clients; the American imperial vision is much more global…”
 
 Conventional maps of US military deployments understate the extent of America's military reach. A Defense Department map of the world, which shows the areas of responsibility of the five major regional commands, suggests that America's sphere of military influence is now literally global … The regional combatant commanders—the 'pro-consuls' of this imperium—have responsibility for swaths of territory beyond the wildest imaginings of their Roman predecessors.
 
-Another Harvard Historian Charles S. Maier opens his Among Empires: American Ascendancy and Its Predecessors with these words: \"What a substratum for empire! Compared with which, the foundation of the Macedonian, the Roman and the British, sink into insignificance.\"
+Another Harvard Historian Charles S. Maier opens his Among Empires: American Ascendancy and Its Predecessors with these words: "What a substratum for empire! Compared with which, the foundation of the Macedonian, the Roman and the British, sink into insignificance."
 
-One of the most accepted distinctions between earlier empires and the American Empire is the latter's “global” or “planetary” scope. French former Foreign Minister Hubert Vedrine wondered: \"The situation is unprecedented: What previous empire subjugated the entire world...?\" The quests for universal empire are old but the present quest outdoes the previous in \"the notable respect of being the first to actually be global in its reach.\" For Historian Eric Hobsbawm, a \"key novelty of the US imperial project is that all other great powers and empires knew that they were not the only ones...\" Another Historian Paul Kennedy, who made his name in the 1980s with his prediction of the imminent US “imperial overstretch,” in 2002 acknowledged about the present world system: 
+One of the most accepted distinctions between earlier empires and the American Empire is the latter's “global” or “planetary” scope. French former Foreign Minister Hubert Vedrine wondered: "The situation is unprecedented: What previous empire subjugated the entire world...?" The quests for universal empire are old but the present quest outdoes the previous in "the notable respect of being the first to actually be global in its reach." For Historian Eric Hobsbawm, a "key novelty of the US imperial project is that all other great powers and empires knew that they were not the only ones..." Another Historian Paul Kennedy, who made his name in the 1980s with his prediction of the imminent US “imperial overstretch,” in 2002 acknowledged about the present world system: 
 
 Nothing has ever existed like this disparity of power. The Pax Britannica was run on the cheap. Napoleon’s France and Philip II’s Spain had powerful foes and were part of a multipolar system. Charlemagne’s empire was merely western European in stretch. The Roman Empire stretched further afield, but there was another great empire in Persia and a larger one in China. There is … no comparison.
 
@@ -816,23 +816,23 @@ Coudenhove-Kalergi envisaged a kind of Pax Americana modeled on “Pax Romana”
 
 During the third century BC the Mediterranean world was divided on five great powers—Roma and Carthage, Macedonia, Syria, and Egypt. The balance of power led to a series of wars until Rome emerged the queen of the Mediterranean and established an incomparable era of two centuries of peace and progress, the ‘Pax Romana’… It may be that America’s air power could again assure our world, now much smaller than the Mediterranean at that period, two hundred years of peace…
 
-This period would be necessary transitory stage before World State is eventually established, though he did not specify how the last transformation is expected to occur. Coudenhove-Kalergi's follower in the teleological theory of World State, Toynbee, supposed the traditional way of universal conquest and emphasized that the world is ripe for conquest: \"…Hitler's eventual failure to impose peace on the world by the force of arms was due, not to any flaw in his thesis that the world was ripe for conquest, but to an accidental combination of incidental errors in his measures…\" But \"in falling by so narrow a margin to win the prize of world-dominion for himself, Hitler had left the prize dangling within the reach of any successor capable of pursuing the same aims of world-conquest with a little more patience, prudence, and tact.\" With his \"revolution of destruction,\" Hitler has performed the \"yeoman service\" for \"some future architect of a Pax Ecumenica... For a post-Hitlerian empire-builder, Hitler's derelict legacy was a gift of the Gods.\"
+This period would be necessary transitory stage before World State is eventually established, though he did not specify how the last transformation is expected to occur. Coudenhove-Kalergi's follower in the teleological theory of World State, Toynbee, supposed the traditional way of universal conquest and emphasized that the world is ripe for conquest: "…Hitler's eventual failure to impose peace on the world by the force of arms was due, not to any flaw in his thesis that the world was ripe for conquest, but to an accidental combination of incidental errors in his measures…" But "in falling by so narrow a margin to win the prize of world-dominion for himself, Hitler had left the prize dangling within the reach of any successor capable of pursuing the same aims of world-conquest with a little more patience, prudence, and tact." With his "revolution of destruction," Hitler has performed the "yeoman service" for "some future architect of a Pax Ecumenica... For a post-Hitlerian empire-builder, Hitler's derelict legacy was a gift of the Gods."
 
-The next “architect of a Pax Ecumenica,” known more commonly as Pax Americana, demonstrated “more patience, prudence, and tact.” Consequently, as President Dwight Eisenhower put it, the NATO allies became “almost psychopathic” whenever anyone talked about a US withdrawal, and the reception of his successor John Kennedy in Berlin was “almost hysterical,” as Chancellor Conrad Adenauer characterized it . John Ikenberry finds that the Europeans wanted a stronger, more formal and more imperial system than the United States was initially willing to provide. In the end the United States settled for this “form of empire—a Pax Americana with formal commitments to Europe.” According to a much debated thesis, the United States became “empire by invitation.” The period discussed in the thesis (1945–1952) ended precisely the year Toynbee theorized on \"some future architect of a Pax Ecumenica.”
+The next “architect of a Pax Ecumenica,” known more commonly as Pax Americana, demonstrated “more patience, prudence, and tact.” Consequently, as President Dwight Eisenhower put it, the NATO allies became “almost psychopathic” whenever anyone talked about a US withdrawal, and the reception of his successor John Kennedy in Berlin was “almost hysterical,” as Chancellor Conrad Adenauer characterized it . John Ikenberry finds that the Europeans wanted a stronger, more formal and more imperial system than the United States was initially willing to provide. In the end the United States settled for this “form of empire—a Pax Americana with formal commitments to Europe.” According to a much debated thesis, the United States became “empire by invitation.” The period discussed in the thesis (1945–1952) ended precisely the year Toynbee theorized on "some future architect of a Pax Ecumenica.”
 
 Dissociating America from Rome, Eisenhower gave a pessimistic forecast. In 1951, before he became President, he had written on West Europe: “We cannot be a modern Rome guarding the far frontiers with our legions if for no other reason than that these are not, politically, our frontiers. What we must do is to assist these  peoples.” Two years later, he wrote: When it was decided to deploy US divisions to Europe, no one had “for an instant” thought that they would remain there for “several decades”—that the United States could “build a sort of Roman Wall with its own troops and so protect the world.”
 
 Eisenhower assured Soviet Chairman Nikita Khrushchev on Berlin in 1959: “Clearly we did not contemplate 50 years in occupation there.” It lasted, remarks Marc Trachtenberg, from July 1945 to September 1994, 10 months short of 50 years. Notably, when the US troops eventually left, they left eastward. Confirming the theory of the “empire by invitation,” with their first opportunity East European states extended the “invitation.”
 
-Chalmers Johnson regards the global military reach of the United States as empire in its “initial” form. Dimitri Simes finds that most of the world sees the United States as a \"nascent\" imperial power. Some scholars concerned how this empire would look in its ultimate form. The ultimate form of empire was described by Michael Doyle in his Empires. It is empire in which its two main components—the ruling core and the ruled periphery—merged to form one integrated whole. At this stage the empire as defined ceases to exist and becomes world state. Doyle examplifies the transformation on the case of the Roman Emperor Caracalla whose legislation in AD 212 extended the Roman citizenship to all inhabitants of the Mediterranean world.
+Chalmers Johnson regards the global military reach of the United States as empire in its “initial” form. Dimitri Simes finds that most of the world sees the United States as a "nascent" imperial power. Some scholars concerned how this empire would look in its ultimate form. The ultimate form of empire was described by Michael Doyle in his Empires. It is empire in which its two main components—the ruling core and the ruled periphery—merged to form one integrated whole. At this stage the empire as defined ceases to exist and becomes world state. Doyle examplifies the transformation on the case of the Roman Emperor Caracalla whose legislation in AD 212 extended the Roman citizenship to all inhabitants of the Mediterranean world.
 
-International Relations scholar Alexander Wendt in his 2003 article “Why the World State is Inevitable…” supposed the pathway of universal conquest and subsequent consolidation provided the conquering power recognizes all conquered members. Replying on criticism, Wendt invoked the example of the Roman Empire: A \"world empire would be an unstable equilibrium, still subject to the struggle for recognition.\" However, conquest can \"produce a proper ‘state’ if, as a result of internal reform, the world empire eventually recognizes all of its members (like the Roman Empire did, for example).”
+International Relations scholar Alexander Wendt in his 2003 article “Why the World State is Inevitable…” supposed the pathway of universal conquest and subsequent consolidation provided the conquering power recognizes all conquered members. Replying on criticism, Wendt invoked the example of the Roman Empire: A "world empire would be an unstable equilibrium, still subject to the struggle for recognition." However, conquest can "produce a proper ‘state’ if, as a result of internal reform, the world empire eventually recognizes all of its members (like the Roman Empire did, for example).”
 
-Doyle's case of the Roman Empire had also been evoked by Susan Strange in her 1988 article, \"The Future of the American Empire.\" Strange emphasized that the most persistent empires were those which best managed to integrate the ruling core and the peripheral allies. The article is partly a reply on the published a year earlier bestseller The Rise and Fall of the Great Powers which predicted imminent US \"imperial overstretch.\" Strange found this outcome unlikely, stressing the fact that the peripheral allies have been successfully recruited into the American Empire.
+Doyle's case of the Roman Empire had also been evoked by Susan Strange in her 1988 article, "The Future of the American Empire." Strange emphasized that the most persistent empires were those which best managed to integrate the ruling core and the peripheral allies. The article is partly a reply on the published a year earlier bestseller The Rise and Fall of the Great Powers which predicted imminent US "imperial overstretch." Strange found this outcome unlikely, stressing the fact that the peripheral allies have been successfully recruited into the American Empire.
 
-Envisaging a world empire of either the United States or the Soviet Union (whoever is victorious in World War III), Bertrand Russell projected the Roman scenario too: \"Like the Romans, they will, in the course of time, extend citizenship to the vanquished. There will then be a true world state, and it will be possible to forget that it will have owed its origin to conquest.\"
+Envisaging a world empire of either the United States or the Soviet Union (whoever is victorious in World War III), Bertrand Russell projected the Roman scenario too: "Like the Romans, they will, in the course of time, extend citizenship to the vanquished. There will then be a true world state, and it will be possible to forget that it will have owed its origin to conquest."
 
-To the case of Caracalla, Toynbee added the Abbasid cosmopolitan reformation of 750 AD. Both \"were good auguries for the prospect that, in a post-Modern chapter of Western history, a supranational commonwealth originally based on the hegemony of a paramount power over its satellites might eventually be put on the sounder basis of a constitutional partnership in which all the people of all the partner states would have their fare share in the conduct of common affairs.”
+To the case of Caracalla, Toynbee added the Abbasid cosmopolitan reformation of 750 AD. Both "were good auguries for the prospect that, in a post-Modern chapter of Western history, a supranational commonwealth originally based on the hegemony of a paramount power over its satellites might eventually be put on the sounder basis of a constitutional partnership in which all the people of all the partner states would have their fare share in the conduct of common affairs.”
 
 Historian Maks Ostrovski finds above mentioned cosmopolitan reformations to be the characteristic fate of persistent empires. When such a reformation occurs in our world, he writes, the green card would be abolished since all earth inhabitants would have it by birth. This cosmopolitan World State, as the records of earlier circumscribed civilizations suggest, will last millennia.
 
@@ -878,35 +878,35 @@ References
 
 Citations
 
-^ \"Merriam-Webster Online Dictionary\". Merriam-Webster.com. Retrieved 2020-06-30.
+^ "Merriam-Webster Online Dictionary". Merriam-Webster.com. Retrieved 2020-06-30.
 
-^ \"Empire\". Oxford Dictionary Online. Retrieved 21 October 2014.
+^ "Empire". Oxford Dictionary Online. Retrieved 21 October 2014.
 
 ^ a b c d e f g h Howe 2002. sfn error: multiple targets (2×): CITEREFHowe2002 (help)
 
 ^ Ross Hassig, Mexico and the Spanish Conquest (1994), pp. 23–24, ISBN 0-582-06829-0 (pbk)
 
-^ \"Oxford Dictionary Online\". Retrieved 2020-06-30.\"An extensive territory under the control of a supreme ruler (typically an emperor) or an oligarchy, often consisting of an aggregate of many separate states or territories. In later use also: an extensive group of subject territories ultimately under the rule of a single sovereign state.\"
+^ "Oxford Dictionary Online". Retrieved 2020-06-30."An extensive territory under the control of a supreme ruler (typically an emperor) or an oligarchy, often consisting of an aggregate of many separate states or territories. In later use also: an extensive group of subject territories ultimately under the rule of a single sovereign state."
 
 ^ Howe, Stephen (2002). Empire. New York: Oxford University Press. p. 15. ISBN 978-0-19-280223-1.
 
 ^ James, Paul; Nairn, Tom (2006). Globalization and Violence, Vol. 1: Globalizing Empires, Old and New. London: Sage Publications. p. xxiii.
 
-^ Taagepera, Rein (1979). \"Size and Duration of Empires: Growth-Decline Curves, 600 B.C. to 600 A.D.\". Social Science History. 3 (3/4): 117. doi:10.2307/1170959. JSTOR 1170959.
+^ Taagepera, Rein (1979). "Size and Duration of Empires: Growth-Decline Curves, 600 B.C. to 600 A.D.". Social Science History. 3 (3/4): 117. doi:10.2307/1170959. JSTOR 1170959.
 
 ^ Howe 2002, p. 35. sfn error: multiple targets (2×): CITEREFHowe2002 (help)
 
 ^ Howe 2002, p. 66. sfn error: multiple targets (2×): CITEREFHowe2002 (help)
 
-^ \"empire\". The Free Dictionary. Retrieved 26 October 2018. any monarchy that for reasons of history, prestige, etc, has an emperor rather than a king as head of state
+^ "empire". The Free Dictionary. Retrieved 26 October 2018. any monarchy that for reasons of history, prestige, etc, has an emperor rather than a king as head of state
 
-^ \"empire\". Your Dictionary. LoveToKnow, Corp. 2018. Retrieved 26 October 2018. government by an emperor or empress
+^ "empire". Your Dictionary. LoveToKnow, Corp. 2018. Retrieved 26 October 2018. government by an emperor or empress
 
-^ \"empire\". Vocabulary.com Dictionary. Retrieved 26 October 2018. a monarchy with an emperor as head of state
+^ "empire". Vocabulary.com Dictionary. Retrieved 26 October 2018. a monarchy with an emperor as head of state
 
-^ \"empire\". Collins English Dictionary. 2018. Retrieved 26 October 2018. government by an emperor or empress
+^ "empire". Collins English Dictionary. 2018. Retrieved 26 October 2018. government by an emperor or empress
 
-^ \"Oxford Dictionary Online\". Retrieved 2020-06-30.\"Anything considered as or likened to a realm or domain having an absolute ruler, such as heaven, hell, the oceans, etc.\"
+^ "Oxford Dictionary Online". Retrieved 2020-06-30."Anything considered as or likened to a realm or domain having an absolute ruler, such as heaven, hell, the oceans, etc."
 
 ^ Jane Burbank and Frederick Cooper, Empires in world history: Power and the politics of difference (Princeton UP, 2010).
 
@@ -916,7 +916,7 @@ Citations
 
 ^ Samuel N. Eisenstadt, Axial Age Civilizations, (New York: New York State University Press, 1986)
 
-^ Friedrich Ratzel, \"Territorial Growth of States\", Human Geography: An Essential Anthology, (eds. Agnew, John, & Livingstone, David & Rogers, Alisdair, Oxford: Blackwell, 1997), p 527; and \"The Laws of the Spatial Growth of States\", The Structure of Political Geography, (eds. Kasperson, Roger E., & Minghi, Julian V., Chicago: Aldine Publishing Company, 1969), p 18.
+^ Friedrich Ratzel, "Territorial Growth of States", Human Geography: An Essential Anthology, (eds. Agnew, John, & Livingstone, David & Rogers, Alisdair, Oxford: Blackwell, 1997), p 527; and "The Laws of the Spatial Growth of States", The Structure of Political Geography, (eds. Kasperson, Roger E., & Minghi, Julian V., Chicago: Aldine Publishing Company, 1969), p 18.
 
 ^ Namita Sanjay Sugandhi (2008). Between the Patterns of History: Rethinking Mauryan Imperial Interaction in the Southern Deccan. pp. 88–89. ISBN 978-0-549-74441-2. Retrieved 2012-06-06.
 
@@ -926,21 +926,21 @@ Citations
 
 ^ Michael Burger (2008). The Shaping of Western Civilization: From Antiquity to the Enlightenment. University of Toronto Press. p. 115. ISBN 9781551114323.
 
-^ Ken Pennington. \"France – Legal History\". Columbus School of Law and School of Canon Law, The Catholic University of America. Archived from the original on September 29, 2013. Retrieved September 23, 2013.
+^ Ken Pennington. "France – Legal History". Columbus School of Law and School of Canon Law, The Catholic University of America. Archived from the original on September 29, 2013. Retrieved September 23, 2013.
 
-^ Cynthia Haven (February 19, 2010). \"Stanford scholar links Rome and America in Philadelphia exhibition\". Stanford Report.
+^ Cynthia Haven (February 19, 2010). "Stanford scholar links Rome and America in Philadelphia exhibition". Stanford Report.
 
 ^ Stearns, ed. The Encyclopedia of World History (2001)
 
-^ \"Ancient Japan\". Ancient History Encyclopedia. Retrieved 2018-07-31.
+^ "Ancient Japan". Ancient History Encyclopedia. Retrieved 2018-07-31.
 
-^ \"Ancient Japanese & Chinese Relations\". Ancient History Encyclopedia. Retrieved 2018-07-31.
+^ "Ancient Japanese & Chinese Relations". Ancient History Encyclopedia. Retrieved 2018-07-31.
 
-^ \"Ancient Korean & Chinese Relations\". Ancient History Encyclopedia. Retrieved 2018-07-31.
+^ "Ancient Korean & Chinese Relations". Ancient History Encyclopedia. Retrieved 2018-07-31.
 
 ^ Bulliet & Crossley & Headrick & Hirsch & Johnson 2014, p. 264.
 
-^ Lockard, Craig (1999). \"Tang Civilization and the Chinese Centuries\" (PDF). Encarta Historical Essays.
+^ Lockard, Craig (1999). "Tang Civilization and the Chinese Centuries" (PDF). Encarta Historical Essays.
 
 ^ Stearns, ed. The Encyclopedia of World History (2001)
 
@@ -950,7 +950,7 @@ Citations
 
 ^ Luc Cambrézy, Populations réfugiées: de l'exil au retour, p.316
 
-^ Mukhtar, Mohamed Haji (1989). \"The Emergence and Role of Political Parties in the Inter-River Region of Somalia from 1947–1960\". Ufahamu. 17 (2): 98.
+^ Mukhtar, Mohamed Haji (1989). "The Emergence and Role of Political Parties in the Inter-River Region of Somalia from 1947–1960". Ufahamu. 17 (2): 98.
 
 ^ Shelley, Fred M. (2013). Nation Shapes: The Story behind the World's Borders. ABC-CLIO. p. 358. ISBN 978-1-61069-106-2.
 
@@ -962,7 +962,7 @@ Citations
 
 ^ Howe 2002, p. 47. sfn error: multiple targets (2×): CITEREFHowe2002 (help)
 
-^ Gregory G. Guzman, \"Were the barbarians a negative or positive factor in ancient and medieval history?\", The Historian 50 (1988), 568–570
+^ Gregory G. Guzman, "Were the barbarians a negative or positive factor in ancient and medieval history?", The Historian 50 (1988), 568–570
 
 ^ Thomas T. Allsen, Culture and conquest in Mongol Eurasia, 211
 
@@ -978,27 +978,27 @@ Citations
 
 ^ Lawrence E. Harrison, Peter L. Berger (2006). Developing cultures: case studies. Routledge. p. 158. ISBN 9780415952798.
 
-^ \"An Outline of the History of Persia During the Last Two Centuries (A.D. 1722–1922)\". Edward G. Browne. London: Packard Humanities Institute. p. 33. Retrieved 2010-09-24.
+^ "An Outline of the History of Persia During the Last Two Centuries (A.D. 1722–1922)". Edward G. Browne. London: Packard Humanities Institute. p. 33. Retrieved 2010-09-24.
 
-^ Goldfarb, Michael (18 March 2007). \"Napoleon, the Jews and French Muslims\". The New York Times.
+^ Goldfarb, Michael (18 March 2007). "Napoleon, the Jews and French Muslims". The New York Times.
 
-^ \"Voltaire, Rousseau and Napoleon on Prophet Muhammad ﷺ\". 25 June 2015.
+^ "Voltaire, Rousseau and Napoleon on Prophet Muhammad ﷺ". 25 June 2015.
 
-^ \"Bonaparte and Islam · Liberty, Equality, Fraternity\". Archived from the original on 2019-05-28. Retrieved 2019-05-31.
+^ "Bonaparte and Islam · Liberty, Equality, Fraternity". Archived from the original on 2019-05-28. Retrieved 2019-05-31.
 
-^ Murshidabad.net (8 May 2012). \"Hassan Ali Mirza's succession\". Archived from the original on 2 August 2012. Retrieved 10 August 2012.
+^ Murshidabad.net (8 May 2012). "Hassan Ali Mirza's succession". Archived from the original on 2 August 2012. Retrieved 10 August 2012.
 
 ^ Ian Copland; Ian Mabbett; Asim Roy; et al. (2012). A History of State and Religion in India. Routledge. p. 161.
 
-^ Thomson, Basil (January 1901). \"Note Upon the Natives of Savage Island, or Niue\". The Journal of the Anthropological Institute of Great Britain and Ireland. 31: 137–145. doi:10.2307/2842790. JSTOR 2842790.
+^ Thomson, Basil (January 1901). "Note Upon the Natives of Savage Island, or Niue". The Journal of the Anthropological Institute of Great Britain and Ireland. 31: 137–145. doi:10.2307/2842790. JSTOR 2842790.
 
 ^  Conquerors: How Portugal Forged the First Global Empire, Author: Roger Crowley, Publisher: Random House; 1st edition, year: 2015
 
 ^ Wilbur, Marguerite Eyer; Company, The East India. The East India Company: And the British Empire in the Far East. Stanford University Press. pp. 175–178. ISBN 9780804728645. Retrieved 16 February 2014.
 
-^ Johnston, Steve, Tea Party Culture War: A Clash of Worldviews, p90, \"By 1922, the British Empire presided over 458 million people—one-quarter of the world's population—and comprised more than 13 million square miles.\"
+^ Johnston, Steve, Tea Party Culture War: A Clash of Worldviews, p90, "By 1922, the British Empire presided over 458 million people—one-quarter of the world's population—and comprised more than 13 million square miles."
 
-^ Watts, Carl P. \"Pax Britannica\": 3. it left many legacies, including widespread use of the English language, belief in Protestant religion, economic globalization, modern precepts of law and order, and representative democracy. Cite journal requires |journal= (help)
+^ Watts, Carl P. "Pax Britannica": 3. it left many legacies, including widespread use of the English language, belief in Protestant religion, economic globalization, modern precepts of law and order, and representative democracy. Cite journal requires |journal= (help)
 
 ^ Winks, Robin W. (1993). World civilization : a brief history (2nd ed.). San Diego, CA: Collegiate Press. p. 406. ISBN 9780939693283. By 1914 common law, trail by jury, the King James Authorized Version of the Bible, the English language, and the British navy had been spread around the globe.
 
@@ -1008,19 +1008,19 @@ Citations
 
 ^ Malesevic, Sinisa (2013). Nation-states and nationalisms organization, ideology and solidarity. Polity Press. ISBN 9780745672069.
 
-^ Sebastian Huhnholz, \"Do All Roads Lead to Rome? Ancient Implications and Modern Transformations in the Recent US Discourse on an American Empire\", Mediterraneo Antico, 13/1-2, (2010): p. 55.
+^ Sebastian Huhnholz, "Do All Roads Lead to Rome? Ancient Implications and Modern Transformations in the Recent US Discourse on an American Empire", Mediterraneo Antico, 13/1-2, (2010): p. 55.
 
-^ Dimitri K. Simes, \"America's Imperial Dilemma\", Foreign Affairs, 82/6, (2003): p 93.
+^ Dimitri K. Simes, "America's Imperial Dilemma", Foreign Affairs, 82/6, (2003): p 93.
 
-^ In Clyde V. Prestowitz's version it also \"quacks\" like a duck. Rogue Nation: American Unilateralism and the Failure of Good Intentions, (New York: Basic Books, 2004: p 25).
+^ In Clyde V. Prestowitz's version it also "quacks" like a duck. Rogue Nation: American Unilateralism and the Failure of Good Intentions, (New York: Basic Books, 2004: p 25).
 
-^ Kumar, Krishan (2010). \"Nation-states as empires, empires as nation-states: two principles, one practice?\". Theory and Society. 39 (2): 119–143. doi:10.1007/s11186-009-9102-8.
+^ Kumar, Krishan (2010). "Nation-states as empires, empires as nation-states: two principles, one practice?". Theory and Society. 39 (2): 119–143. doi:10.1007/s11186-009-9102-8.
 
 ^ Debrix, Francois; Lacy, Mark, eds. (2009). The Geopolitics of American Insecurity: Terror, Power and Foreign Policy. Routledge. pp. 129–141. ISBN 978-1134045402.
 
 ^ Cohen 2004, p. 56.
 
-^ Piganiol, André (1950). \"The Causes of the Fall of the Roman Empire\". The Journal of General Education. 5 (1): 62–69. JSTOR 27795332.
+^ Piganiol, André (1950). "The Causes of the Fall of the Roman Empire". The Journal of General Education. 5 (1): 62–69. JSTOR 27795332.
 
 ^ Bury, John (2011). History of the Later Roman Empire. New York: Dover Publications. ISBN 978-0486203980.
 
@@ -1028,33 +1028,33 @@ Citations
 
 ^ George Hicks, Japan's hidden apartheid: the Korean Minority and the Japanese, (Aldershot, England; Brookfield, VT: Ashgate, 1998), 3.
 
-^ a b \"America's Invisible Empire\". Economic and Political Weekly. 39 (44). 30 October 2004. Text available here Archived 2017-01-27 at the Wayback Machine, author link here.
+^ a b "America's Invisible Empire". Economic and Political Weekly. 39 (44). 30 October 2004. Text available here Archived 2017-01-27 at the Wayback Machine, author link here.
 
 ^ Johnson, Chalmers, Blowback: The Costs and Consequences of American Empire (2000), pp. 72–79
 
-^ Niall Ferguson. \"Colossus: The Rise and Fall of the American Empire\".
+^ Niall Ferguson. "Colossus: The Rise and Fall of the American Empire".
 
 ^ Lens & Zinn 2003, p. 63-64.
 
 ^ LaFeber, Walter, Inevitable Revolutions: The United States in Central America (1993) 2nd edition, p. 19
 
-^ Boot, Max (May 6, 2003). \"American Imperialism? No Need to Run Away from Label\". Council on Foreign Relations op-ed, quoting USA Today. Archived from the original on January 23, 2009. Retrieved 2008-01-06.
+^ Boot, Max (May 6, 2003). "American Imperialism? No Need to Run Away from Label". Council on Foreign Relations op-ed, quoting USA Today. Archived from the original on January 23, 2009. Retrieved 2008-01-06.
 
 ^ Lens & Zinn 2003, p. Back cover.
 
-^ Ian Black (December 20, 2002). \"Living in a euro wonderland\". Guardian. Retrieved 2008-01-06.
+^ Ian Black (December 20, 2002). "Living in a euro wonderland". Guardian. Retrieved 2008-01-06.
 
-^ \"EU gets its military fist\". BBC News. December 13, 2002. Retrieved 2008-01-06.
+^ "EU gets its military fist". BBC News. December 13, 2002. Retrieved 2008-01-06.
 
-^ Nikolaos Tzifakis (April 2007). \"EU's region-building and boundary-drawing policies: the European approach to the Southern Mediterranean and the Western Balkans 1\". Journal of Southern Europe and the Balkans. informaworld. 9 (1): 47–64. doi:10.1080/14613190701217001.
+^ Nikolaos Tzifakis (April 2007). "EU's region-building and boundary-drawing policies: the European approach to the Southern Mediterranean and the Western Balkans 1". Journal of Southern Europe and the Balkans. informaworld. 9 (1): 47–64. doi:10.1080/14613190701217001.
 
-^ Stephen R. Hurt (2003). \"Co-operation and coercion? The Cotonou Agreement between the European Union and acp states and the end of the Lomé Convention\" (PDF). Third World Quarterly. informaworld. 24: 161–176. doi:10.1080/713701373. Retrieved 2007-01-06.
+^ Stephen R. Hurt (2003). "Co-operation and coercion? The Cotonou Agreement between the European Union and acp states and the end of the Lomé Convention" (PDF). Third World Quarterly. informaworld. 24: 161–176. doi:10.1080/713701373. Retrieved 2007-01-06.
 
-^ Bruno Coppieters, Michael Emerson, Michel Huysseune, Tamara Kovziridze, Nathalie Tocci, Gergana Noutcheva and Marius Vahl. \"Europeanisation and Conflict Resolution: Case Studies from the European Periphery\" (PDF). Belgian Science Policy. Archived from the original (PDF) on 2007-12-02. Retrieved 2008-01-06.CS1 maint: uses authors parameter (link)
+^ Bruno Coppieters, Michael Emerson, Michel Huysseune, Tamara Kovziridze, Nathalie Tocci, Gergana Noutcheva and Marius Vahl. "Europeanisation and Conflict Resolution: Case Studies from the European Periphery" (PDF). Belgian Science Policy. Archived from the original (PDF) on 2007-12-02. Retrieved 2008-01-06.CS1 maint: uses authors parameter (link)
 
 ^ Jan Zielonka (2006). Europe as Empire: The Nature of the Enlarged European Union (PDF). Oxford: Oxford University Press. ISBN 978-0-19-929221-9. Archived from the original (PDF) on 2007-12-02. Retrieved 2008-01-06.
 
-^ For the Okur's thesis about \"nation empires\", look at the article: Mehmet Akif Okur, \"Rethinking Empire After 9/11: Towards A New Ontological Image of World Order\" Perceptions, Journal of International Affairs, Volume XII, Winter 2007, pp. 61–93
+^ For the Okur's thesis about "nation empires", look at the article: Mehmet Akif Okur, "Rethinking Empire After 9/11: Towards A New Ontological Image of World Order" Perceptions, Journal of International Affairs, Volume XII, Winter 2007, pp. 61–93
 
 ^ Peter Stearns, ed. The Encyclopedia of World History: Ancient, Medieval, and Modern, Chronologically Arranged (6th ed. 2001), passim.
 
@@ -1064,13 +1064,13 @@ Citations
 
 ^ Jane Burbank and Frederick Cooper, Empires in World History: Power and the Politics of Difference, (Princeton & Oxford, Princeton University Press, 2010, p 8.
 
-^ Niall Ferguson, \"The Unconscious Colossus: Limits of (Alternatives to) American Empire\", Daedalus, 134/2, (2005): p 24.
+^ Niall Ferguson, "The Unconscious Colossus: Limits of (Alternatives to) American Empire", Daedalus, 134/2, (2005): p 24.
 
-^ Yale H. Ferguson & Richard W. Mansbach, \"Superpower, Hegemony, Empire,\" San Diego: Annual Meeting paper, The International Studies Association, March 22–26, (2006: 9), http://citation.allacademic.com//meta/p_mla_apa_research_citation/0/9/9/0/5/pages99056/p99056-9.php Archived 2016-11-24 at the Wayback Machine
+^ Yale H. Ferguson & Richard W. Mansbach, "Superpower, Hegemony, Empire," San Diego: Annual Meeting paper, The International Studies Association, March 22–26, (2006: 9), http://citation.allacademic.com//meta/p_mla_apa_research_citation/0/9/9/0/5/pages99056/p99056-9.php Archived 2016-11-24 at the Wayback Machine
 
-^ Daniel Deudney & G. John Ikenberry, \"America's Impact: The End of Empire and the Globalization of the Westphalian System\", working paper, Princeton University, 2015, pp. 7–8, http://www.scholar.princeton.edu/sites/.../am-impact-dd-gji-final-1-august-2015.pdf
+^ Daniel Deudney & G. John Ikenberry, "America's Impact: The End of Empire and the Globalization of the Westphalian System", working paper, Princeton University, 2015, pp. 7–8, http://www.scholar.princeton.edu/sites/.../am-impact-dd-gji-final-1-august-2015.pdf
 
-^ Anthony Pagden, \"Imperialism, Liberalism & the Quest for Perpetual Peace\", Daedalus, 134/2, (2005): p. 47.
+^ Anthony Pagden, "Imperialism, Liberalism & the Quest for Perpetual Peace", Daedalus, 134/2, (2005): p. 47.
 
 ^ Cohen 2004, p. 50.
 
@@ -1082,53 +1082,53 @@ Citations
 
 ^ Empires, (London: Cornell University Press, 1986, pp. 12, 51, 137).
 
-^ Quincy Wright, “On the Application of Intelligence to World Affairs\", Bulletin of the Atomic Scientists, 4/8, (August 1, 1948): p. 250, https://books.google.com/books?id=3A0AAAAAMBAJ&printsec=frontcover&hl=en&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+^ Quincy Wright, “On the Application of Intelligence to World Affairs", Bulletin of the Atomic Scientists, 4/8, (August 1, 1948): p. 250, https://books.google.com/books?id=3A0AAAAAMBAJ&printsec=frontcover&hl=en&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 
-^ Friedrich Tenbruck, \"Internal History of Society or Universal History?\" tr. J. Bleicher, Theory, Culture, Society, 11, (1994): p. 87.
+^ Friedrich Tenbruck, "Internal History of Society or Universal History?" tr. J. Bleicher, Theory, Culture, Society, 11, (1994): p. 87.
 
 ^ William Wohlforth, & Stuart J. Kaufman, & Richard Little, Balance of Power in World History, (London: Palgrave Macmillan, 2007).
 
-^ \"Foreword\", Royal Commentaries of the Incas and General History of Peru, (Garcilaso de la Vega, Austin & London: University of Texas Press, 1966, pp. X–XI).
+^ "Foreword", Royal Commentaries of the Incas and General History of Peru, (Garcilaso de la Vega, Austin & London: University of Texas Press, 1966, pp. X–XI).
 
 ^ System of States, (Leicester: Leicester University Press, 1977, pp. 43–44).
 
-^ Fichte, (1806). \"Characterisitics of the Present Age\", Theory and Practice of the Balance of Power, 1486–1914: Selected European Writings, (ed. Moorhead Wright, London: Rowman & Littlefield, 1975, pp. 87–89).
+^ Fichte, (1806). "Characterisitics of the Present Age", Theory and Practice of the Balance of Power, 1486–1914: Selected European Writings, (ed. Moorhead Wright, London: Rowman & Littlefield, 1975, pp. 87–89).
 
 ^ Cosmos: a sketch of a physical description of the universe by Alexander von Humboldt; translated from German by E. C. Otté (vol I, p. 359).
 
-^ a b \"50 Centuries in 10 Minutes\", (2014)
+^ a b "50 Centuries in 10 Minutes", (2014)
 
-^ a b \"History of the World: Every Year\", (2015)
+^ a b "History of the World: Every Year", (2015)
 
 ^ Fredrick Jackson Turner, The Frontier in American History, Holt, Rinchart and Winston, New York, 1920.
 
 ^ Halford J. Mackinder, The Geographical Pivot of History, J. Murray, London, 1904.
 
-^ Fridriech Ratzel, \"The Laws of the Spatial Growth of States\", The Structure of Political Geography, (eds. Kasperson, Roger E., & Minghi, Julian V., Chicago: Aldine Publishing Company, 1969), p 28.
+^ Fridriech Ratzel, "The Laws of the Spatial Growth of States", The Structure of Political Geography, (eds. Kasperson, Roger E., & Minghi, Julian V., Chicago: Aldine Publishing Company, 1969), p 28.
 
 ^ Cited in Robert Strausz-Hupé, Geopolitics: The Struggle for Space and Power, (New York: G. P. Putnam's Sons, 1942), p 30-31.
 
 ^ K'ang Yu-wei, The One World Philosophy, (tr. Thompson, Lawrence G., London, 1958), pp. 79–80, 85.
 
-^ George Vacher de Lapouge, L'Aryen: Son Rôle Social, (Nantes: 1899), chapter \"L'Avenir des Aryens\".
+^ George Vacher de Lapouge, L'Aryen: Son Rôle Social, (Nantes: 1899), chapter "L'Avenir des Aryens".
 
 ^ Derwent Whittlesey, German Strategy of World Conquest, (New York: Farrar & Rinehart, 1942), p 74.
 
 ^ Robert Strausz-Hupé, Geopolitics: The Struggle for Space and Power, (New York: G. P. Putnam's Sons, 1942), p XI.
 
-^ John H. Herz, \"Power Politics and World Organization,\"' The American Political Science Review, 36/6, (1942): p 1041.
+^ John H. Herz, "Power Politics and World Organization,"' The American Political Science Review, 36/6, (1942): p 1041.
 
 ^ Ludwig Dehio, The Precarious Balance: Four Centuries of the European Power Struggle, 1945, (tr. Fullman, Charles, New York: Alfred A. Knopf, 1962), pp. 266–267.
 
-^ \"Atomic War or Peace\", 1945, Albert Einstein Collection: Essays in Humanism, (New York: Philosophical Library/Open Road, 2016, https://books.google.com/books/about/Essays_in_Humanism.html?id=6NoFIRmg3J4C&redir_esc=y
+^ "Atomic War or Peace", 1945, Albert Einstein Collection: Essays in Humanism, (New York: Philosophical Library/Open Road, 2016, https://books.google.com/books/about/Essays_in_Humanism.html?id=6NoFIRmg3J4C&redir_esc=y
 
-^ \"Atomic Weapon and the Prevention of War\", Bulletin of the Atomic Scientists, 2/7-8, October 1: p. 20, https://books.google.com/books?id=WwwAAAAAMBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+^ "Atomic Weapon and the Prevention of War", Bulletin of the Atomic Scientists, 2/7-8, October 1: p. 20, https://books.google.com/books?id=WwwAAAAAMBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 
-^ \"The Illusion of World Government\", Bulletin of the Atomic Scientists, 5/10: (October 1, 1949): p. 291, https://books.google.com/books?id=mA0AAAAAMBAJ&printsec=frontcover&hl=en&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+^ "The Illusion of World Government", Bulletin of the Atomic Scientists, 5/10: (October 1, 1949): p. 291, https://books.google.com/books?id=mA0AAAAAMBAJ&printsec=frontcover&hl=en&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 
 ^ Георгий П. Федотов, (1945). “Новое Отечество,” Новый Град, Нью Йорк: Издательство Чехова, 1952, p 98, 102, 107.
 
-^ John Bellamy Foster, \"The New Geopolitics of Empire\", The Monthly Review, 57/8, (2006): p 7, http://monthlyreview.org/2006/01/01/the-new-geopolitics-of-empire Archived 2018-09-29 at the Wayback Machine
+^ John Bellamy Foster, "The New Geopolitics of Empire", The Monthly Review, 57/8, (2006): p 7, http://monthlyreview.org/2006/01/01/the-new-geopolitics-of-empire Archived 2018-09-29 at the Wayback Machine
 
 ^ James Burnham, Struggle for the World, (New York: The John Day Company, 1947), pp. 33, 50, 53, 55; 134–135, 143.
 
@@ -1136,7 +1136,7 @@ Citations
 
 ^ A Study of History, (London: Oxford University Press, 1954), vol. IX, p. 524.
 
-^ Max Gschwind, \"Massive Retaliatory Power\", map, Fortune, 51, May 1954: p. 105, https://www.fulltable.com/vts/f/fortune/xf/34.jpg Archived 2017-03-12 at the Wayback Machine
+^ Max Gschwind, "Massive Retaliatory Power", map, Fortune, 51, May 1954: p. 105, https://www.fulltable.com/vts/f/fortune/xf/34.jpg Archived 2017-03-12 at the Wayback Machine
 
 ^ Michio Kaku, & Daniel Axelrod, To Win a Nuclear War: The Pentagon Secret War Plans, (Boston: South End Press, 1987), p. 195.
 
@@ -1144,7 +1144,7 @@ Citations
 
 ^ Emphasis added, cited in Fred Kaplan, The Wizards of Armageddon. Stanford, California: Stanford University Press, 1991, pp. 222–223.
 
-^ Robert Carneiro, \"The Circumscription Theory: Challenge and Response\", American Behavioral Scientist, 31/4, (1988): p 499.
+^ Robert Carneiro, "The Circumscription Theory: Challenge and Response", American Behavioral Scientist, 31/4, (1988): p 499.
 
 ^ O’Connor, D. B. & Silverman, D. P., Ancient Egyptian Kingship, (Leiden & New York: E. J. Brill, 1995), p XXI.
 
@@ -1152,7 +1152,7 @@ Citations
 
 ^ Yuri Pines, Envisioning Eternal Empire: Chinese Political Thought of the Warring States Era, (Honolulu: University of Hawaii Press, 2009), pp. 8–9.
 
-^ Friedrich Tenbruck, \"Internal History of Society or Universal History?\" tr. J. Bleicher, Theory, Culture, Society, 11, (1994): pp. 84, 86–87.
+^ Friedrich Tenbruck, "Internal History of Society or Universal History?" tr. J. Bleicher, Theory, Culture, Society, 11, (1994): pp. 84, 86–87.
 
 ^ Yuri Pines, Envisioning Eternal Empire: Chinese Political Thought of the Warring States Era, (Honolulu: University of Hawaii Press, 2009).
 
@@ -1164,7 +1164,7 @@ Citations
 
 ^ Kaufman & Little & Wohlforth, The Balance of Power in World History, (London: Palgrave, 2007), p. 237.
 
-^ Kaufman & Little & Wohlforth, \"Testing Balance-of-Power Theory in World History\", European Journal of International Relations, 13/2, (2007): p. 178.
+^ Kaufman & Little & Wohlforth, "Testing Balance-of-Power Theory in World History", European Journal of International Relations, 13/2, (2007): p. 178.
 
 ^ Stuart J. Kaufman & William C. Wohlforth & Richard Little, The Balance of Power in World History, (London: Palgrave, 2007), pp. 45–46.
 
@@ -1176,31 +1176,31 @@ Citations
 
 ^ Politics Among Nations: The Struggle for Power and Peace, 1948, (New York: McGraw Hill, revised 2006 edition), p 354–357.
 
-^ John H. Herz, \"Rise and Demise of the Territorial State\", World Politics, 9, (1957): p. 482.
+^ John H. Herz, "Rise and Demise of the Territorial State", World Politics, 9, (1957): p. 482.
 
-^ Michael Heffernan, \"The Politics of the Map in the Early Twentieth Century\", Cartography and Geographic Information Science, 29/3, (2002): p. 207.
+^ Michael Heffernan, "The Politics of the Map in the Early Twentieth Century", Cartography and Geographic Information Science, 29/3, (2002): p. 207.
 
-^ Kaufman & Little & Wohlforth, The Balance of Power in World History, (London: Palgrave, 2007), p 229, 237; Idem., \"Testing Balance-of-Power Theory in World History\", European Journal of International Relations, 13/2, (2007): p 159.
+^ Kaufman & Little & Wohlforth, The Balance of Power in World History, (London: Palgrave, 2007), p 229, 237; Idem., "Testing Balance-of-Power Theory in World History", European Journal of International Relations, 13/2, (2007): p 159.
 
-^ Gerry Kearns, \"Fin de Siècle Geopolitics: Mackinder, Hobson and Theories of Global Closure\", Political Geography of the Twentieth Century: A Global Analysis, (ed. Peter J. Taylor, London: Belhaven Press, 1993).
+^ Gerry Kearns, "Fin de Siècle Geopolitics: Mackinder, Hobson and Theories of Global Closure", Political Geography of the Twentieth Century: A Global Analysis, (ed. Peter J. Taylor, London: Belhaven Press, 1993).
 
 ^ Kaufman & Little & Wohlforth, The Balance of Power in World History, p 21.
 
 ^ Quincy Wright, A Study of War, (Chicago & London: The University of Chicago Press, 1964), p 92-93.
 
-^ \"World State Formation: Historical Processes and Emergent Necessity\", Political Geography Quarterly, 9/2, (1990): pp. 108–130; electronic source for the original working paper: http://irows.ucr.edu/papers/irows1.txt
+^ "World State Formation: Historical Processes and Emergent Necessity", Political Geography Quarterly, 9/2, (1990): pp. 108–130; electronic source for the original working paper: http://irows.ucr.edu/papers/irows1.txt
 
-^ Robert Carneiro, \"Are We Circumscribed Now?\" 2012
+^ Robert Carneiro, "Are We Circumscribed Now?" 2012
 
-^ Kaufman & Little & Wohlforth, \"Testing Balance-of-Power Theory in World History\", European Journal of International Relations, 13/2, (2007): p. 179.
+^ Kaufman & Little & Wohlforth, "Testing Balance-of-Power Theory in World History", European Journal of International Relations, 13/2, (2007): p. 179.
 
-^ Randall L. Schweller, \"Entropy and the Trajectory of World Politics: Why Polarity Has Become Less Meaningful\", Cambridge Review of International Affairs, 23/1, (2010): pp. 149–151.
+^ Randall L. Schweller, "Entropy and the Trajectory of World Politics: Why Polarity Has Become Less Meaningful", Cambridge Review of International Affairs, 23/1, (2010): pp. 149–151.
 
 ^ The Sorrows of Empire: Militarism, Secrecy and the End of the Republic, New York: Henry Hobt and Company, (2004), p 187.
 
-^ Simon Dalby, \"Imperialism, Domination, Culture: The Continued Relevance of Critical Geopolitics,\" Geopolitics, 13/3, (2008): p 425.
+^ Simon Dalby, "Imperialism, Domination, Culture: The Continued Relevance of Critical Geopolitics," Geopolitics, 13/3, (2008): p 425.
 
-^ Kenneth Pomeranz, \"Empire & ‘Civilizing’ Missions, Past & Present, Daedalus, 134/2, (2005): p 43, 45.
+^ Kenneth Pomeranz, "Empire & ‘Civilizing’ Missions, Past & Present, Daedalus, 134/2, (2005): p 43, 45.
 
 ^ Niall Ferguson, Colossus: The Rise and Fall of the American Empire, (New York: Penguin Books, 2005), p 17.
 
@@ -1210,19 +1210,19 @@ Citations
 
 ^ Hubert Vedrine & Dominique Moisi, France in an Age of Globalization, (tr. Gordon, Philip H., Washington: Brookings Institutions Press, 2001), p 2.
 
-^ David C. Hendrickson, \"The Curious Case of American Hegemony: Imperial Aspirations and National Decline,\" World Policy Journal, 22/2, (2005): p 5, http://bev.berkeley.edu/ipe/readings/American%20hegemony%202005.pdf
+^ David C. Hendrickson, "The Curious Case of American Hegemony: Imperial Aspirations and National Decline," World Policy Journal, 22/2, (2005): p 5, http://bev.berkeley.edu/ipe/readings/American%20hegemony%202005.pdf
 
-^ Eric Hobsbawm, \"After Winning the War: The Empire Expands Wider and Still Wider,\" Counterpunch, (June 11, 2003, electronic source, no pagination), https://www.counterpunch.org/2003/06/10/the-empire-expands-wider-and-still-wider/
+^ Eric Hobsbawm, "After Winning the War: The Empire Expands Wider and Still Wider," Counterpunch, (June 11, 2003, electronic source, no pagination), https://www.counterpunch.org/2003/06/10/the-empire-expands-wider-and-still-wider/
 
 ^ “The Greatest Superpower Ever,” New Perspectives Quarterly, 19/2, (2002), http://www.digitalnpq.org/archive/2002_spring/kennedy.html
 
-^ \"America's Sticky Power,\" Foreign Policy, 141, (March – April 2004): p 48.
+^ "America's Sticky Power," Foreign Policy, 141, (March – April 2004): p 48.
 
 ^ Europe: An Unfinished Adventure, (Cambridge: Polity Press, 2004), p 55-56.
 
-^ \"The Unconscious Colossus: Limits of (Alternatives to) American Empire,\" Daedalus, 134/2, (2005): p 20-21.
+^ "The Unconscious Colossus: Limits of (Alternatives to) American Empire," Daedalus, 134/2, (2005): p 20-21.
 
-^ \"The Arrogant Empire,\" Newsweek. (March 24, 2003), http://www.newsweek.com/arrogant-empire-132751
+^ "The Arrogant Empire," Newsweek. (March 24, 2003), http://www.newsweek.com/arrogant-empire-132751
 
 ^ Ludwig Dehio, The Precarious Balance: Four Centuries of the European Power Struggle, 1945, (tr. Fullman, Charles, New York: Alfred A. Knopf, 1962), p 234.
 
@@ -1230,17 +1230,17 @@ Citations
 
 ^ Quincy Wright, A Study of War, (Chicago & London: The University of Chicago Press, 1964), p 92-93, 228, 234.
 
-^ \"The Logistic Growth of Political Areas,\" Social Forces, 26, (1948): p 396-408.
+^ "The Logistic Growth of Political Areas," Social Forces, 26, (1948): p 396-408.
 
-^ \"Imperial Cycles and World Order,\" Peace Research Society, 7, (1967): p 83-101.
+^ "Imperial Cycles and World Order," Peace Research Society, 7, (1967): p 83-101.
 
-^ \"A Macrohistoric Trend towards World Government\", Behavior Science Notes, 8, (1973): p 35-40.
+^ "A Macrohistoric Trend towards World Government", Behavior Science Notes, 8, (1973): p 35-40.
 
 ^ “Expansion and Contraction Patterns of Large Polities: Context for Russia.” International Studies Quarterly, 41/3, (1997): 475–504.
 
-^ \"Political Expansion as an Expression of the Principle of Competitive Exclusion\", Studying War: Anthropological Perspective, (eds. Reyna, Stephen P. & Dawns, Richard Erskine, Gordon and Breach, New Hampshire, 1994).
+^ "Political Expansion as an Expression of the Principle of Competitive Exclusion", Studying War: Anthropological Perspective, (eds. Reyna, Stephen P. & Dawns, Richard Erskine, Gordon and Breach, New Hampshire, 1994).
 
-^ \"The Political Unification of the World\", Cross Cultural Survey, 38/2, (2004), p 162-177.
+^ "The Political Unification of the World", Cross Cultural Survey, 38/2, (2004), p 162-177.
 
 ^ Crusade for Pan-Europe, (New York: G. P. Putnam’s Sons, 1943), p 297-298.
 
@@ -1262,17 +1262,17 @@ Citations
 
 ^ The Sorrows of Empire: Militarism, Secrecy and the End of the Republic, (New York: Henry Hobt and Company, 2004), p 187.
 
-^ \"America's Imperial Dilemma,\" Foreign Affairs, 82/6, (2003): p 91.
+^ "America's Imperial Dilemma," Foreign Affairs, 82/6, (2003): p 91.
 
 ^ Empires, (London: Cornell University Press, 1986, p 12).
 
-^ \"Why the World State is Inevitable: Teleology and the Logic of Anarchy,\" European Journal of International Relations, 9/4, (2003), http://www.comw.org/qdr/fulltext/03wendt.pdf, p 54-56.
+^ "Why the World State is Inevitable: Teleology and the Logic of Anarchy," European Journal of International Relations, 9/4, (2003), http://www.comw.org/qdr/fulltext/03wendt.pdf, p 54-56.
 
-^ Alexander Wendt, \"Agency, Teleology and the World State: A Reply to Shannon,\" European Journal of International Relations, 11/4, (2005): p 595, https://www.researchgate.net/publication/274287534_Agency_Teleology_and_the_World_State_A_Reply_to_Shannon.
+^ Alexander Wendt, "Agency, Teleology and the World State: A Reply to Shannon," European Journal of International Relations, 11/4, (2005): p 595, https://www.researchgate.net/publication/274287534_Agency_Teleology_and_the_World_State_A_Reply_to_Shannon.
 
-^ Susan Strange, \"The Future of the American Empire,\" Journal of International Affairs, 42/1,(1988): p 9, 11.
+^ Susan Strange, "The Future of the American Empire," Journal of International Affairs, 42/1,(1988): p 9, 11.
 
-^ Bertrand Russell, \"The Future of Man,\" Atlantic Monthly, (April (1951), electronic source, no pagination, https://www.theatlantic.com/magazine/archive/1951/03/the-future-of-man/305193/
+^ Bertrand Russell, "The Future of Man," Atlantic Monthly, (April (1951), electronic source, no pagination, https://www.theatlantic.com/magazine/archive/1951/03/the-future-of-man/305193/
 
 ^ A Study of History, (London: Oxford University Press, 1954), vol IX, p 554-555.
 
@@ -1288,7 +1288,7 @@ Barkey, Karen. Empire of Difference: The Ottomans in Comparative Perspective. Ne
 
 Burbank, Jane and Frederick Cooper. Empires in World History: Power and the Politics of Difference. Princeton: Princeton University Press 2010. ISBN 978-0-691-12708-8
 
-Cohen, Eliot A. (July–August 2004). \"History and the Hyperpower\". Foreign Affairs. 83 (4): 49–63. doi:10.2307/20034046. JSTOR 20034046. Retrieved 26 December 2017.CS1 maint: ref=harv (link)
+Cohen, Eliot A. (July–August 2004). "History and the Hyperpower". Foreign Affairs. 83 (4): 49–63. doi:10.2307/20034046. JSTOR 20034046. Retrieved 26 December 2017.CS1 maint: ref=harv (link)
 
 Colomer, Josep The European Empire. Amazon Books, 2016.
 
@@ -1306,7 +1306,7 @@ Gilpin, Robert War and Change in World Politics pp. 110–116
 
 Geiss, Imanuel (1983). War and Empire in the Twentieth Century. Aberdeen University Press. ISBN 978-0-08-030387-1.
 
-Johan Galtung (January 1996). \"The Decline and Fall of Empires: A Theory of De-Development\". Honolulu. Archived from the original on 2007-10-13. Retrieved 2008-01-06. Written for the United Nations Research Institute on Development, UNRISD, Geneva.
+Johan Galtung (January 1996). "The Decline and Fall of Empires: A Theory of De-Development". Honolulu. Archived from the original on 2007-10-13. Retrieved 2008-01-06. Written for the United Nations Research Institute on Development, UNRISD, Geneva.
 
 Howe, Stephen (2002). Empire: A Very Short Introduction. Oxford Press.CS1 maint: ref=harv (link)
 
@@ -1741,7 +1741,7 @@ African empires
 Miscellaneous 
 The empire on which the sun never sets
 
-\"Empire\" as a description of foreign policy
+"Empire" as a description of foreign policy
 American empire
 
 Soviet Empire
@@ -1876,6 +1876,3 @@ Tribal sovereignty
 
 Authority control 
 GND: 4139742-3
-
-"
-

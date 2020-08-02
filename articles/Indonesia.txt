@@ -1,5 +1,3 @@
-"
-
 Country in Southeast Asia and Oceania
 
 Coordinates: 5°S 120°E / 5°S 120°E / -5; 120
@@ -14,13 +12,13 @@ Republik Indonesia (Indonesian)
 
 Motto: Bhinneka Tunggal Ika (Old Javanese)
 
-(English: \"Unity in Diversity\")
+(English: "Unity in Diversity")
 
 National ideology: Pancasila
 
-Anthem: \"Indonesia Raya\"
+Anthem: "Indonesia Raya"
 
-(English: \"Great Indonesia\")
+(English: "Great Indonesia")
 
 Capital
 
@@ -190,9 +188,9 @@ Indonesia (/ˌɪndəˈniːʒə/ (listen) IN-də-NEE-zhə), officially the Republ
 
 The sovereign state is a presidential, constitutional republic with an elected legislature. It has 34 provinces, of which five have special status. The country's capital, Jakarta, is the second-most populous urban area in the world. The country shares land borders with Papua New Guinea, East Timor, and the eastern part of Malaysia. Other neighbouring countries include Singapore, Vietnam, the Philippines, Australia, Palau, and India's Andaman and Nicobar Islands. Despite its large population and densely populated regions, Indonesia has vast areas of wilderness that support one of the world's highest levels of biodiversity.
 
-The Indonesian archipelago has been a valuable region for trade since at least the 7th century when Srivijaya and later Majapahit traded with entities from mainland China and the Indian subcontinent. Local rulers gradually absorbed foreign influences from the early centuries and Hindu and Buddhist kingdoms flourished. Sunni traders and Sufi scholars brought Islam, while Europeans introduced Christianity through colonisation. Although sometimes interrupted by the Portuguese, French and British, the Dutch were the foremost colonial power for much of their 350-year presence in the archipelago. The concept of \"Indonesia\" as a nation-state emerged in the early 20th century and the country proclaimed its independence in 1945. However, it was not until 1949 that the Dutch recognised Indonesia's sovereignty following an armed and diplomatic conflict between the two.
+The Indonesian archipelago has been a valuable region for trade since at least the 7th century when Srivijaya and later Majapahit traded with entities from mainland China and the Indian subcontinent. Local rulers gradually absorbed foreign influences from the early centuries and Hindu and Buddhist kingdoms flourished. Sunni traders and Sufi scholars brought Islam, while Europeans introduced Christianity through colonisation. Although sometimes interrupted by the Portuguese, French and British, the Dutch were the foremost colonial power for much of their 350-year presence in the archipelago. The concept of "Indonesia" as a nation-state emerged in the early 20th century and the country proclaimed its independence in 1945. However, it was not until 1949 that the Dutch recognised Indonesia's sovereignty following an armed and diplomatic conflict between the two.
 
-Indonesia consists of hundreds of distinct native ethnic and linguistic groups, with the largest one being the Javanese. A shared identity has developed with the motto \"Bhinneka Tunggal Ika\" (\"Unity in Diversity\" literally, \"many, yet one\"), defined by a national language, ethnic diversity, religious pluralism within a Muslim-majority population, and a history of colonialism and rebellion against it. The economy of Indonesia is the world's 16th largest by nominal GDP and 7th by GDP at PPP. The country is a member of several multilateral organisations, including the United Nations, World Trade Organization, International Monetary Fund, G20, and a founding member of Non-Aligned Movement, Association of Southeast Asian Nations, Asia-Pacific Economic Cooperation, East Asia Summit, Asian Infrastructure Investment Bank, and Organisation of Islamic Cooperation.
+Indonesia consists of hundreds of distinct native ethnic and linguistic groups, with the largest one being the Javanese. A shared identity has developed with the motto "Bhinneka Tunggal Ika" ("Unity in Diversity" literally, "many, yet one"), defined by a national language, ethnic diversity, religious pluralism within a Muslim-majority population, and a history of colonialism and rebellion against it. The economy of Indonesia is the world's 16th largest by nominal GDP and 7th by GDP at PPP. The country is a member of several multilateral organisations, including the United Nations, World Trade Organization, International Monetary Fund, G20, and a founding member of Non-Aligned Movement, Association of Southeast Asian Nations, Asia-Pacific Economic Cooperation, East Asia Summit, Asian Infrastructure Investment Bank, and Organisation of Islamic Cooperation.
 
 Contents
 
@@ -274,7 +272,7 @@ Etymology
 
 Further information: Names of Indonesia
 
-The name Indonesia derives from Greek Indos (Ἰνδός) and the word nesos (νῆσος), meaning \"Indian islands\". The name dates to the 18th century, far predating the formation of independent Indonesia. In 1850, George Windsor Earl, an English ethnologist, proposed the terms Indunesians—and, his preference, Malayunesians—for the inhabitants of the \"Indian Archipelago or Malayan Archipelago\". In the same publication, one of his students, James Richardson Logan, used Indonesia as a synonym for Indian Archipelago. However, Dutch academics writing in East Indies publications were reluctant to use Indonesia; they preferred Malay Archipelago (Dutch: Maleische Archipel); the Netherlands East Indies (Nederlandsch Oost Indië), popularly Indië; the East (de Oost); and Insulinde.
+The name Indonesia derives from Greek Indos (Ἰνδός) and the word nesos (νῆσος), meaning "Indian islands". The name dates to the 18th century, far predating the formation of independent Indonesia. In 1850, George Windsor Earl, an English ethnologist, proposed the terms Indunesians—and, his preference, Malayunesians—for the inhabitants of the "Indian Archipelago or Malayan Archipelago". In the same publication, one of his students, James Richardson Logan, used Indonesia as a synonym for Indian Archipelago. However, Dutch academics writing in East Indies publications were reluctant to use Indonesia; they preferred Malay Archipelago (Dutch: Maleische Archipel); the Netherlands East Indies (Nederlandsch Oost Indië), popularly Indië; the East (de Oost); and Insulinde.
 
 After 1900, Indonesia became more common in academic circles outside the Netherlands, and native nationalist groups adopted it for political expression. Adolf Bastian, of the University of Berlin, popularised the name through his book Indonesien oder die Inseln des Malayischen Archipels, 1884–1894. The first native scholar to use the name was Ki Hajar Dewantara when in 1913 he established a press bureau in the Netherlands, Indonesisch Pers-bureau.
 
@@ -286,9 +284,9 @@ Early history
 
 A Borobudur ship carved on Borobudur temple, c. 800 CE. Outrigger boats from the archipelago may have made trade voyages to the east coast of Africa as early as the 1st century CE.
 
-Fossilised remains of Homo erectus, popularly known as the \"Java Man\", suggest the Indonesian archipelago was inhabited two million to 500,000 years ago. Homo sapiens reached the region around 43,000 BCE. Austronesian peoples, who form the majority of the modern population, migrated to Southeast Asia from what is now Taiwan. They arrived in the archipelago around 2,000 BCE and confined the native Melanesian peoples to the far eastern regions as they spread east. Ideal agricultural conditions and the mastering of wet-field rice cultivation as early as the eighth century BCE allowed villages, towns, and small kingdoms to flourish by the first century CE. The archipelago's strategic sea-lane position fostered inter-island and international trade, including with Indian kingdoms and Chinese dynasties, from several centuries BCE. Trade has since fundamentally shaped Indonesian history.
+Fossilised remains of Homo erectus, popularly known as the "Java Man", suggest the Indonesian archipelago was inhabited two million to 500,000 years ago. Homo sapiens reached the region around 43,000 BCE. Austronesian peoples, who form the majority of the modern population, migrated to Southeast Asia from what is now Taiwan. They arrived in the archipelago around 2,000 BCE and confined the native Melanesian peoples to the far eastern regions as they spread east. Ideal agricultural conditions and the mastering of wet-field rice cultivation as early as the eighth century BCE allowed villages, towns, and small kingdoms to flourish by the first century CE. The archipelago's strategic sea-lane position fostered inter-island and international trade, including with Indian kingdoms and Chinese dynasties, from several centuries BCE. Trade has since fundamentally shaped Indonesian history.
 
-From the seventh century CE, the Srivijaya naval kingdom flourished as a result of trade and the influences of Hinduism and Buddhism. Between the eighth and tenth centuries CE, the agricultural Buddhist Sailendra and Hindu Mataram dynasties thrived and declined in inland Java, leaving grand religious monuments such as Sailendra's Borobudur and Mataram's Prambanan. The Hindu Majapahit kingdom was founded in eastern Java in the late 13th century, and under Gajah Mada, its influence stretched over much of present-day Indonesia. This period is often referred to as a \"Golden Age\" in Indonesian history.
+From the seventh century CE, the Srivijaya naval kingdom flourished as a result of trade and the influences of Hinduism and Buddhism. Between the eighth and tenth centuries CE, the agricultural Buddhist Sailendra and Hindu Mataram dynasties thrived and declined in inland Java, leaving grand religious monuments such as Sailendra's Borobudur and Mataram's Prambanan. The Hindu Majapahit kingdom was founded in eastern Java in the late 13th century, and under Gajah Mada, its influence stretched over much of present-day Indonesia. This period is often referred to as a "Golden Age" in Indonesian history.
 
 The earliest evidence of Islamized populations in the archipelago dates to the 13th century in northern Sumatra. Other parts of the archipelago gradually adopted Islam, and it was the dominant religion in Java and Sumatra by the end of the 16th century. For the most part, Islam overlaid and mixed with existing cultural and religious influences, which shaped the predominant form of Islam in Indonesia, particularly in Java.
 
@@ -308,7 +306,7 @@ Modern era
 
 Sukarno (left) and Hatta (right), Indonesia's founding fathers and the first President and Vice President
 
-As president, Sukarno moved Indonesia from democracy towards authoritarianism and maintained power by balancing the opposing forces of the military, political Islam, and the increasingly powerful Communist Party of Indonesia (PKI). Tensions between the military and the PKI culminated in an attempted coup in 1965. The army, led by Major General Suharto, countered by instigating a violent anti-communist purge that killed between 500,000 and one million people. The PKI was blamed for the coup and effectively destroyed. Suharto capitalised on Sukarno's weakened position, and following a drawn-out power play with Sukarno, Suharto was appointed president in March 1968. His \"New Order\" administration, supported by the United States, encouraged foreign direct investment, which was a crucial factor in the subsequent three decades of substantial economic growth.
+As president, Sukarno moved Indonesia from democracy towards authoritarianism and maintained power by balancing the opposing forces of the military, political Islam, and the increasingly powerful Communist Party of Indonesia (PKI). Tensions between the military and the PKI culminated in an attempted coup in 1965. The army, led by Major General Suharto, countered by instigating a violent anti-communist purge that killed between 500,000 and one million people. The PKI was blamed for the coup and effectively destroyed. Suharto capitalised on Sukarno's weakened position, and following a drawn-out power play with Sukarno, Suharto was appointed president in March 1968. His "New Order" administration, supported by the United States, encouraged foreign direct investment, which was a crucial factor in the subsequent three decades of substantial economic growth.
 
 Indonesia was the country hardest hit by the 1997 Asian financial crisis. It brought out popular discontent with the New Order's corruption and suppression of political opposition and ultimately ended Suharto's presidency. In 1999, East Timor seceded from Indonesia, following its 1975 invasion by Indonesia and a 25-year occupation that was marked by international condemnation of human rights abuses.
 
@@ -526,7 +524,7 @@ Main article: Foreign relations of Indonesia
 
 Embassy of Indonesia, Canberra, Australia
 
-Indonesia maintains 132 diplomatic missions abroad, including 95 embassies. The country adheres to what it calls a \"free and active\" foreign policy, seeking a role in regional affairs in proportion to its size and location but avoiding involvement in conflicts among other countries.
+Indonesia maintains 132 diplomatic missions abroad, including 95 embassies. The country adheres to what it calls a "free and active" foreign policy, seeking a role in regional affairs in proportion to its size and location but avoiding involvement in conflicts among other countries.
 
 Indonesia was a significant battleground during the Cold War. Numerous attempts by the United States and the Soviet Union, and China to some degree, culminated in the 1965 coup attempt and subsequent upheaval that led to a reorientation of foreign policy. Quiet alignment with the West while maintaining a non-aligned stance has characterised Indonesia's foreign policy since then. Today, it maintains close relations with its neighbours and is a founding member of the Association of Southeast Asian Nations (ASEAN) and the East Asia Summit. In common with most of the Muslim world, Indonesia does not have diplomatic relations with Israel and has actively supported Palestine. However, observers have pointed out that Indonesia has ties with Israel, albeit discreetly.
 
@@ -804,7 +802,7 @@ Nasi Padang with rendang, gulai and vegetables
 
 Indonesian cuisine is one of the most diverse, vibrant, and colourful in the world, full of intense flavour. Many regional cuisines exist, often based upon indigenous culture and foreign influences such as Chinese, European, Middle Eastern, and Indian precedents. Rice is the leading staple food and is served with side dishes of meat and vegetables. Spices (notably chilli), coconut milk, fish and chicken are fundamental ingredients.
 
-Some popular dishes such as nasi goreng, gado-gado, sate, and soto are prevalent and considered as national dishes. The Ministry of Tourism, however, chose tumpeng as the official national dish in 2014, describing it as binding the diversity of various culinary traditions. Other popular dishes include rendang, one of the many Padang cuisines along with dendeng and gulai. In 2017, rendang was chosen as the \"World's Most Delicious Food\" by the CNN Travel reader's choice. Another fermented food is oncom, similar in some ways to tempeh but uses a variety of bases (not only soy), created by different fungi, and particularly popular in West Java.
+Some popular dishes such as nasi goreng, gado-gado, sate, and soto are prevalent and considered as national dishes. The Ministry of Tourism, however, chose tumpeng as the official national dish in 2014, describing it as binding the diversity of various culinary traditions. Other popular dishes include rendang, one of the many Padang cuisines along with dendeng and gulai. In 2017, rendang was chosen as the "World's Most Delicious Food" by the CNN Travel reader's choice. Another fermented food is oncom, similar in some ways to tempeh but uses a variety of bases (not only soy), created by different fungi, and particularly popular in West Java.
 
 Sports
 
@@ -838,53 +836,53 @@ Notes
 
 References
 
-^ \"Pancasila\". U.S. Library of Congress. 3 February 2017. Archived from the original on 5 February 2017. Retrieved 5 February 2017.
+^ "Pancasila". U.S. Library of Congress. 3 February 2017. Archived from the original on 5 February 2017. Retrieved 5 February 2017.
 
 ^ Vickers 2005, p. 117. sfn error: multiple targets (2×): CITEREFVickers2005 (help)
 
-^ a b c d Simons, Gary F.; Fennig, Charles D. \"Ethnologue: Languages of the World, Twenty-first edition\". SIL International. Archived from the original on 26 June 2019. Retrieved 20 September 2018.
+^ a b c d Simons, Gary F.; Fennig, Charles D. "Ethnologue: Languages of the World, Twenty-first edition". SIL International. Archived from the original on 26 June 2019. Retrieved 20 September 2018.
 
-^ a b Na'im, Akhsan; Syaputra, Hendry (2010). \"Nationality, Ethnicity, Religion, and Languages of Indonesians\" (PDF) (in Indonesian). Statistics Indonesia (BPS). Archived (PDF) from the original on 23 September 2015. Retrieved 23 September 2015.
+^ a b Na'im, Akhsan; Syaputra, Hendry (2010). "Nationality, Ethnicity, Religion, and Languages of Indonesians" (PDF) (in Indonesian). Statistics Indonesia (BPS). Archived (PDF) from the original on 23 September 2015. Retrieved 23 September 2015.
 
-^ a b \"Statistik Umat Menurut Agama di Indonesia\" (in Indonesian). Kementerian Agama Republik Indonesia. 15 May 2018. Retrieved 13 June 2020.
+^ a b "Statistik Umat Menurut Agama di Indonesia" (in Indonesian). Kementerian Agama Republik Indonesia. 15 May 2018. Retrieved 13 June 2020.
 
-^ \"UN Statistics\" (PDF). United Nations. 2005. Archived (PDF) from the original on 31 October 2007. Retrieved 31 October 2007.
+^ "UN Statistics" (PDF). United Nations. 2005. Archived (PDF) from the original on 31 October 2007. Retrieved 31 October 2007.
 
-^ \"\"World Population prospects – Population division\"\". population.un.org. United Nations Department of Economic and Social Affairs, Population Division. Retrieved 9 November 2019.
+^ World Population prospects – Population division. population.un.org. United Nations Department of Economic and Social Affairs, Population Division. Retrieved 9 November 2019.
 
-^ \"\"Overall total population\" – World Population Prospects: The 2019 Revision\" (xslx). population.un.org (custom data acquired via website). United Nations Department of Economic and Social Affairs, Population Division. Retrieved 9 November 2019.
+^ Overall total population" – World Population Prospects: The 2019 Revision" (xslx). population.un.org (custom data acquired via website). United Nations Department of Economic and Social Affairs, Population Division. Retrieved 9 November 2019.
 
-^ \"Jumlah dan Distribusi Penduduk\". BPS. May 2010. Retrieved 13 April 2018.
+^ "Jumlah dan Distribusi Penduduk". BPS. May 2010. Retrieved 13 April 2018.
 
-^ a b c d \"WORLD ECONOMIC OUTLOOK (OCTOBER 2019)\". International Monetary Fund. Retrieved 20 October 2019.
+^ a b c d "WORLD ECONOMIC OUTLOOK (OCTOBER 2019)". International Monetary Fund. Retrieved 20 October 2019.
 
-^ \"GINI index (World Bank estimate) – Indonesia\". World Bank. Retrieved 22 March 2020.
+^ "GINI index (World Bank estimate) – Indonesia". World Bank. Retrieved 22 March 2020.
 
-^ \"Human Development Report 2019\" (PDF). United Nations Development Programme. 2019. Archived from the original (PDF) on 9 December 2019. Retrieved 9 December 2019.
+^ "Human Development Report 2019" (PDF). United Nations Development Programme. 2019. Archived from the original (PDF) on 9 December 2019. Retrieved 9 December 2019.
 
 ^ Robert Elson, The idea of Indonesia: A history (2008) pp 1–12
 
 ^ a b Tomascik, Tomas; Mah, Anmarie Janice; Nontji, Anugerah; Moosa, Mohammad Kasim (1996). The Ecology of the Indonesian Seas – Part One. Hong Kong: Periplus Editions. ISBN 978-962-593-078-7.
 
-^ a b Anshory, Irfan (16 August 2004). \"The origin of Indonesia's name\" (in Indonesian). Pikiran Rakyat. Archived from the original on 15 December 2006. Retrieved 15 December 2006.
+^ a b Anshory, Irfan (16 August 2004). "The origin of Indonesia's name" (in Indonesian). Pikiran Rakyat. Archived from the original on 15 December 2006. Retrieved 15 December 2006.
 
 ^ Earl 1850, p. 119.
 
-^ Logan, James Richardson (1850). \"The Ethnology of the Indian Archipelago: Embracing Enquiries into the Continental Relations of the Indo-Pacific Islanders\". Journal of the Indian Archipelago and Eastern Asia. 4: 252–347.
+^ Logan, James Richardson (1850). "The Ethnology of the Indian Archipelago: Embracing Enquiries into the Continental Relations of the Indo-Pacific Islanders". Journal of the Indian Archipelago and Eastern Asia. 4: 252–347.
 
 ^ Earl 1850, pp. 254, 277–278.
 
-^ a b van der Kroef, Justus M (1951). \"The Term Indonesia: Its Origin and Usage\". Journal of the American Oriental Society. 71 (3): 166–171. doi:10.2307/595186. JSTOR 595186.
+^ a b van der Kroef, Justus M (1951). "The Term Indonesia: Its Origin and Usage". Journal of the American Oriental Society. 71 (3): 166–171. doi:10.2307/595186. JSTOR 595186.
 
 ^ Brown, Colin (2003). A short history of Indonesia: the unlikely nation?. Allen Unwin. p. 13. ISBN 978-1-86508-838-9.
 
-^ Pope, G.G. (1988). \"Recent advances in far eastern paleoanthropology\". Annual Review of Anthropology. 17: 43–77. doi:10.1146/annurev.an.17.100188.000355. cited in Whitten, T.; Soeriaatmadja, R.E.; Suraya, A.A. (1996). The Ecology of Java and Bali. Hong Kong: Periplus Editions. pp. 309–412.
+^ Pope, G.G. (1988). "Recent advances in far eastern paleoanthropology". Annual Review of Anthropology. 17: 43–77. doi:10.1146/annurev.an.17.100188.000355. cited in Whitten, T.; Soeriaatmadja, R.E.; Suraya, A.A. (1996). The Ecology of Java and Bali. Hong Kong: Periplus Editions. pp. 309–412.
 
-^ Pope, G.G. (1983). \"Evidence on the age of the Asian Hominidae\". Proceedings of the National Academy of Sciences of the United States of America. 80 (16): 4988–4992. Bibcode:1983PNAS...80.4988P. doi:10.1073/pnas.80.16.4988. PMC 384173. PMID 6410399.
+^ Pope, G.G. (1983). "Evidence on the age of the Asian Hominidae". Proceedings of the National Academy of Sciences of the United States of America. 80 (16): 4988–4992. Bibcode:1983PNAS...80.4988P. doi:10.1073/pnas.80.16.4988. PMC 384173. PMID 6410399.
 
-^ de Vos, J.P.; Sondaar, P.Y. (1994). \"Dating hominid sites in Indonesia\". Science. 266 (16): 4988–4992. Bibcode:1994Sci...266.1726D. doi:10.1126/science.7992059.
+^ de Vos, J.P.; Sondaar, P.Y. (1994). "Dating hominid sites in Indonesia". Science. 266 (16): 4988–4992. Bibcode:1994Sci...266.1726D. doi:10.1126/science.7992059.
 
-^ Gugliotta, Guy (July 2008). \"The Great Human Migration\". Smithsonian Maganize. Retrieved 21 August 2011.
+^ Gugliotta, Guy (July 2008). "The Great Human Migration". Smithsonian Maganize. Retrieved 21 August 2011.
 
 ^ a b Taylor 2003, pp. 5–7. sfn error: multiple targets (3×): CITEREFTaylor2003 (help)
 
@@ -898,7 +896,7 @@ References
 
 ^ Taylor 2003, pp. 22–26 harvnb error: multiple targets (3×): CITEREFTaylor2003 (help); Ricklefs 1991, p. 3 harvnb error: multiple targets (2×): CITEREFRicklefs1991 (help)
 
-^ Lewis, Peter (1982). \"The next great empire\". Futures. 14 (1): 47–61. doi:10.1016/0016-3287(82)90071-4.
+^ Lewis, Peter (1982). "The next great empire". Futures. 14 (1): 47–61. doi:10.1016/0016-3287(82)90071-4.
 
 ^ Ricklefs 1991, pp. 3–14. sfn error: multiple targets (2×): CITEREFRicklefs1991 (help)
 
@@ -922,15 +920,15 @@ References
 
 ^ Vickers, Adrian (2005). A History of Modern Indonesia. Cambridge University Press. pp. 10-14. ISBN 0-521-54262-6.CS1 maint: ref=harv (link)
 
-^ Ricklefs 1991 harvnb error: multiple targets (2×): CITEREFRicklefs1991 (help); Gert Oostindie; Bert Paasman (1998). \"Dutch Attitudes towards Colonial Empires, Indigenous Cultures, and Slaves\" (PDF). Eighteenth-Century Studies. 31 (3): 349–355. doi:10.1353/ecs.1998.0021. hdl:20.500.11755/c467167b-2084-413c-a3c7-f390f9b3a092.
+^ Ricklefs 1991 harvnb error: multiple targets (2×): CITEREFRicklefs1991 (help); Gert Oostindie; Bert Paasman (1998). "Dutch Attitudes towards Colonial Empires, Indigenous Cultures, and Slaves" (PDF). Eighteenth-Century Studies. 31 (3): 349–355. doi:10.1353/ecs.1998.0021. hdl:20.500.11755/c467167b-2084-413c-a3c7-f390f9b3a092.
 
-^ \"Indonesia: World War II and the Struggle for Independence, 1942–50; The Japanese Occupation, 1942–45\". Library of Congress. November 1992. Archived from the original on 21 August 2013. Retrieved 11 February 2013.
+^ "Indonesia: World War II and the Struggle for Independence, 1942–50; The Japanese Occupation, 1942–45". Library of Congress. November 1992. Archived from the original on 21 August 2013. Retrieved 11 February 2013.
 
-^ Taylor 2003, p. 325 harvnb error: multiple targets (3×): CITEREFTaylor2003 (help); H. J. Van Mook (1949). \"Indonesia\". Royal Institute of International Affairs. 25 (3): 274–285. JSTOR 3016666.; Charles Bidien (5 December 1945). \"Independence the Issue\". Far Eastern Survey. 14 (24): 345–348. doi:10.2307/3023219. JSTOR 3023219.; Taylor, Jean Gelman (2003). Indonesia: Peoples and History. Yale University Press. p. 325. ISBN 0-300-10518-5.; Reid (1973), page 30
+^ Taylor 2003, p. 325 harvnb error: multiple targets (3×): CITEREFTaylor2003 (help); H. J. Van Mook (1949). "Indonesia". Royal Institute of International Affairs. 25 (3): 274–285. JSTOR 3016666.; Charles Bidien (5 December 1945). "Independence the Issue". Far Eastern Survey. 14 (24): 345–348. doi:10.2307/3023219. JSTOR 3023219.; Taylor, Jean Gelman (2003). Indonesia: Peoples and History. Yale University Press. p. 325. ISBN 0-300-10518-5.; Reid (1973), page 30
 
 ^ Friend 2003, p. 35. sfn error: multiple targets (3×): CITEREFFriend2003 (help)
 
-^ Charles Bidien (5 December 1945). \"Independence the Issue\". Far Eastern Survey. 14 (24): 345–348. doi:10.2307/3023219. JSTOR 3023219.; \"Indonesian War of Independence\". Military. GlobalSecurity.org. Retrieved 11 December 2006.
+^ Charles Bidien (5 December 1945). "Independence the Issue". Far Eastern Survey. 14 (24): 345–348. doi:10.2307/3023219. JSTOR 3023219.; "Indonesian War of Independence". Military. GlobalSecurity.org. Retrieved 11 December 2006.
 
 ^ Friend, T. (2003). Indonesian Destinies. Harvard University Press. p. 21, 23. ISBN 0-674-01137-6.CS1 maint: ref=harv (link)
 
@@ -938,7 +936,7 @@ References
 
 ^ Ricklefs 1991, pp. 237–280. sfn error: multiple targets (2×): CITEREFRicklefs1991 (help)
 
-^ John Roosa and Joseph Nevins (5 November 2005). \"40 Years Later: The Mass Killings in Indonesia\". Counterpunch. Retrieved 12 November 2006.; Robert Cribb (2002). \"Unresolved Problems in the Indonesian Killings of 1965–1966\". Asian Survey. 42 (4): 550–563. doi:10.1525/as.2002.42.4.550.; \"Indonesia massacres: Declassified US files shed new light\". BBC. 17 October 2017. Archived from the original on 31 May 2018. Retrieved 19 September 2018.
+^ John Roosa and Joseph Nevins (5 November 2005). "40 Years Later: The Mass Killings in Indonesia". Counterpunch. Retrieved 12 November 2006.; Robert Cribb (2002). "Unresolved Problems in the Indonesian Killings of 1965–1966". Asian Survey. 42 (4): 550–563. doi:10.1525/as.2002.42.4.550.; "Indonesia massacres: Declassified US files shed new light". BBC. 17 October 2017. Archived from the original on 31 May 2018. Retrieved 19 September 2018.
 
 ^ Friend 2003, pp. 107–109. sfn error: multiple targets (3×): CITEREFFriend2003 (help)
 
@@ -946,7 +944,7 @@ References
 
 ^ Ricklefs 1991, pp. 280–283, 284, 287–290. sfn error: multiple targets (2×): CITEREFRicklefs1991 (help)
 
-^ John D. Legge (1968). \"General Suharto's New Order\". Royal Institute of International Affairs. 44 (1): 40–47. doi:10.2307/2613527. JSTOR 2613527.
+^ John D. Legge (1968). "General Suharto's New Order". Royal Institute of International Affairs. 44 (1): 40–47. doi:10.2307/2613527. JSTOR 2613527.
 
 ^ Melvin, Jess (2018). The Army and the Indonesian Genocide: Mechanics of Mass Murder. Routledge. pp. 9–10. ISBN 978-1-138-57469-4.
 
@@ -954,13 +952,13 @@ References
 
 ^ David Slater, Geopolitics and the Post-Colonial: Rethinking North–South Relations, London: Blackwell, p. 70
 
-^ Farid, Hilmar (2005). \"Indonesia's original sin: mass killings and capitalist expansion, 1965–66\". Inter-Asia Cultural Studies. 6 (1): 3–16. doi:10.1080/1462394042000326879.
+^ Farid, Hilmar (2005). "Indonesia's original sin: mass killings and capitalist expansion, 1965–66". Inter-Asia Cultural Studies. 6 (1): 3–16. doi:10.1080/1462394042000326879.
 
 ^ Robinson, Geoffrey B. (2018). The Killing Season: A History of the Indonesian Massacres, 1965–66. Princeton University Press. p. 206. ISBN 978-1-4008-8886-3.
 
 ^ Delhaise, Philippe F (1998). Asia in Crisis: The Implosion of the Banking and Finance Systems. Willey. p. 123. ISBN 978-0-471-83450-2.
 
-^ Jonathan Pincus and Rizal Ramli (1998). \"Indonesia: from showcase to basket case\". Cambridge Journal of Economics. 22 (6): 723–734. doi:10.1093/cje/22.6.723.
+^ Jonathan Pincus and Rizal Ramli (1998). "Indonesia: from showcase to basket case". Cambridge Journal of Economics. 22 (6): 723–734. doi:10.1093/cje/22.6.723.
 
 ^ Ricklefs 1991. sfn error: multiple targets (2×): CITEREFRicklefs1991 (help)
 
@@ -968,95 +966,95 @@ References
 
 ^ Schwarz 1994.
 
-^ Burr, W. (6 December 2001). \"East Timor Revisited, Ford, Kissinger, and the Indonesian Invasion, 1975–76\". National Security Archive Electronic Briefing Book No. 62. National Security Archive, The George Washington University, Washington, DC. Archived from the original on 5 October 2019. Retrieved 17 September 2006.
+^ Burr, W. (6 December 2001). "East Timor Revisited, Ford, Kissinger, and the Indonesian Invasion, 1975–76". National Security Archive Electronic Briefing Book No. 62. National Security Archive, The George Washington University, Washington, DC. Archived from the original on 5 October 2019. Retrieved 17 September 2006.
 
-^ \"Situation of human rights in East Timor\". Relief Web. 10 December 1999. Archived from the original on 20 November 2019. Retrieved 20 November 2019.
+^ "Situation of human rights in East Timor". Relief Web. 10 December 1999. Archived from the original on 20 November 2019. Retrieved 20 November 2019.
 
-^ \"The Carter Center 2004 Indonesia Election Report\" (PDF). The Carter Center. Archived (PDF) from the original on 14 June 2007. Retrieved 14 June 2007.
+^ "The Carter Center 2004 Indonesia Election Report" (PDF). The Carter Center. Archived (PDF) from the original on 14 June 2007. Retrieved 14 June 2007.
 
 ^ Harsono, Andreas (May 2019). Race, Islam and Power: Ethnic and Religious Violence in Post-Suharto Indonesia. Monash University Publishing. ISBN 978-1-925835-09-0.
 
-^ a b \"Indonesia signs Aceh peace deal\". The Guardian. 15 August 2005. Archived from the original on 16 November 2018. Retrieved 20 November 2019.
+^ a b "Indonesia signs Aceh peace deal". The Guardian. 15 August 2005. Archived from the original on 16 November 2018. Retrieved 20 November 2019.
 
-^ Cochrane, Joe (22 July 2014). \"A Child of the Slum Rises as President of Indonesia\". The New York Times. Archived from the original on 29 July 2014. Retrieved 22 July 2014.
+^ Cochrane, Joe (22 July 2014). "A Child of the Slum Rises as President of Indonesia". The New York Times. Archived from the original on 29 July 2014. Retrieved 22 July 2014.
 
 ^ Kuoni 1999, p. 88. sfn error: no target: CITEREFKuoni1999 (help)
 
-^ \"16,000 Indonesian islands registered at UN\". The Jakarta Post. 21 August 2017. Archived from the original on 30 November 2018. Retrieved 3 December 2018.
+^ "16,000 Indonesian islands registered at UN". The Jakarta Post. 21 August 2017. Archived from the original on 30 November 2018. Retrieved 3 December 2018.
 
-^ a b c \"The World Factbook: Indonesia\". Central Intelligence Agency. 29 October 2018. Retrieved 11 November 2018.
+^ a b c "The World Factbook: Indonesia". Central Intelligence Agency. 29 October 2018. Retrieved 11 November 2018.
 
-^ \"Republic of Indonesia\". Microsoft Encarta. 2006. Archived from the original on 28 October 2009. Retrieved 1 November 2009.
+^ "Republic of Indonesia". Microsoft Encarta. 2006. Archived from the original on 28 October 2009. Retrieved 1 November 2009.
 
-^ \"Climate: Observations, projections and impacts\" (PDF). Met Office Hadley Centre. Archived (PDF) from the original on 16 August 2017. Retrieved 16 August 2017.
+^ "Climate: Observations, projections and impacts" (PDF). Met Office Hadley Centre. Archived (PDF) from the original on 16 August 2017. Retrieved 16 August 2017.
 
-^ a b \"Indonesia and Climate Change: Current Status and Policies\" (PDF). World Bank. Archived (PDF) from the original on 27 December 2016. Retrieved 27 December 2016.
+^ a b "Indonesia and Climate Change: Current Status and Policies" (PDF). World Bank. Archived (PDF) from the original on 27 December 2016. Retrieved 27 December 2016.
 
-^ Beck, Hylke E.; Zimmermann, Niklaus E.; McVicar, Tim R.; Vergopolan, Noemi; Berg, Alexis; Wood, Eric F. (30 October 2018). \"Present and future Köppen-Geiger climate classification maps at 1-km resolution\". Scientific Data. 5: 180214. Bibcode:2018NatSD...580214B. doi:10.1038/sdata.2018.214. PMC 6207062. PMID 30375988.
+^ Beck, Hylke E.; Zimmermann, Niklaus E.; McVicar, Tim R.; Vergopolan, Noemi; Berg, Alexis; Wood, Eric F. (30 October 2018). "Present and future Köppen-Geiger climate classification maps at 1-km resolution". Scientific Data. 5: 180214. Bibcode:2018NatSD...580214B. doi:10.1038/sdata.2018.214. PMC 6207062. PMID 30375988.
 
-^ a b \"Indonesia: Volcano nation\". BBC. 5 November 2015. Archived from the original on 28 November 2017. Retrieved 28 November 2017.
+^ a b "Indonesia: Volcano nation". BBC. 5 November 2015. Archived from the original on 28 November 2017. Retrieved 28 November 2017.
 
 ^ Witton 2003, p. 38.
 
 ^ World and Its Peoples: Eastern and Southern Asia, Volume 10. Marshall Cavendish. 2007. p. 1306. ISBN 978-0-7614-7631-3.
 
-^ Sylviane L. G. Lebon (January 2009). \"Volcanic activity and environment: Impacts on agriculture and use of geological data to improve recovery processes\" (PDF). University of Iceland. Archived (PDF) from the original on 27 December 2016. Retrieved 27 December 2016.
+^ Sylviane L. G. Lebon (January 2009). "Volcanic activity and environment: Impacts on agriculture and use of geological data to improve recovery processes" (PDF). University of Iceland. Archived (PDF) from the original on 27 December 2016. Retrieved 27 December 2016.
 
 ^ Whitten, T; Soeriaatmadja, R. E.; Suraya A. A. (1996). The Ecology of Java and Bali. Hong Kong: Periplus Editions Ltd. pp. 95–97.
 
-^ Bressan, David (11 August 2017). \"Early Humans May Have Lived Through A Supervolcano Eruption\". Forbes. Archived from the original on 11 August 2017. Retrieved 11 October 2017.
+^ Bressan, David (11 August 2017). "Early Humans May Have Lived Through A Supervolcano Eruption". Forbes. Archived from the original on 11 August 2017. Retrieved 11 October 2017.
 
-^ \"Tambora\". Volcano Discovery. 29 May 2016. Archived from the original on 20 December 2016. Retrieved 20 December 2016.
+^ "Tambora". Volcano Discovery. 29 May 2016. Archived from the original on 20 December 2016. Retrieved 20 December 2016.
 
-^ Bressan, David (31 August 2016). \"The Eruption of Krakatoa Was the First Global Catastrophe\". Forbes. Archived from the original on 2 September 2016. Retrieved 2 September 2017.
+^ Bressan, David (31 August 2016). "The Eruption of Krakatoa Was the First Global Catastrophe". Forbes. Archived from the original on 2 September 2016. Retrieved 2 September 2017.
 
-^ Salikha, Adelaida (29 January 2018). \"Meet The 10 Megadiverse Countries In The World\". SEAsia. Archived from the original on 8 February 2018. Retrieved 8 February 2018.
+^ Salikha, Adelaida (29 January 2018). "Meet The 10 Megadiverse Countries In The World". SEAsia. Archived from the original on 8 February 2018. Retrieved 8 February 2018.
 
-^ Mumtazah, Hani (22 May 2003). \"Indonesia's Natural Wealth: The Right of a Nation and Her People\". Islam Online. Archived from the original on 17 October 2006. Retrieved 17 October 2006.
+^ Mumtazah, Hani (22 May 2003). "Indonesia's Natural Wealth: The Right of a Nation and Her People". Islam Online. Archived from the original on 17 October 2006. Retrieved 17 October 2006.
 
 ^ Whitten, T.; Henderson, G.; Mustafa, M. (1996). The Ecology of Sulawesi. Hong Kong: Periplus Editions Ltd. ISBN 978-962-593-075-6.; Monk, K.A.; Fretes, Y.; Reksodiharjo-Lilley, G. (1996). The Ecology of Nusa Tenggara and Maluku. Hong Kong: Periplus Editions Ltd. ISBN 978-962-593-076-3.
 
-^ \"Indonesia\". InterKnowledge Corp. 6 October 2006. Archived from the original on 15 October 2006. Retrieved 15 October 2006.
+^ "Indonesia". InterKnowledge Corp. 6 October 2006. Archived from the original on 15 October 2006. Retrieved 15 October 2006.
 
-^ \"Indonesia\" (in Norwegian). United Nations Association of Norway. 18 December 2014. Retrieved 19 December 2017.
+^ "Indonesia" (in Norwegian). United Nations Association of Norway. 18 December 2014. Retrieved 19 December 2017.
 
-^ Lambertini, Marco (10 April 2011). \"A Naturalist's Guide to the Tropics, excerpt\". The University of Chicago Press. Archived from the original on 5 February 2017. Retrieved 5 February 2017.
+^ Lambertini, Marco (10 April 2011). "A Naturalist's Guide to the Tropics, excerpt". The University of Chicago Press. Archived from the original on 5 February 2017. Retrieved 5 February 2017.
 
-^ Tamindael, Otniel (17 May 2011). \"Coral reef destruction spells humanitarian disaster\". Antara News. Archived from the original on 25 May 2011. Retrieved 25 May 2011.
+^ Tamindael, Otniel (17 May 2011). "Coral reef destruction spells humanitarian disaster". Antara News. Archived from the original on 25 May 2011. Retrieved 25 May 2011.
 
 ^ a b Severin, Tim (1997). The Spice Island Voyage: In Search of Wallace. Great Britain: Abacus Travel. ISBN 978-0-349-11040-0.
 
 ^ Wallace, A.R. (2000) . The Malay Archipelago. Periplus Editions. ISBN 978-962-593-645-1.
 
-^ a b Miller, Jason R. (14 August 2007). \"Deforestation in Indonesia and the Orangutan Population\". TED Case Studies. Archived from the original on 11 August 2007. Retrieved 11 August 2007.
+^ a b Miller, Jason R. (14 August 2007). "Deforestation in Indonesia and the Orangutan Population". TED Case Studies. Archived from the original on 11 August 2007. Retrieved 11 August 2007.
 
-^ \"2020 Environmental Performance Index\" (PDF). Yale University. 2020. Archived (PDF) from the original on 9 June 2020. Retrieved 9 June 2020.
+^ "2020 Environmental Performance Index" (PDF). Yale University. 2020. Archived (PDF) from the original on 9 June 2020. Retrieved 9 June 2020.
 
-^ McClanahan, Paige (11 September 2013). \"Can Indonesia increase palm oil output without destroying its forest?\". The Guardian. Archived from the original on 17 September 2013. Retrieved 17 September 2013.
+^ McClanahan, Paige (11 September 2013). "Can Indonesia increase palm oil output without destroying its forest?". The Guardian. Archived from the original on 17 September 2013. Retrieved 17 September 2013.
 
-^ Colchester, Marcus; Jiwan, Normal; Andiko, Martua Sirait; Firdaus, Asup Y.; Surambo, A.; Pane, Herbert (26 March 2012). \"Palm Oil and Land Acquisition in Indonesia: Implications for Local Communities and Indigenous People\" (PDF). Archived from the original (PDF) on 31 May 2012. Retrieved 31 May 2012.
+^ Colchester, Marcus; Jiwan, Normal; Andiko, Martua Sirait; Firdaus, Asup Y.; Surambo, A.; Pane, Herbert (26 March 2012). "Palm Oil and Land Acquisition in Indonesia: Implications for Local Communities and Indigenous People" (PDF). Archived from the original (PDF) on 31 May 2012. Retrieved 31 May 2012.
 
-^ Chrysolite, Hanny; Juliane, Reidinar; Chitra, Josefhine; Ge, Mengpin (4 October 2017). \"Evaluating Indonesia's Progress on its Climate Commitments\". World Resources Institute. Archived from the original on 5 October 2017. Retrieved 26 August 2018.
+^ Chrysolite, Hanny; Juliane, Reidinar; Chitra, Josefhine; Ge, Mengpin (4 October 2017). "Evaluating Indonesia's Progress on its Climate Commitments". World Resources Institute. Archived from the original on 5 October 2017. Retrieved 26 August 2018.
 
-^ BirdLife International (2016). \"Leucopsar rothschildi\". IUCN Red List of Threatened Species. 2016: e.T22710912A94267053. doi:10.2305/IUCN.UK.2016-3.RLTS.T22710912A94267053.en.
+^ BirdLife International (2016). "Leucopsar rothschildi". IUCN Red List of Threatened Species. 2016: e.T22710912A94267053. doi:10.2305/IUCN.UK.2016-3.RLTS.T22710912A94267053.en.
 
-^ \"Extinction crisis escalates: Red List shows apes, corals, vultures, dolphins all in danger\". International Union for Conservation of Nature. 12 September 2007. Archived from the original on 16 October 2016. Retrieved 16 October 2016.
+^ "Extinction crisis escalates: Red List shows apes, corals, vultures, dolphins all in danger". International Union for Conservation of Nature. 12 September 2007. Archived from the original on 16 October 2016. Retrieved 16 October 2016.
 
-^ van Strien, N.J.; Steinmetz, R.; Manullang, B.; Sectionov, Han; K.H., Isnan; W., Rookmaaker; K., Sumardja; E., Khan; M.K.M. Ellis, S. (2008). \"Rhinoceros sondaicus\". IUCN Red List of Threatened Species. 2008: e.T19495A8925965. doi:10.2305/IUCN.UK.2008.RLTS.T19495A8925965.en.
+^ van Strien, N.J.; Steinmetz, R.; Manullang, B.; Sectionov, Han; K.H., Isnan; W., Rookmaaker; K., Sumardja; E., Khan; M.K.M. Ellis, S. (2008). "Rhinoceros sondaicus". IUCN Red List of Threatened Species. 2008: e.T19495A8925965. doi:10.2305/IUCN.UK.2008.RLTS.T19495A8925965.en.
 
 ^ Overland, Indra et al. (2017) Impact of Climate Change on ASEAN International Affairs: Risk and Opportunity Multiplier, Norwegian Institute of International Affairs (NUPI) and Myanmar Institute of International and Strategic Studies (MISIS).
 
-^ a b \"Climate Impact Map\". Climate Impact Lab. Retrieved 18 November 2018.
+^ a b "Climate Impact Map". Climate Impact Lab. Retrieved 18 November 2018.
 
-^ a b c d Case M, Ardiansyah F, Spector E (14 November 2007). \"Climate Change in Indonesia: Implications for Humans and Nature\" (PDF). WWF. Archived (PDF) from the original on 19 February 2018. Retrieved 18 November 2018.
+^ a b c d Case M, Ardiansyah F, Spector E (14 November 2007). "Climate Change in Indonesia: Implications for Humans and Nature" (PDF). WWF. Archived (PDF) from the original on 19 February 2018. Retrieved 18 November 2018.
 
-^ \"Report: Flooded Future: Global vulnerability to sea level rise worse than previously understood\". Climate Central. 29 October 2019. Archived from the original on 2 November 2019. Retrieved 5 November 2019.
+^ "Report: Flooded Future: Global vulnerability to sea level rise worse than previously understood". Climate Central. 29 October 2019. Archived from the original on 2 November 2019. Retrieved 5 November 2019.
 
-^ Lin, Mayuri Mei; Hidayat, Rafki (13 August 2018). \"Jakarta, the fastest-sinking city in the world\". BBC. Archived from the original on 18 October 2018. Retrieved 19 November 2018.
+^ Lin, Mayuri Mei; Hidayat, Rafki (13 August 2018). "Jakarta, the fastest-sinking city in the world". BBC. Archived from the original on 18 October 2018. Retrieved 19 November 2018.
 
-^ \"Indonesia: Climate Risk and Adaptation Country Profile\" (PDF). World Bank. April 2011. Archived (PDF) from the original on 6 December 2017. Retrieved 18 November 2018.
+^ "Indonesia: Climate Risk and Adaptation Country Profile" (PDF). World Bank. April 2011. Archived (PDF) from the original on 6 December 2017. Retrieved 18 November 2018.
 
-^ a b c Dwi Harijanti, Susi; Lindsey, Tim (1 January 2006). \"Indonesia: General elections test the amended Constitution and the new Constitutional Court\". International Journal of Constitutional Law. 4 (1): 138–150. doi:10.1093/icon/moi055.
+^ a b c Dwi Harijanti, Susi; Lindsey, Tim (1 January 2006). "Indonesia: General elections test the amended Constitution and the new Constitutional Court". International Journal of Constitutional Law. 4 (1): 138–150. doi:10.1093/icon/moi055.
 
 ^ Ardiansyah, Fitrian; Marthen, Andri; Amalia, Nur (2015), Forest and land-use governance in a decentralized Indonesia, doi:10.17528/cifor/005695
 
@@ -1064,193 +1062,193 @@ References
 
 ^ Chapter II, Article 3, 3rd Clause of the 1945 Constitution.
 
-^ a b c \"The 1945 Constitution of the Republic of Indonesia\" (PDF). International Labour Organization. Archived (PDF) from the original on 11 October 2017. Retrieved 11 October 2017.
+^ a b c "The 1945 Constitution of the Republic of Indonesia" (PDF). International Labour Organization. Archived (PDF) from the original on 11 October 2017. Retrieved 11 October 2017.
 
-^ a b Evans, Kevin (2019). \"Guide to the 2019 Indonesian Elections\" (PDF). Australia-Indonesia Centre. Archived from the original (PDF) on 17 April 2019. Retrieved 30 July 2019.
+^ a b Evans, Kevin (2019). "Guide to the 2019 Indonesian Elections" (PDF). Australia-Indonesia Centre. Archived from the original (PDF) on 17 April 2019. Retrieved 30 July 2019.
 
 ^ Chapter VIIA, Article 22D of the 1945 Constitution.
 
-^ Cammack, Mark E.; Feener, R. Michael (January 2012). \"The Islamic Legal System in Indonesia\" (PDF). Pacific Rim Law Policy Journal. Archived (PDF) from the original on 1 July 2017. Retrieved 1 July 2017.
+^ Cammack, Mark E.; Feener, R. Michael (January 2012). "The Islamic Legal System in Indonesia" (PDF). Pacific Rim Law Policy Journal. Archived (PDF) from the original on 1 July 2017. Retrieved 1 July 2017.
 
-^ Cochrane, Joe (15 March 2014). \"Governor of Jakarta Receives His Party's Nod for President\". The New York Times. Archived from the original on 3 February 2017. Retrieved 3 February 2017.
+^ Cochrane, Joe (15 March 2014). "Governor of Jakarta Receives His Party's Nod for President". The New York Times. Archived from the original on 3 February 2017. Retrieved 3 February 2017.
 
-^ Maboy, Olasri (4 August 2017). \"New election bill, new hope for democracy\". The Jakarta Post. Archived from the original on 10 October 2017. Retrieved 5 October 2018.
+^ Maboy, Olasri (4 August 2017). "New election bill, new hope for democracy". The Jakarta Post. Archived from the original on 10 October 2017. Retrieved 5 October 2018.
 
-^ \"House Agrees on Creation of Indonesia's 34th Province: 'North Kalimantan'\". The Jakarta Globe. 22 October 2012. Archived from the original on 16 August 2017. Retrieved 16 August 2017.
+^ "House Agrees on Creation of Indonesia's 34th Province: 'North Kalimantan'". The Jakarta Globe. 22 October 2012. Archived from the original on 16 August 2017. Retrieved 16 August 2017.
 
-^ Michelle Ann Miller (2004). \"The Nanggroe Aceh Darussalam law: a serious response to Acehnese separatism?\". Asian Ethnicity. 5 (3): 333–351. doi:10.1080/1463136042000259789.
+^ Michelle Ann Miller (2004). "The Nanggroe Aceh Darussalam law: a serious response to Acehnese separatism?". Asian Ethnicity. 5 (3): 333–351. doi:10.1080/1463136042000259789.
 
-^ \"Indonesia Law No. 5/1974 Concerning Basic Principles on Administration in the Region\" (PDF). Archived from the original (PDF) on 28 September 2007. Retrieved 28 September 2007. (146 KB)
+^ "Indonesia Law No. 5/1974 Concerning Basic Principles on Administration in the Region" (PDF). Archived from the original (PDF) on 28 September 2007. Retrieved 28 September 2007. (146 KB)
 
-^ \"Putting Indigenous Papuans as the Leading Subject of Development\" (in Indonesian). 17 September 2019. Archived from the original on 19 February 2020. Retrieved 15 February 2020.
+^ "Putting Indigenous Papuans as the Leading Subject of Development" (in Indonesian). 17 September 2019. Archived from the original on 19 February 2020. Retrieved 15 February 2020.
 
-^ \"DKI Jakarta, a City with a Provincial Status?\" (in Indonesian). Hukum Online. 26 June 2008. Archived from the original on 19 February 2020. Retrieved 16 February 2020.
+^ "DKI Jakarta, a City with a Provincial Status?" (in Indonesian). Hukum Online. 26 June 2008. Archived from the original on 19 February 2020. Retrieved 16 February 2020.
 
-^ \"Missions\" (in Indonesian). Ministry of Foreign Affairs – Republic of Indonesia. Retrieved 15 July 2019.
+^ "Missions" (in Indonesian). Ministry of Foreign Affairs – Republic of Indonesia. Retrieved 15 July 2019.
 
-^ Péter, Klemensits; Márton, Fenyő (16 August 2017). \"The Foreign Policy of Indonesia In Light of President Jokowi's \"Visi-Misi\" Program\" (PDF). Pázmány Péter Catholic University. Archived (PDF) from the original on 10 October 2017. Retrieved 10 October 2017.
+^ Péter, Klemensits; Márton, Fenyő (16 August 2017). "The Foreign Policy of Indonesia In Light of President Jokowi's "Visi-Misi" Program" (PDF). Pázmány Péter Catholic University. Archived (PDF) from the original on 10 October 2017. Retrieved 10 October 2017.
 
-^ Bevins, Vincent (20 October 2017). \"What the United States Did in Indonesia\". The Atlantic. Archived from the original on 28 April 2019. Retrieved 29 July 2019.
+^ Bevins, Vincent (20 October 2017). "What the United States Did in Indonesia". The Atlantic. Archived from the original on 28 April 2019. Retrieved 29 July 2019.
 
-^ Muraviev, Alexey; Brown, Colin (December 2008). \"Strategic Realignment or Déjà vu? Russia-Indonesia Defence Cooperation in the Twenty-First Century\" (PDF). Australian National University. Archived (PDF) from the original on 27 December 2016. Retrieved 27 December 2016.
+^ Muraviev, Alexey; Brown, Colin (December 2008). "Strategic Realignment or Déjà vu? Russia-Indonesia Defence Cooperation in the Twenty-First Century" (PDF). Australian National University. Archived (PDF) from the original on 27 December 2016. Retrieved 27 December 2016.
 
-^ Dahana, A. (1 October 2015). \"China and the Sept. 30 movement\". The Jakarta Post. Archived from the original on 5 October 2015. Retrieved 29 July 2019.
+^ Dahana, A. (1 October 2015). "China and the Sept. 30 movement". The Jakarta Post. Archived from the original on 5 October 2015. Retrieved 29 July 2019.
 
-^ \"Indonesia – Foreign Policy\". U.S. Library of Congress. Archived from the original on 27 September 2006. Retrieved 27 September 2006.
+^ "Indonesia – Foreign Policy". U.S. Library of Congress. Archived from the original on 27 September 2006. Retrieved 27 September 2006.
 
-^ Muhammad Zulfikar Rakhmat (11 March 2015). \"The Quiet Growth in Indonesia-Israel Relations\". The Diplomat. Archived from the original on 13 June 2018. Retrieved 8 September 2018.
+^ Muhammad Zulfikar Rakhmat (11 March 2015). "The Quiet Growth in Indonesia-Israel Relations". The Diplomat. Archived from the original on 13 June 2018. Retrieved 8 September 2018.
 
 ^ Roberts, C.; Habir, A.; Sebastian, L. (25 February 2015). Indonesia's Ascent: Power, Leadership, and the Regional Order. ISBN 978-1-137-39741-6. Retrieved 19 December 2017.
 
-^ Jensen, Fergus; Asmarini, Wilda. \"Net oil importer Indonesia leaves producer club OPEC, again\". Reuters. Archived from the original on 1 December 2016. Retrieved 1 December 2016.
+^ Jensen, Fergus; Asmarini, Wilda. "Net oil importer Indonesia leaves producer club OPEC, again". Reuters. Archived from the original on 1 December 2016. Retrieved 1 December 2016.
 
-^ Gutierrez, Natashya (22 August 2016). \"What happened when Indonesia 'withdrew' from the United Nations\". Rappler. Archived from the original on 1 November 2016. Retrieved 8 September 2018.
+^ Gutierrez, Natashya (22 August 2016). "What happened when Indonesia 'withdrew' from the United Nations". Rappler. Archived from the original on 1 November 2016. Retrieved 8 September 2018.
 
-^ \"International Cooperation and Development\". European Commission. 17 January 2018. Retrieved 17 January 2018.
+^ "International Cooperation and Development". European Commission. 17 January 2018. Retrieved 17 January 2018.
 
-^ \"Indonesia\" (PDF). Development Initiatives. 2013. Archived (PDF) from the original on 7 January 2014. Retrieved 28 July 2018.
+^ "Indonesia" (PDF). Development Initiatives. 2013. Archived (PDF) from the original on 7 January 2014. Retrieved 28 July 2018.
 
-^ Pierre van der Eng (2 December 2017). \"Why does Indonesia seem to prefer foreign aid from China?\". East Asia Forum. Archived from the original on 22 July 2018. Retrieved 28 July 2018.
+^ Pierre van der Eng (2 December 2017). "Why does Indonesia seem to prefer foreign aid from China?". East Asia Forum. Archived from the original on 22 July 2018. Retrieved 28 July 2018.
 
-^ Troath, Sian (28 February 2018). \"Shrugging Indonesia's inferiority complex\". Lowy Institute. Archived from the original on 8 September 2018. Retrieved 8 September 2018.
+^ Troath, Sian (28 February 2018). "Shrugging Indonesia's inferiority complex". Lowy Institute. Archived from the original on 8 September 2018. Retrieved 8 September 2018.
 
-^ Chew, Amy (7 July 2002). \"Indonesia military regains ground\". CNN. Archived from the original on 14 November 2017. Retrieved 14 November 2017.
+^ Chew, Amy (7 July 2002). "Indonesia military regains ground". CNN. Archived from the original on 14 November 2017. Retrieved 14 November 2017.
 
-^ \"Indonesia: Military expenditure (% of GDP)\". World Bank. 2018. Retrieved 28 March 2020.
+^ "Indonesia: Military expenditure (% of GDP)". World Bank. 2018. Retrieved 28 March 2020.
 
-^ Jessica Vincentia Marpaung (17 June 2016). \"TNI's Gold Mine: Corruption and Military-Owned Businesses in Indonesia\". The Global Anti Corruption Blog. Archived from the original on 18 December 2017. Retrieved 18 December 2017.
+^ Jessica Vincentia Marpaung (17 June 2016). "TNI's Gold Mine: Corruption and Military-Owned Businesses in Indonesia". The Global Anti Corruption Blog. Archived from the original on 18 December 2017. Retrieved 18 December 2017.
 
-^ Lowry, Bob (29 June 1999). \"Indonesian Armed Forces (Tentara Nasional Indonesia-TNI)\". Parliament of Australia. Archived from the original on 8 October 2017. Retrieved 29 July 2019.
+^ Lowry, Bob (29 June 1999). "Indonesian Armed Forces (Tentara Nasional Indonesia-TNI)". Parliament of Australia. Archived from the original on 8 October 2017. Retrieved 29 July 2019.
 
-^ Beets, Benjamin H. (2015). \"The Political Influence of the Military Before and After Democratic Transition: Experiences from Indonesia – An Assessment on Myanmar\" (PDF). Victoria University of Wellington. Retrieved 30 July 2018.
+^ Beets, Benjamin H. (2015). "The Political Influence of the Military Before and After Democratic Transition: Experiences from Indonesia – An Assessment on Myanmar" (PDF). Victoria University of Wellington. Retrieved 30 July 2018.
 
-^ \"Indonesia Faces 3 Separatist Movements\". Los Angeles Times. 9 September 1990. Archived from the original on 10 October 2017. Retrieved 10 October 2017.
+^ "Indonesia Faces 3 Separatist Movements". Los Angeles Times. 9 September 1990. Archived from the original on 10 October 2017. Retrieved 10 October 2017.
 
 ^ Friend 2003, pp. 270–273, 477–480. sfn error: multiple targets (3×): CITEREFFriend2003 (help)
 
-^ \"Indonesia flashpoints: Aceh\". BBC. 29 December 2005. Archived from the original on 22 August 2006. Retrieved 22 August 2006.
+^ "Indonesia flashpoints: Aceh". BBC. 29 December 2005. Archived from the original on 22 August 2006. Retrieved 22 August 2006.
 
-^ \"Papua: Answer to Frequently Asked Questions\" (PDF). International Crisis Group. 5 September 2006. Archived from the original (PDF) on 18 September 2006. Retrieved 18 September 2006.
+^ "Papua: Answer to Frequently Asked Questions" (PDF). International Crisis Group. 5 September 2006. Archived from the original (PDF) on 18 September 2006. Retrieved 18 September 2006.
 
 ^ Indonesia (1977), p. 39.
 
 ^ Budiardjo and Liong, p. 22.
 
-^ \"Economy of Indonesia\". Indonesia Invesments. Archived from the original on 4 May 2017. Retrieved 4 May 2017.
+^ "Economy of Indonesia". Indonesia Invesments. Archived from the original on 4 May 2017. Retrieved 4 May 2017.
 
-^ \"Official G20\". G20. 2019. Retrieved 20 November 2019.
+^ "Official G20". G20. 2019. Retrieved 20 November 2019.
 
-^ \"Policy Review: Is the Indonesian Government Debt still in a 'Safe Zone'?\". The Insider Stories. 21 February 2018. Archived from the original on 30 August 2018. Retrieved 30 August 2018.
+^ "Policy Review: Is the Indonesian Government Debt still in a 'Safe Zone'?". The Insider Stories. 21 February 2018. Archived from the original on 30 August 2018. Retrieved 30 August 2018.
 
-^ \"Indonesia: Share of economic sectors in the gross domestic product (GDP) from 2008 to 2018\". Statista. December 2019. Retrieved 28 March 2020.
+^ "Indonesia: Share of economic sectors in the gross domestic product (GDP) from 2008 to 2018". Statista. December 2019. Retrieved 28 March 2020.
 
-^ \"Indonesia: Distribution of employment by economic sector from 2009 to 2019\". Statista. December 2019. Retrieved 28 March 2020.
+^ "Indonesia: Distribution of employment by economic sector from 2009 to 2019". Statista. December 2019. Retrieved 28 March 2020.
 
-^ a b c Elias, Stephen; Noone, Clare (December 2011). \"The Growth and Development of the Indonesian Economy\" (PDF). Reserve Bank of Australia. Archived (PDF) from the original on 27 December 2016. Retrieved 27 December 2016.
+^ a b c Elias, Stephen; Noone, Clare (December 2011). "The Growth and Development of the Indonesian Economy" (PDF). Reserve Bank of Australia. Archived (PDF) from the original on 27 December 2016. Retrieved 27 December 2016.
 
-^ \"Indonesia – Poverty and Wealth\". Encyclopedia of the Nations. Archived from the original on 14 July 2011. Retrieved 14 July 2011.
+^ "Indonesia – Poverty and Wealth". Encyclopedia of the Nations. Archived from the original on 14 July 2011. Retrieved 14 July 2011.
 
-^ Temple, Jonathan (15 August 2001). \"Growing into trouble: Indonesia after 1966\" (PDF). University of Bristol. Archived from the original (PDF) on 27 December 2016. Retrieved 27 December 2016.
+^ Temple, Jonathan (15 August 2001). "Growing into trouble: Indonesia after 1966" (PDF). University of Bristol. Archived from the original (PDF) on 27 December 2016. Retrieved 27 December 2016.
 
-^ van der Eng, Pierre (4 February 2002). \"Indonesia's growth experience in the 20th century: Evidence, queries, guesses\" (PDF). Australian National University. Archived (PDF) from the original on 10 October 2017. Retrieved 10 October 2017.
+^ van der Eng, Pierre (4 February 2002). "Indonesia's growth experience in the 20th century: Evidence, queries, guesses" (PDF). Australian National University. Archived (PDF) from the original on 10 October 2017. Retrieved 10 October 2017.
 
-^ \"World Economic Outlook Database: Report for Selected Countries and Subjects – Indonesia\". International Monetary Fund. October 2017. Retrieved 9 January 2018.
+^ "World Economic Outlook Database: Report for Selected Countries and Subjects – Indonesia". International Monetary Fund. October 2017. Retrieved 9 January 2018.
 
-^ \"IMF Survey: Indonesia's Choice of Policy Mix Critical to Ongoing Growth\". International Monetary Fund. 28 July 2009. Archived from the original on 5 February 2017. Retrieved 5 February 2017.
+^ "IMF Survey: Indonesia's Choice of Policy Mix Critical to Ongoing Growth". International Monetary Fund. 28 July 2009. Archived from the original on 5 February 2017. Retrieved 5 February 2017.
 
-^ \"Fitch Upgrades Indonesia's Rating to Investment Grade\". Jakarta Globe. 15 December 2011. Archived from the original on 8 January 2012. Retrieved 8 February 2012.
+^ "Fitch Upgrades Indonesia's Rating to Investment Grade". Jakarta Globe. 15 December 2011. Archived from the original on 8 January 2012. Retrieved 8 February 2012.
 
-^ Musyaffa, Iqbal (9 January 2020). \"Indonesia's economy grew last year despite shortfalls\". Anadoly Agency. Archived from the original on 10 January 2020. Retrieved 28 March 2020.
+^ Musyaffa, Iqbal (9 January 2020). "Indonesia's economy grew last year despite shortfalls". Anadoly Agency. Archived from the original on 10 January 2020. Retrieved 28 March 2020.
 
-^ \"Indonesia\". The Observatory of Economic Complexity. 2017. Retrieved 15 July 2019.
+^ "Indonesia". The Observatory of Economic Complexity. 2017. Retrieved 15 July 2019.
 
-^ Workman, Daniel (26 December 2017). \"Indonesia's Top Trading Partners\". World's Top Exports. Archived from the original on 25 February 2018. Retrieved 25 February 2018.
+^ Workman, Daniel (26 December 2017). "Indonesia's Top Trading Partners". World's Top Exports. Archived from the original on 25 February 2018. Retrieved 25 February 2018.
 
-^ Legge, John D. (April 1990). \"Review: Indonesia's Diversity Revisited\". Indonesia. 49 (49): 127–131. doi:10.2307/3351057. hdl:1813/53928. JSTOR 3351057.
+^ Legge, John D. (April 1990). "Review: Indonesia's Diversity Revisited". Indonesia. 49 (49): 127–131. doi:10.2307/3351057. hdl:1813/53928. JSTOR 3351057.
 
-^ del Olmo, Esmeralda (6 November 2017). \"Indonesian Transportation Sector Report 2017/2018\". EMIS. Archived from the original on 24 October 2018. Retrieved 24 October 2018.
+^ del Olmo, Esmeralda (6 November 2017). "Indonesian Transportation Sector Report 2017/2018". EMIS. Archived from the original on 24 October 2018. Retrieved 24 October 2018.
 
-^ \"Length of Road by Surface, 1957–2017 (Km)\" (in Indonesian). BPS. Retrieved 21 March 2020.
+^ "Length of Road by Surface, 1957–2017 (Km)" (in Indonesian). BPS. Retrieved 21 March 2020.
 
-^ \"Koridor\" (in Indonesian). TransJakarta. Retrieved 15 August 2017.
+^ "Koridor" (in Indonesian). TransJakarta. Retrieved 15 August 2017.
 
-^ Coca, Nithin (14 April 2019). \"At Last, Light Rail Comes to Jakarta\". Overture. Archived from the original on 22 November 2019. Retrieved 22 November 2019.
+^ Coca, Nithin (14 April 2019). "At Last, Light Rail Comes to Jakarta". Overture. Archived from the original on 22 November 2019. Retrieved 22 November 2019.
 
-^ \"South-east Asia's first high-speed rail in Indonesia ready for construction: China Railway Corp\". The Straits Times. 2 July 2018. Archived from the original on 11 July 2018. Retrieved 26 September 2018.
+^ "South-east Asia's first high-speed rail in Indonesia ready for construction: China Railway Corp". The Straits Times. 2 July 2018. Archived from the original on 11 July 2018. Retrieved 26 September 2018.
 
-^ \"Preliminary world airport traffic rankings released\". Airport Council International. 13 March 2019. Archived from the original on 4 October 2019. Retrieved 5 November 2019.
+^ "Preliminary world airport traffic rankings released". Airport Council International. 13 March 2019. Archived from the original on 4 October 2019. Retrieved 5 November 2019.
 
-^ \"The 13,466-island problem\". The Economist. 27 February 2016. Retrieved 16 June 2017.
+^ "The 13,466-island problem". The Economist. 27 February 2016. Retrieved 16 June 2017.
 
-^ \"Overview: Indonesia\". U.S. Energy Information Administration. 7 October 2015. Retrieved 6 January 2020.
+^ "Overview: Indonesia". U.S. Energy Information Administration. 7 October 2015. Retrieved 6 January 2020.
 
-^ Budiman, Arief; Das, Kaushik; Mohammad, Azam; Tee Tan, Khoon; Tonby, Oliver (September 2014). \"Ten ideas to reshape Indonesia's energy sector\". McKinseyCompany. Archived from the original on 30 March 2015. Retrieved 30 March 2015.
+^ Budiman, Arief; Das, Kaushik; Mohammad, Azam; Tee Tan, Khoon; Tonby, Oliver (September 2014). "Ten ideas to reshape Indonesia's energy sector". McKinseyCompany. Archived from the original on 30 March 2015. Retrieved 30 March 2015.
 
-^ a b Dolf Gielen, Deger Saygin and Jasper Rigter (March 2017). \"Renewable Energy Prospects: Indonesia\". International Renewable Energy Agency. Archived from the original on 12 November 2017. Retrieved 13 September 2018.
+^ a b Dolf Gielen, Deger Saygin and Jasper Rigter (March 2017). "Renewable Energy Prospects: Indonesia". International Renewable Energy Agency. Archived from the original on 12 November 2017. Retrieved 13 September 2018.
 
-^ \"Power in Indonesia 2017\" (PDF). PwC. November 2017. Archived (PDF) from the original on 13 September 2018. Retrieved 13 September 2018.
+^ "Power in Indonesia 2017" (PDF). PwC. November 2017. Archived (PDF) from the original on 13 September 2018. Retrieved 13 September 2018.
 
-^ \"Statistik Ketenagalistrikan\" (PDF) (in Indonesian). Kementerian ESDM. September 2016. Archived from the original (PDF) on 15 August 2017. Retrieved 15 August 2017.
+^ "Statistik Ketenagalistrikan" (PDF) (in Indonesian). Kementerian ESDM. September 2016. Archived from the original (PDF) on 15 August 2017. Retrieved 15 August 2017.
 
-^ Dr. Coyne Bellier (9 October 2007). \"Jatiluhur in Indonesia\" (in French). Planete-TP. Archived from the original on 9 November 2013. Retrieved 9 November 2013.
+^ Dr. Coyne Bellier (9 October 2007). "Jatiluhur in Indonesia" (in French). Planete-TP. Archived from the original on 9 November 2013. Retrieved 9 November 2013.
 
-^ \"Indonesia seeking greater funding for RD\". Oxford Business Group. 29 August 2017. Archived from the original on 14 November 2017. Retrieved 25 August 2018.
+^ "Indonesia seeking greater funding for RD". Oxford Business Group. 29 August 2017. Archived from the original on 14 November 2017. Retrieved 25 August 2018.
 
-^ Kasten, Michael. \"History of the Indonesian Pinisi\". Archived from the original on 9 December 2016. Retrieved 9 December 2016.
+^ Kasten, Michael. "History of the Indonesian Pinisi". Archived from the original on 9 December 2016. Retrieved 9 December 2016.
 
-^ Sertori, Trisha (11 December 2014). \"Man of 1000 shoulders\". The Jakarta Post. Archived from the original on 20 March 2015. Retrieved 20 March 2015.
+^ Sertori, Trisha (11 December 2014). "Man of 1000 shoulders". The Jakarta Post. Archived from the original on 20 March 2015. Retrieved 20 March 2015.
 
-^ Rika Stevani, Louis (4 February 2017). \"INKA to Manufacture Trains for Export to Bangladesh, Sri Lanka\". Tempo. Archived from the original on 15 January 2018. Retrieved 15 January 2018.
+^ Rika Stevani, Louis (4 February 2017). "INKA to Manufacture Trains for Export to Bangladesh, Sri Lanka". Tempo. Archived from the original on 15 January 2018. Retrieved 15 January 2018.
 
-^ Dwi Sutianto, Feby (5 February 2016). \"PTDI Ekspor 40 Unit Pesawat, Terlaris CN235\" (in Indonesian). detikFinance. Archived from the original on 15 August 2017. Retrieved 15 August 2017.
+^ Dwi Sutianto, Feby (5 February 2016). "PTDI Ekspor 40 Unit Pesawat, Terlaris CN235" (in Indonesian). detikFinance. Archived from the original on 15 August 2017. Retrieved 15 August 2017.
 
-^ \"Habibie receives honorary doctorate\". The Jakarta Post. 30 January 2010. Archived from the original on 5 March 2016. Retrieved 5 March 2016.
+^ "Habibie receives honorary doctorate". The Jakarta Post. 30 January 2010. Archived from the original on 5 March 2016. Retrieved 5 March 2016.
 
-^ \"KF-X Fighter: Korea's Future Homegrown Jet\". Defense Industry Daily. 21 November 2017. Archived from the original on 23 November 2017. Retrieved 23 November 2017.
+^ "KF-X Fighter: Korea's Future Homegrown Jet". Defense Industry Daily. 21 November 2017. Archived from the original on 23 November 2017. Retrieved 23 November 2017.
 
-^ Mcelheny, Victor K. (8 July 1976). \"Indonesian Satellite to Be Launched\". The New York Times. Archived from the original on 2 August 2018. Retrieved 2 August 2018.
+^ Mcelheny, Victor K. (8 July 1976). "Indonesian Satellite to Be Launched". The New York Times. Archived from the original on 2 August 2018. Retrieved 2 August 2018.
 
-^ \"Planning and Development of Indonesia's Domestic Communications Satellite System PALAPA\". Online Journal of Space Communication. 2005. Archived from the original on 18 May 2015. Retrieved 18 May 2015.
+^ "Planning and Development of Indonesia's Domestic Communications Satellite System PALAPA". Online Journal of Space Communication. 2005. Archived from the original on 18 May 2015. Retrieved 18 May 2015.
 
-^ \"Satellites by countries and organizations: Indonesia\". N2YO. Retrieved 20 November 2019.
+^ "Satellites by countries and organizations: Indonesia". N2YO. Retrieved 20 November 2019.
 
-^ Faris Sabilar Rusydi (17 June 2016). \"Lapan Target Luncurkan Roket Pengorbit Satelit Pada 2040\" (in Indonesian). LAPAN. Archived from the original on 16 August 2017. Retrieved 16 August 2016.
+^ Faris Sabilar Rusydi (17 June 2016). "Lapan Target Luncurkan Roket Pengorbit Satelit Pada 2040" (in Indonesian). LAPAN. Archived from the original on 16 August 2017. Retrieved 16 August 2016.
 
 ^ Elliott, Mark (2003). Indonesia. Melbourne: Lonely Planet Publications Pty Ltd. pp. 211–215. ISBN 978-1-74059-154-6.
 
-^ \"Indonesia\" (PDF). World Economic Forum. 4 September 2019. Archived (PDF) from the original on 5 November 2019. Retrieved 5 November 2019.
+^ "Indonesia" (PDF). World Economic Forum. 4 September 2019. Archived (PDF) from the original on 5 November 2019. Retrieved 5 November 2019.
 
-^ \"Indonesia welcomed 15.8m foreign tourists last year: BPS\". The Jakarta Post. 1 February 2019. Archived from the original on 5 November 2019. Retrieved 5 November 2019.
+^ "Indonesia welcomed 15.8m foreign tourists last year: BPS". The Jakarta Post. 1 February 2019. Archived from the original on 5 November 2019. Retrieved 5 November 2019.
 
-^ Erwida, Maulia (6 January 2011). \"Tourism Ministry set to launch 'Wonderful Indonesia' campaign\". The Jakarta Post. Archived from the original on 12 March 2014. Retrieved 12 March 2014.
+^ Erwida, Maulia (6 January 2011). "Tourism Ministry set to launch 'Wonderful Indonesia' campaign". The Jakarta Post. Archived from the original on 12 March 2014. Retrieved 12 March 2014.
 
-^ Doubilet, David (September 2007). \"Indonesia Undersea\". National Geographic. Archived from the original on 6 August 2009. Retrieved 6 August 2009.
+^ Doubilet, David (September 2007). "Indonesia Undersea". National Geographic. Archived from the original on 6 August 2009. Retrieved 6 August 2009.
 
 ^ a b Informasi Pariwisata Nusantara (Not for sale) (in Indonesian). Jakarta: Ministry of Tourism of the Republic of Indonesia. 2014.
 
-^ \"Indonesia – Properties inscribed on the World Heritage List\". UNESCO. Retrieved 27 November 2016.
+^ "Indonesia – Properties inscribed on the World Heritage List". UNESCO. Retrieved 27 November 2016.
 
-^ \"Fifty years needed to bring population growth to zero\". Waspada Online. 19 March 2011. Archived from the original on 10 May 2011. Retrieved 10 May 2011.
+^ "Fifty years needed to bring population growth to zero". Waspada Online. 19 March 2011. Archived from the original on 10 May 2011. Retrieved 10 May 2011.
 
-^ \"Highest population, island\". Guinness World Records. Archived from the original on 6 June 2017. Retrieved 6 June 2017.
+^ "Highest population, island". Guinness World Records. Archived from the original on 6 June 2017. Retrieved 6 June 2017.
 
-^ \"Census 2010\" (PDF) (in Indonesian). BPS. August 2010. Archived from the original (PDF) on 13 November 2010. Retrieved 13 November 2010.
+^ "Census 2010" (PDF) (in Indonesian). BPS. August 2010. Archived from the original (PDF) on 13 November 2010. Retrieved 13 November 2010.
 
-^ \"Indonesia Population Projection\" (PDF) (in Indonesian). BPS. Retrieved 30 December 2016.
+^ "Indonesia Population Projection" (PDF) (in Indonesian). BPS. Retrieved 30 December 2016.
 
 ^ Nitisastro, Widjojo (2006). Population Trends in Indonesia. Equinox Publishing. p. 268. ISBN 9789793780436. Retrieved 5 September 2015 – via Google Books.
 
-^ \"World Population Prospect: 2017 Revision\" (PDF). United Nations Department of Economics and Social Affairs – Population Division. 21 June 2017. Archived (PDF) from the original on 20 December 2017. Retrieved 20 December 2017.
+^ "World Population Prospect: 2017 Revision" (PDF). United Nations Department of Economics and Social Affairs – Population Division. 21 June 2017. Archived (PDF) from the original on 20 December 2017. Retrieved 20 December 2017.
 
-^ \"BBC: First contact with isolated tribes?\". Survival International. 25 January 2007. Archived from the original on 30 July 2017. Retrieved 30 July 2017.
+^ "BBC: First contact with isolated tribes?". Survival International. 25 January 2007. Archived from the original on 30 July 2017. Retrieved 30 July 2017.
 
-^ \"Dinamika Pertumbuhan Penduduk Kota-Kota di Indonesia\" (in Indonesian). Indonesian Institute of Sciences. 6 August 2018. Archived from the original on 15 July 2019. Retrieved 31 August 2019.
+^ "Dinamika Pertumbuhan Penduduk Kota-Kota di Indonesia" (in Indonesian). Indonesian Institute of Sciences. 6 August 2018. Archived from the original on 15 July 2019. Retrieved 31 August 2019.
 
-^ \"Demographia World Urban Areas, 15th Annual Edition\" (PDF). Demographia. April 2019. Archived from the original (PDF) on 7 February 2020.
+^ "Demographia World Urban Areas, 15th Annual Edition" (PDF). Demographia. April 2019. Archived from the original (PDF) on 7 February 2020.
 
-^ Krisetya, Beltsazar (14 September 2016). \"Tapping the Indonesian Diaspora Potential\". Forum for International Studies. Archived from the original on 20 December 2017. Retrieved 20 December 2017.
+^ Krisetya, Beltsazar (14 September 2016). "Tapping the Indonesian Diaspora Potential". Forum for International Studies. Archived from the original on 20 December 2017. Retrieved 20 December 2017.
 
-^ a b \"An Overview of Indonesia\". Living in Indonesia: A Site for Expatriates. Archived from the original on 14 November 2017. Retrieved 14 November 2017.
+^ a b "An Overview of Indonesia". Living in Indonesia: A Site for Expatriates. Archived from the original on 14 November 2017. Retrieved 14 November 2017.
 
 ^ Witton 2003, pp. 139, 181, 251, 435.
 
@@ -1260,15 +1258,15 @@ References
 
 ^ Ricklefs 1991, p. 256. sfn error: multiple targets (2×): CITEREFRicklefs1991 (help)
 
-^ \"The History of Indonesian\". Language Translation, Inc. Archived from the original on 4 March 2016. Retrieved 12 January 2016.
+^ "The History of Indonesian". Language Translation, Inc. Archived from the original on 4 March 2016. Retrieved 12 January 2016.
 
-^ Sneddon, James N. (April 2013). \"The Indonesian Language: Its History and Role in Modern Society\". University of South Wales Press Ltd. Archived from the original on 29 July 2017. Retrieved 20 January 2018.
+^ Sneddon, James N. (April 2013). "The Indonesian Language: Its History and Role in Modern Society". University of South Wales Press Ltd. Archived from the original on 29 July 2017. Retrieved 20 January 2018.
 
-^ Anwar, Khaidir (1976). \"Minangkabau, Background of the main pioneers of modern standard Malay in Indonesia\". Retrieved 9 June 2017.
+^ Anwar, Khaidir (1976). "Minangkabau, Background of the main pioneers of modern standard Malay in Indonesia". Retrieved 9 June 2017.
 
-^ Amerl, Ivana (May 2006). \"Language interference: Indonesian and English\". MED Magazine. Archived from the original on 29 July 2017. Retrieved 20 January 2018.
+^ Amerl, Ivana (May 2006). "Language interference: Indonesian and English". MED Magazine. Archived from the original on 29 July 2017. Retrieved 20 January 2018.
 
-^ van Nimwegen, Nico (2002). \"The Demographic History of the Dutch in the East Indies\" (PDF). Nederlands Interdisciplinair Demografisch Instituut. Archived from the original (PDF) on 23 July 2011. Retrieved 23 July 2011.
+^ van Nimwegen, Nico (2002). "The Demographic History of the Dutch in the East Indies" (PDF). Nederlands Interdisciplinair Demografisch Instituut. Archived from the original (PDF) on 23 July 2011. Retrieved 23 July 2011.
 
 ^ Baker (1998), p. 202.
 
@@ -1280,13 +1278,13 @@ References
 
 ^ Shah, Dian A. H. (2017). Constitutions, Religion and Politics in Asia: Indonesia, Malaysia and Sri Lanka. Cambridge: Cambridge University Press. ISBN 978-1-107-18334-6.
 
-^ a b c Marshall, Paul (2018). \"The Ambiguities of Religious Freedom in Indonesia\". The Review of Faith International Affairs. 16 (1): 85–96. doi:10.1080/15570274.2018.1433588.
+^ a b c Marshall, Paul (2018). "The Ambiguities of Religious Freedom in Indonesia". The Review of Faith International Affairs. 16 (1): 85–96. doi:10.1080/15570274.2018.1433588.
 
 ^ Ricklefs 2001, p. 379.
 
-^ \"Sunni and Shia Muslims\". Pew Research Center. 27 January 2011. Archived from the original on 6 May 2017. Retrieved 6 May 2017.
+^ "Sunni and Shia Muslims". Pew Research Center. 27 January 2011. Archived from the original on 6 May 2017. Retrieved 6 May 2017.
 
-^ Bureau of Democracy, Human Rights and Labor (2017). \"2016 Indonesia International Religious Freedom Report\" (PDF). U.S. Department of State. Archived from the original (PDF) on 19 December 2017. Retrieved 19 December 2017.
+^ Bureau of Democracy, Human Rights and Labor (2017). "2016 Indonesia International Religious Freedom Report" (PDF). U.S. Department of State. Archived from the original (PDF) on 19 December 2017. Retrieved 19 December 2017.
 
 ^ Oey, Eric (1997). Bali (3rd ed.). Singapore: Periplus Editions. ISBN 978-962-593-028-2.
 
@@ -1294,19 +1292,19 @@ References
 
 ^ a b Ooi, Keat Gin, ed. (2004). Southeast Asia: A historical encyclopedia, from Angkor Wat to East Timor (3 volume set). ABC-CLIO. p. 177. ISBN 978-1-57607-770-2.
 
-^ Magnis-Suseno, F. 1981, Javanese Ethics and World-View: The Javanese Idea of the Good Life, PT Gramedia Pustaka Utama, Jakarta, 1997, pp. 15–18 ISBN 979-605-406-X, \"2003 International Religious Freedom Report\". U.S. Department of State. 2003. Retrieved 13 January 2012.
+^ Magnis-Suseno, F. 1981, Javanese Ethics and World-View: The Javanese Idea of the Good Life, PT Gramedia Pustaka Utama, Jakarta, 1997, pp. 15–18 ISBN 979-605-406-X, "2003 International Religious Freedom Report". U.S. Department of State. 2003. Retrieved 13 January 2012.
 
 ^ Jan Gonda, The Indian Religions in Pre-Islamic Indonesia and their survival in Bali, in Handbook of Oriental Studies. Section 3 Southeast Asia, Religions at Google Books
 
-^ Darsa, Undang A. 2004. \"Kropak 406; Carita Parahyangan dan Fragmen Carita Parahyangan\", Makalah disampaikan dalam Kegiatan Bedah Naskah Kuna yang diselenggarakan oleh Balai Pengelolaan Museum Negeri Sri Baduga. Bandung-Jatinangor: Fakultas Sastra Universitas Padjadjaran: hlm. 1–23.
+^ Darsa, Undang A. 2004. "Kropak 406; Carita Parahyangan dan Fragmen Carita Parahyangan", Makalah disampaikan dalam Kegiatan Bedah Naskah Kuna yang diselenggarakan oleh Balai Pengelolaan Museum Negeri Sri Baduga. Bandung-Jatinangor: Fakultas Sastra Universitas Padjadjaran: hlm. 1–23.
 
-^ \"Buddhism in Indonesia\". Buddha Dharma Education Association. Buddha Dharma Education Association. 2005. Archived from the original on 10 May 2019. Retrieved 3 October 2006.
+^ "Buddhism in Indonesia". Buddha Dharma Education Association. Buddha Dharma Education Association. 2005. Archived from the original on 10 May 2019. Retrieved 3 October 2006.
 
 ^ Martin, Richard C. (2004). Encyclopedia of Islam and the Muslim World. Vol. 2: M–Z. Macmillan.
 
 ^ Gerhard Bowering et al. (2012), The Princeton Encyclopedia of Islamic Political Thought, Princeton University Press, ISBN 978-0-691-13484-0, pp. xvi
 
-^ \"Indonesia – Bhineka Tunggal Ika\". Centre Universitaire d'Informatique. Archived from the original on 14 September 2006. Retrieved 20 October 2006.
+^ "Indonesia – Bhineka Tunggal Ika". Centre Universitaire d'Informatique. Archived from the original on 14 September 2006. Retrieved 20 October 2006.
 
 ^ Taufiq Tanasaldy, Regime Change and Ethnic Politics in Indonesia, Brill Academic, ISBN 978-90-04-26373-4
 
@@ -1314,7 +1312,7 @@ References
 
 ^ Ricklefs 1991, pp. 25, 26, 28. sfn error: multiple targets (2×): CITEREFRicklefs1991 (help)
 
-^ \"About St Francis Xavier\". Catholic Archdiocese of Sydney. Archived from the original on 16 November 2012. Retrieved 5 July 2018.
+^ "About St Francis Xavier". Catholic Archdiocese of Sydney. Archived from the original on 16 November 2012. Retrieved 5 July 2018.
 
 ^ Ricklefs 1991, pp. 28, 62. sfn error: multiple targets (2×): CITEREFRicklefs1991 (help)
 
@@ -1322,125 +1320,125 @@ References
 
 ^ Goh, Robbie B.H. (2005). Christianity in Southeast Asia. Institute of Southeast Asian Studies. p. 80. ISBN 978-981-230-297-7.
 
-^ \"Indonesia – Asia\". Reformed Online. Archived from the original on 5 December 2006. Retrieved 5 December 2006.
+^ "Indonesia – Asia". Reformed Online. Archived from the original on 5 December 2006. Retrieved 5 December 2006.
 
-^ Dr. Ayala Klemperer-Markman. \"The Jewish Community in Indonesia\". Beit Hatfutsot. Archived from the original on 4 August 2019. Retrieved 12 March 2020.
+^ Dr. Ayala Klemperer-Markman. "The Jewish Community in Indonesia". Beit Hatfutsot. Archived from the original on 4 August 2019. Retrieved 12 March 2020.
 
 ^ Madjid, Nurcholish (1994). Islamic Roots of Modern Pluralism: Indonesian Experience. Studia Islamika: Indonesian Journal for Islamic Studies.
 
-^ \"How religious commitment varies by country among people of all ages\". Pew Research Center. 13 June 2018. Archived from the original on 27 August 2018. Retrieved 23 November 2018.
+^ "How religious commitment varies by country among people of all ages". Pew Research Center. 13 June 2018. Archived from the original on 27 August 2018. Retrieved 23 November 2018.
 
-^ Pearce, Jonathan MS (28 October 2018). \"Religion in Indonesia: An Insight\". Patheos. Archived from the original on 28 October 2018. Retrieved 23 November 2018.
+^ Pearce, Jonathan MS (28 October 2018). "Religion in Indonesia: An Insight". Patheos. Archived from the original on 28 October 2018. Retrieved 23 November 2018.
 
-^ \"Indonesian Holidays\". Living in Indonesia: A Site for Expatriates. 7 November 2019. Archived from the original on 14 September 2019. Retrieved 20 November 2019.
+^ "Indonesian Holidays". Living in Indonesia: A Site for Expatriates. 7 November 2019. Archived from the original on 14 September 2019. Retrieved 20 November 2019.
 
-^ al-Samarrai, Samer; Cerdan-Infantes, Pedro (9 March 2013). \"Awakening Indonesia's Golden Generation: Extending Compulsory Education from 9 to 12 Years\". The World Bank Blog. Archived from the original on 10 October 2017. Retrieved 10 October 2017.
+^ al-Samarrai, Samer; Cerdan-Infantes, Pedro (9 March 2013). "Awakening Indonesia's Golden Generation: Extending Compulsory Education from 9 to 12 Years". The World Bank Blog. Archived from the original on 10 October 2017. Retrieved 10 October 2017.
 
-^ Tan, Charlene (2014). \"Educative Tradition and Islamic Schools in Indonesia\" (PDF). Nanyang Technological University. Archived (PDF) from the original on 27 March 2016. Retrieved 27 March 2016.
+^ Tan, Charlene (2014). "Educative Tradition and Islamic Schools in Indonesia" (PDF). Nanyang Technological University. Archived (PDF) from the original on 27 March 2016. Retrieved 27 March 2016.
 
-^ \"Indonesia: Education Expenditures\". UNESCO Institute for Statistics. 27 November 2016. Archived from the original on 21 August 2017. Retrieved 21 August 2017.
+^ "Indonesia: Education Expenditures". UNESCO Institute for Statistics. 27 November 2016. Archived from the original on 21 August 2017. Retrieved 21 August 2017.
 
-^ a b \"Is Indonesia Ready for International Branch Campuses?\". Inside Higher Ed. 29 May 2018. Archived from the original on 30 May 2018. Retrieved 18 November 2018.
+^ a b "Is Indonesia Ready for International Branch Campuses?". Inside Higher Ed. 29 May 2018. Archived from the original on 30 May 2018. Retrieved 18 November 2018.
 
-^ \"Andalas University\". Global Business Guide Indonesia. Archived from the original on 8 November 2016. Retrieved 8 November 2016.
+^ "Andalas University". Global Business Guide Indonesia. Archived from the original on 8 November 2016. Retrieved 8 November 2016.
 
-^ \"2018 Health SDG Profile: Indonesia\" (PDF). World Health Organization. July 2018. Archived (PDF) from the original on 6 December 2018. Retrieved 10 December 2018.
+^ "2018 Health SDG Profile: Indonesia" (PDF). World Health Organization. July 2018. Archived (PDF) from the original on 6 December 2018. Retrieved 10 December 2018.
 
-^ Thabrany, Hasbullah (2 January 2014). \"Birth of Indonesia's 'Medicare': Fasten your seatbelts\". The Jakarta Post. Archived from the original on 10 January 2014. Retrieved 26 August 2018.
+^ Thabrany, Hasbullah (2 January 2014). "Birth of Indonesia's 'Medicare': Fasten your seatbelts". The Jakarta Post. Archived from the original on 10 January 2014. Retrieved 26 August 2018.
 
-^ \"The Republic of Indonesia Health System Review\" (PDF). Asia Pacific Observatory on Health Systems and Policies. 2017. Archived (PDF) from the original on 29 March 2017. Retrieved 12 January 2018.
+^ "The Republic of Indonesia Health System Review" (PDF). Asia Pacific Observatory on Health Systems and Policies. 2017. Archived (PDF) from the original on 29 March 2017. Retrieved 12 January 2018.
 
-^ Nafsiah Mboi; Indra Murty Surbakti; Indang Trihandini; Iqbal Elyazar; Karen Houston Smith; et al. (2018). \"On the road to universal health care in Indonesia, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016\". The Lancet. 392 (10147): 581–591. doi:10.1016/S0140-6736(18)30595-6. PMC 6099123. PMID 29961639.
+^ Nafsiah Mboi; Indra Murty Surbakti; Indang Trihandini; Iqbal Elyazar; Karen Houston Smith; et al. (2018). "On the road to universal health care in Indonesia, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016". The Lancet. 392 (10147): 581–591. doi:10.1016/S0140-6736(18)30595-6. PMC 6099123. PMID 29961639.
 
-^ Tadjoeddin, Mohammad Zulfan; Chowdury, Anis; Murshed, Syed Mansoob (October 2010). \"Routine Violence in Java, Indonesia: Neo-Malthusian and Social Justice Perspectives\" (PDF). Archived (PDF) from the original on 10 October 2017. Retrieved 10 October 2017.
+^ Tadjoeddin, Mohammad Zulfan; Chowdury, Anis; Murshed, Syed Mansoob (October 2010). "Routine Violence in Java, Indonesia: Neo-Malthusian and Social Justice Perspectives" (PDF). Archived (PDF) from the original on 10 October 2017. Retrieved 10 October 2017.
 
-^ Upton, Stuart (January 2009). \"The impact of migration on the people of Papua, Indonesia: A historical demographic analysis\" (PDF). University of New South Wales. Archived (PDF) from the original on 10 May 2017. Retrieved 10 May 2017.
+^ Upton, Stuart (January 2009). "The impact of migration on the people of Papua, Indonesia: A historical demographic analysis" (PDF). University of New South Wales. Archived (PDF) from the original on 10 May 2017. Retrieved 10 May 2017.
 
-^ \"Indonesia's Rising Divide\". World Bank. 7 December 2015. Archived from the original on 14 December 2016. Retrieved 14 December 2016.
+^ "Indonesia's Rising Divide". World Bank. 7 December 2015. Archived from the original on 14 December 2016. Retrieved 14 December 2016.
 
-^ \"Indonesia: The population of Chinese Indonesians and Chinese Christians in the Sulawesi provinces and the cities of Medan and Banda Aceh; incidents of violence and state protection available\" (PDF). Immigration and Refugee Board of Canada. 17 March 2010. Archived (PDF) from the original on 10 October 2017. Retrieved 10 October 2017.
+^ "Indonesia: The population of Chinese Indonesians and Chinese Christians in the Sulawesi provinces and the cities of Medan and Banda Aceh; incidents of violence and state protection available" (PDF). Immigration and Refugee Board of Canada. 17 March 2010. Archived (PDF) from the original on 10 October 2017. Retrieved 10 October 2017.
 
-^ Setijadi, Charlotte (17 March 2016). \"Ethnic Chinese in Contemporary Indonesia: Changing Identity Politics and the Paradox of Sinification\". ISEAS Perspective. 12 (2016). ISSN 2335-6677.
+^ Setijadi, Charlotte (17 March 2016). "Ethnic Chinese in Contemporary Indonesia: Changing Identity Politics and the Paradox of Sinification". ISEAS Perspective. 12 (2016). ISSN 2335-6677.
 
-^ Walden, Max (May 2018). \"Tolerance and terror: Islam in Indonesia's Reformasi era\". Asian Correspondent. Archived from the original on 28 November 2019. Retrieved 28 November 2019.
+^ Walden, Max (May 2018). "Tolerance and terror: Islam in Indonesia's Reformasi era". Asian Correspondent. Archived from the original on 28 November 2019. Retrieved 28 November 2019.
 
-^ Knight, Kyle (27 January 2016). \"Dispatches: LGBT Backlash in Indonesia\". Human Rights Watch. Archived from the original on 31 January 2017. Retrieved 31 January 2017.
+^ Knight, Kyle (27 January 2016). "Dispatches: LGBT Backlash in Indonesia". Human Rights Watch. Archived from the original on 31 January 2017. Retrieved 31 January 2017.
 
-^ \"Indonesia's Aceh: Two gay men sentenced to 85 lashes\". BBC. 17 May 2017. Archived from the original on 23 August 2017. Retrieved 7 April 2018.
+^ "Indonesia's Aceh: Two gay men sentenced to 85 lashes". BBC. 17 May 2017. Archived from the original on 23 August 2017. Retrieved 7 April 2018.
 
-^ Harvey, Adam (7 February 2018). \"UN rights chief warns 'intolerance' and political extremism making inroads in Indonesia\". ABC News. Archived from the original on 10 February 2018. Retrieved 21 April 2018.
+^ Harvey, Adam (7 February 2018). "UN rights chief warns 'intolerance' and political extremism making inroads in Indonesia". ABC News. Archived from the original on 10 February 2018. Retrieved 21 April 2018.
 
-^ a b Forshee, Jill (2006). \"Culture and Customs of Indonesia\" (PDF). Greenwood Press. Archived from the original (PDF) on 10 October 2017. Retrieved 10 October 2017.
+^ a b Forshee, Jill (2006). "Culture and Customs of Indonesia" (PDF). Greenwood Press. Archived from the original (PDF) on 10 October 2017. Retrieved 10 October 2017.
 
-^ Henley, David (2015). \"Indonesia\". The Wiley Blackwell Encyclopedia of Race, Ethnicity, and Nationalism. The Wiley Blackwell Encyclopedia of Race, Ethnicity, and Nationalism. John Wiley Sons, Inc. pp. 1–7. doi:10.1002/9781118663202.wberen460. ISBN 978-1-118-66320-2.
+^ Henley, David (2015). "Indonesia". The Wiley Blackwell Encyclopedia of Race, Ethnicity, and Nationalism. The Wiley Blackwell Encyclopedia of Race, Ethnicity, and Nationalism. John Wiley Sons, Inc. pp. 1–7. doi:10.1002/9781118663202.wberen460. ISBN 978-1-118-66320-2.
 
-^ \"Indonesian Batik\". UNESCO. 2009. Retrieved 12 October 2014.
+^ "Indonesian Batik". UNESCO. 2009. Retrieved 12 October 2014.
 
-^ \"Indonesia – Intangible heritage, cultural sector\". UNESCO. Retrieved 14 December 2019.
+^ "Indonesia – Intangible heritage, cultural sector". UNESCO. Retrieved 14 December 2019.
 
-^ \"Indonesian Arts and Crafts\". Living in Indonesia: A site for expats. Archived from the original on 27 December 2016. Retrieved 27 December 2016.
+^ "Indonesian Arts and Crafts". Living in Indonesia: A site for expats. Archived from the original on 27 December 2016. Retrieved 27 December 2016.
 
-^ Forge, Anthony (1978). \"Balinese Traditional Paintings\" (PDF). The Australian Museum. Archived (PDF) from the original on 20 December 2016. Retrieved 20 December 2016.
+^ Forge, Anthony (1978). "Balinese Traditional Paintings" (PDF). The Australian Museum. Archived (PDF) from the original on 20 December 2016. Retrieved 20 December 2016.
 
-^ \"Indonesian Culture; Arts and Tradition\". Embassy of Indonesia, Athens. 30 September 2010. Archived from the original on 26 December 2016. Retrieved 26 December 2016.
+^ "Indonesian Culture; Arts and Tradition". Embassy of Indonesia, Athens. 30 September 2010. Archived from the original on 26 December 2016. Retrieved 26 December 2016.
 
 ^ Violence and Serenity: Late Buddhist Sculpture from Indonesia ISBN 978-0-8248-2924-7 p. 113
 
 ^ Archaeology: Indonesian Perspective : R.P. Soejono's Festschrift ISBN 979-26-2499-6 pp. 298–299
 
-^ \"Borobudur Temple Compounds\". UNESCO World Heritage Centre. Archived from the original on 10 October 2017. Retrieved 10 October 2017.
+^ "Borobudur Temple Compounds". UNESCO World Heritage Centre. Archived from the original on 10 October 2017. Retrieved 10 October 2017.
 
 ^ Reimar Schefold; P. Nas; Gaudenz Domenig, eds. (2004). Indonesian Houses: Tradition and Transformation in Vernacular Architecture. NUS Press. p. 5. ISBN 978-9971-69-292-6.
 
 ^ Harnish, David; Rasmussen, Anne, eds. (2011). Divine Inspirations: Music and Islam in Indonesia. Oxford University Press.
 
-^ \"'Keroncong': Freedom music from Portuguese descendants\". The Jakarta Post. 16 June 2011. Archived from the original on 23 September 2015. Retrieved 23 September 2015.
+^ "'Keroncong': Freedom music from Portuguese descendants". The Jakarta Post. 16 June 2011. Archived from the original on 23 September 2015. Retrieved 23 September 2015.
 
 ^ Heryanto, Ariel (2008). Popular Culture in Indonesia: Fluid Identities in Post-Authoritarian Politics. Routledge.
 
-^ \"Indonesia Tourism : The Dance and Theater in the Archipelago\". Indonesia Tourism. Archived from the original on 24 November 2010. Retrieved 24 November 2010.
+^ "Indonesia Tourism : The Dance and Theater in the Archipelago". Indonesia Tourism. Archived from the original on 24 November 2010. Retrieved 24 November 2010.
 
-^ Ziyi, Xia (16 November 2011). \"Cultural feast at ASEAN Fair\". Xinhua. Archived from the original on 19 December 2011.
+^ Ziyi, Xia (16 November 2011). "Cultural feast at ASEAN Fair". Xinhua. Archived from the original on 19 December 2011.
 
 ^ a b Jill Forshee, Culture and customs of Indonesia, Greenwood Publishing Group: 2006: ISBN 0-313-33339-4. 237 pp.
 
-^ \"Traditions, Wayang Wong Priangan: Dance Drama of West Java\" (PDF). 2004. Archived (PDF) from the original on 10 October 2017. Retrieved 10 October 2017.
+^ "Traditions, Wayang Wong Priangan: Dance Drama of West Java" (PDF). 2004. Archived (PDF) from the original on 10 October 2017. Retrieved 10 October 2017.
 
-^ José, Maceda. \"Southeast Asian arts\". Encyclopædia Britannica. Archived from the original on 20 April 2016. Retrieved 20 April 2016.
+^ José, Maceda. "Southeast Asian arts". Encyclopædia Britannica. Archived from the original on 20 April 2016. Retrieved 20 April 2016.
 
-^ Dewangga, Kusuma (10 November 2013). \"Ketoprak: Javanese Folk Art (Part 1 of 2)\". Indonesia's Global Portal. Archived from the original on 13 November 2013. Retrieved 13 November 2013.
+^ Dewangga, Kusuma (10 November 2013). "Ketoprak: Javanese Folk Art (Part 1 of 2)". Indonesia's Global Portal. Archived from the original on 13 November 2013. Retrieved 13 November 2013.
 
-^ \"Indonesia – Theatre and Dance\". Encyclopædia Britannica. Archived from the original on 29 June 2016. Retrieved 29 June 2016.
+^ "Indonesia – Theatre and Dance". Encyclopædia Britannica. Archived from the original on 29 June 2016. Retrieved 29 June 2016.
 
-^ Pauka, Kirstin (1998). \"The Daughters Take Over? Female Performers in Randai Theatre\". The Drama Review. 42 (1): 113–121. doi:10.1162/105420498760308706.
+^ Pauka, Kirstin (1998). "The Daughters Take Over? Female Performers in Randai Theatre". The Drama Review. 42 (1): 113–121. doi:10.1162/105420498760308706.
 
-^ a b \"Randai (Indonesian folk theater form, uses silat)\". MIT Global Shakespeares.
+^ a b "Randai (Indonesian folk theater form, uses silat)". MIT Global Shakespeares.
 
-^ Hatley, Barbara (13 November 2017). \"Review: Indonesian post-colonial theatre\". Inside Indonesia. Archived from the original on 21 December 2017. Retrieved 21 December 2017.
+^ Hatley, Barbara (13 November 2017). "Review: Indonesian post-colonial theatre". Inside Indonesia. Archived from the original on 21 December 2017. Retrieved 21 December 2017.
 
-^ a b Sitorus, Rina (30 November 2017). \"The Reformation of Indonesian Film\". The Culture Trip. Archived from the original on 22 November 2019. Retrieved 22 November 2019.
+^ a b Sitorus, Rina (30 November 2017). "The Reformation of Indonesian Film". The Culture Trip. Archived from the original on 22 November 2019. Retrieved 22 November 2019.
 
-^ \"Today Is the 97th Birthday of the Father of Indonesian Cinema. Here's What You Should Know About Usmar Ismail\". TIME. 20 March 2018. Archived from the original on 9 April 2019. Retrieved 20 November 2019.
+^ "Today Is the 97th Birthday of the Father of Indonesian Cinema. Here's What You Should Know About Usmar Ismail". TIME. 20 March 2018. Archived from the original on 9 April 2019. Retrieved 20 November 2019.
 
 ^ a b Sen, Krishna (2006). Giecko, Anne Tereska (ed.). Contemporary Asian Cinema, Indonesia: Screening a Nation in the Post-New Order. Oxford/New York: Berg. pp. 96–107. ISBN 978-1-84520-237-8.
 
-^ Kristianto, JB (2 July 2005). \"The Last 10 Years of Indonesia's Film Industry\". Kompas (in Indonesian). Archived from the original on 13 January 2008. Retrieved 13 October 2008.
+^ Kristianto, JB (2 July 2005). "The Last 10 Years of Indonesia's Film Industry". Kompas (in Indonesian). Archived from the original on 13 January 2008. Retrieved 13 October 2008.
 
-^ Lee, Maggie (21 May 2017). \"World Notices Indonesian Film Resurgence\". Variety. Archived from the original on 24 November 2017. Retrieved 7 April 2018.
+^ Lee, Maggie (21 May 2017). "World Notices Indonesian Film Resurgence". Variety. Archived from the original on 24 November 2017. Retrieved 7 April 2018.
 
 ^ Shannon L., Smith; Lloyd Grayson J. (2001). Indonesia Today: Challenges of History. Melbourne: Singapore : Institute of Southeast Asian Studies. ISBN 978-0-7425-1761-5.
 
-^ a b Frederick, William H; Worden, Robert L., eds. (2011). \"Indonesia: A country study\" (PDF). Library of Congress, Federal Research Division. Archived (PDF) from the original on 15 March 2015. Retrieved 15 March 2015. This article incorporates text from this source, which is in the public domain.
+^ a b Frederick, William H; Worden, Robert L., eds. (2011). "Indonesia: A country study" (PDF). Library of Congress, Federal Research Division. Archived (PDF) from the original on 15 March 2015. Retrieved 15 March 2015. This article incorporates text from this source, which is in the public domain.
 
-^ Jennifer Yang Hui (2 December 2009). \"The Internet in Indonesia: Development and Impact of Radical Websites\" (PDF). Routledge. Archived (PDF) from the original on 12 December 2017. Retrieved 12 December 2017.
+^ Jennifer Yang Hui (2 December 2009). "The Internet in Indonesia: Development and Impact of Radical Websites" (PDF). Routledge. Archived (PDF) from the original on 12 December 2017. Retrieved 12 December 2017.
 
-^ \"Indonesia has 171 million internet users: Study\". The Jakarta Post. 19 May 2019. Archived from the original on 5 June 2019. Retrieved 26 July 2019.
+^ "Indonesia has 171 million internet users: Study". The Jakarta Post. 19 May 2019. Archived from the original on 5 June 2019. Retrieved 26 July 2019.
 
-^ Ai Lei Tao (25 April 2016). \"Indonesian internet users turn to smartphones to go online\". Computer Weekly. Archived from the original on 10 October 2017. Retrieved 10 October 2017.
+^ Ai Lei Tao (25 April 2016). "Indonesian internet users turn to smartphones to go online". Computer Weekly. Archived from the original on 10 October 2017. Retrieved 10 October 2017.
 
-^ Templer, Robert (20 June 1999). \"Pramoedya\". Prospect. Archived from the original on 29 August 2019. Retrieved 29 August 2019.
+^ Templer, Robert (20 June 1999). "Pramoedya". Prospect. Archived from the original on 29 August 2019. Retrieved 29 August 2019.
 
-^ Czermak, Karin; Delanghe, Philippe; Weng, Wei. \"Preserving intangible cultural heritage in Indonesia\" (PDF). SIL International. Archived (PDF) from the original on 9 July 2007. Retrieved 9 July 2007.
+^ Czermak, Karin; Delanghe, Philippe; Weng, Wei. "Preserving intangible cultural heritage in Indonesia" (PDF). SIL International. Archived (PDF) from the original on 9 July 2007. Retrieved 9 July 2007.
 
 ^ Nursisto (2000). Ikhtisar Kesusastraan Indonesia: dari pantun, bidal, gurindam hingga puisi kontemporer : dari dongeng, hikayat, roman hingga cerita pendek dan novel. Adicita. ISBN 978-979-9246-28-8.
 
@@ -1448,33 +1446,33 @@ References
 
 ^ Seong Chee Tham (1981). Essays on Literature and Society in Southeast Asia: Political and Sociological Perspectives. Kent Ridge, Singapore: Singapore University Press. p. 99. ISBN 978-9971-69-036-6.
 
-^ a b Boediman, Manneke (14 October 2015). \"An Introduction to the Literature of Indonesia, 2015 Frankfurt Book Fair's Guest of Honor\". Jakarta Globe. Archived from the original on 26 June 2020. Retrieved 26 June 2020.
+^ a b Boediman, Manneke (14 October 2015). "An Introduction to the Literature of Indonesia, 2015 Frankfurt Book Fair's Guest of Honor". Jakarta Globe. Archived from the original on 26 June 2020. Retrieved 26 June 2020.
 
-^ Doughty, Louis (28 May 2016). \"'17,000 islands of imagination': discovering Indonesian literature\". The Guardian. Archived from the original on 29 May 2016. Retrieved 26 June 2020.
+^ Doughty, Louis (28 May 2016). "'17,000 islands of imagination': discovering Indonesian literature". The Guardian. Archived from the original on 29 May 2016. Retrieved 26 June 2020.
 
-^ \"About Indonesian food\". Special Broadcasting Service. 13 May 2015. Archived from the original on 21 May 2015. Retrieved 21 May 2015.
+^ "About Indonesian food". Special Broadcasting Service. 13 May 2015. Archived from the original on 21 May 2015. Retrieved 21 May 2015.
 
 ^ Witton, Patrick (2002). World Food: Indonesia. Melbourne: Lonely Planet. ISBN 978-1-74059-009-9.
 
 ^ Compared to the infused flavors of Vietnamese and Thai food, flavors in Indonesia are kept relatively separate, simple and substantial. Brissendon, Rosemary (2003). South East Asian Food. Melbourne: Hardie Grant Books. ISBN 978-1-74066-013-6.
 
-^ Natahadibrata, Nadya (10 February 2014). \"Celebratory rice cone dish to represent the archipelago\". The Jakarta Post. Archived from the original on 14 July 2014. Retrieved 14 July 2014.
+^ Natahadibrata, Nadya (10 February 2014). "Celebratory rice cone dish to represent the archipelago". The Jakarta Post. Archived from the original on 14 July 2014. Retrieved 14 July 2014.
 
-^ Cheung, Tim (12 July 2017). \"Your pick: World's 50 best foods\". CNN Travel. Archived from the original on 11 October 2017. Retrieved 11 October 2017.
+^ Cheung, Tim (12 July 2017). "Your pick: World's 50 best foods". CNN Travel. Archived from the original on 11 October 2017. Retrieved 11 October 2017.
 
 ^ Witton 2003, p. 103.
 
 ^ Alex Monnig, World Cup, 2013
 
-^ \"History of Basketball in Indonesia\". National Basketball League Indonesia. Archived from the original on 8 September 2016. Retrieved 8 September 2016.
+^ "History of Basketball in Indonesia". National Basketball League Indonesia. Archived from the original on 8 September 2016. Retrieved 8 September 2016.
 
-^ Widazulfia, Fahmiranti (3 May 2015). \"7 Boxing World Champions from Indonesia\" (in Indonesian). Good News from Indonesia. Archived from the original on 8 July 2015. Retrieved 8 July 2015.
+^ Widazulfia, Fahmiranti (3 May 2015). "7 Boxing World Champions from Indonesia" (in Indonesian). Good News from Indonesia. Archived from the original on 8 July 2015. Retrieved 8 July 2015.
 
-^ Baldwin, Alan (18 February 2016). \"Haryanto becomes Indonesia's first F1 driver\". Reuters. Archived from the original on 27 December 2016. Retrieved 27 December 2016.
+^ Baldwin, Alan (18 February 2016). "Haryanto becomes Indonesia's first F1 driver". Reuters. Archived from the original on 27 December 2016. Retrieved 27 December 2016.
 
 Bibliography
 
-Earl, George SW (1850). \"On the Leading Characteristics of the Papuan, Australian and Malay-Polynesian Nations\". Journal of the Indian Archipelago and Eastern Asia (JIAEA). 4.CS1 maint: ref=harv (link)
+Earl, George SW (1850). "On the Leading Characteristics of the Papuan, Australian and Malay-Polynesian Nations". Journal of the Indian Archipelago and Eastern Asia (JIAEA). 4.CS1 maint: ref=harv (link)
 
 Frederick, William H.; Worden, Robert L., eds. (2011). Indonesia: A Country Study (6 ed.). Washington, D.C.: Library of Congress, Federal Research Division. ISBN 978-0-8444-0790-6.
 
@@ -1512,7 +1510,7 @@ Resources from Wikiversity
 
 Data from Wikidata
 
-\"Indonesia\". The World Factbook. Central Intelligence Agency.
+"Indonesia". The World Factbook. Central Intelligence Agency.
 
 Indonesia from the BBC News
 
@@ -2482,7 +2480,7 @@ Rights of Women
 Other 
 Common Time
 
-\"ASEAN Rise\"
+"ASEAN Rise"
 
 EU relations
 
@@ -2703,7 +2701,7 @@ Non-Aligned Movement
 
 United Nations
 
-1 As the \"Turkish Cypriot State\".
+1 As the "Turkish Cypriot State".
 
 v
 
@@ -2832,7 +2830,7 @@ APEC Sculpture Garden
 
 APEC Youth Science Festival
 
-1. A special administrative region of China, participates as \"Hong Kong, China\"; 2. Officially the Republic of China, as known as Taiwan, participates as \"Chinese Taipei\"
+1. A special administrative region of China, participates as "Hong Kong, China"; 2. Officially the Republic of China, as known as Taiwan, participates as "Chinese Taipei"
 
 v
 
@@ -2974,6 +2972,3 @@ SUDOC: 026385864
 VIAF: 125405737
 
  WorldCat Identities: lccn-n80083633
-
-"
-

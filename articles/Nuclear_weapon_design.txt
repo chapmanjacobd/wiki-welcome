@@ -8,7 +8,7 @@ pure fission weapons, the simplest and least technically demanding, were the fir
 
 boosted fission weapons increase yield beyond that of the implosion design by using small quantities of fusion fuel to enhance the fission chain reaction. Boosting can more than double the weapon's fission energy yield.
 
-staged thermonuclear weapons are essentially arrangements of two or more \"stages\", most usually two. The first stage is always a boosted fission weapon as above. Its detonation causes it to shine intensely with x-radiation, which illuminates and implodes the second stage filled with a large quantity of fusion fuel. This sets in motion a sequence of events which results in a thermonuclear, or fusion, burn. This process affords potential yields up to hundreds of times those of fission weapons.
+staged thermonuclear weapons are essentially arrangements of two or more "stages", most usually two. The first stage is always a boosted fission weapon as above. Its detonation causes it to shine intensely with x-radiation, which illuminates and implodes the second stage filled with a large quantity of fusion fuel. This sets in motion a sequence of events which results in a thermonuclear, or fusion, burn. This process affords potential yields up to hundreds of times those of fission weapons.
 
 A fourth type, pure fusion weapons, is a theoretical possibility. Such weapons would produce far fewer radioactive byproducts than current designs, although they would release huge numbers of neutrons.
 
@@ -252,7 +252,7 @@ Pure fission weapons
 
 The first task of a nuclear weapon design is to rapidly assemble a supercritical mass of fissile uranium or plutonium. A supercritical mass is one in which the percentage of fission-produced neutrons captured by another fissile nucleus is large enough that each fission event, on average, causes more than one additional fission event.
 
-Once the critical mass is assembled, at maximum density, a burst of neutrons is supplied to start as many chain reactions as possible. Early weapons used a modulated neutron generator codenamed \"Urchin\" inside the pit containing polonium-210 and beryllium separated by a thin barrier. Implosion of the pit crushed the neutron generator, mixing the two metals, thereby allowing alpha particles from the polonium to interact with beryllium to produce free neutrons. In modern weapons, the neutron generator is a high-voltage vacuum tube containing a particle accelerator which bombards a deuterium/tritium-metal hydride target with deuterium and tritium ions. The resulting small-scale fusion produces neutrons at a protected location outside the physics package, from which they penetrate the pit. This method allows better control of the timing of chain reaction initiation.
+Once the critical mass is assembled, at maximum density, a burst of neutrons is supplied to start as many chain reactions as possible. Early weapons used a modulated neutron generator codenamed "Urchin" inside the pit containing polonium-210 and beryllium separated by a thin barrier. Implosion of the pit crushed the neutron generator, mixing the two metals, thereby allowing alpha particles from the polonium to interact with beryllium to produce free neutrons. In modern weapons, the neutron generator is a high-voltage vacuum tube containing a particle accelerator which bombards a deuterium/tritium-metal hydride target with deuterium and tritium ions. The resulting small-scale fusion produces neutrons at a protected location outside the physics package, from which they penetrate the pit. This method allows better control of the timing of chain reaction initiation.
 
 The critical mass of an uncompressed sphere of bare metal is 50 kg (110 lb) for uranium-235 and 16 kg (35 lb) for delta-phase plutonium-239. In practical applications, the amount of material required for criticality is modified by shape, purity, density, and the proximity to neutron-reflecting material, all of which affect the escape or capture of neutrons.
 
@@ -272,7 +272,7 @@ The inefficiency was caused by the speed with which the uncompressed fissioning 
 
 Implosion-type weapon
 
-For both the Trinity device and the Fat Man, the Nagasaki bomb, nearly identical plutonium fission through implosion designs were used. The Fat Man device specifically used 6.2 kg (14 lb), about 350 ml or 12 US fl oz in volume, of Pu-239, which is only 41% of bare-sphere critical mass. (See Fat Man article for a detailed drawing.) Surrounded by a U-238 reflector/tamper, the Fat Man's pit was brought close to critical mass by the neutron-reflecting properties of the U-238. During detonation, criticality was achieved by implosion. The plutonium pit was squeezed to increase its density by simultaneous detonation, as with the \"Trinity\" test detonation three weeks earlier, of the conventional explosives placed uniformly around the pit. The explosives were detonated by multiple exploding-bridgewire detonators. It is estimated that only about 20% of the plutonium underwent fission; the rest, about 5 kg (11 lb), was scattered.
+For both the Trinity device and the Fat Man, the Nagasaki bomb, nearly identical plutonium fission through implosion designs were used. The Fat Man device specifically used 6.2 kg (14 lb), about 350 ml or 12 US fl oz in volume, of Pu-239, which is only 41% of bare-sphere critical mass. (See Fat Man article for a detailed drawing.) Surrounded by a U-238 reflector/tamper, the Fat Man's pit was brought close to critical mass by the neutron-reflecting properties of the U-238. During detonation, criticality was achieved by implosion. The plutonium pit was squeezed to increase its density by simultaneous detonation, as with the "Trinity" test detonation three weeks earlier, of the conventional explosives placed uniformly around the pit. The explosives were detonated by multiple exploding-bridgewire detonators. It is estimated that only about 20% of the plutonium underwent fission; the rest, about 5 kg (11 lb), was scattered.
 
 Flash X-Ray images of the converging shock waves formed during a test of the high explosive lens system.
 
@@ -340,7 +340,7 @@ There are similar drawings in the open literature from the French program, which
 
 The mechanism of the high explosive lens (diagram item #6) is not shown in the Swedish drawing, but a standard lens made of fast and slow high explosives, as in Fat Man, would be much longer than the shape depicted. For a single high explosive lens to generate a concave wave that envelops an entire hemisphere, it must either be very long or the part of the wave on a direct line from the detonator to the pit must be slowed dramatically.
 
-A slow high explosive is too fast, but the flying plate of an \"air lens\" is not. A metal plate, shock-deformed and pushed across an empty space, can be designed to move slowly enough. A two-point implosion system using air lens technology can have a length no more than twice its diameter, as in the Swedish diagram above.
+A slow high explosive is too fast, but the flying plate of an "air lens" is not. A metal plate, shock-deformed and pushed across an empty space, can be designed to move slowly enough. A two-point implosion system using air lens technology can have a length no more than twice its diameter, as in the Swedish diagram above.
 
 Fusion-boosted fission weapons
 
@@ -388,7 +388,7 @@ The entire fusion fuel canister would need to be enveloped by fission energy, to
 
 The concept of radiation implosion was first tested on May 9, 1951, in the George shot of Operation Greenhouse, Eniwetok, yield 225 kilotons. The first full test was on November 1, 1952, the Mike shot of Operation Ivy, Eniwetok, yield 10.4 megatons.
 
-In radiation implosion, the burst of X-ray energy coming from an exploding primary is captured and contained within an opaque-walled radiation channel which surrounds the nuclear energy components of the secondary. The radiation quickly turns the plastic foam that had been filling the channel into a plasma which is mostly transparent to X-rays, and the radiation is absorbed in the outermost layers of the pusher/tamper surrounding the secondary, which ablates and applies a massive force (much like an inside out rocket engine) causing the fusion fuel capsule to implode much like the pit of the primary. As the secondary implodes a fissile \"spark plug\" at its center ignites and provides neutrons and heat which enable the lithium deuteride fusion fuel to produce tritium and ignite as well. The fission and fusion chain reactions exchange neutrons with each other and boost the efficiency of both reactions. The greater implosive force, enhanced efficiency of the fissile \"spark plug\" due to boosting via fusion neutrons, and the fusion explosion itself provide significantly greater explosive yield from the secondary despite often not being much larger than the primary.
+In radiation implosion, the burst of X-ray energy coming from an exploding primary is captured and contained within an opaque-walled radiation channel which surrounds the nuclear energy components of the secondary. The radiation quickly turns the plastic foam that had been filling the channel into a plasma which is mostly transparent to X-rays, and the radiation is absorbed in the outermost layers of the pusher/tamper surrounding the secondary, which ablates and applies a massive force (much like an inside out rocket engine) causing the fusion fuel capsule to implode much like the pit of the primary. As the secondary implodes a fissile "spark plug" at its center ignites and provides neutrons and heat which enable the lithium deuteride fusion fuel to produce tritium and ignite as well. The fission and fusion chain reactions exchange neutrons with each other and boost the efficiency of both reactions. The greater implosive force, enhanced efficiency of the fissile "spark plug" due to boosting via fusion neutrons, and the fusion explosion itself provide significantly greater explosive yield from the secondary despite often not being much larger than the primary.
 
 Ablation mechanism firing sequence. Warhead before firing. The nested spheres at the top are the fission primary; the cylinders below are the fusion secondary device.
 
@@ -412,13 +412,13 @@ In engineering terms, radiation implosion allows for the exploitation of several
 
 The optimal way to store deuterium in a reasonably dense state is to chemically bond it with lithium, as lithium deuteride. But the lithium-6 isotope is also the raw material for tritium production, and an exploding bomb is a nuclear reactor. Radiation implosion will hold everything together long enough to permit the complete conversion of lithium-6 into tritium, while the bomb explodes. So the bonding agent for deuterium permits use of the D-T fusion reaction without any pre-manufactured tritium being stored in the secondary. The tritium production constraint disappears.
 
-For the secondary to be imploded by the hot, radiation-induced plasma surrounding it, it must remain cool for the first microsecond, i.e., it must be encased in a massive radiation (heat) shield. The shield's massiveness allows it to double as a tamper, adding momentum and duration to the implosion. No material is better suited for both of these jobs than ordinary, cheap uranium-238, which also happens to undergo fission when struck by the neutrons produced by D-T fusion. This casing, called the pusher, thus has three jobs: to keep the secondary cool; to hold it, inertially, in a highly compressed state; and, finally, to serve as the chief energy source for the entire bomb. The consumable pusher makes the bomb more a uranium fission bomb than a hydrogen fusion bomb. Insiders never used the term \"hydrogen bomb\".
+For the secondary to be imploded by the hot, radiation-induced plasma surrounding it, it must remain cool for the first microsecond, i.e., it must be encased in a massive radiation (heat) shield. The shield's massiveness allows it to double as a tamper, adding momentum and duration to the implosion. No material is better suited for both of these jobs than ordinary, cheap uranium-238, which also happens to undergo fission when struck by the neutrons produced by D-T fusion. This casing, called the pusher, thus has three jobs: to keep the secondary cool; to hold it, inertially, in a highly compressed state; and, finally, to serve as the chief energy source for the entire bomb. The consumable pusher makes the bomb more a uranium fission bomb than a hydrogen fusion bomb. Insiders never used the term "hydrogen bomb".
 
 Finally, the heat for fusion ignition comes not from the primary but from a second fission bomb called the spark plug, embedded in the heart of the secondary. The implosion of the secondary implodes this spark plug, detonating it and igniting fusion in the material around it, but the spark plug then continues to fission in the neutron-rich environment until it is fully consumed, adding significantly to the yield.
 
 The initial impetus behind the two-stage weapon was President Truman's 1950 promise to build a 10-megaton hydrogen superbomb as the U.S. response to the 1949 test of the first Soviet fission bomb. But the resulting invention turned out to be the cheapest and most compact way to build small nuclear bombs as well as large ones, erasing any meaningful distinction between A-bombs and H-bombs, and between boosters and supers. All preferred techniques for fission and fusion explosions are incorporated into one all-encompassing, fully scalable design principle. Even 6-inch (150 mm) diameter nuclear artillery shells can be two-stage thermonuclears.
 
-In the ensuing fifty years, nobody has come up with a more efficient way to build a nuclear bomb. It is the design of choice for the United States, Russia, the United Kingdom, China, and France, the five thermonuclear powers. On 3 September 2017 North Korea carried out what it reported as its first \"two-stage thermo-nuclear weapon\" test. According to Dr. Theodore Taylor, after reviewing leaked photographs of disassembled weapons components taken before 1986, Israel possessed boosted weapons and would require supercomputers of that era to advance further toward full two-stage weapons in the megaton range without nuclear test detonations. The other nuclear-armed nations, India and Pakistan, probably have single-stage weapons, possibly boosted.
+In the ensuing fifty years, nobody has come up with a more efficient way to build a nuclear bomb. It is the design of choice for the United States, Russia, the United Kingdom, China, and France, the five thermonuclear powers. On 3 September 2017 North Korea carried out what it reported as its first "two-stage thermo-nuclear weapon" test. According to Dr. Theodore Taylor, after reviewing leaked photographs of disassembled weapons components taken before 1986, Israel possessed boosted weapons and would require supercomputers of that era to advance further toward full two-stage weapons in the megaton range without nuclear test detonations. The other nuclear-armed nations, India and Pakistan, probably have single-stage weapons, possibly boosted.
 
 Interstage
 
@@ -426,9 +426,9 @@ In a two-stage thermonuclear weapon the energy from the primary impacts the seco
 
 W76 Neutron Tubes in a Gun Carriage Style Fixture
 
-There is very little information in the open literature about the mechanism of the interstage. Its first mention in a U.S. government document formally released to the public appears to be a caption in a graphic promoting the Reliable Replacement Warhead Program in 2007. If built, this new design would replace \"toxic, brittle material\" and \"expensive 'special' material\" in the interstage. This statement suggests the interstage may contain beryllium to moderate the flux of neutrons from the primary, and perhaps something to absorb and re-radiate the x-rays in a particular manner. There is also some speculation that this interstage material, which may be code-named FOGBANK, might be an aerogel, possibly doped with beryllium and/or other substances.
+There is very little information in the open literature about the mechanism of the interstage. Its first mention in a U.S. government document formally released to the public appears to be a caption in a graphic promoting the Reliable Replacement Warhead Program in 2007. If built, this new design would replace "toxic, brittle material" and "expensive 'special' material" in the interstage. This statement suggests the interstage may contain beryllium to moderate the flux of neutrons from the primary, and perhaps something to absorb and re-radiate the x-rays in a particular manner. There is also some speculation that this interstage material, which may be code-named FOGBANK, might be an aerogel, possibly doped with beryllium and/or other substances.
 
-The interstage and the secondary are encased together inside a stainless steel membrane to form the canned subassembly (CSA), an arrangement which has never been depicted in any open-source drawing. The most detailed illustration of an interstage shows a British thermonuclear weapon with a cluster of items between its primary and a cylindrical secondary. They are labeled \"end-cap and neutron focus lens\", \"reflector/neutron gun carriage\", and \"reflector wrap\". The origin of the drawing, posted on the internet by Greenpeace, is uncertain, and there is no accompanying explanation.
+The interstage and the secondary are encased together inside a stainless steel membrane to form the canned subassembly (CSA), an arrangement which has never been depicted in any open-source drawing. The most detailed illustration of an interstage shows a British thermonuclear weapon with a cluster of items between its primary and a cylindrical secondary. They are labeled "end-cap and neutron focus lens", "reflector/neutron gun carriage", and "reflector wrap". The origin of the drawing, posted on the internet by Greenpeace, is uncertain, and there is no accompanying explanation.
 
 Specific designs
 
@@ -444,7 +444,7 @@ The idea of the hydrogen bomb first came to public attention in 1949, when promi
 
 In 1952, the 10.4-megaton Ivy Mike explosion was announced as the first hydrogen bomb test, reinforcing the idea that hydrogen bombs are a thousand times more powerful than fission bombs.
 
-In 1954, J. Robert Oppenheimer was labeled a hydrogen bomb opponent. The public did not know there were two kinds of hydrogen bomb (neither of which is accurately described as a hydrogen bomb). On May 23, when his security clearance was revoked, item three of the four public findings against him was \"his conduct in the hydrogen bomb program.\" In 1949, Oppenheimer had supported single-stage fusion-boosted fission bombs, to maximize the explosive power of the arsenal given the trade-off between plutonium and tritium production. He opposed two-stage thermonuclear bombs until 1951, when radiation implosion, which he called \"technically sweet\", first made them practical. The complexity of his position was not revealed to the public until 1976, nine years after his death.
+In 1954, J. Robert Oppenheimer was labeled a hydrogen bomb opponent. The public did not know there were two kinds of hydrogen bomb (neither of which is accurately described as a hydrogen bomb). On May 23, when his security clearance was revoked, item three of the four public findings against him was "his conduct in the hydrogen bomb program." In 1949, Oppenheimer had supported single-stage fusion-boosted fission bombs, to maximize the explosive power of the arsenal given the trade-off between plutonium and tritium production. He opposed two-stage thermonuclear bombs until 1951, when radiation implosion, which he called "technically sweet", first made them practical. The complexity of his position was not revealed to the public until 1976, nine years after his death.
 
 When ballistic missiles replaced bombers in the 1960s, most multi-megaton bombs were replaced by missile warheads (also two-stage thermonuclears) scaled down to one megaton or less.
 
@@ -452,7 +452,7 @@ Alarm Clock/Sloika
 
 The first effort to exploit the symbiotic relationship between fission and fusion was a 1940s design that mixed fission and fusion fuel in alternating thin layers. As a single-stage device, it would have been a cumbersome application of boosted fission. It first became practical when incorporated into the secondary of a two-stage thermonuclear weapon.
 
-The U.S. name, Alarm Clock, came from Teller: he called it that because it might \"wake up the world\" to the possibility of the potential of the Super. The Russian name for the same design was more descriptive: Sloika (Russian: Слойка), a layered pastry cake. A single-stage Soviet Sloika was tested on August 12, 1953. No single-stage U.S. version was tested, but the Union shot of Operation Castle, April 26, 1954, was a two-stage thermonuclear device code-named Alarm Clock. Its yield, at Bikini, was 6.9 megatons.
+The U.S. name, Alarm Clock, came from Teller: he called it that because it might "wake up the world" to the possibility of the potential of the Super. The Russian name for the same design was more descriptive: Sloika (Russian: Слойка), a layered pastry cake. A single-stage Soviet Sloika was tested on August 12, 1953. No single-stage U.S. version was tested, but the Union shot of Operation Castle, April 26, 1954, was a two-stage thermonuclear device code-named Alarm Clock. Its yield, at Bikini, was 6.9 megatons.
 
 Because the Soviet Sloika test used dry lithium-6 deuteride eight months before the first U.S. test to use it (Castle Bravo, March 1, 1954), it was sometimes claimed that the USSR won the H-bomb race, even though the United States tested and developed the first hydrogen bomb: the Ivy Mike H-bomb test. The 1952 U.S. Ivy Mike test used cryogenically cooled liquid deuterium as the fusion fuel in the secondary, and employed the D-D fusion reaction. However, the first Soviet test to use a radiation-imploded secondary, the essential feature of a true H-bomb, was on November 23, 1955, three years after Ivy Mike. In fact, real work on the implosion scheme in the Soviet Union only commenced in the very early part of 1953, several months after the successful testing of Sloika.
 
@@ -462,11 +462,11 @@ Bassoon, the prototype for a 9.3-megaton clean bomb or a 25-megaton dirty bomb. 
 
 On March 1, 1954, the largest-ever U.S. nuclear test explosion, the 15-megaton Bravo shot of Operation Castle at Bikini Atoll, delivered a promptly lethal dose of fission-product fallout to more than 6,000 square miles (16,000 km2) of Pacific Ocean surface. Radiation injuries to Marshall Islanders and Japanese fishermen made that fact public and revealed the role of fission in hydrogen bombs.
 
-In response to the public alarm over fallout, an effort was made to design a clean multi-megaton weapon, relying almost entirely on fusion. The energy produced by the fissioning of unenriched natural uranium, when used as the tamper material in the secondary and subsequent stages in the Teller-Ulam design, can far exceed the energy released by fusion, as was the case in the Castle Bravo test. Replacing the fissionable material in the tamper with another material is essential to producing a \"clean\" bomb. In such a device, the tamper no longer contributes energy, so for any given weight, a clean bomb will have less yield. The earliest known incidence of a three-stage device being tested, with the third stage, called the tertiary, being ignited by the secondary, was May 27, 1956 in the Bassoon device. This device was tested in the Zuni shot of Operation Redwing. This shot used non-fissionable tampers; an inert substitute material such as tungsten or lead was used. Its yield was 3.5 megatons, 85% fusion and only 15% fission.
+In response to the public alarm over fallout, an effort was made to design a clean multi-megaton weapon, relying almost entirely on fusion. The energy produced by the fissioning of unenriched natural uranium, when used as the tamper material in the secondary and subsequent stages in the Teller-Ulam design, can far exceed the energy released by fusion, as was the case in the Castle Bravo test. Replacing the fissionable material in the tamper with another material is essential to producing a "clean" bomb. In such a device, the tamper no longer contributes energy, so for any given weight, a clean bomb will have less yield. The earliest known incidence of a three-stage device being tested, with the third stage, called the tertiary, being ignited by the secondary, was May 27, 1956 in the Bassoon device. This device was tested in the Zuni shot of Operation Redwing. This shot used non-fissionable tampers; an inert substitute material such as tungsten or lead was used. Its yield was 3.5 megatons, 85% fusion and only 15% fission.
 
 The public records for devices that produced the highest proportion of their yield via fusion reactions are the peaceful nuclear explosions of the 1970s, with the 3 detonations that excavated part of Pechora–Kama Canal being cited as 98% fusion each in the Taiga test's 15 kiloton explosive yield devices; that is, a total fission fraction of 0.3 kilotons in a 15 kt device. Others include the 50 megaton Tsar Bomba at 97% fusion, the 9.3 megaton Hardtack Poplar test at 95%, and the 4.5 megaton Redwing Navajo test at 95% fusion.
 
-On July 19, 1956, AEC Chairman Lewis Strauss said that the Redwing Zuni shot clean bomb test \"produced much of importance ... from a humanitarian aspect.\" However, less than two days after this announcement, the dirty version of Bassoon, called Bassoon Prime, with a uranium-238 tamper in place, was tested on a barge off the coast of Bikini Atoll as the Redwing Tewa shot. The Bassoon Prime produced a 5-megaton yield, of which 87% came from fission. Data obtained from this test, and others, culminated in the eventual deployment of the highest yielding US nuclear weapon known, and the highest yield-to-weight weapon ever made, a three-stage thermonuclear weapon with a maximum \"dirty\" yield of 25 megatons, designated as the B41 nuclear bomb, which was to be carried by U.S. Air Force bombers until it was decommissioned; this weapon was never fully tested.
+On July 19, 1956, AEC Chairman Lewis Strauss said that the Redwing Zuni shot clean bomb test "produced much of importance ... from a humanitarian aspect." However, less than two days after this announcement, the dirty version of Bassoon, called Bassoon Prime, with a uranium-238 tamper in place, was tested on a barge off the coast of Bikini Atoll as the Redwing Tewa shot. The Bassoon Prime produced a 5-megaton yield, of which 87% came from fission. Data obtained from this test, and others, culminated in the eventual deployment of the highest yielding US nuclear weapon known, and the highest yield-to-weight weapon ever made, a three-stage thermonuclear weapon with a maximum "dirty" yield of 25 megatons, designated as the B41 nuclear bomb, which was to be carried by U.S. Air Force bombers until it was decommissioned; this weapon was never fully tested.
 
 As such, high-yield clean bombs appear to have been of little value from a military standpoint. The actual deployed weapons were the dirty versions, which maximized yield for the same size device. The need for low fission fraction nuclear devices was driven only by the likes of Project Orion and peaceful nuclear explosions – for earth excavation with little contamination of the resulting excavated area.
 
@@ -474,7 +474,7 @@ Third generation nuclear weapons
 
 First and second generation nuclear weapons release energy as omnidirectional blasts. Third generation nuclear weapons are experimental special effect warheads and devices that can release energy in a directed manner, some of which were tested during the Cold War but were never deployed. These include:
 
-Project Prometheus, also known as \"Nuclear Shotgun\", which would have used a nuclear explosion to accelerate kinetic penetrators against ICBMs.
+Project Prometheus, also known as "Nuclear Shotgun", which would have used a nuclear explosion to accelerate kinetic penetrators against ICBMs.
 
 Project Excalibur, a nuclear-pumped X-ray laser
 
@@ -492,11 +492,11 @@ See also: Salted bomb
 
 A doomsday bomb, made popular by Nevil Shute's 1957 novel, and subsequent 1959 movie, On the Beach, the cobalt bomb is a hydrogen bomb with a jacket of cobalt. The neutron-activated cobalt would have maximized the environmental damage from radioactive fallout. These bombs were popularized in the 1964 film Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb; the material added to the bombs is referred to in the film as 'cobalt-thorium G'.
 
-Such \"salted\" weapons were requested by the U.S. Air Force and seriously investigated, possibly built and tested, but not deployed. In the 1964 edition of the DOD/AEC book The Effects of Nuclear Weapons, a new section titled Radiological Warfare clarified the issue. Fission products are as deadly as neutron-activated cobalt. The standard high-fission thermonuclear weapon is automatically a weapon of radiological warfare, as dirty as a cobalt bomb.
+Such "salted" weapons were requested by the U.S. Air Force and seriously investigated, possibly built and tested, but not deployed. In the 1964 edition of the DOD/AEC book The Effects of Nuclear Weapons, a new section titled Radiological Warfare clarified the issue. Fission products are as deadly as neutron-activated cobalt. The standard high-fission thermonuclear weapon is automatically a weapon of radiological warfare, as dirty as a cobalt bomb.
 
 Initially, gamma radiation from the fission products of an equivalent size fission-fusion-fission bomb are much more intense than Co-60: 15,000 times more intense at 1 hour; 35 times more intense at 1 week; 5 times more intense at 1 month; and about equal at 6 months. Thereafter fission drops off rapidly so that Co-60 fallout is 8 times more intense than fission at 1 year and 150 times more intense at 5 years. The very long-lived isotopes produced by fission would overtake the 60Co again after about 75 years.
 
-The triple \"taiga\" nuclear salvo test, as part of the preliminary March 1971 Pechora–Kama Canal project, produced a small amount of fission products and therefore a comparatively large amount of case material activated products are responsible for most of the residual activity at the site today, namely Co-60. With this fusion generated neutron activation product being responsible for about half of the gamma dose now(2011) at the test site, albeit with that dose being too small to cause deleterious effects, normal green vegetation exists all around the lake that was formed.
+The triple "taiga" nuclear salvo test, as part of the preliminary March 1971 Pechora–Kama Canal project, produced a small amount of fission products and therefore a comparatively large amount of case material activated products are responsible for most of the residual activity at the site today, namely Co-60. With this fusion generated neutron activation product being responsible for about half of the gamma dose now(2011) at the test site, albeit with that dose being too small to cause deleterious effects, normal green vegetation exists all around the lake that was formed.
 
 Fission-fusion-fission bombs vs. three-stage (tertiary) bombs
 
@@ -504,21 +504,21 @@ This article may contain too much repetition or redundant language. Please help 
 
 In 1954, to explain the surprising amount of fission-product fallout produced by hydrogen bombs, Ralph Lapp coined the term fission-fusion-fission to describe a process inside what he called a three-stage thermonuclear weapon. His process explanation was correct, but his choice of terms caused confusion in the open literature. The stages of a nuclear weapon are not fission, fusion, and fission. They are the primary, the secondary, and, in a very few exceptional and powerful weapons no longer in service, the tertiary. Tertiary (three-stage) designs, such as the U.S. B41 nuclear bomb and the Soviet Tsar Bomba (discussed above), were developed in the late 1950s and early 1960s; all have since been retired, as the typical multi-megaton yields of tertiary bombs do not destroy targets efficiently, since they waste energy in a sphere above and below an area of land. For this reason, all tertiary bombs have given way in modern nuclear arsenals to multiple smaller two-stage bomb tactics (see for example, MIRV). Such two-stage bombs, even though less efficient in yield, are nevertheless more destructive for their total bomb weight, because they can be distributed over a roughly two-dimensional area of land at the target.
 
-All so-called \"fission-fusion-fission\" weapons (i.e., all conventional modern thermonuclear warheads) employ the additional step of \"jacket fissioning\", using fusion neutrons. This works as follows: the high-energy or \"fast\" neutrons generated by fusion are used to fission a fissionable jacket located around the fusion stage. In the past this jacket was often made of natural or depleted uranium; but today's weapons in which there is a premium on weight and size (i.e., virtually all modern strategic weapons) use moderately-to-highly enriched uranium as the jacketing material (see Oralloy thermonuclear warheads section below). The fast fission of the secondary jacket in fission-fusion-fission bombs is sometimes referred to as a \"third stage\" in the bomb, but it should not be confused with the obsolete true three-stage thermonuclear design, in which there existed another complete tertiary fusion stage.
+All so-called "fission-fusion-fission" weapons (i.e., all conventional modern thermonuclear warheads) employ the additional step of "jacket fissioning", using fusion neutrons. This works as follows: the high-energy or "fast" neutrons generated by fusion are used to fission a fissionable jacket located around the fusion stage. In the past this jacket was often made of natural or depleted uranium; but today's weapons in which there is a premium on weight and size (i.e., virtually all modern strategic weapons) use moderately-to-highly enriched uranium as the jacketing material (see Oralloy thermonuclear warheads section below). The fast fission of the secondary jacket in fission-fusion-fission bombs is sometimes referred to as a "third stage" in the bomb, but it should not be confused with the obsolete true three-stage thermonuclear design, in which there existed another complete tertiary fusion stage.
 
-In the era of open-air atomic testing, the fission jacket was sometimes omitted, in order to create so-called \"clean bombs\" (see above), or to reduce the amount of radioactive fallout from fission products in very large multi-megaton blasts. This was done most often in the testing of very large tertiary bomb designs, such as the Tsar Bomba and the Zuni test shot of Operation Redwing, as discussed above. In the testing of such weapons, it was assumed (and sometimes shown operationally) that a jacket of natural uranium or enriched uranium could always be added to a given unjacketed bomb, if desired, to increase the yield from two to five times.
+In the era of open-air atomic testing, the fission jacket was sometimes omitted, in order to create so-called "clean bombs" (see above), or to reduce the amount of radioactive fallout from fission products in very large multi-megaton blasts. This was done most often in the testing of very large tertiary bomb designs, such as the Tsar Bomba and the Zuni test shot of Operation Redwing, as discussed above. In the testing of such weapons, it was assumed (and sometimes shown operationally) that a jacket of natural uranium or enriched uranium could always be added to a given unjacketed bomb, if desired, to increase the yield from two to five times.
 
 The fission jacket is not used in the enhanced radiation weapon, or neutron bomb, discussed later.
 
 Arbitrarily large multi-staged devices
 
-The idea of a device which has an arbitrarily large number of Teller-Ulam stages, with each driving a larger radiation-driven implosion than the preceding stage, is frequently suggested, but technically disputed. There are \"well-known sketches and some reasonable-looking calculations in the open literature about two-stage weapons, but no similarly accurate descriptions of true three stage concepts.\"
+The idea of a device which has an arbitrarily large number of Teller-Ulam stages, with each driving a larger radiation-driven implosion than the preceding stage, is frequently suggested, but technically disputed. There are "well-known sketches and some reasonable-looking calculations in the open literature about two-stage weapons, but no similarly accurate descriptions of true three stage concepts."
 
-According to George Lemmer's 1967 Air Force and Strategic Deterrence 1951–1960 paper, in 1957, LANL stated that a 1,000-megaton warhead could be built. Apparently there were three of these US designs analyzed in the gigaton (1,000-megaton) range; LLNL's GNOMON and SUNDIAL – objects that cast shadows – and LANL's \"TAV\". SUNDIAL attempting to have a 10 Gt yield, while the Gnomon and TAV designs attempted to produce a yield of 1 Gt. A freedom of information request was filed (FOIA 13-00049-K) for information on the three above US designs. The request was denied under statutory exemptions relating to classified material; the denial was appealed, but the request was finally denied again in April 2016.
+According to George Lemmer's 1967 Air Force and Strategic Deterrence 1951–1960 paper, in 1957, LANL stated that a 1,000-megaton warhead could be built. Apparently there were three of these US designs analyzed in the gigaton (1,000-megaton) range; LLNL's GNOMON and SUNDIAL – objects that cast shadows – and LANL's "TAV". SUNDIAL attempting to have a 10 Gt yield, while the Gnomon and TAV designs attempted to produce a yield of 1 Gt. A freedom of information request was filed (FOIA 13-00049-K) for information on the three above US designs. The request was denied under statutory exemptions relating to classified material; the denial was appealed, but the request was finally denied again in April 2016.
 
 Following the concern caused by the estimated gigaton scale of the 1994 Comet Shoemaker-Levy 9 impacts on the planet Jupiter, in a 1995 meeting at Lawrence Livermore National Laboratory (LLNL), Edward Teller proposed to a collective of U.S. and Russian ex-Cold War weapons designers that they collaborate on designing a 1000-megaton nuclear explosive device for diverting extinction-class asteroids (10+ km in diameter), which would be employed in the event that one of these asteroids were on an impact trajectory with Earth.
 
-There have also been some calculations made in 1979 by Lowell Wood, Teller's protégé, that Teller's initially-unworkable \"classical Super\" design, analogous to igniting a candlestick of deuterium fuel, could potentially achieve ignition reliably were it touched off by a sufficiently-large Teller-Ulam device, rather than the gun-type fission weapon used in the original design.
+There have also been some calculations made in 1979 by Lowell Wood, Teller's protégé, that Teller's initially-unworkable "classical Super" design, analogous to igniting a candlestick of deuterium fuel, could potentially achieve ignition reliably were it touched off by a sufficiently-large Teller-Ulam device, rather than the gun-type fission weapon used in the original design.
 
 Neutron bombs
 
@@ -559,7 +559,7 @@ Designed for use on Trident II (D-5) submarine-launched ballistic missiles, the 
 
 The above diagram shows all the standard features of ballistic missile warheads since the 1960s, with two exceptions that give it a higher yield for its size.
 
-The outer layer of the secondary, called the \"pusher\", which serves three functions: heat shield, tamper, and fission fuel, is made of U-235 instead of U-238, hence the name Oralloy (U-235) Thermonuclear. Being fissile, rather than merely fissionable, allows the pusher to fission faster and more completely, increasing yield. This feature is available only to nations with a great wealth of fissile uranium. The United States is estimated to have 500 tons.
+The outer layer of the secondary, called the "pusher", which serves three functions: heat shield, tamper, and fission fuel, is made of U-235 instead of U-238, hence the name Oralloy (U-235) Thermonuclear. Being fissile, rather than merely fissionable, allows the pusher to fission faster and more completely, increasing yield. This feature is available only to nations with a great wealth of fissile uranium. The United States is estimated to have 500 tons.
 
 The secondary is located in the wide end of the re-entry cone, where it can be larger, and thus more powerful. The usual arrangement is to put the heavier, denser secondary in the narrow end for greater aerodynamic stability during re-entry from outer space, and to allow more room for a bulky primary in the wider part of the cone. (The W87 warhead drawing in the W87 article shows the usual arrangement.) Because of this new geometry, the W88 primary uses compact conventional high explosives (CHE) to save space, rather than the more usual, and bulky but safer, insensitive high explosives (IHE). The re-entry cone probably has ballast in the nose for aerodynamic stability.
 
@@ -571,7 +571,7 @@ Main article: Reliable Replacement Warhead
 
 The United States has not produced any nuclear warheads since 1989, when the Rocky Flats pit production plant, near Boulder, Colorado, was shut down for environmental reasons. With the end of the Cold War two years later, the production line was idled except for inspection and maintenance functions.
 
-The National Nuclear Security Administration, the latest successor for nuclear weapons to the Atomic Energy Commission and the Department of Energy, has proposed building a new pit facility and starting the production line for a new warhead called the Reliable Replacement Warhead (RRW). Two advertised safety improvements of the RRW would be a return to the use of \"insensitive high explosives which are far less susceptible to accidental detonation\", and the elimination of \"certain hazardous materials, such as beryllium, that are harmful to people and the environment.\" Because of the U.S. moratorium on nuclear explosive testing, any new design would rely on previously tested concepts.
+The National Nuclear Security Administration, the latest successor for nuclear weapons to the Atomic Energy Commission and the Department of Energy, has proposed building a new pit facility and starting the production line for a new warhead called the Reliable Replacement Warhead (RRW). Two advertised safety improvements of the RRW would be a return to the use of "insensitive high explosives which are far less susceptible to accidental detonation", and the elimination of "certain hazardous materials, such as beryllium, that are harmful to people and the environment." Because of the U.S. moratorium on nuclear explosive testing, any new design would rely on previously tested concepts.
 
 Weapon design laboratories
 
@@ -585,7 +585,7 @@ Main article: Lawrence Berkeley National Laboratory
 
 The first systematic exploration of nuclear weapon design concepts took place in mid-1942 at the University of California, Berkeley. Important early discoveries had been made at the adjacent Lawrence Berkeley Laboratory, such as the 1940 cyclotron-made production and isolation of plutonium. A Berkeley professor, J. Robert Oppenheimer, had just been hired to run the nation's secret bomb design effort. His first act was to convene the 1942 summer conference.
 
-By the time he moved his operation to the new secret town of Los Alamos, New Mexico, in the spring of 1943, the accumulated wisdom on nuclear weapon design consisted of five lectures by Berkeley professor Robert Serber, transcribed and distributed as the Los Alamos Primer. The Primer addressed fission energy, neutron production and capture, nuclear chain reactions, critical mass, tampers, predetonation, and three methods of assembling a bomb: gun assembly, implosion, and \"autocatalytic methods\", the one approach that turned out to be a dead end.
+By the time he moved his operation to the new secret town of Los Alamos, New Mexico, in the spring of 1943, the accumulated wisdom on nuclear weapon design consisted of five lectures by Berkeley professor Robert Serber, transcribed and distributed as the Los Alamos Primer. The Primer addressed fission energy, neutron production and capture, nuclear chain reactions, critical mass, tampers, predetonation, and three methods of assembling a bomb: gun assembly, implosion, and "autocatalytic methods", the one approach that turned out to be a dead end.
 
 Los Alamos
 
@@ -701,7 +701,7 @@ As shown in the diagram above, one method used to decrease the likelihood of acc
 
 Chain safety method
 
-Alternatively, the pit can be \"safed\" by having its normally hollow core filled with an inert material such as a fine metal chain, possibly made of cadmium to absorb neutrons. While the chain is in the center of the pit, the pit can not be compressed into an appropriate shape to fission; when the weapon is to be armed, the chain is removed. Similarly, although a serious fire could detonate the explosives, destroying the pit and spreading plutonium to contaminate the surroundings as has happened in several weapons accidents, it could not cause a nuclear explosion.
+Alternatively, the pit can be "safed" by having its normally hollow core filled with an inert material such as a fine metal chain, possibly made of cadmium to absorb neutrons. While the chain is in the center of the pit, the pit can not be compressed into an appropriate shape to fission; when the weapon is to be armed, the chain is removed. Similarly, although a serious fire could detonate the explosives, destroying the pit and spreading plutonium to contaminate the surroundings as has happened in several weapons accidents, it could not cause a nuclear explosion.
 
 One-point safety
 
@@ -725,7 +725,7 @@ Strong link/weak link
 
 See also: Strong link/weak link
 
-Under the strong link/weak link system, \"weak links\" are constructed between critical nuclear weapon components (the \"hard links\"). In the event of an accident the weak links are designed to fail first in a manner that precludes energy transfer between them. Then, if a hard link fails in a manner that transfers or release energy, energy can't be transferred into other weapon systems, potentially starting a nuclear detonation. Hard links are usually critical weapon components that have been hardened to survive extreme environments, while weak links can be both components deliberately inserted into the system to act as a weak link and critical nuclear components that can fail predictably.
+Under the strong link/weak link system, "weak links" are constructed between critical nuclear weapon components (the "hard links"). In the event of an accident the weak links are designed to fail first in a manner that precludes energy transfer between them. Then, if a hard link fails in a manner that transfers or release energy, energy can't be transferred into other weapon systems, potentially starting a nuclear detonation. Hard links are usually critical weapon components that have been hardened to survive extreme environments, while weak links can be both components deliberately inserted into the system to act as a weak link and critical nuclear components that can fail predictably.
 
 An example of a weak link would be an electrical connector that contains electrical wires made from a low melting point alloy. During a fire, those wires would melt breaking any electrical connection.
 
@@ -741,13 +741,13 @@ Bibliography
 
 Cohen, Sam, The Truth About the Neutron Bomb: The Inventor of the Bomb Speaks Out, William Morrow & Co., 1983
 
-Coster-Mullen, John, \"Atom Bombs: The Top Secret Inside Story of Little Boy and Fat Man\", Self-Published, 2011
+Coster-Mullen, John, "Atom Bombs: The Top Secret Inside Story of Little Boy and Fat Man", Self-Published, 2011
 
 Glasstone, Samuel and Dolan, Philip J., editors, The Effects of Nuclear Weapons (third edition) (PDF), U.S. Government Printing Office, 1977.
 
 Grace, S. Charles, Nuclear Weapons: Principles, Effects and Survivability (Land Warfare: Brassey's New Battlefield Weapons Systems and Technology, vol 10)
 
-Hansen, Chuck, \"Swords of Armageddon: U.S. Nuclear Weapons Development since 1945\" (CD-ROM & download available). PDF. 2,600 pages, Sunnyvale, California, Chucklea Publications, 1995, 2007. ISBN 978-0-9791915-0-3 (2nd Ed.)
+Hansen, Chuck, "Swords of Armageddon: U.S. Nuclear Weapons Development since 1945" (CD-ROM & download available). PDF. 2,600 pages, Sunnyvale, California, Chucklea Publications, 1995, 2007. ISBN 978-0-9791915-0-3 (2nd Ed.)
 
 The Effects of Nuclear War, Office of Technology Assessment (May 1979).
 
@@ -762,11 +762,11 @@ Notes
 ^ The physics package is the nuclear explosive module inside the bomb casing, missile warhead, or artillery shell, etc., which delivers the weapon to its target. While photographs of weapon casings are common, photographs of the physics package are quite rare, even for the oldest and crudest nuclear weapons. For a photograph of a modern physics package see W80.
 
 ^ 
-Life Editors (1961), \"To the Outside World, a Superbomb more Bluff than Bang\", Life, New York (Vol. 51, No. 19, November 10, 1961), pp. 34–37, retrieved 2010-06-28. Article on the Soviet Tsar Bomba test. Because explosions are spherical in shape and targets are spread out on the relatively flat surface of the earth, numerous smaller weapons cause more destruction. From page 35: \"... five five-megaton weapons would demolish a greater area than a single 50-megatonner.\"
+Life Editors (1961), "To the Outside World, a Superbomb more Bluff than Bang", Life, New York (Vol. 51, No. 19, November 10, 1961), pp. 34–37, retrieved 2010-06-28. Article on the Soviet Tsar Bomba test. Because explosions are spherical in shape and targets are spread out on the relatively flat surface of the earth, numerous smaller weapons cause more destruction. From page 35: "... five five-megaton weapons would demolish a greater area than a single 50-megatonner."
 
 ^ The United States and the Soviet Union were the only nations to build large nuclear arsenals with every possible type of nuclear weapon. The U.S. had a four-year head start and was the first to produce fissile material and fission weapons, all in 1945. The only Soviet claim for a design first was the Joe 4 detonation on August 12, 1953, said to be the first deliverable hydrogen bomb. However, as Herbert York first revealed in The Advisors: Oppenheimer, Teller and the Superbomb (W.H. Freeman, 1976), it was not a true hydrogen bomb (it was a boosted fission weapon of the Sloika/Alarm Clock type, not a two-stage thermonuclear). Soviet dates for the essential elements of warhead miniaturization – boosted, hollow-pit, two-point, air lens primaries – are not available in the open literature, but the larger size of Soviet ballistic missiles is often explained as evidence of an initial Soviet difficulty in miniaturizing warheads.
 
-^ fr 971324, Caisse Nationale de la Recherche Scientifique (National Fund for Scientific Research), \"Perfectionnements aux charges explosives (Improvements to explosive charges)\", issued 12 July 1950 .
+^ fr 971324, Caisse Nationale de la Recherche Scientifique (National Fund for Scientific Research), "Perfectionnements aux charges explosives (Improvements to explosive charges)", issued 12 July 1950 .
 
 ^ The main source for this section is Samuel Glasstone and Philip Dolan, The Effects of Nuclear Weapons, Third Edition, 1977, U.S. Dept of Defense and U.S. Dept of Energy (see links in General References, below), with the same information in more detail in Samuel Glasstone, Sourcebook on Atomic Energy, Third Edition, 1979, U.S. Atomic Energy Commission, Krieger Publishing.
 
@@ -774,7 +774,7 @@ Life Editors (1961), \"To the Outside World, a Superbomb more Bluff than Bang\",
 
 ^ Glasstone, Sourcebook, p. 503.
 
-^ \"neutrons carry off most of the reaction energy\", Glasstone and Dolan, Effects, p. 21.
+^ "neutrons carry off most of the reaction energy", Glasstone and Dolan, Effects, p. 21.
 
 ^ a b Glasstone and Dolan, Effects, p. 21.
 
@@ -782,29 +782,29 @@ Life Editors (1961), \"To the Outside World, a Superbomb more Bluff than Bang\",
 
 ^ Glasstone and Dolan, Effects, pp. 12–13. When 454 g (one pound) of U-235 undergoes complete fission, the yield is 8 kilotons. The 13 to 16-kiloton yield of the Little Boy bomb was therefore produced by the fission of no more than 2 pounds (910 g) of U-235, out of the 141 pounds (64,000 g) in the pit. Thus, the remaining 139 pounds (63 kg), 98.5% of the total, contributed nothing to the energy yield.
 
-^ Compere, A.L., and Griffith, W.L. 1991. \"The U.S. Calutron Program for Uranium Enrichment: History,. Technology, Operations, and Production. Report\", ORNL-5928, as cited in John Coster-Mullen, \"Atom Bombs: The Top Secret Inside Story of Little Boy and Fat Man\", 2003, footnote 28, p. 18. The total wartime output of Oralloy produced at Oak Ridge by July 28, 1945 was 165 pounds (74.68 kg). Of this amount, 84% was scattered over Hiroshima (see previous footnote).
+^ Compere, A.L., and Griffith, W.L. 1991. "The U.S. Calutron Program for Uranium Enrichment: History,. Technology, Operations, and Production. Report", ORNL-5928, as cited in John Coster-Mullen, "Atom Bombs: The Top Secret Inside Story of Little Boy and Fat Man", 2003, footnote 28, p. 18. The total wartime output of Oralloy produced at Oak Ridge by July 28, 1945 was 165 pounds (74.68 kg). Of this amount, 84% was scattered over Hiroshima (see previous footnote).
 
 ^ Hoddeson, Lillian; et al. (2004). Critical Assembly: A Technical History of Los Alamos During the Oppenheimer Years, 1943–1945. Cambridge University Press. p. 271. ISBN 978-0-521-54117-6.
 
-^ \"Restricted Data Declassification Decisions from 1945 until Present\" Archived April 23, 2016, at the Wayback Machine – \"Fact that plutonium and uranium may be bonded to each other in unspecified pits or weapons.\"
+^ "Restricted Data Declassification Decisions from 1945 until Present" Archived April 23, 2016, at the Wayback Machine – "Fact that plutonium and uranium may be bonded to each other in unspecified pits or weapons."
 
-^ \"Restricted Data Declassification Decisions from 1946 until Present\". Retrieved 7 October 2014.
+^ "Restricted Data Declassification Decisions from 1946 until Present". Retrieved 7 October 2014.
 
 ^ a b Fissionable Materials Archived October 3, 2006, at the Wayback Machine section of the Nuclear Weapons FAQ, Carey Sublette, accessed Sept 23, 2006
 
-^ All information on nuclear weapon tests comes from Chuck Hansen, The Swords of Armageddon: U.S. Nuclear Weapons Development since 1945, October 1995, Chucklea Productions, Volume VIII, p. 154, Table A-1, \"U.S. Nuclear Detonations and Tests, 1945–1962\".
+^ All information on nuclear weapon tests comes from Chuck Hansen, The Swords of Armageddon: U.S. Nuclear Weapons Development since 1945, October 1995, Chucklea Productions, Volume VIII, p. 154, Table A-1, "U.S. Nuclear Detonations and Tests, 1945–1962".
 
 ^ Nuclear Weapons FAQ: 4.1.6.3 Hybrid Assembly Techniques Archived April 19, 2016, at the Wayback Machine, accessed December 1, 2007. Drawing adapted from the same source.
 
 ^ Nuclear Weapons FAQ: 4.1.6.2.2.4 Cylindrical and Planar Shock Techniques Archived April 19, 2016, at the Wayback Machine, accessed December 1, 2007.
 
-^ \"Restricted Data Declassification Decisions from 1946 until Present\", Section V.B.2.k Archived April 23, 2016, at the Wayback Machine \"The fact of use in high explosive assembled (HEA) weapons of spherical shells of fissile materials, sealed pits; air and ring HE lenses\", declassified November 1972.
+^ "Restricted Data Declassification Decisions from 1946 until Present", Section V.B.2.k Archived April 23, 2016, at the Wayback Machine "The fact of use in high explosive assembled (HEA) weapons of spherical shells of fissile materials, sealed pits; air and ring HE lenses", declassified November 1972.
 
-^ a b Sublette, Carey. \"Fission-Fusion Hybrid Weapons\". nuclearweaponarchive.
+^ a b Sublette, Carey. "Fission-Fusion Hybrid Weapons". nuclearweaponarchive.
 
-^ \"Weapons of Mass Destruction (WMD)\". globalsecurity.org.
+^ "Weapons of Mass Destruction (WMD)". globalsecurity.org.
 
-^ Cozzani, Franco. \"FISSION, FUSION AND STAGING\". IERI.
+^ Cozzani, Franco. "FISSION, FUSION AND STAGING". IERI.
 
 ^ So I pieced together from Edward's testament and from his memoir that Stan had come to him in February of 1951 American Institute of Physics interview with Richard Garwin by Ken Ford, dated December 2012
 
@@ -812,30 +812,30 @@ Life Editors (1961), \"To the Outside World, a Superbomb more Bluff than Bang\",
 
 ^ 4.4 Elements of Thermonuclear Weapon Design Archived March 11, 2016, at the Wayback Machine. Nuclearweaponarchive.org. Retrieved on 2011-05-01.
 
-^ Until a reliable design was worked out in the early 1950s, the hydrogen bomb (public name) was called the superbomb by insiders. After that, insiders used a more descriptive name: two-stage thermonuclear. Two examples. From Herb York, The Advisors, 1976, \"This book is about ... the development of the H-bomb, or the superbomb as it was then called.\" p. ix, and \"The rapid and successful development of the superbomb (or super as it came to be called) ...\" p. 5. From National Public Radio Talk of the Nation, November 8, 2005, Siegfried Hecker of Los Alamos, \"the hydrogen bomb – that is, a two-stage thermonuclear device, as we referred to it – is indeed the principal part of the US arsenal, as it is of the Russian arsenal.\"
+^ Until a reliable design was worked out in the early 1950s, the hydrogen bomb (public name) was called the superbomb by insiders. After that, insiders used a more descriptive name: two-stage thermonuclear. Two examples. From Herb York, The Advisors, 1976, "This book is about ... the development of the H-bomb, or the superbomb as it was then called." p. ix, and "The rapid and successful development of the superbomb (or super as it came to be called) ..." p. 5. From National Public Radio Talk of the Nation, November 8, 2005, Siegfried Hecker of Los Alamos, "the hydrogen bomb – that is, a two-stage thermonuclear device, as we referred to it – is indeed the principal part of the US arsenal, as it is of the Russian arsenal."
 
-^ a b Howard Morland, \"Born Secret\", Cardozo Law Review, March 2005, pp. 1401–1408.
+^ a b Howard Morland, "Born Secret", Cardozo Law Review, March 2005, pp. 1401–1408.
 
-^ Kemp, Ted (3 September 2017). \"North Korea hydrogen bomb: Read the full announcement from Pyongyang\". CNBC News. Retrieved 5 September 2017.
+^ Kemp, Ted (3 September 2017). "North Korea hydrogen bomb: Read the full announcement from Pyongyang". CNBC News. Retrieved 5 September 2017.
 
-^ \"Israel's Nuclear Weapon Capability: An Overview\". www.wisconsinproject.org. Archived from the original on 2015-04-29. Retrieved 2016-10-03.
+^ "Israel's Nuclear Weapon Capability: An Overview". www.wisconsinproject.org. Archived from the original on 2015-04-29. Retrieved 2016-10-03.
 
-^ \"Improved Security, Safety & Manufacturability of the Reliable Replacement Warhead\", NNSA March 2007.
+^ "Improved Security, Safety & Manufacturability of the Reliable Replacement Warhead", NNSA March 2007.
 
-^ A 1976 drawing Archived April 3, 2016, at the Wayback Machine which depicts an interstage that absorbs and re-radiates x-rays. From Howard Morland, \"The Article\", Archived March 22, 2016, at the Wayback Machine Cardozo Law Review, March 2005, p. 1374.
+^ A 1976 drawing Archived April 3, 2016, at the Wayback Machine which depicts an interstage that absorbs and re-radiates x-rays. From Howard Morland, "The Article", Archived March 22, 2016, at the Wayback Machine Cardozo Law Review, March 2005, p. 1374.
 
 ^ 
-Ian Sample (6 March 2008). \"Technical hitch delays renewal of nuclear warheads for Trident\". The Guardian.
+Ian Sample (6 March 2008). "Technical hitch delays renewal of nuclear warheads for Trident". The Guardian.
 
-^ \"ArmsControlWonk: FOGBANK\" Archived January 14, 2010, at the Wayback Machine, March 7, 2008. (Accessed 2010-04-06)
+^ "ArmsControlWonk: FOGBANK" Archived January 14, 2010, at the Wayback Machine, March 7, 2008. (Accessed 2010-04-06)
 
-^ \"SAND8.8 – 1151 Nuclear Weapon Data – Sigma I\", Archived April 23, 2016, at the Wayback Machine Sandia Laboratories, September 1988.
+^ "SAND8.8 – 1151 Nuclear Weapon Data – Sigma I", Archived April 23, 2016, at the Wayback Machine Sandia Laboratories, September 1988.
 
 ^ The Greenpeace drawing. Archived March 15, 2016, at the Wayback Machine From Morland, Cardozo Law Review, March 2005, p. 1378.
 
 ^ Herbert York, The Advisors: Oppenheimer, Teller and the Superbomb (1976).
 
-^ \"The 'Alarm Clock' ... became practical only by the inclusion of Li6 (in 1950) and its combination with the radiation implosion.\" Hans A. Bethe, Memorandum on the History of Thermonuclear Program Archived March 4, 2016, at the Wayback Machine, May 28, 1952.
+^ "The 'Alarm Clock' ... became practical only by the inclusion of Li6 (in 1950) and its combination with the radiation implosion." Hans A. Bethe, Memorandum on the History of Thermonuclear Program Archived March 4, 2016, at the Wayback Machine, May 28, 1952.
 
 ^ Rhodes 1995, p. 256.
 
@@ -851,77 +851,77 @@ Ian Sample (6 March 2008). \"Technical hitch delays renewal of nuclear warheads 
 
 ^ Barnaby, Frank (2012). The Role and Control of Weapons in the 1990s. ISBN 978-1134901913.
 
-^ \"Bulletin of the Atomic Scientists\". Educational Foundation for Nuclear Science, Inc. March 1991.
+^ "Bulletin of the Atomic Scientists". Educational Foundation for Nuclear Science, Inc. March 1991.
 
 ^ SDI : Technology, survivability, and software. ISBN 978-1428922679.
 
 ^ Barnaby, Frank (2012). The Role and Control of Weapons in the 1990s. ISBN 978-1134901913.
 
-^ Gsponer, Andre (2005). \"Fourth Generation Nuclear Weapons: Military effectiveness and collateral effects\". arXiv:physics/0510071.
+^ Gsponer, Andre (2005). "Fourth Generation Nuclear Weapons: Military effectiveness and collateral effects". arXiv:physics/0510071.
 
 ^ Ramsey, Syed (2016). Tools of War: History of Weapons in Modern Times. ISBN 978-9386019837.
 
-^ \"Details on antimatter triggered fusion bombs\". 2015-09-22.
+^ "Details on antimatter triggered fusion bombs". 2015-09-22.
 
 ^ Weapon and Technology: 4th Generation Nuclear Nanotech Weapons Archived September 24, 2014, at the Wayback Machine. Weapons.technology.youngester.com (2010-04-19). Retrieved on 2011-05-01.
 
 ^ Fourth Generation Nuclear Weapons Archived March 23, 2016, at the Wayback Machine. Nuclearweaponarchive.org. Retrieved on 2011-05-01.
 
-^ Never say \"never\" Archived April 18, 2016, at the Wayback Machine. Whyfiles.org. Retrieved on 2011-05-01.
+^ Never say "never" Archived April 18, 2016, at the Wayback Machine. Whyfiles.org. Retrieved on 2011-05-01.
 
-^ \"Mini-nukes and inspect bot weapons being primed for future warfare\". 2017-03-17.
+^ "Mini-nukes and inspect bot weapons being primed for future warfare". 2017-03-17.
 
 ^ Samuel Glasstone, The Effects of Nuclear Weapons, 1962, Revised 1964, U.S. Dept of Defense and U.S. Dept of Energy, pp. 464–65. This section was removed from later editions, but, according to Glasstone in 1978, not because it was inaccurate or because the weapons had changed.
 
-^ \"Nuclear Weapons FAQ: 1.6\".
+^ "Nuclear Weapons FAQ: 1.6".
 
-^ Ramzaev, V; Repin, V; Medvedev, A; Khramtsov, E; Timofeeva, M; Yakovlev, V (2011). \"Radiological investigations at the \"Taiga\" nuclear explosion site: Site description and in situ measurements\". Journal of Environmental Radioactivity. 102 (7): 672–80. doi:10.1016/j.jenvrad.2011.04.003. PMID 21524834.
+^ Ramzaev, V; Repin, V; Medvedev, A; Khramtsov, E; Timofeeva, M; Yakovlev, V (2011). "Radiological investigations at the "Taiga" nuclear explosion site: Site description and in situ measurements". Journal of Environmental Radioactivity. 102 (7): 672–80. doi:10.1016/j.jenvrad.2011.04.003. PMID 21524834.
 
-^ Ramzaev, V; Repin, V; Medvedev, A; Khramtsov, E; Timofeeva, M; Yakovlev, V (2012). \"Radiological investigations at the \"Taiga\" nuclear explosion site, part II: man-made γ-ray emitting radionuclides in the ground and the resultant kerma rate in air\". Journal of Environmental Radioactivity. 109: 1–12. doi:10.1016/j.jenvrad.2011.12.009. PMID 22541991.
+^ Ramzaev, V; Repin, V; Medvedev, A; Khramtsov, E; Timofeeva, M; Yakovlev, V (2012). "Radiological investigations at the "Taiga" nuclear explosion site, part II: man-made γ-ray emitting radionuclides in the ground and the resultant kerma rate in air". Journal of Environmental Radioactivity. 109: 1–12. doi:10.1016/j.jenvrad.2011.12.009. PMID 22541991.
 
-^ \"Why the H-Bomb Is Now Called the 3-F\". Life Magazine. Time Inc: 54–55. December 5, 1955.
+^ "Why the H-Bomb Is Now Called the 3-F". Life Magazine. Time Inc: 54–55. December 5, 1955.
 
 ^ Winterberg, Friedwardt (2010). The Release of Thermonuclear Energy by Inertial Confinement: Ways Towards Ignition. World Scientific. pp. 192–93. ISBN 978-9814295918.
 
 ^ Croddy, Eric A.; Wirtz, James J.; Larsen, Jeffrey, Eds. (2005). Weapons of Mass Destruction: An Encyclopedia of Worldwide Policy, Technology, and History. ABC-CLIO, Inc. p. 376. ISBN 978-1-85109-490-5.
 
-^ a b How much large can bombs be made through staging? One often finds claims on the public Internet that multiple stages could be combined one after the other, in an arbitrary large number, and that therefore the in-principle yield of a thermonuclear could be increased without limit. Such authors usually conclude this argument with the wise statement that nuclear weapons were made already so destructive, that no one could possibly think of increasing their yield even further, or that their military use would be pointless...The idea of adding four, ten, a hundred stages, in a disciplined and well orderly way, driving a larger radiation-driven implosion after the other sounds much more like a sheer nonsense than an in-principle design for an Armageddon-class weapon. It should be added that, to the best knowledge of this author, statements about the actual yield of the most powerful weapons in the U.S. nuclear arsenal, either deployed or envisaged at some stage, were declassified, but no detailed hints at triple staging were released in the open from official sources. Also, there are (convincing) well-known sketches and some reasonable-looking calculations in the open literature about two-stage weapons, but no similarly accurate descriptions of true three stages concepts. \"Fission, Fusion and Staging | Ieri\". Archived from the original on 2016-03-05. Retrieved 2013-05-22..
+^ a b How much large can bombs be made through staging? One often finds claims on the public Internet that multiple stages could be combined one after the other, in an arbitrary large number, and that therefore the in-principle yield of a thermonuclear could be increased without limit. Such authors usually conclude this argument with the wise statement that nuclear weapons were made already so destructive, that no one could possibly think of increasing their yield even further, or that their military use would be pointless...The idea of adding four, ten, a hundred stages, in a disciplined and well orderly way, driving a larger radiation-driven implosion after the other sounds much more like a sheer nonsense than an in-principle design for an Armageddon-class weapon. It should be added that, to the best knowledge of this author, statements about the actual yield of the most powerful weapons in the U.S. nuclear arsenal, either deployed or envisaged at some stage, were declassified, but no detailed hints at triple staging were released in the open from official sources. Also, there are (convincing) well-known sketches and some reasonable-looking calculations in the open literature about two-stage weapons, but no similarly accurate descriptions of true three stages concepts. "Fission, Fusion and Staging | Ieri". Archived from the original on 2016-03-05. Retrieved 2013-05-22..
 
 ^ The Air Force and Strategic Detterence 1951–1960. USAF historical division Liaison Office by George F. Lemmer 1967, p. 13. Formerly restricted data Archived June 17, 2014, at the Wayback Machine.
 
-^ Bowen and Little, \"AF Atomic Energy Program\" Vol I–V RS. Authors: Lee Bowen and Stuart Little.
+^ Bowen and Little, "AF Atomic Energy Program" Vol I–V RS. Authors: Lee Bowen and Stuart Little.
 
-^ \"Archived copy\" (PDF). Archived (PDF) from the original on 2016-03-04. Retrieved 2014-10-06.CS1 maint: archived copy as title (link)
+^ "Archived copy" (PDF). Archived (PDF) from the original on 2016-03-04. Retrieved 2014-10-06.CS1 maint: archived copy as title (link)
 
-^ \"Archived copy\" (PDF). Archived (PDF) from the original on 2016-10-25. Retrieved 2016-10-25.CS1 maint: archived copy as title (link)
+^ "Archived copy" (PDF). Archived (PDF) from the original on 2016-10-25. Retrieved 2016-10-25.CS1 maint: archived copy as title (link)
 
-^ \"A new use for nuclear weapons: hunting rogue asteroids A persistent campaign by weapons designers to develop a nuclear defense against extraterrestrial rocks slowly wins government support 2013\". Center for Public Integrity. 2013-10-16. Retrieved 7 October 2014.
+^ "A new use for nuclear weapons: hunting rogue asteroids A persistent campaign by weapons designers to develop a nuclear defense against extraterrestrial rocks slowly wins government support 2013". Center for Public Integrity. 2013-10-16. Retrieved 7 October 2014.
 
-^ Jason Mick (October 17, 2013). \"The mother of all bombs would sit in wait in an orbitary platform\". Archived from the original on October 9, 2014.
+^ Jason Mick (October 17, 2013). "The mother of all bombs would sit in wait in an orbitary platform". Archived from the original on October 9, 2014.
 
 ^ planetary defense workshop LLNL 1995
 
-^ Weaver, Thomas A; Wood, Lowell (1979). \"Necessary conditions for the initiation and propagation of nuclear-detonation waves in plane atmospheres Phys. Rev. A 20, 316 – Published 1 July 1979 Thomas A. Weaver and Lowell Wood\". Physical Review A. 20: 316–28. doi:10.1103/PhysRevA.20.316.
+^ Weaver, Thomas A; Wood, Lowell (1979). "Necessary conditions for the initiation and propagation of nuclear-detonation waves in plane atmospheres Phys. Rev. A 20, 316 – Published 1 July 1979 Thomas A. Weaver and Lowell Wood". Physical Review A. 20: 316–28. doi:10.1103/PhysRevA.20.316.
 
-^ \"Neutron bomb: Why 'clean' is deadly\". BBC News. July 15, 1999. Retrieved January 6, 2010.
+^ "Neutron bomb: Why 'clean' is deadly". BBC News. July 15, 1999. Retrieved January 6, 2010.
 
-^ Broad, William J. (7 September 1999), \"Spies versus sweat, the debate over China's nuclear advance\", The New York Times, p. 1. The front page drawing Archived May 5, 2016, at the Wayback Machine was similar to one that appeared four months earlier in the San Jose Mercury News.
+^ Broad, William J. (7 September 1999), "Spies versus sweat, the debate over China's nuclear advance", The New York Times, p. 1. The front page drawing Archived May 5, 2016, at the Wayback Machine was similar to one that appeared four months earlier in the San Jose Mercury News.
 
-^ Jonathan Medalia, \"The Reliable Replacement Warhead Program: Background and Current Developments\", CRS Report RL32929 Archived March 11, 2016, at the Wayback Machine, Dec 18, 2007, p CRS-11.
+^ Jonathan Medalia, "The Reliable Replacement Warhead Program: Background and Current Developments", CRS Report RL32929 Archived March 11, 2016, at the Wayback Machine, Dec 18, 2007, p CRS-11.
 
-^ Richard Garwin, \"Why China Won't Build U.S. Warheads\" Archived November 5, 2005, at the Wayback Machine, Arms Control Today, April–May 1999.
+^ Richard Garwin, "Why China Won't Build U.S. Warheads" Archived November 5, 2005, at the Wayback Machine, Arms Control Today, April–May 1999.
 
 ^ Home – NNSA Archived April 1, 2007, at the Wayback Machine
 
 ^ DoE Fact Sheet: Reliable Replacement Warhead Program Archived August 20, 2008, at the Wayback Machine
 
-^ William J. Broad, \"The Hidden Travels of The Bomb: Atomic insiders say the weapon was invented only once, and its secrets were spread around the globe by spies, scientists and the covert acts of nuclear states\", New York Times, December 9, 2008, p. D1.
+^ William J. Broad, "The Hidden Travels of The Bomb: Atomic insiders say the weapon was invented only once, and its secrets were spread around the globe by spies, scientists and the covert acts of nuclear states", New York Times, December 9, 2008, p. D1.
 
 ^ Server, Robert (1992). The Los Alamos Primer (1st ed.). Berkeley: University of California Press. ISBN 978-0520075764.
 
 ^ Sybil Francis, Warhead Politics: Livermore and the Competitive System of Nuclear Warhead Design, UCRL-LR-124754, June 1995, Ph.D. Dissertation, Massachusetts Institute of Technology, available from National Technical Information Service. This 233-page thesis was written by a weapons-lab outsider for public distribution. The author had access to all the classified information at Livermore that was relevant to her research on warhead design; consequently, she was required to use non-descriptive code words for certain innovations.
 
-^ Walter Goad, Declaration for the Wen Ho Lee case Archived March 8, 2016, at the Wayback Machine, May 17, 2000. Goad began thermonuclear weapon design work at Los Alamos in 1950. In his Declaration, he mentions \"basic scientific problems of computability which cannot be solved by more computing power alone. These are typified by the problem of long range predictions of weather and climate, and extend to predictions of nuclear weapons behavior. This accounts for the fact that, after the enormous investment of effort over many years, weapons codes can still not be relied on for significantly new designs.\"
+^ Walter Goad, Declaration for the Wen Ho Lee case Archived March 8, 2016, at the Wayback Machine, May 17, 2000. Goad began thermonuclear weapon design work at Los Alamos in 1950. In his Declaration, he mentions "basic scientific problems of computability which cannot be solved by more computing power alone. These are typified by the problem of long range predictions of weather and climate, and extend to predictions of nuclear weapons behavior. This accounts for the fact that, after the enormous investment of effort over many years, weapons codes can still not be relied on for significantly new designs."
 
 ^ Chuck Hansen, The Swords of Armageddon, Volume IV, pp. 211–212, 284.
 
@@ -929,7 +929,7 @@ Ian Sample (6 March 2008). \"Technical hitch delays renewal of nuclear warheads 
 
 ^ Hansen, Chuck (1995). Swords of Armageddon. III. Retrieved 2016-05-20.
 
-^ Dr. John C. Clark, as told to Robert Cahn, \"We Were Trapped by Radioactive Fallout\", The Saturday Evening Post, July 20, 1957, pp. 17–19, 69–71.
+^ Dr. John C. Clark, as told to Robert Cahn, "We Were Trapped by Radioactive Fallout", The Saturday Evening Post, July 20, 1957, pp. 17–19, 69–71.
 
 ^ Rhodes, Richard (1995). Dark Sun; the Making of the Hydrogen Bomb. Simon and Schuster. p. 541.CS1 maint: ref=harv (link)
 
@@ -937,7 +937,7 @@ Ian Sample (6 March 2008). \"Technical hitch delays renewal of nuclear warheads 
 
 ^ Sybil Francis, Warhead Politics, pp. 141, 160.
 
-^ Harvey, John R.; Michalowski, Stefan (1994). \"Nuclear Weapons Safety:The Case of Trident\" (PDF). Science & Global Security. 4.
+^ Harvey, John R.; Michalowski, Stefan (1994). "Nuclear Weapons Safety:The Case of Trident" (PDF). Science & Global Security. 4.
 
 ^ . ISBN 978-0521054010 https://books.google.com/?id=95eoQSNDp6gC&pg=PA214&dq=warhead+corrosion&cd=2#v=onepage&q=&f=false. Missing or empty |title= (help).
 
@@ -956,7 +956,7 @@ More information on the design of two-stage fusion bombs
 
 Militarily Critical Technologies List (MCTL), Part II (1998) (PDF) from the US Department of Defense at the Federation of American Scientists website.
 
-\"Restricted Data Declassification Decisions from 1946 until Present\", Department of Energy report series published from 1994 until January 2001 which lists all known declassification actions and their dates. Hosted by Federation of American Scientists.
+"Restricted Data Declassification Decisions from 1946 until Present", Department of Energy report series published from 1994 until January 2001 which lists all known declassification actions and their dates. Hosted by Federation of American Scientists.
 
 The Holocaust Bomb: A Question of Time is an update of the 1979 court case USA v. The Progressive, with links to supporting documents on nuclear weapon design.
 
@@ -1440,6 +1440,3 @@ Pyroelectric
  Commons
 
  Portal
-
-"
-
