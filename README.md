@@ -21,7 +21,7 @@ function fish_greeting
     set_color -o -u
     echo (string replace '_' ' ' (string replace '.txt' '' (string unescape --style=url $article))) | sed 's/.*/\L&/; s/[a-z]*/\u&/g' | sed -E 's/ (The|A|Of|I[sn]|For)\b/\L&/g'
     set_color normal
-    head -7 ~/bin/wiki-welcome/articles/$article | cowthink -W 78 -f tux
+    head -c500 ~/bin/wiki-welcome/articles/$article | cowthink -W 78 -f tux
 end
 ```
 
