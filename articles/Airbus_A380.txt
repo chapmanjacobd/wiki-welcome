@@ -1,0 +1,1829 @@
+"\"A380\" redirects here. For other uses, see A380 (disambiguation).
+
+\"A388\" redirects here. For the road, see A388 road.
+
+Wide-body double deck aircraft
+
+A380
+
+An A380-800 of Emirates, the largest operator of the aircraft
+
+Role
+ Wide-body airliner. Double-deck aircraft
+
+National origin
+ Multi-national
+
+Manufacturer
+ Airbus
+
+First flight
+ 27 April 2005
+
+Introduction
+ 25 October 2007 with Singapore Airlines
+
+Status
+ In production
+
+Primary users
+ Emirates
+
+Singapore Airlines
+
+British Airways
+
+Qantas
+
+Produced
+ 2003–present
+
+Number built
+ 242 as of 31 December 2019
+
+Program cost
+ €15 billion (Airbus 2015) to €25 billion (2016 estimate)
+
+Unit cost
+ 
+US$445.6 million (2018)
+
+The Airbus A380 is a wide-body aircraft manufactured by Airbus. It is the world's largest passenger airliner.
+Airbus studies started in 1988 and the project was announced in 1990 to challenge the dominance of the Boeing 747 in the long haul market.
+The A3XX project was presented in 1994; Airbus launched the €9.5 billion ($10.7 billion) A380 programme on 19 December 2000.
+The first prototype was unveiled in Toulouse on 18 January 2005,
+with its first flight on 27 April 2005. 
+Difficulties in electrical wiring caused a two-year delay and the development cost ballooned to €18 billion. 
+It obtained its type certificate from the European Aviation Safety Agency (EASA) and the US Federal Aviation Administration (FAA) on 12 December 2006.
+
+It was first delivered to Singapore Airlines on 15 October 2007 and entered service on 25 October.
+Production peaked at 30 per year in 2012 and 2014. However, Airbus concedes that its $25 billion investment for the aircraft cannot be recouped.
+On 14 February 2019, after Emirates reduced its last orders in favour of the A350 and the A330neo, Airbus announced that A380 production would end by 2021.
+
+The full-length double-deck aircraft, sometimes nicknamed the superjumbo, has a typical seating capacity of 525, though it is certified for up to 853 passengers.
+It is powered by four Engine Alliance GP7200 or Rolls-Royce Trent 900 turbofans providing a range of 8,000 nmi (14,800 km).
+As of December 2019, Airbus has received 251 firm orders and delivered 242 aircraft; Emirates is the biggest A380 customer with 123 ordered, of which 115 have been delivered.
+
+Contents
+
+1 Development
+
+1.1 Background
+
+1.2 Total development cost
+
+1.3 Production
+
+1.4 Testing
+
+1.5 Production and delivery delays
+
+1.6 Entry into service
+
+1.7 Improvements and upgrades
+
+1.8 Post-delivery problems
+
+1.9 Further continuation of programme
+
+1.10 End of production
+
+2 Design
+
+2.1 Overview
+
+2.2 Engines
+
+2.3 Wings
+
+2.4 Materials
+
+2.5 Avionics
+
+2.6 Systems
+
+2.7 Passenger provisions
+
+2.8 Integration with infrastructure and regulations
+
+2.8.1 Ground operations
+
+2.8.2 Takeoff and landing separation
+
+2.8.3 Maintenance
+
+3 Variants proposed but not produced
+
+3.1 A380F
+
+3.2 Stretch
+
+3.3 A380neo
+
+3.4 A380plus
+
+4 Market
+
+4.1 Size
+
+4.2 Frequency and capacity
+
+4.3 Production
+
+4.4 Cost
+
+4.5 Secondary
+
+4.6 Teardown and second-hand market
+
+5 Orders and deliveries
+
+5.1 Timeline
+
+6 Operators
+
+6.1 Former operators
+
+7 Aircraft on display
+
+8 Incidents and accidents
+
+9 Specifications (A380-800, Trent engines)
+
+10 See also
+
+11 Notes
+
+12 References
+
+13 Further reading
+
+14 External links
+
+Development
+
+Background
+
+In mid-1988, Airbus engineers led by Jean Roeder began work in secret on the development of an ultra-high-capacity airliner (UHCA), both to complete its own range of products and to break the dominance that Boeing had enjoyed in this market segment since the early 1970s with its 747.:7 McDonnell Douglas unsuccessfully offered its double-deck MD-12 concept for sale. Lockheed was exploring the possibility for a Very Large Subsonic Transport. Roeder was given approval for further evaluations of the UHCA after a formal presentation to the President and CEO in June 1990.
+
+The megaproject was announced at the 1990 Farnborough Airshow, with the stated goal of 15% lower operating costs than the 747–400.:16–17 Airbus organised four teams of designers, one from each of its partners (Aérospatiale, British Aerospace, Deutsche Aerospace AG, CASA) to propose new technologies for its future aircraft designs. The designs were presented in 1992 and the most competitive designs were used.:17–18
+In January 1993, Boeing and several companies in the Airbus consortium started a joint feasibility study of a Very Large Commercial Transport (VLCT), aiming to form a partnership to share the limited market.:31
+In June 1994, Airbus announced its plan to develop its own very large airliner, designated as A3XX. Airbus considered several designs, including an unusual side-by-side combination of two fuselages from its A340, the largest Airbus jet at the time.:19 The A3XX was pitted against the VLCT study and Boeing's own New Large Aircraft successor to the 747.
+
+In July 1995, the joint study with Boeing was abandoned, as Boeing's interest had declined due to analysis that such a product was unlikely to cover the projected $15 billion development cost. Despite the fact that only two airlines had expressed public interest in purchasing such a plane, Airbus was already pursuing its own large-plane project. Analysts suggested that Boeing would instead pursue stretching its 747 design, and that air travel was already moving away from the hub-and-spoke system that consolidated traffic into large planes, and toward more non-stop routes that could be served by smaller planes.
+
+The double-deck cross-section
+
+From 1997 to 2000, as the 1997 Asian financial crisis darkened the market outlook, Airbus refined its design, targeting a 15–20% reduction in operating costs over the existing Boeing 747–400. The A3XX design converged on a double-decker layout that provided more passenger volume than a traditional single-deck design. Airbus did so in line with traditional hub-and-spoke theory, as opposed to the point-to-point theory with the Boeing 777, after conducting an extensive market analysis with over 200 focus groups. Although early marketing of the huge cross-section touted the possibility of duty-free shops, restaurant-like dining, gyms, casinos and beauty parlours on board, the realities of airline economics have kept such dreams grounded.
+
+On 19 December 2000, the supervisory board of newly restructured Airbus voted to launch an €9.5 billion ($10.7 billion) project to build the A3XX, re-designated as A380, with 50 firm orders from six launch customers. The A380 designation was a break from previous Airbus families, which had progressed sequentially from A300 to A340. It was chosen because the number 8 resembles the double-deck cross section, and is a lucky number in some Asian countries where the aircraft was being marketed. The aircraft configuration was finalised in early 2001, and manufacturing of the first A380 wing-box component started on 23 January 2002. The development cost of the A380 had grown to €11–14 billion when the first aircraft was completed.
+
+Total development cost
+
+In 2000, the projected development cost was €9.5 billion. In 2004 Airbus estimated that €1.5 billion ($2 billion) would need to be added, totalling the developmental costs to €10.3 billion ($12.7 billion). In 2006, Airbus stopped publishing its reported cost after reaching costs of €10.2 billion and then it provisioned another €4.9 billion, after the difficulties in electric cabling and two years delay for an estimated total of €18 billion.
+
+In 2014, the aircraft was estimated to have cost $25bn (£16bn, €18.9bn) to develop. In 2015, Airbus said development costs were €15 billion (£11.4 billion, $16.95 billion), though analysts believe the figure is likely to be at least €5bn ($5.65 Bn) more for a €20 Bn ($22.6 Bn) total. In 2016, The A380 development costs were estimated at $25 billion for 15 years, $25–30 billion, or €25 billion ($28 billion).
+
+To start the programme in 2000, the governments of Germany, France and the UK loaned Airbus 3.5 billion euros and refundable advances reached 5.9 billion euros ($7.3 billion).
+In February 2018, after an Emirates order secured production of the unprofitable programme for ten years, Airbus revised its deal with the three loan-giving governments to save $1.4 billion (17%): restructured terms, to lower the production rate from eight in 2019 to six per year.
+
+On 15 May 2018, in its EU appeal ruling, a WTO ruling concluded that the A380 received improper subsidies through $9 billion of launch aids, but Airbus acknowledges that the threat posed to Boeing by the A380 is so marginal with 330 orders since its 2000 launch that any U.S. sanctions should be minimal, as previous rulings showed Boeing's exposure could be as little as $377 million.
+
+In February 2019, the German government disclosed that it was conducting talks with Airbus regarding €600 million in outstanding loans. Following the decision to wind down the A380 programme, Europe argues that the subsidies in effect no longer exist and that no sanctions are warranted.
+
+Production
+
+Geographical logistics sequence for the A380, with final assembly in Toulouse
+
+Major structural sections of the A380 are built in France, Germany, Spain, and the United Kingdom. Due to the sections' large size, traditional transportation methods proved unfeasible, so they are brought to the Jean-Luc Lagardère Plant assembly hall in Toulouse, France, by specialised road and water transportation, though some parts are moved by the A300-600ST Beluga transport aircraft. A380 components are provided by suppliers from around the world; the four largest contributors, by value, are Rolls-Royce, Safran, United Technologies and General Electric.
+
+For the surface movement of large A380 structural components, a complex route known as the Itinéraire à Grand Gabarit was developed. This involved the construction of a fleet of roll-on/roll-off (RORO) ships and barges, the construction of port facilities and the development of new and modified roads to accommodate oversized road convoys. The front and rear fuselage sections are shipped on one of three RORO ships from Hamburg in northern Germany to Saint-Nazaire in France. The ship travels via Mostyn in the United Kingdom, where the wings are loaded. The wings are manufactured at Broughton in North Wales, then transported by barge to Mostyn docks for ship transport.
+
+A380 components on a barge
+
+In Saint-Nazaire, the ship exchanges the fuselage sections from Hamburg for larger, assembled sections, some of which include the nose. The ship unloads in Bordeaux. The ship then picks up the belly and tail sections from Construcciones Aeronáuticas SA in Cádiz in southern Spain, and delivers them to Bordeaux. From there, the A380 parts are transported by barge to Langon, and by oversize road convoys to the assembly hall in Toulouse. To avoid damage from direct handling, parts are secured in custom jigs carried on self-powered wheeled vehicles.
+
+After assembly, the aircraft are flown to Hamburg Finkenwerder Airport (XFW) to be furnished and painted. Airbus sized the production facilities and supply chain for a production rate of four A380s per month.
+
+Testing
+
+The first completed A380 at the \"A380 Reveal\" event in Toulouse, France, 18 January 2005
+
+A380 prototype on its maiden flight
+
+Five A380s were built for testing and demonstration purposes. The first A380, registered F-WWOW, was unveiled in Toulouse 18 January 2005. It first flew on 27 April 2005. This plane, equipped with Rolls-Royce Trent 900 engines, flew from Toulouse–Blagnac Airport with a crew of six headed by chief test pilot Jacques Rosay. Rosay said flying the A380 had been \"like handling a bicycle\".
+
+On 1 December 2005, the A380 achieved its maximum design speed of Mach 0.96, (its design cruise speed is Mach 0.85) in a shallow dive. In 2006, the A380 flew its first high-altitude test at Addis Ababa Bole International Airport. It conducted its second high-altitude test at the same airport in 2009. On 10 January 2006, it flew to José María Córdova International Airport in Colombia, accomplishing the transatlantic testing, and then it went to El Dorado International Airport to test the engine operation in high-altitude airports. It arrived in North America on 6 February 2006, landing in Iqaluit, Nunavut in Canada for cold-weather testing.
+
+Flight test engineer's station on the lower deck of A380 F-WWOW
+
+On 14 February 2006, during the destructive wing strength certification test on MSN5000, the test wing of the A380 failed at 145% of the limit load, short of the required 150% level. Airbus announced modifications adding 30 kg (66 lb) to the wing to provide the required strength. On 26 March 2006, the A380 underwent evacuation certification in Hamburg. With 8 of the 16 exits arbitrarily blocked, 853 mixed passengers and 20 crew exited the darkened aircraft in 78 seconds, less than the 90 seconds required for certification. Three days later, the A380 received European Aviation Safety Agency (EASA) and United States Federal Aviation Administration (FAA) approval to carry up to 853 passengers.
+
+The first A380 using GP7200 engines—serial number MSN009 and registration F-WWEA—flew on 25 August 2006. On 4 September 2006, the first full passenger-carrying flight test took place. The aircraft flew from Toulouse with 474 Airbus employees on board, in a test of passenger facilities and comfort. In November 2006, a further series of route-proving flights demonstrated the aircraft's performance for 150 flight hours under typical airline operating conditions. As of 2014, the A380 test aircraft continue to perform test procedures.
+
+Airbus obtained type certificates for the A380-841 and A380-842 model from the EASA and FAA on 12 December 2006 in a joint ceremony at the company's French headquarters, receiving the ICAO code A388. The A380-861 model was added to the type certificate on 14 December 2007.
+
+Production and delivery delays
+
+Bare cabin for flight tests with water tanks ballast
+
+Initial production of the A380 was troubled by delays attributed to the 530 km (330 mi) of wiring in each aircraft. Airbus cited as underlying causes the complexity of the cabin wiring (98,000 wires and 40,000 connectors), its concurrent design and production, the high degree of customisation for each airline, and failures of configuration management and change control. The German and Spanish Airbus facilities continued to use CATIA version 4, while British and French sites migrated to version 5. This caused overall configuration management problems, at least in part because wire harnesses manufactured using aluminium rather than copper conductors necessitated special design rules including non-standard dimensions and bend radii; these were not easily transferred between versions of the software.
+
+Airbus announced the first delay in June 2005 and notified airlines that deliveries would be delayed by six months. This reduced the total number of planned deliveries by the end of 2009 from about 120 to 90–100. On 13 June 2006, Airbus announced a second delay, with the delivery schedule slipping an additional six to seven months. Although the first delivery was still planned before the end of 2006, deliveries in 2007 would drop to only 9 aircraft, and deliveries by the end of 2009 would be cut to 70–80 aircraft. The announcement caused a 26% drop in the share price of Airbus' parent, EADS, and led to the departure of EADS CEO Noël Forgeard, Airbus CEO Gustav Humbert, and A380 programme manager Charles Champion. On 3 October 2006, upon completion of a review of the A380 programme, Airbus CEO Christian Streiff announced a third delay, pushing the first delivery to October 2007, to be followed by 13 deliveries in 2008, 25 in 2009, and the full production rate of 45 aircraft per year in 2010. The delay also increased the earnings shortfall projected by Airbus through 2010 to €4.8 billion.
+
+As Airbus prioritised the work on the A380-800 over the A380F, freighter orders were cancelled by FedEx and United Parcel Service, or converted to A380-800 by Emirates and ILFC. Airbus suspended work on the freighter version, but said it remained on offer, albeit without a service entry date. For the passenger version Airbus negotiated a revised delivery schedule and compensation with the 13 customers, all of which retained their orders with some placing subsequent orders, including Emirates, Singapore Airlines, Qantas, Air France, Qatar Airways, and Korean Air.
+
+Beginning in 2007 the A380 was considered as a potential replacement for the existing Boeing VC-25 serving as Air Force One presidential transport, but in January 2009 EADS declared that they were not going to bid for the contract, as assembling only three planes in the US would not make financial sense.
+
+On 13 May 2008, Airbus announced reduced deliveries for the years 2008 (12) and 2009 (21). After further manufacturing setbacks, Airbus announced its plan to deliver 14 A380s in 2009, down from the previously revised target of 18. A total of 10 A380s were delivered in 2009. In 2010 Airbus delivered 18 of the expected 20 A380s, due to Rolls-Royce engine availability problems. Airbus planned to deliver \"between 20 and 25\" A380s in 2011 before ramping up to three a month in 2012. In fact, Airbus delivered 26 units, thus outdoing its predicted output for the first time. As of July 2012, production was 3 aircraft per month. Among the production problems are challenging interiors, interiors being installed sequentially rather than concurrently as in smaller planes, and union/government objections to streamlining.
+
+Entry into service
+
+A Singapore Airlines A380 taking off from Sydney Airport
+
+Nicknamed Superjumbo, the first A380, MSN003 (registered as 9V-SKA), was delivered to Singapore Airlines on 15 October 2007 and entered service on 25 October 2007 with flight number SQ380 between Singapore and Sydney. Passengers bought seats in a charity online auction paying between $560 and $100,380. Two months later, Singapore Airlines CEO Chew Choong Seng stated the A380 was performing better than either the airline or Airbus had anticipated, burning 20% less fuel per seat-mile than the airline's 747-400 fleet. Emirates' Tim Clark claimed that the A380 has better fuel economy at Mach 0.86 than at 0.83, and that its technical dispatch reliability is at 97%, the same as Singapore Airlines. Airbus is committed to reach the industry standard of 98.5%.
+
+Emirates was the second airline to receive the A380 and commenced service between Dubai and New York in August 2008. Qantas followed, with flights between Melbourne and Los Angeles in October 2008. By the end of 2008, 890,000 passengers had flown on 2,200 flights.
+
+In February 2009, the one millionth passenger was flown with Singapore Airlines and by May of that year 1,500,000 passengers had flown on 4,200 flights. Air France received its first A380 in October 2009. Lufthansa received its first A380 in May 2010. By July 2010, the 31 A380s then in service had transported 6 million passengers on 17,000 flights between 20 international destinations.
+
+Airbus delivered the 100th A380 on 14 March 2013 to Malaysia Airlines. In June 2014, over 65 million passengers had flown the A380, and more than 100 million passengers (averaging 375 per flight) by September 2015, with an availability of 98.5%. In 2014, Emirates stated that its A380 fleet had load factors of 90–100%, and that the popularity of the aircraft with its passengers had not decreased in the past year.
+
+Improvements and upgrades
+
+In 2010, Airbus announced a new A380 build standard, incorporating a strengthened airframe structure and a 1.5° increase in wing twist. Airbus will also offer, as an option, an improved maximum take-off weight, thus providing a better payload/range performance. Maximum take-off weight is increased by 4 t (8,800 lb), to 573 t (1,263,000 lb) and the range is extended by 100 nautical miles (190 km); this is achieved by reducing flight loads, partly from optimising the fly-by-wire control laws. British Airways and Emirates are the first two customers to have received this new option in 2013. Emirates has asked for an update with new engines for the A380 to be competitive with the 777X around 2020, and Airbus is studying 11-abreast seating.
+
+In 2012, Airbus announced another increase in the A380's maximum take-off weight to 575 t (1,268,000 lb), a 6 t increase from the initial A380 variant and 2 t higher than the increased-weight proposal of 2010. Its range will increase by some 150 nautical miles (280 km), taking its capability to around 8,350 nautical miles (15,460 km) at current payloads. The higher-weight version was offered for introduction to service early in 2013.
+
+Post-delivery problems
+
+During repairs following the Qantas Flight 32 engine failure incident, cracks were discovered in wing fittings. As a result, the European Aviation Safety Agency issued an Airworthiness Directive in January 2012 which affected 20 A380 aircraft that had accumulated over 1,300 flights. A380s with under 1,800 flight hours were to be inspected within 6 weeks or 84 flights; aircraft with over 1,800 flight hours were to be examined within four days or 14 flights. Fittings found to be cracked were replaced. On 8 February 2012, the checks were extended to cover all 68 A380 aircraft in operation. The problem is considered to be minor and is not expected to affect operations. EADS acknowledged that the cost of repairs would be over $130 million, to be borne by Airbus. The company said the problem was traced to stress and material used for the fittings. Additionally, major airlines are seeking compensation from Airbus for revenue lost as a result of the cracks and subsequent grounding of fleets. Airbus has switched to a different type of aluminium alloy so aircraft delivered from 2014 onwards should not have this problem.
+
+Airbus is changing about 10% of all doors, as some leak during flight. One occurrence resulted in dropped oxygen masks and an emergency landing. The switch is expected to cost over €100 million. Airbus states that safety is sufficient, as the air pressure pushes the door into the frame.
+
+Further continuation of programme
+
+Two A380s cancelled by Skymark and stored by Airbus
+
+At the July 2016 Farnborough Airshow Airbus announced that in a \"prudent, proactive step,\" starting in 2018 it expected to deliver 12 A380 aircraft per year, down from 27 deliveries in 2015. The firm also warned production might slip back into red ink (be unprofitable) on each aircraft produced at that time, though it anticipated production would remain in the black (profitable) for 2016 and 2017. \"The company will continue to improve the efficiency of its industrial system to achieve breakeven at 20 aircraft in 2017 and targets additional cost reduction initiatives to lower breakeven further.\" Airbus expected that healthy demand for its other aircraft would allow it to avoid job losses from the cuts.
+
+As Airbus expected to build 15 airliners in 2017 and 12 in 2018, Airbus Commercial Aircraft president Fabrice Brégier said that, without orders in 2017, production would be reduced below one per month while remaining profitable per unit and allowing the programme to continue for 20 to 30 years.
+In its 2017 half-year report, Airbus adjusted 2019 deliveries to eight aircraft.
+In November 2017, its chief executive Tom Enders was confident Airbus would still produce A380s in 2027 with more sales to come, and further develop it to keep it competitive beyond 2030.
+Airbus was profitable at a rate of 15 per year and is trying to drive breakeven down further but will take losses at eight per year.
+
+An order from Emirates for 36 A380s would have ensured production beyond 2020, but the airline wanted guarantees that production would be maintained for 10 years, until 2028: reducing output to six a year would help to bridge that period and would support second-hand values while other buyers are approached, but the programme would still be unprofitable.
+If it had failed to win the Emirates order, Airbus claimed that it was ready to phase out its production gradually as it fulfilled remaining orders until the early 2020s. In January 2018, Emirates confirmed the order for 36 A380s, but the deal was thrown back into question in October 2018 over a disagreement regarding engine fuel burn.
+
+To extend the programme, Airbus offered China a production role in early 2018.
+While state-owned Chinese airlines could order A380s, it would not help their low yield as it lowers frequency; they do not need more volume as widebody aircraft are already used on domestic routes and using the A380 on its intended long haul missions would free only a few airport slots.
+
+After achieving efficiencies to sustain production at a lower level, in 2017 Airbus delivered 15 A380s and was \"very close\" to production breakeven, expecting to make additional savings as production was being further reduced: it planned to deliver 12 in 2018, eight in 2019 and six per year from 2020 with \"digestible\" losses.
+As of February 2018, Enders was confident the A380 would gain additional orders from existing or new operators, and saw opportunities in Asia and particularly in China where it is \"under-represented\".
+
+End of production
+
+In February 2019, Airbus announced it will end the A380 production by 2021, after its main customer, Emirates, agreed to drop an order for 39 of the aircraft, replacing it with 40 A330-900s and 30 A350-900s. Airbus will build 17 more A380s before closing the production line – 14 for Emirates and three for All Nippon Airways – taking the total number of expected deliveries of the aircraft type to 251. Airbus would have needed more than $90 million from the price of each aircraft to cover the estimated ~$25 billion development cost of the programme. However, the $445 million price tag of each aircraft was not sufficient to even cover the production cost, so with Airbus losing money on each A380, and orders evaporating, it makes economic sense to shut down production. Enders stated on 14 February 2019, \"If you have a product that nobody wants anymore, or you can sell only below production cost, you have to stop it.\"
+
+One reason that the A380 did not achieve commercial viability for Airbus has been attributed to its extremely large capacity being optimised for a hub-and-spoke system, which was projected by Airbus to be thriving when the programme was conceived. However, airlines underwent a fundamental transition to a point-to-point system, which gets customers to their destination in one flight instead of two or three. The massive scale of the A380 design was able to achieve a very low cost for passenger seat-distance, but efficiency here within the hub-and-spoke paradigm was not able to overcome the efficiency of fewer flights required in the point-to-point system. Specifically, US based carriers had been using a multihub strategy, that would only justify the need for a handful of VLAs (very large aircraft with more than 400 seats) such as the A380, and having too few VLAs meant that they could not achieve economy of scale to spread out the enormous fixed cost of the VLA support infrastructure. Consequently, the orders for VLAs slowed in the mid-2010s, as widebody twin jets now offer similar range and greater fuel efficiency, giving airlines more flexibility at a lower upfront cost.
+
+Design
+
+The characteristic ovoid fuselage
+
+Overview
+
+The A380 was initially offered in two models: the A380-800 and the A380F.
+
+The A380-800's original configuration carried 555 passengers in a three-class configuration or 853 passengers (538 on the main deck and 315 on the upper deck) in a single-class economy configuration. Then in May 2007, Airbus began marketing a configuration with 30 fewer passengers (525 total in three classes)—traded for 200 nmi (370 km) more range—to better reflect trends in premium-class accommodation. The design range for the A380−800 model is 8,500 nmi (15,700 km); capable of flying from Hong Kong to New York or from Sydney to Istanbul non-stop.
+
+The second model, the A380F freighter, would have carried 150 t (330,000 lb) of cargo over a range of 5,600 nmi (10,400 km). Freighter development was put on hold as Airbus prioritised the passenger version, and all orders for freighters were cancelled.
+
+Other proposed variants included an A380-900 stretch – seating about 656 passengers (or up to 960 passengers in an all-economy configuration) – and an extended-range version with the same passenger capacity as the A380-800.
+
+Engines
+
+Engine Alliance GP7200 engine waiting for installation
+
+The A380 is offered with the Rolls-Royce Trent 900 (A380-841/-842) or the Engine Alliance GP7000 (A380-861) turbofan engines.
+The Trent 900 is a combination of the 3 m (118 in) fan and scaled IP compressor of the 777-200X/300X Trent 8104 technology demonstrator derived from the Boeing 777's Trent 800, and the Airbus A340-500/600's Trent 500 core.
+The GP7200 HP core technology is derived from GE's GE90 and its LP sections are based on the PW4000 expertise.
+At its launch in 2000, engine makers assured Airbus it was getting the best level of technology and they would be state-of-the-art for the next decade, but three years later Boeing launched the 787 Dreamliner with game-changing technology and 10% lower fuel burn than the previous generation, to the dismay of John Leahy.
+
+Due to its modern engines and aerodynamic improvements, Lufthansa's A380s produce half the noise of the Boeing 747-200 while carrying 160 more passengers.
+In 2012, the A380 received an award from the Noise Abatement Society.
+
+London Heathrow is a key destination for the A380.
+The aircraft is below the QC/2 departure and QC/0.5 arrival noise limits under the Quota Count system set by the airport.
+Field measurements suggest the approach quota allocation for the A380 may be overly generous compared to the older Boeing 747, but still quieter.
+Rolls-Royce is supporting the CAA in understanding the relatively high A380/Trent 900 monitored noise levels.
+Heathrow's landing charges having a noise component, the A380 is cheaper to land there than a Boeing 777-200 and -300 and it saves $4,300 to $5,200 per landing, or $15.3M to $18.8M of present value over 15 years. Tokyo Narita has a similar noise charge.
+
+Sufficient braking capacity allowed for thrust reversers to be installed on only the inboard engines.
+The outboard engines lack them, reducing the amount of debris stirred up during landing.
+The reversers are electrically actuated to save weight, and for greater reliability than pneumatic or hydraulic equivalents.
+
+Wings
+
+Planform view showing moderate wing aspect ratio and the undercarriage
+
+Composite photo of a structural loading test on the left wing box
+
+The A380's wings are sized for a maximum takeoff weight (MTOW) over 650 tonnes to accommodate these future versions, albeit with some internal strengthening required on the A380F freighter. The optimal wingspan for this weight is about 90 m (300 ft), but airport restrictions have limited it to less than 80 m (260 ft), thereby lowering the aspect ratio to 7.8 which reduces fuel efficiency about 10% and increases operating costs a few percent, given that fuel costs constitute about 50% of the cost of long-haul aeroplane operation.
+
+The common wing design approach sacrifices fuel efficiency on the A380-800 passenger model because of its weight, but Airbus estimates that the aircraft's size and advanced technology will provide lower operating costs per passenger than the 747–400. The wings incorporate wingtip fences that extend above and below the wing surface, similar to those on the A310 and A320. These increase fuel efficiency and range by reducing induced drag. The wingtip fences also reduce wake turbulence, which endangers following aircraft.
+
+Materials
+
+While most of the fuselage is made of aluminium alloys, composite materials comprise more than 20% of the A380's airframe. Carbon-fibre reinforced plastic, glass-fibre reinforced plastic and quartz-fibre reinforced plastic are used extensively in wings, fuselage sections (such as the undercarriage and rear end of fuselage), tail surfaces, and doors. The A380 is the first commercial airliner to have a central wing box made of carbon–fibre reinforced plastic. It is also the first to have a smoothly contoured wing cross–section. The wings of other commercial airliners are partitioned span-wise into sections. This flowing continuous cross section reduces aerodynamic drag. Thermoplastics are used in the leading edges of the slats.
+
+The hybrid fibre metal laminate material GLARE (glass laminate aluminium reinforced epoxy) is used in the upper fuselage and on the stabilisers' leading edges. This aluminium-glass-fibre laminate is lighter and has better corrosion and impact resistance than conventional aluminium alloys used in aviation. Unlike earlier composite materials, GLARE can be repaired using conventional aluminium repair techniques. The application of GLARE on the A380 has a long history, which shows the complex nature of innovations in the aircraft industry.
+
+Newer weldable aluminium alloys are used in the A380's airframe. This enables the widespread use of laser beam welding manufacturing techniques, eliminating rows of rivets and resulting in a lighter, stronger structure. High-strength aluminium (type 7449) reinforced with carbon fibre was used in the wing brackets of the first 120 A380s to reduce weight, but cracks have been discovered and new sets of the more critical brackets will be made of standard aluminium 7010, increasing weight by 90 kg (198 lb). Repair costs for earlier aircraft are expected to be around €500 million (US$629 million).
+
+It takes 3,600 L (950 US gal) of paint to cover the 3,100 m2 (33,000 sq ft) exterior of an A380. The paint is five layers thick and weighs about 650 kg (1,433 lb) when dry.
+
+Avionics
+
+The A380 employs an integrated modular avionics (IMA) architecture, first used in advanced military aircraft, such as the Lockheed Martin F-22 Raptor, Lockheed Martin F-35 Lightning II, and Dassault Rafale. The main IMA systems on the A380 were developed by the Thales Group. Designed and developed by Airbus, Thales and Diehl Aerospace, the IMA suite was first used on the A380. The suite is a technological innovation, with networked computing modules to support different applications. The data networks use Avionics Full-Duplex Switched Ethernet, an implementation of ARINC 664. These are switched, full-duplex, star-topology and based on 100baseTX fast-Ethernet. This reduces the amount of wiring required and minimises latency.
+
+A380 flight deck
+
+Airbus used similar cockpit layout, procedures and handling characteristics to other Airbus aircraft, reducing crew training costs. The A380 has an improved glass cockpit, using fly-by-wire flight controls linked to side-sticks. The cockpit has eight 15 by 20 cm (5.9 by 7.9 in) liquid crystal displays, all physically identical and interchangeable; comprising two primary flight displays, two navigation displays, one engine parameter display, one system display and two multi-function displays. The MFDs were introduced on the A380 to provide an easy-to-use interface to the flight management system—replacing three multifunction control and display units. They include QWERTY keyboards and trackballs, interfacing with a graphical \"point-and-click\" display system.
+
+The Network Systems Server (NSS) is the heart of A380s paperless cockpit; it eliminates bulky manuals and traditional charts. The NSS has enough inbuilt robustness to eliminate onboard backup paper documents. The A380s network and server system stores data and offers electronic documentation, providing a required equipment list, navigation charts, performance calculations, and an aircraft logbook. This is accessed through the MFDs and controlled via the keyboard interface.
+
+Systems
+
+A380 20-wheel main landing gear
+
+Power-by-wire flight control actuators have been used for the first time in civil aviation to back up primary hydraulic actuators. Also, during certain manoeuvres they augment the primary actuators. They have self-contained hydraulic and electrical power supplies. Electro-hydrostatic actuators (EHA) are used in the aileron and elevator, electric and hydraulic motors to drive the slats as well as electrical backup hydrostatic actuators (EBHA) for the rudder and some spoilers.
+
+The A380's 350 bar (35 MPa or 5,000 psi) hydraulic system is a significant difference from the typical 210 bar (21 MPa or 3,000 psi) hydraulics used on most commercial aircraft since the 1940s. First used in military aircraft, high-pressure hydraulics reduce the weight and size of pipelines, actuators and related components. The 350 bar pressure is generated by eight de-clutchable hydraulic pumps. The hydraulic lines are typically made from titanium; the system features both fuel- and air-cooled heat exchangers. Self-contained electrically powered hydraulic power packs serve as backups for the primary systems, instead of a secondary hydraulic system, saving weight and reducing maintenance.
+
+The A380 uses four 150 kVA variable-frequency electrical generators, eliminating constant-speed drives and improving reliability. The A380 uses aluminium power cables instead of copper for weight reduction. The electrical power system is fully computerised and many contactors and breakers have been replaced by solid-state devices for better performance and increased reliability.
+
+The auxiliary power comprises the Auxiliary Power Unit (APU), the electronic control box (ECB), and mounting hardware. The APU in use on the A380 is the PW 980A APU. The APU primarily provides air to power the Analysis Ground Station (AGS) on the ground and to start the engines. The AGS is a semi-automatic analysis system of flight data that helps to optimise management of maintenance and reduce costs. The APU also powers electric generators that provide auxiliary electric power to the aircraft.
+
+Passenger provisions
+
+Main article: Seat configurations of Airbus A380
+
+10 across economy class seating
+
+The A380-800's cabin has 550 square metres (5,920 sq ft) of usable floor space, 40% more than the next largest airliner, the Boeing 747-8.
+
+The cabin has features to reduce traveller fatigue such as a quieter interior and higher pressurisation than previous generations of aircraft; the A380 is pressurised to the equivalent altitude of 1,520 m (5,000 ft) up to 12,000 m (39,000 ft).:129 It has 50% less cabin noise, 50% more cabin area and volume, larger windows, bigger overhead bins, and 60 cm (2.0 ft) extra headroom versus the 747–400. Seating options range from 3-room 12 m2 (130 sq ft) \"residence\" in first class to 11-across in economy. A380 economy seats are up to 48 cm (19 in) wide in a 10-abreast configuration, compared with the 10-abreast configuration on the 747-400 that typically has seats 44.5 cm (17.5 in) wide. On other aircraft, economy seats range from 41.5 to 52.3 cm (16.3 to 20.6 in) in width.
+
+The A380's upper and lower decks are connected by two stairways, one fore and one aft, with both being wide enough to accommodate two passengers side by side; this cabin arrangement allows multiple seat configurations. The maximum certified carrying capacity is 853 passengers in an all-economy-class layout, Airbus lists the \"typical\" three-class layout as accommodating 525 passengers, with 10 first, 76 business, and 439 economy class seats. Airline configurations range from Korean Air's 407 passengers to Emirates' two-class 615 seats and average around 480–490 seats. The Air Austral's proposed 840 passenger layout has not come to fruition. The A380's interior illumination system uses bulbless LEDs in the cabin, cockpit, and cargo decks. The LEDs in the cabin can be altered to create an ambience simulating daylight, night, or intermediate levels. On the outside of the aircraft, HID lighting is used for brighter illumination.
+
+Airbus's publicity has stressed the comfort and space of the A380 cabin, and advertised onboard relaxation areas such as bars, beauty salons, duty-free shops, and restaurants. Proposed amenities resembled those installed on earlier airliners, particularly 1970s wide-body jets, which largely gave way to regular seats for more passenger capacity. Airbus has acknowledged that some cabin proposals were unlikely to be installed, and that it was ultimately the airlines' decision how to configure the interior. Industry analysts suggested that implementing customisation has slowed the production speeds, and raised costs. Due to delivery delays, Singapore Airlines and Air France debuted their seat designs on different aircraft prior to the A380.
+
+Initial operators typically configured their A380s for three-class service, while adding extra features for passengers in premium cabins. Launch customer Singapore Airlines introduced partly enclosed first class suites on its A380s in 2007, each featuring a leather seat with a separate bed; center suites could be joined to create a double bed. A year later, Qantas debuted a new first class seat-bed and a sofa lounge at the front of the upper deck on its A380s, and in 2009 Air France unveiled an upper deck electronic art gallery. In late 2008, Emirates introduced \"shower spas\" in first class on its A380s allowing each first class passenger five minutes of hot water, drawing on 2.5 tonnes of water although only 60% of it was used.
+
+Etihad Airways and Qatar Airways also have a bar lounge and seating area on the upper deck, while Etihad has enclosed areas for two people each. In addition to lounge areas, some A380 operators have installed amenities consistent with other aircraft in their respective fleets, including self-serve snack bars, premium economy sections, and redesigned business class seating.
+
+The Hamburg Aircraft Interiors Expo in April 2015 saw the presentation of an 11-seat row economy cabin for the A380. Airbus is reacting to a changing economy; the recession which began in 2008 saw a drop in market percentage of first class and business seats to six percent and an increase in budget economy travellers. Among other causes is the reluctance of employers to pay for executives to travel in First or Business Class. Airbus' chief of cabin marketing, Ingo Wuggestzer, told Aviation Week and Space Technology that the standard three class cabin no longer reflected market conditions. The 11 seat row on the A380 is accompanied by similar options on other widebodies: nine across on the Airbus A330 and ten across on the A350.
+
+\t\t
+\t\t\t
+
+\t\t\t
+Emirates business class
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Etihad suite
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Emirates Bar
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Emirates first class shower
+
+\t\t\t
+
+\t\t
+
+Integration with infrastructure and regulations
+
+Ground operations
+
+Aircraft ground handling with separate jetways for the main and upper deck, and ground support equipment
+
+In the 1990s, aircraft manufacturers were planning to introduce larger planes than the Boeing 747. In a common effort of the International Civil Aviation Organization (ICAO) with manufacturers, airports and its member agencies, the \"80-metre box\" was created, the airport gates allowing planes up to 80 m (260 ft) wingspan and length to be accommodated. Airbus designed the A380 according to these guidelines, and to operate safely on Group V runways and taxiways with a 60 metres (200 ft) loadbearing width. The US FAA initially opposed this, then in July 2007, the FAA and EASA agreed to let the A380 operate on 45 m (148 ft) runways without restrictions. The A380-800 is approximately 30% larger in overall size than the 747–400. Runway lighting and signage may need changes to provide clearance to the wings and avoid blast damage from the engines. Runways, runway shoulders and taxiway shoulders may be required to be stabilised to reduce the likelihood of foreign object damage caused to (or by) the outboard engines, which are more than 25 m (82 ft) from the centre line of the aircraft, compared to 21 m (69 ft) for the 747-400, and 747-8.
+
+Airbus measured pavement loads using a 540-tonne (595 short tons) ballasted test rig, designed to replicate the landing gear of the A380. The rig was towed over a section of pavement at Airbus' facilities that had been instrumented with embedded load sensors. It was determined that the pavement of most runways will not need to be reinforced despite the higher weight, as it is distributed on more wheels than in other passenger aircraft with a total of 22 wheels (that is, its ground pressure is lower). The A380 undercarriage consists of four main landing gear legs and one noseleg (a similar layout to the 747), with the two inboard landing gear legs each supporting six wheels.
+
+The A380 requires service vehicles with lifts capable of reaching the upper deck, as well as tractors capable of handling the A380's maximum ramp weight. When using two jetway bridges the boarding time is 45 min, and when using an extra jetway to the upper deck it is reduced to 34 min. The A380 has an airport turnaround time of 90–110 minutes. In 2008 the A380 test aircraft were used to trial the modifications made to several airports to accommodate the type.
+
+Takeoff and landing separation
+
+Wingtip vortex left behind
+
+In 2005, the ICAO recommended that provisional separation criteria for the A380 on takeoff and landing be substantially greater than for the 747 because preliminary flight test data suggested a stronger wake turbulence. These criteria were in effect while the ICAO's wake vortex steering group, with representatives from the JAA, Eurocontrol, the FAA, and Airbus, refined its 3-year study of the issue with additional flight testing. In September 2006, the working group presented its first conclusions to the ICAO.
+
+In November 2006, the ICAO issued new interim recommendations. Replacing a blanket 10 nautical miles (19 km) separation for aircraft trailing an A380 during approach, the new distances were 6 nmi (11 km), 8 nmi (15 km) and 10 nmi (19 km) respectively for non-A380 \"Heavy\", \"Medium\", and \"Light\" ICAO aircraft categories. These compared with the 4 nmi (7.4 km), 5 nmi (9.3 km) and 6 nmi (11 km) spacing applicable to other \"Heavy\" aircraft. Another A380 following an A380 should maintain a separation of 4 nmi (7.4 km). On departure behind an A380, non-A380 \"Heavy\" aircraft are required to wait two minutes, and \"Medium\"/\"Light\" aircraft three minutes for time based operations. The ICAO also recommends that pilots append the term \"Super\" to the aircraft's callsign when initiating communication with air traffic control, to distinguish the A380 from \"Heavy\" aircraft.
+
+In August 2008, the ICAO issued revised approach separations of 4 nmi (7.4 km) for Super (another A380), 6 nmi (11 km) for Heavy, 7 nmi (13 km) for medium/small, and 8 nmi (15 km) for light. In November 2008, an incident on a parallel runway during crosswinds made the Australian authorities change procedures for those conditions.
+
+Singapore Airlines describe the A380's landing speed of 130–135 kn (240–250 km/h) as \"impressively slow\".
+
+Maintenance
+
+As the A380 fleet grows older, airworthiness authority rules require certain scheduled inspections from approved aircraft tool shops. The increasing fleet size (to about 286 in 2020) cause expected maintenance and modification to cost $6.8 billion for 2015–2020, of which $2.1 billion are for engines. Emirates performed its first 3C-check for 55 days in 2014. During lengthy shop stays, some airlines will use the opportunity to install new interiors.
+
+Variants proposed but not produced
+
+A380F
+
+The A380F was proposed but postponed after 2005 and never built
+
+Airbus offered a cargo aircraft variant since at least June 2005, capable of transporting a 150 t (330,000 lb) maximum payload over a 5,600 nmi (10,400 km) range. It would have had 7% better payload and better range than the Boeing 747-8F, but also higher trip costs. It would have the largest payload capacity of any freighter aircraft except the single Antonov An-225 Mriya in service.
+
+Production was suspended until the A380 production lines had settled, with no firm availability date. The A380F was displayed on The Airbus website until at least January 2013, but was not anymore in April.
+A patent for \"combi\" version was applied for. This version would offer the flexibility of carrying both passengers and cargo, along with being rapidly reconfigurable to expand or contract the cargo area and passenger area as needed for a given flight.
+
+Stretch
+
+At launch in December 2000, a 656-seat A380-200 was proposed as a derivative of the 555-seat baseline.
+
+In November 2007, Airbus top sales executive and chief operating officer John Leahy confirmed plans for an enlarged variant—the A380-900—with more seating space than the A380-800. The A380-900 would have had a seating capacity for 650 passengers in standard configuration and for approximately 900 passengers in an economy-only configuration. Airlines that expressed an interest in the A380-900 included Emirates, Virgin Atlantic, Cathay Pacific, Air France, KLM, Lufthansa, Kingfisher Airlines, and leasing company ILFC. In May 2010, Airbus announced that A380-900 development would be postponed until production of the A380-800 stabilised.
+
+On 11 December 2014, at the annual Airbus Investor Day forum, Airbus CEO Fabrice Bregier controversially announced, \"We will one day launch an A380neo and one day launch a stretched A380\". This statement followed speculation sparked by Airbus CFO Harald Wilhelm that Airbus could possibly axe the A380 ahead of its time due to softening demand.
+
+On 15 June 2015, John Leahy, Airbus's chief operating officer for customers, stated that Airbus was again looking at the A380-900 programme. Airbus's newest concept would be a stretch of the A380-800 offering 50 seats more—not 100 seats as originally envisaged. This stretch would be tied to a potential re-engining of the A380-800. According to Flight Global, an A380-900 would make better use of the A380's existing wing.
+
+A380neo
+
+On 15 June 2015, Reuters reported that Airbus was discussing a stretched version of the A380 with at least six customers. This aircraft, which could also feature new engines, would accommodate an additional fifty passengers. Deliveries to customers were planned for sometime in 2020 or 2021. On 19 July 2015, Airbus CEO Fabrice Brégier stated that the company will build a new version of the A380 featuring new improved wings and new engines. Speculation about the development of a so-called A380neo (\"neo\" for \"new engine option\") had been going on for a few months after earlier press releases in 2014, and in 2015 the company was considering whether to end production of the type prior to 2018 or develop a new A380 variant. Later it was revealed that Airbus was looking at both the possibility of a longer A380 in line of the previously planned A380-900 and a new engine version, i.e. A380neo. Brégier also revealed that the new variant would be ready to enter service by 2020. The engine would most likely be one of a variety of all-new options from Rolls-Royce, ranging from derivatives of the A350's XWB-84/97 to the future Advance project due at around 2020.
+
+On 3 June 2016, Emirates President Tim Clark stated that talks between Emirates and Airbus on the A380neo have \"lapsed\". On 12 June 2017, Fabrice Brégier confirmed that Airbus would not launch an A380neo, stating \"...there is no business case to do that, this is absolutely clear.\" However, Brégier stated it would not stop Airbus from looking at what could be done to improve the performance of the aircraft. One such proposal is a 32 ft (9.8 m) wingspan extension to reduce drag and increase fuel efficiency by 4%, though further increase is likely to be seen on the aircraft with new Sharklets like on the A380plus.
+
+A380plus
+
+The A380plus winglet mockup
+
+At the June 2017 Paris Air Show, Airbus proposed an A380plus enhanced version with 13% lower costs per seat, featuring up to 80 more seats through better use of cabin space, split scimitar winglets and wing refinements allowing a 4% fuel economy improvement, and longer aircraft maintenance intervals with less downtime. Its maximum takeoff weight would have been increased by 3 t (6,600 lb) to 578 t (1,274,000 lb), allowing it to carry more passengers over the same 8,200 nmi range or increase the range by 300 nm.
+
+Winglet mockups, 4.7m (15​1⁄2ft) high, were displayed on the MSN04 test aircraft at Le Bourget. Wing twist would have been modified and camber changed by increasing its height by 33 mm (1.3 in) between Rib 10 and Rib 30, along with upper-belly fairing improvements. The in-flight entertainment, the flight management system and the fuel pumps would be from the A350 to reduce weight and improve reliability and fuel economy. Light checks would be required after 1,000 hr instead of 750 hr and heavy check downtime would be reduced to keep the aircraft flying for six days more per year.
+
+Market
+
+Singapore Airlines, Qantas, and Emirates A380 tails at Heathrow Airport
+
+Size
+
+In its 2000 Global Market Forecast, Airbus estimated a demand for 1,235 passenger Very Large Aircraft (VLA), with more than 400 seats: 360 up to 2009 and 875 by 2019.
+In late 2003, Boeing forecast 320 “Boeing 747 and larger” passenger aircraft over 20 years, close to the 298 orders actually placed for the A380 and 747-8 passenger airliners as of March 2020.
+
+In 2007, Airbus estimated a demand for 1,283 VLAs in the following 20 years if airport congestion remains constant, up to 1,771 VLAs if congestion increases, with most deliveries (56%) in Asia-Pacific, and 415 very large, 120-tonne plus freighters. For the same period, Boeing was estimating the demand for 590 large (747 or A380) passenger airliners and 630 freighters.
+Estimates for the total over a twenty-year period have varied from 400 to over 1,700.
+
+Frequency and capacity
+
+China Southern A380 taking off from Beijing Capital Airport
+
+In 2013, Cathay Pacific and Singapore Airlines needed to balance frequency and capacity. China Southern struggled for two years to use its A380s from Beijing, and finally received Boeing 787s in its base in Guangzhou, but where it cannot command a premium, unlike Beijing or Shanghai. In 2013, Air France withdrew A380 services to Singapore and Montreal and switched to smaller aircraft.
+
+In 2014, British Airways replaced three 777 flights between London and Los Angeles with two A380 per day. Emirates' Tim Clark saw a large potential for Asian A380-users, and criticised Airbus' marketing efforts. As many business travellers prefer more choices offered by greater flight frequency achieved by flying any given route multiple times on smaller aircraft, rather than fewer flights on larger planes, United Airlines observed the A380 \"just doesn't really work for us\". It employs Boeing 787s operating at a lower trip cost.
+
+At the A380 launch, most Europe-Asia and transpacific routes used Boeing 747-400s at fairly low frequencies but, since then, routes proliferated with open skies, and most airlines downsized, offering higher frequencies and more routes.
+The huge capacity offered by each flight eroded the yield: North America was viewed as 17% of the market but the A380 never materialised as a 747 replacement, with only 15 747s remaining in passenger service in November 2017 for transpacific routes, where time zones restrict potential frequency. Consolidation changed the networks, and US majors constrained capacity and emphasised daily frequencies for business traffic with midsize widebodies like the 787, to extract higher yields; the focus being on profits, with market share ceded to Asian carriers.
+
+The 747 was largely replaced on transatlantic flights by the 767, and on the transpacific market by the 777; newer, smaller aircraft with similar seat-mile costs have lower trip costs and allow more direct routes.
+Cabin 'densification', to lower unit costs, could aggravate this overcapacity.
+
+Production
+
+In 2005, 270 sales were necessary to attain break-even and with 751 expected deliveries its internal rate of return outlook was at 19%, but due to disruptions in the ramp-up leading to overcosts and delayed deliveries, it increased to 420 in 2006. In 2010, EADS CFO Hans Peter Ring said that break-even could be achieved by 2015 when 200 deliveries were projected. In 2012, Airbus clarified that the aircraft production costs would be less than its sales price.
+
+On 11 December 2014, Airbus chief financial officer Harald Wilhelm hinted the possibility of ending the programme in 2018, disappointing Emirates president Tim Clark. Airbus shares fell down consequently. Airbus responded to the protests by playing down the possibility the A380 would be abandoned, instead emphasising that enhancing the aeroplane was a likelier scenario. On 22 December 2014, as the jet was about to break even, Airbus CEO Fabrice Brégier ruled out cancelling it.
+
+Ten years after its first flight, Brégier said it was \"almost certainly introduced ten years too early\". While no longer losing money on each plane sold, Airbus admits that the company will never recoup the $25 billion investment it made in the project.
+
+Airbus consistently forecast 1,400 VLA demand over 20-year, still in 2017, and aimed to secure a 50% share, up to 700 units, but delivered 
+215 aircraft in 10 years, achieving three produced per month but not the four per month target after the ramp-up to achieve more than 350 and is now declining to 0.5 a month.
+As Boeing see the VLA market as too small to retain in its 2017 forecast, its VP marketing Randy Tinseth does not believe Airbus will deliver the rest of the backlog.
+
+Richard Aboulafia predicts a 2020 final delivery, with unpleasant losses due to \"hubris, shoddy market analysis, nationalism and simple wishful thinking\".
+In 2017, the A380 fleet exceeded the number of remaining passenger B747s, which had declined from 740 aircraft when the A380 was launched in 2000 to 550 units when the A380 was introduced in 2007, and around 200 ten years later. However, the market-share battle has shifted to large single-aisles and 300-seat twin-aisles.
+
+Cost
+
+As of 2016 the list price of an A380 was US$432.6 million. Negotiated discounts made the actual prices much lower, and industry experts questioned whether the A380 project would ever pay for itself. The first aircraft was sold and leased back by Singapore Airlines in 2007 to Dr. Peters for $197 million.
+In 2016, IAG's Willie Walsh said he could add a few, but also that he found the price of new aircraft \"outrageous\" and would source them from the second-hand market.
+
+AirInsight estimates its hourly cost at $26,000, or around $50 per seat hour (for 520 seats), which compares to $44 per seat hour for a Boeing 777-300ER, and $90 per seat hour for a Boeing 747-400 as of November 2015.
+As it has very large wing and tail surfaces to allow a stretch and a high empty weight per seat, its cost-per-seat advantage eroded, and the A350-1000 and 777-9 will match it.
+
+Secondary
+
+Hi Fly A380 at the 2018 Farnborough Airshow
+
+As of mid-2015, several airlines have expressed their interest in selling their aircraft, partially coinciding with expiring lease contracts for the aircraft. Several A380s which are in service have been offered for lease to other airlines. The suggestion has prompted concerns on the potential for new sales for Airbus, although these were dismissed by Airbus COO John Leahy who stated that \"Used A380s do not compete with new A380s\", stating that the second-hand market is more interesting for parties otherwise looking to buy smaller aircraft such as the Boeing 777.
+
+After Malaysia Airlines was unable to sell or lease its six A380s, it decided to refurbish the aircraft with seating for 700 and transfer them to a subsidiary carrier for religious pilgrimage flights. As it started receiving its six A350s to replace its A380s in December 2017, the new subsidiary will serve the Hajj and Umrah market with them, starting in the third quarter of 2018 and could be expanded above six beyond 2020 to 2022. The cabin will have 36 business seats and 600 economy seats, with a 712-seat reconfiguration possible within five days. The fleet could be chartered half the year for the tourism industry like cruise shipping and will be able to operate for the next 40 years if oil prices stay low.
+As they should be parked by June 2018 before reconfiguration, MAS confirmed the plans and will also use them for peak periods to high traffic markets like London.
+
+In August 2017, it was announced that Hi Fly would lease two used aircraft. The Portuguese ACMI/charter airline will use the aircraft for markets where high capacity is needed and airports where slots are scarce. The first aircraft was scheduled to begin commercial operations during the first quarter of 2018 
+Hi Fly was to receive its A380s from mid-2018 in a 471-seat configuration: 399 on the main deck, 60 business-class and 12 first-class seats on the upper deck, the Singapore Airlines layout.
+Hi Fly first used one of their A380s on 1 August 2018 for a one-off flight to enable Thomas Cook Airlines to repatriate passengers from Rhodes to Copenhagen following IT problems in the Greek airport. The same aircraft was then wet-leased to Norwegian to operate its evening London-New York service for several weeks in August 2018, to alleviate availability issues on its Boeing 787s affected by Trent 1000 engine problems; Air Austral also signed a deal to wet-lease an A380 from Hi Fly while one of its 787s is grounded for three months of Trent 1000 inspections.
+As of December 2019, Hi Fly have leased one used A380.
+
+Amedeo, mainly an A380 lessor and the largest with 22, mostly leased to Emirates, wants to find a use for them after their lease expires from 2022, and study if there is a demand to wet lease them.
+Swiss aircraft broker Sparfell & Partners plans to convert for head-of-state or VVIP transport some of Dr. Peters' four ex-SIA A380s for under $300 million apiece, less than a new Boeing 777 or Airbus A330.
+As of November 2018, Air France was planning to return five of its A380s to lessors by the end of 2019 and refurbish its other five with new interiors by 2020 for $51 million per aircraft. By July 2019, Air France revised this plan and intended to phase out all ten of its A380s by 2022, replacing them with no more than nine twin-engined wide-body aircraft. The A330-900, A350-900 or 787-9 were being evaluated as potential replacements.
+
+Following the cancellation of the programme in February 2019, the residual value of existing aircraft is in doubt. While Amedeo argued that cancellation should benefit the value, this will depend on whether any new airlines are prepared to adopt second-hand A380s, and how many existing users continue to operate the aircraft. Even the teardown value is questionable, in that the engines, usually the most valuable part of a scrap aircraft, are not used by any other models.
+
+Teardown and second-hand market
+
+With four A380s leased to Singapore Airlines having been returned between October 2017 and March 2018, Dr. Peters fears a weak aftermarket and is considering scrapping them, although they are on sale for a business jet conversion, but on the other hand Airbus sees a potential for African airlines and Chinese airlines, Hajj charters and its large Gulf operators.
+An A380 parted out may be worth $30 million to $50 million if it is at half-life.
+Teardown specialists have declined offers for several aircraft at part-out prices due to high risk as a secondary market is uncertain with $30 to $40 million for the refurbishment, but should be between $20 to $30 million to be viable.
+
+When the aircraft were proposed to BA, Hi Fly and Iran Air, BA did not want to replace its Boeing 747s until 2021, while Iran Air faced political uncertainty and Hi Fly did not have a convincing business case. Consequently, Dr. Peters recommended to its investors on 28 June 2018 to sell the aircraft parts with VAS Aero Services within two years for US$45 million, quickly for components like the landing gear or the APU.
+Rolls-Royce Trent 900 leasing beyond March 2019 should generate US$480,000 monthly for each aircraft before selling the turbofans by 2020. With a total revenue of US$80 million per aircraft, the overall return expected is 145–155% while 72% and 81% of their debt had already been repaid.
+
+The fifth plane coming back from SIA, owned by Doric, has been leased by Hi Fly Malta with a lease period of \"nearly 6 years\". Hi Fly Malta became the first operator of second-hand A380 (Airbus MSN006, SIA 9V-SKC), which carries the Maltese registration number, 9H-MIP. Norwegian Long Haul briefly leased Hi Fly Malta A380 in August 2018, which operated the aircraft following engine problems with their Dreamliner fleet. Norwegian leased the A380 again in late 2018 to help deal with the passenger backlog as a result of the Gatwick Airport drone incident.
+
+Two others returned from Singapore Airlines in the coming weeks (June 2018) but they could stay with an existing Asian A380 flag carrier.
+
+The teardown value includes $32–$33 million from the engines in 2020 and $4 million from leasing them until then, while the value of a 2008 A380 would be $78.4 million in 2020 and its monthly lease in 2018 would be $929,000.
+The two aircraft have returned 3.8–4.2% per year since 2008 but the 145–155% return is lower than the 220% originally forecast.
+Of the nearly 500 made, 50 747-400s were sold in the secondary market, including only 25 to new customers.
+These are among the first A380s delivered, lacking the improvements and weight savings of later ones.
+
+The first two A380s delivered to Singapore Airlines (Airbus MSN003 and MSN005, SIA 9V-SKA and 9V-SKB) flew to Tarbes, France to be scrapped. Their engines and some components had been dismantled and removed while the livery was painted over in white.
+
+As of September 2019, Emirates initiated its A380 retirement plan – which will see the type remain in service until at least 2035 – by retiring two aircraft that were due for a major overhaul, and using them as parts donors for the rest of the fleet. Emirates does not see any demand in the second-hand market, but is indifferent in that the retired aircraft have already been fully written down and thus have no residual value. As further aircraft are retired, Emirates-owned airframes will continue to be used for parts, while leased airframes will be returned to the lessors.
+
+Orders and deliveries
+
+Main article: List of Airbus A380 orders and deliveries
+
+Fourteen customers have ordered and taken delivery of the A380 as of April 2019. Total orders for the A380 stand at 251 as of November 2019. The biggest customer is Emirates, which has committed to order a total of 123 A380s as of 14 February 2019. One VIP order was made in 2007 but later cancelled by Airbus. The A380F version attracted 27 orders, before they were either cancelled (20) or converted to A380-800 (7) following the production delay and the subsequent suspension of the freighter programme.
+
+Delivery takes place in Hamburg for customers from Europe and the Middle East and in Toulouse for customers from the rest of the world. EADS explained that deliveries in 2013 were to be slowed temporarily to accommodate replacement of the wing rib brackets where cracks were detected earlier in the existing fleet.
+
+In 2013, in expectation of raising the number of orders placed, Airbus announced 'attractable discounts' to airlines who placed large orders for the A380. Soon after, at the November 2013 Dubai Air Show where it ordered 150 B777X, Emirates ordered 50 aircraft, totalling $20 billion.
+
+In 2014, Airbus said that some ordered A380s might not be built for an undisclosed Japanese airline. Qantas planned to order eight more aircraft but froze its order while the airline restructured its operations. Qantas eventually cancelled its order in February 2019 amid doubts over the A380's future.
+
+Amedeo, an aircraft lessor that ordered 20 A380s, had not found a client for the airliner and eventually cancelled their order in 2019.
+Virgin Atlantic ordered six A380s in 2001 but never took delivery and later cancelled them in 2018.
+
+As of June 2017, Emirates has 48 orders outstanding but due to lack of space in Dubai Airport, it deferred 12 deliveries by one year and will not take any in 2019–20 before replacing its early airliners from 2021: there are open production slots in 2019 and Airbus reduced its production rate at 12 per year for 2017–18. The real backlog is much smaller than the official 107 with 47 uncertain orders: 20 commitments for the A380-specialized lessor Amedeo which commits to production only once aircraft are placed, eight for Qantas which wants to keep its fleet at 12, six for Virgin Atlantic which does not want them any more and three ex Transaero for finance vehicle Air Accord.
+
+At its 100th delivery ceremony, Emirates Airline head Ahmed bin Saeed Al Maktoum was hoping to order new A380s at the November 2017 Dubai Air Show the following week.
+Emirates does not need the small front staircase and eleven-abreast economy of the A380plus concept, but wants Airbus to commit to continue production for at least 10 years.
+On 18 January 2018, Airbus secured a preliminary agreement from Emirates for up to 36 A380s, to be delivered from 2020, valued at $16 billion at list prices. The contract was signed in February 2018, comprising a firm order for 20 A380s and options on 16 more.
+
+In early 2019, Airbus confirmed it was in discussions with Emirates over its A380 contract.
+If the A380's only stable client were to drop the type, Airbus could cease production of the superjumbo.
+Emirates is at odds with Rolls-Royce over shortfalls in fuel savings from the Trent 900s, and could switch its order for 36 A380s to the smaller A350.
+The A350 could also replace its provisional order for 40 Boeing 787-10s, placed in 2017, as engine margins on the 787 are insufficient for the hot Dubai weather.
+
+On 14 February 2019, Emirates decided to cancel its order for 39 planes, opting to replace them with A350s and A330neos. Airbus stated that this cancellation would bring the A380's production to an end when the last unfilled orders are delivered in 2021.
+
+On 21 March 2019, All Nippon Airways received its first of three A380 painted with the Sea Turtle livery. Called the ANA Blue, this A380 will be used for 3 flights a week, going from Tokyo to Honolulu and back.
+
+Timeline
+
+A380 firm net orders and deliveries
+ view
+
+talk
+
+edit
+
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 Total
+
+Net orders
+ A380-800 78 – 34 10 10 24 33 9 4 32 19 9 42 13 2 – −2 4 −70 – 251
+
+A380F 7 10 – – 10 −17 −10 – – – – – – – – – – – – – 0
+
+Deliveries
+ A380-800 – – – – – – 1 12 10 18 26 30 25 30 27 28 15 12 8 – 242
+
+Cumulative orders and deliveries
+
+Data from Airbus through the end of June 2020.
+
+ Orders
+
+ Deliveries
+
+Operators
+
+There were 228 aircraft in service with 14 operators as of 23 May 2020.
+
+Emirates is the largest A380 operator with 115 aircraft in service as of 23 May 2020.
+
+Etihad Airways' first Airbus A380 taking off from London-Heathrow for Abu Dhabi
+
+Singapore Airlines (first service on 25 October 2007)
+
+Emirates (first service on 1 August 2008)
+
+Qantas (first service on 20 October 2008)
+
+Lufthansa (first service on 6 June 2010)
+
+Korean Air (first service on 17 June 2011)
+
+China Southern Airlines (first service on 17 October 2011)
+
+Malaysia Airlines (first service on 1 July 2012)
+
+Thai Airways (first service on 6 October 2012)
+
+British Airways (first service on 2 August 2013)
+
+Asiana Airlines (first service on 13 June 2014)
+
+Qatar Airways (first service on 10 October 2014)
+
+Etihad Airways (first service on 27 December 2014)
+
+Hi Fly Malta (first service on 1 August 2018)
+
+All Nippon Airways (first service on 24 May 2019)
+
+Former operators
+
+Air France operated 10 A380-800s from 2009, and retired them in May 2020 due to the impacts of the COVID-19 pandemic on air traffic.
+
+Aircraft on display
+
+The fourth test A380 (MSN4) was donated to the Musée de l’air et de l’espace at Le Bourget in 2017. After several months of restoration, it was put on display on the apron in 2018, in close proximity to the museum's Boeing 747-100, making the museum the first in the world where both superjumbos can be seen together.
+
+Donated by Airbus at the same time as A380 MSN4, the second test A380 was donated to the Aeroscopia museum at Toulouse-Blagnac Airport, Toulouse, along with the first Airbus A320 and an Airbus A340, that had also previously been used by the company for test flights.
+
+Incidents and accidents
+
+The A380 has been involved in two aviation occurrences and no hull loss accidents with no fatalities as of July 2020.
+
+On 4 November 2010, Qantas Flight 32, en route from Singapore Changi Airport to Sydney Airport, suffered an uncontained engine failure, resulting in a series of related problems, and forcing the flight to make an emergency landing. The plane safely returned to Singapore. There were no injuries to the passengers, crew or people on the ground despite debris falling onto the Indonesian island of Batam. The A380 was damaged sufficiently for the event to be classified as an accident. Qantas subsequently grounded all of its A380s that day subject to an internal investigation taken in conjunction with the engine manufacturer Rolls-Royce plc. A380s powered by Engine Alliance GP7000 were unaffected, but operators of Rolls-Royce Trent 900-powered A380s were affected. Investigators determined that an oil leak, caused by a defective oil supply pipe, led to an engine fire and subsequent uncontained engine failure. Repairs cost an estimated A$139 million (~US$145M). As other Rolls-Royce Trent 900 engines also showed problems with the same oil leak, Rolls-Royce ordered many engines to be changed, including about half of the engines in the Qantas A380 fleet. During the aeroplane's repair, cracks were discovered in wing structural fittings, which also resulted in mandatory inspections of all A380s and subsequent design changes.
+
+On 30 September 2017, Air France Flight 66, an Engine Alliance GP7270 powered Airbus A380, registration F-HPJE, suffered an apparent uncontained engine failure while operating from Paris Charles de Gaulle Airport to Los Angeles International Airport. The aircraft safely diverted to CFB Goose Bay, Canada.
+
+Specifications (A380-800, Trent engines)
+
+Layout of A380-800, 519 seat configuration (331 lower, 188 upper)
+
+Data from Airbus
+
+General characteristics
+
+Crew: 2
+
+Capacity: 575 typical, 853 max
+
+175.2 m3 (6,190 cu ft) cargo
+
+Maximum payload 84 t (185,000 lb)
+
+Length: 72.72 m (238 ft 7 in)
+
+Wingspan: 79.75 m (261 ft 8 in)
+
+Width: 7.14 m (23 ft 5 in)
+
+Height: 24.09 m (79 ft 0 in)
+
+Wing area: 845 m2 (9,100 sq ft) 
+
+Empty weight: 277,145 kg (611,000 lb)
+
+Max takeoff weight: 575,000 kg (1,267,658 lb)
+
+Fuel capacity: 253,983 kg (559,937 lb), 323,546 litres (85,472 US gal)
+
+Powerplant: 4 × Trent 970-84/970B-84 turbofan, 348 kN (78,000 lbf) thrust each 332.44–356.81 kN (74,740–80,210 lbf)
+
+Performance
+
+Cruise speed: 903 km/h (561 mph, 488 kn) Mach 0.85
+
+Range: 14,800 km (9,200 mi, 8,000 nmi) 
+
+Service ceiling: 13,000 m (43,000 ft) 
+
+VMO: Mach 0.89 (945 km/h; 511 kn)
+
+Landing speed : 138 kn (256 km/h)
+
+Takeoff: 3,000 m (9,800 ft) at MTOW, SL, ISA
+
+type certificate
+VariantCertificationEngineThrust
+
+A380-841
+ 12 December 2006
+ Trent 970-84/970B-84
+ 348.31 kN
+
+A380-842
+ 12 December 2006
+ Trent 972-84/972B-84
+ 356.81 kN
+
+A380-861
+ 14 December 2007
+ Engine Alliance GP7270
+ 332.44 kN
+
+See also
+
+Aviation portal
+
+European Union portal
+
+List of jet airliners
+
+List of aerospace megaprojects
+
+List of Airbus A380 orders and deliveries
+
+Aircraft of comparable role, configuration and era
+
+Boeing 747-8
+
+Boeing New Large Airplane (proposal)
+
+McDonnell Douglas MD-12 (proposal)
+
+Sukhoi KR-860 (proposal)
+
+Notes
+
+^ Final assembly in France
+
+^ Max. design speed: Mach 0.96 (1,020 km/h; 551 kn) in dive at cruise altitude
+
+References
+
+^ \"Airbus unveils first A380 centre wingbox\". Airbus. Retrieved 14 February 2019.
+
+^ a b c d Orders & Deliveries summary. Airbus, 30 November 2019.
+
+^ a b Alan Tovey (18 January 2015). \"Is Airbus's A380 a 'superjumbo' with a future or an aerospace white elephant?\". The Telegraph.
+
+^ a b Christopher Jasper and Andrea Rothman (12 July 2016). \"Airbus A380 Cut May Mark Beginning of End for Superjumbo\". Bloomberg.
+
+^ \"AIRBUS AIRCRAFT 2018 AVERAGE LIST PRICES* (USD millions)\" (PDF). Airbus. 15 January 2018. Retrieved 15 January 2018.
+
+^ a b c \"Commercial Aircraft Airbus and Emirates reach agreement on A380 fleet, sign new widebody orders\" (Press release). Airbus. 14 February 2019.
+
+^ a b c d e f g h i j Norris, Guy; Mark Wagner (2005). Airbus A380: Superjumbo of the 21st Century. Zenith Press. ISBN 978-0-7603-2218-5.
+
+^ \"MDC brochures for undeveloped versions of the MD-11 and MD-12\". md-eleven.net. Archived from the original on 11 May 2008. Retrieved 30 December 2011.
+
+^ \"McDonnell Douglas Unveils New MD-XX Trijet Design\". McDonnell Douglas. 4 September 1996. Archived from the original on 6 November 2011. Retrieved 30 December 2011.
+
+^ Lockheed Martin (1 February 1996). \"the future of very large subsonic transports\" (PDF). NASA transportation beyond 2000.
+
+^ Norris, Guy (14 June 2005). \"Creating A Titan\". Flight International.
+
+^ Bowen, David (4 June 1994). \"Airbus will reveal plan for super-jumbo: Aircraft would seat at least 600 people and cost dollars 8bn to develop\". The Independent. UK. Retrieved 30 December 2011.
+
+^ Sweetman, Bill (1 October 1994). \"Airbus hits the road with A3XX\". Interavia Business & Technology. Archived from the original on 6 November 2012. Retrieved 30 December 2011.
+
+^ \"Aviation giants have Super-jumbo task\". Orlando Sentinel. 27 November 1994. Retrieved 30 December 2011.
+
+^ Norris, Guy (10 September 1997). \"Boeing looks again at plans for NLA\". Flight International. Archived from the original on 1 June 2011. Retrieved 6 March 2012.
+
+^ \"Boeing, partners expected to scrap Super-Jet study\". Reuters. 10 July 1995 – via Los Angeles Times.
+
+^ \"Superjumbo or white elephant?\". Flight International. 1 August 1995. Archived from the original on 2 November 2012. Retrieved 30 December 2011.
+
+^ Harrison, Michael (23 October 1996). \"Lehman puts $18bn price tag on Airbus float\". The Independent. UK. Retrieved 30 December 2011.
+
+^ Cannegieter, Roger. \"Long Range vs. Ultra High Capacity\" (PDF). aerlines.nl. Archived from the original (PDF) on 24 November 2011. Retrieved 30 December 2011.
+
+^ a b c Scott Babka (5 September 2006). \"EADS: the A380 Debate\". Morgan Stanley.
+
+^ Lawler, Anthony (4 April 2006). \"Point-To-Point, Hub-To-Hub: the need for an A380 size aircraft\" (PDF). Leeham.net. Archived from the original (PDF) on 23 July 2011. Retrieved 9 April 2010.
+
+^ \"Airbus jumbo on runway\". CNN. 19 December 2000.
+
+^ Pae, Peter (20 December 2000). \"Airbus Giant-Jet Gamble OKd in Challenge to Boeing\". Los Angeles Times. ISSN 0458-3035. Retrieved 30 December 2011.
+
+^ \"The Casino in the Sky\". Wired. Associated Press. 19 December 2000. Archived from the original on 5 November 2012. Retrieved 30 December 2011.
+
+^ \"Virgin orders six A3XX aircraft, allowing Airbus to meet its goal\". The Wall Street Journal. 15 December 2000. Retrieved 30 December 2011.
+
+^ \"Skylon Assessment Report\" (PDF). UK Space Agency. April 2011. p. 18. Retrieved 26 April 2015.
+
+^ a b Yann Philippin (7 May 2012). \"Airbus encaisse les coûts de l'A380\". Libération (in French).
+
+^ Bloomberg (13 December 2004). \"Airbus Says Its A380 Jet Is Over Budget\". The New York Times.
+
+^ Karl West (28 December 2014). \"Airbus's Flagship Plane May Be Too Big To Be Profitable\". The Guardian. Business Insider.
+
+^ Andrew Stevens and Jethro Mullen (17 February 2016). \"Airbus CEO upbeat on future of A380 after new orders\". CNNMoney.
+
+^ Richard Aboulafia (6 June 2016). \"Airbus A380: The Death Watch Begin\". Forbes.
+
+^ Benjamin D Katz (23 February 2018). \"Airbus Super-Jumbo Sheds Financial Weight in New State Aid Deal\". Bloomberg.
+
+^ Benjamin D Katz (22 May 2018). \"Airbus to Defend WTO Ruling by Saying A380 No Threat to Boeing\". Bloomberg.
+
+^ Andreas Rinke, Tassilo Hummel (4 March 2019). \"Germany in talks with Airbus on 600 million euros of A380 loans\". Reuters.CS1 maint: uses authors parameter (link)
+
+^ a b Morales, Jesus. \"Archived copy\" (PDF). Archived (PDF) from the original on 17 October 2013. Retrieved 7 February 2016.CS1 maint: archived copy as title (link) \"The A380 Transport Project and Logistics – Assessment of alternatives\", p. 19, Airbus, 18 January 2006. Retrieved 15 April 2012.
+
+^ \"Airbus delivers first A380 fuselage section from Spain\". Airbus. 6 November 2003. Retrieved 1 July 2011.
+
+^ \"Planes that changed the World, Episode #3: A380 Superjumbo\" Archived 7 November 2016 at the Wayback Machine. Smithsonian Channel
+
+^ \"Convoi Exceptionnel\". Airliner World. Key Publishing Ltd. May 2009.
+
+^ \"A380: topping out ceremony in the equipment hall. A380: special transport ship in Hamburg for the first time\". Airbus Press Centre. 10 June 2004. Archived from the original on 12 March 2008. Retrieved 19 June 2009.
+
+^ a b \"Towards Toulouse\". Flight International. 20 May 2003. Archived from the original on 11 November 2012. Retrieved 30 December 2011.
+
+^ \"A380 convoys\". IGG.FR. 28 October 2007. Retrieved 30 December 2011.
+
+^ a b Kingsley-Jones, Max (20 December 2005). \"A380 powers on through flight-test\". Flight International. Archived from the original on 30 September 2007. Retrieved 30 December 2011.
+
+^ Madslien, Jorn (18 January 2005). \"Giant plane a testimony to 'old Europe'\". BBC News. Retrieved 30 December 2011.
+
+^ \"A380, the 21st century flagship, successfully completes its first flight\". Airbus. 27 April 2005. Retrieved 7 June 2011.
+
+^ Sparaco, Pierre. \"A titan takes off Archived 3 March 2016 at the Wayback Machine\" Aviation Week & Space Technology, May 2005.  Archive
+
+^ \"It flies! But will it sell? Airbus A380 makes maiden flight, but commercial doubts remain\". Associated Press. 27 April 2005. Retrieved 30 December 2011.
+
+^ \"Airbus 380 conducts test flights in Addis Ababa\". Ethiopian Reporter. 21 November 2009. Archived from the original on 27 February 2015. Retrieved 30 December 2011.
+
+^ \"Airbus tests A380 jet in extreme cold of Canada\". NBC News. 8 February 2006. Retrieved 30 December 2011.
+
+^ \"Airbus to reinforce part of A380 wing after March static test rupture\". Flight International. 23 May 2006. Archived from the original on 15 April 2008. Retrieved 30 December 2011.
+
+^ a b Daly, Kieran (6 April 2006). \"Airbus A380 evacuation trial full report: everyone off in time\". Flight International. Archived from the original on 21 June 2008. Retrieved 16 September 2006.
+
+^ \"Airbus infrared video Archived 30 September 2016 at the Wayback Machine\" 7 April 2011.
+
+^ \"Pictures: Airbus A380 clears European and US certification hurdles for evacuation trial\". Flight International. 29 March 2006. Archived from the original on 12 October 2007. Retrieved 16 September 2006.
+
+^ \"GE joint venture engines tested on Airbus A380\". Business Courier. 25 August 2006. Retrieved 30 December 2011.
+
+^ \"Airbus test flight with engine alliance engine a success\". PR Newswire. 28 August 2006. Retrieved 1 November 2012.
+
+^ a b \"Airbus A380 completes test flight\". BBC News. 4 September 2006. Retrieved 30 December 2011.
+
+^ Ramel, Gilles (11 November 2006). \"Airbus A380 jets off for tests in Asia from the eye of a storm\". USA Today. Retrieved 30 December 2011.
+
+^ Whelan, Ian. \"Long-serving Flight Test Aircraft Play Different Roles\" AINonline, 21 August 2014. Retrieved 4 September 2014. Video Archived 9 August 2016 at the Wayback Machine
+
+^ \"EASA Type-Certificate Data Sheet TCDS A.110 Issue 03\" (PDF). EASA. 14 December 2007. Archived from the original (PDF) on 22 December 2009. Retrieved 30 December 2011.
+
+^ a b \"FAA Type Certificate Data Sheet NO.A58NM Rev 2\" (PDF). FAA. 14 December 2007. Retrieved 30 December 2011.
+
+^ \"Doc 8643 – Edition 40, Part1-By Manufacturer Archived 5 March 2016 at the Wayback Machine\" page 1-8. International Civil Aviation Organization, 30 March 2012. Retrieved 29 September 2012.
+
+^ Heinen, Mario (19 October 2006). \"The A380 programme\" (PDF). EADS. Archived from the original (PDF) on 3 November 2006. Retrieved 19 October 2006.
+
+^ Kingsley-Jones, Max (18 July 2006). \"The race to rewire the Airbus A380\". Flight International. Archived from the original on 12 October 2007. Retrieved 30 December 2011.
+
+^ a b c d e Clark, Nicola (6 November 2006). \"The Airbus saga: Crossed wires and a multibillion-euro delay\". International Herald Tribune. Retrieved 30 December 2011.
+
+^ Kenneth Wong (6 December 2006). \"What Grounded the Airbus A380?\". Cadalyst Manufacturing. Archived from the original on 26 August 2009. Retrieved 30 December 2011.
+
+^ Crane, Mary (6 June 2006). \"Major turbulence for EADS on A380 delay\". Forbes. Archived from the original on 12 August 2010. Retrieved 30 December 2011.
+
+^ Clark, Nicola (5 June 2006). \"Airbus delay on giant jet sends shares plummeting\". International Herald Tribune. Retrieved 30 December 2011.
+
+^ Clark, Nicola (4 September 2006). \"Airbus replaces chief of jumbo jet project\". International Herald Tribune. Retrieved 30 December 2011.
+
+^ \"Airbus confirms further A380 delay and launches company restructuring plan\". Airbus. 3 October 2006. Archived from the original on 14 October 2006. Retrieved 3 October 2006.
+
+^ Robertson, David (3 October 2006). \"Airbus will lose €4.8bn because of A380 delays\". The Times. UK. Retrieved 30 December 2011.
+
+^ a b \"A380 Freighter delayed as Emirates switches orders\". Flight International. 16 May 2006.
+
+^ a b Del Quentin Wilber (8 November 2006). \"Airbus bust, Boeing boost\". The Washington Post.
+
+^ a b Carter Dougherty, Leslie Wayne (8 November 2006). \"FedEx Rescinds Order for Airbus A380s\". The New York Times. Frankfurt.
+
+^ Clark, Nicola (2 March 2007). \"UPS cancels Airbus A380 order\". The New York Times. Retrieved 1 November 2012.
+
+^ \"ILFC to defer its Airbus A380 order until at least 2013, ditching freighter variants for passenger configuration\". Flight International. 4 December 2006. Archived from the original on 12 October 2007. Retrieved 30 December 2011.
+
+^ \"Airbus says A380F development 'interrupted'\". Flight International. Archived from the original on 30 September 2007. Retrieved 30 December 2011.
+
+^ \"Airbus has no timeline on the A380 freighter\". Flight International. Archived from the original on 14 March 2008. Retrieved 30 December 2011.
+
+^ \"Emirates Airlines reaffirms commitment to A380 and orders additional four\". Airbus. Archived from the original on 23 December 2007. Retrieved 25 October 2009.
+
+^ \"Singapore Airlines boosts Airbus fleet with additional A380 orders\". Airbus. Archived from the original on 28 December 2007. Retrieved 25 October 2009.
+
+^ \"Qantas signs firm order for eight additional A380s\". Airbus. Archived from the original on 20 April 2008. Retrieved 25 October 2009.
+
+^ \"Air France to order two additional A380s and 18 A320 Family aircraft\". Airbus. Retrieved 7 June 2011.
+
+^ \"Qatar Airways confirms order for 80 A350 XWBs and adds three A380s\". Airbus. Archived from the original on 22 June 2008. Retrieved 25 October 2009.
+
+^ \"Korean Air expands A380 aircraft order\". Airbus. Archived from the original on 2 August 2008. Retrieved 25 October 2009.
+
+^ Pae, Peter (18 January 2009). \"Airbus could build next Air Force One; 747 due to be replaced\". The Seattle Times.
+
+^ \"US considers Airbus A380 as Air Force One and potentially a C-5 replacement\". Flight International. 17 October 2007.
+
+^ \"EADS waves off bid for Air Force One replacement\". Flight International. 28 January 2009. Archived from the original on 3 February 2009.
+
+^ \"A380 production ramp-up revisited\". Airbus. 13 May 2008. Archived from the original on 17 May 2008. Retrieved 30 December 2011.
+
+^ \"Airbus Expects Sharp Order Drop in 2009\". Aviation Week & Space Technology. 15 January 2009. Retrieved 30 December 2011.
+
+^ Rothman, Andrea (30 December 2009). \"Airbus Fell Short with 10 A380s in 2009\". Business Week. Archived from the original on 16 April 2011. Retrieved 30 December 2011.
+
+^ a b Rothman, Andrea (17 January 2011). \"Airbus Beats Boeing on 2010 Orders, Deliveries as Demand Recovery Kicks In\". Bloomberg L.P. Retrieved 30 December 2011.
+
+^ a b c Daniel Michaels (13 July 2012). \"Airbus Wants A380 Cost Cuts\". The Wall Street Journal.
+
+^ \"BBC Two: 'How to Build a Super Jumbo Wing'\". BBC. 23 November 2011. Retrieved 30 December 2011.
+
+^ a b \"Singapore Airlines – Our History\". Singapore Airlines. 1 November 2012. Archived from the original on 9 February 2013. Retrieved 1 November 2012.
+
+^ \"A380 superjumbo lands in Sydney\". BBC. 25 October 2007. Retrieved 30 December 2011.
+
+^ \"SIA's Chew: A380 pleases, Virgin Atlantic disappoints\". ATW Online. 13 December 2007. Archived from the original on 15 December 2007. Retrieved 13 December 2007.
+
+^ Flottau, Jens (21 November 2012). \"Emirates A350-1000 Order 'In Limbo'\". Aviation Week & Space Technology. Retrieved 22 November 2012. Clark points out that \"the faster you fly , the more fuel-efficient she gets; when you fly at  0.86 she is better than at 0.83.\"
+
+^ \"\"Archived copy\". Archived from the original on 6 July 2015. Retrieved 19 June 2014.CS1 maint: archived copy as title (link) Technical Issues\", Flightglobal, undated. Retrieved 20 June 2014.
+
+^ \"Emirates A380 arrives in New York!\". 3 August 2008. Retrieved 30 December 2011.
+
+^ a b \"Emirates A380 Lands at New York's JFK\". 1 August 2008. Retrieved 30 December 2011.
+
+^ a b \"Qantas A380 arrives in LA after maiden flight\". The Age. Australia. 21 October 2008. Retrieved 30 December 2011.
+
+^ \"Airbus narrowly meets delivery target of 12 A380s in 2008\". Flight International. 30 December 2008. Archived from the original on 15 February 2009. Retrieved 30 December 2011.
+
+^ \"Singapore Airlines celebrates its first millionth A380 passenger\". WebWire. 19 February 2009. Retrieved 30 December 2011.
+
+^ \"Airbus A380: Mehr als 1,5 Millionen Passagiere\". FlugRevue. 11 May 2009. Archived from the original on 2 September 2012. Retrieved 7 February 2016.
+
+^ Michaels, Daniel (30 October 2009). \"Strong Euro Weighs on Airbus, Suppliers\". The Wall Street Journal. Retrieved 30 December 2011.
+
+^ \"Air France set to get Europe's first A380 superjumbo\". MSN News. 30 October 2009. Archived from the original on 14 July 2011. Retrieved 30 October 2009.
+
+^ \"Lufthansa übernimmt A380 am 19. Mai – Trainingsflüge in ganz Deutschland\". Flugrevue.de. Archived from the original on 13 May 2011. Retrieved 3 April 2011.
+
+^ \"Airbus delivers tenth A380 in 2010\" (Press release). 16 July 2011. Retrieved 7 August 2011.
+
+^ \"The A380 global fleet spreads its wings as deliveries hit the 'century mark'\". Airbus (Press release). 14 March 2013. Retrieved 4 December 2017.
+
+^ \"Where is the A380 flying?\". airbus.com. Retrieved 1 April 2015.
+
+^ Jens Flottau (29 October 2015). \"Airbus A380 After Eight Years in Service\". Aviation Week & Space Technology.
+
+^ a b c \"Looking forward Archived 27 December 2014 at the Wayback Machine\" Flightglobal, undated. Retrieved 20 June 2014.
+
+^ \"Airbus poised to start building new higher-weight A380 variant\". Flight International. 18 May 2010. Archived from the original on 21 May 2010. Retrieved 19 May 2010.
+
+^ \"British Airways and Emirates will be first for new longer-range A380\". Flight International. 14 May 2009. Retrieved 14 December 2011.
+
+^ a b Hamilton, Scott. \"Updating the A380: the prospect of a neo version and what’s involved\" Leehamnews.com, 3 February 2014. Retrieved 21 June 2014. Archived on 8 April 2014.
+
+^ \"Airbus to offer higher-weight A380 from 2013\". Flight International. 20 February 2012. Retrieved 16 October 2013.
+
+^ a b \"EASA mandates prompt detailed visual inspections of the wings of 20 A380s\". EASA. Retrieved 20 January 2012.
+
+^ Hradecky, Simon (21 January 2012). \"Airworthiness Directive regarding Airbus A380 wing cracks\". The Aviation Herald.
+
+^ \"EASA AD No.:2012-0013\". EASA. 20 January 2012. Retrieved 22 January 2012.
+
+^ \"Airbus Adjusts A380 Assembly Process\". Aviation Week & Space Technology. 26 January 2012. Retrieved 29 January 2012.
+
+^ \"Airbus to inspect all A380 superjumbos for wing cracks\". BBC News. 8 February 2012. Retrieved 8 February 2012.
+
+^ \"A380 Repairs to cost Airbus 105 million pounds\". Air Transport World. 14 March 2012. Retrieved 5 May 2012.
+
+^ \"Air France seeks Airbus compensation for A380 glitches: report\". DefenceWeb. 1 November 2012. Retrieved 2 June 2013.
+
+^ \"Airbus A380 wing repairs could take up to eight weeks\". BBC News. 11 June 2012. Retrieved 2 June 2013.
+
+^ \"Druckabfall im A380: Airbus muss jede zehnte Tür umbauen\". Der Spiegel. 18 June 2014. Retrieved 24 April 2016.
+
+^ \"Erhebliche Probleme mit Türen des Airbus A380\". NDR Presse und Information. 18 June 2014. Retrieved 24 April 2016.
+
+^ \"Singapore Airlines A380 plane in emergency landing\". BBC News. 6 January 2014. Retrieved 24 April 2016.
+
+^ \"Airbus slashes production of A380 superjumbo\". Financial Times. 12 July 2016.
+
+^ \"Airbus A380 Cut May Mark Beginning of End for Superjumbo\". 12 July 2016.
+
+^ Clark, Nicola (12 July 2016). \"Airbus to Sharply Cut Production of A380 Jumbo Jets\". Archived from the original on 16 September 2016 – via NYTimes.com.
+
+^ Wall, Robert; Ostrower, Jon (12 July 2016). \"Airbus Cuts A380 Production Plans\". Archived from the original on 10 October 2016 – via www.wsj.com.
+
+^ Jens Flottau (5 June 2017). \"Airbus confirms more A380 production cuts\". Aviation Week Network.
+
+^ \"Airbus reports Half-Year (H1) 2017 results\" (Press release). Airbus. 27 July 2017.
+
+^ Michael Gubisch (3 November 2017). \"'We will still produce A380s in 10 years': Airbus chief\". Flightglobal.
+
+^ a b Jens Flottau (14 November 2017). \"Emirates Dismisses A380plus Concept As Negotiations Continue\". Aviation Week.
+
+^ Tim Hepher (11 December 2017). \"Airbus may cut A380 production to six planes a year\". Reuters.
+
+^ Tim Hepher (27 December 2017). \"Airbus ready to phase out A380 if fails to win Emirates deal: sources\". Reuters.
+
+^ \"Emirates orders 36 A380s worth US$16 billion\". Retrieved 8 October 2018.
+
+^ Goldstein, Michael. \"Emirates Airlines Order Saves Airbus A380 Superjumbo -- For Now\". Forbes. Retrieved 8 October 2018.
+
+^ \"Airbus A380-Saving Emirates Deal Is Stalled Due to Engine Impasse\". www.bloomberg.com. Retrieved 8 October 2018.
+
+^ Ania Nussbaum and Benjamin D Katz (8 January 2018). \"Airbus Offers China Production Role on A380 to Attract New Order\". Bloomberg.
+
+^ \"A380s in the China, the world's largest market. Is there a place for the world's largest aircraft?\". CAPA – Centre for Aviation. 11 January 2018.
+
+^ Michael Gubisch (16 February 2018). \"A380 production will create 'digestible' losses: Airbus\". Flightglobal.
+
+^ Business, Jethro Mullen and Charles Riley, CNN. \"End of the superjumbo: Airbus is giving up on the A380\". CNN. Retrieved 14 February 2019.
+
+^ Gwyn Topham (14 February 2019). \"Passengers love Airbus A380 but it never fully took off with buyers\". The Guardian.
+
+^ Is Airbus Finally Ready To Shut Down A380 Production? (Forbes, by Michael Goldstein, 27 December 2017)
+
+Quote:
+
+\"...the A380 has been a consistent money-loser for Airbus. \"
+
+\"The estimated $20 to $25 billion in research and development costs of the A380 have long since been written off.\"
+
+^ Airbus Considers Ditching A380 in 2018 as Buyers Lag (Bloomberg, posted to YouTube on 11 December 2014)
+
+Quote:
+
+\"...the A380...might not survive beyond 2018.\"
+
+^ Airbus CEO says stopping A380 production is the \"right decision\" (AFP News, posted to YouTube on 14 February 2019)
+
+^ 
+
+^ \"Asian Airlines' changing presence at London Heathrow\", Centre for Aviation, 13 February 2013.
+
+^ \"China Southern's A380 problems may not be solved by possible Air China partnership\", CAPA: Centre for Aviation, 2 April 2013.
+
+^ Sparaco, Pierre. \"Opinion: Mega-Transports Hobbled By Their Size\" Aviation Week & Space Technology, 3 March 2014
+
+^ Dastin, Jeffrey (4 June 2015). \"United Airlines does not see a fit for Airbus A380\". Reuters.
+
+^ \"Airbus A380 Cabin\". Airbus. Archived from the original on 25 August 2009. Retrieved 30 December 2011.
+
+^ a b Martin, Mike (18 June 2007). \"Honey, I shrunk the A380!\". Flight International. Archived from the original on 12 October 2007. Retrieved 17 September 2007.
+
+^ \"A380 Specifications\". Airbus. Retrieved 18 June 2009.
+
+^ a b \"The triple-deck cargo hauler\". Airbus. Archived from the original on 3 June 2005.
+
+^ a b c \"Type Certificate Data Sheet\" (PDF). EASA. 27 September 2017. Archived from the original (PDF) on 19 February 2018. Retrieved 20 December 2018.
+
+^ \"Thrust advance\". Flightglobal. 20 May 2003.
+
+^ \"Leahy remains steadfast in A380 future\". Leeham. 16 February 2018.
+
+^ \"Environment\". Lufthansa A380. Archived from the original on 3 July 2008.
+
+^ \"JC 2012 WINNERS FINAL 14 Nov 2012\". Noise Abatement Society. 15 November 2012.
+
+^ National Air Traffic Services (February 2003). \"Review of the Quota Count (QC) System used for Administering the Night Noise Quotaa at Heathrow, Gatwick and Stansted Airports\". Archived from the original on 17 July 2007.
+
+^ D. P. Rhodes (10 February 2012). \"Noise Data for the First Three Years of Scheduled Airbus A380 Operations at London Heathrow Airport ERCD REPORT 1106\" (PDF). CAA. Archived from the original on 17 December 2014. Arrival noise levels are also lower than for the Boeing 747-400, although by less than expected in the case of the Rolls Royce powered A380 variantCS1 maint: BOT: original-url status unknown (link)
+
+^ \"Airbus A380\" (PDF). CAA. 14 May 2012. Archived from the original (PDF) on 24 April 2014.
+
+^ Night Flying Restrictions at Heathrow, Gatwick and Stansted Stage 1 Consultation (PDF). UK Department for Transport (Report). January 2013. p. 28. Some of these new aircraft types appear slightly noisier in operation than their QC classification (A380 with Rolls-Royce Trent 900 engines) .. Rolls-Royce is supporting CAA in understanding the relatively high A380/Trent 900 monitored noise levels
+
+^ Ernest S. Arvai (24 November 2017). \"Emirates and the A380\". AirInsight.
+
+^ \"Designed for increased operational performance\" (PDF). Honeywell. November 2007. Archived from the original (PDF) on 18 July 2011. Retrieved 28 October 2009. Stopping performance eliminates requirements for 2 thrust reversers
+
+^ \"Airbus ponders A380 thrust reverser options\". Flight International. 3 April 2001.
+
+^ a b Mark Huber (August 2011). \"How Things Work: Stopping the A380\". Air & Space magazine. Smithsonian. Archived from the original on 21 June 2014.
+
+^ \"Innovative Honeywell helps to curb A380 weight\". Flight International. 15 June 2005. Some systems, like the electromagnetic thrust reversers are a first for a commercial aircraft
+
+^ Bray, Rob (June 2007). \"Supersize Wings\" (31). Ingenia. Archived from the original on 20 May 2012. Retrieved 8 December 2018. Cite journal requires |journal= (help)
+
+^ Peter M. Burns & Marina Novelli. \"Tourism and Mobilities: Local-Global Connections\", p. 192. ISBN 1845934040 
+
+^ Updating the A380: the prospect of a neo version and what's involved. Online: \"Archived copy\". Archived from the original on 28 August 2016. Retrieved 23 June 2016.CS1 maint: archived copy as title (link)
+
+^ Pang, Damon (4 September 2007). \"A380 superjumbo gives thrilling morning air show\". The Standard. Hong Kong. Archived from the original on 29 June 2011.
+
+^ \"A380 Superjumbo\", A Documentary broadcast on the Smithsonian Channel in the series Planes that changed the world
+
+^ Marks, Paul (29 June 2005). \"Aviation – The shape of wings to come\". New Scientist. More than 20% of the A380 is made of lightweight-but-strong composite materials, mainly carbon-fibre-reinforced plastic
+
+^ Roberts, Tony (1 February 2007). \"Rapid growth forecast for carbon fibre market\". Reinforced Plastics.
+
+^ Marsh, George (2002). \"Composites strengthen aerospace hold\". Reinforced Plastics. Science Direct. 46 (7–8): 40–43. doi:10.1016/S0034-3617(02)80149-7.
+
+^ \"How to make an elephant fly\". Scenta. 31 July 2007. Archived from the original on 20 July 2011.
+
+^ \"Thermoplastic composites gain leading edge on the A380\". Composites World. 3 January 2006. Retrieved 6 March 2012.
+
+^ \"Coming Soon: The Innovative Airbus A380\". Aviation Today. 1 April 2006. Archived from the original on 14 June 2012.
+
+^ Rothman, Andrea (17 July 2004). \"Airbus' 'big baby' is too big\". Seattle Post-Intelligencer. Retrieved 2 July 2011.
+
+^ Berends, H., van Burg, E., & van Raaij, E. M. (2011). Contacts and contracts: Cross-level network dynamics in the development of an aircraft material. Organization Science, 22(4), 940–960.
+
+^ Van Burg, E., Berends, H., & van Raaij, E. M. (2014). Framing and Interorganizational Knowledge Transfer: A Process Study of Collaborative Innovation in the Aircraft Industry. Journal of Management Studies, 51(3), 349–378.
+
+^ Rötzer, Isolde (1 January 2005). \"Laser Beam Welding\" (PDF). Fraunhofer Society Material and Beam Technology – IWS, Dresden, Germany. Archived from the original (PDF) on 23 February 2006. Retrieved 14 May 2007.
+
+^ Aluminum Alloy Development for the Airbus A380 Archived 17 March 2015 at the Wayback Machine. Key to metals
+
+^ Wing error costs 2B kroner Archived 27 May 2013 at the Wayback Machine (in Norwegian) Teknisk Ukeblad 31 May 2012. Retrieved 1 June 2012
+
+^ Airbus A380 Wing Flaws May Cost USD$629 Mln Archived 4 January 2016 at the Wayback Machine Reuters 24 May 2012. Retrieved 1 June 2012
+
+^ \"Airbus starts painting first A380\". Airbus. 11 April 2007. Archived from the original on 10 June 2008. Retrieved 30 December 2011.
+
+^ \"The Aviation Writer\". Archived from the original on 24 June 2015. Retrieved 15 June 2015.
+
+^ \"Integrated Modular Avionics: Less is More\". Aviation Today. 1 February 2007. Some believe the IMA concept originated in the United States with the new F-22 and F-35 fighters and then migrated to the commercial jetliner arena. Others say the modular avionics concept, with less integration, has been used in business jets and regional airliners since the late 1980s or early 90s
+
+^ \"Rafale\". Dassault Aviation. 12 June 2005. Archived from the original on 4 March 2009.
+
+^ a b \"Thales technologies onboard the A380\". Thales Group. 30 October 2009. Archived from the original on 8 March 2012. The A380 is the first aircraft ever to be fitted with the Integrated Modular Avionics (IMA) suite, a major technical evolution of global importance for airlines and operators. Designed by Airbus and co-developed with Thales and Diehl Aerospace, the IMA is a leap-ahead technological innovation, with all onboard computing modules networked and able to support different applications. The result is a substantial improvement in computing power, reliability, maintainability, volume, weight and scalability.
+
+^ \"Networking\". Lufthansa. Archived from the original on 12 June 2008. Retrieved 25 October 2009.
+
+^ a b Adams, Charlotte (1 July 2002). \"Test cards for the Airbus A380\". Aviation Today. Archived from the original on 17 October 2007. Retrieved 16 October 2007.
+
+^ \"Cockpit\". Lufthansa. Archived from the original on 12 June 2008. Retrieved 25 October 2009.
+
+^ O'Connell, Dominic (26 March 2006). \"Flying the Airbus giant of the skies\". The Times. UK. Retrieved 26 March 2006.
+
+^ \"Barco extends its success in the civil avionics market with new Airbus deal\". Barco. Archived from the original on 16 July 2011. Retrieved 25 October 2009.
+
+^ \"A380 flight deck\". Airbus. Archived from the original on 25 August 2006. Retrieved 16 September 2006.
+
+^ \"Flash-based view of A380s cockpit\". gillesvidal.com. Archived from the original on 3 November 2009. Retrieved 25 October 2009.
+
+^ \"A350 cockpit borrows A380 innovations\". Air Transport Briefing. 6 March 2006.
+
+^ \"Lufthansa Systems database plots route to the paperless cockpit\". Flight International. 5 October 2004.
+
+^ \"Advances in more-electric aircraft technologies\". Aircraft Engineering and Aerospace Technology. Emerald Group. 73 (3). 2001.
+
+^ a b Adams, Charlotte (1 October 2001). \"A380: 'more electric' aircraft\". Aviation Today. Archived from the original on 17 March 2006. Retrieved 26 September 2006.
+
+^ Henry, P.J. \"A380 pushes 5000 psi into realm of the common man\". Hydraulics & Pneumatics. Retrieved 1 November 2012.
+
+^ a b Wiebusch, Bruce (8 September 2002). \"High pressure, low weight\". Design News. Archived from the original on 14 July 2010.
+
+^ \"Eaton wins hydraulic system contract for A380, $200 million potential for U.S. company\". Business Wire. 10 October 2001.
+
+^ \"Hydraulic services contract for Airbus A380 wing jigs\". Aircraft Engineering and Aerospace Technology. Emerald Group. 76 (2). 2004.
+
+^ \"Innovative Variable Frequency Power\". Goodrich. Retrieved 27 October 2009.
+
+^ Adams, Charlotte (1 October 2001). \"A380: 'More Electric' Aircraft\". Avionics Magazine.
+
+^ Airbus A380 Fact sheet (PDF). Hamilton and Sundstrand (Report). Archived from the original (PDF) on 2 March 2013. Retrieved 24 April 2016.
+
+^ \"Airbus A380 Facts & Figures\" (PDF). Airbus. June 2018.
+
+^ Kingsley-Jones, Max (17 February 2006). \"Boeing's 747-8 vs. A380: A titanic tussle\". Flight International. Retrieved 25 September 2013.
+
+^ \"Airbus A380 Brief\". Archived from the original on 22 April 2013. Retrieved 19 September 2013.
+
+^ \"Global Aircraft – Airbus A380\". Retrieved 19 June 2009.
+
+^ \"Fascinating figures about the A380\". Airbus. Archived from the original on 4 July 2008. Retrieved 1 August 2008.
+
+^ \"Cabin of Airbus A380\". airbus. Archived from the original on 31 December 2016. Retrieved 24 April 2016.
+
+^ \"Onboard the Airbus A380\". Fodors. Archived from the original on 20 October 2007. Retrieved 6 March 2012.
+
+^ \"747-400 Cross Sections\". Boeing. Archived from the original on 11 June 2008. Retrieved 19 June 2008.
+
+^ Verghese, Vijay (2011). \"A survey of the best airline economy seats\". Smarttravelasia.com. Archived from the original on 20 May 2011. Retrieved 17 May 2011.
+
+^ \"World's largest passenger plane lands at Copenhagen Airport\". The Copenhagen Post. 1 December 2015.
+
+^ \"Emirates A380s to Establish New Airliner Seat Record\". Aviation. 8 June 2008.
+
+^ Buckland, Rob (23 October 2009). \"Recession causes turbulence for Airbus A380 sales\". Bristol 24-7. Archived from the original on 11 December 2013.
+
+^ \"Cabin Interior, Mood Lighting\". Diehl Aerospace, Germany. Archived from the original on 27 September 2007. Retrieved 14 May 2007.
+
+^ \"Airbus Cabin Showroom\". Airbus. Archived from the original on 26 May 2007. Retrieved 14 May 2007.
+
+^ Wallace, James (30 October 2007). \"Aerospace Notebook: It's no cruise ship of the sky, but A380 is raising the bar for comfort\". Seattle Post-Intelligencer. Retrieved 17 May 2011.
+
+^ a b Frost, Laurence (7 February 2007). \"Airbus Flight Shows Off Troubled A380\". The Washington Post. Retrieved 17 May 2011.
+
+^ a b c Stoller, Gary (3 February 2005). \"Flights of fancy\". USA Today. Retrieved 17 May 2011.
+
+^ Rothman, Andrea (30 October 2009). \"Airbus A380's bar, flatbeds, showers irk Engineers\". Bloomberg L.P. Archived from the original on 6 March 2012.
+
+^ a b \"SIA is ready at last to start flying the A380\". Flight International. Archived from the original on 17 October 2007. Retrieved 17 May 2011.
+
+^ a b \"Air France picks business seat; eyeing premium economy for A380\". Flight International. Archived from the original on 28 December 2015. Retrieved 17 May 2011.
+
+^ \"Seat Map Singapore Airlines Airbus A380\". Seat Guru. Archived from the original on 25 February 2009. Retrieved 19 February 2009.
+
+^ \"Singapore Airlines A380\". Singapore Airlines. Archived from the original on 17 October 2007. Retrieved 28 October 2007.
+
+^ \"Singapore Airlines Suites Archived 4 February 2016 at the Wayback Machine\" Singapore Airlines. Retrieved 29 September 2012.
+
+^ \"Qantas and the A380\". Qantas. Archived from the original on 14 December 2007. Retrieved 15 December 2007.
+
+^ \"Qantas Flight Information\". www.seatguru.com.
+
+^ \"Comparing Airlines' Airbus A380s\". Los Angeles Times. Archived from the original on 23 November 2009. Retrieved 30 November 2009.
+
+^ \"First class flight perks we envy slideshow\". Yahoo!. Archived from the original on 18 March 2014.
+
+^ Warburton, Simon (30 July 2009). \"A first look inside Emirates' A380s\". The Times. UK.
+
+^ Painter-Bosworth, Nicholas (7 April 2015), Middle Eastern carriers show their Gulf in class, Flightglobal, retrieved 8 April 2015
+
+^ \"Qantas unveils self-serve bar\". Adelaide Now. Retrieved 17 May 2011.
+
+^ Flottau, Jens, In a squeeze, Aviation Week & Space Technology, 27 April – 10 May 2015, p. 64
+
+^ Milstein, Michael. \"Superduperjumbo Double the size of an Airbus A380? No problem, aerodynamicists say\". Air & Space Magazine. Retrieved 25 October 2008.
+
+^ a b c d \"A380 aircraft characteristics airport and maintenance planning\" (PDF). Airbus. 1 December 2016. Archived from the original (PDF) on 11 July 2018. Retrieved 11 July 2018.
+
+^ Harrison, Michael (24 June 2000). \"Airbus opens its books for the world's biggest jumbo. But is it a plane too far?\". The Independent. UK.
+
+^ a b \"Common Agreement Document of the A380 Airport Compatibility Group Version 2.1\" page 8, European Civil Aviation Conference, December 2002. Retrieved 29 September 2012.
+
+^ \"Minimum Requirements to Widen Existing 150-Foot Wide Runways for Airbus A380 Operations\" (PDF). FAA. 13 February 2004. Archived from the original (PDF) on 29 December 2009. Retrieved 18 September 2009.
+
+^ \"Use of non-standard 75-foot-wide straight taxiway sections for Airbus 380 taxiing operations\" (PDF). FAA. April 2006. Archived from the original (PDF) on 8 November 2009. Retrieved 24 September 2006.
+
+^ \"Operational Evaluation Board Report Airbus A380-800 Report of the FCL/OPS Subgroup Report, Revision 1 18 July 2011\" (PDF). 18 July 2011. Archived (PDF) from the original on 17 October 2013. Retrieved 1 November 2012.
+
+^ Oldham, Jennifer (18 March 2007). \"Airbus set for U.S. debut of world's largest passenger jet\". Los Angeles Times. Retrieved 21 December 2010.
+
+^ North, David (2 October 2006). \"Pilot Report: Flying the Airbus A380\". Aviation Week. Retrieved 21 December 2010.
+
+^ a b Arnoult, Sandra. \"Airports Prepare for the A380\". Airport Equipment & Technology. Retrieved 25 October 2008.
+
+^ \"747-400 Airport Compatibility Report\", section 2.2.1. Boeing, December 2002. Retrieved 29 September 2012.
+
+^ \"747-8 Airport Compatibility Report\", section 2.2.1. Boeing, December 2011. Retrieved 29 September 2012.
+
+^ Dupont, Willy-Pierre. \"A380 – A solution for airports\" (PDF). Airbus. Archived from the original (PDF) on 10 September 2008. Retrieved 19 May 2007.
+
+^ a b Gerzanics, Mike (25 September 2006). \"FLIGHT TEST: Airbus A380\". Flight International. Archived from the original on 12 April 2009. Retrieved 15 December 2010.
+
+^ Hebborn, Andy (June 2008). \"A380 Landing Gear and Systems\" (PDF). Airbus. Archived from the original (PDF) on 26 March 2017. Retrieved 26 March 2017.
+
+^ \"Catering\". Lufthansa. Archived from the original on 15 June 2008. Retrieved 25 October 2008.
+
+^ \"Aircraft movements\". Lufthansa. Archived from the original on 14 June 2008. Retrieved 25 October 2008.
+
+^ Helms, Ina. \"Boarding please – aber ein bisschen flott!\" (PDF). Innovate!. Archived from the original (PDF) on 20 November 2008. Retrieved 25 October 2008.
+
+^ \"A380 first touchdown in the United States as part of commercial Route Proving\". Airbus. 12 March 2007. Archived from the original on 16 December 2008.
+
+^ Klein, Daniel. \"Video Airbus A380 cockpit\" Archived 17 March 2016 at the Wayback Machine, 18 January 2006. Retrieved 11 June 2013.
+
+^ \"Airbus A380 wake turbulence may double safe distance between planes\". Aviationpros. 23 November 2005.
+
+^ \"A380 wake tests prompt call to reassess all large aircraft\". Flightglobal. 29 November 2005.
+
+^ \"Airbus A380 wake vortex study completed\". Airbus S.A.S. 28 September 2006. Archived from the original on 14 October 2006. Retrieved 30 September 2006.
+
+^ \"A380 wake vortex study provides some good news for Airbus\". ATW. 29 September 2006.
+
+^ \"Airbus A380 vortex-revised guidance material\" (PDF). ICAO. 16 January 2007. Archived from the original (PDF) on 7 June 2011. Retrieved 9 November 2007.
+
+^ \"New guidelines show shorter A380 separation distances\". Flight International. 22 August 2008. Archived from the original on 5 September 2008. Retrieved 6 September 2008.
+
+^ \"ATSB Report AO-2008-077 Archived 14 September 2016 at the Wayback Machine\" Australian Transport Safety Bureau, 9 December 2009. Retrieved 18 September 2012.
+
+^ \"Pilot's perspective\" Flightglobal, undated. Retrieved 20 June 2014. Archived on 18 March 2014.
+
+^ Canaday, Henry (2 February 2015). \"Major Maintenance Due For Airbus A380s\". Aviation Week & Space Technology. Archived from the original on 24 April 2015. Retrieved 24 April 2015.
+
+^ Andriulaitis, Robert (December 2005). \"B747-8F VS A380F\" (PDF). InterVISTAS Consulting Inc.
+
+^ \"Airbus freighter aircraft\". Airbus. Archived from the original on 16 January 2013.
+
+^ \"Airbus freighter aircraft\". Airbus. Archived from the original on 26 April 2013.
+
+^ Zhang, Benjamin (9 July 2015). \"Airbus could solve a huge problem with jumbo jets\". Business Insider.
+
+^ Pierre Sparaco (1 January 2001). \"Europe Embarks On $11-Billion A380 Gamble\". Aviation Week & Space Technology. pp. 22–25.
+
+^ \"Airbus plant Riesen A380\" (in German). Topnews.de. 22 November 2007. Retrieved 1 November 2012.
+
+^ \"Supersizing the superjumbo: Airbus says 1,000 seat A380 due 2020\". Australian Business Traveller. 26 September 2012. Retrieved 7 July 2013.
+
+^ Rothman, Andrea (15 November 2007). \"Europe – Airbus plans 900-Seat Superjumbo; Emirates would buy\". Bloomberg. Archived from the original on 3 November 2012.
+
+^ \"Branson favors planned Airbus 900-seat A380\". The Seattle Times. 21 February 2004.
+
+^ Rigby, Bill (30 October 2007). \"Interview-Cathay Pacific to wait on next-generation planes\". Reuters. Retrieved 7 June 2011.
+
+^ \"Airbus to extend A380 to accommodate 1,000 passengers\". The Times of India. Thaindian.com. 29 August 2008. Archived from the original on 11 March 2012. Retrieved 2 July 2011.
+
+^ \"Kingfisher defers delivery to wait for A380-900\". ATW Daily News. 6 February 2009. Archived from the original on 13 January 2010.
+
+^ Wallace, James; Aerospace, P-I (25 October 2007). \"A stretch version of the A380? It's in the plans\". Seattle Post-Intelligencer. Retrieved 7 June 2011.
+
+^ \"A380-900 and freighter both on 'back-burner': Enders\". Flight International. 20 May 2010. Archived from the original on 24 May 2010. Retrieved 14 December 2011.
+
+^ Flynn, David (11 December 2014). \"Airbus to build A380neo and A380 'stretch'\". Australian Business Traveller. Retrieved 12 December 2014.
+
+^ a b Rothman, Andrea (10 December 2014). \"Airbus Raises Prospect of Ditching A380 as Orders Vanish\". Bloomberg L.P. Retrieved 12 December 2014.
+
+^ \"Airbus in early talks over moderate A380 stretch\". Flightglobal. Retrieved 24 April 2016.
+
+^ \"Airbus in talks with airlines over stretched A380\". Reuters. 15 June 2015.
+
+^ \"Airbus commits to new A380\". The Sunday Times. London. Retrieved 24 April 2016.
+
+^ \"Airbus To Make A380neo Decision In 2015\". Aviation Week. Retrieved 24 April 2016.
+
+^ \"Airbus Talking To Airlines About 'Slight Stretch' Of A380\". Aviation Week. Retrieved 24 April 2016.
+
+^ \"Airbus A380 faces uncertain future\". CNBC. 16 June 2015. Retrieved 24 April 2016.
+
+^ \"Rolls-Royce And Airbus Near Accord Over A380neo\". Aviation week. Retrieved 24 April 2016.
+
+^ \"Rolls Royce Advance Products\". Rolls Royce. Archived from the original on 19 December 2015. Retrieved 24 April 2016.
+
+^ \"Emirates, Airbus Talks on A380neo 'Lapsed'\". Aviation Week & Space Technology. Retrieved 4 June 2016.
+
+^ a b \"The world's largest passenger plane may be about to get bigger\". The Telegraph. Retrieved 8 November 2017.
+
+^ \"Airbus presents the A380plus\" (Press release). Airbus. 19 June 2017.
+
+^ Jens Flottau (19 June 2017). \"Airbus Details A380-plus Modifications\". Aviation Week Network.
+
+^ a b c d e f g Max Kingsley-Jones (19 September 2017). \"The A380's rollercoaster ride in 10 years of service\". Flight International.
+
+^ Max Kingsley-Jones (25 March 2020). \"How the A380 ran out of runway after just two decades\". Flightglobal.
+
+^ \"Flying by Nature Airbus Global Market Forecast 2007–2026\" (PDF). Airbus S.A.S. 31 January 2008. pp. 78–79. Archived from the original (PDF) on 9 April 2008.
+
+^ \"Boeing Current Market Outlook 2007\" (PDF). Boeing Commercial Airplanes. 20 November 2007. p. 43. Archived from the original (PDF) on 9 April 2008.
+
+^ Pierre Sparaco (3 March 2014). \"Opinion: Mega-Transports Hobbled By Their Size\". Aviation Week & Space Technology.
+
+^ \"Asian Airlines' changing presence at London Heathrow\". Center for Aviation. 13 February 2013.
+
+^ \"China Southern's A380 problems may not be solved by possible Air China partnership\". CAPA: Centre for Aviation. 2 April 2013.
+
+^ Jasmine Wang (1 June 2013). \"China Southern Gets First Dreamliner After Failed A380 Strategy\". Bloomberg. Archived from the original on 2 June 2013.CS1 maint: BOT: original-url status unknown (link)
+
+^ Kurt Hofman (30 September 2013). \"Air France: Airbus A380 not a good fit for network\". Air Transport World.
+
+^ Ian Goold (13 July 2014). \"Airbus, Airlines Happy With A380\". Aviation International News.
+
+^ Jens Flottau (17 November 2014). \"'New Breed of Managers' Needed For A380 Success, Tim Clark Believes\". Aviation Week & Space Technology.
+
+^ Jeffrey Dastin (4 June 2015). \"United Airlines does not see a fit for Airbus A380\". Reuters.
+
+^ Andreas Sperl (19 October 2006). \"A380 financial update\" (PDF). EADS. Archived from the original on 3 November 2006.CS1 maint: BOT: original-url status unknown (link)
+
+^ \"EADS hopeful A380 could break even in 2015\". Flight International. 19 May 2010.
+
+^ Tim Hepher (11 December 2014). \"Fury at Airbus after it hints the super-jumbo may be mothballed\". Reuters.
+
+^ \"Airbus shares fall over A380 threat\". BBC News. 11 December 2014.
+
+^ Michael Stothard (11 December 2014). \"Airbus plays down fears over A380 future\". Financial Times.
+
+^ Tim Hepher (22 December 2014). \"UPDATE 1-Airbus delivers first A350, rules out cancelling A380 project\". Reuters.
+
+^ Jens Flottau (24 April 2015). \"Airbus A380 Makes Maiden Flight (2005)\". Aviation Week & Space Technology.
+
+^ Andrea Rothman (27 April 2015). \"Airbus A380 Is the Plane Airlines Aren't Ordering Anymore\". Bloomberg – via Skift.
+
+^ \"New Airbus aircraft list prices for 2016\" (Press release). Airbus. 12 January 2016. Archived from the original on 16 November 2016.
+
+^ Jens Flottau (14 September 2016). \"Singapore Airlines Won't Extend First Airbus A380 Lease\". Aviation Daily. Aviation Week Network.
+
+^ \"The A380s future\". AirInsight. 20 November 2015.
+
+^ Rothman, Andrea; Weiss, Richard (8 June 2015). \"Used A380 superjumbos pose fresh threat to Airbus' sales drive\". The Seattle Times. Retrieved 13 June 2015.
+
+^ \"MAS to use A380s for pilgrimages, up seats to 700\". Flightglobal. 21 October 2016.
+
+^ Kurt Hofmann (5 June 2017). \"Malaysia Airlines targets 3Q 2018 for A380 charter carrier\". Aviation Week Network.
+
+^ Aaron Chang (13 December 2017). \"Malaysia Airlines dismisses report of plans to scrap A380 unit\". Flightglobal.
+
+^ \"Portuguese airline takes over two A380s\". aerotelegraph.com. 26 August 2017.
+
+^ \"Portuguese ACMI specialist Hi Fly to add A380s\". ch-aviation.com. 26 August 2017.
+
+^ David Kaminski-Morrow (5 April 2018). \"Hi Fly to introduce 471-seat A380 by mid-year\". Flightglobal.
+
+^ \"Thomas Cook revealed as Hi Fly's first A380 customer\". Flight Global. 1 August 2018. Retrieved 1 August 2018.
+
+^ O'Keeffe, Niall (3 August 2018). \"Norwegian to deploy Hi Fly's A380 as 787 cover\". FlightGlobal. Retrieved 3 August 2018.
+
+^ Massy-Beresford, Helen (3 August 2018). \"Air Austral To Ground Boeing 787, Replace With Airbus A380\". Aviationweek.com. Retrieved 4 August 2018.
+
+^ Schonland, Addison (27 November 2017). \"Amedeo's A380 \"Net Jets\" Share Idea\". AirInsight.
+
+^ John Morris (28 May 2018). \"First A380 'Royal Yacht' May be Launched Soon\". Aviation Week.
+
+^ Enrique Perrella & James Field (23 November 2018). \"Air France To Return Five A380 Back To Lessors\". Airways International.CS1 maint: uses authors parameter (link)
+
+^ Gubisch, Michael (31 July 2019). \"Air France evaluates A330neo as A380 replacement\". Flightglobal.com.
+
+^ Derber, Alex (15 February 2019). \"A380 Dumped on Valentine's Day\". MRO Network.
+
+^ Jamie Bullen (1 June 2017). \"Dr Peters considering A380 teardown\". Flight Global.
+
+^ Jamie Bullen (13 September 2017). \"Hi Fly eyes Dr Peters' A380s\". Flight Global.
+
+^ James Pozzi (30 May 2018). \"Part-Out Specialists Lukewarm on Second Hand A380s\". Aviation Week Network.
+
+^ \"Positive overall result for two A380 funds\" (Press release). Dr. Peters Group. 5 June 2018. Archived from the original on 23 July 2018. Retrieved 23 July 2018.
+
+^ https://www.doric.com/fileadmin/Doric_Asset_Finance/Press_Releases/2018_07_19_Doric_press_release_Hi_Fly_A380.pdf
+
+^ Airways (5 July 2018). \"Hi Fly Becomes the World's First Airbus A380 Second-Hand Operator\". Airways News.
+
+^ Morris, Hugh (5 November 2018). \"Budget fliers to New York could be upgraded to luxurious first class after Norwegian forced to lease A380\". The Telegraph Online.
+
+^ Tom Lavell and Benedikt Kammel (5 June 2018). \"Two Unwanted A380s Are Moving Closer to the Scrapheap\". Bloomberg.
+
+^ 
+Michael Gubisch (5 June 2018). \"Dr Peters to part out two A380s after airline talks yield no deal\". Flight Global.
+
+^ Sophie Segal (7 June 2018). \"Dr Peters seeks to salvage A380s with part-out plan\". Flight Global.
+
+^ \"The fading dream of an A380 secondary market\". Flight Global. 8 June 2018.
+
+^ Daniel Sander (8 May 2019). \"Sad Sight: First Two Airbus A380 in the Scrapyards\". Airways News.
+
+^ Kingsley-Jones, Max (4 September 2019). \"Emirates begins A380 retirements to support in-service fleet\". Flightglobal.com.
+
+^ \"Emirates orders 50 additional A380s, boosting fleet to 140\". Airbus. 17 November 2013. Archived from the original on 20 November 2013. Retrieved 17 November 2013.
+
+^ Snodgrass, James (6 January 2009). \"Luxury living at 35,000 ft\". CNN.
+
+^ Dubois, Thierry. \"Airbus Cancels Only VVIP A380 Order Archived 27 April 2016 at the Wayback Machine\" AINonline, 5 February 2015. Retrieved 16 February 2015.
+
+^ \"Airbus names A380 delivery centre in Hamburg after Jürgen Thomas\". Airbus. 4 July 2008. Archived from the original on 22 August 2008. Retrieved 13 October 2009.
+
+^ Tim Hepher, Cyril Altmeyer (27 July 2012). \"EADS Sees One-Off Drop in A380 Deliveries Next Year\". Reuters.
+
+^ \"The 10 Biggest Aircraft Deals Of 2013\". International Business Times. 19 December 2013. Retrieved 1 April 2015.
+
+^ \"Airbus A380 Customer Qantas Doesn't Want the Last Eight on Order\". Bloomberg. 5 August 2016.
+
+^ Ellis Taylor (7 February 2019). \"Qantas formally cancels remaining A380 orders\". Flightglobal.
+
+^ Andrea Rothman (30 July 2014). \"Airbus Says Some A380s on Order May Not Be Delivered\". Bloomberg L.P.
+
+^ Kaminski-Morrow, David (14 February 2019). \"Amedeo cancels dormant A380 order\". Flightglobal.com. Retrieved 14 February 2019.
+
+^ David Kaminski-Morrow (7 March 2018). \"Virgin cancels long-dormant A380 order\". Flightglobal.
+
+^ \"Civil Aviation Programs To Watch\". Aviation Week & Space Technology. 9 June 2017.
+
+^ Bjorn Fehrm (3 November 2017). \"Emirates likely to order new A380s at Dubai Air Show\". Leeham.
+
+^ David Kaminski Morrow (18 January 2018). \"Emirates tentatively signs for up to 36 A380s\". Flightglobal.
+
+^ \"Emirates firms up $16 billion order for A380 superjumbos\". 11 February 2018 – via uk.reuters.com.
+
+^ \"Airbus statement on commercial discussions with Emirates Airline\" (Press release). Airbus. 31 January 2019.
+
+^ \"Airbus in discussions with Emirates over superjumbo's future\". AP. 31 January 2019.
+
+^ Tim Hepher, Alexander Cornwell (31 January 2019). \"Airbus A380 under threat as Emirates weighs rejigged order: sources\". Reuters.CS1 maint: uses authors parameter (link)
+
+^ \"Airbus confirms talks with Emirates over A380 contract\". Flightglobal. 31 January 2019.
+
+^ Scott Hamilton (4 February 2019). \"787-10 engines too small for Emirates\". Leeham News.
+
+^ \"Emirates signs deal for 40 A330-900s, 30 A350-900s\" (Press release). Emirates. 14 February 2019.
+
+^ \"All Nippon Airways becomes the last new operator of the A380\". www.aerotime.aero. Retrieved 22 March 2019.
+
+^ \"The all-new A380: Transforming ANA travel to Hawaii\". ANA Official. Retrieved 22 March 2019.
+
+^ \"Historical Orders and Deliveries 1974–2009\". Airbus S.A.S. January 2010. Archived from the original (Microsoft Excel) on 23 December 2010. Retrieved 10 December 2012.
+
+^ a b \"Orders & Deliveries\". Airbus. 31 March 2019. Retrieved 3 May 2019.
+
+^ \"Lufthansa flies German team to Johannesburg with A380\". Lufthansa. 7 April 2010. Archived from the original on 20 August 2010.
+
+^ Eun-joo, Lee (17 June 2011). \"East Asia's first A380 goes into operation today\". Korea JoongAng Daily. Archived from the original on 24 November 2011.
+
+^ \"Airbus delivers China Southern Airlines' first A380\". Airbus.com. 14 October 2011. Retrieved 22 October 2011.
+
+^ \"China Southern Airlines receives its first 'Pearl of the sky' A380 jetliner\". Airbus.com. 14 October 2011. Archived from the original on 18 October 2011. Retrieved 22 October 2011.
+
+^ Platt, Craig (2 July 2012). \"Newest superjumbo takes off for Malaysia Airlines\". The Sydney Morning Herald. Retrieved 6 July 2012.
+
+^ Singapore, Thai. \"A380 Fantasy Fares\". thaiairways.com. Archived from the original on 19 September 2012. Retrieved 14 November 2012.
+
+^ \"BA enters SuperJumbo age with... with a 90-minute flight to Frankfurt\" Archived 22 July 2015 at the Wayback Machine. The Independent, 2 August 2013.
+
+^ \"Asiana to Fly First A380 Flight on June 13\". airchive.com. 23 March 2014. Retrieved 13 June 2014.
+
+^ \"Photos Qatar Airways A380 makes Doha debut\". dohanews.com. 20 September 2014. Archived from the original on 14 October 2014. Retrieved 20 September 2014.
+
+^ \"Etihad launches debut A380 service to London\". TradeArabia News Service. 27 December 2014. Retrieved 27 December 2014.
+
+^ \"Thomas Cook revealed as Hi Fly's first A380 customer\". Flight Global. 1 August 2018. Retrieved 1 August 2018.
+
+^ \"ANA takes delivery of first Airbus A380\". Japan Today. Retrieved 21 March 2019.
+
+^ https://www.airfranceklm.com/en/phase-out-air-france-entire-airbus-a380-fleet
+
+^ https://www.reuters.com/article/us-health-coronavirus-airbus-emirates-ai/air-france-axes-a380-emirates-seen-cutting-deliveries-idUSKBN22W2VN
+
+^ Hephers, Tim. \"Paris museum gets an Airbus A380 superjumbo\". Reuters UK. Reuters. Retrieved 15 February 2019.
+
+^ \"Transfer of A380 MSN4 to the Le Bourget aerospace museum\". Airbus. Retrieved 15 February 2019.
+
+^ \"Indonesians collect debris from Qantas plane engine\". Australian Broadcasting Corporation. 4 November 2010. Retrieved 3 April 2011.
+
+^ \"Inflight engine failure – Qantas, Airbus A380, VH-OQA, overhead Batam Island, Indonesia, 4 November 2010\" Archived 6 November 2016 at the Wayback Machine. Australian Transport Safety Bureau, 18 May 2011.
+
+^ Walker, Peter (5 November 2010). \"Qantas A380 landing: Airlines were warned in August over engine safety\". Airportwatch.org.uk. Archived from the original on 21 October 2013. Retrieved 3 April 2011.
+
+^ Chong, Jordan (20 April 2012). \"Qantas A380 back in the air, 'as good as new'\". Herald-Sun. Retrieved 21 April 2012.
+
+^ \"Qantas replaces RR engines\" Archived 23 March 2013 at the Wayback Machine. The Guardian, 18 November 2010. Retrieved 25 June 2012.
+
+^ \"Incident: France A388 over Greenland on Sep 30th 2017, uncontained engine failure, fan and engine inlet separated\". avherald.com. Retrieved 8 November 2017.
+
+^ \"Air France flight with engine damage makes emergency landing in Canada\". Reuters. 30 September 2017. Retrieved 8 November 2017.
+
+^ a b \"Family figures\" (PDF). Airbus. July 2018.
+
+^ \"A380 Prestige Specifications\" (PDF). Airbus. Archived from the original (PDF) on 12 October 2016.
+
+^ \"Airbus A380 Type Certificate Data Sheet\" (PDF). Federal Aviation Authority. 27 May 2014.
+
+^ \"A380 powers on through flight-test\". Flight International. 20 December 2005.
+
+^ \"A380 Technology\". Airbus.
+
+Further reading
+
+\"Hotels in the Sky\". Popular Mechanics. 178. March 2001.
+
+Moir, Ian; Allan G. Seabridge; Malcolm Jukes (2003). Civil avionics systems. Professional Engineering. ISBN 978-1-86058-342-1.
+
+Pearman, Hugh (2004). Airports: a century of architecture. Laurence King. ISBN 978-1-85669-356-1.
+
+Javier Alfonso Gil (2007). European aeronautics: the Southwestern axis. Springer. ISBN 978-3-540-35646-2.
+
+Maxwell, David (2007). Airbus A380: Superjumbo on World Tour. Zenith Press. ISBN 978-0-7603-3279-5.
+
+Simons, Graham M. (2014). The Airbus A380: A History. Barnsley, UK: Pen & Sword Aviation. ISBN 9781783030415.
+
+External links
+
+ Wikimedia Commons has media related to:
+Airbus A380 (category)
+
+External image Airbus A380
+
+Cutaway, Flightglobal
+
+Official website
+
+\"A380 Special Report\". Flight International. June 2005.
+
+Mark Power (2003–2006). \"Project \" A380: Photographs / Audio Visual\".
+
+\"Airbus A380 Aircraft Profile\". FlightGlobal. 27 February 2007.
+
+Max Kingsley-Jones (9 November 2017). \"The path to an A380 century at Emirates\". Flightglobal.
+
+David Kaminski-Morrow (9 July 2018). \"Analysis: A380 scrapes along in hope of revival\". Flightglobal.
+
+Jens Flottau and Rupa Haria. \"End of the Mega-Transport: Highs and Lows of the Airbus A380\". Aviation Week Network.CS1 maint: uses authors parameter (link)
+
+v
+
+t
+
+e
+
+Airbus airliners production
+
+ 1970s
+ 1980s
+ 1990s
+ 2000s
+ 2010s
+ 
+4 5 6 7 8 9
+ 0 1 2 3 4 5 6 7 8 9
+ 0 1 2 3 4 5 6 7 8 9
+ 0 1 2 3 4 5 6 7 8 9
+ 0 1 2 3 4 5 6 7 8 9
+ 0
+
+ Airbus A220
+
+ Airbus A320 family
+
+ Airbus A310
+ 
+ A320neo family
+
+Airbus A300
+ 
+ A330neo
+
+ Airbus A330
+
+ Airbus A340
+ 
+ Airbus A350 XWB
+
+ Airbus A380
+
+Narrow-body
+ Wide-body
+
+v
+
+t
+
+e
+
+Airbus aircraft
+
+Aeroplanes
+
+Civil 
+A220 family
+
+A300
+A300 Beluga
+
+A310
+
+A320 family
+A318
+
+A319
+
+A320
+
+A321
+
+A320neo family
+
+A330
+A330neo
+
+A330 Beluga XL
+
+A340
+
+A350 XWB
+
+A380
+
+Airbus Corporate Jets
+
+E-Fan
+E-Fan X
+
+NSR
+
+THOR
+
+Military
+
+(Airbus Defence and Space) 
+A310 MRTT
+CC-150 Polaris
+
+A330 MRTT
+
+A400M
+
+Barracuda
+
+C212
+
+CN235
+
+C295
+HC-144
+
+FCAS
+
+Mako/HEAT
+
+KC-45
+
+Typhoon
+
+Helicopters
+
+(Airbus Helicopters)
+
+Civil 
+BK 117
+
+CityAirbus
+
+EC120 (H120)
+
+EC130 (H130)
+
+EC135 (H135)
+
+EC145 (H145)
+
+EC155 (H155)
+
+H160
+
+EC175 (H175)
+
+EC225 (H225)
+
+AS332 (H215)
+
+AS350 (H125)
+
+AS355
+
+SA/AS365
+
+X3 (experimental)
+
+X6
+
+Military 
+AS532
+
+AS550 (H125M)/AS555
+
+AS565
+
+EC635 (H135M)
+
+EC645 (H145M)
+
+H160M
+
+EC665
+
+EC725 (H225M)
+
+HH/MH-65
+
+NH90
+
+UH-72
+
+VSR700
+
+Authority control 
+GND: 4644751-9
+
+LCCN: sh2005004204
+
+"
+

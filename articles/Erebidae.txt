@@ -1,0 +1,547 @@
+"Family of moths
+
+Erebidae
+
+Black witch moth
+
+Ascalapha odorata, Brazil
+
+Scientific classification 
+
+Kingdom:
+ Animalia
+
+Phylum:
+ Arthropoda
+
+Class:
+ Insecta
+
+Order:
+ Lepidoptera
+
+Superfamily:
+ Noctuoidea
+
+Family:
+ Erebidae
+
+(Leach, )
+
+Eulepidotis affinis, Panama
+
+Apantesis arge caterpillar (Arctiinae)
+
+Halysidota tessellaris, cocoon
+
+The Erebidae are a family of moths in the superfamily Noctuoidea. The family is among the largest families of moths by species count and contains a wide variety of well-known macromoth groups. The family includes the underwings (Catocala); litter moths (Herminiinae); tiger, lichen, and wasp moths (Arctiinae); tussock moths (Lymantriinae), including the arctic woolly bear moth (Gynaephora groenlandica); piercing moths (Calpinae and others); micronoctuoid moths (Micronoctuini); snout moths (Hypeninae); and zales, though many of these common names can also refer to moths outside the Erebidae (for example, crambid snout moths). Some of the erebid moths are called owlets.
+
+The sizes of the adults range from among the largest of all moths (>5 in (127 mm) wingspan in the black witch) to the smallest of the macromoths (0.25 in (6 mm) wingspan in some of the Micronoctuini). The coloration of the adults spans the full range of dull, drab, and camouflaged (e.g., Zale lunifera and litter moths) to vivid, contrasting, and colorful (e.g., Aganainae and tiger moths). The moths are found on all continents except Antarctica.
+
+Contents
+
+1 Subfamilies
+
+2 Classification
+
+3 References
+
+4 External links
+
+Subfamilies
+
+Aganainae
+
+Anobinae
+
+Arctiinae – tiger, lichen, and wasp moths
+
+Boletobiinae
+
+Calpinae – piercing moths
+
+Erebinae – underwings and kin
+
+Eulepidotinae
+
+Herminiinae – litter moths
+
+Hypeninae – snout moths
+
+Hypenodinae – includes the micronoctuoids
+
+Hypocalinae
+
+Lymantriinae – tussock moths
+
+Pangraptinae
+
+Rivulinae
+
+Scolecocampinae
+
+Scoliopteryginae – piercing moths
+
+Tinoliinae
+
+Toxocampinae
+
+Classification
+
+Among the Noctuoidea, the Erebidae can be broadly defined by the wing characteristics of the adults with support from phylogenetic studies. The cubital forewing vein, which runs outward from the base of a wing to the outer margin, splits into two (bifid), three (trifid), or four (quadrifid) veins from the medial area to the outer margin. These split veins are named M2, M3, CuA1, and CuA2 in order toward the inner margin. A trifid forewing has either a reduced or vestigial M2 vein or the M2 vein does not connect to the cubital veins, while M2 is as thick as M3 and connects or nearly connects to M3 in a quadrifid forewing. The same splitting of the hindwing cubital vein has analogous terms bifine, trifine, and quadrifine. The Erebidae typically have quadrifid forewings and quadrifine hindwings, though the Micronoctuini are exceptional with their bifine hindwings. Among the related families, most Erebidae are quadrifid moths like the Euteliidae, Nolidae, and Noctuidae and unlike the trifid Oenosandridae and Notodontidae. And among the quadrifid moths, the Erebidae have quadrifine hindwings like the typical Nolidae and Euteliidae and unlike the typical Noctuidae.
+
+Phylogenetic studies in the present century have helped to clarify the relationships between the structurally diverse lineages within the Noctuoidea and within the Erebidae. Morphological studies had led to a classification in which the monophyletic Arctiinae, Lymantriinae, and Micronoctuini were treated as families, and the other erebid lineages were largely grouped within the Noctuidae. Recent studies combining genetic characteristics with the morphological ones revealed that the former Noctuidae were paraphyletic, and some of the lineages within the Noctuidae were more closely related to the Arctiinae, Lymantriinae, and Micronoctuini families than to the other lineages within the Noctuidae.
+
+The determination of these phylogenetic relationships has led to the present classification scheme in which several clades were rearranged while kept mostly intact and others were split apart. The Erebidae are one monophyletic family among six in the Noctuoidea. A more strictly defined family Noctuidae is also monophyletic, but the family lacks the quadrifine moths now placed as part of the Erebidae. Some subfamilies of the Noctuidae, such as the Herminiinae, were moved as a whole to Erebidae. Other subfamilies, including the Acontiinae and Calpinae, were each split apart. The Arctiinae became an erebid subfamily placed next to the closely related Herminiinae. The Lymantriinae became another erebid subfamily placed near the Pangraptinae. The rank of the Micronoctuini was changed from family to tribe to include the clade as a lineage within the Hypenodinae. The Erebidae are currently divided into 18 subfamilies, some of which are strongly supported by phylogenetic analysis and may persist through further study, while others are weakly supported and may be redefined again.
+
+References
+
+^ Kukal, Olga; Dawson, Todd E. (1989-06-01). "Temperature and food quality influences feeding behavior, assimilation efficiency and growth rate of arctic woolly-bear caterpillars". Oecologia. 79 (4): 526–532. doi:10.1007/BF00378671. ISSN 0029-8549. PMID 28313488.
+
+^ Zahiri, Reza; et al. (2012). "Molecular phylogenetics of Erebidae (Lepidoptera, Noctuoidea)". Systematic Entomology. 37: 102–124. doi:10.1111/j.1365-3113.2011.00607.x.
+
+^ Lafontaine, Donald; Schmidt, Christian (19 Mar 2010). "Annotated check list of the Noctuoidea (Insecta, Lepidoptera) of North America north of Mexico". ZooKeys (40): 1–239. doi:10.3897/zookeys.40.414.
+
+^ Zahiri, Reza; et al. (2013). "Relationships among the basal lineages of Noctuidae (Lepidoptera, Noctuoidea) based on eight gene regions". Zoologica Scripta. 42 (5): 488–507. doi:10.1111/zsc.12022.
+
+External links
+
+ Wikimedia Commons has media related to Erebidae.
+
+ Wikispecies has information related to Erebidae
+
+Images of Erebidae moths in New Zealand
+
+Images of Erebidae in Bugguide.net
+
+v
+
+t
+
+e
+
+Extant Lepidoptera families
+
+Kingdom: Animalia
+
+Phylum: Arthropoda
+
+Class: Insecta
+
+Subclass: Pterygota
+
+Infraclass: Neoptera
+
+Superorder: Endopterygota
+
+Suborder Zeugloptera
+
+Micropterigoidea Micropterigidae (mandibulate archaic moths)
+
+Suborder Aglossata
+
+Agathiphagoidea Agathiphagidae (kauri moths)
+
+Suborder Heterobathmiina
+
+Heterobathmioidea Heterobathmiidae
+
+Suborder Glossata
+
+Dacnonypha
+
+Eriocranioidea 
+Eriocraniidae
+
+Acanthoctesia
+
+Acanthopteroctetoidea 
+Acanthopteroctetidae (archaic sun moths)
+
+Lophocoronina
+
+Lophocoronoidea Lophocoronidae
+
+Neopseustina
+
+Neopseustoidea 
+Aenigmatineidae
+
+Neopseustidae (archaic bell moths)
+
+Exoporia
+
+Hepialoidea 
+Anomosetidae
+
+Hepialidae (swift moths, ghost moths)
+
+Neotheoridae (Amazonian primitive ghost moths)
+
+Palaeosetidae (miniature ghost moths)
+
+Prototheoridae (African primitive ghost moths)
+
+Mnesarchaeoidea 
+Mnesarchaeidae (New Zealand primitive moths)
+
+H
+
+e
+
+t
+
+e
+
+r
+
+o
+
+n
+
+e
+
+u
+
+r
+
+a
+
+M
+
+o
+
+n
+
+o
+
+t
+
+r
+
+y
+
+s
+
+i
+
+a
+
+Adeloidea 
+Adelidae (fairy longhorn moths)
+
+Cecidosidae
+
+Heliozelidae
+
+Incurvariidae
+
+Prodoxidae (yucca moths)
+
+Andesianoidea 
+Andesianidae (Andean endemic moths)
+
+Nepticuloidea 
+Nepticulidae (pigmy, or midget moths)
+
+Opostegidae (white eyecap moths)
+
+Palaephatoidea 
+Palaephatidae (Gondwanaland moths)
+
+Tischerioidea 
+Tischeriidae (trumpet leaf miner moths)
+
+D
+
+i
+
+t
+
+r
+
+y
+
+s
+
+i
+
+a
+
+Simaethistoidea 
+Simaethistidae
+
+Tineoidea 
+Acrolophidae (burrowing webworm moths)
+
+Arrhenophanidae
+
+Eriocottidae (Old World spiny-winged moths)
+
+Lypusidae
+
+Psychidae (bagworm moths)
+
+Tineidae (fungus moths)
+
+Gracillarioidea 
+Bucculatricidae (ribbed cocoon makers)
+
+Douglasiidae (Douglas moths)
+
+Gracillariidae
+
+Roeslerstammiidae
+
+Yponomeutoidea 
+Acrolepiidae (false diamondback moths)
+
+Bedelliidae
+
+Glyphipterigidae (sedge moths)
+
+Heliodinidae
+
+Lyonetiidae
+
+Plutellidae
+
+Yponomeutidae (ermine moths)
+
+Ypsolophidae
+
+Gelechioidea 
+Autostichidae
+
+Batrachedridae
+
+Blastobasidae
+
+Coleophoridae (case-bearers, case moths)
+
+Cosmopterigidae (cosmet moths)
+
+Elachistidae (grass-miner moths)
+
+Gelechiidae (twirler moths)
+
+Lecithoceridae (long-horned moths)
+
+Metachandidae
+
+Momphidae (mompha moths)
+
+Oecophoridae (concealer moths)
+
+Pterolonchidae
+
+Scythrididae (flower moths)
+
+Xyloryctidae (timber moths)
+
+Galacticoidea 
+Galacticidae
+
+Zygaenoidea 
+Heterogynidae
+
+Zygaenidae (burnet, forester, or smoky moths)
+
+Himantopteridae
+
+Lacturidae
+
+Somabrachyidae
+
+Megalopygidae (flannel moths)
+
+Aididae
+
+Anomoeotidae
+
+Cyclotornidae
+
+Epipyropidae (planthopper parasite moths)
+
+Dalceridae (slug caterpillars)
+
+Limacodidae (slug, or cup moths)
+
+Cossoidea 
+Cossidae (carpenter millers, or goat moths)
+
+Dudgeoneidae (dudgeon carpenter moths)
+
+Sesioidea 
+Brachodidae (little bear moths)
+
+Castniidae (castniid moths: giant butterfly-moths, sun moths)
+
+Sesiidae (clearwing moths)
+
+Choreutoidea 
+Choreutidae (metalmark moths)
+
+Tortricoidea 
+Tortricidae (tortrix moths)
+
+Urodoidea 
+Urodidae (false burnet moths)
+
+Schreckensteinioidea 
+Schreckensteiniidae (bristle-legged moths)
+
+Epermenioidea 
+Epermeniidae (fringe-tufted moths)
+
+Alucitoidea 
+Alucitidae (many-plumed moths)
+
+Tineodidae (false plume moths)
+
+Pterophoroidea 
+Pterophoridae (plume moths)
+
+Whalleyanoidea 
+Whalleyanidae
+
+Immoidea 
+Immidae
+
+Copromorphoidea 
+Copromorphidae (tropical fruitworm moths)
+
+Carposinidae (fruitworm moths)
+
+Thyridoidea 
+Thyrididae (picture-winged leaf moths)
+
+Calliduloidea 
+Callidulidae (Old World butterfly-moths)
+
+Papilionoidea
+
+(butterflies) 
+Papilionidae (swallowtail butterflies)
+
+Hedylidae (American moth-butterflies)
+
+Hesperiidae (skippers)
+
+Pieridae (whites, yellows, orangetips, sulphurs)
+
+Riodinidae (metalmarks)
+
+Lycaenidae (gossamer-winged butterflies: blues, coppers and relatives)
+
+Nymphalidae (brush-footed, or four-footed butterflies)
+
+Hyblaeoidea 
+Hyblaeidae (teak moths)
+
+Pyraloidea 
+Pyralidae (snout moths)
+
+Crambidae (grass moth)
+
+Mimallonoidea 
+Mimallonidae (sack bearer moths)
+
+Lasiocampoidea 
+Lasiocampidae (eggars, snout moths, or lappet moths)
+
+Bombycoidea 
+Anthelidae (Australian lappet moth)
+
+Apatelodidae (American silkworm moths)
+
+Bombycidae (silk moths)
+
+Brahmaeidae (Brahmin moths)
+
+Carthaeidae (Dryandra moth)
+
+Endromidae (Kentish glory and relatives)
+
+Eupterotidae
+
+Phiditiidae
+
+Saturniidae (saturniids)
+
+Sphingidae (hawk moths, sphinx moths and hornworms)
+
+Noctuoidea 
+Erebidae (underwing, tiger, tussock, litter, snout, owlet moths)
+
+Euteliidae
+
+Noctuidae (daggers, sallows, owlet moths, quakers, cutworms, darts)
+
+Nolidae (tuft moths)
+
+Notodontidae (prominents, kittens)
+
+Oenosandridae
+
+Drepanoidea 
+Drepanidae (hook-tips)
+
+Cimeliidae (gold moths)
+
+Doidae
+
+Geometroidea 
+Sematuridae
+
+Pseudobistonidae
+
+Epicopeiidae (oriental swallowtail moths)
+
+Uraniidae
+
+Geometridae (geometer moths)
+
+Superfamily unassigned 
+Millieriidae
+
+Note: division Monotrysia is not a clade.
+
+Taxonomy of the Lepidoptera
+
+Lists by region
+
+Taxon identifiers 
+Wikidata: Q2068481
+
+Wikispecies: Erebidae
+
+BAMONA: Erebidae
+
+BioLib: 896027
+
+BugGuide: 43743
+
+EoL: 4127950
+
+Fauna Europaea: 431650
+
+Fauna Europaea (new): 196aa783-9827-45ef-a294-87f384ad6742
+
+Fossilworks: 245053
+
+GBIF: 4532185
+
+iNaturalist: 121850
+
+IRMNG: 122369
+
+ITIS: 936921
+
+NBN: NHMSYS0020959403
+
+NCBI: 695564
+
+NZOR: 85a513e7-ba2e-49c2-9170-a08742629bf8
+
+WoRMS: 989023

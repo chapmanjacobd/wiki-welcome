@@ -1,0 +1,491 @@
+"For the United States Navy ship, see USS James H. Clark (SP-759).
+
+James H. Clark
+
+Born James Henry Clark
+
+(1944-03-23) March 23, 1944 (age 76)
+
+Plainview, Texas, United States
+
+Nationality American
+
+Citizenship United States
+
+Alma mater University of Utah
+
+University of New Orleans
+
+Spouse(s) Nancy Rutter
+
+Kristy Hinze (m. 2009)
+
+Children 4
+
+Scientific career
+
+Fields Computer science
+
+Computer graphics
+
+Institutions Silicon Graphics, Inc.
+
+Netscape Communications Corporation
+
+Thesis 3-D design of free-form B-spline surfaces (1974)
+
+Doctoral advisor Ivan Sutherland
+
+James Henry Clark (born March 23, 1944) is an American entrepreneur and computer scientist. He founded several notable Silicon Valley technology companies, including Silicon Graphics, Inc., Netscape Communications Corporation, myCFO, and Healtheon. His research work in computer graphics led to the development of systems for the fast rendering of three-dimensional computer images.
+
+Contents
+
+1 Early life and education
+
+2 Career
+
+2.1 Academia
+
+2.2 Silicon Graphics, Inc.
+
+2.3 Netscape
+
+2.4 Healtheon/WebMD
+
+2.5 Other affiliations
+
+3 Awards
+
+4 Personal life
+
+5 Yachting
+
+6 Philanthropy
+
+7 See also
+
+8 References
+
+9 External links
+
+Early life and education
+
+Clark was born in Plainview, Texas on March 23, 1944. He dropped out of high school at 16 and spent four years in the Navy, where he was introduced to electronics. Clark began taking night courses at Tulane University's University College where, despite his lack of a high school diploma, he was able to earn enough credits to be admitted to the University of New Orleans. There, Clark earned his bachelor's and a master's degrees in physics, followed by a PhD in computer science from the University of Utah in 1974.
+
+Career
+
+Academia
+
+After completing his PhD, Clark worked at NYIT's Computer Graphics Lab, serving as an assistant professor at the University of California, Santa Cruz, from 1974 to 1978, and then as an associate professor of electrical engineering at Stanford University from 1979 to 1982. Clark's research work concerned geometry pipelines, specialized software or hardware that accelerates the display of three dimensional images. The zenith of his group's advancements was the Geometry Engine, an early hardware accelerator for rendering computer images based on geometric models which he developed in 1979 with his students at Stanford.
+
+Silicon Graphics, Inc.
+
+In 1982, James Clark along with several Stanford graduate students founded Silicon Graphics, Inc. (SGI). The earliest Silicon Graphics graphical workstations were mainly terminals, but they were soon followed by stand-alone graphical Unix workstations with very fast graphics rendering hardware. In the mid-1980s, Silicon Graphics began to use the MIPS CPU as the foundation of their newest workstations, replacing the Motorola 68000.
+
+By 1991, Silicon Graphics became the world leader in the production of Hollywood movie visual effects and 3-D imaging. Silicon Graphics focused on the high-end market where they could charge a premium for their special hardware and graphics software.
+
+Clark had differences of opinion with Silicon Graphics management regarding the future direction of the company, and departed in late January 1994.
+
+Netscape
+
+In February 1994, Clark sought out Marc Andreessen who had led the development of Mosaic, the first widely distributed and easy-to-use software for browsing the World Wide Web, while employed at the National Center for Supercomputing Applications (NCSA). Clark and Andreessen founded Netscape, and developed the Netscape Navigator web browser. The founding of Netscape and its IPO in August 1995 launched the Internet boom on Wall Street during the mid-to-late 1990s. Clark's initial investment in Netscape was $4 million in 1994; he exited with $1.2 billion when Netscape was acquired by AOL in 1999.
+
+Healtheon/WebMD
+
+In 1995, Clark became interested in streamlining the paperwork associated with the health-care industry. The resulting start-up, Healtheon, was founded in early 1996 with backing from Kleiner Perkins and New Enterprise Associates. Although Clark's original idea of eliminating the paperwork and bureaucracy associated with medical care was ambitious, it did lead to successes in administrative streamlining of medical records technology. However, an Atlanta, Georgia startup company, WebMD originally focused on medical content was also making similar in-roads. Knowing WebMD had financial backing from Microsoft, Clark decided to merge Healtheon with the original WebMD to form the WebMD Corporation (NASDAQ: WBMD). WebMD is a leader in health information on the Internet.
+
+Other affiliations
+
+In 1999, Jim Clark launched myCFO, a company formed to help wealthy Silicon Valley individuals manage their fortunes. In late 2002, while Clark served on the board of directors, most of myCFO's operations were sold to Harris Bank and now operate as Harris myCFO.
+
+Clark was chairman and financial backer of network-security startup Neoteris, founded in 2000, which was acquired by NetScreen in 2003 and subsequently by Juniper Networks.
+
+Clark was a founding director and investor in the biotechnology company DNA Sciences, founded in 1998 to unravel the genetics of common disease using volunteers recruited from the Internet launched August 1, 2000 (see The New York Times). In 2003, the company was acquired by Genaissance Pharmaceuticals Inc.
+
+Clark was the subject of the 1999 bestseller The New New Thing: A Silicon Valley Story by U.S. author Michael Lewis.
+
+Clark was a notable investor in Kibu.com, an Internet website for teens, which received approximately $22 million in funding. The website shut down in 2000, returning its remaining capital to investors.
+
+Clark coproduced the 2009 movie The Cove. His funding made possible the purchase and covert installation of some high-tech camera and sound-recording equipment required to capture the film's climactic dolphin slaughter. The film addresses the problem of whale and dolphin killing in Taiji, Wakayama, Japan.
+
+Clark sits on the board and is one of the primary investors in the consumer facing mobile technology company Ibotta.
+
+Clark also sits on the board of IEX: The Investors Exchange IEX.
+
+In 2017, Clark announced the launch of CommandScape, a cyber secure building management and automation platform.
+
+Awards
+
+Clark received the ACM SIGGRAPH Computer Graphics Achievement Award in 1984. He was a recipient of the 1997 Kilby International Awards, which honored him for his computer graphics vision and for enabling networked information exchange.
+
+In 1988, Clark was an Award Recipient of the EY Entrepreneur of the Year Award in the Northern California Region.
+
+Clark was awarded an honorary Doctor of Science (ScD) from the University of East Anglia in 1998.
+
+Personal life
+
+Clark has been married four times and has four children. In 2000, his daughter Kathy married Chad Hurley, a co-founder of YouTube. The divorce from his third wife of 15 years, Nancy Rutter, a Forbes journalist, is reported to have cost him $125 million in cash and assets in the settlement. Soon afterwards he began dating Australian model Kristy Hinze, 36 years his junior. Hinze became his fourth wife when they married in the British Virgin Islands on March 22, 2009. She gave birth to a daughter, Dylan Vivienne in September 2011, and later, Harper Hazelle, in August 2013.
+
+Yachting
+
+Clark is an enthusiastic yachtsman but cannot sail in rough ocean races such the Sydney-Hobart due to an arthritic condition in his ankles and prefers one-day regattas on the smoother waters of the Mediterranean, the Caribbean and off Newport, Rhode Island. In 2012, however, he commented that "after 28 years of owning boats, I'm over it."
+
+He is the past owner of two important sailing yachts:
+
+Hyperion, the world's largest sloop when she was launched in 1998 at 47.5 m (156 ft) in length. She was designed by Germán Frers and built by Royal Huisman. With an air draught of 59 m (194 ft), she briefly featured the world's longest carbon fiber spar. Clark developed her own chartplotter and SCADA system to control vessel operation remotely, as well as automate sailing operation and optimize sailing performance using a large bank of sensors and SGI processors. Clark sold Hyperion in 2004.
+
+Comanche, a 30.48 m (100 ft) carbonfiber maxi yacht designed by VPLP and built by Hodgdon Shipbuilding for line honours victories in offshore races. She lost line honours to Wild Oats XI in the 2014 Sydney-Hobart race but returned and won in 2015. She also won line honours in the 2015 Transatlantic race in which she set a new 24-hour speed record for monohulls. In 2016 with Skipper Ken Read and Stan Honey navigating, she set the Newport to Bermuda Race record, shaving five hours off the previous fastest time recorded in the 635 mile race. In December 2017, Comanche was sold to Australian Jim Cooney.
+
+He remains the current owner of two other large sailing yachts:
+
+Athena, a 90 m (295 ft) three-mast gaff-rigged aluminum schooner built by Royal Huisman. Athena has been listed for sale since July 2012, originally with an asking price of US$95 million, reduced to $59 million as of February 2017.
+
+Hanuman, a replica of the 42.1 m (138 ft) J-Class Endeavour II, built by Royal Huisman. Hanuman has been listed for sale since May 2012.
+
+Philanthropy
+
+Clark has contributed to Stanford University, where he was an associate electrical engineering professor. He donated $90 million of the total cost of $150 million to fund construction of the James H. Clark Center for Biomedical Engineering for interdisciplinary biomedical research. Construction started in 2001 and was completed in the summer of 2003, as part of the Stanford University Bio-X program. In September 2001, Clark rescinded $60 million of his initial 1999 pledge of $150 million to Stanford University for Bio-X, citing anger over President Bush's restrictions on stem cell research. 
+
+In 2004, Clark and David Filo of Yahoo! each donated $30 million to Tulane University's School of Engineering for merit-based scholarships to provide education to deserving students regardless of financial situation in the discipline of engineering. 
+
+Clark is a board member for the national council of the World Wide Fund for Nature (WWF) and contributes towards the organization. The Perlman Music Program has recognized Clark for his continued philanthropic efforts towards their organization and their endowment fund.
+
+See also
+
+Catmull–Clark subdivision surface, a 3D modelling technique Clark invented in collaboration with Edwin Catmull
+
+References
+
+^ "James Clark - Computer Programmer - Biography". March 31, 2019. Archived from the original on March 31, 2019. Retrieved August 16, 2019.
+
+^ "James H. Clark". engineering.stanford.edu. Retrieved May 28, 2016.
+
+^ "James Clark". Forbes. Retrieved May 28, 2016.
+
+^ "Netscape co-founder, Saints hero, Grammy winner, healthcare advocate to be honored at Tulane commencement". Tulane News. Retrieved August 16, 2019.
+
+^ Bowen, Jonathan (2001). "Silicon Graphics, Inc.". In Rojas, Raúl (ed.). Encyclopedia of Computers and Computer History. New York: Routledge. pp. 709–710. ISBN 978-1579582357.
+
+^ Rowe, Robin (September 2001). "Linux Invades Hollywood". CGW. Computer Graphics World. 24 (9). Retrieved December 17, 2017. SGI servers and workstations dominated the movie industry because they were good at two things: crunching numbers (for rendering animation), and displaying high-resolution graphics images quickly on the screen.
+
+^ "Silicon Graphics Announces Departure of Founder and Chairman Jim Clark". Archived from the original on September 27, 2009.
+
+^ Netscape Communications Corp.. Netscape, accessed December 30, 2010.
+
+^ Clark, James (2008). Download: The True Story of the Internet "Browser Wars" (Documentary). The Discovery Channel.
+
+^ Swartz, Jon (June 18, 1996). "Another Startup by Jim Clark / New online venture focuses on health care". San Francisco Chronicle.
+
+^ Flynn, Laurie J. (October 3, 2000). "Girls site closing". New York Times. Retrieved January 19, 2017.
+
+^ "With $20 million round, Ibotta will double employee base". Built In Colorado. Retrieved January 24, 2017.
+
+^ "IEX Group | crunchbase". www.crunchbase.com. Retrieved January 24, 2017.
+
+^ "Netscape's Jim Clark launches CommandScape, a building management system for commercial and premium properties". VentureBeat. August 22, 2017. Retrieved March 6, 2018.
+
+^ "The 1997 Kilby Laureates". The Kilby International Awards. Retrieved December 30, 2010.
+
+^ "Hall of Fame - EY Entrepreneur Of The Year". eoyhof.ey.com. Archived from the original on June 14, 2006. Retrieved January 24, 2017.
+
+^ Cloud, John. "The YouTube Gurus." Time, December 16, 2006.
+
+^ Stefanie Cohen (March 21, 2009). "Jim Clark to wed Kristy Hinze". New York Post.
+
+^ "She says, he says: couple split overs Sydney-Hobart replay". The Australian. December 30, 2015.
+
+^ https://www.forbes.com/sites/ryanmac/2012/05/15/billionaire-jim-clark-seeks-more-than-100-million-for-two-superyachts/#54b169224a01
+
+^ https://www.boatinternational.com/yacht-market-intelligence/brokerage-sales-news/royal-huisman-sailing-superyacht-hyperion-for-sale--34919
+
+^ "Built to win: On board sailing yacht Comanche with Jim Clark". Boat International.
+
+^ "Comanche chops hours from Newport Bermuda line honours record". June 19, 2016.
+
+^ "Comanche finds new owner Down Under". Scuttlebutt Sailing News. December 14, 2017.
+
+^ "Athena at Burgess". www.burgessyachts.com. March 2016. Retrieved December 28, 2017.
+
+^ "Burgess Athena sales". www.burgessyachts.com. Retrieved December 28, 2017.
+
+^ "SuperYacht of the week: S/Y Hanuman, recreation of Endeavour II". SuperYachtTimes.com. March 13, 2010. Retrieved May 9, 2010.
+
+^ "Hanuman Yacht". SuperYachtTimes.com. Retrieved May 9, 2010.
+
+^ Mac, Ryan (May 15, 2012). "Billionaire Jim Clark Seeks More Than $100 Million For Two Superyachts". Retrieved April 24, 2020.
+
+^ "Hanuman – For Sale". www.jclassyachts.com. J Class Association. Retrieved April 24, 2020.
+
+^ "Encyclopedia of the Great Plains | CLARK, JIM (b. 1944)". plainshumanities.unl.edu. University of Nebraska at Lincoln. August 1, 2003. Retrieved December 17, 2017.
+
+^ Baker, Mitzi (October 29, 2003). "Clark Center, 'nucleus for a range of new research' opens". news.stanford.edu. Stanford Report. Retrieved December 17, 2017. The building's other major donor, previously anonymous, was The Atlantic Philanthropies, which contributed $60 million.
+
+^ "Clark Center | Welcome to Bio-X". biox.stanford.edu. Retrieved December 17, 2017.
+
+^ Charles Ornstein.Donor Stops Big Payment to Stanford. LA Times, accessed December 29, 2010.
+
+^ Matt Hines (July 30, 2004). "Web luminaries hand $60 million to Tulane". CNET.
+
+^ "Who We Are: National Council]". National Council of World Wildlife Fund. Retrieved December 29, 2010.
+
+^ "Gifts and Grants". The Perlman Music Program. Retrieved December 29, 2010.
+
+External links
+
+ Wikimedia Commons has media related to James H. Clark.
+
+"Jim Clark", Salon.com, November 24, 1999.
+
+"James H. Clark", Business Week, 1999.
+
+v
+
+t
+
+e
+
+Silicon Graphics
+
+Company 
+Silicon Graphics (1981–2009)
+
+Silicon Graphics International (2009-2016)
+
+People 
+Kurt Akeley
+
+Rick Belluzzo
+
+David J. Brown
+
+James H. Clark
+
+Paul Haeberli
+
+Herb Kuta
+
+Abbey Silverstone
+
+Computer
+
+architectures
+
+Motorola 68000 
+SGI IRIS
+
+MIPS 
+IRIS 4D
+
+Indigo
+
+Indigo²
+
+Indy
+
+Crimson
+
+O2
+
+Octane
+
+Challenge
+
+Onyx
+
+Origin 200
+
+Origin 2000
+
+Onyx2
+
+Origin and Onyx 3000
+
+Fuel
+
+Tezro
+
+IA-32, Itanium, x86-64 
+Visual Workstation
+
+Altix
+
+Prism
+
+Virtu
+
+Graphics hardware 
+Geometry Engine
+
+Elan
+
+Extreme
+
+Impact
+
+VPro
+
+RealityEngine
+
+InfiniteReality
+
+IrisVision
+
+Reality Coprocessor
+
+Other technology 
+IRIX
+
+Image format
+
+MEX
+
+Workspace
+
+4Sight
+
+Interactive Desktop
+
+Xsgi
+
+4Dwm
+
+XFS
+
+IRIS GL
+
+OpenGL
+
+GIO
+
+XIO
+
+NUMAlink
+
+IndyCam
+
+Nintendo 64
+
+v
+
+t
+
+e
+
+Netscape
+
+Browser versions 
+Mosaic Netscape
+
+Netscape Navigator
+1
+
+2
+
+3
+
+4
+
+Netscape Communicator
+4
+
+5
+
+Netscape
+6
+
+7
+
+Netscape Browser 8
+
+Netscape Navigator 9
+
+Netscape Plugin Application Programming Interface (NPAPI)
+
+E-mail clients 
+Netscape Mail & Newsgroups
+
+Netscape Messenger 9
+
+Other components 
+Netscape Composer
+
+Server software 
+Netscape Enterprise Server
+
+Netscape Application Server
+
+Netscape Proxy Server
+
+Netscape Directory Server
+
+Netscape Server Application Programming Interface (NSAPI)
+
+Web services 
+Netscape.com
+
+Propeller.com
+
+Open Directory Project
+
+Netscape ISP
+
+People 
+Eric J. Bina
+
+James H. Clark
+
+Brendan Eich
+
+Daniel Glazman
+
+Jamie Zawinski
+
+Lou Montulli
+
+Marc Andreessen
+
+Eric A. Meyer
+
+Mitchell Baker
+
+See also 
+Gecko
+
+JSSS
+
+Mariner
+
+Netscape 5
+
+Netscape Public License
+
+Mozilla
+
+AOL
+
+iPlanet
+
+Authority control 
+ACM DL: 81332493735
+
+CANTIC: a11037805
+
+DBLP: 65/3135
+
+GND: 122017595
+
+ISNI: 0000 0000 8122 1868
+
+LCCN: n98103209
+
+LNB: 000033253
+
+MGP: 183304
+
+NDL: 00805594
+
+NTA: 191413925
+
+VIAF: 43622203
+
+ WorldCat Identities: lccn-n98103209

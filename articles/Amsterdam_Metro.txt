@@ -1,0 +1,1181 @@
+"Rapid transit railway in Amsterdam, Netherlands
+
+Amsterdam Metro
+
+Europaplein metro station on Route 52
+
+Overview
+
+Native name Amsterdamse metro
+
+Owner City of Amsterdam
+
+Locale Amsterdam, Diemen, Ouder-Amstel
+
+Transit type Rapid transit
+
+Number of lines 5
+
+Number of stations 39
+
+Daily ridership 247,397 (2018)
+
+Annual ridership 90.3 million (2018)
+
+Operation
+
+Began operation 14 October 1977
+
+Operator(s) Gemeentelijk Vervoerbedrijf
+
+Number of vehicles 90
+
+Technical
+
+System length 42.7 km (26.5 mi)
+
+Track gauge 1,435 mm (4 ft 8 1⁄2 in) standard gauge
+
+Electrification 750 V DC third rail
+
+Top speed 70 km/h (43 mph)
+
+System map
+
+ Legend
+
+ 5051 Isolatorweg
+ 
+Amsterdam Sloterdijk
+ 
+De Vlugtlaan
+ 
+Jan van Galenstraat
+ 
+Postjesweg
+ 
+Amsterdam Lelylaan
+ 
+ Noord 52
+
+Heemstedestraat
+ 
+ Noorderpark
+
+Henk Sneevlietweg
+ 
+ IJ
+
+Amstelveenseweg
+ 
+ 51 53 54
+
+ Amsterdam Centraal
+
+Rokin
+ 
+ Nieuwmarkt
+
+Vijzelgracht
+ 
+ Waterlooplein
+
+De Pijp
+ 
+ Weesperplein
+
+Europaplein
+ 
+ Wibautstraat
+
+52 Amsterdam Zuid
+ 
+Amsterdam RAI
+ 
+ Amsterdam Amstel 
+
+Amsterdam
+
+Ouder-Amstel
+
+border
+
+ Spaklerweg
+
+Overamstel
+ 
+ Amsterdam
+
+Ouder-Amstel
+
+border
+
+Van der Madeweg
+ 
+ Ouder-Amstel
+
+Amsterdam
+
+border
+
+Duivendrecht
+ 
+ Venserpolder
+
+Ouder-Amstel
+
+Amsterdam
+
+border
+
+ Amsterdam
+
+Diemen
+
+border
+
+Strandvliet
+ 
+ Diemen Zuid 
+
+Amsterdam
+
+Bijlmer ArenA
+
+ Verrijn Stuartweg
+
+Bullewijk
+ 
+ Diemen
+
+Amsterdam
+
+border
+
+Amsterdam
+
+Holendrecht
+
+ Ganzenhoef
+
+Reigersbos
+ 
+ Kraaiennest
+
+50 54 Gein
+ 
+ Gaasperplas 53
+
+This diagram: view
+
+talk
+
+edit
+
+The Amsterdam Metro (Dutch: Amsterdamse metro) is a rapid transit system serving Amsterdam, Netherlands and extending to the surrounding municipalities of Diemen and Ouder-Amstel. Until 2019 it also served the municipality of Amstelveen but this route has been closed for conversion into a tram line. The network is owned by the City of Amsterdam and operated by municipal public transport company Gemeentelijk Vervoerbedrijf (GVB) which also operates trams, free ferries and local buses.
+
+The metro system consists of five routes and serves 39 stations, with a total length of 42.7 kilometers (26.5 mi). Three routes start at Amsterdam Centraal: Route 53 and Route 54 connect the city centre with the suburban residential towns of Diemen, Duivendrecht and Amsterdam-Zuidoost (the city's southeastern borough), while Route 51 first runs south and then follows a circular route connecting the southern and western boroughs. Route 50 connects Zuidoost to the Amsterdam-West borough using a circular line, which it shares with Route 51. It is the only route that does not cross the city centre. A fifth route, Route 52, running from the Amsterdam-Noord (north) borough to Amsterdam-Zuid (south) via Amsterdam Centraal, came into operation on 21 July 2018. As opposed to the other routes, it runs mostly through bored tunnels and does not share tracks with any other route.
+
+Contents
+
+1 History
+
+1.1 Planning history
+
+1.2 Construction
+
+1.3 Later lines
+
+2 Network
+
+2.1 Map
+
+2.2 East Line (Routes 53 and 54)
+
+2.2.1 Route
+
+2.2.2 Architecture
+
+2.2.3 Renovation
+
+2.3 Amstelveen Line (former route 51)
+
+2.3.1 History
+
+2.3.2 Route
+
+2.3.3 Future
+
+2.4 Ring Line (Route 50)
+
+2.5 North–South line (Route 52)
+
+3 Planned expansion
+
+4 Technology
+
+4.1 Rolling stock
+
+4.1.1 M1/M2/M3
+
+4.1.2 S1/S2/S3/M4
+
+4.1.3 M5
+
+4.1.4 Summary
+
+4.2 Ticketing system
+
+4.3 Graphic design
+
+4.4 Communications
+
+5 See also
+
+6 Notes
+
+7 References
+
+8 External links
+
+History
+
+Planning history
+
+The 1968 plan for the metro
+
+The first plans for an underground railway in Amsterdam date from the 1920s: in November 1922, members of the municipal council of Amsterdam Zeeger Gulden and Emanuel Boekman asked the responsible alderman Ter Haar to study the possibility of constructing an underground railway in the city, in response to which the municipal department of Public Works drafted reports with proposals for underground railways in both 1923 and 1929. These plans stalled in the planning phase, however, and it took until the 1950s for the discussion about underground rail to resurface again in Amsterdam.
+
+The post-war population boom and increase in motorized traffic shifted the perception of underground rail transport in Amsterdam considerably: whereas in the 1920s, underground rail had been considered too expensive, halfway through the 1950s it was presented as a realistic solution to the problems caused by increased traffic. In 1955, a report published by the municipal government concerning the inner city of Amsterdam—known by the Dutch title Nota Binnenstad—suggested to install a commission to explore solutions to the traffic problems Amsterdam faced. This commission, which was headed by former director of the department of Public Works J.W. Clerx, was subsequently installed in March 1956, and published its report Openbaar vervoer in de agglomeratie Amsterdam in 1960.
+
+The aldermen and mayor of Amsterdam agreed with the conclusion of the report of the Clerx commission that an underground railway network ought to be built in Amsterdam in the near future. In April 1963 they installed the Bureau Stadsspoorweg which had the task to study the technical feasibility of a metropolitan railway, to propose a route network, to suggest the preferred order of construction of the various lines, and to study the adverse effects of constructing a metro line, such as traffic disruption and the demolition of buildings.
+
+In 1964 and 1965, Bureau Stadsspoorweg presented four reports to the municipal government of Amsterdam, which were made available to the public on 30 August 1966. In March 1968, the aldermen and mayor of Amsterdam subsequently submitted a proposal to the municipal council of Amsterdam to agree to the construction of the metro network, which the council assented to on 16 May 1968 with 38 votes in favour and 3 against. Under the original plan, four lines were to be built, connecting the entire city and replacing many of the existing tram lines. The following lines were planned: an east-west line from the southeast to the Osdorp district via Amsterdam Centraal railway station; a circle line from the western harbor area to the suburban town of Diemen; a north-south line from the northern district via Amsterdam Centraal to Weteringplantsoen traffic circle, with two branches at both ends; and a second east-west line from Geuzenveld district to Gaasperplas. The system would be constructed gradually and was expected to be completed by the end of the 1990s.
+
+Construction
+
+Wall decorations remembering the demolition in the Nieuwmarkt neighbourhood and protests against it
+
+The first part of the original plan to be carried out was the construction of the Oostlijn (East Line), which started in 1970. The East Line links the city centre with the large-scale Bijlmermeer residential developments in the south-east of the city. It opened in 1977. The East Line starts underground, crossing the city centre and adjacent neighbourhoods in the eastern districts until Amsterdam Amstel railway station, where it continues above ground in southeastern direction. At Van der Madeweg metro station, the line splits into two branches: the Gein Branch for Route 54 and Gaasperplas Branch for Route 53. Since 1980, the northern terminus for both routes is Amsterdam Centraal railway station. During the construction of the metro tunnel, the decision to demolish the Nieuwmarkt neighbourhood in the city centre led to strong protests in the spring of 1975 from action groups consisting of locals and members of the highly active Amsterdam squatting movement. Wall decorations at the Nieuwmarkt metro station are a reference to the protests, which are known as the Nieuwmarkt Riots (Nieuwmarktrellen).
+
+Despite the protests, construction of the metro line continued but plans to build a highway through the area were abandoned. In addition, the original plans for an east-west metro line were cancelled. One of the sites where this line was to connect with the East Line had already been built underneath Weesperplein station. This lower level of Weesperplein station was never opened to the public, but its existence can still be noticed by the elevator buttons. Since the East Line was planned and built during the Cold War, Weesperplein station also features a bomb shelter which has never been used as such.
+
+Later lines
+
+Route network of the Amsterdam Metro with years of opening
+
+In 1990 the Amstelveenlijn (Amstelveen Line) was opened, which is used for Route 51. Under a political compromise between the city of Amsterdam and the municipality of Amstelveen, the northern section of the line was built as a metro line while the southern section is an extended tram line. Therefore, Route 51 was originally referred to as a 'sneltram' (express tram) service, and the vehicles were manufactured to light rail standards. The changeover between third rail and overhead tramline power took place at Zuid Station.
+
+From March 2019 onwards, the Amstelveenlijn as a sneltram ceased to exist, and is being replaced by a tram line terminating at Zuid station, including a €300 million rebuild of the original line. For connection to the metro, passengers will have to transfer at Zuid station. Line number 51 was retained for a new circular line between Isolatorweg and Central Station.
+
+In 1997 the Ringlijn (Ring Line), which is used for Route 50, was added to the system. The line provides a rapid transit connection between the south and the west of the city, eliminating the necessity of crossing the city centre.
+
+In 2018 the Noord-Zuidlijn (North–South Line) was added to the network. The line provides a fast connection from the north or the IJ waterway to the south of Amsterdam.
+
+Network
+
+From 1997 to 2018 the Amsterdam metro system consisted of four metro routes. The oldest routes are Route 54 (from Centraal station to Gein) and Route 53 (from Centraal station to Gaasperplas). Both routes are using the Oostlijn (East Line) infrastructure, which was completed in 1977. Route 51 (from Centraal station to Amstelveen Westwijk), using part of the East Line as well as the Amstelveenlijn (Amstelveen Line), was added in 1990. Route 50 (from Isolatorweg to Gein) using the Ringlijn (Ring Line or Circle Line), which was completed in 1997, as well as part of the East Line infrastructure.
+
+A fifth line, Route 52 (from Noord station to Zuid station), was added to the network operating the Noord-Zuidlijn (North–South Line), which was completed and opened on 21 July 2018.
+
+There are 33 full metro stations, Since Route 52 on the new North-South Line opened, six additional stations and 9.5 kilometres (5.9 mi) of route have been added to the metro system, yielding a new combined network length of 52 kilometres (32 mi). In 2019, sneltram Route 51 no longer operates into the metro network. The southern sneltram portion was closed for conversion to be incorporated into the tram network.
+
+Route
+Line(s) used
+Colour
+Termini
+Opening
+Length
+Stations
+Passengers (2019)
+Type
+
+50
+ Ring Line, East Line (Gein branch)
+ Green
+ 
+ Isolatorweg – Gein
+ 1997
+ 20.1 km (12.5 mi)
+ 20
+ 100,200
+ Metro
+
+51
+ Ring Line, East Line
+ Orange
+ 
+ Isolatorweg – Centraal Station
+ 1990
+ 19.5 km (12.1 mi)
+ 29
+ 60,800
+ Metro
+
+52
+ North–South Line
+ Blue
+ 
+ Noord – Zuid
+ 2018
+ 9.5 km (5.9 mi)
+ 8
+ 84,000
+ Metro
+
+53
+ East Line (Gaasperplas branch)
+ Red
+ 
+ Gaasperplas – Centraal Station
+ 1977
+ 11.3 km (7.0 mi)
+ 14
+ 60,600
+ Metro
+
+54
+ East Line (Gein branch)
+ Yellow
+ Gein – Centraal Station
+ 1977
+ 12.1 km (7.5 mi)
+ 15
+ 73,500
+ Metro
+
+Map
+
+East Line (Routes 53 and 54)
+
+Route
+
+Map of current Amsterdam Metro routes
+
+Waterlooplein station, opened in 1980, seen before its 2010s renovation.
+
+A M5 metro at Kraaiennest station
+
+On 14 October 1977, the first metro train ran on the Oostlijn (East Line) from Weesperplein to Amsterdam-Zuidoost, with two branches respectively going to Gaasperplas (now Route 53) and Holendrecht (now Route 54). Spaklerweg station was completed as a shell, but opened later. On 11 October 1980, both routes were extended to Amsterdam Centraal Station, which is now their northern terminus. The Gein Branch was extended in southern direction on 27 August 1982, when the section between Holendrecht and Gein was completed. Spaklerweg station was then opened. In some plans for the Gein Branch, an extension to Weesp and Almere was being considered. According to the most recent regional planning study, that now seems unlikely.
+
+Architecture
+
+A notable part of the East Line infrastructure is a dual metro overpass on the Gaasperplas Branch in the Bijlmermeer district between Ganzenhoef and Kraaiennest stations. This 1,100 meter long colonnade contains two single crossovers, each consisting of 33 pillars carrying 33 meter long beams. The center-to-center distance between the two overpasses is 15 meters. This exceptional height was necessary because the metro had to bridge the main thoroughfares in the Bijlmermeer district which were built on a system of raised embankments and viaducts.
+
+New Bijlmer Arena station (2007)
+
+The stations, the infrastructure and the Diemen-Zuid maintenance facility of the East Line were designed by Ben Spängberg and Sier van Rhijn, two architects at the former Public Works Department of the City of Amsterdam. Their designs in Brutalist style are characterized by large-scale application of bare concrete and excessive space in the underground station halls. It also included a sophisticated use of colour. For example, the red colour of the train doors in the original design was also used at major facilities such as billboards, gates, elevator doors, bins, and the platform signage. For the design of the entire East Line Spängberg and Van Rhijn received Merkelbach Award in 1979. The East Line was also awarded the Betonprijs (Concrete Award) in 1981, which is commemorated by the award plaques in the concourses of Centraal station and Gein station.
+
+As part of the city's policy that one percent of construction budgets for public works had to be spent on art, all stations on the Oostlijn have been decorated by different artists. In addition, the western wall of the tunnel was painted with lines and patterns which altered between two stations, providing passengers with a fascinating view during the ride. Over the years, these decorations have completely been covered with graffiti. Some of the station art works have also disappeared. Plans to remove all art works as part of the large-scale renovation of the East Line tunnel in 2012 were altered after citizens' protests stating their historical significance.
+
+Renovation
+
+Over the years, several stations along the East Line were expanded or renovated. Since 2003, the metro station at Amsterdam Centraal station has been continuously under construction in order to accommodate the new North–South Line station. As part of commercial development of the area surrounding the Amsterdam Arena football stadium, which included a new major business and shopping district, the Bijlmer Arena station was substantially enlarged in order to handle the increasing number of passengers. The new station, designed by Grimshaw and Arcadis Articon Architects, opened in 2007 and was shortlisted for the Stirling Prize of the Royal Institute of British Architects. Another East Line station, Kraaiennest on Route 53, was reconstructed and upgraded in 2013 as part of the major urban renewal efforts in the Bijlmermeer district. The station designed by Maccreanor Lavington features a stainless steel facade with a floral design, which, according to the architects, "allows the station to be a lantern for the local neighbourhood, creating a sense of warmth on street level and creating an instantly recognisable feature for the station" at night time. The design was awarded the 2014 EU Stirling Prize.
+
+A major overhaul of sixteen East Line stations was announced in June 2014. The renovation works taking place from 2015 until 2017 should bring more light and space to the stations. By removing paint layers on the walls, the original Brutalist architecture will become more pronounced. In addition, disused tickets offices are to be removed and lighting and signage will be improved.
+
+Amstelveen Line (former route 51)
+
+History
+
+Route 51 lightrail vehicle at Zuid Station, where it changed from third rail to overhead wire power supply.
+
+Following the Nieuwmarkt Riots in 1975, the next major expansion of the metro network into the bordering city of Amstelveen was politically sensitive. When the decision was made to begin construction of the Amstelveenlijn (Amstelveen Line) in 1984, it was originally considered an express tram service rather than a fully-fledged metro route. On 1 December 1990 the section running from Spaklerweg to Poortwachter Station in Amstelveen was completed. As the sensitivity surrounding the metro expansion waned in the 1990s, the route was increasingly being referred to as a metro service. On 13 September 2004 an extension to Amstelveen Westwijk was completed.
+
+Originally, the entire route of the Amstelveen Line from Spaklerweg, where it connects with the East Line, to Amstelveen was to be powered via overhead wiring. Eventually, it was decided to use a third rail between Spaklerweg and Zuid station in order to be able to increase metro service on this section of the line during exhibitions at the RAI convention centre, and overhead wiring on the southern section into Amstelveen.
+
+The line was officially opened on November 30, 1990, replacing the overcrowded bus route 67. The equipment, lightrail series S1 and S2, was built between 1990 and 1994 by Belgian manufacturer BN in Bruges. From 1994, a total of 25 light rail vehicles was in operation. Since the extension to Westwijk in 2004, a number of S3 series trains are sometimes used on this route, raising the total number of vehicles available to 29.
+
+Shortly before the opening, two lightrail vehicles had collided during trial runs, which reduced the number of vehicles available for the route to 11. Because of the lack of equipment and startup problems, the route was initially operated with limited service. In February 1991 heavy snowfall, continuing technical problems and equipment shortages led to the decision to limit the route to the route between Centraal Station and Zuid Station for nearly seven months, with replacement bus services on the remaining route into Amstelveen.
+
+On 3 March 2019, the Amstelveen branch (express tram line) was cut from route 51 as the tunnel connecting the metro line with the tram network has to make way for an underground section of the A10 motorway.
+
+Route
+
+From Centraal Station to Amsterdam Zuid station, Route 51 runs as a full metro service and has no at-grade intersections. The lightrail vehicles on the line are powered by a third rail with the line being suitable for 3 meter (10 ft) wide trams. The BN vehicles, however, have a width of 2.65 meters (8 ft 6in) which is the maximum width on the southern section of the line between Zuid Station and Westwijk. In order to bridge the gap between the trains and the platforms in northern section, the vehicles are equipped with retractable footboards at the doors. In addition, the vehicles are equipped with pantographs in order to retrieve power from the overhead wiring on the southern section. From Zuid Station to Westwijk, the route operates as an express tram service. On the northern half of this section, Route 51 shared tracks with Line 5 of the tramway, with dual height platforms provided at the stops shared by both lines.
+
+Since 3 March 2019, the Amstelveen section of route 51 has been discontinued. Line 51 was upgraded to a full metro line and now runs between Central Station and Isolatorweg.
+
+Future
+
+After the completion of the Noord-Zuidlijn (North–South Line) in 2018 there was no more room at Amsterdam Zuid station for Route 51 to continue as express tram service into Amstelveen. According to a long-term regional planning study of 2011, the Amstelveenlijn was to be upgraded to a fully-fledged metro service. On 12 March 2013, however, the regional council of the City Region of Amsterdam decided that Route 51 will be replaced by an improved express tram service running from Westwijk to Zuid Station and a separate metro service running from Zuid Station and Amstel Station. Passengers from Amstelveen will then be required to change at Zuid Station to the metro route for Amstel or to the new Route 52 for Centraal Station. It was also decided that Tram Route 5 will run between Amstelveen and Westergasfabriek. Conversion of the southern section of the Amstelveen Line to tram operation started in 2016 with expected completion in 2020, when the Amstelveen Line will become tram line 25, the Amsteltram.
+
+Ring Line (Route 50)
+
+Opened on 1 June 1997, the Ringlijn (Ring Line or Circle Line) is entirely built on embankments and viaducts, and has no level crossings. The line was initially for political reasons called "express circle tram", but since the opening of the Ring Line the transit service on the line is referred to as a Metro Route 50 (from Gein to Isolatorweg). Because it was originally considered a tram line, the light rail vehicle width of 2,65 meters was to be applied; the width that was also used on the Amstelveen Line. The new "trams" (Series M4 and S3) have retractable running boards to bridge the space between the vehicle and the platform at existing stations. Since Route 50 proved hugely popular, the express tram vehicles were insufficient to handle the number of passengers. Instead of ordering additional vehicles, in 2000 the city of Amsterdam decided to adjust the platforms at the stations between Amstelveenseweg and Isolatorweg, whereby the older rolling stock (M1, M2 and M3) serving on the East Line could also serve on the Ring Line. Such an operation was already taken into account during the construction of the stations.
+
+North–South line (Route 52)
+
+Platforms of the North–South Line at Amsterdam Centraal
+
+In 2002 the construction of the Noord/Zuidlijn (North–South line) was started. The new metro line is the first to serve the Amsterdam North district, via a tunnel under the IJ. From there, it runs via Amsterdam Centraal to Amsterdam Zuid, which is planned to become the second biggest transport hub in the city, after Amsterdam Centraal. The line includes a mixture of bored tunnels and immersed tunnels under the IJ.
+
+The construction programme experienced several difficulties, mainly at Amsterdam Centraal, resulting in the project running more than 40% over budget and the opening being delayed several times. The project initially had a budget of €1.46 billion, but after several setbacks the total cost estimate has been adjusted to €3.1 billion (at 2009 prices). The original planned opening was for 2011, but eventually the line was opened on 21 July 2018.
+
+The North–South line might be extended to Amsterdam Airport Schiphol in the future. In August 2014, it was announced that the line was to be equipped with 4G mobile phone coverage, to be funded jointly by the major mobile phone operators.
+
+Planned expansion
+
+The tram line to IJburg in the east was originally planned to be a metro line. For this reason, a short tunnel was constructed eastwards from Centraal Station underneath the railway lines. As this line was eventually constructed for tram services, the tunnel was abandoned, and there are plans to use it as part of a chocolate museum. There are still plans for the tram to IJburg to be upgraded to metro and connect to the nearby city of Almere. 
+
+On completion of the North-South metro line, Amsterdam Municipality announced it was analysing a possible east-west line at a projected cost of €7 billion.
+
+In January 2019, CEO of Amsterdam Airport Schiphol Dick Benschop announced that agreements had been reached to extend the North-South line to the airport and Hoofddorp. In June 2019, the province of North Holland outlined plans to extend the metro to Zaandam and Purmerend along with Schiphol and Hoofddorp. A station box has already been constructed for a potential underground station in Sixhaven, on the North-South line between Noorderpark and Centraal, to be opened at a later date.
+
+Technology
+
+Rolling stock
+
+As of January 2016, there are 90 electric multiple unit train sets in use within the Amsterdam Metro system. All use standard gauge track and operate on a 750 V DC third rail electrification system. 
+
+M1/M2/M3
+
+The original, first-generation fleet consisted of types M1, M2 and M3, designed as four-axle, two-car sets manufactured by the German firm Linke-Hofmann-Busch and delivered between 1973 and 1980. These first-generation trains are nicknamed zilvermeeuw (herring gull) because of their body of unpainted steel creating a silvery look. In 2009, all trains were provided with a new interior design by different artists. As they are built to full metro carrying capacity, they were used mainly on the east line services, Routes 53 and 54, with occasional use on Route 50.
+
+As they neared the end of their life cycle and spare parts no longer became available, the entire fleet of M1-M3 trains was gradually taken out of service permanently from 2012 to 2015, being replaced by the modern M5 trains. The last unit (No. 23) was retired after a farewell tour on 19 December 2015 and has been preserved as a heritage train. All the other units have been scrapped, with the last of these being scrapped in December 2015.
+
+S1/S2/S3/M4
+
+Until the arrival of the new M5 units, the remainder of the fleet consisted of smaller, narrower two section, 6-axle units that could operate both on the main metro network and the light rail ("sneltram") line to Amstelveen. Types S1 and S2, manufactured by La Brugeoise et Nivelles in Belgium, were the first units to be produced for use on this new line. In service since 1990, they currently operate exclusively on Route 51, although they could technically also be used on other lines though this has never been done. These vehicles are equipped with both third rail shoes and pantographs, along with retractable footboards to bridge the gap between the trains and the platforms on sections built to full metro standards. They are due to be withdrawn by 2020 with the conversion of the Amstelveen line to express tram service.
+
+Types M4 and S3 were built by CAF in Spain to expand the fleet and have been in service since 1997. Type M4 was built for the new Ring Line service to Isolatorweg and are hence only third rail equipped. They mainly operate on Route 50 but can also be found on Routes 53 and 54, but never on route 51 due to their lack of pantographs. Four vehicles of the same design, designated type S3, have been equipped with pantographs to also serve on Route 51, but these rarely appear on other lines. As the platforms on the Ring Line were originally built to a smaller loading gauge than those on Routes 53 and 54, M4 and S3 sets were also equipped with retractable footboards to permit boarding on the section that Route 50 shares with Route 54. When the platforms on the Ring Line were narrowed to accommodate the older but wider M1-M3 sets, the boards were permanently removed on all M4 sets, but not on the S3 sets due to the limited loading gauge of the Amstelveen line.
+
+M5
+
+The newest addition to the Amsterdam Metro fleet is the M5 series, manufactured by the Polish manufacturer Alstom Konstal based on its Metropolis family of high-capacity metro trains, variants of which are in use in several foreign metro systems. Delivered from June 2013 onwards, the M5 series departs radically from previous generation units by coming in six-car articulated sets with gangway connections between all cars. Although the trains are suitable for unmanned service, they remain controlled by drivers for the time being. However, the trains are compatible with Alstom's "Urbalis" communications-based train control system which will replace the current signalling system by 2017 and enable automatic train operation across the entire network. The M4 sets have been similarly equipped with this system in early 2016.
+
+The initial order of 28 M5 metro sets, each carrying up to 1,000 passengers, was placed to replace all M1-M3 sets on the East Line as well as to increase overall capacity on the generally overstretched metro network. As such, they are used on all routes except Route 51. For Route 52 on the North–South Line an option was taken on a second series of 12 trains which was originally designated M6. However, the GVB now refers to all trains of this type as the M5 series.
+
+Summary
+
+Vehicle
+Type
+Description
+Operation
+
+ Series M1, M2 and M3
+
+Full metro units for operation on Route 50 (mostly m4/S4), 53 and 54
+
+Built by LHB (44 units total)
+ Cars per unit: 2
+
+Length: 37.5 m
+
+Width: 3.0 m
+
+Weight (fully loaded): 54.0 tonnes (75.0 tonnes)
+
+Maximum speed: 70 km/h
+
+Power: 4 x 195 kW
+
+DC power supply: 750 volts
+ 1977-2015
+
+ Series S1 and S2
+
+Hybrid metro/tram units for operation on Route 51
+
+Built by BN (25 units total)
+ Cars per unit: 2
+
+Length: 30.6 m
+
+Width: 2.65 m
+
+Weight (fully loaded): 48.5 tonnes (72.0 tonnes)
+
+Maximum speed: 70 km/h
+
+Power: 6 x 77 kW
+
+DC power supply: 600/750 volts
+ 1990-today
+
+ Series S3 and M4
+
+Light metro units for operation on Routes 50 and 51, sometimes operates on Route 53
+
+Built by CAF (4 S3 units, 33 M4 units)
+ Cars per unit: 2
+
+Length: 30.9 m
+
+Width: 2.7 m
+
+Weight (fully loaded): 48.0 tonnes (72.0 tonnes)
+
+Maximum speed: 70 km/h
+
+Power: 6 x 70 kW
+
+DC power supply: 750 volts
+ 1997-today
+
+ Series M5
+
+Full metro units for Routes 50, 52, 53 and 54
+
+Built by Alstom Konstal (28 units total)
+ Cars per unit: 6
+
+Length: 116.2 m
+
+Width: 3.0 m
+
+Weight: 190 tonnes
+
+Maximum speed: 90 km/h
+
+Power: 16x200 kW
+
+DC power supply: 750 volts
+ 2013-today
+
+Ticketing system
+
+Ticket barriers for the OV-chipkaart at Venserpolder metro station
+
+The OV-chipkaart, a nationwide contactless smart card system, is the only valid form of ticket on the metro system. It replaced the so-called strippenkaart system on 27 August 2009, after the two systems had run parallel since 2006. Ticket barriers have been installed in all metro stations, with free-standing card readers where platforms are shared with train or tram lines. Amstelveen Line light rail stations are only equipped with free-standing card readers.
+
+Graphic design
+
+Signage on the Amsterdam metro system has featured multiple designs stemming from different eras. The original 1974 signage uses the M.O.L. typeface, which was specially designed for the metro by Gerard Unger and is still in use on some stations. The openings within the letters are larger than normal in order to improve the letters' legibility when illuminated. The name M.O.L. refers to the Dutch word mol which means mole in English. The idea to use a mole as the mascot for the metro was rejected by city authorities. Other versions are the 1991 version found on the Amstelveen Line, the 1995 version found mainly on Ring Line and the 2009 version which has replaced earlier versions at many stations. In 2016 the City Region of Amsterdam commissioned a new signage system and logo in an effort to harmonize all of the signage and wayfinding elements across all metro lines, in time for the renovation of the East Line and opening of the North-South Line. The new design is based on the already-existing R-net branding, though somewhat modified. It uses the Profile typeface and harks back to the original Unger design by using blue, white and red design elements. All of the wayfinding systems commissioned after the original 1974 one are designed by Mijksenaar.
+
+\t\t
+\t\t\t
+
+\t\t\t
+1974 original design at Diemen Zuid station, featuring M.O.L. typeface
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+1991 style sign at Zonnestein station
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+1995 style sign at Isolatorweg station
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+2009 style sign at Bijlmer ArenA station
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+2016 style sign at Amsterdam Centraal station
+
+\t\t\t
+
+\t\t
+
+Communications
+
+A communications backbone for the Amsterdam Metro was installed by Thales, which is also responsible for associated maintenance.
+
+See also
+
+Transport in Amsterdam
+
+Trams in Amsterdam
+
+Gemeentelijk Vervoerbedrijf (GVB)
+
+Notes
+
+^ a b "Maps - Metro stations overview". GVB. Archived from the original on 2013-04-13. Retrieved 2014-04-27.
+
+^ a b "Meer mensen met metro dan met tram door Noord/Zuidlijn". www.nrc.nl. 26 September 2018.
+
+^ "Jaarverslag 2018"  (pdf) (in Dutch). GVB Holding NV. p. 45. Retrieved 2019-06-22.
+
+^ "Jaarverslag 2016"  (in Dutch). GVB Holding NV. 23 May 2017. p. 18. Retrieved 2016-06-12.
+
+^ a b c d "Network". GVB. Archived from the original on 2014-12-12. Retrieved 2014-12-14.
+
+^ a b Davids 2000, p. 158.
+
+^ Jansen 1972.
+
+^ Davids 2000, pp. 161-162.
+
+^ Davids 2000, pp. 163-164.
+
+^ Davids 2000, p. 164.
+
+^ Davids 2000, pp. 165-166.
+
+^ "Plan Stadsspoor" (PDF) (in Dutch). Communications Department, City of Amsterdam. 1968.
+
+^ "Civil unrest, Nieuwmarkt ABC". Amsterdam City Archives. Archived from the original on 2013-02-22. Retrieved 2014-07-31.
+
+^ "Boondoggles: Unfinished metro station underneath Weesperplein junction". Jur Oster. Retrieved 2014-07-31.
+
+^ https://amstelveeninzicht.nl/1899-2/
+
+^ "Planning & Kosten". Noord/Zuidlijn (in Dutch). Gemeente Amsterdam . Retrieved 2014-06-09.
+
+^ a b "Metronetstudie"  (pdf) (in Dutch). Department of Infrastructure, Traffic and Transport, City of Amsterdam. 5 June 2007. p. 29. Retrieved 2014-12-14.
+
+^ "Metronetstudie"  (pdf) (in Dutch). Department of Infrastructure, Traffic and Transport, City of Amsterdam. 5 June 2007. p. 93. Retrieved 2014-12-14.
+
+^ "Dutch start reconstruction of Amstelveen LRT". International Railway Journal. 2019-03-05. Retrieved 2019-03-21.
+
+^ a b "PlanAmsterdam: Structural Vision Amsterdam 2040" (PDF). Department of Physical Planning, City of Amsterdam. 2011.
+
+^ "'Metrokunst waardevol voor stad' ('Metro art valuable for city')". FoliaWeb. 2012-03-26.
+
+^ "Stations Oostlijn mogen (beschadigde) kunstwerken houden (East Line station keep their (damaged) art works)". Het Parool. 2012-09-27.
+
+^ "Bijlmer Station by Grimshaw". DeZeen Magazine. 2008-09-09.
+
+^ "Maccreanor Lavington overhauls Amsterdam's Kraaiennest metro station". DeZeen Magazine. 2014-04-08.
+
+^ "The best new buildings – 2014 RIBA National Award winners are announced". Royal Institute of British Architects. 2014-06-19. Archived from the original on 2014-11-04.
+
+^ "Amsterdam metro station is world famous for its architecture". DutchNews.nl. 2014-07-29.
+
+^ "Stationsrenovatie Oostlijn (Station renovation East Line)" (in Dutch). Metro Department, City of Amsterdam. 2014-06-25.
+
+^ "MetroMorphosis Amsterdam: Renovation of 18 metro stations on the Eastern Line". Zwarts en Jansma Architects. Retrieved 2014-07-31.
+
+^ "Tram 5 vanaf 2018 naar Westergasfabriek)". rtva.nl. 2017-06-01.
+
+^ "Persbericht: Regioraad stelt plannen voor ombouw Amstelveenlijn vast (Press notice: Regional council approves plans for conversion of Amstelveen Line)". Amstelveenlijn.nl. 2013-03-12. Archived from the original on 2014-08-15. Retrieved 2014-08-01.
+
+^ "Beschrijving voorkeursvariant Amstelveenlijn (Description Preferred Version Amstelveen Line), p. 12" (PDF). City Region of Amsterdam. 2013-03-13. Archived from the original (PDF) on 2015-02-02. Retrieved 2014-08-01.
+
+^ Inge Jacobs (11 September 2019). "Vernieuwde Amstelveenlijn krijgt lijnnummer 25". OV Pro (in Dutch). Retrieved 15 January 2020.
+
+^ a b "Zuidas Visie" (pdf).
+
+^ "Last section of Noord/Zuidlijn nears completion". Railway Gazette International. Retrieved 2012-09-24.
+
+^ "Planning en begroting" . Noord/Zuidlijn (in Dutch). Gemeente Amsterdam . Retrieved 2016-07-08.
+
+^ "New Amsterdam metro line to get 4G coverage". Telecompaper. 8 August 2014. Retrieved 12 August 2014.
+
+^ "The biggest useless works of Amsterdam". Retrieved 2014-06-09.
+
+^ "A Metro from Amsterdam to Almere (pdf)" (PDF). Archived from the original (PDF) on 2014-07-14. Retrieved 2014-06-09.
+
+^ "Amsterdam completes EUR 3.1 billion metro line". Railway PRO. 23 January 2018. Retrieved 18 June 2020.
+
+^ "Amsterdam metro line to be extended to Schiphol airport". I Am Expat. 9 January 2019. Retrieved 29 July 2019.
+
+^ "Provincie wil metro naar Zaandam, Purmerend, Hoofddorp en Schiphol". NH Nieuws (in Dutch). 12 June 2019. Retrieved 17 November 2019.
+
+^ "Amsterdam krijgt brug over het IJ". www.amsterdam.nl (in Dutch). 11 January 2017.
+
+^ "Amsterdamse Metro (Metro Amsterdam)" (in Dutch). Dutch Wikipedia. Archived from the original on 2015-01-09. Retrieved 2016-01-30.
+
+^ "Laatste rit en afscheid Zilvermeeuw Metro GVB Amsterdam (Last ride and farewell of the "Herring gull" Metro GVB Amsterdam)" (in Dutch). Huey-dean van Eerde. Retrieved 2016-01-03.
+
+^ "Nieuwe metro: de M5 Metropolis (New Metro: the M5 Metropolis)" (in Dutch). GVB. Archived from the original on 2014-08-17. Retrieved 2014-08-01.
+
+^ "Metro - Metro statistics". GVB. Retrieved 2015-03-10.
+
+^ "OV-Chip card in Amsterdam". Retrieved 2014-06-09.
+
+^ "M.O.L. (1974)". Gerard Unger. Archived from the original on December 10, 2008. Retrieved 2014-07-31.
+
+^ "Wayfinding: nieuwe borden op metrostations - Stadsregio Amsterdam". www.stadsregioamsterdam.nl. Retrieved 2016-09-06.
+
+^ "'R-net' op onze metroborden; wat is het?". www.wijnmenjemee.nl. 2016-01-21. Archived from the original on 2016-01-31. Retrieved 2016-09-06.
+
+References
+
+Davids, Carel (2000). "Sporen in de stad. De metro en de strijd om de ruimtelijke ordening in Amsterdam" (PDF). Tijdschrift Holland. 32 (3/4): 157–182. Retrieved 3 April 2017.CS1 maint: ref=harv (link)
+
+Jansen, L. (1972). "Een oud metroplan" (PDF). Ons Amsterdam. 24: 310–314. Retrieved 25 July 2017.CS1 maint: ref=harv (link)
+
+External links
+
+ Media related to Metro, Amsterdam (category) at Wikimedia Commons
+
+GVB – official website
+
+v
+
+t
+
+e
+
+Amsterdam-related topics
+
+History
+Timeline
+
+Canals
+
+Parks
+
+Squares
+
+Expansion
+
+Government
+
+People
+Mayors
+
+Tourist attractions
+Museums
+
+Songs
+
+Transport
+Metro
+
+Railway stations
+
+Trams
+
+Cycling
+
+Walls
+
+Coat of arms
+
+Flag
+
+Boroughs
+Centrum
+
+Nieuw-West
+
+Noord
+
+Oost
+
+West
+
+Westpoort
+
+Zuid
+
+Zuidoost
+
+ Book
+
+ Category
+
+v
+
+t
+
+e
+
+Amsterdam Metro Route 50
+
+Isolatorweg
+
+Sloterdijk (NS)
+
+De Vlugtlaan
+
+Jan van Galenstraat
+
+Postjesweg
+
+Lelylaan (NS)
+
+Heemstedestraat
+
+Henk Sneevlietweg
+
+Amstelveenseweg
+
+Zuid (NS)
+
+RAI (NS)
+
+Overamstel
+
+Van der Madeweg
+
+Duivendrecht (NS)
+
+Strandvliet
+
+Bijlmer ArenA (NS)
+
+Bullewijk
+
+Holendrecht (NS)
+
+Reigersbos
+
+Gein
+
+(NS) signifies a connection to Nederlandse Spoorwegen trains
+
+v
+
+t
+
+e
+
+Amsterdam Metro Route 51
+
+Centraal Station (NS)
+
+Nieuwmarkt
+
+Waterlooplein
+
+Weesperplein
+
+Wibautstraat
+
+Amstel (NS)
+
+Spaklerweg
+
+Overamstel
+
+RAI (NS)
+
+Zuid (NS)
+
+Amstelveenseweg
+
+Henk Sneevlietweg
+
+Heemstedestraat
+
+Lelylaan (NS)
+
+Postjesweg
+
+Jan van Galenstraat
+
+De Vlugtlaan
+
+Sloterdijk (NS)
+
+Isolatorweg
+
+(NS) signifies a connection to Nederlandse Spoorwegen trains
+
+v
+
+t
+
+e
+
+Amsterdam Metro Route 52
+
+Noord
+
+Noorderpark
+
+Centraal Station (NS)
+
+Rokin
+
+Vijzelgracht
+
+De Pijp
+
+Europaplein
+
+Zuid (NS)
+
+(NS) signifies a connection to Nederlandse Spoorwegen trains
+
+v
+
+t
+
+e
+
+Amsterdam Metro Route 53
+
+Centraal Station (NS)
+
+Nieuwmarkt
+
+Waterlooplein
+
+Weesperplein
+
+Wibautstraat
+
+Amstel (NS)
+
+Spaklerweg
+
+Van der Madeweg
+
+Venserpolder
+
+Diemen Zuid (NS)
+
+Verrijn Stuartweg
+
+Ganzenhoef
+
+Kraaiennest
+
+Gaasperplas
+
+(NS) signifies a connection to Nederlandse Spoorwegen trains
+
+v
+
+t
+
+e
+
+Amsterdam Metro Route 54
+
+Centraal Station (NS)
+
+Nieuwmarkt
+
+Waterlooplein
+
+Weesperplein
+
+Wibautstraat
+
+Amstel (NS)
+
+Spaklerweg
+
+Van der Madeweg
+
+Duivendrecht (NS)
+
+Strandvliet
+
+Bijlmer ArenA (NS)
+
+Bullewijk
+
+Holendrecht (NS)
+
+Reigersbos
+
+Gein
+
+(NS) signifies a connection to Nederlandse Spoorwegen trains
+
+v
+
+t
+
+e
+
+Urban public transport networks and systems in the Netherlands
+
+Metro 
+Amsterdam
+
+Rotterdam
+
+Light rail 
+RandstadRail (The Hague–Rotterdam)
+
+Utrecht
+
+Trams 
+Amsterdam
+
+The Hague
+
+Rotterdam
+
+Trolleybuses 
+Arnhem
+
+v
+
+t
+
+e
+
+Rapid transit in Europe
+
+Austria
+
+Vienna U-Bahn
+
+Belarus
+
+Minsk Metro
+
+Belgium
+
+Brussels Metro
+
+Bulgaria
+
+Sofia Metro
+
+Czech Republic
+
+Prague Metro
+
+Denmark
+
+Copenhagen Metro
+
+Finland
+
+Helsinki Metro
+
+France
+
+Lille Metro
+
+Lyon Metro
+
+Marseille Metro
+
+Paris Métro
+
+Rennes Metro
+
+Toulouse Metro
+
+Germany
+
+Berlin U-Bahn
+
+Frankfurt U-Bahn
+
+Hamburg U-Bahn
+
+Munich U-Bahn
+
+Nuremberg U-Bahn
+
+Greece
+
+Athens Metro
+
+Hungary
+
+Budapest Metro
+
+Italy
+
+Brescia Metro
+
+Catania Metro
+
+Genoa Metro
+
+Milan Metro
+
+Naples Metro
+
+Rome Metro
+
+Turin Metro
+
+Netherlands
+
+Amsterdam Metro
+
+Rotterdam Metro
+
+Norway
+
+Oslo Metro
+
+Poland
+
+Warsaw Metro
+
+Portugal
+
+Lisbon Metro
+
+Porto Metro
+
+Romania
+
+Bucharest Metro
+
+Russia
+
+Kazan Metro
+
+Moscow Metro
+
+Nizhny Novgorod Metro
+
+Saint Petersburg Metro
+
+Samara Metro
+
+Yekaterinburg Metro
+
+Spain
+
+Barcelona Metro
+
+Metro Bilbao
+
+Metro Donostialdea
+
+Madrid Metro
+
+Malaga Metro
+
+Palma Metro
+
+Seville Metro
+
+Metrovalencia
+
+Sweden
+
+Stockholm Metro
+
+Switzerland
+
+Lausanne Metro
+
+Ukraine
+
+Dnipro Metro
+
+Kharkiv Metro
+
+Kiev Metro
+
+United Kingdom
+
+Glasgow Subway
+
+London Underground
+
+Tyne & Wear Metro

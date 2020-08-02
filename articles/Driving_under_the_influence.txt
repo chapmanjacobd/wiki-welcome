@@ -1,0 +1,1059 @@
+"Driving a motor vehicle while under the influence of an impairing substance
+
+For the legal definition, see Drug–impaired driving. For driving under the influence of alcohol specifically, see Drunk drivers.
+
+"DUI" and "DWI" redirect here. For other uses, see DUI (disambiguation) and DWI (disambiguation).
+
+A "Don't Drink and Drive" sign is placed in front of a wrecked car to discourage impaired driving.
+
+Driving under the influence (DUI) is the crime or offense of driving, operating, or being in control of a motor vehicle while impaired by alcohol or other drugs (including recreational drugs and those prescribed by physicians), to a level that renders the driver incapable of operating a motor vehicle safely.
+
+Contents
+
+1 Terminology
+
+2 Definition
+
+3 Alcohol
+
+3.1 Blood alcohol content
+
+3.2 Risks
+
+3.2.1 Grand Rapids Dip
+
+4 Other drugs
+
+4.1 Recreational drugs
+
+4.2 Prescription medications
+
+5 Field sobriety testing
+
+5.1 Preliminary Breath Test (PBT) or Preliminary Alcohol Screening test (PAS)
+
+5.2 Testing for cannabis
+
+6 Other charges
+
+7 Laws by country
+
+7.1 Argentina
+
+7.2 Australia
+
+7.3 Canada
+
+7.4 South Korea
+
+7.5 United Kingdom
+
+7.6 United States
+
+7.6.1 Prevalence
+
+7.6.2 Implied consent
+
+8 Employment policies
+
+9 See also
+
+10 Footnotes
+
+11 Further reading
+
+12 External links
+
+Terminology
+
+Also called driving while impaired/driving while intoxicated (DWI), drunk driving, operating while intoxicated (OWI), operating  vehicle under the influence of alcohol or drugs (OVI) in Ohio, drink-driving (UK/Ireland), or impaired driving (Canada).
+
+The name of the offense varies from jurisdiction to jurisdiction and from legal to colloquial terminology. In the United States, the specific criminal offense is usually called driving under the influence, but in some states "driving while intoxicated" (DWI), "operating while impaired" (OWI) or "operating while ability impaired", "operating a vehicle under the influence" (OVI), etc. Such laws may also apply to boating or piloting aircraft. Vehicles can include farm machinery and horse-drawn carriages. Other commonly used terms to describe these offenses include drinking and driving, drunk driving, drunken driving, impaired driving, operating under the influence, or "over the prescribed limit".
+
+In the United Kingdom, there are two separate offences to do with alcohol and driving. The first is "Driving or attempting to drive with excess alcohol" (legal code DR10), the other is known as "In charge of a vehicle with excess alcohol" (legal code DR40) or "drunk in charge" due to the wording of the Licensing Act 1872. In relation to motor vehicles, the Road Traffic Act 1988 creates a narrower offense of driving (or being in charge of) a vehicle while having breath, blood, or urine alcohol levels above the prescribed limits (colloquially called "being over the limit"); and a broader offense of "driving while unfit through drink or drugs," (DR20 and DR80 respectively) which can apply even with levels below the limits. A separate offense in the 1988 Act applies to bicycles. While the 1872 Act is mostly superseded, the offense of being "drunk while in charge ... of any carriage, horse, cattle, or steam engine" is still in force; "carriage" has sometimes been interpreted as including mobility scooters.
+
+Definition
+
+The criminal offense may not involve actual driving of the vehicle, but rather may broadly include being physically "in control" of a car while intoxicated, even if the person charged is not in the act of driving. For example, a person found in the driver's seat of a car while intoxicated and holding the car keys, even while parked, may be charged with DUI, because he or she is in control of the vehicle. 
+
+In construing the terms DUI, DWI, OWI, and OVI, some states therefore make it illegal to drive a motor vehicle while under the influence or driving while intoxicated while others indicate that it is illegal to operate a motor vehicle. There is a split of authority across the country regarding this issue. Some states permit enforcement of DUI/DWI and OWI/OVI statutes based on "operation and control" of a vehicle, while others require actual "driving". "The distinction between these two terms is material, for it is generally held that the word 'drive,' as used in statutes of this kind, usually denotes movement of the vehicle in some direction, whereas the word 'operate' has a broader meaning so as to include not only the motion of the vehicle but also acts which engage the machinery of the vehicle that, alone or in sequence, will set in motion the motive power of the vehicle." (State v. Graves (1977) 269 S.C. 356 .
+
+Merriam Webster's Dictionary defines DUI as the "crime of driving a vehicle while drunk; also : a person who is arrested for driving a vehicle while drunk; the act or crime of driving while affected by alcohol or other drugs; a person who is arrested for or convicted of driving under the influence or an arrest or conviction for driving under the influence. In some countries (including Australia and many jurisdictions throughout the United States), a person can be charged with a criminal offense for riding a bike, skateboard, or horse while intoxicated or under the influence of alcohol.
+
+Alcohol
+
+Main article: Drunk drivers
+
+With alcohol consumption, a drunk driver's level of intoxication is typically determined by a measurement of blood alcohol content or BAC; but this can also be expressed as a breath test measurement, often referred to as a BrAC. A BAC or BrAC measurement in excess of the specific threshold level, such as 0.08%, defines the criminal offense with no need to prove impairment. In some jurisdictions, there is an aggravated category of the offense at a higher BAC level, such as 0.12%, 0.15% or 0.25%. In many jurisdictions, police officers can conduct field tests of suspects to look for signs of intoxication. The US state of Colorado has a maximum blood content of THC for drivers who have consumed cannabis, but it has been difficult to enforce.
+
+In some countries, it is measured and known in gram per blood liter, with 0.5 g/L similar to a 0.05% rate, other use per mille (per thousand sign) with 0.5‰ = 0.05%.
+
+Blood alcohol content
+
+Main article: Blood alcohol content
+
+A law enforcement grade Breathalyzer, specifically an Alco-Sensor IV
+
+Drinking enough alcohol to cause a blood alcohol concentration (BAC) of 0.03–0.12% typically causes a flushed, red appearance in the face and impaired judgment and fine muscle coordination. A BAC of 0.09% to 0.25% causes lethargy, sedation, balance problems and blurred vision. A BAC from 0.18% to 0.30% causes profound confusion, impaired speech (e.g., slurred speech), staggering, dizziness and vomiting. A BAC from 0.25% to 0.40% causes stupor, unconsciousness, anterograde amnesia, vomiting and respiratory depression (potentially life-threatening). A BAC from 0.35% to 0.80% causes a coma (unconsciousness), life-threatening respiratory depression and possibly fatal alcohol poisoning. There are a number of factors that affect when your BAC will reach or exceed 0.08, including how much you weigh the time frame that you been drinking and if you ate within the time of drinking. A 170 lbs male can drink more than a 135 lbs female, before being over the BAC level. 
+
+A breathalyzer is a device for estimating BAC from a breath sample. It was developed by inventor Robert Frank Borkenstein and registered as a trademark in 1954, but many people use the term to refer to any generic device for estimating blood alcohol content. With the advent of a scientific test for BAC, law enforcement regimes moved from sobriety tests (e.g., asking the suspect to stand on one leg) to having more than a prescribed amount of blood alcohol content while driving. However, this does not preclude the simultaneous existence and use of the older subjective tests in which police officers measure the intoxication of the suspect by asking them to do certain activities or by examining their eyes and responses. BAC is most conveniently measured as a simple percent of alcohol in the blood by weight. Research shows an exponential increase of the relative risk for a crash with a linear increase of BAC as shown in the illustration. BAC does not depend on any units of measurement. In Europe, it is usually expressed as milligrams of alcohol per 100 milliliters of blood. However, 100 milliliters of blood weighs essentially the same as 100 milliliters of water, which weighs precisely 100 grams. Thus, for all practical purposes, this is the same as the simple dimensionless BAC measured as a percent. The per mille (promille) measurement, which is equal to ten times the percentage value, is used in Denmark, Germany, Finland, Norway and Sweden.
+
+Depending on the jurisdiction, BAC may be measured by police using three methods: blood, breath, or urine. For law enforcement purposes, breath is the preferred method, since results are available almost instantaneously. The validity of the testing equipment/methods and mathematical relationships for the measurement of breath and blood alcohol have been criticized. Improper testing and equipment calibration is often used in defense of a DUI or DWI. There have been cases in Canada where officers have come upon a suspect who is unconscious after an accident and officers have taken a blood sample.
+
+Driving while consuming alcohol may be illegal within a jurisdiction. In some it is illegal for an open container of an alcoholic beverage to be in the passenger compartment of a motor vehicle or in some specific area of that compartment. There have been cases of drivers being convicted of a DUI when they were not observed driving after being proven in court they had been driving while under the influence.
+
+In the case of an accident, car insurance may be automatically declared invalid for the intoxicated driver; the drunk driver would be fully responsible for damages. In the American system, a citation for driving under the influence also causes a major increase in car insurance premiums.
+
+The German model serves to reduce the number of accidents by identifying unfit drivers and revoking their licenses until their fitness to drive has been established again. The Medical Psychological Assessment (MPA) works for a prognosis of the fitness for drive in future, has an interdisciplinary basic approach and offers the chance of individual rehabilitation to the offender.
+
+George Smith, a London Taxi cab driver, ended up being the first person to be convicted of driving while intoxicated, on September 10, 1897. He was fined 25 shillings, which is equivalent to £143 in 2019.
+
+Risks
+
+Relative risk of an accident based on blood alcohol levels
+
+Percentage of US car crash fatalities where driver blood alcohol level was .01 and above, 1999–2012
+
+Driving under the influence is one of the largest risk factors that contribute to traffic collisions. For people in Europe between the age of 15 and 29, driving under the influence is one of the main causes of mortality. According to the National Highway Traffic Safety Administration alcohol-related crashes cause approximately $37 billion in damages annually. DUI and alcohol-related crashes produce an estimated $45 billion in damages every year. Between attorney fees, fines, court fees, ignition interlock devices, and DMV fees a DUI charge could cost thousands to tens of thousands of dollars.
+
+Studies show that a high BAC increases the risk of collisions whereas it is not clear if a BAC of 0.01–0.05% slightly increases or decreases the risk.
+
+Traffic collisions are predominantly caused by driving under the influence for people in Europe between the age of 15 and 29, it is one of the main causes of mortality. According to the National Highway Traffic Safety Administration alcohol-related collisions cause approximately $37 billion in damages annually. Every 51 minutes someone dies from an alcohol-related collision. When it comes to risk-taking there is a larger male to female ratio as personality traits, antisociality and risk-taking are taken into consideration as they all are involved in DUI's. Over 7.7 million underage people ages 12–20 claim to drink alcohol, and on average, for every 100,000 underage Americans, 1.2 died in drunk-driving traffic accidents.
+
+In the U.S., Southern and Northern Central states have the highest prevalence of fatalities due to DUI collisions. A 2019 study that weighed arrest and census figures with National Highway Traffic Safety Administration stats on fatal crashes found that seven of the 12 states with the highest DUI death rates are Southern, led by the Carolinas, Mississippi, Alabama, Texas, Louisiana and Arkansas. But the most DUI fatalities per capita are found in the North-Central region, where Wyoming, Montana, and the Dakotas top the overall ranking as the states with the most acute DUI crises. 
+
+Grand Rapids Dip
+
+Some studies suggest that a BAC of 0.01–0.04% would have a lower risk of collisions compared to a BAC of 0%, referred to as the Grand Rapids Effect or Grand Rapids Dip, based on a seminal research study by Borkenstein, et al. (Robert Frank Borkenstein is well known for inventing the Drunkometer in 1938, and the Breathalyzer in 1954.) One study suggests that a BAC of 0.04–0.05% would slightly increase the risk.
+
+Some literature has attributed the Grand Rapids Effect to erroneous data or asserted (without support) that it was possibly due to drivers exerting extra caution at low BAC levels or to "experience" in drinking. Other explanations are that this effect is at least in part the blocking effect of ethanol excitotoxicity and the effect of alcohol in essential tremor and other movement disorders, but this remains speculative.
+
+Both the influential study by Borkenstein, et al. and the empirical German data on the 1990s demonstrated that the risk of collisions is lower or the same for drivers with a BAC of 0.04% or less than for drivers with a BAC of 0%. For a BAC of 0.15% the risk is 25-fold. The 0.05% BAC limit in Germany (since 1998, 0.08% since 1973) and the limits in many other countries were set based on the study by Borkenstein, et al. Würzburg University researchers showed that all extra collisions caused by alcohol were due to at least 0.06% BAC, 96% of them due to BAC above 0.08%, and 79% due to BAC above 0.12%. In their study based on the 1990s German data, the effect of alcohol was higher for almost all BAC levels than in Borkenstein, et al.
+
+Other drugs
+
+For drivers suspected of drug-impaired driving, drug testing screens are typically performed in scientific laboratories so that the results will be admissible in evidence at trial. Due to the overwhelming number of impairing substances that are not alcohol, drugs are classified into different categories for detection purposes. Drug impaired drivers still show impairment during the battery of standardized field sobriety tests, but there are additional tests to help detect drug impaired driving.
+
+The Drug Evaluation and Classification program is designed to detect a drug impaired driver and classify the categories of drugs present in his or her system. The DEC program breaks down detection into a twelve-step process that a government-certified Drug Recognition Expert (DRE) can use to determine the category or categories of drugs that a suspect is impaired by. The twelve steps are:
+
+Breath Alcohol Test
+
+Interview with arresting officer (who notes slurred speech, alcohol on breath, etc.)
+
+Preliminary evaluation
+
+Evaluation of the eyes
+
+Psychomotor tests
+
+Vital signs
+
+Dark room examinations
+
+Muscle tone
+
+Injection sites (for injection of heroin or other drugs)
+
+Interrogation of suspect
+
+Opinion of the evaluator
+
+Toxicological examination
+
+DREs are qualified to offer expert testimony in court that pertains to impaired driving on drugs. The use of the twelve step process is scientifically validated by numerous field studies.
+
+Recreational drugs
+
+Drivers who have smoked or otherwise consumed cannabis products such as marijuana or hashish can be charged and convicted of impaired driving in some jurisdictions. A 2011 study in the B.C. Medical Journal stated that there "...is clear evidence that cannabis, like alcohol, impairs the psychomotor skills required for safe driving." The study stated that while "annabis-impaired drivers tend to drive more slowly and cautiously than drunk drivers,... evidence shows they are also more likely to cause accidents than drug and alcohol-free drivers". In Canada, police forces such as the Royal Canadian Mounted Police have "...specially trained drug recognition and evaluation  officers...  can detect whether or not a driver is drug impaired, by putting suspects through physical examinations and co-ordination tests. In 2014, in the Canadian province of Ontario, Bill 31, the Transportation Statue Law Amendment Act, was introduced to the provincial legislature. Bill 31 contains driver's license "...suspensions for those caught driving under the influence of drugs, or a combination of drugs and alcohol. Ontario police officers "...use Standard Field Sobriety Tests (SFSTs) and drug recognition evaluations to determine whether the officer believes the driver is under the influence of drugs."  In the province of Manitoba, an "...officer can issue a physical coordination test. In B.C., the officer can further order a drug recognition evaluation by an expert, which can be used as evidence of drug use to pursue further charges."
+
+In the US state of Colorado, the state government indicates that "ny amount of marijuana consumption puts you at risk of driving impaired."  Colorado law states that "drivers with five nanograms of active tetrahydrocannabinol (THC) in their whole blood can be prosecuted for driving under the influence (DUI). However, no matter the level of THC, law enforcement officers base arrests on observed impairment."  In Colorado, if consumption of marijuana is impairing your ability to drive, "it is illegal for you to be driving, even if that substance is prescribed  or legally acquired." 
+
+Prescription medications
+
+Prescription medications such as opioids and benzodiazepines often cause side effects such as excessive drowsiness, and, in the case of opioids, nausea. Other prescription drugs including antiepileptics and antidepressants are now also believed to have the same effect. In the last ten years, there has been an increase in motor vehicle accidents, and it is believed that the use of impairing prescription drugs has been a major factor. Workers are expected to notify their employer when prescribed such drugs to minimise the risk of motor vehicle accidents while at work.
+
+If a worker who drives has a health condition which can be treated with opioids, then that person's doctor should be told that driving is a part of the worker's duties and the employer should be told that the worker could be treated with opioids. Workers should not use impairing substances while driving or operating heavy machinery like forklifts or cranes. If the worker is to drive, then the health care provider should not give them opioids. If the worker is to take opioids, then their employer should assign them work which is appropriate for their impaired state and not encourage them to use safety sensitive equipment.
+
+Field sobriety testing
+
+Main article: Field sobriety testing
+
+To attempt to determine whether a suspect is impaired, police officers in the United States usually will administer field sobriety tests to determine whether the officer has probable cause to arrest an individual for suspicion of driving under the influence (DUI).
+
+A police officer in the United States must have Probable Cause to make an arrest for driving under the influence. In establishing probable cause for a DUI arrest officers frequently consider the suspect's performance of Standardized Field Sobriety Tests. The National Highway Traffic Safety Administration (NHTSA) developed a system for validating field sobriety tests that led to the creation of the Standardized Field Sobriety Test (SFST) battery of tests. The National Highway Traffic Safety Administration (NHTSA) established a standard battery of three roadside tests that are recommended to be administered in a standardized manner in making this arrest decision. There are Non-Standardized Field Sobriety Tests as well; however the Non-Standardized Field Sobriety Tests have not received NHTSA Validation. This is the difference between the "Standardized" and the "Non-Standardized" Field Sobriety Tests. The NHTSA has published numerous training manuals associated with SFSTs. As a result of the NHTSA studies, the Walk-and-Turn test was determined to be 68% accurate in predicting whether a test subject is at or above 0.08%, and the One-Leg Stand Test was determined to be 65% accurate in predicting whether a test subject is at or above 0.08% when the tests are properly administered to people within the study parameters.
+
+The three validated tests by NHTSA are:
+
+The Horizontal Gaze Nystagmus Test, which involves following an object with the eyes (such as a pen or other stimulus) to determine characteristic eye movement reaction to the stimulus
+
+The Walk-and-Turn Test (heel-to-toe in a straight line). This test is designed to measure a person's ability to follow directions and remember a series of steps while dividing attention between physical and mental tasks.
+
+The One-Leg-Stand Test
+
+Alternative tests, which have not been validated by the NHTSA, include the following:
+
+The Romberg Test, or the Modified-Position-of-Attention Test, (feet together, head back, eyes closed for thirty seconds).
+
+The Finger-to-Nose Test (tip head back, eyes closed, touch the tip of nose with tip of index finger).
+
+The Alphabet Test (recite all or part of the alphabet).
+
+The Finger Count Test (touch each finger of hand to thumb counting with each touch (1, 2, 3, 4, 4, 3, 2, 1)).
+
+The Counting Test (counting backwards from a number ending in a digit other than 5 or 0 and stopping at a number ending in a digit other than 5 or 0. The series of numbers should be more than 15).
+
+The Preliminary Alcohol Screening Test, PAS Test or PBT, (breathe into a "portable or preliminary breath tester", PAS Test or PBT).
+
+In the US, field sobriety tests are voluntary; however, some states mandate commercial drivers accept preliminary breath tests (PBT).
+
+Preliminary Breath Test (PBT) or Preliminary Alcohol Screening test (PAS)
+
+See also: Breathalyzer § Preliminary_Breath_Test_(PBT)_or_Preliminary_Alcohol_Screening_test_(PAS)
+
+The Preliminary Breath Test (PBT) or Preliminary Alcohol Screening test (PAS) is sometimes categorised as part of field sobriety testing, although it is not part of the series of performance tests. The PBT (or PAS) uses a portable breath tester. While the tester provides numerical blood alcohol content (BAC) readings, its primary use is for screening and establishing probable cause for arrest, to invoke the implied consent requirements. In US law, this is necessary to sustain a conviction based on evidential testing (or implied consent refusal). Regardless of the terminology, in order to sustain a conviction based on evidential tests, probable cause must be shown (or the suspect must volunteer to take the evidential test without implied consent requirements being invoked).
+
+Refusal to take a preliminary breath test (PBT) in Michigan subjects a non-commercial driver to a "civil infraction" penalty, with no violation "points", but is not considered to be a refusal under the general "implied consent" law. In some states, the state may present evidence of refusal to take a field sobriety test in court, although this is of questionable probative value in a drunk driving prosecution.
+
+Different requirements apply in many states to drivers under DUI probation, in which case participation in a preliminary breath test (PBT) may be a condition of probation. Some US states, notably California, have statutes on the books penalizing PBT refusal for drivers under 21; however the Constitutionality of those statutes has not been tested. (As a practical matter, most criminal lawyers advise not engaging in discussion or "justifying" a refusal with the police.)
+
+Commercial drivers are subject to PBT testing in some US states as a "drug screening" requirement.
+
+Testing for cannabis
+
+In the recent wake of legalized marijuana, law enforcement has sought a method of breath testing to determine the content of THC present in an individual. Law enforcement efficiently combats driving under the influence with tools like breathalyzers during field sobriety tests. Excluding edibles, a THC breathalyzer has the potential to measure how "high" an individual may be at the time. The legality of marijuana does not entail safety on the road, and accurate methods have become required to determine driver impairment. A THC breathalyzer could revolutionize roadside sobriety testing for drivers suspected of impairment.
+
+Other charges
+
+In the US state of Colorado, impaired drivers may potentially be charged with child endangerment if they are arrested for DUI with minor children in the vehicle.
+
+Laws by country
+
+Legal Blood alcohol limit levels in Europe
+ 
+Key: 0.05% = 0.5‰ = 0.5 gram/liter
+
+Legend:
+ 0.00%
+
+ 0.01%
+
+ 0.02%
+
+ 0.03%
+
+ 0.04%
+
+ 0.05%
+
+ 0.08%
+
+ No data
+
+Additional country-specific limits are not taken into account: Some EU-member states have different penalties for different limits and have different limits for novice drivers and professional drivers. These limits are not mentioned.
+
+Main article: Drunk driving law by country
+
+The laws relating to drunk driving vary between countries or subnational regions (e.g., states or provinces) and varying blood alcohol content is required before a charge or conviction can be made.
+
+The specific criminal offense may be called, depending on the jurisdiction, "driving under the influence"  (DUI), "driving under the influence of intoxicants" (DUII), "driving while impaired" (DWI), "operating vehicle under the influence of alcohol or other drugs" (OVI), "operating under the influence" (OUI), "operating while intoxicated" (OWI), "operating a motor vehicle while intoxicated" (OMVI), "driving under the combined influence of alcohol or other drugs", "driving under the influence per se" or "drunk in charge" . Many such laws apply also to motorcycling, boating, piloting aircraft, use of mobile farm equipment such as tractors and combines, riding horses or driving a horse-drawn vehicle, or bicycling, possibly with different BAC level than driving. In some jurisdictions there are separate charges depending on the vehicle used, such as BWI (bicycling while intoxicated), which may carry a lighter sentence.
+
+Some jurisdictions have multiple levels of BAC for different categories of drivers; for example, the state of California has a general 0.08% BAC limit, a lower limit of 0.04% for commercial operators, and a limit of 0.01% for drivers who are under 21 or on probation for previous DUI offenses. In some jurisdictions, impaired drivers who injure or kill another person while driving may face heavier penalties.
+
+Some jurisdictions have judicial guidelines requiring a mandatory minimum sentence.
+
+DUI convictions may result in multi-year jail terms and other penalties ranging from fines and other financial penalties to forfeiture of one's license plates and vehicle. In many jurisdictions a judge may also order the installation of an ignition interlock device. Some jurisdictions require that drivers convicted of DUI offenses use special license plates that are easily distinguishable from regular plates. These plates are known in popular parlance as "party plates" or "whiskey plates".
+
+In many countries, sobriety checkpoints (roadblocks of police cars where drivers are checked), driver's licence suspensions, fines and prison sentences for DUI offenders are used as part of an effort to deter impaired driving. In addition, many countries have prevention campaigns that use advertising to make people aware of the danger of driving while impaired and the potential fines and criminal charges, discourage impaired driving, and encourage drivers to take taxis or public transport home after using alcohol or other drugs. In some jurisdictions, a bar or restaurant that serves an impaired driver may face civil liability for injuries caused by that driver. In some countries, non-profit advocacy organizations, a well-known example being Mothers Against Drunk Driving (MADD) run their own publicity campaigns against drunk driving.
+
+Argentina
+
+In Argentina, it is a criminal offence to drive if one's level of alcohol is 0.03% or greater at local/municipal jurisdiction, stopped by a municipal police force and 0.04% if driving on a route or highway and stopped by a State Highway Patrol, Argentina Federal Police, or Argentina Gendarmerie. At the Cordoba State highways and routes, a zero-tolerance police is enforced by Cordoba State Highway Patrol and it is an offence to drive with an alcohol level greater than 0.00%.
+
+Australia
+
+In Australia it is a criminal offence to drive under the influence of alcohol if one's level of alcohol is 0.05% or greater (full licence) or if one's level of alcohol is greater than 0.00% (learner/provisional). Australian police utilise random breath testing stations, and any police vehicle can pull over any vehicle at any time to conduct a random breath or drug test. People found to have excessive alcohol or any banned substances are taken to either a police station or a random breath testing station for further analysis. Those over 0.08% will receive an automatic disqualification of their licence and must appear in court.
+
+Canada
+
+The Federal government of Canada has adopted truth in sentencing laws that enforce strict guidelines on sentencing, differing from previous practice where prison time was reduced or suspended after sentencing had been issued.
+
+In Canada, refusal to blow into a blood alcohol testing device provided by a police officer carries the same penalties as being found guilty of drunk driving.
+
+Commentary varies on taking Standardised Field Sobriety Tests (SFSTs) in Canada. Some sources, especially official ones, indicate that the SFSTs are mandatory, whereas other sources are silent on FST testing. The assertion regarding mandatory compliance with SFSTs is based on "failure to comply with a demand", as an offence under § 254(5) of the Criminal Code, but it is unclear how refusal of SFSTs are treated (provided the suspect agrees to take a chemical test). There are some reports that refusal to submit to an SFST can result in the same penalties as impaired driving.
+
+Nevertheless, it is unclear whether there has ever been a prosecution under this interpretation of "failure to comply with a demand" as applied to SFSTs. Canada Criminal Code § 254(1) and (5) addresses this, but only with respect to chemical testing (breath, blood, etc.)
+
+South Korea
+
+In Republic of Korea, it is crime to drive if one's level of alcohol is .03% or greater. Police often operates sobriety checkpoints without notice in advance, and it is criminal offense to refuse a sobriety test. Driving under influence of alcohol result in suspension or disqualification of driver's license.
+
+United Kingdom
+
+In British law it is a criminal offence to be drunk in charge of a motor vehicle. The definition depends on such things as being in or near the vehicle, and having access to a means of starting the vehicle's engine and driving it away (i.e., the keys to the vehicle).
+
+The UK's drug driving laws were amended in 2015. The changes included a new roadside testing kit, which could detect the presence of cocaine and cannabis in a suspect's saliva and zero tolerance limits for a number of illegal drugs. Limits were also set for certain prescription medications. The laws, however, did not end the use of the field impairment test, but made them more relevant for determining driver impairment by those drugs that are not now covered by the new legislation, or cannot be identified by the limited use of a device, that currently are only authorised for cannabis and cocaine.
+
+United States
+
+La Mesilla Community Center, located in Mesilla, New Mexico, houses a driving while intoxicated (DWI) School
+
+See also: Drunk driving in the United States
+
+Under the laws of the United States, it is unlawful to drive a motor vehicle when the ability to do so is materially impaired by the consumption of alcohol or other drugs, including prescription medications. For impaired driving charges involving the consumption of alcohol, the blood alcohol level at which impairment is presumed is 0.08, although it is possible to be convicted of impaired driving with a lower blood alcohol level.
+
+For example, the state of California has two basic drunk driving laws with nearly identical criminal penalties:
+
+V.C. Sec. 23152(a) - it is a misdemeanor to drive under the influence of alcohol or other drugs.
+
+V.C. Sec. 23152(b) - it is a misdemeanor to drive with .08% or more of alcohol in one's blood.
+
+Under the first law, a driver may be convicted of impaired driving based upon their inability to safely operate a motor vehicle, no matter what their blood alcohol level. Under the second law, it is per se unlawful to drive with a blood alcohol level of .08 or greater.
+
+For commercial drivers, a BAC of 0.04 can result in a DUI or DWI charge. In most states, individuals under 21 years of age are subject to a zero tolerance limit and even a small amount of alcohol can lead to a DUI arrest.
+
+In some states, an intoxicated person may be convicted of a DUI in a parked car if the individual is sitting behind the wheel of the car. In some jurisdictions the occupant of a vehicle might be charged with impaired driving even if sleeping in the back seat based on proof of risk that the occupant would put the vehicle in motion while intoxicated. Some states allow for a charge of attempted DUI if an officer can reasonably infer that the defendant intended to drive a vehicle while impaired.
+
+Repeated impaired driving offenses or an impaired driving incident that results in bodily injury to another may trigger more significant penalties, and potentially trigger a felony charge.
+
+Many states in the US have adopted truth in sentencing laws that enforce strict guidelines on sentencing, differing from previous practice where prison time was reduced or suspended after sentencing had been issued.
+
+Some states allow for conviction for impaired driving based upon a measurement of THC, through blood test or urine testing. For example, in Colorado and Washington, driving with a blood level of THC in excess of 5 nanograms can result in a DUI conviction. In Nevada, the legal THC limit is 2 nanograms. It is also possible for a driver to be convicted of impaired driving based upon the officer's observations of impairment, even if the driver is under the legal limit. In states that have not yet established a THC blood level that triggers a presumption of impaired driving, a driver may similarly be convicted of impaired driving based upon the officer's observations and performance on other sobriety tests. The minimum legal alcohol age of 21 years old has saved hundreds of lives annually among young adults aged 18–20 years old.
+
+Prevalence
+
+In the United States, local law enforcement agencies made 1,467,300 arrests nationwide for driving under the influence of alcohol in 1996, compared to 1.9 million such arrests during the peak year in 1983. In 1997 an estimated 513,200 DWI offenders were in prison or jail, down from 593,000 in 1990 and up from 270,100 in 1986. In the United States, DUI and alcohol-related collisions produce an estimated $45 billion in damages every year.
+In some US and German studies BAC level 0.01-0.03% predicted a lower collision risk than BAC 0%, possibly due to extra caution, whereas BACs 0.08% or higher seem to be responsible for almost all extra accidents caused by alcohol. For a BAC of 0.15% the risk is 25-fold.
+
+Implied consent
+
+All U.S. states recognize "implied consent", pursuant to which drivers are deemed to have consented to being tested for intoxication as a condition of their operating motor vehicles on public roadways. Implied consent laws may result in punishment for those who refuse to cooperate with blood alcohol testing after an arrest for suspected impaired driving, including civil consequences such as a driver's license suspension. The State of Kansas found unconstitutional a state law that made it an additional crime to refuse such a test when no court-ordered warrant for testing exists.
+Under the implied consent law of the State of Michigan, a person who is arrested for drunk driving is required to take a chemical test to determine their blood alcohol content, and refusal will result in six points being added to their driver's license and their driving privileges will be suspended for one year.
+
+Employment policies
+
+Many employers or occupations have their own rules and BAC limits; for example, the United States Federal Railroad Administration and Federal Aviation Administration have a 0.04% limit for train crew and aircrew, respectively. Certain large corporations have their own rules; for example, Union Pacific Railroad has their own BAC limit of 0.02%. that, if violated during a random test or a for-cause test—for example, after an on-duty traffic accident—can result in termination of employment with no chance of future rehire.
+
+See also
+
+Alcoholism
+
+Breathalyzer
+
+DR10, UK police code
+
+Drug–impaired driving
+
+Drunk drivers
+
+Drunk walking
+
+DUI California
+
+DWI court
+
+Fetal alcohol spectrum disorder
+
+Mothers Against Drunk Driving (MADD)
+
+National Motorists Association
+
+Responsible drug use
+
+Footnotes
+
+^ Walsh, J. Michael; Gier, Johan J.; Christopherson, Asborg S.; Verstraete, Alain G. (11 August 2010). "Drugs and Driving". Traffic Injury Prevention. 5 (3): 241–253. doi:10.1080/15389580490465292. PMID 15276925.
+
+^ Wanberg, Kenneth W.; Milkman, Harvey B.; Timkin, David S. (2004-12-03). Driving With Care:Education and Treatment of the Impaired Driving Offender-Strategies for Responsible Living: The Provider′s Guide (1 ed.). Thousand Oaks, Calif.: SAGE Publications, Inc. p. 14. ISBN 9781412905961.
+
+^ https://www.drivingdefences.co.uk/drink-driving/drink-drive-penalties/
+
+^ a b Merritt, Jonathan (2009-07-09). Law for Student Police Officers. SAGE. ISBN 9781844455638.
+
+^ Hannibal, Martin; Hardy, Stephen (2013-03-04). Practice Notes on Road Traffic Law 2/e. Routledge. pp. 57–68. ISBN 9781135346386.
+
+^ a b Voas, Robert B.; Lacey, John H. "Issues in the enforcement of impaired driving laws in the United States". Pennsylvania State University. CiteSeerX 10.1.1.553.1031. Cite journal requires |journal= (help)
+
+^ a b Tekenos-Levy, Jordan (29 July 2015). "Impaired Driving in Canada: Cost and Effect of a Conviction". National College for DUI Defense. Archived from the original on 1 August 2017. Retrieved 1 August 2017.
+
+^ "DUI | the crime of driving a vehicle while drunk also: a person who is arrested for driving a vehicle while drunk". www.merriam-webster.com. Retrieved 2015-09-29.
+
+^ Rowling, Troy (14 October 2008). "In Mt Isa it's RUI: riding under the influence". Brisbane Times. Retrieved 19 July 2017.
+
+^ "Pedestrian Safety". Police Department, University of Colorado. Retrieved 19 July 2017. ("f you bicycle while intoxicated you will be held to the same standards as other motorists and may be issued a DUI.")
+
+^ "Ore. skateboarder collides with van, charged with DUI". Crimesider. CBS News. 13 March 2013. Retrieved 19 July 2017.
+
+^ Nelson, Bruce. "Nevada's Driving Under the Influence (DUI) laws". NVPAC. Advisory Council for Prosecuting Attorneys. Archived from the original on 2017-04-22. Retrieved 3 July 2017.
+
+^ "Bill to change DUI marijuana impairment laws postponed". KMGH. 2019-02-13. Retrieved 2019-04-03.
+
+^ National Highway Traffic Safety Administration (NHTSA). BAC Estimator . Springfield, VA: National Technical Information Service, 1992.
+
+^ Douglas Martin (reporter) (August 17, 2002). "Robert F. Borkenstein, 89, Inventor of the Breathalyzer". The New York Times. Retrieved 2013-12-23. Robert F. Borkenstein, who revolutionized enforcement of drunken driving laws by inventing the Breathalyzer to measure alcohol in the blood, died last Saturday at his home in Bloomington, Ind. He was 89. ...Robert Frank Borkenstein was born in Fort Wayne, Ind., on Aug. 31, 1912.
+
+^ "Breathalyzer". USPTO. May 13, 1958. Retrieved 2014-01-03.
+
+^ "Ethanol Level". Retrieved 7 October 2014.
+
+^ "On DWI Laws in Other Countries". National Highway Traffic Safety Administration. March 2000. Retrieved 1 August 2017.
+
+^ Bates, Marsha E. "Journal of Studies on Alcohol and Drugs." The Correspondence between Saliva and Breath Estimates of Blood Alcohol Concentration: Advantages and Limitations of the Saliva Method". Journal of Studies in Alcohol, 1 Jan. 1993. Web. 13 Mar. 2013.
+
+^ Tchir, Jason (10 June 2014). "How an impaired driving conviction can affect your car insurance rates". Globe and Mail. Retrieved 1 August 2017.
+
+^ "The Medical Psychological Assessment: An Opportunity for the Individual, Safety for the Genera Public" (PD). Retrieved 2012-10-10.
+
+^ UK Retail Price Index inflation figures are based on data from Clark, Gregory (2017). "The Annual RPI and Average Earnings for Britain, 1209 to Present (New Series)". MeasuringWorth. Retrieved February 2, 2020.
+
+^ "Preventing road traffic injury: A public health perspective for Europe" (PDF).
+
+^ a b Alonso, Francisco; Pasteur, Juan C.; Montero, Luis; Esteban, Cristina (2015). "Driving under the influence of alcohol: frequency, reasons, perceived risk and punishment". Substance Abuse Treatment, Prevention, and Policy. 10 (11): 11. doi:10.1186/s13011-015-0007-4. PMC 4359384. PMID 25880078.
+
+^ a b "Impaired Driving | National Highway Traffic Safety Administration (NHTSA)". www.nhtsa.gov. Retrieved 2015-09-29.
+
+^ "Alcohol and Driving". Retrieved 7 October 2014.
+
+^ a b c d e Grand Rapids Effects Revisited: Accidents, Alcohol and Risk, H.-P. Krüger, J. Kazenwadel and M. Vollrath, Center for Traffic Sciences, University of Wuerzburg, Röntgenring 11, D-97070 Würzburg, Germany
+
+^ Anum, EA; Silberg, J; Retchin, SM (2014). "Heritability of DUI convictions: a twin study of driving under the influence of alcohol". Twin Res Hum Genet. 17 (1): 10–5. doi:10.1017/thg.2013.86. PMID 24384043. S2CID 206345742.
+
+^ “Underage Drinking.” National Institute on Alcohol Abuse and Alcoholism, U.S. Department of Health and Human Services, pubs.niaaa.nih.gov/publications/underagedrinking/underagefact.htm.
+
+^ "The Most Dangerous States for DUI Deaths". Your AAA Network. 2020-01-07. Retrieved 2020-02-21.
+
+^ "Driver Characteristics and Impairment at Various BACs - Introduction". one.nhtsa.gov.
+
+^ Robert F. Borkenstein papers, 1928-2002, Indiana U. The role of the drinking driver in traffic accidents (Researchgate link)
+
+^ Center for Studies of Law in Action, Robert F. Borkenstein Courses, Indiana U.
+
+^ Mostile G, Jankovic J (October 2010). "Alcohol in essential tremor and other movement disorders". Movement Disorders. 25 (14): 2274–84. doi:10.1002/mds.23240. PMID 20721919.
+
+^ Drug Evaluation and Classification Program. NHTSA. pp. Sev IV Pg. 5–6.
+
+^ a b "How Canadians can be charged with driving under the influence of cannabis without ever smoking a joint".
+
+^ a b c "Ontario to bring in stronger punishment for driving under influence of drugs".
+
+^ a b c "Marijuana and Driving — Colorado Department of Transportation - CDOT".
+
+^ Kaye, Adam M. (12 January 2013). "Basic Concepts in Opioid Prescribing and Current Concepts of Opioid-Mediated Effects on Driving". The Ochsner Journal. 13 (4): 525–32. PMC 3865831. PMID 24358001.
+
+^ a b Sigona, Nicholas (2014-10-13). "Driving Under the Influence, Public Policy, and Pharmacy Practice". Journal of Pharmacy Practice. 28 (1): 119–123. doi:10.1177/0897190014549839. PMID 25312259. Retrieved 2015-04-16.
+
+^ a b c American College of Occupational and Environmental Medicine (February 2014), "Five Things Physicians and Patients Should Question", Choosing Wisely: an initiative of the ABIM Foundation, American College of Occupational and Environmental Medicine, retrieved 24 February 2014, which cites
+Weiss, MS; Bowden, K; Branco, F; et al. (2011). "Opioids Guideline". In Kurt T. Hegmann (ed.). Occupational medicine practice guidelines : evaluation and management of common health problems and functional recovery in workers (online March 2014) (3rd ed.). Elk Grove Village, IL: American College of Occupational and Environmental Medicine. p. 11. ISBN 978-0615452272.
+
+^ "The proactive role employers can take: Opioids in the Workplace" (PDF). National Safety Council. Archived from the original (PDF) on 2017-05-10. Retrieved 1 August 2017.
+
+^ "Standardized Field Sobriety Test (SFST) Validated at BACS Below 0.10 Percent | National Highway Traffic Safety Administration (NHTSA)". www.nhtsa.gov. Archived from the original on 2016-03-01. Retrieved 2016-03-02.
+
+^ a b DUI: Refusal to Take a Field Test, or Blood, Breath or Urine Test, NOLO Press
+
+^ "SOS - Substance Abuse and Driving".
+
+^ Committee, Oregon Legislative Counsel. "ORS 813.136 (2015) - Consequence of refusal or failure to submit to field sobriety tests".
+
+^ Smith, Aaron (26 May 2017). "These companies are racing to develop a Breathalyzer for pot". CNN Money. Retrieved 1 August 2017.
+
+^ "Child Endangerment Drunk Driving Laws" (PDF). MADD. Archived from the original (PDF) on 29 March 2017. Retrieved 1 August 2017.
+
+^ Anonymous (17 October 2016). "The legal limit". Mobility and transport - European Commission.
+
+^ "Supreme Court of Canada - Decisions - Criminal Law Amendment Act, Reference". Scc.lexum.org. 1970-06-26. Archived from the original on 2012-05-05. Retrieved 2012-10-10.
+
+^ "Actions Resulting In Loss Of License Alcohol Impairment Charts" (PDF). Retrieved 2012-10-10.
+
+^ Gus Chan, The Plain Dealer (2011-01-10). "Cuyahoga County Council's finalists for boards of revision include employee with criminal past". Blog.cleveland.com. Retrieved 2014-01-26.
+
+^ Wales, Transport for New South (2016-02-03). "Blood alcohol limits". roadsafety.transport.nsw.gov.au. Retrieved 2019-02-04.
+
+^ "Drink driving penalties". www.findlaw.com.au. Retrieved 2019-02-04.
+
+^ Dickson, Louise. "Breath test can't be refused under new drunk-driving law". Times Colonist. Retrieved 2019-02-04.
+
+^ What are my rights if the police think I’ve been taking drugs and driving?, Steps to Justice (advises that FST is mandatory)
+
+^ , legalline.ca
+
+^ Alcohol and Drug Impaired Driving - Tests, Criminal Charges, Penalties, Suspensions and Prohibitions - RCMP
+
+^ What must I legally do when police pull me over?, Globe and Mail, 4-Aug-2015
+
+^ Branch, Legislative Services (8 April 2019). "Consolidated federal laws of canada, Criminal Code". laws-lois.justice.gc.ca.
+
+^ "국가법령정보센터". www.law.go.kr (in Korean). Retrieved 2017-06-11.
+
+^ Waugh, Rob (12 May 2015). "How UK's new drug-driving laws really work – as first drivers are charged". Metro. Retrieved 1 August 2017.
+
+^ Adams, Lucy (21 April 2017). "Drug-driving limits and roadside testing to be introduced". BBC. Retrieved 1 August 2017.
+
+^ "Drunken / Impaired Driving". NCSL. National Conference of State Legislatures. Retrieved 30 October 2017.
+
+^ Larson, Aaron (26 May 2016). "Drunk and Impaired Driving Offenses". ExpertLaw.com. Retrieved 30 October 2017.
+
+^ "California Vehicle Code, Sec. 23152". California Legislative Information. California State Legislature. Retrieved 1 August 2017.
+
+^ "Sleeping while drunk in the driver's seat of a parked car with the engine running is driving under the influence, and you really should have known that". Public Defender Service for the District of Columbia. 22 January 2015. Retrieved 14 December 2017.
+
+^ Sarantis, Theo (29 August 2012). "Drunk in the Backseat of a Car? You Could Get a D.U.I." Huffington Post. Retrieved 14 December 2017.
+
+^ Reff, Robert S. (2013). Drunk Driving and Related Vehicular Offenses. LexisNexis. p. 125. ISBN 978-1579111144. Retrieved 14 December 2017.
+
+^ Thompson, Conness A. "Felony DUI Cases at a Glance" (PDF). Central California Appellate Program. Retrieved 1 August 2017.
+
+^ Rosich, Katherine J.; Kane, Kamala M. "Truth in Sentencing and State Sentencing Practices". National Institute of Justice. Office of Justice Programs. Retrieved 30 October 2017.
+
+^ Lyons, Jenna. "Some states put a THC limit on pot-smoking drivers — Here's why California doesn't". San Francisco Chronicle. Retrieved 2 February 2019.
+
+^ Rahaim, Nick. "No chemical threshold to mark marijuana impairment for California drivers". Business Journal. Retrieved 2 February 2019.
+
+^ Carpenter, Christopher; Dobkin, Carlos (2011). "The Minimum Legal Drinking Age and Public Health". The Journal of Economic Perspectives : A Journal of the American Economic Association. 25 (2): 133–156. doi:10.1257/jep.25.2.133. ISSN 0895-3309. PMC 3182479. PMID 21595328.
+
+^ Four in Ten Criminal Offenders Report Alcohol as a Factor in Violence: But Alcohol-Related Deaths and Consumption in Decline Archived 2011-01-18 at the Wayback Machine, April 5, 1998, United States Bureau of Justice Statistics.
+
+^ DWI Offenders under Correctional Supervision Archived 2011-08-11 at the Wayback Machine, June 1999, United States Bureau of Justice Statistics.
+
+^ "Impaired Driving: Get the Facts". CDC. 16 June 2017. Retrieved 1 August 2017.
+
+^ a b Grand Rapids Effects Revisited: Accidents, Alcohol and Risk, H.-P. Krüger, J. Kazenwadel and M. Vollrath, Center for Traffic Sciences, University of Wuerzburg, Röntgenring 11, D-97070 Würzburg, Germany.
+
+^ a b Crash Risk of Alcohol Involved Driving: A Case-Control Study Archived March 4, 2016, at the Wayback Machine, Blomberg, Richard D; Peck, Raymond C; Moskowitz, Herbert; Burns, Marcelline; Fiorentino, Dary. Abstract. Dunlap and Associates, Department of Transportation, National Highway Traffic Safety Administration, 2005. Mainly pages xviii and 108.
+
+^ Soronen, Lisa. "Blood Alcohol Testing: No Consent, No Warrant, No Crime?". NCSL. National Conference of State Legislatures. Retrieved 30 October 2017.
+
+^ Larson, Aaron (23 August 2016). "Blood Alcohol Testing in Drunk and Impaired Driving Cases". ExpertLaw.com. Retrieved 30 October 2017.
+
+^ "Kansas DUI law that makes test refusal a crime is ruled unconstitutional". kansascity. Retrieved 2016-03-02.
+
+^ "Michigan's Law". Michigan.gov. Retrieved 16 August 2019.
+
+^ "Alcohol and Drug Testing Regulations (Parts 219 and 40) Interpretive Guidance Manual" (PDF). Retrieved 2015-01-06.
+
+^ "UNION PACIFIC RAILROAD DRUG AND ALCOHOL POLICY Effective October 1, 2013 (see section 5.1.2)" (PDF). Retrieved 2018-07-03.
+
+Further reading
+
+Barron H. Lerner (2011). One for the Road: Drunk Driving Since 1900. Baltimore, MD: Johns Hopkins University Press.
+
+External links
+
+ Wikimedia Commons has media related to Drunk driving.
+
+Impaired driving on MedlinePlus
+
+v
+
+t
+
+e
+
+Alcohol and health
+
+Alcohol use
+
+Alcohol-related crimes 
+Drunk drivers
+Alcohol-related traffic crashes in the United States)
+
+Driving under the influence (DUI)
+
+Drunk driving in the United States
+
+Public intoxication
+
+Rum-running
+
+Adulterated moonshine/Denatured alcohol
+List of methanol poisoning incidents
+
+Alcoholism 
+Alcohol and Native Americans
+
+Alcoholism in adolescence
+
+Alcoholism in family systems
+
+Collaborative Study on the Genetics of Alcoholism
+
+College student alcoholism
+
+Disease theory of alcoholism
+
+High-functioning alcoholic (HFA)
+
+Seeing pink elephants
+
+Chemistry 
+Beer chemistry
+
+Congener
+Alcohol congener analysis
+
+Ethanol
+Blood alcohol content
+
+Breathalyzer
+
+Fusel alcohol
+
+Wine chemistry
+
+Effects 
+Short-term effects of alcohol consumption
+
+Long-term effects of alcohol consumption
+
+On memory
+
+Subjective response to alcohol
+
+Interactions 
+Aging
+
+Brain
+
+Cancer
+breast cancer
+
+Cortisol
+
+Pregnancy
+
+Sleep
+
+Tolerance/intolerance
+
+Weight
+
+Beverage-specific
+Beer: Potomania
+
+Red wine: Red wine headache
+
+Social issues 
+Alcohol advertising
+on college campuses
+
+Sex
+
+Alcohol myopia
+
+Alcohol abuse among college students
+
+Binge drinking
+Epidemiology
+
+Blackout (alcohol-related amnesia)
+
+Blackout Wednesday
+
+Drinking game
+list
+
+pregaming
+
+Drinking in public
+
+Drunk dialing
+
+Drunk walking
+
+Drunkorexia
+
+Dry drunk
+
+French paradox
+
+Hair of the dog
+
+Nightcap
+
+Passive drinking
+
+Binge drinking devices
+Beer bong
+
+Yard of ale
+
+Routes of administration
+Alcohol enema
+
+Alcohol inhalation
+
+Sconcing
+
+Surrogate alcohol
+
+Related issues
+Balconing
+
+Suicide
+
+History 
+Dionysian Mysteries
+
+Dipsomania
+
+Gin Craze
+
+List of deaths through alcohol
+
+Rum ration
+
+Speakeasy
+
+General 
+Beer day
+
+Drinking culture
+Apéritif and digestif
+
+Hangover remedies
+
+Health effects of wine
+Wine and food matching
+
+Long-distance race involving alcohol
+
+List of countries by alcohol consumption per capita
+Alcohol consumption by youth in the United States
+
+Nip joint
+
+Alcohol control
+
+Alcohol law 
+Administrative license suspension (ALS)
+
+Alcohol packaging warning messages
+
+Drunk driving law by country
+DWI court
+
+Field sobriety testing
+
+Hip flask defence
+
+Ignition interlock device
+
+Legal drinking age
+Legal drinking age controversy in the United States
+
+Underage drinking in America
+
+List of alcohol laws of the United States
+
+Alcohol prohibition 
+List of countries with alcohol prohibition
+
+Neo-prohibitionism
+
+Temperance movement
+
+Sobriety 
+Alcohol detoxification
+
+Alcohol-free zone
+Dry campus
+
+United States open-container laws
+
+Designated driver
+
+Alcohol rehabilitation
+
+Drunk tank
+
+Managed alcohol program
+
+Non-alcoholic drink
+List of non-alcoholic cocktails
+
+List of non-alcoholic mixed drinks
+
+Non-alcoholic spritzer
+
+Non-alcoholic malt drinks
+
+Teetotalism
+
+Temperance bar
+
+Twelve-step groups
+Al-Anon/Alateen
+
+Alcoholics Anonymous (AA):
+
+Adult Children of Alcoholics (ACA)
+
+Alcohol limitation 
+0-0-1-3
+
+Alcohol education
+
+Alcohol server training
+
+FRAMES
+
+Dry January
+
+Foundation for Advancing Alcohol Responsibility
+
+Campaigns
+Get Your Sexy Back
+
+Liquor license
+
+Low-alcohol drinks
+Fermented tea
+
+Low-alcohol beer
+
+Low-alcoholic malt drinks
+
+Small beer
+
+Measurement
+Alcoholic spirits measure
+
+Standard drink
+
+Recommended maximum intake of alcoholic beverages
+
+Addiction medicine 
+Disulfiram-like drugs: disulfiram, calcium carbimide, cyanamide. Sulfonic acids: Acamprosate
+
+Religion and alcohol 
+Christian views on alcohol
+alcohol in the Bible
+
+Islam and alcohol
+
+History 
+Bratt System
+
+Related 
+Index of alcohol-related articles
+
+Austrian syndrome
+
+Ban on caffeinated alcoholic beverages
+
+Brief intervention
+
+Gateway drug effect
+
+Last call
+
+Mood disorder
+
+Non-alcoholic fatty liver disease
+
+Pantsdrunk
+
+Self-medication
+
+Spins
+
+Sober companion
+
+Sober living houses
+
+Sobering center
+
+Town drunk
+
+ Category
+
+v
+
+t
+
+e
+
+Traffic law and safety
+
+Rules of the road 
+All-way stop
+
+Assured clear distance ahead
+
+Australian Road Rules
+
+Boulevard rule
+
+Green Cross Code
+
+Move over law
+
+New Zealand Road Code
+
+Overtaking
+
+Left- and right-hand traffic
+
+Bidirectional traffic
+
+Right-of-way
+
+School bus traffic stop laws
+
+Traffic code
+
+Turn on red
+
+Vienna Convention on Road Traffic
+
+Road user guides 
+Driver's manual
+
+The Highway Code
+
+The Highway Code (Malta)
+
+Road Users' Code
+
+Rules of the Road (Ireland)
+
+Enforcement 
+Parking enforcement
+
+Impaired driving
+Breathalyzer
+
+Field sobriety testing
+
+Highway patrol/State police
+
+Pretextual stop
+
+Road traffic control
+
+Terry stop
+
+Textalyzer
+
+Camera
+Enforcement
+
+Red light
+
+Traffic court
+
+Traffic guard
+
+Traffic stop
+
+Traffic ticket
+
+Warning
+
+Speed limit 
+Advisory speed limit
+
+Assured clear distance ahead
+
+National Maximum Speed Law
+
+School zone
+
+Speed limit enforcement
+
+Speed limits by country
+
+Category: Speed limits by country
+
+Moving violations 
+Impaired driving
+Canada
+
+United States
+
+Distracted driving
+Mobile phones and driving
+
+Texting while driving
+
+Reckless driving
+
+Street racing
+
+Tailgating
+
+Vehicular homicide
+
+Wrong-way driving
+
+Driver licensing 
+Commercial driver's license
+
+European driving licence
+
+Graduated driver licensing
+
+Inter-American Driving Permit
+
+International Driving Permit
+
+Learner's permit
+
+Point system
+
+Driving licences by country
+
+List of countries by minimum driving age
+
+Traffic violations reciprocity 
+Commercial Driver's License Information System
+
+Driver License Agreement
+
+Driver License Compact
+
+Non-Resident Violator Compact
+
+Parking 
+Alternate-side parking
+
+Decriminalised parking enforcement
+
+Disabled parking permit
+
+Double parking
+
+Parking chair
+
+Parking violation
+
+Wheel clamp
+
+Automotive safety 
+Seat belt laws
+
+Click It or Ticket
+
+Clunk Click Every Trip
+
+Road safety 
+Tachograph
+
+Digital tachograph
+
+Drivers' working hours (Europe)
+
+Epilepsy and driving
+
+Hours of service (US)
+
+"How's my driving?" sign
+
+Old age and driving
+
+Road rage
+
+Sleep-deprived driving
+
+Slow moving vehicle
+
+Vision Zero

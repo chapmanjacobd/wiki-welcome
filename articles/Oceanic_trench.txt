@@ -1,0 +1,774 @@
+"Long and narrow depressions of the sea floor
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (August 2015) (Learn how and when to remove this template message)
+
+Oceanic crust is formed at an oceanic ridge, while the lithosphere is subducted back into the asthenosphere at trenches
+
+Oceanic trenches are topographic depressions of the sea floor, relatively narrow in width, but very long. These oceanographic features are the deepest parts of the ocean floor. Oceanic trenches are a distinctive morphological feature of convergent plate boundaries, along which lithospheric plates move towards each other at rates that vary from a few millimeters to over ten centimeters per year. A trench marks the position at which the flexed, subducting slab begins to descend beneath another lithospheric slab. Trenches are generally parallel to a volcanic island arc, and about 200 km (120 mi) from a volcanic arc. Oceanic trenches typically extend 3 to 4 km (1.9 to 2.5 mi) below the level of the surrounding oceanic floor. The greatest ocean depth measured is in the Challenger Deep of the Mariana Trench, at a depth of 11,034 m (36,201 ft) below sea level. Oceanic lithosphere moves into trenches at a global rate of about 3 km2/yr.
+
+Contents
+
+1 Geographic distribution
+
+2 History of the term "trench"
+
+3 Morphologic expression
+
+3.1 Filled trenches
+
+3.2 Accretionary prisms and sediment transport
+
+3.3 Empty trenches and subduction erosion
+
+4 Trench rollback
+
+4.1 Processes involved
+
+4.2 Mantle interactions
+
+5 Water and biosphere
+
+6 Factors affecting trench depth
+
+7 Deepest oceanic trenches
+
+8 Notable oceanic trenches
+
+9 Ancient oceanic trenches
+
+10 See also
+
+11 References
+
+12 Bibliography
+
+13 External links
+
+Geographic distribution
+
+Major Pacific trenches (1–10) and fracture zones (11–20): 1. Kermadec 2. Tonga 3. Bougainville 4. Mariana 5. Izu-Ogasawara 6. Japan 7. Kuril–Kamchatka 8. Aleutian 9. Middle America 10. Peru-Chile 11. Mendocino 12. Murray 13. Molokai 14. Clarion 15. Clipperton 16. Challenger 17. Eltanin 18. Udintsev 19. East Pacific Rise (S-shaped) 20. Nazca Ridge
+
+There are approximately 50,000 km (31,000 mi) of convergent plate margins, mostly around the Pacific Ocean—the reason for the reference “Pacific-type” margin—but they are also found in the eastern Indian Ocean, with relatively short convergent margin segments in the Atlantic Ocean and in the Mediterranean Sea. Globally, there are over 50 major ocean trenches covering an area of 1.9 million km2 or about 0.5% of the oceans. Trenches that are partially infilled are known as "troughs" and sometimes they are completely buried and lack bathymetric expression, but the fundamental plate tectonics structures that these represent mean that the great name should also be applied here. This applies to the Cascadia, Makran, southern Lesser Antilles, and Calabrian trenches. Trenches along with volcanic arcs and zones of earthquakes that dip under the volcanic arc as deeply as 700 km (430 mi) are diagnostic of convergent plate boundaries and their deeper manifestations, subduction zones. Trenches are related to but distinguished from continental collision zones (such as that between India and Asia forming the Himalaya), where continental crust enters a subduction zone. When buoyant continental crust enters a trench, subduction eventually stops and the area becomes a zone of continental collision. Features analogous to trenches are associated with collision zones, including sediment-filled foredeeps, such as those the Ganges River and Tigris-Euphrates rivers flow along.
+
+History of the term "trench"
+
+Trenches were not clearly defined until the late 1940s and 1950s. The bathymetry of the ocean was of little interest until the late 19th and early 20th centuries, when the Transatlantic telegraph cables on the seafloor between the continents were first laid. The elongated bathymetric expression of trenches was not recognized until well into the 20th century. The term “trench” does not appear in Murray and Hjort's (1912) classic oceanography book. Instead they applied the term “deep“ for the deepest parts of the ocean, such as Challenger Deep. Experiences from World War I battlefields emblazoned the concept of a trench as an elongate depression defining an important boundary, perhaps leading to the term “trench” being used to describe natural features in the early 1920s. The term was first used in a geologic context by Scofield two years after the war ended to describe a structurally controlled depression in the Rocky Mountains. Johnstone, in his 1923 textbook An Introduction to Oceanography, first used the term in its modern sense for any marked, elongate depression of the sea bottom.
+
+During the 1920s and 1930s, Felix Andries Vening Meinesz developed a unique gravimeter that could measure gravity aboard a submarine and used it to measure gravity over trenches. His measurements revealed that trenches are sites of downwelling in the solid Earth. The concept of downwelling at trenches was characterized by Griggs in 1939 as the tectogene hypothesis, for which he developed an analogue model using a pair of rotating drums. World War II in the Pacific led to great improvements of bathymetry, particularly in the western Pacific, and the linear nature of these deeps became clear. The rapid growth of deep sea research efforts, especially the widespread use of echosounders in the 1950s and 1960s confirmed the morphological utility of the term. Important trenches were identified, sampled, and their greatest depths sonically plumbed. The early phase of trench exploration culminated in the 1960 descent of the Bathyscaphe Trieste, which set an unbeatable world record by diving to the bottom of the Challenger Deep. Following Robert S. Dietz’ and Harry Hess’ articulation of the seafloor spreading hypothesis in the early 1960s and the plate tectonic revolution in the late 1960s the term “trench“ has been redefined with plate tectonic as well as bathymetric connotations.
+
+Morphologic expression
+
+Cross section of an oceanic trench formed along an oceanic-oceanic convergent boundary
+
+The Peru–Chile Trench is located just left of the sharp line between the blue deep ocean (on the left) and the light blue continental shelf, along the west coast of South America. It runs along an oceanic-continental boundary, where the oceanic Nazca Plate subducts beneath the continental South American Plate
+
+Trenches are centerpieces of the distinctive physiography of a convergent plate margin. Transects across trenches yield asymmetric profiles, with relatively gentle (~5°) outer (seaward) slopes and a steeper (~10–16°) inner (landward) slopes. This asymmetry is due to the fact that the outer slope is defined by the top of the downgoing plate, which must bend as it starts its descent. The great thickness of the lithosphere requires that this bending be gentle. As the subducting plate approaches the trench, it first bends upwards to form the outer trench swell, then descends to form the outer trench slope. The outer trench slope is typically disrupted by a set of sub-parallel normal faults that 'staircase' the seafloor down to the trench. The plate boundary is defined by the trench axis itself. Beneath the inner trench wall, the two plates slide past each other along the subduction decollement, the seafloor intersection of which defines the trench location. The overriding plate typically contains a volcanic arc and forearc region. The volcanic arc is caused by physical and chemical interactions between the subducted plate at depth and asthenospheric mantle associated with the overriding plate. The forearc lies between the trench and the volcanic arc. Globally, forearcs have the lowest heatflow from the interior Earth because there is no asthenosphere (convecting mantle) between the forearc lithosphere and the cold subducting plate.
+
+The inner trench wall marks the edge of the overriding plate and the outermost forearc. The forearc consists of igneous and metamorphic crust, and this crust may act as buttress to a growing accretionary wedge (formed from sediments scraped off the top of the downgoing plate). If the flux of sediments is high, material transfers from the subducting plate to the overriding plate. In this case an accretionary prism grows and the location of the trench migrates progressively away from the volcanic arc over the life of the convergent margin. Convergent margins with growing accretionary prisms are called accretionary margins and make up nearly half of all convergent margins. If the incoming sediment flux is low, material is scraped from the overriding plate by the subducting plate in a process called subduction erosion. This material is then carried down into the subduction zone. In this case, the location of the trench migrates towards the magmatic arc over the life of the convergent margin. Convergent margins experiencing subduction erosion are called non-accretionary or erosive margins and comprise more than half of convergent plate boundaries. This is an oversimplification, because the same section of margin may experience both sediment accretion and subduction erosion throughout its active time span.
+
+The asymmetric profile across a trench reflects fundamental differences in materials and tectonic evolution. The outer trench wall and outer swell comprise seafloor that takes several million years to move from where subduction-related deformation begins to sinking beneath the overriding plate. In contrast, the inner trench wall is deformed by plate interactions for the entire life of the convergent margin. The forearc is continuously subjected to subduction-related deformation and earthquakes. This protracted deformation and shaking ensures that the inner trench slope is controlled by the angle of repose of whatever material comprises it. Because the inner slope of non-accretionary trenches are composed of igneous and metamorphic rocks instead of deformed sediments, these trenches have steeper inner walls than accretionary trenches.
+
+Filled trenches
+
+Oceanic trench formed along an oceanic-continental convergent boundary
+
+The composition of the inner trench slope and a first-order control on trench morphology is determined by sediment supply. Active accretionary prisms are common in trenches near continents where rivers or glaciers supply great volumes of sediment to the trench. These filled trenches may lack the bathymetric expression of a trench. The Cascadia margin of the northwest USA is a filled trench, the result of sedimentation by the rivers of the western United States and Canada.
+
+The Lesser Antilles convergent margin demonstrates the importance of proximity to sediment sources for trench morphology. In the south, near the mouth of the Orinoco River, there is no morphological trench and the forearc (including the accretionary prism) is almost 500 km (310 mi) wide. The large accretionary prism reaches above sea level to form the islands of Barbados and Trinidad. Northward, the forearc narrows, the accretionary prism disappears, and, north of ~17°N, the morphology of a trench dominates. Further north, far from major sediment sources, the Puerto Rico Trench is over 8,600 m (28,200 ft) deep and there is no active accretionary prism.
+
+A similar relationship between proximity to rivers, forearc width, and trench morphology can be observed from east to west along the Alaskan-Aleutian convergent margin. The convergent plate boundary offshore Alaska changes along its strike from a filled trench with broad forearc in the east (near the coastal rivers of Alaska) to a deep trench with narrow forearc in the west (offshore the Aleutian islands). Another example is the Makran convergent margin offshore Pakistan and Iran, which is a trench filled by sediments from the Tigris-Euphrates and Indus rivers. Thick accumulations of turbidites along a trench can be supplied by down-axis transport of sediments that enter the trench 1,000–2,000 km (620–1,240 mi) away, as is found for the Peru–Chile Trench south of Valparaíso and for the Aleutian Trench.
+
+Convergence rate can also be important for controlling trench depth—especially for trenches near continents—because slow convergence makes the convergent margin capacity insufficient to dispose of sediment. An evolution in trench morphology can be expected, as oceans close and continents converge. While the ocean is wide, the trench may be far from continental sources of sediment and so may be deep. As continents approach each other, the trench can fill with continental sediments and become shallower. A simple way to approximate when the transition from subduction to collision has occurred is when the plate boundary previously marked by a trench is filled enough to rise above sea level.
+
+Accretionary prisms and sediment transport
+
+Schematic cross section of a subduction zone with an accretionary prism formed by off-scraping sediments from the down-going plate
+
+Accretionary prisms grow in two ways: by frontal accretion, whereby sediments are scraped off the downgoing plate, bulldozer-fashion, near the trench, and by underplating of subducted sediments (and sometimes oceanic crust) along the shallow parts of the subduction decollement. Frontal accretion over the life of a convergent margin results in younger sediments defining the outermost part of the accretionary prism and the oldest sediments defining the innermost portion. Older (inner) parts of the accretionary prism are more lithified and have steeper structures than the younger (outer) parts. Underplating is difficult to detect in modern subduction zones but may be recorded in ancient accretionary prisms such as the Franciscan Group of California in the form of tectonic mélanges and duplex structures.
+
+Different modes of accretion are reflected in the morphology of the inner slope of the trench, which generally shows three morphological provinces. The lower slope comprises imbricate thrust slices that form ridges. The mid slope may comprise a bench or terraces. The upper slope is smoother but may be cut by submarine canyons. Because accretionary convergent margins have high relief, are continuously deforming, and accommodate a large flux of sediments, they are vigorous systems of sediment dispersal and accumulation. Sediment transport is controlled by submarine landslides, debris flows, turbidity currents, and contourites. Submarine canyons transport sediment from beaches and rivers down the upper slope. These canyons form by channelized turbidites and generally lose definition with depth because continuous faulting disrupts the submarine channels. Sediments move down the inner trench wall via channels and a series of fault-controlled basins. The trench itself serves as an axis of sediment transport. If enough sediment moves to the trench, it may be completely filled so that turbidity currents are able to carry sediments well beyond the trench and may even surmount the outer swell, as in the eastern Gulf of Alaska. Sediments from the rivers of North America spill over the filled Cascadia trench and cross the Juan de Fuca plate to reach the spreading ridge several hundred kilometres to the west.
+
+The slope of the inner trench slope of an accretionary convergent margin reflects continuous adjustments to the thickness and width of the accretionary prism. The prism maintains a ‘critical taper’, established in conformance with Mohr–Coulomb theory, with slope determined by the material properties of the sediments. A package of sediments scraped off the downgoing lithospheric plate deforms until it and the accretionary prism that it has been added to attain the maximum slope supported by the sediments. Once this critical taper is attained, the wedge slides stably along its basal décollement. Strain rate and hydrologic properties also influence the strength of the accretionary prism and the angle of critical taper. Fluid pore pressures modify rock strength. Low permeability and rapid convergence may result in pore pressures that exceed lithostatic pressure and thus a relatively weak accretionary prism with a shallowly tapered geometry, whereas high permeability and slow convergence result in lower pore pressure, stronger prisms, and steeper geometry.
+
+The Hellenic Trench of the Hellenic arc system is unusual because this convergent margin subducts evaporites. The slope of the surface of the southern flank of the Mediterranean Ridge (its accretionary prism) is low, about 1°, indicating very low shear stress on the decollement at the base of the wedge. Evaporites control the shallow taper of the accretionary complex both because their mechanical properties differ from those of siliciclastic sediments, and because of their effect on fluid flow and fluid pressure, which in turn control effective stress. In the 1970s, the linear deeps of the Hellenic trench south of Crete were thought to be similar to trenches at other subduction zones. However, with the realization that the Mediterranean Ridge is an accretionary complex, it became apparent that the Hellenic trench is actually a starved forearc basin, and that the plate boundary lies south of the Mediterranean Ridge.
+
+Empty trenches and subduction erosion
+
+Oceanic trench formed along an oceanic-oceanic convergent boundary
+
+The Mariana trench contains the deepest part of the world's oceans, and runs along an oceanic-oceanic convergent boundary. It is the result of the oceanic Pacific plate subducting beneath the oceanic Mariana plate.
+
+Trenches distant from an influx of continental sediments lack an accretionary prism, and the inner slope of such trenches is commonly composed of igneous or metamorphic rocks. Non-accretionary convergent margins are characteristic of (but not limited to) primitive arc systems. Primitive arc systems are those built on oceanic lithosphere, such as the Izu-Bonin-Mariana, Tonga-Kermadec, and Scotia (South Sandwich) arc systems. The inner trench slope of these convergent margins exposes the crust of the forearc, including basalt, gabbro, and serpentinized mantle peridotite. These exposures allow easy access to study the lower oceanic crust and upper mantle in place and provide a unique opportunity to study the magmatic products associated with the initiation of subduction zones. Most ophiolites probably originate in a forearc environment during the initiation of subduction, and this setting favors ophiolite emplacement during collision with blocks of thickened crust. Not all non-accretionary convergent margins are associated with primitive arcs. Trenches adjacent to continents where there is little influx of sediments carried by rivers, such as the central part of the Peru–Chile Trench, may also lack an accretionary prism.
+
+Igneous basement of a nonaccretionary forearc may be continuously exposed by subduction erosion. This transfers material from the forearc to the subducting plate and can be accomplished by frontal erosion or basal erosion. Frontal erosion is most active in the wake of seamounts being subducted beneath the forearc. Subduction of large edifices (seamount tunneling) oversteepens the forearc, causing mass failures that carry debris towards and ultimately into the trench. This debris may be deposited in graben of the downgoing plate and subducted with it. In contrast, structures resulting from subduction erosion of the base of the forearc are difficult to recognize from seismic reflection profiles, so the possibility of basal erosion is difficult to confirm. Subduction erosion may also diminish a once-robust accretionary prism if the flux of sediments to the trench diminishes.
+
+Nonaccretionary forearcs may also be the site of serpentine mud volcanoes. These form where fluids released from the downgoing plate percolate upwards and interact with cold mantle lithosphere of the forearc. Mantle peridotite is hydrated into serpentinite, which is much less dense than peridotite and so rises diapirically when it can. Some nonaccretionary forearcs are subjected to strong extensional stresses, for example the Marianas, and this allows buoyant serpentinite to rise to the seafloor where they form serpentinite mud volcanoes. Chemosynthetic communities are also found on non-accretionary margins such as the Marianas, where they thrive on vents associated with serpentinite mud volcanoes.
+
+Trench rollback
+
+Trenches seem positionally stable over time, but scientists believe that some trenches—particularly those associated with subduction zones where two oceanic plates converge—move backward into the subducting plate. This is called trench rollback or hinge retreat (also hinge rollback) and is one explanation for the existence of back-arc basins.
+
+Slab rollback occurs during the subduction of two tectonic plates, and results in seaward motion of the trench. Forces perpendicular to the slab at depth (the portion of the subducting plate within the mantle) are responsible for steepening of the slab in the mantle and ultimately the movement of the hinge and trench at the surface. The driving force for rollback is the negative buoyancy of the slab with respect to the underlying mantle  modified by the geometry of the slab itself. Back-arc basins are often associated with slab rollback due to extension in the overriding plate as a response to the subsequent subhorizontal mantle flow from the displacement of the slab at depth.
+
+Processes involved
+
+Several forces are involved in the process of slab rollback. Two forces acting against each other at the interface of the two subducting plates exert forces against one another. The subducting plate exerts a bending force (FPB) that supplies pressure during subduction, while the overriding plate exerts a force against the subducting plate (FTS). The slab pull force (FSP) is caused by the negative buoyancy of the plate driving the plate to greater depths. The resisting force from the surrounding mantle opposes the slab pull forces. Interactions with the 660-km discontinuity cause a deflection due to the buoyancy at the phase transition (F660). The unique interplay of these forces is what generates slab rollback. When the deep slab section obstructs the down-going motion of the shallow slab section, slab rollback occurs. The subducting slab undergoes backward sinking due to the negative buoyancy forces causing a retrogradation of the trench hinge along the surface. Upwelling of the mantle around the slab can create favorable conditions for the formation of a back-arc basin.
+
+Seismic tomography provides evidence for slab rollback. Results demonstrate high temperature anomalies within the mantle suggesting subducted material is present in the mantle. Ophiolites are viewed as evidence for such mechanisms as high pressure and temperature rocks are rapidly brought to the surface through the processes of slab rollback, which provides space for the exhumation of ophiolites.
+
+Slab rollback is not always a continuous process suggesting an episodic nature. The episodic nature of the rollback is explained by a change in the density of the subducting plate, such as the arrival of buoyant lithosphere (a continent, arc, ridge, or plateau), a change in the subduction dynamics, or a change in the plate kinematics. The age of the subducting plates does not have any effect on slab rollback. Nearby continental collisions have an effect on slab rollback. Continental collisions induce mantle flow and extrusion of mantle material, which causes stretching and arc-trench rollback. In the area of the Southeast Pacific, there have been several rollback events resulting in the formation of numerous back-arc basins.
+
+Mantle interactions
+
+Interactions with the mantle discontinuities play a significant role in slab rollback. Stagnation at the 660-km discontinuity causes retrograde slab motion due to the suction forces acting at the surface. Slab rollback induces mantle return flow, which causes extension from the shear stresses at the base of the overriding plate. As slab rollback velocities increase, circular mantle flow velocities also increase, accelerating extension rates. Extension rates are altered when the slab interacts with the discontinuities within the mantle at 410 km and 660 km depth. Slabs can either penetrate directly into the lower mantle, or can be retarded due to the phase transition at 660 km depth creating a difference in buoyancy. An increase in retrograde trench migration (slab rollback) (2–4 cm/yr) is a result of flattened slabs at the 660-km discontinuity where the slab does not penetrate into the lower mantle. This is the case for the Japan, Java and Izu-Bonin trenches. These flattened slabs are only temporarily arrested in the transition zone. The subsequent displacement into the lower mantle is caused by slab pull forces, or the destabilization of the slab from warming and broadening due to thermal diffusion. Slabs that penetrate directly into the lower mantle result in slower slab rollback rates (~1–3 cm/yr) such as the Mariana arc, Tonga arcs.
+
+Water and biosphere
+
+The volume of water escaping from within and beneath the forearc results in some of Earth's most dynamic and complex interactions between aqueous fluids and rocks. Most of this water is trapped in pores and fractures in the upper lithosphere and sediments of the subducting plate. The average forearc is underrun by a solid volume of oceanic sediment that is 400 m (1,300 ft) thick. This sediment enters the trench with 50–60% porosity. These sediments are progressively squeezed as they are subducted, reducing void space and forcing fluids out along the decollement and up into the overlying forearc, which may or may not have an accretionary prism. Sediments accreted to the forearc are another source of fluids. Water is also bound in hydrous minerals, especially clays and opal. Increasing pressure and temperature experienced by subducted materials converts the hydrous minerals to denser phases that contain progressively less structurally bound water. Water released by dehydration accompanying phase transitions is another source of fluids introduced to the base of the overriding plate. These fluids may travel through the accretionary prism diffusely, via interconnected pore spaces in sediments, or may follow discrete channels along faults. Sites of venting may take the form of mud volcanoes or seeps and are often associated with chemosynthetic communities. Fluids escaping from the shallowest parts of a subduction zone may also escape along the plate boundary but have rarely been observed draining along the trench axis. All of these fluids are dominated by water but also contain dissolved ions and organic molecules, especially methane. Methane is often sequestered in an ice-like form (methane clathrate, also called gas hydrate) in the forearc. These are a potential energy source and can rapidly break down. Destabilization of gas hydrates has contributed to global warming in the past and will likely do so in the future.
+
+Chemosynthetic communities thrive where cold fluids seep out of the forearc. Cold seep communities have been discovered in inner trench slopes down to depths of 7000 m in the western Pacific, especially around Japan, in the Eastern Pacific along North, Central and South America coasts from the Aleutian to the Peru–Chile trenches, on the Barbados prism, in the Mediterranean, and in the Indian Ocean along the Makran and Sunda convergent margins. These communities receive much less attention than the chemosynthetic communities associated with hydrothermal vents. Chemosynthetic communities are located in a variety of geological settings: above over-pressured sediments in accretionary prisms where fluids are expelled through mud volcanoes or ridges (Barbados, Nankai and Cascadia); along active erosive margins with faults; and along escarpments caused by debris slides (Japan trench, Peruvian margin). Surface seeps may be linked to massive hydrate deposits and destabilization (e.g. Cascadia margin). High concentrations of methane and sulfide in the fluids escaping from the seafloor are the principal energy sources for chemosynthesis.
+
+Factors affecting trench depth
+
+The Puerto Rico Trench
+
+There are several factors that control the depth of trenches. The most important control is the supply of sediment, which fills the trench so that there is no bathymetric expression. It is therefore not surprising that the deepest trenches (deeper than 8,000 m (26,000 ft)) are all nonaccretionary. In contrast, all trenches with growing accretionary prisms are shallower than 8,000 m (26,000 ft). A second order control on trench depth is the age of the lithosphere at the time of subduction. Because oceanic lithosphere cools and thickens as it ages, it subsides. The older the seafloor, the deeper it lies, and this determines the minimum depth from which the seafloor begins to descend. This obvious correlation can be removed by looking at the relative depth, the difference between regional seafloor depth and maximum trench depth. Relative depth may be controlled by the age of the lithosphere at the trench, the convergence rate, and the dip of the subducted slab at intermediate depths. Finally, narrow slabs can sink and roll back more rapidly than broad plates, because it is easier for underlying asthenosphere to flow around the edges of the sinking plate. Such slabs may have steep dips at relatively shallow depths and so may be associated with unusually deep trenches, such as the Challenger Deep.
+
+Deepest oceanic trenches
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2019) (Learn how and when to remove this template message)
+
+Trench
+Ocean
+Maximum Depth
+Source
+
+Mariana Trench
+ Pacific Ocean
+ 10,984 m (36,037 ft)
+ 
+Tonga Trench
+ Pacific Ocean
+ 10,882 m (35,702 ft)
+ 
+Philippine Trench
+ Pacific Ocean
+ 10,545 m (34,596 ft)
+ 
+Kuril–Kamchatka Trench
+ Pacific Ocean
+ 10,542 m (34,587 ft)
+ 
+Kermadec Trench
+ Pacific Ocean
+ 10,047 m (32,963 ft)
+ 
+Izu-Bonin Trench (Izu-Ogasawara Trench)
+ Pacific Ocean
+ 9,810 m (32,190 ft)
+ 
+Japan Trench
+ Pacific Ocean
+ 10,375 m (34,039 ft)
+ 
+Puerto Rico Trench
+ Atlantic Ocean
+ 8,800 m (28,900 ft)
+ 
+South Sandwich Trench
+ Atlantic Ocean
+ 8,428 m (27,651 ft)
+ 
+Peru–Chile Trench or Atacama Trench
+ Pacific Ocean
+ 8,065 m (26,460 ft)
+ 
+Notable oceanic trenches
+
+TrenchLocation
+
+Aleutian Trench
+ South of the Aleutian Islands, west of Alaska
+
+Bougainville Trench
+ South of New Guinea
+
+Cayman Trench
+ Western Caribbean Sea
+
+Cedros Trench (inactive)
+ Pacific coast of Baja California
+
+Hikurangi Trench
+ East of New Zealand
+
+Hjort Trench
+ Southwest of New Zealand
+
+Izu-Ogasawara Trench
+ Near Izu and Bonin islands
+
+Japan Trench
+ East of Japan
+
+Kermadec Trench *
+ Northeast of New Zealand
+
+Kuril–Kamchatka Trench *
+ Near Kuril islands
+
+Manila Trench
+ West of Luzon, Philippines
+
+Mariana Trench *
+ Western Pacific Ocean; east of Mariana Islands
+
+Middle America Trench
+ Eastern Pacific Ocean; off coast of Mexico, Guatemala, El Salvador, Nicaragua, Costa Rica
+
+New Hebrides Trench
+ West of Vanuatu (New Hebrides Islands).
+
+Peru–Chile Trench
+ Eastern Pacific Ocean; off coast of Peru & Chile
+
+Philippine Trench *
+ East of the Philippines
+
+Puerto Rico Trench
+ Boundary of Caribbean Sea and Atlantic ocean
+
+Puysegur trench
+ Southwest of New Zealand
+
+Ryukyu Trench
+ Eastern edge of Japan's Ryukyu Islands
+
+South Sandwich Trench
+ East of the South Sandwich Islands
+
+Sunda Trench
+ Curves from south of Java to west of Sumatra and the Andaman and Nicobar Islands
+
+Tonga Trench *
+ Near Tonga
+
+Yap Trench
+ Western Pacific Ocean; between Palau Islands and Mariana Trench
+
+(*) The five deepest trenches in the world
+
+Ancient oceanic trenches
+
+TrenchLocation
+
+Intermontane Trench
+ Western North America; between the Intermontane Islands and North America
+
+Insular Trench
+ Western North America; between the Insular Islands and the Intermontane Islands
+
+Farallon Trench
+ Western North America
+
+Tethyan Trench
+ South of Turkey, Iran, Tibet and Southeast Asia
+
+See also
+
+List of landforms
+
+List of submarine topographical features
+
+Mid-ocean ridge
+
+Physical oceanography
+
+Trough (geology)
+
+References
+
+^ Rowley, David B. (2002). "Rate of plate creation and destruction: 180 Ma to present". Geological Society of America Bulletin. 114 (8): 927–933. Bibcode:2002GSAB..114..927R. doi:10.1130/0016-7606(2002)114<0927:ROPCAD>2.0.CO;2.
+
+^ Harris, P.T.; MacMillan-Lawler, M.; Rupp, J.; Baker, E.K. (2014). "Geomorphology of the oceans". Marine Geology. 352: 4–24. Bibcode:2014MGeol.352....4H. doi:10.1016/j.margeo.2014.01.011.
+
+^ Cita, M.B. (2006). "Exhumation of Messinian evaporites in the deep-sea and creation of deep anoxic brine-filled collapsed basins". Sedimentary Geology. 188–189: 357–378. Bibcode:2006SedG..188..357C. doi:10.1016/j.sedgeo.2006.03.013.
+
+^ Dvorkin, Jack; Nur, Amos; Mavko, Gary; Ben-Avraham, Zvi (1993). "Narrow subducting slabs and the origin of backarc basins". Tectonophysics. 227 (1–4): 63–79. Bibcode:1993Tectp.227...63D. doi:10.1016/0040-1951(93)90087-Z.
+
+^ Garfunkel, Z; Anderson, C. A.; Schubert, G (10 June 1986). "Mantle circulation and the lateral migration of subducted slabs". Journal of Geophysical Research: Solid Earth. 91 (B7): 7205–7223. Bibcode:1986JGR....91.7205G. doi:10.1029/JB091iB07p07205.
+
+^ a b Schellart & Moresi 2013
+
+^ a b c Schellart, Lister & Toy 2006
+
+^ a b c d Nakakuki & Mura 2013
+
+^ a b c Flower & Dilek 2003
+
+^ Hall & Spakman 2002
+
+^ a b Christensen 1996
+
+^ "So, How Deep Is the Mariana Trench?" (PDF). Center for Coastal & Ocean Mapping-Joint Hydrographic Center (CCOM/JHC), Chase Ocean Engineering Laboratory of the University of New Hampshire. 5 March 2014. Retrieved 20 May 2014.
+
+Bibliography
+
+Christensen, UR (1996). "The Influence of Trench Migration on Slab Penetration into the Lower Mantle". Earth and Planetary Science Letters. 140 (1–4): 27–39. Bibcode:1996E&PSL.140...27C. doi:10.1016/0012-821x(96)00023-4.CS1 maint: ref=harv (link)
+
+"Deep-sea trench". McGraw-Hill Encyclopedia of Science & Technology (8th ed.). 1997.
+
+Flower, MFJ; Dilek, Y (2003). "Arc–trench Rollback and Forearc Accretion: 1. A Collision–Induced Mantle Flow Model for Tethyan Ophiolites". Pub. Geol. Soc. Lond. 218 (1): 21–41. Bibcode:2003GSLSP.218...21F. doi:10.1144/gsl.sp.2003.218.01.03.CS1 maint: ref=harv (link)
+
+Fisher, R. L. & Hess, H. H. & M. N. Hill (Editor) (1963). "Trenches". The Sea v. 3 The Earth Beneath the Sea. New York: Wiley-Interscience. pp. 411–436.CS1 maint: uses authors parameter (link)
+
+Hall, R; Spakman, W (2002). "Subducted Slabs Beneath the Eastern Indonesia–Tonga Region: Insights from Tomography". Earth and Planetary Science Letters. 201 (2): 321–336. Bibcode:2002E&PSL.201..321H. CiteSeerX 10.1.1.511.9094. doi:10.1016/s0012-821x(02)00705-7.CS1 maint: ref=harv (link)
+
+Hamilton, W. B. (1988). "Plate tectonics and island arcs". Geological Society of America Bulletin. 100 (10). pp. 1503–1527.
+
+Hawkins, J. W.; Bloomer, S. H.; Evans, C. A.; Melchior, J. T. (1984). "Evolution of Intra-Oceanic Arc-Trench Systems". Tectonophysics. 102 (1–4): 175–205. Bibcode:1984Tectp.102..175H. doi:10.1016/0040-1951(84)90013-1.
+
+Jarrard, R. D. (1986). "Relations among subduction parameters". Reviews of Geophysics. 24 (2): 217–284. Bibcode:1986RvGeo..24..217J. doi:10.1029/RG024i002p00217.
+
+Ladd, J.W. & Holcombe, T. L. & Westbrook, G. K. & Edgar, N. T. & Dengo, G. (Editor) & Case, J. (Editor) (1990). "Caribbean Marine Geology: Active margins of the plate boundary". The Geology of North America, Vol. H, The Caribbean Region. Geological Society of America. pp. 261–290.CS1 maint: uses authors parameter (link)
+
+Nakakuki, T; Mura, E (2013). "Dynamics of Slab Rollback and Induced Back-Arc Basin Formation". Earth and Planetary Science Letters. 361 (B11): 287–297. Bibcode:2013E&PSL.361..287N. doi:10.1016/j.epsl.2012.10.031.CS1 maint: ref=harv (link)
+
+Schellart, WP; Lister, GS (2004). "Orogenic Curvature: Paleomagnetic and Structural Analyses". Geological Society of America: 237–254.CS1 maint: ref=harv (link)
+
+Schellart, WP; Lister, GS; Toy, VG (2006). "A Late Cretaceous and Cenozoic Reconstruction of the Southwest Pacific Region: Tectonics Controlled by Subduction and Slab Rollback Processes". Earth-Science Reviews. 76 (3–4): 191–233. Bibcode:2006ESRv...76..191S. doi:10.1016/j.earscirev.2006.01.002.CS1 maint: ref=harv (link)
+
+Schellart, WP; Moresi, L (2013). "A New Driving Mechanism for Backarc Extension and Backarc Shortening Through Slab Sinking Induced Toroidal and Poloidal Mantle Flow: Results from dynamic subduction models with an overriding plate". Journal of Geophysical Research. 118 (6): 3221–3248. Bibcode:2013JGRB..118.3221S. doi:10.1002/jgrb.50173.CS1 maint: ref=harv (link)
+
+Scholl, D. W.; Scholl, D (1993). "The return of sialic material to the mantle indicated by terrigeneous material subducted at convergent margins". Tectonophysics. 219 (1–3): 163–175. Bibcode:1993Tectp.219..163V. doi:10.1016/0040-1951(93)90294-T.
+
+Sibuet, M.; Olu, K. (1998). "Biogeography, biodiversity and fluid dependence of deep-sea cold-seep communities at active and passive margins". Deep-Sea Research. II (45): 517–567. Bibcode:1998DSRII..45..517S. doi:10.1016/S0967-0645(97)00074-X.
+
+Smith, W. H. F.; Sandwell, D. T. (1997). "Global sea floor topography from satellite altimetry and ship depth soundings". Science. 277 (5334): 1956–1962. doi:10.1126/science.277.5334.1956.
+
+Stern, R. J. (2002). "Subduction Zones". Reviews of Geophysics. 40 (4): 1012–1049. Bibcode:2002RvGeo..40.1012S. doi:10.1029/2001RG000108.
+
+Watts, A.B. (2001). Isostasy and Flexure of the Lithosphere. Cambridge University Press. 458p.
+
+Wright, D. J.; Bloomer, S. H.; MacLeod, C. J.; Taylor, B.; Goodlife, A. M. (2000). "Bathymetry of the Tonga Trench and Forearc: a map series". Marine Geophysical Researches. 21 (489–511): 2000. Bibcode:2000MarGR..21..489W. doi:10.1023/A:1026514914220.
+
+External links
+
+"HADEX: Research project to explore ocean trenches". Woods Hole Oceanographic Institution.
+
+"Ocean Trenches". Woods Hole Oceanographic Institution.
+
+v
+
+t
+
+e
+
+Physical oceanography
+
+Waves 
+Airy wave theory
+
+Ballantine scale
+
+Benjamin–Feir instability
+
+Boussinesq approximation
+
+Breaking wave
+
+Clapotis
+
+Cnoidal wave
+
+Cross sea
+
+Dispersion
+
+Edge wave
+
+Equatorial waves
+
+Fetch
+
+Gravity wave
+
+Green's law
+
+Infragravity wave
+
+Internal wave
+
+Iribarren number
+
+Kelvin wave
+
+Kinematic wave
+
+Longshore drift
+
+Luke's variational principle
+
+Mild-slope equation
+
+Radiation stress
+
+Rogue wave
+
+Rossby wave
+
+Rossby-gravity waves
+
+Sea state
+
+Seiche
+
+Significant wave height
+
+Soliton
+
+Stokes boundary layer
+
+Stokes drift
+
+Stokes wave
+
+Swell
+
+Trochoidal wave
+
+Tsunami
+megatsunami
+
+Undertow
+
+Ursell number
+
+Wave action
+
+Wave base
+
+Wave height
+
+Wave power
+
+Wave radar
+
+Wave setup
+
+Wave shoaling
+
+Wave turbulence
+
+Wave–current interaction
+
+Waves and shallow water
+one-dimensional Saint-Venant equations
+
+shallow water equations
+
+Wind wave
+model
+
+Circulation 
+Atmospheric circulation
+
+Baroclinity
+
+Boundary current
+
+Coriolis force
+
+Coriolis–Stokes force
+
+Craik–Leibovich vortex force
+
+Downwelling
+
+Eddy
+
+Ekman layer
+
+Ekman spiral
+
+Ekman transport
+
+El Niño–Southern Oscillation
+
+General circulation model
+
+Geochemical Ocean Sections Study
+
+Geostrophic current
+
+Global Ocean Data Analysis Project
+
+Gulf Stream
+
+Halothermal circulation
+
+Humboldt Current
+
+Hydrothermal circulation
+
+Langmuir circulation
+
+Longshore drift
+
+Loop Current
+
+Modular Ocean Model
+
+Ocean dynamics
+
+Ocean gyre
+
+Princeton ocean model
+
+Rip current
+
+Subsurface currents
+
+Sverdrup balance
+
+Thermohaline circulation
+shutdown
+
+Upwelling
+
+Whirlpool
+
+World Ocean Circulation Experiment
+
+Tides 
+Amphidromic point
+
+Earth tide
+
+Head of tide
+
+Internal tide
+
+Lunitidal interval
+
+Perigean spring tide
+
+Rip tide
+
+Rule of twelfths
+
+Slack water
+
+Tidal bore
+
+Tidal force
+
+Tidal power
+
+Tidal race
+
+Tidal range
+
+Tidal resonance
+
+Tide gauge
+
+Tideline
+
+Theory of tides
+
+Landforms 
+Abyssal fan
+
+Abyssal plain
+
+Atoll
+
+Bathymetric chart
+
+Coastal geography
+
+Cold seep
+
+Continental margin
+
+Continental rise
+
+Continental shelf
+
+Contourite
+
+Guyot
+
+Hydrography
+
+Oceanic basin
+
+Oceanic plateau
+
+Oceanic trench
+
+Passive margin
+
+Seabed
+
+Seamount
+
+Submarine canyon
+
+Submarine volcano
+
+Plate
+
+tectonics 
+Convergent boundary
+
+Divergent boundary
+
+Fracture zone
+
+Hydrothermal vent
+
+Marine geology
+
+Mid-ocean ridge
+
+Mohorovičić discontinuity
+
+Vine–Matthews–Morley hypothesis
+
+Oceanic crust
+
+Outer trench swell
+
+Ridge push
+
+Seafloor spreading
+
+Slab pull
+
+Slab suction
+
+Slab window
+
+Subduction
+
+Transform fault
+
+Volcanic arc
+
+Ocean zones 
+Benthic
+
+Deep ocean water
+
+Deep sea
+
+Littoral
+
+Mesopelagic
+
+Oceanic
+
+Pelagic
+
+Photic
+
+Surf
+
+Swash
+
+Sea level 
+Deep-ocean Assessment and Reporting of Tsunamis
+
+Future sea level
+
+Global Sea Level Observing System
+
+North West Shelf Operational Oceanographic System
+
+Sea-level curve
+
+Sea level rise
+
+World Geodetic System
+
+Acoustics 
+Deep scattering layer
+
+Hydroacoustics
+
+Ocean acoustic tomography
+
+Sofar bomb
+
+SOFAR channel
+
+Underwater acoustics
+
+Satellites 
+Jason-1
+
+Jason-2 (Ocean Surface Topography Mission)
+
+Jason-3
+
+Related 
+Argo
+
+Benthic lander
+
+Color of water
+
+DSV Alvin
+
+Marginal sea
+
+Marine energy
+
+Marine pollution
+
+Mooring
+
+National Oceanographic Data Center
+
+Ocean
+
+Ocean exploration
+
+Ocean observations
+
+Ocean reanalysis
+
+Ocean surface topography
+
+Ocean thermal energy conversion
+
+Oceanography
+
+Pelagic sediment
+
+Sea surface microlayer
+
+Sea surface temperature
+
+Seawater
+
+Science On a Sphere
+
+Thermocline
+
+Underwater glider
+
+Water column
+
+World Ocean Atlas
+
+ Category
+
+ Commons
+
+Authority control 
+GND: 4463868-1
+
+NDL: 00564581

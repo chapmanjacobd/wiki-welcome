@@ -1,0 +1,284 @@
+Type of lower-voltage electricity most commonly provided by utilities
+
+World map showing the percentage of the population in each country with access to mains electricity (as of 2017), a measure of the extent of electrification. 80–100%
+
+60–80%
+
+40–60%
+
+20–40%
+
+0–20%
+
+Mains electricity (as it is known in the UK and some parts of Canada; US terms include utility power, power grid, domestic power and wall power; in much of Canada it is known as hydro) is the general-purpose alternating-current (AC) electric power supply. It is the form of electrical power that is delivered to homes and businesses, and it is the form of electrical power that consumers use when they plug items such as domestic appliances, televisions and electric lamps into wall outlets.
+
+The two principal properties of the electric power supply, voltage and frequency, differ between regions. A voltage of (nominally) 230 V and a frequency of 50 Hz is used in Europe, most of Africa, most of Asia, much of South America and Australia. In North America, the most common combination is 120 V and a frequency of 60 Hz. Other voltages exist, and some countries may have, for example, 230 V at 60 Hz. This is a concern to travellers, since portable appliances designed for one voltage and frequency combination may not operate with, or may even be destroyed by another. The use of different and incompatible plugs and sockets in different regions and countries provides some protection from accidental use of appliances with incompatible voltage and frequency requirements.
+
+Contents
+
+1 Terminology
+
+2 Power systems
+
+3 Common uses of electricity
+
+4 Building wiring
+
+5 Voltage levels
+
+5.1 Measuring voltage
+
+5.2 Choice of voltage
+
+5.3 Standardization
+
+6 History
+
+7 Voltage regulation
+
+8 Power quality
+
+9 See also
+
+10 References
+
+Terminology
+
+A table lamp connected to a wall socket (the mains)
+
+In the US, mains electric power is referred to by several names including "utility power", "household power", "household electricity", "house current", "powerline", "domestic power", "wall power", "line power", "AC power", "city power", "street power".
+
+In the UK, mains electric power is generally referred to as "the mains". More than half of power in Canada is hydroelectricity, and mains electricity is often referred to there as "hydro". This is also reflected in names of current and historical electricity monopolies such as Hydro-Québec, BC Hydro, Manitoba Hydro, Newfoundland and Labrador Hydro, and Hydro One.
+
+Power systems
+
+For a list of voltages, frequencies, and wall plugs by country, see Mains electricity by country
+
+Worldwide, many different mains power systems are found for the operation of household and light commercial electrical appliances and lighting. The different systems are primarily characterized by their
+
+Voltage
+
+Frequency
+
+Plugs and sockets (receptacles or outlets)
+
+Earthing system (grounding)
+
+Protection against overcurrent damage (e.g., due to short circuit), electric shock, and fire hazards
+
+Parameter tolerances.
+
+All these parameters vary among regions. The voltages are generally in the range 100–240 V (always expressed as root-mean-square voltage). The two commonly used frequencies are 50 Hz and 60 Hz. Single-phase or three-phase power is most commonly used today, although two-phase systems were used early in the 20th century. Foreign enclaves, such as large industrial plants or overseas military bases, may have a different standard voltage or frequency from the surrounding areas. Some city areas may use standards different from that of the surrounding countryside (e.g. in Libya). Regions in an effective state of anarchy may have no central electrical authority, with electric power provided by incompatible private sources.
+
+Many other combinations of voltage and utility frequency were formerly used, with frequencies between 25 Hz and 133 Hz and voltages from 100 V to 250 V. Direct current (DC) has been almost completely displaced by alternating current (AC) in public power systems, but DC was used especially in some city areas to the end of the 20th century. The modern combinations of 230 V/50 Hz and 120 V/60 Hz, listed in IEC 60038, did not apply in the first few decades of the 20th century and are still not universal. Industrial plants with three-phase power will have different, higher voltages installed for large equipment (and different sockets and plugs), but the common voltages listed here would still be found for lighting and portable equipment.
+
+Common uses of electricity
+
+Electricity is used for lighting, heating, cooling, electric motors and electronic equipment. The US Energy Information Administration (EIA) has published:
+
+Estimated US residential electricity consumption by end use, for the year 2016
+
+End use
+Petajoules
+
+(Terawatt hours)
+Share of
+
+total
+
+Space cooling
+ 890 (247)
+ 18%
+
+Water heating
+ 480 (134)
+ 9%
+
+Lighting
+ 460 (129)
+ 9%
+
+Refrigeration
+ 370 (103)
+ 7%
+
+Space heating
+ 350 (96)
+ 7%
+
+Televisions and related equipment1
+ 300 (83)
+ 6%
+
+Clothes dryers
+ 220 (61)
+ 4%
+
+Furnace fans and boiler circulation pumps
+ 120 (32)
+ 2%
+
+Computers and related equipment2
+ 120 (32)
+ 2%
+
+Cooking
+ 120 (32)
+ 2%
+
+Dishwashers3
+ 100 (28)
+ 2%
+
+Freezers
+ 79 (22)
+ 2%
+
+Clothes washers3
+ 29 (8)
+ 1%
+
+Other uses4
+ 1,460 (405)
+ 29%
+
+Total consumption
+ 5,100 (1,410)
+ 100%
+
+1 Includes televisions, set-top boxes, home theatre systems, DVD players, and video game consoles
+
+2 Includes desktop and laptop computers, monitors, and networking equipment.
+
+3 Does not include water heating.
+
+4 Includes small electric devices, heating elements, exterior lights, outdoor grills, pool and spa heaters, backup electricity generators, and motors not listed above. Does not include electric vehicle charging.
+
+Electronic appliances (such as those in the televisions, computer and related equipment categories above, representing 9% of the total), typically use an AC to DC converter or AC adapter to power the device. This is often capable of operation over the approximate range of 100 V to 250 V and at 50 Hz to 60 Hz. The other categories are typically AC applications and usually have much more restricted input ranges. A study by the Building Research Establishment in the UK states that "The existing 230 V system is well suited to the future of electricity whether through design or Darwinian processes. Any current perceived weakness is generally a result of cost reduction and market forces rather than any fundamental technical difficulties. Questions as to whether there are alternatives to the existing 230 V AC system are often overshadowed by legacy issues, the future smart agenda and cost in all but specific situations. Where opportunities do exist they are often for specific parts of the overall load and often small parts in terms of total demand."
+
+Building wiring
+
+See also: Electrical wiring
+
+In many countries, household power is single-phase electric power, with two or three wired contacts at each outlet. Neutral and line wires carry current and are defined as live parts.
+
+The line wire (in IEC terms 'line conductor') also known as phase, hot or active contact (and commonly, but technically incorrectly, as live), carries alternating current between the power grid and the household.
+
+The neutral wire (IEC: neutral conductor ) completes the electrical circuit—remaining at a voltage in proximity to 0 V—by also carrying alternating current between the power grid and the household. The neutral is connected to the ground (Earth), and therefore has nearly the same electrical potential as the earth. This prevents the power circuits from increasing beyond earth voltage, such as when they are struck by lightning or become otherwise charged.
+
+The earth wire, ground or, in IEC terms, Protective Earth (PE) connects the chassis of equipment to earth ground as a protection against faults (electric shock), such as if the insulation on a "hot" wire becomes damaged and the bare wire comes into contact with the metal chassis or case of the equipment.
+
+Further information: Ground and neutral
+
+Mixed 230 V/400 V three-phase (common in northern and central Europe) or 230 V single-phase based household wiring
+
+In northern and central Europe, residential electrical supply is commonly 400 V three-phase electric power, which gives 230 V between any single phase and neutral; house wiring may be a mix of three-phase and single-phase circuits, but three-phase residential use is rare in the UK. High-power appliances such as kitchen stoves, water heaters and maybe household power heavy tools like log splitters may be supplied from the 400 V three-phase power supply.
+
+Various earthing systems are used to ensure that the ground and neutral wires have zero voltage with respect to earth, to prevent shocks when touching grounded electrical equipment. In some installations, there may be two line conductors which carry alternating currents in a single-phase three-wire. Small portable electrical equipment is connected to the power supply through flexible cables (these exist with either two or three insulated conductors) terminated in a plug, which is inserted into a fixed receptacle (socket). Larger household electrical equipment and industrial equipment may be permanently wired to the fixed wiring of the building. For example, in North American homes a window-mounted self-contained air conditioner unit would be connected to a wall plug, whereas the central air conditioning for a whole home would be permanently wired. Larger plug and socket combinations are used for industrial equipment carrying larger currents, higher voltages, or three phase electric power. These are often constructed with tougher plastics and possess inherent weather-resistant properties needed in some applications.
+
+Circuit breakers and fuses are used to detect short circuits between the line and neutral or ground wires or the drawing of more current than the wires are rated to handle (overload protection) to prevent overheating and possible fire. These protective devices are usually mounted in a central panel—most commonly a distribution board or consumer unit—in a building, but some wiring systems also provide a protection device at the socket or within the plug. Residual-current devices, also known as ground-fault circuit interrupters and appliance leakage current interrupters, are used to detect ground faults—flow of current in other than the neutral and line wires (like the ground wire or a person). When a ground fault is detected, the device quickly cuts off the circuit.
+
+Voltage levels
+
+World Map of Mains Voltages and Frequencies, Simplified
+
+Most of the world population (Europe, Africa, Asia, Australia, New Zealand) and much of South America use a supply that is within 6% of 230 V. In the UK and Australia the nominal supply voltage is 230 V +10%/−6% to accommodate the fact that most transformers are in fact still set to 240 V. The 230 V standard has become widespread so that 230 V equipment can be used in most parts of the world with the aid of an adapter or a change to the equipment's plug to the standard for the specific country.
+The United States and Canada use a supply voltage of 120 volts ± 6%. Japan, Taiwan, Saudi Arabia, North America, Central America and some parts of northern South America use a voltage between 100 V and 127 V. Brazil is unusual in having both 127 V and 220 V systems at 60 Hz and also permitting interchangeable plugs and sockets. Saudi Arabia has mixed voltage systems, in residential and light commercial buildings the Kingdom uses 127 volts, with 220 volts in commercial and industrial applications, the government approved plans in August 2010 to transition the country to a totally 230/400 volts system.
+
+Measuring voltage
+
+A distinction should be made between the voltage at the point of supply (nominal voltage at the point of interconnection between the electrical utility and the user) and the voltage rating of the equipment (utilization voltage). Typically the utilization voltage is 3% to 5% lower than the nominal system voltage; for example, a nominal 208 V supply system will be connected to motors with "200 V" on their nameplates. This allows for the voltage drop between equipment and supply. Voltages in this article are the nominal supply voltages and equipment used on these systems will carry slightly lower nameplate voltages. Power distribution system voltage is nearly sinusoidal in nature. Voltages are expressed as root mean square (RMS) voltage. Voltage tolerances are for steady-state operation. Momentary heavy loads, or switching operations in the power distribution network, may cause short-term deviations out of the tolerance band and storms and other unusual conditions may cause even larger transient variations. In general, power supplies derived from large networks with many sources are more stable than those supplied to an isolated community with perhaps only a single generator.
+
+Choice of voltage
+
+Main article: Mains electricity by country
+
+The choice of supply voltage is due more to historical reasons than optimization of the electric power distribution system—once a voltage is in use and equipment using this voltage is widespread, changing voltage is a drastic and expensive measure. A 230 V distribution system will use less conductor material than a 120 V system to deliver a given amount of power because the current, and consequently the resistive loss, is lower. While large heating appliances can use smaller conductors at 230 V for the same output rating, few household appliances use anything like the full capacity of the outlet to which they are connected. Minimum wire size for hand-held or portable equipment is usually restricted by the mechanical strength of the conductors. Electrical appliances are used extensively in homes in both 230 V and 120 V system countries. National electrical codes prescribe wiring methods intended to minimize the risk of electric shock and fire.
+
+Many areas, such as the US, which use (nominally) 120 V, make use of three-wire, split-phase 240 V systems to supply large appliances. In this system a 240 V supply has a centre-tapped neutral to give two 120 V supplies which can also supply 240 V to loads connected between the two line wires. Three-phase systems can be connected to give various combinations of voltage, suitable for use by different classes of equipment. Where both single-phase and three-phase loads are served by an electrical system, the system may be labelled with both voltages such as 120/208 or 230/400 V, to show the line-to-neutral voltage and the line-to-line voltage. Large loads are connected for the higher voltage. Other three-phase voltages, up to 830 volts, are occasionally used for special-purpose systems such as oil well pumps. Large industrial motors (say, more than 250 hp or 150 kW) may operate on medium voltage. On 60 Hz systems a standard for medium voltage equipment is 2,400/4,160 V (2,300/4,000 V in the US) whereas 3,300 V is the common standard for 50 Hz systems.
+
+Standardization
+
+Until 1987, mains voltage in large parts of Europe, including Germany, Austria and Switzerland, was , while the UK used . Standard ISO IEC 60038:1983 defined the new standard European voltage to be .
+
+From 1987 onwards, a step-wise shift towards was implemented. From 2009 on, the voltage is permitted to be . No change in voltage was required by either the Central European or the UK system, as both 220 V and 240 V fall within the lower 230 V tolerance bands (230 V ±6%). Some areas of the UK still have 250 volts for legacy reasons, but these also fall within the 10% tolerance band of 230 volts. In practice, this allowed countries to have supplied the same voltage (220 or 240 V), at least until existing supply transformers are replaced. Equipment (with the exception of filament bulbs) used in these countries is designed to accept any voltage within the specified range. In the United States and Canada, national standards specify that the nominal voltage at the source should be 120 V and allow a range of 114 V to 126 V (RMS) (−5% to +5%). Historically 110 V, 115 V and 117 V have been used at different times and places in North America. Mains power is sometimes spoken of as 110 V; however, 120 V is the nominal voltage.
+
+In 2000, Australia converted to 230 V as the nominal standard with a tolerance of +10%/−6%, this superseding the old 240 V standard, AS2926-1987. As in the UK, 240 V is within the allowable limits and "240 volt" is a synonym for mains in Australian and British English. In Japan, the electrical power supply to households is at 100 V. Eastern and northern parts of Honshū (including Tokyo) and Hokkaidō have a frequency of 50 Hz, whereas western Honshū (including Nagoya, Osaka, and Hiroshima), Shikoku, Kyūshū and Okinawa operate at 60 Hz. The boundary between the two regions contains four back-to-back high-voltage direct-current (HVDC) substations which interconnect the power between the two grid systems; these are Shin Shinano, Sakuma Dam, Minami-Fukumitsu, and the Higashi-Shimizu Frequency Converter. To accommodate the difference, frequency-sensitive appliances marketed in Japan can often be switched between the two frequencies.
+
+History
+
+Main article: Electrification
+
+A 50 Hz ±5 Hz vibrating-reed mains frequency meter for 220 V
+
+The world's first public electricity supply was a water wheel driven system constructed in the small English town of Godalming in 1881. It was an alternating current (AC) system using a Siemens alternator supplying power for both street lights and consumers at two voltages, 250 V for arc lamps, and 40 V for incandescent lamps.
+
+The world's first large scale central plant—Thomas Edison’s steam powered station at Holborn Viaduct in London—started operation in January 1882, providing direct current (DC) at 110 V. The Holborn Viaduct station was used as a proof of concept for the construction of the much larger Pearl Street Station in Manhattan, the world's first permanent commercial central power plant. The Pearl Street Station also provided DC at 110 V, considered to be a "safe" voltage for consumers, beginning September 4, 1882.
+
+AC systems started appearing in the US in the mid-1880s, using higher distribution voltage stepped down via transformers to the same 110 V customer utilization voltage that Edison used. In 1883 Edison patented a three–wire distribution system to allow DC generation plants to serve a wider radius of customers to save on copper costs. By connecting two groups of 110 V lamps in series more load could be served by the same size conductors run with 220 V between them; a neutral conductor carried any imbalance of current between the two sub-circuits. AC circuits adopted the same form during the war of the currents, allowing lamps to be run at around 110 V and major appliances to be connected to 220 V. Nominal voltages gradually crept upward to 112 V and 115 V, or even 117 V. After World War II the standard voltage in the U.S. became 117 V, but many areas lagged behind even into the 1960s. In 1967 the nominal voltage rose to 120 V, but conversion of appliances was slow. Today, virtually all American homes and businesses have access to 120 and 240 V at 60 Hz. Both voltages are available on the three wires (two "hot" legs of opposite phase and one "neutral" leg).
+
+In 1899, the Berliner Elektrizitäts-Werke (BEW), a Berlin electrical utility, decided to greatly increase its distribution capacity by switching to 220 V nominal distribution, taking advantage of the higher voltage capability of newly developed metal filament lamps. The company was able to offset the cost of converting the customer's equipment by the resulting saving in distribution conductors cost. This became the model for electrical distribution in Germany and the rest of Europe and the 220 V system became common. North American practice remained with voltages near 110 V for lamps.
+
+In the first decade after the introduction of alternating current in the US (from the early 1880s to about 1893) a variety of different frequencies were used, with each electric provider setting their own, so that no single one prevailed. The most common frequency was 133⅓ Hz. The rotation speed of induction generators and motors, the efficiency of transformers, and flickering of carbon arc lamps all played a role in frequency setting. Around 1893 the Westinghouse Electric Company in the United States and AEG in Germany decided to standardize their generation equipment on 60 Hz and 50 Hz respectively, eventually leading to most of the world being supplied at one of these two frequencies. Today most 60 Hz systems deliver nominal 120/240 V, and most 50 Hz nominally 230 V. The significant exceptions are in Brazil, which has a synchronized 60 Hz grid with both 127 V and 220 V as standard voltages in different regions, and Japan, which has two frequencies: 50 Hz for East Japan and 60 Hz for West Japan.
+
+See also: Utility frequency
+
+Voltage regulation
+
+To maintain the voltage at the customer's service within the acceptable range, electrical distribution utilities use regulating equipment at electrical substations or along the distribution line. At a substation, the step-down transformer will have an automatic on-load tap changer, allowing the ratio between transmission voltage and distribution voltage to be adjusted in steps. For long (several kilometres) rural distribution circuits, automatic voltage regulators may be mounted on poles of the distribution line. These are autotransformers, again, with on-load tapchangers to adjust the ratio depending on the observed voltage changes. At each customer's service, the step-down transformer has up to five taps to allow some range of adjustment, usually ±5% of the nominal voltage. Since these taps are not automatically controlled, they are used only to adjust the long-term average voltage at the service and not to regulate the voltage seen by the utility customer.
+
+Power quality
+
+Main article: Power quality
+
+The stability of the voltage and frequency supplied to customers varies among countries and regions. "Power quality" is a term describing the degree of deviation from the nominal supply voltage and frequency. Short-term surges and drop-outs affect sensitive electronic equipment such as computers and flat panel displays. Longer-term power outages, brown-outs and black outs and low reliability of supply generally increase costs to customers, who may have to invest in uninterruptible power supply or stand-by generator sets to provide power when the utility supply is unavailable or unusable. Erratic power supply may be a severe economic handicap to businesses and public services which rely on electrical machinery, illumination, climate control and computers. Even the best quality power system may have breakdowns or require servicing. As such, companies, governments and other organizations sometimes have backup generators at sensitive facilities, to ensure that power will be available even in the event of a power outage or black out.
+
+Power quality can also be affected by distortions of the current or voltage waveform in the form of harmonics of the fundamental (supply) frequency, or non-harmonic (inter)modulation distortion such as that caused by RFI or EMI interference. In contrast, harmonic distortion is usually caused by conditions of the load or generator. In multi-phase power, phase shift distortions caused by imbalanced loads can occur.
+
+See also
+
+Energy portal
+
+Energy meter
+
+References
+
+^ "Access to electricity (% of population)". Data. The World Bank. Retrieved 5 October 2019.
+
+^ , How is electricity used in U.S. homes?, US Energy Information Administration, 21 April 2015, (retrieved 26 July 2015)
+
+^ , The Future of Electricity in Domestic Buildings – a review, Andrew Williams, 28 November 2015, (retrieved 26 July 2015)
+
+^ Electrical Inspection Manual, 2011 Edition], Noel Williams & Jeffrey S Sargent, Jones & Bartlett Publishers, 2012, p.249 (retrieved 3 March 2013 from Google Books)
+
+^ 17th Edition IEE Wiring Regulations: Explained and Illustrated], Brian Scaddan, Routledge, 2011, p.18 (retrieved 6 March 2013 from Google Books)
+
+^ IEC-phase
+
+^ IEC-Neutral
+
+^ IEC-PE
+
+^ Halliday, Chris; Urquhart, Dave. "Voltage and Equipment Standard Misalignment" (PDF). powerlogic.com. Archived from the original (PDF) on 11 March 2018. Retrieved 14 March 2014.
+
+^ https://www.ashleyedisonuk.com/world-voltages/middle-east/voltage-saudi-arabia-994/
+
+^ CENELEC Harmonisation Document HD 472 S1:1988
+
+^ British Standard BS 7697: Nominal voltages for low voltage public electricity supply systems – (Implementation of HD 472 S1)
+
+^ ANSI C84.1: American National Standard for Electric Power Systems and Equipment – Voltage Ratings (60 Hertz) Archived 27 July 2007 at the Wayback Machine, NEMA (costs $95 for access)
+
+^ "Voltage Tolerance Boundary" (PDF). PG&E. 1 January 1999. Archived (PDF) from the original on 10 November 2019. Retrieved 22 November 2019.
+
+^ CSA CAN3-C235-83: Preferred Voltage Levels for AC Systems, 0 to 50 000 V
+
+^ Hossain, J.; Mahmud, A. (29 January 2014). Renewable Energy Integration: Challenges and Solutions. Springer. p. 71. ISBN 978-9814585279. Retrieved 13 January 2018.
+
+^ "Godalming: Electricity". Exploring Surrey's Past. Surrey County Council. Retrieved 6 December 2017.
+
+^ Electricity Supply in the United Kingdom (PDF), The Electricity Council, 1987, archived from the original on 1 April 2017CS1 maint: BOT: original-url status unknown (link)
+
+^ "Milestones:Pearl Street Station, 1882". Engineering and Technology History Wiki. United Engineering Foundation. Retrieved 6 December 2017.
+
+^ Thomas P. Hughes, Networks of Power: Electrification in Western Society 1880–1930, The Johns Hopkins University Press,Baltimore 1983 ISBN 0-8018-2873-2 p. 193

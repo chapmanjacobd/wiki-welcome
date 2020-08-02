@@ -1,0 +1,536 @@
+"11th-century survey of landholding in England as well as the surviving manuscripts of the survey
+
+For the 1992 science fiction novel, see Doomsday Book (novel).
+
+"Domesday" redirects here. For other uses, see Domesday (disambiguation).
+
+Domesday Book
+
+The National Archives, Kew, London
+
+Domesday Book: an engraving published in 1900. Great Domesday (the larger volume) and Little Domesday (the smaller volume), in their 1869 bindings, lie on their older "Tudor" bindings.
+
+Also known as The Great Survey; Liber de Wintonia
+
+Date 1086
+
+Place of origin England
+
+Language(s) Medieval Latin
+
+Domesday Book (/ˈduːmzdeɪ/ or US: /ˈdoʊmzdeɪ/; Latin: Liber de Wintonia "Book of Winchester") is a manuscript record of the "Great Survey" of much of England and parts of Wales completed in 1086 by order of King William the Conqueror. The Anglo-Saxon Chronicle states:
+
+Then, at the midwinter , was the king in Gloucester with his council ... . After this had the king a large meeting, and very deep consultation with his council, about this land; how it was occupied, and by what sort of men. Then sent he his men over all England into each shire; commissioning them to find out "How many hundreds of hides were in the shire, what land the king himself had, and what stock upon the land; or, what dues he ought to have by the year from the shire."
+
+Written in Medieval Latin, it was highly abbreviated and included some vernacular native terms without Latin equivalents. The survey's main purpose was to determine what taxes had been owed during the reign of King Edward the Confessor, thereby allowing William to reassert the rights of the Crown and assess where power lay after a wholesale redistribution of land following the Norman conquest.
+
+The assessors' reckoning of a man's holdings and their values, as recorded in Domesday Book, was dispositive and without appeal. The name "Domesday Book" (Middle English for "Doomsday Book") came into use in the 12th century. As Richard FitzNeal wrote in the Dialogus de Scaccario (circa 1179):
+
+for as the sentence of that strict and terrible last account cannot be evaded by any skilful subterfuge, so when this book is appealed to ... its sentence cannot be quashed or set aside with impunity. That is why we have called the book "the Book of Judgement" ... because its decisions, like those of the Last Judgement, are unalterable.
+
+The manuscript is held at The National Archives at Kew, London. In 2011, the Open Domesday site made the manuscript available online.
+
+The book is an invaluable primary source for modern historians and historical economists. No survey approaching the scope and extent of Domesday Book was attempted again in Britain until the 1873 Return of Owners of Land (sometimes termed the "Modern Domesday") which presented the first complete, post-Domesday picture of the distribution of landed property in the land that made up the then United Kingdom.
+
+Contents
+
+1 Content and organisation
+
+2 Similar works
+
+3 Name
+
+4 Survey
+
+5 Purpose
+
+6 Subsequent history
+
+6.1 Custodial history
+
+6.2 Binding
+
+6.3 Publication
+
+7 Importance
+
+8 See also
+
+9 Notes
+
+10 Bibliography
+
+11 Further reading
+
+12 External links
+
+Content and organisation
+
+A page of Domesday Book for Warwickshire
+
+Great Domesday in its "Tudor" binding: a wood-engraving of the 1860s
+
+Domesday Book encompasses two independent works (in, originally, two physical volumes): "Little Domesday" (covering Norfolk, Suffolk, and Essex), and "Great Domesday" (covering much of the remainder of England – except for lands in the north that later became Westmorland, Cumberland, Northumberland, and the County Palatine of Durham – and parts of Wales bordering, and included within, English counties). No surveys were made of the City of London, Winchester, or some other towns, probably due to their tax-exempt status. Other areas of modern London were then in Middlesex, Kent, Essex, etc., and are included in Domesday Book. Most of Cumberland and Westmorland are missing. County Durham is missing because the Bishop of Durham (William de St-Calais) had the exclusive right to tax it; in addition, parts of north-east England were covered by the 1183 Boldon Book, listing areas liable to tax by the Bishop of Durham. The omission of the other counties and towns is not fully explained, although in particular Cumberland and Westmorland were not yet fully conquered.
+
+"Little Domesday" – so named because its format is physically smaller than its companion's – is the more detailed survey, down to numbers of livestock. It may have represented the first attempt, resulting in a decision to avoid such level of detail in "Great Domesday".
+
+Both volumes are organised into a series of chapters (literally "headings", from Latin caput, "a head") listing the fees (knight's fees or fiefs, broadly identical to manors), held by a named tenant-in-chief of the king (who formed the highest stratum of Norman feudal society below the king), namely religious institutions, bishops, Norman warrior magnates and a few Saxon thegns who had made peace with the Norman regime. Some of the largest such magnates held several hundred fees, in a few cases in more than one county. For example, the section of the Devonshire chapter concerning Baldwin the Sheriff lists one hundred seventy-six holdings held in-chief by him. Only a few of the holdings of the large magnates were held in demesne, most having been subinfeudated to knights, generally military followers of the tenant-in-chief (often his feudal tenants from Normandy), who thereby became their overlord. The fees listed within the chapter concerning a particular tenant-in-chief were usually ordered, but not in a systematic or rigorous fashion, by the Hundred Court under the jurisdiction of which they were situated, not by geographic location. As a review of taxes owed, it was highly unpopular.
+
+HIC ANNOTANTUR TENENTES TERRAS IN DEVENESCIRE ("Here are noted (those) holding lands in Devonshire"). Detail from Domesday Book, list forming part of the first page of king's holdings. There are fifty-three entries, including the first entry for the king himself followed by the Devon Domesday Book tenants-in-chief. Each name has its own chapter to follow.
+
+Each county's list opened with the king's demesne lands, which had possibly been the subject of separate inquiry. Under the feudal system, the king was the only true "owner" of land in England, by virtue of his allodial title. He was thus the ultimate overlord, and even the greatest magnate could do no more than "hold" land from him as a tenant (from the Latin verb tenere, "to hold") under one of the various contracts of feudal land tenure. Holdings of bishops followed, then of the abbeys and s, then of lay tenants-in-chief and lastly the king's serjeants (servientes), and Saxon thegns who had survived the Conquest, all in hierarchical order.
+
+In some counties, one or more principal towns formed the subject of a separate section: in some the clamores (disputed titles to land) were also treated separately. This principle applies more especially to the larger volume: in the smaller one, the system is more confused, the execution less perfect.
+
+Domesday names a total of 13,418 places. Apart from the wholly rural portions, which constitute its bulk, Domesday contains entries of interest concerning most of the towns, which were probably made because of their bearing on the fiscal rights of the crown therein. These include fragments of custumals (older customary agreements), records of the military service due, of markets, mints, and so forth. From the towns, from the counties as wholes, and from many of its ancient lordships, the crown was entitled to archaic dues in kind, such as honey.
+
+According to the Domesday Book, over ten percent of England's population in 1086 were slaves.
+
+Similar works
+
+In a parallel development, around 1100 the Normans in southern Italy completed their Catalogus Baronum based on Domesday Book. The original manuscript was destroyed in the Second World War, but printed copies survive.
+
+Name
+
+The manuscripts do not carry a formal title. The work is referred to internally as a descriptio (enrolling), and in other early administrative contexts as the king's brevia (writings). From about 1100, references appear to the liber (book) or carta (charter) of Winchester, its usual place of custody; and from the mid-12th to early 13th centuries, to the Winchester or king's rotulus (roll).
+
+To the English, who held the book in awe, it became known as "Domesday Book", in allusion to the Last Judgement and in specific reference to the definitive character of the record. The word "doom" was the usual Old English term for a law or judgment; it did not carry the modern overtones of fatality or disaster. Richard FitzNeal, treasurer of England under Henry II, explained the name's connotations in detail in the Dialogus de Scaccario (c.1179):
+
+The book is metaphorically called by the native English, Domesday, i.e., the Day of Judgement. For as the sentence of that strict and terrible last account cannot be evaded by any skilful subterfuge, so when this book is appealed to on those matters which it contains, its sentence cannot be quashed or set aside with impunity. That is why we have called the book "the Book of Judgement", ... not because it contains decisions on various difficult points, but because its decisions, like those of the Last Judgement, are unalterable.
+
+The name "Domesday" was subsequently adopted by the book's custodians, being first found in an official document in 1221.
+
+Either through false etymology or deliberate word play, the name also came to be associated with the Latin phrase Domus Dei ("House of God"). Such a reference is found as early as the late 13th century, in the writings of Adam of Damerham; and in the 16th and 17th centuries, antiquaries such as John Stow and Sir Richard Baker believed this was the name's origin, alluding to the church in Winchester in which the book had been kept. As a result, the alternative spelling "Domesdei" became popular for a while.
+
+The usual modern scholarly convention is to refer to the work as "Domesday Book" (or simply as "Domesday"), without a definite article. However, the form "the Domesday Book" is also found in both academic and non-academic contexts.
+
+Survey
+
+Domesday Counties showing Little and Great Domesday areas and circuits
+
+The Anglo-Saxon Chronicle states that planning for the survey was conducted in 1085, and the book's colophon states the survey was completed in 1086. It is not known when exactly Domesday Book was compiled, but the entire copy of Great Domesday appears to have been copied out by one person on parchment (prepared sheepskin), although six scribes seem to have been used for Little Domesday. Writing in 2000, David Roffe argued that the inquest (survey) and the construction of the book were two distinct exercises. He believes the latter was completed, if not started, by William II following his assumption of the English throne; William II quashed a rebellion that followed and was based on, though not consequent on, the findings of the inquest.
+
+Most shires were visited by a group of royal officers (legati), who held a public inquiry, probably in the great assembly known as the shire court. These were attended by representatives of every township as well as of the local lords. The unit of inquiry was the Hundred (a subdivision of the county, which then was an administrative entity). The return for each Hundred was sworn to by 12 local jurors, half of them English and half of them Norman.
+
+What is believed to be a full transcript of these original returns is preserved for several of the Cambridgeshire Hundreds – the Cambridge Inquisition – and is of great illustrative importance. The Inquisitio Eliensis is a record of the lands of Ely Abbey. The Exon Domesday (named because the volume was held at Exeter) covers Cornwall, Devon, Dorset, Somerset, and one manor of Wiltshire. Parts of Devon, Dorset, and Somerset are also missing. Otherwise, this contains the full details supplied by the original returns.
+
+Through comparison of what details are recorded in which counties, six Great Domesday "circuits" can be determined (plus a seventh circuit for the Little Domesday shires).
+
+Berkshire, Hampshire, Kent, Surrey, Sussex
+
+Cornwall, Devon, Dorset, Somerset, Wiltshire (Exon Domesday)
+
+Bedfordshire, Buckinghamshire, Cambridgeshire, Hertfordshire, Middlesex
+
+Leicestershire, Northamptonshire, Oxfordshire, Staffordshire, Warwickshire
+
+Cheshire, Gloucestershire, Herefordshire, Shropshire, Worcestershire – the Marches
+
+Derbyshire, Huntingdonshire, Lincolnshire, Nottinghamshire, Yorkshire
+
+Purpose
+
+Three sources discuss the goal of the survey:
+
+The Anglo-Saxon Chronicle tells why it was ordered:
+
+After this had the king a large meeting, and very deep consultation with his council, about this land; how it was occupied, and by what sort of men. Then sent he his men over all England into each shire; commissioning them to find out 'How many hundreds of hides were in the shire, what land the king himself had, and what stock upon the land; or, what dues he ought to have by the year from the shire.' Also he commissioned them to record in writing, 'How much land his archbishops had, and his diocesan bishops, and his abbots, and his earls;' and though I may be prolix and tedious, 'What, or how much, each man had, who was an occupier of land in England, either in land or in stock, and how much money it was worth.' So very narrowly, indeed, did he commission them to trace it out, that there was not one single hide, nor a yard of land, nay, moreover (it is shameful to tell, though he thought it no shame to do it), not even an ox, nor a cow, nor a swine was there left, that was not set down in his writ. And all the recorded particulars were afterwards brought to him.
+
+The list of questions asked of the jurors was recorded in the Inquisitio Eliensis.
+
+The contents of Domesday Book and the allied records mentioned above.
+
+The primary purpose of the survey was to ascertain and record the fiscal rights of the king. These were mainly:
+
+the national land-tax (geldum), paid on a fixed assessment,
+
+certain miscellaneous dues, and
+
+the proceeds of the crown lands.
+
+After a great political convulsion such as the Norman conquest, and the following wholesale confiscation of landed estates, William needed to reassert that the rights of the Crown, which he claimed to have inherited, had not suffered in the process. His Norman followers tended to evade the liabilities of their English predecessors. The successful trial of Odo de Bayeux at Penenden Heath near Maidstone in Kent less than a decade after the conquest was one example of the Crown's growing discontent at the Norman land-grab of the years following the invasion. Historians believe the survey was to aid William in establishing certainty and a definitive reference point as to property holdings across the nation, in case such evidence was needed in disputes over Crown ownership.
+
+The Domesday survey, therefore, recorded the names of the new holders of lands and the assessments on which their tax was to be paid. But it did more than this; by the king's instructions, it endeavoured to make a national valuation list, estimating the annual value of all the land in the country, (1) at the time of Edward the Confessor's death, (2) when the new owners received it, (3) at the time of the survey, and further, it reckoned, by command, the potential value as well. It is evident that William desired to know the financial resources of his kingdom, and it is probable that he wished to compare them with the existing assessment, which was one of considerable antiquity, though there are traces that it had been occasionally modified. The great bulk of Domesday Book is devoted to the somewhat arid details of the assessment and valuation of rural estates, which were as yet the only important source of national wealth. After stating the assessment of the manor, the record sets forth the amount of arable land, and the number of plough teams (each reckoned at eight oxen) available for working it, with the additional number (if any) that might be employed; then the river-meadows, woodland, pasture, fisheries (i.e. fishing weirs), water-mills, salt-pans (if by the sea) and other subsidiary sources of revenue; the peasants are enumerated in their several classes; and finally the annual value of the whole, past and present, is roughly estimated.
+
+The organisation of the returns on a feudal basis, enabled the Conqueror and his officers to see the extent of a baron's possessions; and it also showed to what extent he had under-tenants and the identities of the under-tenants. This was of great importance to William, not only for military reasons but also because of his resolve to command the personal loyalty of the under-tenants (though the "men" of their lords) by making them swear allegiance to himself. As Domesday Book normally records only the Christian name of an under-tenant, it is not possible to search for the surnames of families claiming a Norman origin. Scholars, however, have worked to identify the under-tenants, most of whom have foreign Christian names.
+
+The survey provided the King with information on potential sources of funds when he needed to raise money. It includes sources of income but not expenses, such as castles, unless they needed to be included to explain discrepancies between pre-and post-Conquest holdings of individuals. Typically, this happened in a town, where separately-recorded properties had been demolished to make way for a castle.
+
+Subsequent history
+
+Domesday chest, the German-style iron-bound chest of c.1500 in which Domesday Book was kept in the 17th and 18th centuries
+
+Custodial history
+
+Domesday Book was preserved from the late 11th to the beginning of the 13th centuries in the royal Treasury at Winchester (the Norman kings' capital). It was often referred to as the "Book" or "Roll" of Winchester. When the Treasury moved to the Palace of Westminster, probably under King John, the book went with it. In the Middle Ages, the Book's evidence was frequently invoked in the law-courts. As recently as the 1960s, it was still referred to in court cases regarding ancient land and property rights.
+
+The two volumes (Great Domesday and Little Domesday) remained in Westminster until the 19th century, being held at different times in various offices of the Exchequer (the Chapel of the Pyx of Westminster Abbey; the Treasury of Receipts; and the Tally Court). On many occasions, however, the books were taken around the country with the Exchequer: for example to York and Lincoln in 1300, to York again in 1303 and 1319, to Hertford in the 1580s or 1590s, and to Nonsuch Palace, Surrey, in 1666, following the Great Fire of London.
+
+From the 1740s onwards they were held, with other Exchequer records, in the Chapter House of Westminster Abbey. In 1859 they were placed in the new Public Record Office, London. They are now held at The National Archives at Kew. The ancient Domesday chest, in which they were kept in the 17th and 18th centuries, is also preserved at Kew.
+
+In modern times, the books have been removed from London on only a few exceptional occasions. In 1861–63 they were sent to Southampton for photozincographic reproduction; in 1918–19, during World War I, they were evacuated (with other Public Record Office documents) to Bodmin Prison, Cornwall; and similarly in 1939–45, during World War II, they were evacuated to Shepton Mallet Prison, Somerset.
+
+Binding
+
+The volumes have been rebound on several occasions. Little Domesday was rebound in 1320, its older oak boards being re-used. At a later date (probably in the Tudor period) both volumes were given new covers. They were rebound twice in the 19th century, in 1819 and 1869, on the second occasion by the binder Robert Riviere. In the 20th century, they were rebound in 1952, when their physical makeup was examined in greater detail; and yet again in 1986 for the survey's ninth centenary. On this last occasion Great Domesday was divided into two physical volumes, and Little Domesday into three volumes.
+
+Publication
+
+Main article: Publication of Domesday Book
+
+Entries for Croydon and Cheam, Surrey, in the 1783 edition of Domesday Book
+
+The project to publish Domesday was begun by the government in 1773, and the book appeared in two volumes in 1783, set in "record type" to produce a partial-facsimile of the manuscript. In 1811, a volume of indexes was added. In 1816 a supplementary volume, separately indexed, was published containing
+
+The Exon Domesday – for the south-western counties
+
+The Inquisitio Eliensis
+
+The Liber Winton – surveys of Winchester late in the 12th century.
+
+The Boldon Buke – a survey of the bishopric of Durham a century later than Domesday
+
+Photographic facsimiles of Domesday Book, for each county separately, were published in 1861–1863, also by the government. Today, Domesday Book is available in numerous editions, usually separated by county and available with other local history resources.
+
+In 1986, the BBC released the BBC Domesday Project, the results of a project to create a survey to mark the 900th anniversary of the original Domesday Book. In August 2006 the contents of Domesday went online, with an English translation of the book's Latin. Visitors to the website are able to look up a place name and see the index entry made for the manor, town, city or village. They can also, for a fee, download the relevant page.
+
+Importance
+
+In 1986, memorial plaques were installed in settlements mentioned in Domesday Book
+
+Domesday Book is critical to understanding the period in which it was written. As H. C. Darby noted, anyone who uses it
+
+can have nothing but admiration for what is the oldest 'public record' in England and probably the most remarkable statistical document in the history of Europe. The continent has no document to compare with this detailed description covering so great a stretch of territory. And the geographer, as he turns over the folios, with their details of population and of arable, woodland, meadow and other resources, cannot but be excited at the vast amount of information that passes before his eyes.
+
+The author of the article on the book in the eleventh edition of the Encyclopædia Britannica noted, "To the topographer, as to the genealogist, its evidence is of primary importance, as it not only contains the earliest survey of each township or manor, but affords, in the majority of cases, a clue to its subsequent descent."
+
+Darby also notes the inconsistencies, saying that "when this great wealth of data is examined more closely, perplexities and difficulties arise." One problem is that the clerks who compiled this document "were but human; they were frequently forgetful or confused." The use of Roman numerals also led to countless mistakes. Darby states, "Anyone who attempts an arithmetical exercise in Roman numerals soon sees something of the difficulties that faced the clerks." But more important are the numerous obvious omissions, and ambiguities in presentation. Darby first cites F. W. Maitland's comment following his compilation of a table of statistics from material taken from the Domesday Book survey, "it will be remembered that, as matters now stand, two men not unskilled in Domesday might add up the number of hides in a county and arrive at very different results because they would hold different opinions as to the meanings of certain formulas which are not uncommon." Darby says that "it would be more correct to speak not of 'the Domesday geography of England', but of 'the geography of Domesday Book'. The two may not be quite the same thing, and how near the record was to reality we can never know."
+
+See also
+
+BBC Domesday Project
+
+Cestui que
+
+Medieval demography
+
+Photozincography of Domesday Book
+
+Publication of Domesday Book
+
+Quia Emptores – English statute
+
+Return of Owners of Land, 1873
+
+Taxatio – Valuation for ecclesiastical taxation of English, Welsh, and Irish parish churches and prebends
+
+Notes
+
+^ "Domesday Book". Merriam-Webster Online.
+
+^ "Domesday Book". Dictionary.com.
+
+^ a b "The Anglo-Saxon Chronicle". Translated by Giles, J. A.; Ingram, J. Project Gutenberg. 1996. Retrieved 6 November 2016.
+
+^ Note: One common abbreviation was TRE, short for the Latin Tempore Regis Eduardi, "in the time of King Edward (the Confessor)", meaning the period immediately before the Norman conquest
+
+^ Emerson, Ralph Waldo & Burkholder, Robert E. (Notes) (1971). The Collected Works of Ralph Waldo Emerson: English Traits. 5. Harvard University Press. p. 250. ISBN 978-0674139923.
+
+^ Johnson, C., ed. (1950). Dialogus de Scaccario, the Course of the Exchequer, and Constitutio Domus Regis, the King's Household. London. p. 64.
+
+^ Cellan-Jones, Rory (13 May 2011). "Domesday Reloaded project: The 1086 version". BBC News.
+
+^ Hoskins, W.G. (1954). A New Survey of England. Devon, London. p. 87.
+
+^ Return of Owners of Land, 1873, Wales, Scotland, Ireland. 1873. Archived from the original on 10 September 2012. Retrieved 15 April 2013.
+
+^ "Hull Domesday Project: Wales". Retrieved 14 February 2019.
+
+^ Palmer, Alan (1976). Kings and Queens of England. Great Britain: Octopus Books Limited. p. 15. ISBN 0706405420.
+
+^ "The Domesday Book". History Magazine. Moorshead Magazines. October 2001. Retrieved 10 September 2019.
+
+^ Davis, David Brion (1970). The Problem of Slavery in Western Culture. Pelican Books. p. 53.
+
+^ a b Hallam 1986, pp. 34–35.
+
+^ Harvey 2014, pp. 7–9.
+
+^ Harvey 2014, pp. 271–328.
+
+^ Harvey 2014, p. 271.
+
+^ Johnson, C., ed. (1950). Dialogus de Scaccario, the Course of the Exchequer, and Constitutio Domus Regis, the King's Household. London. pp. 63–64.
+
+^ Hallam 1986, p. 35.
+
+^ Hallam 1986, p. 34.
+
+^ Harvey 2014, pp. 18–19.
+
+^ "The Domesday Book Online". Retrieved 7 December 2018.
+
+^ Roffe, David (2000). Domesday; The Inquest and The Book. Oxford University Press. pp. 224–49.
+
+^ "Inquisitio Eliensis". Domesday Explorer. Archived from the original on 26 May 2011. Retrieved 24 April 2010.
+
+^ Cooper, Alan (2001). "Extraordinary privilege: the trial of Penenden Heath and the Domesday inquest". English Historical Review. 116 (469): 1167–92. doi:10.1093/ehr/116.469.1167.
+
+^ Foundation, Internet Memory. " UK Government Web Archive – The National Archives". webarchive.nationalarchives.gov.uk. Archived from the original on 5 January 2016. Retrieved 10 January 2017.
+
+^ Earl Ivey v Martin  1 Q.B. 232
+
+^ Hallam 1986, p. 55.
+
+^ Hallam 1986, pp. 55–56.
+
+^ Hallam 1986, pp. 133–34.
+
+^ Hallam 1986, pp. 150–52.
+
+^ Hallam 1986, pp. 155–56.
+
+^ Hallam 1986, pp. 167–69.
+
+^ Cantwell, John D. (1991). The Public Record Office, 1838–1958. London: HMSO. pp. 379, 428–30. ISBN 0114402248.
+
+^ Hallam 1986, pp. 29, 150–51, 157–61, 170–72.
+
+^ Forde, Helen (1986). Domesday Preserved. London: Public Record Office. ISBN 0-11-440203-5.
+
+^ Darby, Domesday England (Cambridge: University Press, 1977), p. 12
+
+^ a b c Darby, Domesday England, p. 13
+
+^ Maitland, Domesday Book and Beyond (Cambridge, 1897), p. 407
+
+Bibliography
+
+Darby, Henry C. (1977). Domesday England. Cambridge: Cambridge University Press. ISBN 0-521-31026-1.
+
+Domesday Book: A Complete Translation. London: Penguin. 2003. ISBN 0-14-143994-7.
+
+1911 Encyclopædia Britannica: "Domesday Book" at Wikisource
+
+Hallam, Elizabeth M. (1986). Domesday Book through Nine Centuries. London: Thames & Hudson. ISBN 0500250979.
+
+Harvey, Sally (2014). Domesday: Book of Judgement. Oxford: Oxford University Press. ISBN 978-0-19-966978-3.
+
+Holt, J. C. (1987). Domesday Studies. Woodbridge, Suffolk: The Boydell Press. ISBN 0-85115-263-5.
+
+Keats-Rohan, Katherine S. B. (1999). Domesday People: A Prosopography of Persons Occurring in English Documents, 1066–1166 (2v). Woodbridge, Suffolk: Boydell Press.
+
+Lennard, Reginald (1959). Rural England 1086–1135: A Study of Social and Agrarian Conditions. Oxford: Oxford University Press. ISBN 0-19-821272-0.
+
+Maitland, F. W. (1988). Domesday Book and Beyond. Cambridge: Cambridge University Press. ISBN 0-521-34918-4.
+
+Roffe, David (2000). Domesday: The Inquest and The Book. Oxford: Oxford University Press. ISBN 0-19-820847-2.
+
+Roffe, David (2007). Decoding Domesday. Woodbridge, Suffolk: The Boydell Press. ISBN 978-1-84383-307-9.
+
+Roffe, David; Keats-Rohan, Katharine (2016). Domesday Now: New Approaches to the Inquest and the Book. Woodbridge, Suffolk: The Boydell Press. ISBN 978-1-78327-088-0.
+
+Vinogradoff, Paul (1908). English Society in the Eleventh Century. Oxford: Clarendon Press.
+
+Wood, Michael (2005). The Domesday Quest: In Search of the Roots of England. London: BBC Books. ISBN 0-563-52274-7.
+
+Further reading
+
+"Phillimore series", published by Phillimore & Co. Ltd., of Shopwyke Hall, Chichester, Sussex; one pair of volumes or "parts" for each county (Part 1: Latin text and translation; Part 2: notes). Example: Thorn, C. et al. (eds.) (1979) Cornwall. Chichester: Phillimore.
+
+Bates, David (1985). A Bibliography of Domesday Book. Woodbridge: Boydell. ISBN 0-85115-433-6.
+
+Bridbury, A. R. (1990). "Domesday Book: a re-interpretation". English Historical Review. 105: 284–309. doi:10.1093/ehr/cv.ccccxv.284.
+
+Darby, Henry C. (2003). The Domesday Geography of Eastern England. Domesday Geography of England. 1 (revised 3rd ed.). Cambridge: Cambridge University Press. ISBN 0521893968.
+
+Darby, Henry C.; Terrett, I. B., eds. (1971). The Domesday Geography of Midland England. Domesday Geography of England. 2 (2nd ed.). Cambridge: Cambridge University Press. ISBN 0521080789.
+
+Darby, Henry C.; Campbell, Eila M. J., eds. (1961). The Domesday Geography of South-East England. Domesday Geography of England. 3. Cambridge: Cambridge University Press. ISBN 0521047706.
+
+Darby, Henry C.; Maxwell, I. S., eds. (1977). The Domesday Geography of Northern England. Domesday Geography of England. 4 (corrected ed.). Cambridge: Cambridge University Press. ISBN 0521047730.
+
+Darby, Henry C.; Finn, R. Welldon, eds. (1979). The Domesday Geography of South West England. Domesday Geography of England. 5 (corrected ed.). Cambridge: Cambridge University Press. ISBN 0521047714.
+
+Finn, R. Welldon (1973). Domesday Book: a guide. London: Phillimore. ISBN 0-85033-101-3.
+
+Snooks, Graeme D.; McDonald, John (1986). Domesday Economy: a new approach to Anglo-Norman history. Oxford: Clarendon Press. ISBN 0-19-828524-8.
+
+Hamshere, J. D. (1987). "Regressing Domesday Book: tax assessments of Domesday England". Economic History Review. n.s. 40 (2): 247–51. doi:10.2307/2596690. JSTOR 2596690.
+
+Leaver, R. A. (1988). "Five hides in ten counties: a contribution to the Domesday regression debate". Economic History Review. n.s. 41 (4): 525–42. doi:10.2307/2596600. JSTOR 2596600.
+
+McDonald, John; Snooks, G. D. (1985). "Were the tax assessments of Domesday England artificial?: the case of Essex". Economic History Review. n.s. 38 (3): 352–72. doi:10.2307/2596992. JSTOR 2596992.
+
+Sawyer, Peter, ed. (1985). Domesday Book: a reassessment. London: Edward Arnold. ISBN 0713164409.
+
+External links
+
+ Wikisource has original text related to this article:
+Domesday survey
+
+ Wikimedia Commons has media related to Domesday Book.
+
+Commercial Site selling Domesday Book on The National Archives website, home of Domesday Book.
+
+Online Edition of Domesday Book, housed on The National Archive website. Searchable; downloads are charged.
+
+Searchable index of landholders in 1066 and 1087, Prosopography of Anglo-Saxon England (PASE) project.
+
+Focus on Domesday, from Learning Curve. Annotated sample page.
+
+Secrets of the Norman Invasion Domesday analysis of wasted manors.
+
+Domesday Book place-name forms – All the original spellings of English place-names in Domesday Book (link to PDF file).
+
+Commercial site with extracts from Domesday Book Domesday Book entries including translations for each settlement.
+
+Open Domesday Interactive map, listing details of each manor or holdings of each tenant, plus high-resolution images of the original manuscript. Site by Anna Powell-Smith, Domesday data created by Professor J.J.N. Palmer, University of Hull.
+
+In Our Time – "the Domesday Book". BBC Radio 4 program available on iPlayer
+
+Domesday Book and Cambridgeshire
+
+v
+
+t
+
+e
+
+Norman conquest of England
+
+Leaders 
+William the Conqueror
+
+Harold Godwinson
+
+Harald Hardrada
+
+Sweyn II of Denmark
+
+Battles 
+Battle of Fulford
+
+Battle of Stamford Bridge
+
+Battle of Hastings
+
+Combatants 
+Gyrth Godwinson
+
+Odo of Bayeux
+
+Leofwine Godwinson
+
+Hereward the Wake
+
+Edwin
+
+Morcar
+
+Tostig
+
+Waltheof
+
+Eustace of Boulogne
+
+Eadric the Wild
+
+Robert of Mortain
+
+Ralph de Gael
+
+Roger de Breteuil
+
+Companions of William the Conqueror
+
+Associated people 
+Edward the Confessor
+
+Stigand
+
+Edith the Fair
+
+Edgar Ætheling
+
+Ealdred
+
+Malcolm III of Scotland
+
+Matilda of Flanders
+
+Locations 
+Battle Abbey
+
+Battle, East Sussex
+
+Pevensey
+
+Tower of London
+
+Events 
+Harrying of the North
+
+Revolt of the Earls
+
+Council of London
+
+Trial of Penenden Heath
+
+Miscellaneous 
+Bayeux Tapestry
+
+Domesday Book
+
+Carmen de Hastingae Proelio
+
+William of Poitiers
+
+v
+
+t
+
+e
+
+Taxation in medieval England
+
+Carucage
+
+Boldon Book
+
+Domesday Book
+
+Tallage
+
+Taxatio Ecclesiastica
+
+Thelony
+
+Benevolence
+
+Exchequer of the Jews
+
+Murage
+
+Nomina Villarum
+
+Pavage
+
+Pontage
+
+Saladin tithe
+
+Scot and lot
+
+Scutage
+
+Subsidy roll
+
+Authority control 
+GND: 4150402-1
+
+LCCN: n81063021
+
+VIAF: 174988839
+
+ WorldCat Identities (via VIAF): 174988839

@@ -1,0 +1,677 @@
+"Group of bacteria that do not retain the crystal violet stain used in the Gram staining method of bacterial differentiation
+
+Microscopic image of gram-negative Pseudomonas aeruginosa bacteria (pink-red rods)
+
+Gram-negative bacteria are bacteria that do not retain the crystal violet stain used in the Gram staining method of bacterial differentiation. They are characterized by their cell envelopes, which are composed of a thin peptidoglycan cell wall sandwiched between an inner cytoplasmic cell membrane and a bacterial outer membrane.
+
+Gram-negative bacteria are found everywhere, in virtually all environments on Earth that support life. The gram-negative bacteria include the model organism Escherichia coli, as well as many pathogenic bacteria, such as Pseudomonas aeruginosa, Chlamydia trachomatis, and Yersinia pestis. They are an important medical challenge, as their outer membrane protects them from many antibiotics (including penicillin); detergents that would normally damage the peptidoglycans of the (inner) cell membrane; and lysozyme, an antimicrobial enzyme produced by animals that forms part of the innate immune system. Additionally, the outer leaflet of this membrane comprises a complex lipopolysaccharide (LPS) whose lipid A component can cause a toxic reaction when these bacteria are lysed by immune cells. This toxic reaction can include fever, an increased respiratory rate, and low blood pressure — a life-threatening condition known as septic shock.
+
+Several classes of antibiotics have been designed to target gram-negative bacteria, including aminopenicillins, ureidopenicillins, cephalosporins, beta-lactam-betalactamase combinations (e.g. pipercillin-tazobactam), Folate antagonists, quinolones, and carbapenems. Many of these antibiotics also cover gram positive organisms. The drugs that specifically target gram negative organisms include aminoglycosides, monobactams (aztreonam) and ciprofloxacin.
+
+Contents
+
+1 Characteristics
+
+2 Classification
+
+3 Taxonomy
+
+3.1 Example species
+
+4 Bacterial transformation
+
+5 Medical treatment
+
+6 Orthographic note
+
+7 See also
+
+8 References
+
+8.1 Notes
+
+9 External links
+
+Characteristics
+
+gram-negative cell wall structure
+
+Gram-positive and -negative bacteria are differentiated chiefly by their cell wall structure
+
+Gram-negative bacteria display these characteristics:
+
+An inner cell membrane is present (cytoplasmic)
+
+A thin peptidoglycan layer is present (This is much thicker in gram-positive bacteria)
+
+Has outer membrane containing lipopolysaccharides (LPS, which consists of lipid A, core polysaccharide, and O antigen) in its outer leaflet and phospholipids in the inner leaflet
+
+Porins exist in the outer membrane, which act like pores for particular molecules
+
+Between the outer membrane and the cytoplasmic membrane there is a space filled with a concentrated gel-like substance called periplasm
+
+The S-layer is directly attached to the outer membrane rather than to the peptidoglycan
+
+If present, flagella have four supporting rings instead of two
+
+Teichoic acids or lipoteichoic acids are absent
+
+Lipoproteins are attached to the polysaccharide backbone
+
+Some contain Braun's lipoprotein, which serves as a link between the outer membrane and the peptidoglycan chain by a covalent bond
+
+Most, with very few exceptions, do not form spores
+
+Classification
+
+Along with cell shape, Gram staining is a rapid diagnostic tool and once was used to group species at the subdivision of Bacteria.
+Historically, the kingdom Monera was divided into four divisions based on Gram staining: Firmacutes (+), Gracillicutes (−), Mollicutes (0) and Mendocutes (var.).
+Since 1987, the monophyly of the gram-negative bacteria has been disproven with molecular studies. However some authors, such as Cavalier-Smith still treat them as a monophyletic taxon (though not a clade; his definition of monophyly requires a single common ancestor but does not require holophyly, the property that all descendants be encompassed by the taxon) and refer to the group as a subkingdom "Negibacteria".
+
+Taxonomy
+
+This section may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. (March 2014) (Learn how and when to remove this template message)
+
+Bacteria are traditionally classified based on their Gram staining response into the gram-positive (or monoderm, "one membrane") and gram-negative (diderm, "two membranes") groups. It was traditionally thought that the groups represent lineages, i.e. the extra membrane only evolved once, such that gram-negative bacteria are more closely related to one another than to any gram-positive bacteria. While this is often true, the classification system breaks down in some cases, with lineage groupings not matching the staining result. Thus, Gram staining cannot be reliably used to assess familial relationships of bacteria. Nevertheless, staining often gives reliable information about the composition of the cell membrane, distinguishing between the presence or absence of an outer lipid membrane.
+
+Of these two structurally distinct groups of prokaryotic organisms, monoderm prokaryotes are thought to be ancestral. Based upon a number of different observations including that the gram-positive bacteria are the major reactors to antibiotics and that gram-negative bacteria are, in general, resistant to them, it has been proposed that the outer cell membrane in gram-negative bacteria (diderms) evolved as a protective mechanism against antibiotic selection pressure. Some bacteria such as Deinococcus, which stain gram-positive due to the presence of a thick peptidoglycan layer, but also possess an outer cell membrane are suggested as intermediates in the transition between monoderm (gram-positive) and diderm (gram-negative) bacteria. The diderm bacteria can also be further differentiated between simple diderms lacking lipopolysaccharide (LPS); the archetypical diderm bacteria, in which the outer cell membrane contains lipopolysaccharide; and the diderm bacteria, in which the outer cell membrane is made up of mycolic acid (e. g. Mycobacterium).
+
+The conventional LPS-diderm group of gram-negative bacteria (e.g., Proteobacteria, Aquificae, Chlamydiae, Bacteroidetes, Chlorobi, Cyanobacteria, Fibrobacteres, Verrucomicrobia, Planctomycetes, Spirochetes, Acidobacteria; "Hydrobacteria") are uniquely identified by a few conserved signature indel (CSI) in the HSP60 (GroEL) protein. In addition, a number of bacterial taxa (including Negativicutes, Fusobacteria, Synergistetes, and Elusimicrobia) that are either part of the phylum Firmicutes (a monoderm group) or branches in its proximity are also found to possess a diderm cell structure. They lack the GroEL signature. The presence of this CSI in all sequenced species of conventional lipopolysaccharide-containing gram-negative bacterial phyla provides evidence that these phyla of bacteria form a monophyletic clade and that no loss of the outer membrane from any species from this group has occurred.
+
+Example species
+
+The proteobacteria are a major phylum of gram-negative bacteria, including Escherichia coli (E. coli), Salmonella, Shigella, and other Enterobacteriaceae, Pseudomonas, Moraxella, Helicobacter, Stenotrophomonas, Bdellovibrio, acetic acid bacteria, Legionella etc. Other notable groups of gram-negative bacteria include the cyanobacteria, spirochaetes, green sulfur, and green non-sulfur bacteria.
+
+Medically relevant gram-negative cocci include the four types that cause a sexually transmitted disease (Neisseria gonorrhoeae), a meningitis (Neisseria meningitidis), and respiratory symptoms (Moraxella catarrhalis, Haemophilus influenzae).
+
+Medically relevant gram-negative bacilli include a multitude of species. Some of them cause primarily respiratory problems (Klebsiella pneumoniae, Legionella pneumophila, Pseudomonas aeruginosa), primarily urinary problems (Escherichia coli, Proteus mirabilis, Enterobacter cloacae, Serratia marcescens), and primarily gastrointestinal problems (Helicobacter pylori, Salmonella enteritidis, Salmonella typhi).
+
+Gram-negative bacteria associated with hospital-acquired infections include Acinetobacter baumannii, which cause bacteremia, secondary meningitis, and ventilator-associated pneumonia in hospital intensive-care units.
+
+Bacterial transformation
+
+Transformation is one of three processes for horizontal gene transfer, in which exogenous genetic material passes from bacterium to another, the other two being conjugation (transfer of genetic material between two bacterial cells in direct contact) and transduction (injection of foreign DNA by a bacteriophage virus into the host bacterium). In transformation, the genetic material passes through the intervening medium, and uptake is completely dependent on the recipient bacterium.
+
+As of 2014 about 80 species of bacteria were known to be capable of transformation, about evenly divided between gram-positive and gram-negative bacteria; the number might be an overestimate since several of the reports are supported by single papers. Transformation has been studied in medically important gram-negative bacteria species such as Helicobacter pylori, Legionella pneumophila, Neisseria meningitidis, Neisseria gonorrhoeae, Haemophilus influenzae and Vibrio cholerae. It has also been studied in gram-negative species found in soil such as Pseudomonas stutzeri, Acinetobacter baylyi, and gram-negative plant pathogens such as Ralstonia solanacearum and Xylella fastidiosa.
+
+Medical treatment
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2013) (Learn how and when to remove this template message)
+
+One of the several unique characteristics of gram-negative bacteria is the structure of the bacterial outer membrane. The outer leaflet of this membrane comprises a complex lipopolysaccharide (LPS) whose lipid portion acts as an endotoxin. If gram-negative bacteria enter the circulatory system, the LPS can cause a toxic reaction. This results in fever, an increased respiratory rate, and low blood pressure. This may lead to life-threatening septic shock.
+
+The outer membrane protects the bacteria from several antibiotics, dyes, and detergents that would normally damage either the inner membrane or the cell wall (made of peptidoglycan). The outer membrane provides these bacteria with resistance to lysozyme and penicillin. The periplasmic space (space between the two cell membranes) also contains enzymes which break down or modify antibiotics. Drugs commonly used to treat gram negative infections include amino, carboxy and ureido penicillins (ampicillin, amoxicillin, pipercillin, ticarcillin) these drugs may be combined with beta-lactamase inhibitors to combat the presence of enzymes that can digest these drugs (known as beta-lactamases) in the peri-plasmic space. Other classes of drugs that have gram negative spectrum include cephalosporins, monobactams (aztreonam), aminogylosides, quinolones, macrolides, chloramphenicol, folate antagonists, and carbapenems.
+
+The pathogenic capability of gram-negative bacteria is often associated with certain components of their membrane, in particular, the LPS. In humans, the presence of LPS triggers an innate immune response, activating the immune system and producing cytokines (hormonal regulators). Inflammation is a common reaction to cytokine production, which can also produce host toxicity. The innate immune response to LPS, however, is not synonymous with pathogenicity, or the ability to cause disease.
+
+Orthographic note
+
+The adjectives Gram-positive and Gram-negative derive from the surname of Hans Christian Gram, a Danish bacteriologist; as eponymous adjectives, their initial letter can be either capital G or lower-case g, depending on which style guide (e.g., that of the CDC), if any, governs the document being written. This is further explained at Gram staining § Orthographic note.
+
+See also
+
+Gram-variable and gram-indeterminate bacteria
+
+Outer membrane receptor
+
+References
+
+ This article incorporates public domain material from the NCBI document: "Science Primer".
+
+Notes
+
+^ a b Baron S, Salton MR, Kim KS (1996). "Structure". In Baron S, et al. (eds.). Baron's Medical Microbiology (4th ed.). Univ of Texas Medical Branch. ISBN 978-0-9631172-1-2. PMID 21413343.
+
+^ a b Pellitier LL Jr, "Microbiology of the Circulatory System" "NCBI Bookshelf", April 18, 2017
+
+^ Gibbons, N. E.; Murray, R. G. E. (1978). "Proposals Concerning the Higher Taxa of Bacteria". International Journal of Systematic Bacteriology. 28 (1): 1–6. doi:10.1099/00207713-28-1-1.
+
+^ Woese CR (June 1987). "Bacterial evolution". Microbiol. Rev. 51 (2): 221–71. doi:10.1128/MMBR.51.2.221-271.1987. PMC 373105. PMID 2439888.
+
+^ Cavalier-Smith, T. (2006). "Rooting the tree of life by transition analyses". Biol. Direct. 1: 19. doi:10.1186/1745-6150-1-19. PMC 1586193. PMID 16834776.
+
+^ a b c d Gupta, RS (December 1998). "Protein phylogenies and signature sequences: A reappraisal of evolutionary relationships among archaebacteria, eubacteria, and eukaryotes". Microbiol. Mol. Biol. Rev. 62 (4): 1435–91. doi:10.1128/MMBR.62.4.1435-1491.1998. PMC 98952. PMID 9841678.
+
+^ a b Gupta RS (2000). "The natural evolutionary relationships among prokaryotes" (PDF). Crit. Rev. Microbiol. 26 (2): 111–31. CiteSeerX 10.1.1.496.1356. doi:10.1080/10408410091154219. PMID 10890353.
+
+^ a b Desvaux M, Hébraud M, Talon R, Henderson IR (April 2009). "Secretion and subcellular localizations of bacterial proteins: a semantic awareness issue". Trends Microbiol. 17 (4): 139–45. doi:10.1016/j.tim.2009.01.004. PMID 19299134.
+
+^ a b c Sutcliffe IC (October 2010). "A phylum level perspective on bacterial cell envelope architecture". Trends Microbiol. 18 (10): 464–70. doi:10.1016/j.tim.2010.06.005. PMID 20637628.
+
+^ a b Gupta RS (August 1998). "What are archaebacteria: life's third domain or monoderm prokaryotes related to gram-positive bacteria? A new proposal for the classification of prokaryotic organisms". Mol. Microbiol. 29 (3): 695–707. doi:10.1046/j.1365-2958.1998.00978.x. PMID 9723910.
+
+^ a b c d e f Gupta RS (August 2011). "Origin of diderm (gram-negative) bacteria: antibiotic selection pressure rather than endosymbiosis likely led to the evolution of bacterial cells with two membranes". Antonie van Leeuwenhoek. 100 (2): 171–82. doi:10.1007/s10482-011-9616-8. PMC 3133647. PMID 21717204.
+
+^ a b Marchandin H, Teyssier C, Campos J, Jean-Pierre H, Roger F, Gay B, Carlier JP, Jumas-Bilak E (June 2010). "Negativicoccus succinicivorans gen. nov., sp. nov., isolated from human clinical samples, emended description of the family Veillonellaceae and description of Negativicutes classis nov., Selenomonadales ord. nov. and Acidaminococcaceae fam. nov. in the bacterial phylum Firmicutes". Int. J. Syst. Evol. Microbiol. 60 (Pt 6): 1271–9. doi:10.1099/ijs.0.013102-0. PMID 19667386.
+
+^ a b c Johnston C, Martin B, Fichant G, Polard P, Claverys JP (2014). "Bacterial transformation: distribution, shared mechanisms and divergent control". Nat. Rev. Microbiol. 12 (3): 181–96. doi:10.1038/nrmicro3199. PMID 24509783.
+
+^ a b Seitz P, Blokesch M (2013). "Cues and regulatory pathways involved in natural competence and transformation in pathogenic and environmental Gram-negative bacteria". FEMS Microbiol. Rev. 37 (3): 336–63. doi:10.1111/j.1574-6976.2012.00353.x. PMID 22928673.
+
+^ "NEJM Journal Watch: Summaries of and commentary on original medical and scientific articles from key medical journals". www.jwatch.org.
+
+^ "Preferred Usage - Emerging Infectious Disease journal - CDC". CDC.gov. Centers for Disease Control and Prevention.
+
+External links
+
+3D structures of proteins from inner membranes of Ellie Wyithe's gram-negative bacteria
+
+v
+
+t
+
+e
+
+Microbiology: Bacteria
+
+Medical
+
+microbiology 
+infection
+
+Exotoxin
+
+Lysogenic cycle
+
+Pathogenic bacteria
+
+resistance
+
+Biochemistry
+
+and ecology
+
+Oxygen
+
+preference 
+Aerobic
+Obligate
+
+Anaerobic
+Facultative
+
+Obligate
+
+Microaerophile
+
+Nanaerobe
+
+Aerotolerant
+
+Other 
+Extremophile
+
+Human flora
+ Gut
+
+Lung
+
+Mouth
+
+Skin
+
+Vaginal (In pregnancy)
+
+Placental
+
+Uterine
+
+ Salivary
+
+Microbial metabolism
+
+Nitrogen fixation
+
+Microbial ecology
+
+Primary nutritional groups
+
+Substrate preference
+Lipophilic
+
+Saccharophilic
+
+Shape 
+Bacterial cellular morphologies
+
+cocci
+diplococci
+
+bacilli
+
+coccobacilli
+
+spiral
+
+Structure
+
+Cell
+
+envelope 
+Cell membrane
+
+Cell wall: Peptidoglycan
+NAM
+
+NAG
+
+DAP
+
+Gram-positive bacteria only: Teichoic acid
+
+Lipoteichoic acid
+
+Endospore
+
+Gram-negative bacteria only: Bacterial outer membrane
+Porin
+
+Lipopolysaccharide
+
+Periplasmic space
+
+Mycobacteria only: Arabinogalactan
+
+Mycolic acid
+
+Outside
+
+envelope 
+Bacterial capsule
+
+Slime layer
+
+S-layer
+
+Glycocalyx
+
+Pilus
+
+Fimbria
+
+Non-motile bacteria
+
+Composite 
+Biofilm
+
+Taxonomy
+
+and evolution 
+Bacteria (classifications)
+
+Bacterial phyla
+
+Former groupings: Schizomycetes
+
+Monera
+
+Prokaryota
+Gracilicutes
+
+Firmicutes
+
+Mollicutes
+
+Mendosicutes
+
+ Book
+
+ Category
+
+ Commons
+
+v
+
+t
+
+e
+
+Prokaryotes: Bacteria classification (phyla and orders)
+
+Domain
+
+Archaea
+
+Bacteria
+
+Eukaryota
+
+(Supergroup
+
+Plant
+
+Hacrobia
+
+Heterokont
+
+Alveolata
+
+Rhizaria
+
+Excavata
+
+Amoebozoa
+
+Opisthokonta
+Animal
+
+Fungi)
+
+G-/
+
+OM
+
+Terra-/
+
+Glidobacteria
+
+(BV1)
+
+Eobacteria 
+Deinococcus–Thermus
+Deinococcales
+
+Thermales
+
+Chloroflexi
+Anaerolineales
+
+Caldilineales
+
+Chloroflexales
+
+Herpetosiphonales
+
+Dehalococcoidales
+
+Ktedonobacterales
+
+Thermogemmatisporales
+
+Thermomicrobiales
+
+Sphaerobacterales
+
+other glidobacteria 
+Thermodesulfobacteria
+
+thermophiles
+Aquificae
+
+Thermotogae
+
+Cyanobacteria
+
+Proteobacteria
+
+(BV2)
+
+Alpha 
+Caulobacterales
+
+Kiloniellales
+
+Kordiimonadales
+
+Magnetococcales
+
+Parvularculales
+
+Rhizobiales
+
+Rhodobacterales
+
+Rhodospirillales
+
+Rickettsiales
+
+Sneathiellales
+
+Sphingomonadales
+
+Beta 
+Burkholderiales
+
+Hydrogenophilales
+
+Methylophilales
+
+Neisseriales
+
+Nitrosomonadales
+
+Procabacteriales
+
+Rhodocyclales
+
+Gamma 
+Acidithiobacillales
+
+Aeromonadales
+
+Alteromonadales
+
+Cardiobacteriales
+
+Chromatiales
+
+Enterobacterales
+
+Legionellales
+
+Methylococcales
+
+Oceanospirillales
+
+Orbales
+
+Pasteurellales
+
+Pseudomonadales
+
+Salinisphaerales
+
+Thiotrichales
+
+Vibrionales
+
+Xanthomonadales
+
+Delta 
+Bdellovibrionales
+
+Desulfarculales
+
+Desulfobacterales
+
+Desulfovibrionales
+
+Desulfurellales
+
+Desulfuromonadales
+
+Myxococcales
+
+Syntrophobacterales
+
+Syntrophorhabdales
+
+Epsilon 
+Campylobacterales
+
+Nautiliales
+
+Zeta 
+Mariprofundales
+
+BV4
+
+Spirochaetes 
+Spirochaetes
+
+Sphingobacteria
+
+(FCB group) 
+Fibrobacteres
+
+Chlorobi
+Chlorobiales
+
+Ignavibacteriales
+
+Bacteroidetes
+Bacteroidales
+
+Cytophagales
+
+Flavobacteriales
+
+Sphingobacteriales
+
+Planctobacteria/
+
+(PVC group) 
+Chlamydiae
+
+Lentisphaerae
+Lentisphaerales
+
+Oligosphaerales
+
+Victivallales
+
+Planctomycetes
+Phycisphaerales
+
+Planctomycetales
+
+Verrucomicrobia
+Puniceicoccales
+
+Opitutales
+
+Chthoniobacterales
+
+Verrucomicrobiales
+
+"Poribacteria"
+
+Other GN 
+Acidobacteria
+Acidobacteriales
+
+Acanthopleuribacterales
+
+Holophagales
+
+Solibacterales
+
+Armatimonadetes
+Armatimonadales
+
+Chthonomonadales
+
+Fimbriimonadales
+
+Caldiserica
+
+Chrysiogenetes
+
+Deferribacteres
+
+Dictyoglomi
+
+Elusimicrobia
+
+Fusobacteria
+
+Gemmatimonadetes
+
+Nitrospirae
+
+Synergistetes
+
+G+/
+
+no OM
+
+Firmicutes
+
+(BV3)
+
+Bacilli 
+Bacillales
+
+Lactobacillales
+
+Aphragmobacteria
+Erysipelotrichia
+Erysipelotrichiales
+
+Mollicutes
+Mycoplasmatales
+
+Entomoplasmatales
+
+Anaeroplasmatales
+
+Acholeplasmatales
+
+Haloplasmatales
+
+Clostridia 
+Clostridiales
+
+Halanaerobiales
+
+Thermoanaerobacteriales
+
+Natranaerobiales
+
+Negativicutes
+Selenomonadales
+
+Thermolithobacteria 
+Thermolithobacterales
+
+Actinobacteria
+
+(BV5)
+
+Actinobacteria 
+Actinomycetales
+
+Bifidobacteriales
+
+Acidimicrobiia 
+Acidimicrobiales
+
+Coriobacteriia 
+Coriobacteriales
+
+Nitriliruptoria 
+Euzebyales
+
+Nitriliruptorales
+
+Rubrobacteria 
+Gaiellales
+
+Rubrobacterales
+
+Thermoleophilales
+
+Solirubrobacterales
+
+Incertae
+
+sedis 
+†Archaeosphaeroides
+
+†Eobacterium
+
+†Leptotrichites
+
+Source: Bergey's Manual (2001–2012). Alternative views: Wikispecies.
+
+Biology portal

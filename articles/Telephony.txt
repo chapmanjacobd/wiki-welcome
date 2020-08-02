@@ -1,0 +1,588 @@
+"Field of telecommunication services
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Telephony" – news · newspapers · books · scholar · JSTOR (May 2013) (Learn how and when to remove this template message)
+
+Telephony (/təˈlɛfəni/ tə-LEF-ə-nee) is the field of technology involving the development, application, and deployment of telecommunication services for the purpose of electronic transmission of voice, fax, or data, between distant parties. The history of telephony is intimately linked to the invention and development of the telephone.
+
+Telephony is commonly referred to as the construction or operation of telephones and telephonic systems and as a system of telecommunications in which telephonic equipment is employed in the transmission of speech or other sound between points, with or without the use of wires. The term is also used frequently to refer to computer hardware, software, and computer network systems, that perform functions traditionally performed by telephone equipment. In this context the technology is specifically referred to as Internet telephony, or voice over Internet Protocol (VoIP).
+
+Contents
+
+1 Overview
+
+2 Digital telephony
+
+2.1 History
+
+2.2 Milestones in digital telephony
+
+3 IP telephony
+
+4 Social impact research
+
+5 See also
+
+6 References
+
+Overview
+
+The first telephones were connected directly in pairs. Each user had a separate telephone wired to each locations to be reached. This quickly became inconvenient and unmanageable when users wanted to communicate with more than a few people. The invention of the telephone exchange provided the solution for establishing telephone connections with any other telephone in service in the local area. Each telephone was connected to the exchange at first with one wire, later one wire pair, the local loop. Nearby exchanges in other service areas were connected with trunk lines, and long-distance service could be established by relaying the calls through multiple exchanges.
+
+Initially, exchange switchboards were manually operated by an attendant, commonly referred to as the "switchboard operator". When a customer cranked a handle on the telephone, it activated an indicator on the board in front of the operator, who would in response plug the operator headset into that jack and offer service. The caller had to ask for the called party by name, later by number, and the operator connected one end of a circuit into the called party jack to alert them. If the called station answered, the operator disconnected their headset and completed the station-to-station circuit. Trunk calls were made with the assistance of other operators at other exchangers in the network.
+
+Until the 1970s, most telephones were permanently wired to the telephone line installed at customer premises. Later, conversion to installation of jacks that terminated the inside wiring permitted simple exchange of telephone sets with telephone plugs and allowed portability of the set to multiple locations in the premises where jacks were installed. The inside wiring to all jacks was connected in one place to the wire drop which connects the building to a cable. Cables usually bring a large number of drop wires from all over a district access network to one wire center or telephone exchange. When a telephone user wants to make a telephone call, equipment at the exchange examines the dialed telephone number and connects that telephone line to another in the same wire center, or to a trunk to a distant exchange. Most of the exchanges in the world are interconnected through a system of larger switching systems, forming the public switched telephone network (PSTN).
+
+In the second half of the 20th century, fax and data became important secondary applications of the network created to carry voices, and late in the century, parts of the network were upgraded with ISDN and DSL to improve handling of such traffic.
+
+Today, telephony uses digital technology (digital telephony) in the provisioning of telephone services and systems. Telephone calls can be provided digitally, but may be restricted to cases in which the last mile is digital, or where the conversion between digital and analog signals takes place inside the telephone. This advancement has reduced costs in communication, and improved the quality of voice services. The first implementation of this, ISDN, permitted all data transport from end-to-end speedily over telephone lines. This service was later made much less important due to the ability to provide digital services based on the IP protocol.
+
+Since the advent of personal computer technology in the 1980s, computer telephony integration (CTI) has progressively provided more sophisticated telephony services, initiated and controlled by the computer, such as making and receiving voice, fax, and data calls with telephone directory services and caller identification. The integration of telephony software and computer systems is a major development in the evolution of office automation. The term is used in describing the computerized services of call centers, such as those that direct your phone call to the right department at a business you're calling. It's also sometimes used for the ability to use your personal computer to initiate and manage phone calls (in which case you can think of your computer as your personal call center). CTI is not a new concept and has been used in the past in large telephone networks, but only dedicated call centers could justify the costs of the required equipment installation. Primary telephone service providers are offering information services such as automatic number identification, which is a telephone service architecture that separates CTI services from call switching and will make it easier to add new services. Dialed Number Identification Service (DNIS) on a scale is wide enough for its implementation to bring real value to business or residential telephone usage. A new generation of applications (middleware) is being developed as a result of standardization and availability of low cost computer telephony links.
+
+Digital telephony
+
+Digital telephony is the use of digital electronics in the operation and provisioning of telephony systems and services. Since the late 20th century, a digital core network has replaced the traditional analog transmission and signaling systems, and much of the access network has also been digitized.
+
+Starting with the development of transistor technology, originating from Bell Telephone Laboratories in 1947, to amplification and switching circuits in the 1950s, the public switched telephone network (PSTN) has gradually moved towards solid-state electronics and automation. Following the development of computer-based electronic switching systems incorporating metal–oxide–semiconductor (MOS) and pulse-code modulation (PCM) technologies, the PSTN gradually evolved towards the digitization of signaling and audio transmissions. Digital telephony has since dramatically improved the capacity, quality and cost of the network. Digitization allows wideband voice on the same channel, with improved quality of a wider analog voice channel.
+
+History
+
+The earliest end-to-end analog telephone networks to be modified and upgraded to transmission networks with Digital Signal 1 (DS1/T1) carrier systems date back to the early 1960s. They were designed to support the basic 3 kHz voice channel by sampling the bandwidth-limited analog voice signal and encoding using pulse-code modulation (PCM). Early PCM codec-filters were implemented as passive resistor–capacitor–inductor filter circuits, with analog-to-digital conversion (for digitizing voices) and digital-to-analog conversion (for reconstructing voices) handled by discrete devices. Early digital telephony was impractical due to the low performance and high costs of early PCM codec-filters.
+
+Practical digital telecommunication was enabled by the invention of the metal–oxide–semiconductor field-effect transistor (MOSFET), which led to the rapid development and wide adoption of PCM digital telephony. The MOSFET was invented by Mohamed M. Atalla and Dawon Kahng at Bell Telephone Laboratories in 1959, and the metal–oxide–semiconductor (MOS) integrated circuit (IC) chip was proposed soon after, but MOS technology was initially overlooked by Bell because they did not find it practical for analog telephone applications, before it was commercialized by Fairchild and RCA for digital electronics such as computers. MOS technology eventually became practical for telephone applications with the MOS mixed-signal integrated circuit, which combines analog and digital signal processing on a single chip, developed by former Bell engineer David A. Hodges with Paul R. Gray at UC Berkeley in the early 1970s. In 1974, Hodges and Gray worked with R.E. Suarez to develop MOS switched capacitor (SC) circuit technology, which they used to develop a digital-to-analog converter (DAC) chip, using MOS capacitors and MOSFET switches for data conversion. MOS analog-to-digital converter (ADC) and DAC chips were commercialized by 1974.
+
+MOS SC circuits led to the development of PCM codec-filter chips in the late 1970s. The silicon-gate CMOS (complementary MOS) PCM codec-filter chip, developed by Hodges and W.C. Black in 1980, has since been the industry standard for digital telephony. By the 1990s, telecommunication networks such as the public switched telephone network (PSTN) had been largely digitized with very-large-scale integration (VLSI) CMOS PCM codec-filters, widely used in electronic switching systems for telephone exchanges, private branch exchanges (PBX) and key telephone systems (KTS); user-end modems; data transmission applications such as digital loop carriers, pair gain multiplexers, telephone loop extenders, integrated services digital network (ISDN) terminals, digital cordless telephones and digital cell phones; and applications such as speech recognition equipment, voice data storage, voice mail and digital tapeless answering machines. The bandwidth of digital telecommunication networks has been rapidly increasing at an exponential rate, as observed by Edholm's law, largely driven by the rapid scaling and miniaturization of MOS technology.
+
+Uncompressed PCM digital audio with 8-bit depth and 8 kHz sample rate requires a bit rate of 64 kbps, which was impractical for early digital telecommunication networks with limited network bandwidth. A solution to this issue was linear predictive coding (LPC), a speech coding data compression algorithm that was first proposed by Fumitada Itakura of Nagoya University and Shuzo Saito of Nippon Telegraph and Telephone (NTT) in 1966. LPC was capable of audio data compression down to 2.4 kbps, leading to the first successful real-time conversations over digital networks in the 1970s. LPC has since been the most widely used speech coding method. Another audio data compression method, a discrete cosine transform (DCT) algorithm called the modified discrete cosine transform (MDCT), has been widely adopted for speech coding in voice-over-IP (VoIP) applications since the late 1990s.
+
+The development of transmission methods such as SONET and fiber optic transmission further advanced digital transmission. Although analog carrier systems existed that multiplexed multiple analog voice channels onto a single transmission medium, digital transmission allowed lower cost and more channels multiplexed on the transmission medium. Today the end instrument often remains analog but the analog signals are typically converted to digital signals at the serving area interface (SAI), central office (CO), or other aggregation point. Digital loop carriers (DLC) and fiber to the x place the digital network ever closer to the customer premises, relegating the analog local loop to legacy status.
+
+Milestones in digital telephony
+
+early experiments with pulse code modulation (PCM) in telephony
+
+the 8-bit, 8 kHz standard is developed; Nyquist's theorem and the standard 3.5 kHz telephony bandwidth
+
+DS0 as the basic digital telephony bitstream standard
+
+non-linear quantization: A-law vs. μ-law, and transcoding between the two
+
+bit error rate and intelligibility
+
+development of metal–oxide–semiconductor (MOS) switched capacitor (SC) circuits and complementary MOS (CMOS) PCM codec-filter chips
+
+development of speech coding data compression, particularly linear predictive coding (LPC) and modified discrete cosine transform (MDCT) algorithms
+
+first practical digital telephone systems put into service
+
+the U.S. T-carrier system and the European E-carrier system developed to carry digital telephony
+
+introduction of space-time switching in fully digital electronic switching systems
+
+replacement of tone signaling with digital signaling for trunks
+
+in-band signaling vs. out-of-band signaling
+
+the problem of bit-robbing
+
+development of Signalling System No. 7 (SS7)
+
+rapidly increasing network bandwidth of digital telecommunication networks (Edholm's law), largely driven by scaling and miniaturization of MOSFET (MOS transistor) technology
+
+emergence of fiber optic networking allows greater reliability and call capacity
+
+transition from plesiochronous transmission to synchronous systems like SONET/SDH
+
+advances in wireless radio-frequency technology, particularly the development of MOSFET (power MOSFET and LDMOS) RF power amplifiers and RF CMOS circuits
+
+optical self-healing ring networks further increase reliability
+
+digital/optical systems revolutionize international long-distance networks, particularly undersea cables
+
+digital telephone exchanges eliminate moving parts, make exchange equipment much smaller and more reliable
+
+separation of exchange and concentrator functions
+
+roll-out of digital systems throughout the PSTN
+
+provision of intelligent network services
+
+speech compression on international digital trunks
+
+phone tapping in the digital environment
+
+introduction of digital mobile telephony, specialized compression algorithms for high bit error rates
+
+direct digital termination to customers via ISDN; PRI catches on, BRI mostly does not, except in Germany
+
+the effects of digital telephony, and digital termination at the ISP, on modem performance
+
+voice over IP as a carrier strategy
+
+emergence of ADSL leads to voice over IP becoming a consumer product, and the slow demise of dial-up Internet access
+
+expected convergence of VoIP, mobile telephony, etc.
+
+flattening of telephony tariffs, increasing moves towards flat rate pricing as the marginal cost of telephony drops further and further.
+
+IP telephony
+
+Main article: Voice over IP
+
+A commercial IP telephone, with keypad, control keys, and screen functions to perform configuration and user features.
+
+The field of technology available for telephony has broadened with the advent of new communication technologies. Telephony now includes the technologies of Internet services and mobile communication, including video conferencing.
+
+The new technologies based on Internet Protocol (IP) concepts are often referred to separately as voice over IP (VoIP) telephony, also commonly referred to as IP telephony or Internet telephony. Unlike traditional phone service, IP telephony service is relatively unregulated by government. In the United States, the Federal Communications Commission (FCC) regulates phone-to-phone connections, but says they do not plan to regulate connections between a phone user and an IP telephony service provider.
+
+A specialization of digital telephony, Internet Protocol (IP) telephony involves the application of digital networking technology that was the foundation to the Internet to create, transmit, and receive telecommunications sessions over computer networks. Internet telephony is commonly known as voice over Internet Protocol (VoIP), reflecting the principle, but it has been referred with many other terms. VoIP has proven to be a disruptive technology that is rapidly replacing traditional telephone infrastructure technologies. As of January 2005, up to 10% of telephone subscribers in Japan and South Korea have switched to this digital telephone service. A January 2005 Newsweek article suggested that Internet telephony may be "the next big thing". As of 2006, many VoIP companies offer service to consumers and businesses.
+
+IP telephony uses an Internet connection and hardware IP phones, analog telephone adapters, or softphone computer applications to transmit conversations encoded as data packets. In addition to replacing plain old telephone service (POTS), IP telephony services compete with mobile phone services by offering free or lower cost connections via WiFi hotspots. VoIP is also used on private networks which may or may not have a connection to the global telephone network.
+
+Fixed telephone lines per 100 inhabitants 1997–2007
+
+Social impact research
+
+Direct person-to-person communication includes non-verbal cues expressed in facial and other bodily articulation, that cannot be transmitted in traditional voice telephony. Video telephony restores such interactions to varying degrees. Social Context Cues Theory is a model to measure the success of different types of communication in maintaining the non-verbal cues present in face-to-face interactions. The research examines many different cues, such as the physical context, different facial expressions, body movements, tone of voice, touch and smell.
+
+Various communication cues are lost with the usage of the telephone. The communicating parties are not able to identify the body movements, and lack touch and smell. Although this diminished ability to identify social cues is well known, Wiesenfeld, Raghuram, and Garud point out that there is a value and efficiency to the type of communication for different tasks. They examine work places in which different types of communication, such as the telephone, are more useful than face-to-face interaction.
+
+The expansion of communication to mobile telephone service has created a different filter of the social cues than the land-line telephone. The use of instant messaging, such as texting, on mobile telephones has created a sense of community. In The Social Construction of Mobile Telephony it is suggested that each phone call and text message is more than an attempt to converse. Instead, it is a gesture which maintains the social network between family and friends. Although there is a loss of certain social cues through telephones, mobile phones bring new forms of expression of different cues that are understood by different audiences. New language additives attempt to compensate for the inherent lack of non-physical interaction.
+
+Another social theory supported through telephony is the Media Dependency Theory. This theory concludes that people use media or a resource to attain certain goals. This theory states that there is a link between the media, audience, and the large social system. Telephones, depending on the person, help attain certain goals like accessing information, keeping in contact with others, sending quick communication, entertainment, etc.
+
+See also
+
+ Look up telephony in Wiktionary, the free dictionary.
+
+Telecommunications portal
+
+Telephones portal
+
+List of telephony terminology
+
+History of the telephone
+
+Invention of the telephone
+
+References
+
+^ Dictionary.com Telephony Definition
+
+^ What is CTI? TechTarget
+
+^ a b c d Floyd, Michael D.; Hillman, Garth D. (8 October 2018) . "Pulse-Code Modulation Codec-Filters". The Communications Handbook (2nd ed.). CRC Press. pp. 26–1, 26–2, 26–3.
+
+^ a b c d e f g h i Allstot, David J. (2016). "Switched Capacitor Filters". In Maloberti, Franco; Davies, Anthony C. (eds.). A Short History of Circuits and Systems: From Green, Mobile, Pervasive Networking to Big Data Computing (PDF). IEEE Circuits and Systems Society. pp. 105–110. ISBN 9788793609860.
+
+^ Colinge, Jean-Pierre; Colinge, C. A. (2005). Physics of Semiconductor Devices. Springer Science & Business Media. p. 165. ISBN 9780387285238.
+
+^ Maloberti, Franco; Davies, Anthony C. (2016). "History of Electronic Devices". A Short History of Circuits and Systems: From Green, Mobile, Pervasive Networking to Big Data Computing (PDF). IEEE Circuits and Systems Society. pp. 59-70 (65-7). ISBN 9788793609860.
+
+^ Electronic Components. U.S. Government Printing Office. 1974. p. 46.
+
+^ Cherry, Steven (2004). "Edholm's law of bandwidth". IEEE Spectrum. 41 (7): 58–60. doi:10.1109/MSPEC.2004.1309810.
+
+^ Jindal, Renuka P. (2009). "From millibits to terabits per second and beyond - Over 60 years of innovation". 2009 2nd International Workshop on Electron Devices and Semiconductor Technology: 1–6. doi:10.1109/EDST.2009.5166093.
+
+^ Gray, Robert M. (2010). "A History of Realtime Digital Speech on Packet Networks: Part II of Linear Predictive Coding and the Internet Protocol" (PDF). Found. Trends Signal Process. 3 (4): 203–303. doi:10.1561/2000000036. ISSN 1932-8346.
+
+^ Gupta, Shipra (May 2016). "Application of MFCC in Text Independent Speaker Recognition" (PDF). International Journal of Advanced Research in Computer Science and Software Engineering. 6 (5): 805-810 (806). ISSN 2277-128X. Retrieved 18 October 2019.
+
+^ Schnell, Markus; Schmidt, Markus; Jander, Manuel; Albert, Tobias; Geiger, Ralf; Ruoppila, Vesa; Ekstrand, Per; Bernhard, Grill (October 2008). MPEG-4 Enhanced Low Delay AAC - A New Standard for High Quality Communication (PDF). 125th AES Convention. Fraunhofer IIS. Audio Engineering Society. Retrieved 20 October 2019.
+
+^ Sheridan, Barrett. "Newsweek - National News, World News, Health, Technology, Entertainment and more... - Newsweek.com". MSNBC. Archived from the original on January 18, 2005. Retrieved 2010-05-23.
+
+^ "Hosted PBX". Retrieved 5 December 2017.
+
+^ Mesch, Gustavo S.; Talmud, Ilan; Quan-Haase, Anabel (2012-09-01). "Instant messaging social networks: Individual, relational, and cultural characteristics". Journal of Social and Personal Relationships. 29 (6): 736–759. doi:10.1177/0265407512448263. ISSN 0265-4075.
+
+^ "Media Dependency Theory". 2012-02-12.
+
+v
+
+t
+
+e
+
+Telephony
+
+Types 
+Landline
+
+Mobile phone
+
+Satellite phone
+
+Photophone
+
+Connectivity 
+Cable protection system
+
+Communications satellites
+
+Fibre-optical
+
+Free-space optical
+
+ISDN
+
+Mobile phone signal
+
+POTS
+
+PSTN
+
+Submarine cables
+
+VoIP
+
+Calls 
+Missed call
+
+Misdialed call
+
+Nuisance call
+
+Phone tag
+
+Applications 
+Fax transmission
+
+Telephone calls
+
+Telephone newspapers
+
+Théâtrophone
+
+Video calls
+
+v
+
+t
+
+e
+
+Telecommunications
+
+History 
+Beacon
+
+Broadcasting
+
+Cable protection system
+
+Cable TV
+
+Communications satellite
+
+Computer network
+
+Data compression
+audio
+
+DCT
+
+image
+
+video
+
+Digital media
+Internet video
+
+online video platform
+
+social media
+
+streaming
+
+Drums
+
+Edholm's law
+
+Electrical telegraph
+
+Fax
+
+Heliographs
+
+Hydraulic telegraph
+
+Information Age
+
+Information revolution
+
+Internet
+
+Mass media
+
+Mobile phone
+Smartphone
+
+Optical telecommunication
+
+Optical telegraphy
+
+Pager
+
+Photophone
+
+Prepaid mobile phone
+
+Radio
+
+Radiotelephone
+
+Satellite communications
+
+Semaphore
+
+Semiconductor
+device
+
+MOSFET
+
+transistor
+
+Smoke signals
+
+Telecommunications history
+
+Telautograph
+
+Telegraphy
+
+Teleprinter (teletype)
+
+Telephone
+
+The Telephone Cases
+
+Television
+digital
+
+streaming
+
+Undersea telegraph line
+
+Videotelephony
+
+Whistled language
+
+Wireless revolution
+
+Pioneers 
+Nasir Ahmed
+
+Edwin Howard Armstrong
+
+Mohamed M. Atalla
+
+John Logie Baird
+
+Paul Baran
+
+John Bardeen
+
+Alexander Graham Bell
+
+Tim Berners-Lee
+
+Jagadish Chandra Bose
+
+Walter Houser Brattain
+
+Vint Cerf
+
+Claude Chappe
+
+Yogen Dalal
+
+Donald Davies
+
+Lee de Forest
+
+Philo Farnsworth
+
+Reginald Fessenden
+
+Elisha Gray
+
+Oliver Heaviside
+
+Erna Schneider Hoover
+
+Harold Hopkins
+
+Internet pioneers
+
+Bob Kahn
+
+Dawon Kahng
+
+Charles K. Kao
+
+Narinder Singh Kapany
+
+Hedy Lamarr
+
+Innocenzo Manzetti
+
+Guglielmo Marconi
+
+Robert Metcalfe
+
+Antonio Meucci
+
+Jun-ichi Nishizawa
+
+Radia Perlman
+
+Alexander Stepanovich Popov
+
+Johann Philipp Reis
+
+Claude Shannon
+
+Henry Sutton
+
+Nikola Tesla
+
+Camille Tissot
+
+Alfred Vail
+
+Charles Wheatstone
+
+Vladimir K. Zworykin
+
+Transmission
+
+media 
+Coaxial cable
+
+Fiber-optic communication
+optical fiber
+
+Free-space optical communication
+
+Molecular communication
+
+Radio waves
+wireless
+
+Transmission line
+data transmission circuit
+
+telecommunication circuit
+
+Network topology
+
+and switching 
+Bandwidth
+
+Links
+
+Nodes
+terminal
+
+Network switching (circuit
+
+packet)
+
+Telephone exchange
+
+Multiplexing 
+Space-division
+
+Frequency-division
+
+Time-division
+
+Polarization-division
+
+Orbital angular-momentum
+
+Code-division
+
+Concepts 
+Communication protocols
+
+Computer network
+
+Data transmission
+
+Store and forward
+
+Telecommunications equipment
+
+Types of network 
+Cellular network
+
+Ethernet
+
+ISDN
+
+LAN
+
+Mobile
+
+NGN
+
+Public Switched Telephone
+
+Radio
+
+Television
+
+Telex
+
+UUCP
+
+WAN
+
+Wireless network
+
+Notable networks 
+ARPANET
+
+BITNET
+
+CYCLADES
+
+FidoNet
+
+Internet
+
+Internet2
+
+JANET
+
+NPL network
+
+Usenet
+
+Locations (by regions) 
+Africa
+
+Americas (North & South)
+
+Antarctica
+
+Asia
+
+Europe
+
+Oceania
+
+ Category
+
+ Outline
+
+ Portal
+
+ Commons
+
+Authority control 
+NDL: 00561472

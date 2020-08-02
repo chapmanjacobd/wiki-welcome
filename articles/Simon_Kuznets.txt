@@ -1,0 +1,1217 @@
+"Simon Kuznets
+
+Kuznets in 1971
+
+Born (1901-04-30)April 30, 1901
+
+Died July 8, 1985(1985-07-08) (aged 84)
+
+Cambridge, Massachusetts
+
+Nationality American
+
+Institution NBER
+
+Columbia University,
+
+Harvard University (1960–1971)
+
+Johns Hopkins University (1954–1960)
+
+University of Pennsylvania (1930–1954)
+
+Field Econometrics, development economics
+
+School or
+
+tradition Institutional economics
+
+Alma mater Columbia University,
+
+Kharkiv Institute of Commerce
+
+Doctoral
+
+advisor Wesley Clair Mitchell
+
+Doctoral
+
+students Milton Friedman
+
+Richard Easterlin
+
+Stanley Engerman
+
+Robert Fogel
+
+Subramanian Swamy
+
+Lance Taylor
+
+Contributions National income data
+
+Empirical business cycle research
+
+Characteristics of economic growth
+
+Awards Nobel Memorial Prize in Economic Sciences (1971)
+
+Information at IDEAS / RePEc
+
+ Part of a series on
+
+Macroeconomics
+
+Basic concepts
+
+Aggregate demand
+
+Aggregate supply
+
+Business cycle
+
+Deflation
+
+Demand shock
+
+Disinflation
+
+Effective demand
+
+Expectations
+Adaptive
+
+Rational
+
+Financial crisis
+
+Growth
+
+Inflation
+Demand-pull
+
+Cost-push
+
+Interest rate
+
+Investment
+
+Liquidity trap
+
+Measures of national income and output
+GDP
+
+GNI
+
+NNI
+
+Microfoundations
+
+Money
+Endogenous
+
+Money creation
+
+Demand for money
+Liquidity preference
+
+Money supply
+
+National accounts
+SNA
+
+Nominal rigidity
+
+Price level
+
+Recession
+
+Shrinkflation
+
+Stagflation
+
+Supply shock
+
+Saving
+
+Unemployment
+
+Policies
+
+Fiscal
+
+Monetary
+
+Commercial
+
+Central bank
+
+Models
+
+IS–LM
+
+AD–AS
+
+Keynesian cross
+
+Multiplier
+
+Accelerator
+
+Phillips curve
+
+Arrow–Debreu
+
+Harrod–Domar
+
+Solow–Swan
+
+Ramsey–Cass–Koopmans
+
+Overlapping generations
+
+General equilibrium
+DSGE
+
+Endogenous growth
+
+Matching theory
+
+Mundell–Fleming
+
+Overshooting
+
+NAIRU
+
+Related fields
+
+Econometrics
+
+Economic statistics
+
+Monetary economics
+
+Development economics
+
+International economics
+
+Schools
+
+Mainstream
+Keynesian
+Neo-
+
+New
+
+Monetarism
+
+New classical
+Real business-cycle theory
+
+Stockholm
+
+Supply-side
+
+New neoclassical synthesis
+
+Saltwater and freshwater
+
+Heterodox
+
+Austrian
+
+Chartalism
+Modern Monetary Theory
+
+Post-Keynesian
+Circuitism
+
+Disequilibrium
+
+Marxian
+
+Market monetarism
+
+People
+
+François Quesnay
+
+Adam Smith
+
+Thomas Robert Malthus
+
+Karl Marx
+
+Léon Walras
+
+Georg Friedrich Knapp
+
+Knut Wicksell
+
+Irving Fisher
+
+Wesley Clair Mitchell
+
+John Maynard Keynes
+
+Alvin Hansen
+
+Michał Kalecki
+
+Gunnar Myrdal
+
+Simon Kuznets
+
+Joan Robinson
+
+Friedrich Hayek
+
+John Hicks
+
+Richard Stone
+
+Hyman Minsky
+
+Milton Friedman
+
+Paul Samuelson
+
+Lawrence Klein
+
+Edmund Phelps
+
+Robert Lucas Jr.
+
+Edward C. Prescott
+
+Peter Diamond
+
+William Nordhaus
+
+Joseph Stiglitz
+
+Thomas J. Sargent
+
+Paul Krugman
+
+N. Gregory Mankiw
+
+See also
+
+Macroeconomic model
+
+Publications in macroeconomics
+
+Economics
+Applied
+
+Microeconomics
+
+Political economy
+
+Mathematical economics
+
+ Money portal
+
+ Business portal
+
+v
+
+t
+
+e
+
+Simon Smith Kuznets (/ˈkʌznɛts/; Russian: Семён Абра́мович Кузне́ц, IPA: ; April 30, 1901 – July 8, 1985) was an American economist and statistician who received the 1971 Nobel Memorial Prize in Economic Sciences "for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development."
+
+Kuznets made a decisive contribution to the transformation of economics into an empirical science and to the formation of quantitative economic history.
+
+Contents
+
+1 Biography
+
+1.1 Early life
+
+1.2 Emigration to the United States
+
+2 Impact on economics
+
+2.1 Historical series of economic dynamics and Kuznets cycles, or "long swings"
+
+2.2 National income accounts
+
+2.3 Economic growth
+
+3 Kuznets curve
+
+3.1 Historical and economic works of the 1970s
+
+4 Selected publications
+
+5 See also
+
+6 References
+
+7 Further reading
+
+8 External links
+
+Biography
+
+Early life
+
+Simon Smith Kuznets was born in Belarus in the town of Pinsk to Lithuanian-Jewish parents, in the year 1901. He completed his schooling, first at the Rivne, then, Kharkiv Realschule of present-day Ukraine. In 1918, Kuznets entered the Kharkiv Institute of Commerce where he studied economic sciences, statistics, history and mathematics under the guidance of professors P. Fomin (political economy), A. Antsiferov (statistics), V. Levitsky (economic history and economic thought), S. Bernstein (probability theory), V. Davats (mathematics), and others. Basic academic courses at the Institute helped him to acquire "exceptional" erudition in economics, as well as in history, demography, statistics and natural sciences. According to the Institute's curriculum, development of the national economies had to be analyzed in the wider context of changes in connected spheres and with involvement of proper methods and empirical data. There he began to study economics and became exposed to Joseph Schumpeter's theory of innovation and the business cycle.
+
+At the turn of 1920–1921 years, the normal course in the Institute was interrupted by the events of the Civil War and reorganizations undertaken by the Soviet authorities in the sphere of the higher education. There is no precise information whether Kuznets continued his studies at the Institute, but it is known that he joined the Department of Labor of UZHBURO (South Bureau) of the Central Council of Trade Unions. There he published his first scientific paper, "Monetary wages and salaries of factory workers in Kharkov in 1920"; he explored the dynamics of different types of wages by industries in Kharkov and income differentiation, depending on the wage system.
+
+Emigration to the United States
+
+In 1922, the Kuznets family emigrated to the United States. Kuznets then studied at Columbia University under the guidance of Wesley Clair Mitchell. He graduated with a B.S. in 1923, M.A. in 1924, and Ph.D. in 1926. As his magister thesis, he defended the essay "Economic system of Dr. Schumpeter, presented and analyzed", written in Kharkiv. From 1925 to 1926, Kuznets spent time studying economic patterns in prices as the Research Fellow at the Social Science Research Council. It was this work that led to his book "Secular Movements in Production and Prices", defended as a doctoral thesis and published in 1930.
+
+In 1927, he became a member of the research staff of the National Bureau of Economic Research (NBER), where he worked until 1961. From 1931 until 1936, Kuznets was a part-time professor at the University of Pennsylvania. In 1937 he was elected as a Fellow of the American Statistical Association. He was elected to the Pi Gamma Mu social science honor society chapter at the University of Pennsylvania and actively served as a chapter officer in the 1940s; becoming a full-time professor 1936 until 1954. In 1954, Kuznets moved to Johns Hopkins University, where he was Professor of Political Economy until 1960. From 1961 until his retirement in 1970, Kuznets taught at Harvard.
+
+Apart from that, Kuznets collaborated with a number of research organizations and government agencies. In 1931–1934, at Mitchell's behest, Kuznets took charge of the NBER's work on U.S. national income accounts, given the first official estimation of the US national income. In 1936, Kuznets took the lead in establishing the Conference on Research Income and Wealth, which brought together government officials and academic economists, engaged in the development of the U.S. national income and product accounts, and in 1947 helped to establish its international counterpart, the International Association for Research in Income and Wealth.
+
+During the Second World War, between 1942–1944, Kuznets became the associate director of the Bureau of Planning and Statistics, War Production Board. He took part in works aimed to assess the capacity to expand military production. Researchers used national income accounting together with a rough form of linear programming to measure the potential for increased production and the sources from which it would come and to identify the materials that were binding constraints on expansion.
+
+After the War, he worked as an advisor for the governments of China, Japan, India, Korea, Taiwan, and Israel in the establishment of their national systems of economic information. Kuznets cooperated with the Growth Center of Yale University, the Social Science Research Council (SSRC). He guided extensive research holding a number of positions in research institutions, such as the Chairman of the Falk Project for Economic Research in Israel, 1953–1963; member of the Board of Trustees and honorary chairman, Maurice Falk Institute for Economic Research in Israel, from 1963; and Chairman, Social Science Research Council Committee on the Economy of China, 1961–1970.
+
+Kuznets was elected as the President of the American Economic Association (1954), President of the American Statistical Association (1949), an honorable member of the Association of Economic History, the Royal Statistical Society of England and a member of the Econometric Society, the International Statistical Institute, the American Philosophical Society, the Royal Swedish Academy, a corresponding member of the British Academy. He was awarded the Medal of Francis Walker (1977).
+
+Simon Kuznets died on July 8, 1985, at the age of 84. In 2013 The Kharkiv National University of Economics where he studied in 1918–1921 was named after him (Semen Kuznets Kharkiv National University of Economics).
+
+Impact on economics
+
+His name is associated with the formation of the modern economic science such as an empirical discipline, the development of statistical methods of research and the emergence of quantitative economic history. Kuznets is credited with revolutionising econometrics, and this work is credited with fueling the so-called Keynesian revolution".
+
+Kuznets' views and scientific methodology were highly influenced by methodological settings received by him in Kharkiv and fully shared by Mitchell for the statistical, inductive construction of hypotheses in economics and its empirical testing. Kuznets treated a priori and speculative conceptions with deep skepticism. At the same time, Kuznets tended to analyze economy in connection and with the wider context of historical situation, demographic, social processes that was peculiar for the Kharkiv academics at the beginning of the 20th century. Kuznets was influenced by the work of such leading theorists as Joseph A. Schumpeter (who probed the relationship between technological change and business cycles), A. C. Pigou (who identified circumstances under which markets failed to maximize economic welfare), and Vilfredo Pareto (who propounded a law governing the distribution of income among households). Kuznets was closely familiar with the economics of Russia and Ukraine of the early 20th century. In the 1920s, he reviewed and translated the papers of Kondratiev, Slutsky, Pervushin, Weinstein. who were then little known in the West.
+
+Historical series of economic dynamics and Kuznets cycles, or "long swings"
+
+The first major research project in which Kuznets was involved was the study of long series of economic dynamics in the USA undertaken in the mid-1920s. The collected data covered the period from 1865 to 1925, and for some indices achieved 1770. Applying for the analysis of time series approximating Gompertz and logistic curves, Kuznets found that the characteristics of the curves with reasonable accuracy described the majority of economic processes. Fitting trend curves to data and analysis of the time series, comparison of theoretical and empirical levels, allowed him to identify medium-term extended cycles of economic activity, which lasted 15–25 years and had an intermediate position between the Kondratyev "long waves" and short business cycles. Aspiring to determine the nature of these cycles, Kuznets analyzed the dynamics of population, the construction industry performance, capital, national income data and other variables. These movements became known among economists and economic historians as "Kuznets cycles", and alternatively as "long swings" in the economy's growth rate (following the work of Moses Abramovitz ).
+
+National income accounts
+
+In 1931, at Mitchell's behest, Kuznets took charge of the NBER's work on U.S. national income accounts. In 1934, an assessment of the national income of the United States for the period 1929–1932 was given; further, it was extended to 1919–1938, and then, until 1869. Although Kuznets was not the first economist to try this, his work was so comprehensive and meticulous that it set the standard in the field.
+
+Kuznets had success to solve numerous problems ranging from lack of sources of information and bias assessments, to the development of the theoretical concept of national income. Kuznets achieved a high precision in calculations. His works allowed us to analyze the structure of the national income, and expose to detailed study a number of specific problems of the national economy. Improved methods for calculating the national income and related indicators have become classics and formed the basis of the modern system of national accounts. Having analyzed the distribution of income among different social groups, Kuznets put forward the hypothesis that in countries, which were on the early stages of economic development, income inequality increased first, but as far as national economy was growing, it tended to decrease. This assumption formed the basis of so-called "Kuznets curve" empirical conception.
+
+Kuznets helped the U.S. Department of Commerce to standardize the measurement of GNP. He disapproved, however, of its use as a general indication of welfare, writing that "the welfare of a nation can scarcely be inferred from a measure of national income."
+
+Exploring the formation of the national income, Kuznets studied proportions between output and income, consumption and savings, etc. After analyzing the long-term data sets of economic conditions for 20 countries, Kuznets revealed long-term trends in capital / output ratios, shares of net capital formation, net investment, and so on. Collected and systematized data allowed exposing to empirical testing a number of existing hypotheses. In particular, this concerned premises of the Keynes theory – Keynes' 1936 absolute income hypothesis.
+
+The hypothesis gave birth to what would become the first formal consumption function. However, Kuznets shook the economic world by finding that Keynes' predictions, while seemingly accurate in short-run cross-sections, broke down under more rigorous examination. In his 1942 tome Uses of National Income in Peace and War, published by the National Bureau of Economic Research, Kuznets became the first economist to show that the Absolute Income Hypothesis gives inaccurate predictions in the long run (by using time-series data). Keynes had predicted that as aggregate income increases, so will marginal savings. Kuznets used new data to show that, over a longer span of time (1870s – 1940s) the savings ratio remained constant, despite large changes in income. This paved the way for Milton Friedman's permanent income hypothesis, and several more modern alternatives such as the life-cycle hypothesis and the relative income hypothesis.
+
+Economic growth
+
+By the end of the Second World War Kuznets moved into a new research area, related to the tie between changes in income and growth. He proposed a research program that involved extensive empirical studies on the four key elements of economic growth. The elements were demographic growth, growth of knowledge, in-country adaptation to growth factors, and external economic relations between the countries. The general theory of economic growth should explain the development of advanced industrial countries, and the reasons that prevent the development of backward countries, include both market and planned economies, large and small, developed and developing countries, consider the impact on growth of foreign economic relations.
+
+He collected and analyzed statistical indicators of economic performance of 14 countries in Europe, the U.S. and Japan for 60 years. Analysis of the materials led to the advancement of a number of hypotheses relating to various aspects of the mechanism of economic growth, concerning the level and variability of growth, structure of the GNP and distribution of labor, the distribution of income between households, the structure of foreign trade. Kuznets founded the historically grounded theory of economic growth. The central theme of these empirical studies is that the growth of the aggregated product of the country necessarily implies a profound transformation of the whole of its economic structure. This transformation affects many aspects of economic life – the structure of production, sectoral and occupational structure of employment, the division of occupations among family and market activities, the income structure, size, age structure and spatial distribution of the population, cross-country flows of goods, capital, labor and knowledge, the organization of industry and governmental regulation. Such changes, in his opinion, are essential for overall growth and, once started, shape, constrain or support the subsequent economic development of the country. Kuznets made a profound analysis of the impact on economic growth by demographic processes and characteristics.
+
+His major thesis, which argued that underdeveloped countries of today possess characteristics different from those that industrialized countries faced before they developed, helped put an end to the simplistic view that all countries went through the same "linear stages" in their history and launched the separate field of development economics – which now focused on the analysis of modern underdeveloped countries' distinct experiences.
+
+Kuznets curve
+
+Among his several observations which sparked important theoretical research programs was the Kuznets curve, an inverted U-shaped relation between income inequality and economic growth (1955, 1963). In poor countries, economic growth increased the income disparity between rich and poor people. In wealthier countries, economic growth narrowed the difference. By noting patterns of income inequality in developed and underdeveloped countries, he proposed that as countries experienced economic growth, the income inequality first increases and then decreases. The reasoning was that in order to experience growth, countries had to shift from agricultural to industrial sectors. While there was little variation in the agricultural income, industrialization led to large differences in income. Additionally, as economies experienced growth, mass education provided greater opportunities which decreased the inequality and the lower income portion of the population gained political power to change governmental policies. He also discovered the patterns in savings-income behavior which launched the life-cycle-permanent-income hypothesis of Modigliani and Friedman. He conducted his research for many years and finally published his findings in 1963.
+
+Historical and economic works of the 1970s
+
+In his historical and economic studies of the 1970s, Kuznets expressed the idea of an interaction between science and technology (innovations), and institutional shifts, as well as the role of factors external to the economy, such as those caused by the moral and political climate in society, and their impact on the progress and results of economic growth.
+
+Kuznets was awarded by the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel in 1971 "for his empirically founded interpretation of economic growth which has led to new and deepened insight into the economic and social structure and process of development".
+
+Selected publications
+
+"Secular Movements in Production and Prices: Their Nature and Their Bearing upon Cyclical Fluctuations". (1930)
+
+"National Income and Capital Formation, 1919–1935". (1937)
+
+"National Income and Its Composition, 1919–1938". (1941) Assisted by Lillian Epstein and Elizabeth Jenks https://www.nber.org/chapters/c4224
+
+"Economic Growth and Income Inequality". American Economic Review 45 (March): 1–28. (1955)
+
+"Quantitative aspects of the economic growth of nations, VIII: The distribution of income by size", Economic Development and Cultural Change, 11, pp. 1–92. (1963)
+
+"Modern Economic Growth: Rate, Structure, and Spread". (1966)
+
+"Toward a Theory of Economic Growth, with Reflections on the Economic Growth of Modern Nations". (1968)
+
+"Economic Growth of Nations: Total Output and Production Structure". (1971)
+
+"Population, Capital and Growth". (1973)
+
+See also
+
+Capital formation
+
+Gross domestic product
+
+Information Revolution
+
+List of economists
+
+List of Jewish Nobel laureates
+
+Simon Kuznets Kharkiv National University of Economics
+
+References
+
+^ Noble Prize Laureate Database
+
+^ Abramovitz, Moses (2009). "Simon Kuznets 1901–1985". The Journal of Economic History. 46: 241–246. doi:10.1017/S0022050700045642.recent interview.
+
+^ Moskovkin V. M. and Mikhailichenko D. Yu. (2013). "Саймон Кузнец и харьковская высшая экономическая школа начала ХХ ст." (PDF). In Ponomarenko, V. S. (ed.). Кузнец С. Экономическая система д-ра Шумпетера, излагаемая и критикуемая. Kharkiv: ИД «ИНЖЕК». pp. 7–34. Archived from the original (PDF) on 2013-11-11. Retrieved 2013-11-15.
+
+^ Goldthwaite, Richard; Abramovitz M. (1986). "Association Notes: In Memoriam: Frederic C. Lane 1900–1984, Simon Kuznets 1901–1985". The Journal of Economic History. 46 (1): 239–246. doi:10.1017/S0022050700045630. JSTOR 2121281.
+
+^ a b Weyl, E. Glen (2007). "Simon Kuznets: Cautious Empiricist of the Eastern European Jewish Diaspora" (PDF). Harvard University Society of Fellows; Toulouse School of Economics. p. 8. Archived from the original (PDF) on 2013-10-17. Retrieved 2012-02-04.
+
+^ Харківський національний університет імені В.Н. Каразіна. "Про університет. Історична довідка". Retrieved 2012-02-04.
+
+^ Perlman, Mark (2001). "Schumpeter and Schools of Economic Thoughts". In Chaloupek, Günther; Guger, Alois; Nowotny, Ewald; Schwödiauer, Gerhard (eds.). Ökonomie in Theorie und Praxis: Festschrift für Helmut Frisch (in German and English) (German ed.). Springer. p. 286. ISBN 978-3540422402.
+
+^ Pressman, Steven (2006). Fifty Major Economists. Routledge. p. 181. ISBN 978-0415366489. Simon Kuznets university Kharkov.
+
+^ Simon, Kuznetz (2011). Weyl, E. Glen; Lo, Stephanie H. (eds.). Jewish Economies: Development and Migration in America and Beyond. I. Transaction Publishers. p. xix. ISBN 978-1412842112.
+
+^ Кузнец С. Денежная заработная плата рабочих и служащих фабрично-заводской промышленности г. Харькова в 1920 г. // Материалы по статистике труда на Украние. Под ред. Зав. отд. труда И. Н. Дубинской. – Вып. 2. – Июль 1921 г. – С. 53–64. (Репринтная публикация Бизнес Информ. – № 9 – 10. – 2002 г.)
+
+^ View/Search Fellows of the ASA, accessed 2016-07-23.
+
+^ a b Fogel, Robert (2000). "Simon S. Kuznets: April 30, 1901 – July 9, 1985". Biographical Memoirs. 79. doi:10.3386/w7787.
+
+^ Filatov, I. V. (2002). Теоретическое наследие С. Кузнеца и проблемы модернизации постсоциалистических стран // Социально-экономическая трансформация в России (PDF). Moscow. p. 80.
+
+^ Abramovitz, Moses (1961). "The Nature and Significance of Kuznets Cycles". Economic Development and Cultural Change. 9 (3): 225–248. doi:10.1086/449905. JSTOR 1151797.
+
+^ Abramovitz, Moses (1968). "The passing of the Kuznets cycle". Economica. 35 (140): 349–367. doi:10.2307/2552345. JSTOR 2552345.
+
+^ Rowe, Jonathan (June 2008) Our Phony Economy. Harper's Magazine
+
+^ Simon Kuznets, 1934. "National Income, 1929–1932". 73rd US Congress, 2d session, Senate document no. 124, page 7. http://library.bea.gov/u?/SOD,888 Archived 2008-12-16 at the Wayback Machine
+
+Further reading
+
+Ben-Porath Y. Simon Kuznets in Person and in Writing // Economic Development and Cultural Change, Vol. 36, No. 3 (Apr., 1988), pp. 435–447.
+
+Fogel, Robert W. (2000). "Simon S. Kuznets: April 30, 1901 – July 9, 1985". NBER Working Paper No. W7787.
+
+Fogel, Robert William; Fogel, Enid M.; Guglielmo, Mark; Grotte, Nathaniel (2013). Political Arithmetic: Simon Kuznets and the Empirical Tradition in Economics. Chicago: University of Chicago Press. ISBN 978-0-226-25661-0.
+
+Grinin, L., Korotayev, A. and Tausch A. (2016) Economic Cycles, Crises, and the Global Periphery. Springer International Publishing, Heidelberg, New York, Dordrecht, London, ISBN 978-3-319-17780-9; https://www.springer.com/de/book/9783319412603
+
+Hoselitz B. F. Bibliography of Simon Kuznets // Economic Development and Cultural Change, Vol. 31, No. 2 (Jan., 1983), pp. 433–454.
+
+Kapuria-Foreman V., Perlman M. An Economic Historian's Economist: Remembering Simon Kuznets // The Economic Journal, 105 (November), 1995, p. 1524–1547.
+
+Syed, Munir Khasru; Mohammad, Muaz Jalil (2004). "Revisiting Kuznets Hypothesis: An Analysis with Time Series and Panel Data". Bangladesh Development Studies. 30 (3–4): 89–112.
+
+Lundberg, Erik (1971). "Simon Kuznets contributions to Economics". The Swedish Journal of Economics. 73 (4): 444–459. doi:10.2307/3439225. JSTOR 3439225.
+
+Street J. H. The Contribution of Simon S. Kuznets to Institutionalist Development Theory // Journal of Economic Issues, Vol. 22, No. 2 (Jun., 1988), pp. 499–509.
+
+External links
+
+ Wikimedia Commons has media related to Simon Kuznets.
+
+ Wikiquote has quotations related to: Simon Kuznets
+
+Listen to this article 
+
+This audio file was created from a revision of this article dated 2016-01-23, and does not reflect subsequent edits.
+
+(Audio help
+
+More spoken articles
+
+)
+
+"Simon Kuznets (1901–1985)". The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.
+
+New School for Social Research. With partial bibliography and web links.
+
+Kuznets's Nobel Prize lecture.
+
+Fogel, Robert, 2000, "Simon S. Kuznets: 1901–1985," NBER Working Paper No. 7787.
+
+National Academy of Sciences Biographical Memoir
+
+Awards
+
+Preceded by
+
+Paul A. Samuelson
+ Laureate of the Nobel Memorial Prize in Economics
+
+1971
+ Succeeded by
+
+John R. Hicks
+
+Kenneth J. Arrow
+
+v
+
+t
+
+e
+
+Laureates of the Sveriges Riksbank Prize in Economic Sciences
+
+1969–1975 
+1969: Ragnar Frisch / Jan Tinbergen
+
+1970: Paul A. Samuelson
+
+1971: Simon Kuznets
+
+1972: John R. Hicks / Kenneth J. Arrow
+
+1973: Wassily Leontief
+
+1974: Gunnar Myrdal / Friedrich August von Hayek
+
+1975: Leonid Vitaliyevich Kantorovich / Tjalling C. Koopmans
+
+1976–2000 
+1976: Milton Friedman
+
+1977: Bertil Ohlin / James E. Meade
+
+1978: Herbert A. Simon
+
+1979: Theodore W. Schultz / Sir Arthur Lewis
+
+1980: Lawrence R. Klein
+
+1981: James Tobin
+
+1982: George J. Stigler
+
+1983: Gérard Debreu
+
+1984: Richard Stone
+
+1985: Franco Modigliani
+
+1986: James M. Buchanan Jr.
+
+1987: Robert M. Solow
+
+1988: Maurice Allais
+
+1989: Trygve Haavelmo
+
+1990: Harry M. Markowitz / Merton H. Miller / William F. Sharpe
+
+1991: Ronald H. Coase
+
+1992: Gary S. Becker
+
+1993: Robert W. Fogel / Douglass C. North
+
+1994: John C. Harsanyi / John F. Nash Jr. / Reinhard Selten
+
+1995: Robert E. Lucas Jr.
+
+1996: James A. Mirrlees / William Vickrey
+
+1997: Robert C. Merton / Myron S. Scholes
+
+1998: Amartya Sen
+
+1999: Robert A. Mundell
+
+2000: James J. Heckman / Daniel L. McFadden
+
+2001–present 
+2001: George A. Akerlof / A. Michael Spence / Joseph E. Stiglitz
+
+2002: Daniel Kahneman / Vernon L. Smith
+
+2003: Robert F. Engle III / Clive W.J. Granger
+
+2004: Finn E. Kydland / Edward C. Prescott
+
+2005: Robert J. Aumann / Thomas C. Schelling
+
+2006: Edmund S. Phelps
+
+2007: Leonid Hurwicz / Eric S. Maskin / Roger B. Myerson
+
+2008: Paul Krugman
+
+2009: Elinor Ostrom / Oliver E. Williamson
+
+2010: Peter A. Diamond / Dale T. Mortensen / Christopher A. Pissarides
+
+2011: Thomas J. Sargent / Christopher A. Sims
+
+2012: Alvin E. Roth / Lloyd S. Shapley
+
+2013: Eugene F. Fama / Lars Peter Hansen / Robert J. Shiller
+
+2014: Jean Tirole
+
+2015: Angus Deaton
+
+2016: Oliver Hart / Bengt Holmström
+
+2017: Richard H. Thaler
+
+2018: William Nordhaus / Paul Romer
+
+2019: Abhijit Banerjee / Esther Duflo / Michael Kremer
+
+v
+
+t
+
+e
+
+Institutional economics
+
+Institutional economists 
+Werner Abelshauser
+
+Clarence Edwin Ayres
+
+Joe S. Bain
+
+Shimshon Bichler
+
+Robert A. Brady
+
+Daniel Bromley
+
+Ha-Joon Chang
+
+John Maurice Clark
+
+John R. Commons
+
+Richard T. Ely
+
+Robert H. Frank
+
+John Kenneth Galbraith
+
+Walton Hale Hamilton
+
+Orris C. Herfindahl
+
+Albert O. Hirschman
+
+Geoffrey Hodgson
+
+János Kornai
+
+Simon Kuznets
+
+Hunter Lewis
+
+Jesse W. Markham
+
+Wesley Clair Mitchell
+
+Gunnar Myrdal
+
+Jonathan Nitzan
+
+Warren Samuels
+
+François Simiand
+
+Herbert A. Simon
+
+Frank Stilwell
+
+George W. Stocking Sr.
+
+Lars Pålsson Syll
+
+Thorstein Veblen
+
+Edward Lawrence Wheelwright
+
+Erich Zimmermann
+
+New institutional economists 
+Daron Acemoglu
+
+Armen Alchian
+
+Masahiko Aoki
+
+Steven N. S. Cheung
+
+Ronald Coase
+
+Harold Demsetz
+
+Avner Greif
+
+Claude Ménard
+
+Douglass North
+
+Mancur Olson
+
+Elinor Ostrom
+
+Oliver E. Williamson
+
+Behavioral economists 
+George Ainslie
+
+Dan Ariely
+
+Nava Ashraf
+
+Ofer Azar
+
+Douglas Bernheim
+
+Samuel Bowles
+
+Sarah Brosnan
+
+Colin Camerer
+
+David Cesarini
+
+Kay-Yut Chen
+
+Rachel Croson
+
+Werner De Bondt
+
+Paul Dolan
+
+Stephen Duneier
+
+Catherine C. Eckel
+
+Armin Falk
+
+Urs Fischbacher
+
+Herbert Gintis
+
+Uri Gneezy
+
+David Halpern
+
+Charles A. Holt
+
+David Ryan Just
+
+Daniel Kahneman
+
+Ariel Kalil
+
+George Katona
+
+Jeffrey R. Kling
+
+George Loewenstein
+
+Graham Loomes
+
+Brigitte C. Madrian
+
+Gary McClelland
+
+Matteo Motterlini
+
+Sendhil Mullainathan
+
+Michael Norton
+
+Matthew Rabin
+
+Howard Rachlin
+
+Klaus M. Schmidt
+
+Eldar Shafir
+
+Hersh Shefrin
+
+Robert J. Shiller
+
+Uwe Sunde
+
+Richard Thaler
+
+Amos Tversky
+
+Robert W. Vishny
+
+Georg Weizsäcker
+
+Key concepts and ideas 
+Accelerator effect
+
+Administered prices
+
+Barriers to entry
+
+Bounded rationality
+
+Conspicuous consumption
+
+Conspicuous leisure
+
+Conventional wisdom
+
+Countervailing power
+
+Effective competition
+
+Herfindahl index
+
+Hiding hand principle
+
+Hirschman cycle
+
+Instrumentalism
+
+Kuznets cycles
+
+Market concentration
+
+Market power
+
+Market structure
+
+Penalty of taking the lead
+
+Satisficing
+
+Shortage economy
+
+Structure–conduct–performance paradigm
+
+Technostructure
+
+Theory of two-level planning
+
+Veblen goods
+
+Veblenian dichotomy
+
+Related fields 
+Cultural economics
+
+Development economics
+
+Economic sociology
+
+English historical school of economics
+
+Evolutionary economics
+
+Evolutionary psychology
+
+French historical school
+
+Historical school of economics
+
+Legal realism
+
+Microeconomics
+
+Post-Keynesian economics
+
+v
+
+t
+
+e
+
+Presidents of the American Economic Association
+
+1886–1900 
+Francis A. Walker (1886)
+
+Charles F. Dunbar (1893)
+
+John B. Clark (1894)
+
+Henry C. Adams (1896)
+
+Arthur T. Hadley (1898)
+
+Richard T. Ely (1900)
+
+1901–1925 
+Edwin R. A. Seligman (1902)
+
+Frank W. Taussig (1904)
+
+Jeremiah W. Jenks (1906)
+
+Simon N. Patten (1908)
+
+Davis R. Dewey (1909)
+
+Edmund J. James (1910)
+
+Henry W. Farnam (1911)
+
+Frank A. Fetter (1912)
+
+David Kinley (1913)
+
+John H. Gray (1914)
+
+Walter F. Willcox (1915)
+
+Thomas N. Carver (1916)
+
+John R. Commons (1917)
+
+Irving Fisher (1918)
+
+Henry B. Gardner (1919)
+
+Herbert J. Davenport (1920)
+
+Jacob H. Hollander (1921)
+
+Henry R. Seager (1922)
+
+Carl C. Plehn (1923)
+
+Wesley C. Mitchell (1924)
+
+Allyn A. Young (1925)
+
+1926–1950 
+Edwin W. Kemmerer (1926)
+
+Thomas S. Adams (1927)
+
+Fred M. Taylor (1928)
+
+Edwin F. Gay (1929)
+
+Matthew B. Hammond (1930)
+
+Ernest L. Bogart (1931)
+
+George E. Barnett (1932)
+
+William Z. Ripley (1933)
+
+Harry A. Millis (1934)
+
+John M. Clark (1935)
+
+Alvin S. Johnson (1936)
+
+Oliver M. W. Sprague (1937)
+
+Alvin Hansen (1938)
+
+Jacob Viner (1939)
+
+Frederick C. Mills (1940)
+
+Sumner Slichter (1941)
+
+Edwin G. Nourse (1942)
+
+Albert B. Wolfe (1943)
+
+Joseph S. Davis (1944)
+
+I. Leo Sharfman (1945)
+
+Emanuel A. Goldenweiser (1946)
+
+Paul Douglas (1947)
+
+Joseph Schumpeter (1948)
+
+Howard S. Ellis (1949)
+
+Frank Knight (1950)
+
+1951–1975 
+John H. Williams (1951)
+
+Harold A. Innis (1952)
+
+Calvin B. Hoover (1953)
+
+Simon Kuznets (1954)
+
+John D. Black (1955)
+
+Edwin E. Witte (1956)
+
+Morris A. Copeland (1957)
+
+George W. Stocking (1958)
+
+Arthur F. Burns (1959)
+
+Theodore W. Schultz (1960)
+
+Paul A. Samuelson (1961)
+
+Edward S. Mason (1962)
+
+Gottfried Haberler (1963)
+
+George J. Stigler (1964)
+
+Joseph J. Spengler (1965)
+
+Fritz Machlup (1966)
+
+Milton Friedman (1967)
+
+Kenneth E. Boulding (1968)
+
+William J. Fellner (1969)
+
+Wassily Leontief (1970)
+
+James Tobin (1971)
+
+John Kenneth Galbraith (1972)
+
+Kenneth J. Arrow (1973)
+
+Walter W. Heller (1974)
+
+R. Aaron Gordon (1975)
+
+1976–2000 
+Franco Modigliani (1976)
+
+Lawrence R. Klein (1977)
+
+Jacob Marschak (1978)
+
+Tjalling C. Koopmans (1978)
+
+Robert M. Solow (1979)
+
+Moses Abramovitz (1980)
+
+William J. Baumol (1981)
+
+Gardner Ackley (1982)
+
+W. Arthur Lewis (1983)
+
+Charles L. Schultze (1984)
+
+Charles P. Kindleberger (1985)
+
+Alice M. Rivlin (1986)
+
+Gary S. Becker (1987)
+
+Robert Eisner (1988)
+
+Joseph A. Pechman (1989)
+
+Gérard Debreu (1990)
+
+Thomas C. Schelling (1991)
+
+William Vickrey (1992)
+
+Zvi Griliches (1993)
+
+Amartya Sen (1994)
+
+Victor R. Fuchs (1995)
+
+Anne O. Krueger (1996)
+
+Arnold C. Harberger (1997)
+
+Robert W. Fogel (1998)
+
+D. Gale Johnson (1999)
+
+Dale W. Jorgenson (2000)
+
+2001–present 
+Sherwin Rosen (2001)
+
+Robert Lucas Jr. (2002)
+
+Peter Diamond (2003)
+
+Martin Feldstein (2004)
+
+Daniel McFadden (2005)
+
+George Akerlof (2006)
+
+Thomas J. Sargent (2007)
+
+Avinash Dixit (2008)
+
+Angus Deaton (2009)
+
+Robert Hall (2010)
+
+Orley Ashenfelter (2011)
+
+Christopher A. Sims (2012)
+
+Claudia Goldin (2013)
+
+William Nordhaus (2014)
+
+Richard Thaler (2015)
+
+Robert J. Shiller (2016)
+
+Alvin E. Roth (2017)
+
+Olivier Blanchard (2018)
+
+Ben Bernanke (2019)
+
+David Card (2020)
+
+Authority control 
+BIBSYS: 90176399
+
+BNF: cb127745384 (data)
+
+CANTIC: a16484472
+
+GND: 118931067
+
+ISNI: 0000 0003 6984 5768
+
+LCCN: n79099294
+
+MGP: 199312
+
+NDL: 00446562
+
+NKC: jn20000603607
+
+NLI: 000299157
+
+NLK: KAC2018J0986
+
+NTA: 068465564
+
+SNAC: w6mw2jth
+
+SUDOC: 056745206
+
+VIAF: 240557688
+
+ WorldCat Identities: lccn-n79099294

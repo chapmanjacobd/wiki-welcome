@@ -1,0 +1,282 @@
+"Gemini Observatory Gemini North in Hawaii and Gemini South in Chile
+
+Organization Gemini Consortium (NSF-US, NRC-Canada, CONICYT-Chile, MCTI-Brazil, MCTIP-Argentina) and AURA
+
+Location Mauna Kea Access Rd, Hawaii, U.S.
+
+Cerro Pachón, Chile
+
+Coordinates 19°49′26″N 155°28′11″W / 19.82396°N 155.46984°W / 19.82396; -155.46984 (Gemini North Observatory)
+
+30°14′27″S 70°44′12″W / 30.24073°S 70.73659°W / -30.24073; -70.73659 (Gemini South Observatory)
+
+Altitude 4,213 m (13,822 ft)
+
+2,722 m (8,930 ft)
+
+Established 2000
+
+Website www.gemini.edu
+
+Telescopes
+
+Gemini North 8.1 m Cassegrain reflector
+
+Gemini South 8.1 m Cassegrain reflector
+
+Location of Gemini Observatory
+
+Related media on Wikimedia Commons
+
+The Gemini Observatory is an astronomical observatory consisting of two 8.1-metre (26.6 ft) telescopes, Gemini North and Gemini South, which are located at two separate sites in Hawaii and Chile, respectively. The twin Gemini telescopes provide almost complete coverage of both the northern and southern skies. They are currently among the largest and most advanced optical/infrared telescopes available to astronomers. (See List of largest optical reflecting telescopes).
+
+The National Science Foundation (NSF) of the United States, the National Research Council of Canada, CONICYT of Chile, MCTI of Brazil, and MCTIP of Argentina own and operate the Gemini Observatory. The NSF is currently (2017) the majority partner, contributing approximately 70% of the funding needed to operate and maintain both telescopes. The operations and maintenance of the observatory is managed by the Association of Universities for Research in Astronomy (AURA), through a cooperative agreement with NSF. NSF acts as the Executive Agency on behalf of the international partners.
+
+The Gemini telescopes house a suite of modern instruments, offer superb performance in the optical and near-infrared, and employ sophisticated adaptive optics technology to compensate for the blurring effects of the Earth's atmosphere. Gemini is a world-leader in wide-field adaptive optics assisted infrared imaging, and has recently commissioned the Gemini Planet Imager, an instrument that allows researchers to directly image and analyze exoplanets that are a millionth as bright as the host star around which they orbit. Gemini continues to support research in almost all areas of modern astronomy, including the Solar System, exoplanets, star formation and evolution, the structure and dynamics of galaxies, supermassive black holes, distant quasars, and the structure of the Universe on the largest scales.
+
+Past participants in the Gemini Observatory include Australia and the United Kingdom. The UK dropped out of the partnership at the end of 2012 and the Gemini Observatory has responded to the loss of funding by significantly reducing its operating costs, streamlining its operations, and implementing energy savings measures at each site. Both telescopes are also now operated remotely from Base Facility Operations centers in Hilo, Hawaii, and La Serena, Chile.
+
+Contents
+
+1 Overview
+
+2 History
+
+2.1 UK funding crisis
+
+3 Directorship
+
+4 Governance and oversight
+
+5 Instrumentation
+
+5.1 Adaptive optics
+
+5.2 Instruments
+
+5.3 Instrumentation development issues
+
+5.4 Second-round instrumentation development
+
+6 Observing and community support
+
+7 Prospects (2017 onwards)
+
+8 Observations and Research
+
+9 See also
+
+10 References
+
+11 External links
+
+Overview
+
+Top: Gemini North at the moment it is open and equalizing its temperature with the outside air during sunset
+
+Bottom: Gemini South located on Cerro Pachón in Chile
+
+Comparison of nominal sizes of apertures of the Gemini Observatory and some notable optical telescopes
+
+The Gemini Observatory's international Headquarters and Northern Operations Center is located in Hilo, Hawaii at the University of Hawaii at Hilo University Park. The Southern Operations Center is located on the Cerro Tololo Inter-American Observatory (CTIO) campus near La Serena, Chile.
+
+The "Gemini North" telescope, officially called the Frederick C. Gillett Gemini Telescope is located on Hawaii's Mauna Kea, along with many other telescopes. That location provides excellent viewing conditions due to the superb atmospheric conditions (stable, dry, and rarely cloudy) above the 4,200-metre-high (13,800 ft) dormant volcano. It saw first light in 1999 and began scientific operations in 2000.
+
+The "Gemini South" telescope is located at over 2,700 metres (8,900 ft) elevation on a mountain in the Chilean Andes called Cerro Pachón. Very dry air and negligible cloud cover make this another prime telescope location (again shared by several other observatories, including the Southern Astrophysical Research Telescope (SOAR) and Cerro Tololo Inter-American Observatory). Gemini South saw first light in 2000.
+
+Together, the two telescopes cover almost all of the sky except for two areas near the celestial poles: Gemini North cannot point north of declination +89 degrees, and Gemini South cannot point south of declination −89 degrees.
+
+Both Gemini telescopes employ a range of technologies to provide world-leading performance in optical and near-infrared astronomy, including laser guide stars, adaptive optics, multi conjugate adaptive optics, and multi-object spectroscopy. In addition, very high-quality infrared observations are possible due to the advanced protected silver coating applied to each telescope's mirrors, the small secondary mirrors in use (resulting in an f16 focal ratio), and the advanced ventilation systems installed at each site.
+
+History
+
+It is estimated that the two telescopes cost approximately US$184 million to construct, and a night on each Gemini telescope is worth tens of thousands of U.S. dollars.
+
+The two 8-meter mirror blanks, each weighing over 22 t (24 short tons), were fabricated from Corning's Ultra Low Expansion glass. Each blank was constructed by the fusing together of and subsequent sagging of a series of smaller hexagonal pieces. This work was performed at Corning's Canton Plant facility located in upstate New York. The blanks were then transported via ship to REOSC, located south of Paris for final grinding and polishing.
+
+One decision made during design to save money was eliminating the two Nasmyth platforms. This makes instruments like high resolution spectrographs and adaptive optics systems much more difficult to construct, due to the size and mass requirement inherent with Cassegrain instruments. A further challenge in designing large instruments is the requirement to have a specific mass and center-of-mass position to maintain the overall balance of the telescope.
+
+UK funding crisis
+
+In November 2007 it was announced that the UK's Science and Technology Facilities Council (STFC) had proposed that, to save £4 million annually, it would aim to leave the telescope's operating consortium. At a consortium meeting in January 2008, the conclusion was made that the UK would officially withdraw from the Gemini Partnership and the Gemini Observatory Agreement effective February 28, 2007. This decision significantly disrupted observatory budgets, and resulted in the cancellation of at least one instrument in development at that time, the Precision Radial Velocity Spectrograph.
+
+Since the reason for the UK breaking its part of the agreement seemed to be entirely financial, there was public outcry, including the "Save Astronomy" movement which asked citizens to speak up against the astronomy budget cuts. The UK rethought their decision to withdraw from Gemini, and requested reinstatement into the agreement, and were officially welcomed back on February 27, 2008. However, in December 2009 it was announced that the UK would indeed leave the Gemini partnership in 2012, as well as terminating several other international science partnerships, due to continuing funding limitations.
+
+Directorship
+
+The first director of Gemini was Matt Mountain, who after holding the post for eleven years left in September 2005 to become director of Space Telescope Science Institute (STScI). He was succeeded by Jean-René Roy, who served for nine months, after which time Doug Simons held the directorship from June 2006 to May 2011. He in turn was succeeded by an interim appointment of the then-retired Fred Chaffee, former director of W. M. Keck Observatory. Chaffee was succeeded in August 2012 by Markus Kissler-Patig, who held the post until June 2017. Dr. Laura Ferrarese succeeded Dr. Kissler-Patig in July 2017 with an interim appointment. The current director is Dr. Jennifer Lotz since September 6, 2018.
+
+Governance and oversight
+
+The Observatory is governed by the Gemini Board, as defined by the Gemini International Agreement. The Board sets budgetary policy bounds for the Observatory and carries out broad oversight functions, with advice from a Science and Technology Advisory sub-Committee (the STAC) and a Finance sub-Committee. The U.S. holds six of the 13 voting seats on the Gemini Board. The U.S. members of the Board typically serve three year terms and are recruited and nominated by the National Science Foundation (NSF), which represents the US community in all aspects of Gemini operations and development. Gemini is currently managed by the Association of Universities for Research in Astronomy (AURA), Inc., on behalf of the partnership through an award from NSF. AURA has operated Gemini since its construction in the 1990s.
+
+NSF serves as the Executive Agency and acts on behalf of the international participants. NSF has one seat on the Gemini Board; an additional NSF staff member serves as the Executive Secretary to the board. Programmatic management is the responsibility of an NSF Program Officer. The Program Officer monitors operations and development activities at the Observatory, nominates U.S. scientists to Gemini advisory committees, conducts reviews on behalf of the partnership, and approves funding actions, reports, and contracts.
+
+Instrumentation
+
+Gemini Planet Imager (GPI) image of a planet orbiting a distant star known as 51 Eridani. The bright central star has been mostly removed by a hardware and software mask to enable the detection of the exoplanet (labelled "b") that is one millionth as bright. Credits: J. Rameau (Univ. of Montreal) and C. Marois (NRC Herzberg, Canada).
+
+Adaptive optics
+
+Both Gemini telescopes employ sophisticated state-of-the-art adaptive optics systems. Gemini-N routinely uses the ALTAIR system, built in Canada, which achieves a 30–45% Strehl ratio on a 22.5-arcsecond-square field and can feed NIRI, NIFS or GNIRS; it can use natural or laser guide stars. In conjunction with NIRI it was responsible for the discovery of HR8799b.
+
+At Gemini-S the Gemini Multi-Conjugate Adaptive Optics System (GeMS) may be used with the FLAMINGOS-2 near-infrared imager and spectrometry, or the Gemini South Adaptive Optics Imager (GSAOI), which provides uniform, diffraction-limited image quality to arcminute-scale fields of view. GeMS achieved first light on December 16, 2011. Using a constellation of five laser guide stars, it achieved FWHM of 0.08 arc-seconds in H band over a field of 87 arc-seconds square.
+
+An adaptive secondary mirror has been considered for Gemini, which would provide reasonable adaptive-optics corrections (equivalent to natural seeing at the 20th-percentile level for 80% of the time) to all instruments on the telescope to which it is attached. However, as of 2017, there are no plans to implement such an upgrade to either telescope.
+
+Instruments
+
+In recent years the Gemini Board has directed the observatory to support only four instruments at each telescope. Because Gemini-N and Gemini-S are essentially identical, the observatory is able to move instruments between the two sites, and does so on a regular basis. Two of the most popular instruments are the Gemini Multi-Object Spectrographs (GMOS) on each of the telescopes. Built in Edinburgh, Scotland by the UK Astronomy Technology Centre, these instruments provide multi-object spectroscopy, long-slit spectroscopy, imaging, and integral field spectroscopy at optical wavelengths. The detectors in each instrument have recently been upgraded with Hamamatsu Photonics devices, which significantly improve performance in the far red part of the optical spectrum (700–1,000 nm).
+
+Near-infrared imaging and spectroscopy are provided by the NIRI, NIFS, GNIRS, FLAMINGOS-2, and GSAOI instruments. The availability and detailed descriptions of these instruments is documented on the Gemini Observatory Web site.
+
+One of the most exciting new instruments at Gemini is GPI, the Gemini Planet Imager. GPI was built by a consortium of US and Canadian institutions to fulfill the requirements of the ExAOC Extreme Adaptive Optics Coronagraph proposal. GPI is an extreme adaptive-optics imaging polarimeter/integral-field spectrometer, which provides diffraction-limited data between 0.9 and 2.4 microns. GPI is able to directly image planets around nearby stars that are one-millionth as bright as their host star.
+
+Gemini also supports a vigorous visitor instrument program. Instruments may be brought to either telescope for short periods of time and used for specific observing programs by the instrument teams. In return for access to Gemini, the instruments are then made available to the entire Gemini community, so that they may be used for other science projects. Instruments that have made use of this program include the Differential Speckle Survey Instrument (DSSI), the Phoenix near-infrared echelle spectrometer, and the TEXES mid-infrared spectrometer. The ESPaDOnS spectrograph situated in the basement of the Canada–France–Hawaii Telescope (CFHT) is also being used as a "visitor instrument", even though it never moves from CFHT. The instrument is connected to Gemini-North via a 270 meter long optic fibre. Known as GRACES, this arrangement provides very high resolution optical spectroscopy on an 8-meter class telescope.
+
+Gemini's silver coating and infrared optimization allow sensitive observations in the mid-infrared part of the spectrum (5–27 µm). Historically, mid-infrared observations have been obtained using T-ReCS at Gemini South and Michelle at Gemini North. Both instruments have imaging and spectroscopic capabilities, though neither is currently being used at Gemini.
+
+Instrumentation development issues
+
+The first phase of Gemini instrumentation development did not run smoothly; schedules slipped by several years, and budgets sometimes overran by as much as a factor of two. In 2003 the instrument-development process was re-analysed in the Aspen report; for example, an incentive program was introduced where instrument developers were guaranteed substantial allocations of telescope time if they delivered the instrument on time and lose it as the instrument is delayed.
+
+A wide-field multi-object spectrograph achieved substantial scientific support, but would have required major changes to the design of the telescope – effectively it would have required one of the telescopes to be devoted to that instrument. The project was terminated in 2009.
+
+Second-round instrumentation development
+
+In January 2012, the Gemini Observatory started a new round of instrumentation development. This process has since resulted in the development of a high-resolution optical spectrograph known as GHOST, to be commissioned in 2018. More recently, the Gemini Instrument Feasibility Studies (GIFS) process has led to a solicitation for a medium-resolution, wide-band (350 nm to 2.5 µm in a single exposure) spectrograph. Proposals have been received and a contract is expected to be placed in early 2017, with development to begin shortly thereafter.
+
+Observing and community support
+
+The Gemini Observatory's primary mission is to serve the general astronomical communities in all of the participant countries; indeed, the Observatory provides the bulk of general access to large optical/infrared telescopes for many of the participants, and represents the only public-access 8 meter class facility in the U.S. The observatory reaches out to its community through National Gemini Offices (NGOs), the U.S. office being located in Tucson at the National Optical Astronomy Observatory. The NGOs provide general support to the users, from proposal preparation through data acquisition, reduction, and analysis.
+
+In any given year the two telescopes typically provided data for over 400 discrete science projects, over two-thirds of which are led by U.S. astronomers. About 50-70 percent of the top-ranked "Band 1" proposals reach 100 percent completion in any given year. Of order 90 percent of the available (clear weather) time is used for science, the rest being allocated to scheduled maintenance or lost to unforeseen technical faults.
+
+Gemini has in recent years developed innovative new observing modes. These include the ‘Large and Long’ program to support requests for large amounts of telescope time and the ‘Fast Turnaround’ program to provide quick access to the telescope. These and other modes have been approved by the Gemini Board of Directors and are proving popular with the user community. In 2015 up to 20 percent of available telescope time was used for Large and Long programs, which in terms of hours of observing attracted five times more user demand than could be accommodated. In the same period approximately 10 percent of telescope time was assigned to the Fast Turnaround program, which in the second half of 2015 was over-subscribed by a factor of 1.6. In 2015 the remaining U.S. time allocation on Gemini was over-subscribed by a factor of approximately 2, consistent with recent years.
+
+Prospects (2017 onwards)
+
+In 2010, the U.S. National Research Council (NRC) conducted its sixth decadal survey in astronomy and astrophysics to recommend key science questions and new initiatives for the current decade. Since both the NRC recommendations and current programs could not be accommodated within subsequent budget projections, the National Science Foundation's Division of Astronomical Sciences, through the Advisory Committee of the Directorate for Mathematical and Physical Sciences (MPS), conducted a community-based portfolio review to make implementation recommendations that would best respond to the decadal survey science questions. The resulting report, Advancing Astronomy in the Coming Decade: Opportunities and Challenges, was released in August 2012 and included recommendations related to all of the major telescope facilities funded by NSF. The Portfolio Review Committee report ranked Gemini Observatory as a critical component of the U.S.'s future astronomical research resources and recommended that the U.S. retain a majority share in the international partnership for at least the next several years. However, given the constraints that were considered, the Committee recommended that the U.S. contribution to Gemini operations be capped in 2017 and beyond.
+
+NSF has since commissioned a National Research Council study, titled "A Strategy to Optimize the U.S. Optical/Infrared System in the Era of the Large Synoptic Survey Telescope". The report made a recommendation that NSF work with its partners in Gemini to ensure that Gemini-South is well positioned for faint-object spectroscopy early in the era of the Large Synoptic Survey Telescope (LSST). Observatory support for the development of a next-generation medium-resolution spectrograph over the next 5–6 years addresses this recommendation directly.
+
+With the signing of the new International Agreement in late 2015, support from the five signatories (the U.S., Canada, Argentina, Brazil, and Chile) is secured for the period 2016-2021. There is also a strong possibility that current limited-term partners, Australia and Korea, will continue their relationship with the observatory in this manner, or will seek to transition to being full participants before the end of the current agreement.
+
+Observations and Research
+
+The Gemini was one of the telescopes that observed the turn-on of a nuclear transient, along with the Swift space telescope (aka Neil Gehrels Swift Observatory since 2018) and the Hiltner telescope (MDM observatory). The transient event was called PS1-13cbe and was located in the Galaxy SDSS J222153.87+003054.2 
+
+See also
+
+Kronberger 61
+
+List of largest optical reflecting telescopes
+
+Mauna Kea Observatories
+
+References
+
+^ "Gemini Telescope on Mauna Kea Named in Honor of Dr. Frederick C. Gillett | Gemini Observatory". Gemini.edu. Retrieved 2013-11-15.
+
+^ "Ausgo Faq". Ausgo.aao.gov.au. Retrieved 2013-11-15.
+
+^ "Study Astronomy Online". Saveastronomy.org.uk. Retrieved 2013-11-15.
+
+^  Archived December 22, 2009, at Archive.today
+
+^ "AURA and Gemini Observatory Announce New Director | SpaceRef - Your Space Reference". SpaceRef. 2006-02-20. Retrieved 2013-11-15.
+
+^ "AURA selects Kissler-Patig as new Gemini Observatory Director". 2012-03-23. Retrieved 2012-03-24.
+
+^ "Dr. Laura Ferrarese Appointed Interim Director of Gemini Observatory". 2017-07-02. Retrieved 2012-03-24.
+
+^ "Gemini Observatory : Adaptive Optics Instrumentation and Capabilities" (PDF). Noao.edu. Retrieved 2013-11-15.
+
+^ "Revolutionary Instrument Propels Astronomical Imaging to New Extremes | Gemini Observatory". Gemini.edu. Retrieved 2013-11-15.
+
+^ "Gemini Ground Layer Adaptive Optics Feasibility Study Report" (PDF). Gemini.edu. Retrieved 2013-11-15.
+
+^ "GMOS | Gemini Observatory". Retrieved 2018-08-14.
+
+^ http://www.gemini.edu/
+
+^ "Gemini Planet Imager". Planetimager.org. Retrieved 2013-11-15.
+
+^ "Managing Gemini Observatory's Future Instrumentation Program" (PDF). Lna.br. Retrieved 2013-11-15.
+
+^ "Gemini Board WFMOS Resolution | Gemini Observatory". Gemini.edu. 2009-06-01. Retrieved 2013-11-15.
+
+^ "Call for White Papers to define the Gemini InfraRed-Optical Spectrometer (GIROS) | Gemini Observatory". Gemini.edu. Retrieved 2013-11-15.
+
+^ Advancing Astronomy in the Coming Decade: Opportunities and Challenges
+
+^ http://sites.nationalacademies.org/BPA/BPA_087934
+
+^ a b "Rapid 'turn-on' of a nuclear transient observed by astronomers". phys.org. Retrieved 2019-10-14.
+
+External links
+
+Official website
+
+Gemini Observatory Image Gallery
+
+UK Re-instated as Partner in Gemini
+
+Save Astronomy
+
+UK Update of Gemini Partnership
+
+Resolution of UK Partnership Issue
+
+Photos of Gemini and other Mauna Kea observatories from A Gentle Rain of Starlight: The Story of Astronomy on Mauna Kea by Michael J. West. ISBN 0-931548-99-3.
+
+"Science funding cuts to hit UK astronomers" — The Daily Telegraph
+
+v
+
+t
+
+e
+
+Astronomical observatories in Chile
+
+Antofagasta Region 
+ACT
+
+Cerro Armazones
+
+CLASS
+
+Llano de Chajnantor (APEX
+
+ALMA
+
+ASTE
+
+HTT
+
+NANTEN2
+
+QUIET)
+
+Paranal
+
+TAO
+
+Coquimbo Region 
+Cerro Pachón (Gemini
+
+LSST
+
+SOAR)
+
+Cerro Tololo
+
+La Silla
+
+Las Campanas
+
+Santiago Metropolitan Region 
+National Astronomical Observatory
+
+Cerro El Roble

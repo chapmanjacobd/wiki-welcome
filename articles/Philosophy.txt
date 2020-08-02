@@ -1,0 +1,2923 @@
+"For other uses, see Philosophy (disambiguation).
+
+Study of the truths and principles of being, knowledge, or conduct
+
+The School of Athens (1509–1511) by Raphael, depicting famous classical Greek philosophers in an idealized setting inspired by ancient Greek architecture
+
+ Part of a series on
+
+Philosophy
+
+Plato
+
+Kant
+
+Nietzsche
+
+Buddha
+
+Confucius
+
+Averroes
+
+Branches
+
+Aesthetics
+
+Epistemology
+
+Ethics
+
+Legal philosophy
+
+Logic
+
+Metaphysics
+
+Political philosophy
+
+Social philosophy
+
+Periods
+
+Ancient
+
+Medieval
+
+Modern
+
+Contemporary
+
+Traditions
+
+African
+
+Analytic
+
+Aristotelian
+
+Chinese
+
+Christian
+Augustinian
+
+Thomist
+
+Scotist
+
+Occamist
+
+Humanist
+
+Continental
+
+Eastern
+
+Egyptian
+
+Existential
+
+Hellenistic
+Neoplatonic
+
+Indian
+Hindu
+
+Jain
+
+Buddhist
+
+Jewish
+Judeo-Islamic
+
+Pragmatism
+
+Islamic
+Avicennist
+
+Averroist
+
+Classical
+
+Illuminationist
+
+Sufi
+
+Middle-Eastern
+Iranian
+
+Platonic
+
+Western
+
+Literature
+
+Aesthetics
+
+Epistemology
+
+Ethics
+
+Logic
+
+Metaphysics
+
+Political philosophy
+
+Philosophers
+
+Aestheticians
+
+Epistemologists
+
+Ethicists
+
+Logicians
+
+Metaphysicians
+
+Social and political philosophers
+
+Lists
+
+Index
+
+Outline
+
+Years
+
+Problems
+
+Publications
+
+Theories
+
+Glossary
+
+Philosophers
+
+Miscellaneous
+
+Philosopher
+
+Philomath
+
+Wisdom
+
+Women in philosophy
+
+ Philosophy portal
+
+v
+
+t
+
+e
+
+Philosophy (from Greek: φιλοσοφία, philosophia, 'love of wisdom') is the study of general and fundamental questions about existence, knowledge, values, reason, mind, and language. Such questions are often posed as problems to be studied or resolved. The term was probably coined by Pythagoras (c. 570 – 495 BCE). Philosophical methods include questioning, critical discussion, rational argument, and systematic presentation. 
+
+Classic philosophical questions include: "Is it possible to know anything?", and if so, "Can we prove it?" Philosophers also pose more practical and concrete questions such as: "Is there a best way to live?", "Is it better to be just, even if one could get away with being unjust?", 'do humans have free will?'
+
+Historically, philosophy encompassed all bodies of knowledge. From the time of Ancient Greek philosopher Aristotle to the 19th century, "natural philosophy" encompassed astronomy, medicine, and physics. For example, Newton's 1687 Mathematical Principles of Natural Philosophy later became classified as a book of physics. 
+
+In the 19th century, the growth of modern research universities led academic philosophy and other disciplines to professionalize and specialize. In the modern era, some investigations that were traditionally part of philosophy became separate academic disciplines, including psychology, sociology, linguistics, and economics. Other investigations closely related to art, science, politics, or other pursuits remained part of philosophy. For example, is beauty objective or subjective? Are there many scientific methods or just one? Is political utopia a hopeful dream or hopeless fantasy? 
+
+Major subfields of academic philosophy include metaphysics, which is concerned with the fundamental nature of existence and reality; epistemology, which studies the nature of knowledge and belief; ethics, which is concerned with moral value; and logic, which studies the rules of inference that allow one to deduce conclusions from true premises. Other notable subfields include philosophy of science, political philosophy, aesthetics, philosophy of language, and philosophy of mind.
+
+Contents
+
+1 Introduction
+
+1.1 Knowledge
+
+1.2 Philosophical progress
+
+2 Historical overview
+
+2.1 Western philosophy
+
+2.1.1 Ancient era
+
+2.1.2 Medieval era
+
+2.1.3 Modern era
+
+2.2 Middle Eastern philosophy
+
+2.3 Indian philosophy
+
+2.3.1 Jain philosophy
+
+2.3.2 Buddhist philosophy
+
+2.3.3 Hindu philosophies
+
+2.4 East Asian philosophy
+
+2.5 African philosophy
+
+2.6 Indigenous American philosophy
+
+2.7 Women in philosophy
+
+3 Branches of philosophy
+
+3.1 Epistemology, metaphysics, and related branches
+
+3.1.1 Epistemology
+
+3.1.2 Metaphysics
+
+3.1.3 Mind and language
+
+3.2 Value theory
+
+3.2.1 Ethics
+
+3.2.2 Aesthetics
+
+3.2.3 Political philosophy
+
+3.2.4 Other branches of value theory
+
+3.3 Logic, science, and mathematics
+
+3.3.1 Logic
+
+3.3.2 Philosophy of science
+
+3.3.3 Philosophy of mathematics
+
+3.4 History of philosophy
+
+3.5 Other subfields
+
+3.5.1 Philosophy of religion
+
+3.5.2 Metaphilosophy
+
+4 Applied philosophy
+
+4.1 Society
+
+5 Professional philosophy
+
+6 See also
+
+7 References
+
+7.1 Notes
+
+7.2 Citations
+
+7.3 Bibliography
+
+8 Further reading
+
+8.1 General introduction
+
+8.2 Topical introductions
+
+8.2.1 African
+
+8.2.2 Eastern
+
+8.2.3 Islamic
+
+8.3 Historical introductions
+
+8.3.1 General
+
+8.3.2 Ancient
+
+8.3.3 Medieval
+
+8.3.4 Modern & contemporary
+
+8.4 Reference works
+
+9 External links
+
+Introduction
+
+Knowledge
+
+Initially, the term 'philosophy' referred to any body of knowledge. In this sense, philosophy is closely related to religion, mathematics, natural science, education, and politics. Though as of the 2000s it has been classified as a book of physics, Newton's Mathematical Principles of Natural Philosophy (1687) uses the term natural philosophy as it was understood at the time to encompass disciplines, such as astronomy, medicine and physics, that later became associated with sciences.
+
+In the first part of his Academica 1, Cicero introduced the division of philosophy into logic, physics, and ethics, emulating Epicurus' division of his doctrine into canon, physics, and ethics. 
+
+In section thirteen of his Lives and Opinions of the Eminent Philosophers 1, Diogenes Laërtius (3rd century), the first historian of philosophy, established the traditional division of philosophical inquiry into three parts:
+
+Natural philosophy (i.e. physics, from Greek: ta physika, lit. 'things having to do with physis ') was the study of the constitution and processes of transformation in the physical world;
+
+Moral philosophy (i.e. ethics, from êthika, 'having to do with character, disposition, manners') was the study of goodness, right and wrong, justice and virtue; and
+
+Metaphysical philosophy (i.e. logic, from logikós, 'of or pertaining to reason or speech') was the study of existence, causation, God, logic, forms, and other abstract objects (meta ta physika, 'after the Physics').
+
+This division is not obsolete but has changed: natural philosophy has split into the various natural sciences, especially physics, astronomy, chemistry, biology, and cosmology; moral philosophy has birthed the social sciences, while still including value theory (e.g. ethics, aesthetics, political philosophy, etc.); and metaphysical philosophy has given way to formal sciences such as logic, mathematics and philosophy of science, while still including epistemology, cosmology, etc.
+
+Philosophical progress
+
+Many philosophical debates that began in ancient times are still debated today. McGinn (1993) and others claim that no philosophical progress has occurred during that interval. Chalmers (2013) and others, by contrast, see progress in philosophy similar to that in science, while Brewer (2011) argued that "progress" is the wrong standard by which to judge philosophical activity.
+
+Historical overview 
+
+In one general sense, philosophy is associated with wisdom, intellectual culture, and a search for knowledge. In this sense, all cultures and literate societies ask philosophical questions, such as "how are we to live" and "what is the nature of reality." A broad and impartial conception of philosophy, then, finds a reasoned inquiry into such matters as reality, morality, and life in all world civilizations.
+
+Western philosophy
+
+Main article: Western philosophy
+
+Bust of Socrates in the Vatican Museum
+
+Statue of Aristotle in the Aristotlepark of Stagira
+
+Western philosophy is the philosophical tradition of the Western world, dating back to pre-Socratic thinkers who were active in 6th-century Greece (BCE), such as Thales (c. 624 – 546 BCE) and Pythagoras (c. 570 – 495 BCE) who practiced a 'love of wisdom' (Latin: philosophia) and were also termed 'students of nature' (physiologoi). 
+
+Western philosophy can be divided into three eras: 
+
+Ancient (Greco-Roman);
+
+Medieval philosophy (Christian European); and
+
+Modern philosophy.
+
+Ancient era
+
+While our knowledge of the ancient era begins with Thales in the 6th century BCE, comparatively little is known about the philosophers who came before Socrates (commonly known as the pre-Socratics). The ancient era was dominated by Greek philosophical schools, which were significantly influenced by Socrates' teachings. Most notable among these were Plato, who founded the Platonic Academy, and his student Aristotle, who founded the Peripatetic school. Other ancient philosophical traditions included Cynicism, Stoicism, Skepticism and Epicureanism. Important topics covered by the Greeks included metaphysics (with competing theories such as atomism and monism), cosmology, the nature of the well-lived life (eudaimonia), the possibility of knowledge and the nature of reason (logos). With the rise of the Roman empire, Greek philosophy was also increasingly discussed in Latin by Romans such as Cicero and Seneca (see Roman philosophy).
+
+Medieval era
+
+Medieval philosophy (5th–16th centuries) is the period following the fall of the Western Roman Empire and was dominated by the rise of Christianity and hence reflects Judeo-Christian theological concerns as well as retaining a continuity with Greco-Roman thought. Problems such as the existence and nature of God, the nature of faith and reason, metaphysics, the problem of evil were discussed in this period. Some key Medieval thinkers include St. Augustine, Thomas Aquinas, Boethius, Anselm and Roger Bacon. Philosophy for these thinkers was viewed as an aid to Theology (ancilla theologiae) and hence they sought to align their philosophy with their interpretation of sacred scripture. This period saw the development of Scholasticism, a text critical method developed in medieval universities based on close reading and disputation on key texts. The Renaissance period saw increasing focus on classic Greco-Roman thought and on a robust Humanism.
+
+Modern era
+
+Early modern philosophy in the Western world begins with thinkers such as Thomas Hobbes and René Descartes (1596–1650). Following the rise of natural science, modern philosophy was concerned with developing a secular and rational foundation for knowledge and moved away from traditional structures of authority such as religion, scholastic thought and the Church. Major modern philosophers include Spinoza, Leibniz, Locke, Berkeley, Hume, and Kant. 
+
+19th-century philosophy (sometimes called late modern philosophy) was influenced by the wider 18th-century movement termed "the Enlightenment", and includes figures such as Hegel a key figure in German idealism, Kierkegaard who developed the foundations for existentialism, Nietzsche a famed anti-Christian, John Stuart Mill who promoted utilitarianism, Karl Marx who developed the foundations for communism and the American William James. The 20th century saw the split between analytic philosophy and continental philosophy, as well as philosophical trends such as phenomenology, existentialism, logical positivism, pragmatism and the linguistic turn (see Contemporary philosophy).
+
+Middle Eastern philosophy
+
+An Iranian portrait of Avicenna on a Silver Vase. He was one of the most influential philosophers of the Islamic Golden Age.
+
+See also: Islamic philosophy and Middle Eastern philosophy
+
+The regions of the fertile Crescent, Iran and Arabia are home to the earliest known philosophical Wisdom literature and is today mostly dominated by Islamic culture. Early wisdom literature from the fertile crescent was a genre which sought to instruct people on ethical action, practical living and virtue through stories and proverbs. In Ancient Egypt, these texts were known as sebayt ('teachings') and they are central to our understandings of Ancient Egyptian philosophy. Babylonian astronomy also included much philosophical speculations about cosmology which may have influenced the Ancient Greeks. Jewish philosophy and Christian philosophy are religio-philosophical traditions that developed both in the Middle East and in Europe, which both share certain early Judaic texts (mainly the Tanakh) and monotheistic beliefs. Jewish thinkers such as the Geonim of the Talmudic Academies in Babylonia and Maimonides engaged with Greek and Islamic philosophy. Later Jewish philosophy came under strong Western intellectual influences and includes the works of Moses Mendelssohn who ushered in the Haskalah (the Jewish Enlightenment), Jewish existentialism, and Reform Judaism.
+
+Pre-Islamic Iranian philosophy begins with the work of Zoroaster, one of the first promoters of monotheism and of the dualism between good and evil. This dualistic cosmogony influenced later Iranian developments such as Manichaeism, Mazdakism, and Zurvanism.
+
+After the Muslim conquests, Early Islamic philosophy developed the Greek philosophical traditions in new innovative directions. This Islamic Golden Age influenced European intellectual developments. The two main currents of early Islamic thought are Kalam which focuses on Islamic theology and Falsafa which was based on Aristotelianism and Neoplatonism. The work of Aristotle was very influential among the falsafa such as al-Kindi (9th century), Avicenna (980 – June 1037) and Averroes (12th century). Others such as Al-Ghazali were highly critical of the methods of the Aristotelian falsafa. Islamic thinkers also developed a scientific method, experimental medicine, a theory of optics and a legal philosophy. Ibn Khaldun was an influential thinker in philosophy of history.
+
+In Iran, several schools of Islamic philosophy continued to flourish after the Golden Age and include currents such as Illuminationist philosophy, Sufi philosophy, and Transcendent theosophy. The 19th- and 20th-century Arab world saw the Nahda movement (literally meaning 'The Awakening'; also known as the 'Arab Renaissance'), which had a considerable influence on contemporary Islamic philosophy.
+
+Indian philosophy
+
+Main articles: Indian philosophy, Indonesian philosophy, and Eastern philosophy
+
+Indian philosophy (Sanskrit: darśana, lit. 'point of view', 'perspective') refers to the diverse philosophical traditions that emerged since the ancient times on the Indian subcontinent. Jainism and Buddhism originated at the end of the Vedic period, while Hinduism emerged after the period as a fusion of diverse traditions.
+
+Hindus generally classify these traditions as either orthodox (āstika) or heterodox (nāstika) depending on whether they accept the authority of the Vedas and the theories of brahman ('eternal', 'conscious', 'irreducible') and ātman ('soul', 'self', 'breathe') therein. The orthodox schools include the Hindu traditions of thought, while the heterodox schools include the Buddhist and the Jain traditions. Other schools include the Ajñana, Ājīvika, and Cārvāka which became extinct over their history.
+
+Important Indian philosophical concepts shared by the Indian philosophies and virtues include: 
+
+dhárma ('that which upholds or supports');
+
+karma (kárman, 'act', 'action', 'performance');
+
+artha ('wealth', 'property');
+
+kā́ma ('desire');
+
+duḥkha ('suffering');
+
+anitya (from Buddhist: anicca, 'impermanence');
+
+dhyāna (or jhāna; 'meditation');
+
+saṃnyāsa ('renunciation'), renouncing with or without monasticism or asceticism;
+
+saṃsāra ('passage' or 'wandering'), various cycles of death and rebirth;
+
+kaivalya ('separateness'), a state of mokṣa ('release', 'liberation', 'nirvana') from rebirth; and
+
+ahiṃsā ('nonviolence').
+
+Jain philosophy
+
+Akalanka, an 8th century Jain monk and philosopher who wrote influential works on Indian Logic
+
+Main article: Jain philosophy
+
+Jain philosophy accepts the concept of a permanent soul (jiva) as one of the five astikayas (eternal, infinite categories that make up the substance of existence). The other four being dhárma, adharma, ākāśa ('space'), and pudgala ('matter'). 
+
+The Jain thought separates matter from the soul completely, with two major subtraditions: Digambara ('sky dressed', 'naked') and Śvētāmbara ('white dressed'), along with several more minor traditions such as Terapanthi. 
+
+Asceticism is a major monastic virtue in Jainism. Jain texts such as the Tattvartha Sutra state that right faith, right knowledge and right conduct is the path to liberation. The Jain thought holds that all existence is cyclic, eternal and uncreated. The Tattvartha Sutra is the earliest known, most comprehensive and authoritative compilation of Jain philosophy.
+
+Buddhist philosophy
+
+Main article: Buddhist philosophy
+
+Play media
+
+Monks debating at Sera monastery, Tibet, 2013. According to Jan Westerhoff, "public debates constituted the most important and most visible forms of philosophical exchange" in ancient Indian intellectual life.
+
+Buddhist philosophy begins with the thought of Gautama Buddha (fl. between 6th and 4th century BCE) and is preserved in the early Buddhist texts. It originated in India and later spread to East Asia, Tibet, Central Asia, and Southeast Asia, developing various traditions in these regions. Mahayana forms are the dominant Buddhist philosophical traditions in East Asian regions such as China, Korea and Japan. The Theravada forms are dominant in Southeast Asian countries, such as Sri Lanka, Burma and Thailand.
+
+Because ignorance to the true nature of things is considered one of the roots of suffering (dukkha), Buddhist philosophy is concerned with epistemology, metaphysics, ethics and psychology. Buddhist philosophical texts must also be understood within the context of meditative practices which are supposed to bring about certain cognitive shifts.:8 Key innovative concepts include the four noble truths as an analysis of dukkha, anicca (impermanence), and anatta (non-self).
+
+After the death of the Buddha, various groups began to systematize his main teachings, eventually developing comprehensive philosophical systems termed Abhidharma.:37 Following the Abhidharma schools, Mahayana philosophers such as Nagarjuna and Vasubandhu developed the theories of śūnyatā ('emptiness of all phenomena') and vijñapti-matra ('appearance only'), a form of phenomenology or transcendental idealism. The Dignāga school of pramāṇa ('means of knowledge') promoted a sophisticated form of Buddhist logico-epistemology.
+
+There were numerous schools, sub-schools and traditions of Buddhist philosophy in India. According to Oxford professor of Buddhist philosophy Jan Westerhoff, the major Indian schools from 300 BCE to 1000 CE were::xxiv
+
+The Mahāsāṃghika tradition.
+
+The Sthavira schools which include: Sarvāstivāda, Sautrāntika, Vibhajyavāda (later known as Theravada in Sri Lanka), and Pudgalavāda.
+
+The Mahayana schools, mainly the Madhyamaka, Yogachara, Tathāgatagarbha and Tantra.
+
+After the disappearance of Buddhism from India, some of these philosophical traditions continued to develop in the Tibetan Buddhist, East Asian Buddhist and Theravada Buddhist traditions.
+
+Hindu philosophies
+
+Adi Shankara is one of the most frequently studied Hindu philosophers.
+
+Main article: Hindu philosophy
+
+The Vedas-based orthodox schools are a part of the Hindu traditions and they are traditionally classified into six darśanas: Nyaya, Vaisheshika, Samkhya, Yoga, Mīmāṃsā, and Vedanta. The Vedas as a knowledge source were interpreted differently by these six schools of Hindu philosophy, with varying degrees of overlap. They represent a "collection of philosophical views that share a textual connection," according to Chadha (2015). They also reflect a tolerance for a diversity of philosophical interpretations within Hinduism while sharing the same foundation.
+
+Some of the earliest surviving Hindu mystical and philosophical texts are the Upanishads of the later Vedic period (1000–500 BCE). Hindu philosophers of the six schools developed systems of epistemology (pramana) and investigated topics such as metaphysics, ethics, psychology (guṇa), hermeneutics, and soteriology within the framework of the Vedic knowledge, while presenting a diverse collection of interpretations. These schools of philosophy accepted the Vedas and the Vedic concept of Ātman and Brahman, differed from the following Indian religions that rejected the authority of the Vedas:
+
+Cārvāka, a materialism school that accepted the existence of free will.
+
+Ājīvika, a materialism school that denied the existence of free will.
+
+Buddhism, a philosophy that denies the existence of ātman ('unchanging soul', 'Self') and is based on the teachings and enlightenment of Gautama Buddha.
+
+Jainism, a philosophy that accepts the existence of the ātman, but is based on the teachings of twenty-four ascetic teachers known as tirthankaras, with Rishabha as the first and Mahavira as the twenty-fourth.
+
+The commonly named six orthodox schools over time led to what has been called the "Hindu synthesis" as exemplified by its scripture the Bhagavad Gita.
+
+East Asian philosophy
+
+The Analects of Confucius (fl. 551–479 BCE)
+
+Kitarō Nishida, professor of philosophy at Kyoto University and founder of the Kyoto School.
+
+Main articles: Chinese philosophy, Korean philosophy, Japanese philosophy, Vietnamese philosophy, and Eastern philosophy
+
+East Asian philosophical thought began in Ancient China, and Chinese philosophy begins during the Western Zhou Dynasty and the following periods after its fall when the "Hundred Schools of Thought" flourished (6th century to 221 BCE). This period was characterized by significant intellectual and cultural developments and saw the rise of the major philosophical schools of China, Confucianism, Legalism, and Daoism as well as numerous other less influential schools. These philosophical traditions developed metaphysical, political and ethical theories such Tao, Yin and yang, Ren and Li which, along with Chinese Buddhism, directly influenced Korean philosophy, Vietnamese philosophy and Japanese philosophy (which also includes the native Shinto tradition). Buddhism began arriving in China during the Han Dynasty (206 BCE – 220 CE), through a gradual Silk road transmission and through native influences developed distinct Chinese forms (such as Chan/Zen) which spread throughout the East Asian cultural sphere. During later Chinese dynasties like the Ming Dynasty (1368–1644) as well as in the Korean Joseon dynasty (1392–1897) a resurgent Neo-Confucianism led by thinkers such as Wang Yangming (1472–1529) became the dominant school of thought, and was promoted by the imperial state.
+
+In the Modern era, Chinese thinkers incorporated ideas from Western philosophy. Chinese Marxist philosophy developed under the influence of Mao Zedong, while a Chinese pragmatism under Hu Shih and New Confucianism's rise was influenced by Xiong Shili. Modern Japanese thought meanwhile developed under strong Western influences such as the study of Western Sciences (Rangaku) and the modernist Meirokusha intellectual society which drew from European enlightenment thought. The 20th century saw the rise of State Shinto and also Japanese nationalism. The Kyoto School, an influential and unique Japanese philosophical school developed from Western phenomenology and Medieval Japanese Buddhist philosophy such as that of Dogen.
+
+African philosophy
+
+Main article: African philosophy
+
+African philosophy is philosophy produced by African people, philosophy that presents African worldviews, ideas and themes, or philosophy that uses distinct African philosophical methods. Modern African thought has been occupied with Ethnophilosophy, with defining the very meaning of African philosophy and its unique characteristics and what it means to be African. During the 17th century, Ethiopian philosophy developed a robust literary tradition as exemplified by Zera Yacob. Another early African philosopher was Anton Wilhelm Amo (c. 1703–1759) who became a respected philosopher in Germany. Distinct African philosophical ideas include Ujamaa, the Bantu idea of 'Force', Négritude, Pan-Africanism and Ubuntu. Contemporary African thought has also seen the development of Professional philosophy and of Africana philosophy, the philosophical literature of the African diaspora which includes currents such as black existentialism by African-Americans. Some modern African thinkers have been influenced by Marxism, African-American literature, Critical theory, Critical race theory, Postcolonialism and Feminism.
+
+Indigenous American philosophy
+
+Main article: Indigenous American philosophy
+
+A Tlamatini (Aztec philosopher) observing the stars, from the Codex Mendoza.
+
+Indigenous-American philosophical thought consists of a wide variety of beliefs and traditions among different American cultures. Among some of U.S. Native American communities, there is a belief in a metaphysical principle called the 'Great Spirit' (Siouan: wakȟáŋ tȟáŋka; Algonquian: gitche manitou). Another widely shared concept was that of orenda ('spiritual power'). According to Whiteley (1998), for the Native Americans, "mind is critically informed by transcendental experience (dreams, visions and so on) as well as by reason." The practices to access these transcendental experiences are termed shamanism. Another feature of the indigenous American worldviews was their extension of ethics to non-human animals and plants.
+
+In Mesoamerica, Aztec philosophy was an intellectual tradition developed by individuals called Tlamatini ('those who know something') and its ideas are preserved in various Aztec codices. The Aztec worldview posited the concept of an ultimate universal energy or force called Ōmeteōtl ('Dual Cosmic Energy') which sought a way to live in balance with a constantly changing, "slippery" world. 
+
+The theory of Teotl can be seen as a form of Pantheism. Aztec philosophers developed theories of metaphysics, epistemology, values, and aesthetics. Aztec ethics was focused on seeking tlamatiliztli ('knowledge', 'wisdom') which was based on moderation and balance in all actions as in the Nahua proverb "the middle good is necessary."
+
+The Inca civilization also had an elite class of philosopher-scholars termed the Amawtakuna who were important in the Inca education system as teachers of religion, tradition, history and ethics. Key concepts of Andean thought are Yanantin and Masintin which involve a theory of “complementary opposites” that sees polarities (such as male/female, dark/light) as interdependent parts of a harmonious whole.
+
+Women in philosophy
+
+Main article: Women in philosophy
+
+Although men have generally dominated philosophical discourse, women philosophers have engaged in the discipline throughout history. Ancient examples include Hipparchia of Maroneia (active c. 325 BCE) and Arete of Cyrene (active 5th–4th centuries BCE). Some women philosophers were accepted during the medieval and modern eras, but none became part of the Western canon until the 20th and 21st century, when many suggest that G.E.M. Anscombe, Hannah Arendt, Simone de Beauvoir, and Susanne Langer entered the canon.
+
+In the early 1800s, some colleges and universities in the UK and US began admitting women, producing more female academics. Nevertheless, U.S. Department of Education reports from the 1990s indicate that few women ended up in philosophy, and that philosophy is one of the least gender-proportionate fields in the humanities, with women making up somewhere between 17% and 30% of philosophy faculty according to some studies.
+
+Branches of philosophy
+
+Philosophical questions can be grouped into various branches. These groupings allow philosophers to focus on a set of similar topics and interact with other thinkers who are interested in the same questions. The groupings also make philosophy easier for students to approach. Students can learn the basic principles involved in one aspect of the field without being overwhelmed with the entire set of philosophical theories.
+
+Various sources present different categorical schemes. The categories adopted in this article aim for breadth and simplicity.
+
+These five major branches can be separated into sub-branches and each sub-branch contains many specific fields of study:
+
+Metaphysics and epistemology
+
+Value theory
+
+Science, logic, and mathematics
+
+History of philosophy
+
+These divisions are neither exhaustive, nor mutually exclusive. (A philosopher might specialize in Kantian epistemology, or Platonic aesthetics, or modern political philosophy). Furthermore, these philosophical inquiries sometimes overlap with each other and with other inquiries such as science, religion or mathematics.
+
+Epistemology, metaphysics, and related branches
+
+Epistemology
+
+Main article: Epistemology
+
+Dignaga founded a school of Buddhist epistemology and logic.
+
+Epistemology is the branch of philosophy that studies knowledge. Epistemologists examine putative sources of knowledge, including perceptual experience, reason, memory, and testimony. They also investigate questions about the nature of truth, belief, justification, and rationality.
+
+One of the most notable epistemological debates in the early modern period was between empiricism and rationalism. Empiricism places emphasis on observational evidence via sensory experience as the source of knowledge. Empiricism is associated with a posteriori knowledge, which is obtained through experience (such as scientific knowledge). Rationalism places emphasis on reason as a source of knowledge. Rationalism is associated with a priori knowledge, which is independent of experience (such as logic and mathematics).
+
+Philosophical skepticism, which raises doubts some or all claims to knowledge, has been a topic of interest throughout the history of philosophy. Philosophical skepticism dates back thousands of years to ancient philosophers like Pyrrho, and features prominently in the works of modern philosophers René Descartes and David Hume. Skepticism has remained a central topic in contemporary epistemological debates.
+
+One central debate in contemporary epistemology is about the conditions required for a belief to constitute knowledge, which might include truth and justification. This debate was largely the result of attempts to solve the Gettier problem. Another common subject of contemporary debates is the regress problem, which occurs when trying to offer proof or justification for any belief, statement, or proposition. The problem is that whatever the source of justification may be, that source must either be without justification (in which case it must be treated as an arbitrary foundation for belief), or it must have some further justification (in which case justification must either be the result of circular reasoning, as in coherentism, or the result of an infinite regress, as in infinitism).
+
+Metaphysics
+
+Main article: Metaphysics
+
+Metaphysics is the study of the most general features of reality, such as existence, time, objects and their properties, wholes and their parts, events, processes and causation and the relationship between mind and body. Metaphysics includes cosmology, the study of the world in its entirety and ontology, the study of being.
+
+A major point of debate is between realism, which holds that there are entities that exist independently of their mental perception and idealism, which holds that reality is mentally constructed or otherwise immaterial. Metaphysics deals with the topic of identity. Essence is the set of attributes that make an object what it fundamentally is and without which it loses its identity while accident is a property that the object has, without which the object can still retain its identity. Particulars are objects that are said to exist in space and time, as opposed to abstract objects, such as numbers, and universals, which are properties held by multiple particulars, such as redness or a gender. The type of existence, if any, of universals and abstract objects is an issue of debate.
+
+Mind and language
+
+Main articles: Philosophy of language and philosophy of mind
+
+Several subfields of philosophy are closely related to epistemology and metaphysics, most notably philosophy of mind and philosophy of language. All of these are sometimes grouped together as "core" fields in philosophy, although this terminology is now considered outdated. Philosophy of language explores the nature, origins, and use of language. Philosophy of mind explores the nature of the mind and its relationship to the body, as typified by disputes between materialism and dualism. In recent years, this branch has become related to cognitive science.
+
+Value theory
+
+Value theory (or axiology) is the major branch of philosophy that addresses topics such as goodness, beauty and justice. Value theory includes ethics, aesthetics, political philosophy, feminist philosophy, philosophy of law and more.
+
+Ethics
+
+Main article: Ethics
+
+The Beijing imperial college was an intellectual center for Confucian ethics and classics during the Yuan, Ming and Qing dynasties.
+
+Ethics, also known as moral philosophy, studies what constitutes good and bad conduct, right and wrong values, and good and evil. Its primary investigations include how to live a good life and identifying standards of morality. It also includes investigating whether or not there is a best way to live or a universal moral standard, and if so, how we come to learn about it. The main branches of ethics are normative ethics, meta-ethics and applied ethics.
+
+The three main views in ethics about what constitute moral actions are:
+
+Consequentialism, which judges actions based on their consequences. One such view is utilitarianism, which judges actions based on the net happiness (or pleasure) and/or lack of suffering (or pain) that they produce.
+
+Deontology, which judges actions based on whether or not they are in accordance with one's moral duty. In the standard form defended by Immanuel Kant, deontology is concerned with whether or not a choice respects the moral agency of other people, regardless of its consequences.
+
+Virtue ethics, which judges actions based on the moral character of the agent who performs them and whether they conform to what an ideally virtuous agent would do.
+
+Aesthetics
+
+Main article: Aesthetics
+
+Aesthetics is the "critical reflection on art, culture and nature." It addresses the nature of art, beauty and taste, enjoyment, emotional values, perception and with the creation and appreciation of beauty. It is more precisely defined as the study of sensory or sensori-emotional values, sometimes called judgments of sentiment and taste. Its major divisions are art theory, literary theory, film theory and music theory. An example from art theory is to discern the set of principles underlying the work of a particular artist or artistic movement such as the Cubist aesthetic. The philosophy of film analyzes films and filmmakers for their philosophical content and explores film (images, cinema, etc.) as a medium for philosophical reflection and expression.
+
+Political philosophy
+
+Main article: Political philosophy
+
+Thomas Hobbes, best known for his Leviathan, which expounded an influential formulation of social contract theory.
+
+Political philosophy is the study of government and the relationship of individuals (or families and clans) to communities including the state. It includes questions about justice, law, property and the rights and obligations of the citizen. Politics and ethics are traditionally linked subjects, as both discuss the question of how people should live together.
+
+Other branches of value theory
+
+Philosophy of law (aka jurisprudence): explores the varying theories explaining the nature and interpretation of laws.
+
+Philosophy of education: analyzes the definition and content of education, as well as the goals and challenges of educators.
+
+Feminist philosophy: explores questions surrounding gender, sexuality and the body including the nature of feminism itself as a social and philosophical movement.
+
+Logic, science, and mathematics
+
+This article may not properly summarize its corresponding main article. Please help improve it by rewriting it in an encyclopedic style. (June 2020) (Learn how and when to remove this template message)
+
+The topics of philosophy of science are numbers, symbols and the formal methods of reasoning as employed in the social sciences and natural sciences.
+
+Logic
+
+Main article: Logic
+
+Logic is the study of reasoning and argument. An argument is "a connected series of statements intended to establish a proposition." The connected series of statements are "premises" and the proposition is the conclusion. For example:
+
+All humans are mortal. (premise)
+
+Socrates is a human. (premise)
+
+Therefore, Socrates is mortal. (conclusion)
+
+Deductive reasoning is when, given certain premises, conclusions are unavoidably implied. Rules of inference are used to infer conclusions such as, modus ponens, where given “A” and “If A then B”, then “B” must be concluded.
+
+Because sound reasoning is an essential element of all sciences, social sciences and humanities disciplines, logic became a formal science. Sub-fields include mathematical logic, philosophical logic, Modal logic, computational logic and non-classical logics. A major question in the philosophy of mathematics is whether mathematical entities are objective and discovered, called mathematical realism, or invented, called mathematical antirealism.
+
+Philosophy of science
+
+Main article: Philosophy of science
+
+This branch explores the foundations, methods, history, implications and purpose of science. Many of its sub-divisions correspond to a specific branch of science. For example, philosophy of biology deals specifically with the metaphysical, epistemological and ethical issues in the biomedical and life sciences. The philosophy of mathematics studies the philosophical assumptions, foundations and implications of mathematics.
+
+Philosophy of mathematics
+
+Main article: Philosophy of mathematics
+
+ This section needs expansion. You can help by adding to it. (July 2020)
+
+History of philosophy
+
+Further information: Philosophical progress and List of years in philosophy
+
+Some contemporary philosophers specialize in studying one or more historical periods. The history of philosophy (study of a specific period, individual or school) should not be confused with the philosophy of history, a minor subfield most commonly associated with historicism as first defended in Hegel's Lectures on the Philosophy of History.
+
+Other subfields
+
+Philosophy of religion
+
+Main article: Philosophy of religion
+
+Philosophy of religion deals with questions that involve religion and religious ideas from a philosophically neutral perspective (as opposed to theology which begins from religious convictions). Traditionally, religious questions were not seen as a separate field from philosophy proper, the idea of a separate field only arose in the 19th century.
+
+Issues include the existence of God, the relationship between reason and faith, questions of religious epistemology, the relationship between religion and science, how to interpret religious experiences, questions about the possibility of an afterlife, the problem of religious language and the existence of souls and responses to religious pluralism and diversity.
+
+Metaphilosophy
+
+Metaphilosophy explores the aims of philosophy, its boundaries and its methods.
+
+Applied philosophy 
+
+Martin Luther King Jr
+
+A variety of other academic and non-academic approaches have been explored. The ideas conceived by a society have profound repercussions on what actions the society performs. Weaver argued that ideas have consequences. 
+
+Philosophy yields applications such as those in ethics—applied ethics in particular—and political philosophy. The political and economic philosophies of Confucius, Sun Tzu, Chanakya, Ibn Khaldun, Ibn Rushd, Ibn Taymiyyah, Machiavelli, Leibniz, Hobbes, Locke, Rousseau, Adam Smith, John Stuart Mill, Marx, Tolstoy, Gandhi and Martin Luther King Jr. have been used to shape and justify governments and their actions. Progressive education as championed by Dewey had a profound impact on 20th-century US educational practices. Descendants of this movement include efforts in philosophy for children, which are part of philosophy education. Clausewitz's political philosophy of war has had a profound effect on statecraft, international politics and military strategy in the 20th century, especially around World War II. Logic is important in mathematics, linguistics, psychology, computer science and computer engineering.
+
+Other important applications can be found in epistemology, which aid in understanding the requisites for knowledge, sound evidence and justified belief (important in law, economics, decision theory and a number of other disciplines). The philosophy of science discusses the underpinnings of the scientific method and has affected the nature of scientific investigation and argumentation. Philosophy thus has fundamental implications for science as a whole. For example, the strictly empirical approach of B.F. Skinner's behaviorism affected for decades the approach of the American psychological establishment. Deep ecology and animal rights examine the moral situation of humans as occupants of a world that has non-human occupants to consider also. Aesthetics can help to interpret discussions of music, literature, the plastic arts and the whole artistic dimension of life. In general, the various philosophies strive to provide practical activities with a deeper understanding of the theoretical or conceptual underpinnings of their fields.
+
+The relationship between "X" and the "philosophy of X" is often intensely debated. Richard Feynman argued that the philosophy of a topic is irrelevant to its primary study, saying that "philosophy of science is as useful to scientists as ornithology is to birds." Curtis White (2014), by contrast, argued that philosophical tools are essential to humanities, sciences and social sciences.
+
+Society
+
+Main article: Contemporary philosophy § Outside the profession
+
+Many inquiries outside of academia are philosophical in the broad sense. Novelists, playwrights, filmmakers, and musicians, as well as scientists and others engage in recognizably philosophical activity.
+
+Some of those who study philosophy become professional philosophers, typically by working as professors who teach, research and write in academic institutions. However, most students of academic philosophy later contribute to law, journalism, religion, sciences, politics, business, or various arts. For example, public figures who have degrees in philosophy include comedians Steve Martin and Ricky Gervais, filmmaker Terrence Malick, Pope John Paul II, Wikipedia co-founder Larry Sanger, technology entrepreneur Peter Thiel, Supreme Court Justice Stephen Bryer and vice presidential candidate Carly Fiorina.
+
+Recent efforts to avail the general public to the work and relevance of philosophers include the million-dollar Berggruen Prize, first awarded to Charles Taylor in 2016.
+
+Professional philosophy
+
+Germany was the first country to professionalize philosophy. The doctorate of philosophy (PhD) developed in Germany as the terminal Teacher's credential in the mid 17th century. At the end of 1817, Georg Wilhelm Friedrich Hegel was the first philosopher to be appointed Professor by the State, namely by the Prussian Minister of Education, as an effect of Napoleonic reform in Prussia. In the United States, the professionalization grew out of reforms to the American higher-education system largely based on the German model.
+
+Bertrand Russell
+
+Within the last century, philosophy has increasingly become a professional discipline practiced within universities, like other academic disciplines. Accordingly, it has become less general and more specialized. In the view of one prominent recent historian: "Philosophy has become a highly organized discipline, done by specialists primarily for other specialists. The number of philosophers has exploded, the volume of publication has swelled, and the subfields of serious philosophical investigation have multiplied. Not only is the broad field of philosophy today far too vast to be embraced by one mind, something similar is true even of many highly specialized subfields." Some philosophers argue that this professionalization has negatively affected the discipline.
+
+The end result of professionalization for philosophy has meant that work being done in the field is now almost exclusively done by university professors holding a doctorate in the field publishing in highly technical, peer-reviewed journals. While it remains common among the population at large for a person to have a set of religious, political or philosophical views that they consider their "philosophy", these views are rarely informed by or connected to the work being done in professional philosophy today. Furthermore, unlike many of the sciences for which there has come to be a healthy industry of books, magazines, and television shows meant to popularize science and communicate the technical results of a scientific field to the general populace, works by professional philosophers directed at an audience outside the profession remain rare. Philosopher Michael Sandel's book Justice: What's the Right Thing to Do? and Harry Frankfurt's On Bullshit are examples of works that hold the uncommon distinction of having been written by professional philosophers but directed at and ultimately popular among a broader audience of non-philosophers. Both works became New York Times best sellers.
+
+See also
+
+Main article: Outline of philosophy
+
+Philosophy portal
+
+List of important publications in philosophy
+
+List of years in philosophy
+
+List of philosophy journals
+
+List of philosophy awards
+
+List of unsolved problems in philosophy
+
+Lists of philosophers
+
+Social theory
+
+References
+
+Notes
+
+^ Quinton, Anthony. 1995. "The Ethics of Philosophical Practice." P. 666 in The Oxford Companion to Philosophy, edited by T. Honderich. New York: Oxford University Press. ISBN 978-0-19-866132-0.
+
+"Philosophy is rationally critical thinking, of a more or less systematic kind about the general nature of the world (metaphysics or theory of existence), the justification of belief (epistemology or theory of knowledge), and the conduct of life (ethics or theory of value). Each of the three elements in this list has a non-philosophical counterpart, from which it is distinguished by its explicitly rational and critical way of proceeding and by its systematic nature. Everyone has some general conception of the nature of the world in which they live and of their place in it. Metaphysics replaces the unargued assumptions embodied in such a conception with a rational and organized body of beliefs about the world as a whole. Everyone has occasion to doubt and question beliefs, their own or those of others, with more or less success and without any theory of what they are doing. Epistemology seeks by argument to make explicit the rules of correct belief formation. Everyone governs their conduct by directing it to desired or valued ends. Ethics, or moral philosophy, in its most inclusive sense, seeks to articulate, in rationally systematic form, the rules or principles involved." (p. 666).
+
+^ Rutherford, Donald. 2006. The Cambridge Companion to Early Modern Philosophy. Cambridge: Cambridge University Press. ISBN 978-0-521-82242-8.
+
+"Most often this  has been associated with the achievements of a handful of great thinkers: the so-called 'rationalists' (Descartes, Spinoza, Leibniz) and 'empiricists' (Locke, Berkeley, Hume), whose inquiries culminate in Kant's 'Critical philosophy.' These canonical figures have been celebrated for the depth and rigor of their treatments of perennial philosophical questions…" (p. 1).
+
+^ Nadler, Steven. 2008. A Companion to Early Modern Philosophy. John Wiley Sons. ISBN 978-0-470-99883-0.
+
+"The study of early modern philosophy demands that we pay attention to a wide variety of questions and an expansive pantheon of thinkers: the traditional canonical figures (Descartes, Spinoza, Leibniz, Locke, Berkeley, and Hume), to be sure, but also a large 'supporting cast'…" (p. 2).
+
+^ Kuklick, Bruce. 1984. "Seven Thinkers and How They Grew: Descartes, Spinoza, Leibniz; Locke, Berkeley, Hume; Kant." In Philosophy in History, edited by Rorty, Schneewind, and Skinner. Cambridge: Cambridge University Press.
+
+"Literary, philosophical, and historical studies often rely on a notion of what is canonical. In American philosophy scholars go from Jonathan Edwards to John Dewey; in American literature from James Fenimore Cooper to F. Scott Fitzgerald; in political theory from Plato to Hobbes and Locke.… The texts or authors who fill in the blanks from A to Z in these, and other intellectual traditions, constitute the canon, and there is an accompanying narrative that links text to text or author to author, a 'history of' American literature, economic thought, and so on. The most conventional of such histories are embodied in university courses and the textbooks that accompany them. This essay examines one such course, the History of Modern Philosophy, and the texts that helped to create it. If a philosopher in the United States were asked why the seven people in my title comprise Modern Philosophy, the initial response would be: they were the best, and there are historical and philosophical connections among them." (p. 125).
+
+^ Potter, Karl (1961). "A Fresh Classification of India's Philosophical Systems". Journal of Asian Studies. 21 (1): 25–32. doi:10.2307/2050985. JSTOR 2050985.
+
+"Whatever the source of the generally accepted classification of Indian philosophical systems, its six divisions do not appear to most scholars in this field to stem from logic. As a systematic attempt to deal with theoretical problems of metaphysics, logic, epistemology, and related topics, the “six systems” account has several glaring deficiencies. Two of these will be mentioned briefly.… A second deficiency in the “six-system” account is that it only covers orthodox philosophers, i.e., the Hindu schools of thought. From a philosophical standpoint, the views of the Buddhists and Jains are equally important."
+
+^ Gombrich, Richard (2006). Theravada Buddhism. Routledge. ISBN 978-1-134-90352-8.
+
+"All phenomenal existence  is said to have three interlocking characteristics: impermanence, suffering and lack of soul or essence." (p. 47).
+
+^ a b Craig, Edward (2013). Concise Routledge Encyclopedia of Philosophy. Routledge. ISBN 978-1-134-59391-0.
+
+"Hindu philosophy is the longest surviving philosophical tradition in India.… It is customary to name six Hindu schools, of the more than a dozen that existed, thus lumping several into a single school. This is particularly the case with Vedanta. The six are listed in three pairs: Samkhya-Yoga, Vedanta-Mimamsa, Nyaya-Vaisheshika." (pp. 353–54).
+
+^ Sharma, Arvind (1990). A Hindu Perspective on the Philosophy of Religion. Palgrave Macmillan. ISBN 978-1-349-20797-8. 
+
+"The attitude towards the existence of God varies within the Hindu religious tradition. This may not be entirely unexpected given the tolerance for doctrinal diversity for which the tradition is known. Thus of the six orthodox systems of Hindu philosophy, only three address the question in some detail. These are the schools of thought known as Nyaya, Yoga and the theistic forms of Vedanta." (pp. 1–2).
+
+^ Collins, Steven. 1994. Religion and Practical Reason, edited by F. Reynolds and D. Tracy. Albany: State University of New York Press. ISBN 978-0791422175.
+
+"Central to Buddhist soteriology is the doctrine of not-self (Pali: anattā, Sanskrit: anātman, the opposed doctrine of ātman is central to Brahmanical thought). Put very briefly, this is the  doctrine that human beings have no soul, no self, no unchanging essence." (p. 64).
+
+^ Plott, John C., et al. 2000. Global History of Philosophy: The Axial Age 1. Motilal Banarsidass. ISBN 978-8120801585.
+
+"The Buddhist schools reject any Ātman concept. As we have already observed, this is the basic and ineradicable distinction between Hinduism and Buddhism." (p. 63).
+
+^ Wynne, Alexander. 2011. "The ātman and its negation." Journal of the International Association of Buddhist Studies 33(1–2):103–05.
+
+"The denial that a human being possesses a "self" or "soul" is probably the most famous Buddhist teaching. It is certainly its most distinct, as has been pointed out by G.P. Malalasekera: 'In its denial of any real permanent Soul or Self, Buddhism stands alone.' A similar modern Sinhalese perspective has been expressed by Walpola Rahula: 'Buddhism stands unique in the history of human thought in denying the existence of such a Soul, Self or Ātman.' The 'no Self' or 'no soul' doctrine (Sanskrit: anātman; Pali: anattan) is particularly notable for its widespread acceptance and historical endurance. It was a standard belief of virtually all the ancient schools of Indian Buddhism (the notable exception being the Pudgalavādins), and has persisted without change into the modern era.… oth views are mirrored by the modern Theravādin perspective of Mahasi Sayadaw that 'there is no person or soul' and the modern Mahāyāna view of the fourteenth Dalai Lama that 'he Buddha taught that…our belief in an independent self is the root cause of all suffering.'
+
+^ Wainwright, William J. 2005. "Introduction." Pp. 3–11 in The Oxford Handbook of Philosophy of Religion, edited by W. J. Wainwright. New York: Oxford University Press.
+
+"The expression “philosophy of religion” did not come into general use until the nineteenth century, when it was employed to refer to the articulation and criticism of humanity's religious consciousness and its cultural expressions in thought, language, feeling, and practice." (Oxford Handbook, p. 3, at Google Books).
+
+Citations
+
+^ "Strong's Greek: 5385. φιλοσοφία (philosophia) -- the love or pursuit of wisdom". biblehub.com.
+
+^ "Online Etymology Dictionary". Etymonline.com. Retrieved 22 August 2010.
+
+^ The definition of philosophy is: "1. orig., love of, or the search for, wisdom or knowledge 2. theory or logical analysis of the principles underlying conduct, thought, knowledge, and the nature of the universe". Webster's New World Dictionary (Second College ed.).
+
+^ "Philosophy". Lexico. University of Oxford Press. 2020. Retrieved 28 March 2019.
+
+^ Sellars, Wilfrid (1963). Empiricism and the Philosophy of Mind (PDF). Routledge and Kegan Paul Ltd. pp. 1, 40. Archived from the original (PDF) on 23 March 2019. Retrieved 28 March 2019.
+
+^ Chalmers, David J. (1995). "Facing up to the problem of consciousness". Journal of Consciousness Studies. 2 (3): 200, 219. Retrieved 28 March 2019.
+
+^ Henderson, Leah (2019). "The problem of induction". Stanford Encyclopedia of Philosophy. Retrieved 28 March 2019.
+
+^ Adler, Mortimer J. (2000). How to Think About the Great Ideas: From the Great Books of Western Civilization. Chicago, Ill.: Open Court. ISBN 978-0-8126-9412-3.
+
+^ Quinton, Anthony, The ethics of philosophical practice, p. 666, Philosophy is rationally critical thinking, of a more or less systematic kind about the general nature of the world (metaphysics or theory of existence), the justification of belief (epistemology or theory of knowledge), and the conduct of life (ethics or theory of value). Each of the three elements in this list has a non-philosophical counterpart, from which it is distinguished by its explicitly rational and critical way of proceeding and by its systematic nature. Everyone has some general conception of the nature of the world in which they live and of their place in it. Metaphysics replaces the unargued assumptions embodied in such a conception with a rational and organized body of beliefs about the world as a whole. Everyone has occasion to doubt and question beliefs, their own or those of others, with more or less success and without any theory of what they are doing. Epistemology seeks by argument to make explicit the rules of correct belief formation. Everyone governs their conduct by directing it to desired or valued ends. Ethics, or moral philosophy, in its most inclusive sense, seeks to articulate, in rationally systematic form, the rules or principles involved. in Honderich 1995.
+
+^ Greco, John, ed. (2011). The Oxford Handbook of Skepticism (1st ed.). Oxford University Press. ISBN 978-0-19-983680-2.
+
+^ Glymour, Clark (2015). "Chapters 1–6". Thinking Things Through: An Introduction to Philosophical Issues and Achievements (2nd ed.). A Bradford Book. ISBN 978-0-262-52720-0.
+
+^ Pritchard, Duncan. "Contemporary Skepticism". Internet Encyclopedia of Philosophy. ISSN 2161-0002. Retrieved 25 April 2016.
+
+^ Plato. 2009 . The Republic, translated by B. Jowett, transcripted by D. C. Stevenson. The Internet Classics Archive, MIT. Retrieved 8 May 2020.
+
+^ Timpe, Kevin. "Free Will". Internet Encyclopedia of Philosophy. ISSN 2161-0002. Retrieved 8 May 2020.
+
+^ a b "The English word "philosophy" is first attested to c. 1300, meaning "knowledge, body of knowledge."
+
+Harper, Douglas. 2020. "philosophy (n.)." Online Etymology Dictionary. Retrieved 8 May 2020.
+
+^ a b Lindberg 2007, p. 3. sfn error: no target: CITEREFLindberg2007 (help)
+
+^ Shapin, Steven (1998). The Scientific Revolution (1st ed.). University Of Chicago Press. ISBN 978-0-226-75021-7.
+
+^ Briggle, Robert, and Adam Frodeman (11 January 2016). "When Philosophy Lost Its Way | The Opinionator". New York Times. Retrieved 25 April 2016.CS1 maint: multiple names: authors list (link)
+
+^ Sartwell, Crispin (2014). Zalta, Edward N. (ed.). Beauty (Spring 2014 ed.).
+
+^ "Plato, Hippias Major | Loeb Classical Library". Loeb Classical Library. Retrieved 27 April 2016.
+
+^ Feyerabend, Paul; Hacking, Ian (2010). Against Method (4th ed.). Verso. ISBN 978-1-84467-442-8.
+
+^ Murray, Dale. "Robert Nozick: Political Philosophy". Internet Encyclopedia of Philosophy. ISSN 2161-0002. Retrieved 8 May 2020.
+
+^ Richardson, Henry S. "The Basic Structure of Society." Section 2a in "John Rawls (1921—2002)." Internet Encyclopedia of Philosophy. ISSN 2161-0002. Retrieved 8 May 2020.
+
+^ More, Thomas (2015). Utopia. Courier Corporation. ISBN 978-0-486-11070-7.
+
+^ "Metaphysics". Merriam-Webster Dictionary. Retrieved 8 May 2020.
+
+^ "Epistemology". Merriam-Webster Dictionary. Retrieved 8 May 2020.
+
+^ Kant, Immanuel (2012). Kant: Groundwork of the Metaphysics of Morals (2nd ed.). Cambridge University Press. ISBN 9781107401068. Ancient Greek philosophy was divided into three branches of knowledge: natural science, ethics, and logic.
+
+^ McGinn, Colin (1993). Problems in Philosophy: The Limits of Inquiry (1st ed.). Wiley-Blackwell. ISBN 978-1-55786-475-8.
+
+^ Chalmers, David. 7 May 2013. "Why isn't there more progress in philosophy?" . Moral Sciences Club. Faculty of Philosophy, University of Cambridge. Retrieved 8 May 2020.
+
+^ Brewer, Talbot (2011). The Retrieval of Ethics (1st ed.). Oxford: Oxford University Press. ISBN 978-0-19-969222-4.
+
+^ Garfield, Jay L; Edelglass, William, eds. (9 June 2011). "Introduction". The Oxford Handbook of World Philosophy. Oxford University Press. ISBN 9780195328998.
+
+^ Hegel, Georg Wilhelm Friedrich; Brown, Robert F. (2006). Lectures on the History of Philosophy: Greek philosophy. Clarendon Press. p. 33. ISBN 978-0-19-927906-7.
+
+^ Process and Reality p. 39
+
+^ Collinson, Diane. Fifty Major Philosophers, A Reference Guide. p. 125.
+
+^ Johnson, W. J. 2009. "darśana." Oxford Reference.
+
+From: "darśan(a)." In A Dictionary of Hinduism, edited by W. J. Johnson. Oxford: Oxford University Press. ISBN 9780191726705. doi:10.1093/acref/9780198610250.001.0001.
+
+^ "Brahman" (revised ed.). Encyclopædia Britannica 2020 .
+
+^ "Atman." Encyclopædia Britannica 2014 .
+
+^ Bowker, John. Oxford Dictionary of World Religions. p. 259.
+
+^ Doniger, Wendy (2014). On Hinduism. Oxford University Press. p. 46. ISBN 978-0-19-936008-6.
+
+^ Nicholson, Andrew. 2013. Unifying Hinduism: Philosophy and Identity in Indian Intellectual History. New York: Columbia University Press. ISBN 978-0231149877. pp. 2–5.
+
+^ a b Bilimoria, P. 2000. Indian Philosophy, edited by R. Perrett. London: Routledge. ISBN 978-1135703226. p. 88.
+
+^ Young, William A. (2005). The World's Religions: Worldviews and Contemporary Issues. Pearson Prentice Hall. pp. 61–64, 78–79. ISBN 978-0-13-183010-3.
+
+^ Mittal, Sushil, and Gene Thursby (2017). Religions of India: An Introduction. Taylor Francis. pp. 3–5, 15–18, 53–55, 63–67, 85–88, 93–98, 107–15. ISBN 978-1-134-79193-4.CS1 maint: multiple names: authors list (link)
+
+^ "Artha." Encyclopædia Britannica 2016 .
+
+^ "Kama" (revised ed.). Encyclopædia Britannica 2019 .
+
+^ "Dravya". Encyclopædia Britannica. 2011 .
+
+^ Paul Dundas (2002). The Jains. Psychology Press. pp. 2–3, 45–49, 260–261. ISBN 978-0-415-26606-2.
+
+^ Dundas, Paul (2002). The Jains. Psychology Press. pp. 163–74. ISBN 978-0-415-26606-2.
+
+^ Shah, Natubhai (2004). Jainism: The World of Conquerors. Motilal Banarsidass. pp. 90–95. ISBN 978-81-208-1938-2.
+
+^ Hemacandra (1998). The Lives of the Jain Elders. Oxford University Press. pp. 258–60. ISBN 978-0-19-283227-6.
+
+^ Tiwari, Kedar Nath (1983). Comparative Religion. Motilal Banarsidass. pp. 78–83. ISBN 978-81-208-0293-3.
+
+^ Jaini, Padmanabh S. (1998) , The Jaina Path of Purification, Motilal Banarsidass, pp. 81–83, ISBN 81-208-1578-5
+
+^ Umāsvāti 1994 . That Which Is: Tattvartha Sutra, translated by N. Tatia. Harper Collins. ISBN 978-0-06-068985-8. pp. xvii–xviii.
+
+^ Westerhoff, Jan, The Golden Age of Indian Buddhist Philosophy, Oxford University Press, 2018, p. 13.
+
+^ a b c Westerhoff, Jan. 2018. The Golden Age of Indian Buddhist Philosophy. Oxford: Oxford University Press.
+
+^ Buswell Jr., Robert E., and Donald S. Lopez Jr. (2013). The Princeton Dictionary of Buddhism. Princeton University Press. pp. 42–47. ISBN 978-1-4008-4805-8.CS1 maint: multiple names: authors list (link)
+
+^ N.V. Isaeva (1992). Shankara and Indian Philosophy. State University of New York Press. pp. 1–5. ISBN 978-0-7914-1281-7. OCLC 24953669.
+
+^ John Koller (2013). Chad Meister and Paul Copan (ed.). Routledge Companion to Philosophy of Religion. Routledge. doi:10.4324/9780203813010-17 (inactive 21 March 2020). ISBN 978-1-136-69685-5.
+
+^ Kesarcodi-Watson, Ian (1978). "Hindu Metaphysics and Its Philosophies: Śruti and Darsána". International Philosophical Quarterly. 18 (4): 413–432. doi:10.5840/ipq197818440.
+
+^ Chadha, M. 2015. The Routledge Handbook of Contemporary Philosophy of Religion, edited by G. Oppy. London: Routledge, ISBN 978-1844658312. pp. 127–28.
+
+^ Frazier, Jessica (2011). The Continuum companion to Hindu studies. London: Continuum. pp. 1–15. ISBN 978-0-8264-9966-0.
+
+^ Olson, Carl. 2007. The Many Colors of Hinduism: A Thematic-historical Introduction. Rutgers University Press. ISBN 978-0813540689. pp. 101–19.
+
+^ Deutsch, Eliot. 2000. Pp. 245–48 in Philosophy of Religion: Indian Philosophy 4, edited by R. Perrett. Routledge, ISBN 978-0815336112.
+
+^ Grimes, John A. A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press. ISBN 978-0791430675. p. 238.
+
+^ R Bhattacharya (2011), Studies on the Carvaka/Lokayata, Anthem, ISBN 978-0857284334, pp. 53, 94, 141–142
+
+^ Johannes Bronkhorst (2012), Free will and Indian philosophy, Antiquorum Philosophia: An International Journal, Roma Italy, Volume 6, pp. 19–30
+
+^ James Lochtefeld, "Ajivika", The Illustrated Encyclopedia of Hinduism, Vol. 1: A–M, Rosen Publishing. ISBN 978-0823931798, p. 22
+
+^ AL Basham (2009), History and Doctrines of the Ajivikas – a Vanished Indian Religion, Motilal Banarsidass, ISBN 978-8120812048, Chapter 1
+
+^ K. N. Jayatilleke. 2010. Early Buddhist Theory of Knowledge, ISBN 978-8120806191. pp. 246–49, note 385 onwards.
+
+^ Dundas, Paul. 2002. The Jains (2nd ed.). London: Routledge. ISBN 978-0415266055. pp. 1–19, 40–44.
+
+^ Hiltebeitel, Alf. 2007. "Hinduism." In The Religious Traditions of Asia: Religion, History, and Culture, edited by J. Kitagawa. London: Routledge.
+
+^ Minor, Robert. 1986. Modern Indian Interpreters of the Bhagavad Gita. Albany: State University of New York Press. ISBN 0-88706-297-0. pp. 74–75, 81.
+
+^ Doniger, Wendy (2018) . "Bhagavad Gita". Encyclopædia Britannica.
+
+^ Garfield, Jay L., and William Edelglass, eds. 2011. "Chinese Philosophy." The Oxford Handbook of World Philosophy. Oxford: Oxford University Press. ISBN 9780195328998.
+
+^ Ebrey, Patricia (2010). The Cambridge Illustrated History of China. New York: Cambridge University Press. p. 42.
+
+^ Janz, Bruce B. 2009. Philosophy in an African Place. Plymouth, UK: Lexington Books. pp. 74–79.
+
+^ a b Whiteley, Peter M. 1998. "Native American philosophy." Routledge Encyclopedia of Philosophy. Taylor Francis. doi:10.4324/9780415249126-N078-1.
+
+^ Pierotti, Raymond. 2003. "Communities as both Ecological and Social entities in Native American thought." Native American Symposium 5. Durant, OK: Southeastern Oklahoma State University. Archived from the original 4 April 2016.
+
+^ Portilla, Miguel León (1990). Use of "Tlamatini" in Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind – Miguel León Portilla. ISBN 9780806122953. Retrieved 12 December 2014.
+
+^ a b IEP, Aztec Philosophy, http://www.iep.utm.edu/aztec/
+
+^ Webb, Hillary S. 2012. Yanantin and Masintin in the Andean World: Complementary Dualism in Modern Peru.
+
+^ Duran, Jane. Eight women philosophers: theory, politics, and feminism. University of Illinois Press, 2005.
+
+^ "Why I Left Academia: Philosophy's Homogeneity Needs Rethinking – Hippo Reads". Archived from the original on 9 June 2017.
+
+^ Haldane, John (June 2000). "In Memoriam: G. E. M. Anscombe (1919–2001)". The Review of Metaphysics. 53 (4): 1019–1021. JSTOR 20131480.
+
+^ "Salary, Promotion, and Tenure Status of Minority and Women Faculty in U.S. Colleges and Universities."National Center for Education Statistics, Statistical Analysis Report, March 2000; U.S. Department of Education, Office of Education Research and Improvement, Report # NCES 2000–173; 1993 National Study of Postsecondary Faculty (NSOPF:93). See also "Characteristics and Attitudes of Instructional Faculty and Staff in the Humanities." National Center For Education Statistics, E.D. Tabs, July 1997. U.S. Department of Education, Office of Education Research and Improvement, Report # NCES 97-973;1993 National Study of Postsecondary Faculty (NSOPF-93).
+
+^ "A Taxonomy of Philosophy".
+
+^ Kenny 2012.
+
+^ Plantinga, Alvin (2014). Zalta, Edward N. (ed.). Religion and Science (Spring 2014 ed.).
+
+^ "Epistemology". Encyclopedia Britannica. Retrieved 22 June 2020.
+
+^ a b c d "Epistemology". Stanford Encyclopedia of Philosophy. Retrieved 30 June 2020.
+
+^ "What's "Core" and What's "Peripheral" in Philosophy—and Why?". Daily Nous. Retrieved 6 July 2020.
+
+^ a b "Ethics". Internet Encyclopedia of Philosophy. Retrieved 6 July 2020.
+
+^ Kelly (1998) p. ix
+
+^ Review by Tom Riedel (Regis University)
+
+^ “Aesthetic.” Merriam-Webster Dictionary. Retrieved 9 May 2020.
+
+^ Zangwill, Nick. 2019 . "Aesthetic Judgment" (revised ed.). Stanford Encyclopedia of Philosophy. 9 May 2020.
+
+^ "aesthetic." Lexico. Oxford University Press and Dictionary.com.
+
+^ Carnap, Rudolf (1953). "Inductive Logic and Science". Proceedings of the American Academy of Arts and Sciences. 80 (3): 189–197. doi:10.2307/20023651. JSTOR 20023651.
+
+^ Louth, Andrew, and Helmut Thielicke. 2014 . "Relationship to Philosophy | Theology." Encyclopædia Britannica.
+
+^ White, Curtis (2014). The Science Delusion: Asking the Big Questions in a Culture of Easy Answers. Brooklyn, NY: Melville House. ISBN 9781612193908.
+
+^ "Where Can Philosophy Take Me? | Philosophy". philosophy.as.uky.edu. Retrieved 2 May 2016.
+
+^ "Why Study Philosophy? An Unofficial "Daily Nous" Affiliate". www.whystudyphilosophy.com. Retrieved 2 May 2016.
+
+^ Cropper, Carol Marie (26 December 1997). "Philosophers Find the Degree Pays Off in Life And in Work". The New York Times. ISSN 0362-4331. Retrieved 2 May 2016.
+
+^ Marketing, Mansfield University Department of. "Famous Philosophy Majors | Mansfield University". www.mansfield.edu. Retrieved 2 May 2016.
+
+^ W, Justin (8 December 2014). "Famous Philosophy Majors Poster (updated with new link)". Daily Nous. Retrieved 2 May 2016.
+
+^ Schuessler, Jennifer (4 October 2016). "Canadian Philosopher Wins $1 Million Prize". The New York Times. ISSN 0362-4331. Retrieved 4 October 2016.
+
+^ "Erhard-Weigel-Gesellschaft: Biographie Weigels". Erhard-weigel-gesellschaft.de. Archived from the original on 14 November 2016. Retrieved 2 November 2016.
+
+^ Scott Soames, Philosophical Analysis in the Twentieth Century, vol. 2, p. 463.
+
+^ "Socrates Tenured – Rowman Littlefield International". www.rowmaninternational.com. Retrieved 25 April 2016.
+
+Bibliography
+
+Edwards, Paul, ed. (1967). The Encyclopedia of Philosophy. Macmillan Free Press.CS1 maint: ref=harv (link)
+
+Kant, Immanuel (1881). Critique of Pure Reason. Macmillan.CS1 maint: ref=harv (link)
+
+Bowker, John (1999). The Oxford Dictionary of World Religions. Oxford University Press, Incorporated. ISBN 978-0-19-866242-6.CS1 maint: ref=harv (link)
+
+Baldwin, Thomas, ed. (2003). The Cambridge History of Philosophy 1870–1945. Cambridge University Press. ISBN 978-0-521-59104-1.CS1 maint: ref=harv (link)
+
+Copenhaver, Brian P.; Schmitt, Charles B. (1992). Renaissance philosophy. Oxford University Press. ISBN 978-0-19-219203-5.CS1 maint: ref=harv (link)
+
+Nadler, Steven (2008). A Companion to Early Modern Philosophy. John Wiley Sons. ISBN 978-0-470-99883-0.CS1 maint: ref=harv (link)
+
+Rutherford, Donald (2006). The Cambridge Companion to Early Modern Philosophy. Cambridge University Press. ISBN 978-0-521-82242-8.CS1 maint: ref=harv (link)
+
+Schmitt, C.B.; Skinner, Quentin, eds. (1988). The Cambridge History of Renaissance Philosophy. Cambridge University Press. ISBN 978-0-521-39748-3.CS1 maint: ref=harv (link)
+
+Kenny, Anthony (2012). A New History of Western Philosophy. Oxford University Press. ISBN 978-0-19-958988-3.CS1 maint: ref=harv (link)
+
+Honderich, T., ed. (1995). The Oxford Companion to Philosophy. Oxford University Press. ISBN 978-0-19-866132-0.CS1 maint: ref=harv (link)
+
+Bunnin, Nicholas; Tsui-James, Eric, eds. (2008). The Blackwell Companion to Philosophy. John Wiley Sons. ISBN 978-0-470-99787-1.CS1 maint: ref=harv (link)
+
+Copleston, Frederick Charles (1953). A history of philosophy: volume III: Ockham to Suárez. Paulist Press. ISBN 978-0-8091-0067-5.CS1 maint: ref=harv (link)
+
+Leaman, Oliver; Morewedge, Parviz (2000). "Islamic philosophy modern". In Craig, Edward (ed.). Concise Routledge Encyclopedia of Philosophy. Psychology Press. ISBN 978-0-415-22364-5.CS1 maint: ref=harv (link)
+
+Buccellati, Giorgio (1981). "Wisdom and Not: The Case of Mesopotamia". Journal of the American Oriental Society. 101 (1): 35–47. doi:10.2307/602163. JSTOR 602163.CS1 maint: ref=harv (link)
+
+Further reading
+
+General introduction
+
+Blumenau, Ralph. Philosophy and Living. ISBN 978-0-907845-33-1
+
+Craig, Edward. Philosophy: A Very Short Introduction. ISBN 978-0-19-285421-6
+
+Harrison-Barbet, Anthony, Mastering Philosophy. ISBN 978-0-333-69343-8
+
+Russell, Bertrand. The Problems of Philosophy. ISBN 978-0-19-511552-9
+
+Sinclair, Alistair J. What is Philosophy? An Introduction, 2008, ISBN 978-1-903765-94-4
+
+Sober, Elliott. (2001). Core Questions in Philosophy: A Text with Readings. Upper Saddle River, Prentice Hall. ISBN 978-0-13-189869-1
+
+Solomon, Robert C. Big Questions: A Short Introduction to Philosophy. ISBN 978-0-534-16708-0
+
+Warburton, Nigel. Philosophy: The Basics. ISBN 978-0-415-14694-4
+
+Nagel, Thomas. What Does It All Mean? A Very Short Introduction to Philosophy. ISBN 978-0-19-505292-3
+
+Classics of Philosophy (Vols. 1, 2, 3) by Louis P. Pojman
+
+The English Philosophers from Bacon to Mill by Edwin Arthur
+
+European Philosophers from Descartes to Nietzsche by Monroe Beardsley
+
+Cottingham, John. Western Philosophy: An Anthology. 2nd ed. Malden, MA: Blackwell Pub., 2008. Print. Blackwell Philosophy Anthologies.
+
+Tarnas, Richard. The Passion of the Western Mind: Understanding the Ideas That Have Shaped Our World View. ISBN 978-0-345-36809-6
+
+Topical introductions
+
+African
+
+Imbo, Samuel Oluoch. An Introduction to African Philosophy. ISBN 978-0-8476-8841-8
+
+Eastern
+
+A Source Book in Indian Philosophy by Sarvepalli Radhakrishnan, Charles A. Moore
+
+Hamilton, Sue. Indian Philosophy: a Very Short Introduction. ISBN 978-0-19-285374-5
+
+Kupperman, Joel J. Classic Asian Philosophy: A Guide to the Essential Texts. ISBN 978-0-19-513335-6
+
+Lee, Joe and Powell, Jim. Eastern Philosophy For Beginners. ISBN 978-0-86316-282-4
+
+Smart, Ninian. World Philosophies. ISBN 978-0-415-22852-7
+
+Copleston, Frederick. Philosophy in Russia: From Herzen to Lenin and Berdyaev. ISBN 978-0-268-01569-5
+
+Islamic
+
+Medieval Islamic Philosophical Writings edited by Muhammad Ali Khalidi
+
+Leaman, Oliver (14 April 2000). A Brief Introduction to Islamic Philosophy. ISBN 978-0-7456-1960-6.
+
+Corbin, Henry (23 June 2014) . History Of Islamic Philosophy. Translated by Sherrard, Liadain; Sherrard, Philip. Taylor Francis. ISBN 978-1-135-19888-6.
+
+Aminrazavi, Mehdi Amin Razavi; Nasr, Seyyed Hossein; Nasr, PH.D., Seyyed Hossein (16 December 2013). The Islamic Intellectual Tradition in Persia. Routledge. ISBN 978-1-136-78105-6.
+
+Historical introductions
+
+General
+
+Oizerman, Teodor (1988). The Main Trends in Philosophy. A Theoretical Analysis of the History of Philosophy (PDF). translated by H. Campbell Creighton, M.A., Oxon (2nd ed.). Moscow: Progress Publishers. ISBN 978-5-01-000506-1. Archived from the original (DjVu, etc.) on 6 March 2012. Retrieved 20 January 2011First published in Russian as «Главные философские направления»
+
+Higgins, Kathleen M. and Solomon, Robert C. A Short History of Philosophy. ISBN 978-0-19-510196-6
+
+Durant, Will, Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers, Pocket, 1991, ISBN 978-0-671-73916-4
+
+Oizerman, Teodor (1973). Problems of the History of Philosophy. translated from Russian by Robert Daglish (1st ed.). Moscow: Progress Publishers. Archived from the original on 6 July 2011. Retrieved 20 January 2011First published in Russian as «Проблемы историко-философской науки»
+
+Ancient
+
+Knight, Kelvin. Aristotelian Philosophy: Ethics and Politics from Aristotle to MacIntyre. ISBN 978-0-7456-1977-4
+
+Medieval
+
+The Phenomenology Reader by Dermot Moran, Timothy Mooney
+
+Kim, J. and Ernest Sosa, Ed. (1999). Metaphysics: An Anthology. Blackwell Philosophy Anthologies. Oxford, Blackwell Publishers Ltd.
+
+Husserl, Edmund; Welton, Donn (1999). The Essential Husserl: Basic Writings in Transcendental Phenomenology. Indiana University Press. ISBN 978-0-253-21273-3.
+
+Modern contemporary
+
+Existentialism: Basic Writings (Second Edition) by Charles Guignon, Derk Pereboom
+
+Curley, Edwin, A Spinoza Reader, Princeton, 1994, ISBN 978-0-691-00067-1
+
+Bullock, Alan, R.B. Woodings, and John Cumming, eds. The Fontana Dictionary of Modern Thinkers, in series, Fontana Original. Hammersmith, Eng.: Fontana Press, 1992 . xxv, 867 p. ISBN 978-0-00-636965-3
+
+Scruton, Roger. A Short History of Modern Philosophy. ISBN 978-0-415-26763-2
+
+Contemporary Analytic Philosophy: Core Readings by James Baillie
+
+Appiah, Kwame Anthony. Thinking it Through – An Introduction to Contemporary Philosophy, 2003, ISBN 978-0-19-513458-2
+
+Critchley, Simon. Continental Philosophy: A Very Short Introduction. ISBN 978-0-19-285359-2
+
+Reference works
+
+Chan, Wing-tsit (1963). A Source Book in Chinese Philosophy. Princeton University Press. ISBN 978-0-691-01964-2.CS1 maint: ref=harv (link)
+
+Huang, Siu-chi (1999). Essentials of Neo-Confucianism: Eight Major Philosophers of the Song and Ming Periods. Greenwood Publishing Group. ISBN 978-0-313-26449-8.CS1 maint: ref=harv (link)
+
+The Cambridge Dictionary of Philosophy by Robert Audi
+
+The Routledge Encyclopedia of Philosophy (10 vols.) edited by Edward Craig, Luciano Floridi (available online by subscription); or
+
+The Concise Routledge Encyclopedia of Philosophy edited by Edward Craig (an abridgement)
+
+Edwards, Paul, ed. (1967). The Encyclopedia of Philosophy. Macmillan Free Press.; in 1996, a ninth supplemental volume appeared that updated the classic 1967 encyclopedia.
+
+International Directory of Philosophy and Philosophers. Charlottesville, Philosophy Documentation Center.
+
+Directory of American Philosophers. Charlottesville, Philosophy Documentation Center.
+
+Routledge History of Philosophy (10 vols.) edited by John Marenbon
+
+History of Philosophy (9 vols.) by Frederick Copleston
+
+A History of Western Philosophy (5 vols.) by W.T. Jones
+
+History of Italian Philosophy (2 vols.) by Eugenio Garin. Translated from Italian and Edited by Giorgio Pinton. Introduction by Leon Pompa.
+
+Encyclopaedia of Indian Philosophies (8 vols.), edited by Karl H. Potter et al. (first 6 volumes out of print)
+
+Indian Philosophy (2 vols.) by Sarvepalli Radhakrishnan
+
+A History of Indian Philosophy (5 vols.) by Surendranath Dasgupta
+
+History of Chinese Philosophy (2 vols.) by Fung Yu-lan, Derk Bodde
+
+Instructions for Practical Living and Other Neo-Confucian Writings by Wang Yang-ming by Chan, Wing-tsit
+
+Encyclopedia of Chinese Philosophy edited by Antonio S. Cua
+
+Encyclopedia of Eastern Philosophy and Religion by Ingrid Fischer-Schreiber, Franz-Karl Ehrhard, Kurt Friedrichs
+
+Companion Encyclopedia of Asian Philosophy by Brian Carr, Indira Mahalingam
+
+A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English by John A. Grimes
+
+History of Islamic Philosophy edited by Seyyed Hossein Nasr, Oliver Leaman
+
+History of Jewish Philosophy edited by Daniel H. Frank, Oliver Leaman
+
+A History of Russian Philosophy: From the Tenth to the Twentieth Centuries by Valerii Aleksandrovich Kuvakin
+
+Ayer, A.J. et al., Ed. (1994) A Dictionary of Philosophical Quotations. Blackwell Reference Oxford. Oxford, Basil Blackwell Ltd.
+
+Blackburn, S., Ed. (1996)The Oxford Dictionary of Philosophy. Oxford, Oxford University Press.
+
+Mauter, T., Ed. The Penguin Dictionary of Philosophy. London, Penguin Books.
+
+Runes, D., Ed. (1942). The Dictionary of Philosophy. New York, The Philosophical Library, Inc.
+
+Angeles, P.A., Ed. (1992). The Harper Collins Dictionary of Philosophy. New York, Harper Perennial.
+
+Bunnin, Nicholas; Tsui-James, Eric, eds. (15 April 2008). The Blackwell Companion to Philosophy. John Wiley Sons. ISBN 978-0-470-99787-1.
+
+Hoffman, Eric, Ed. (1997) Guidebook for Publishing Philosophy. Charlottesville, Philosophy Documentation Center.
+
+Popkin, R.H. (1999). The Columbia History of Western Philosophy. New York, Columbia University Press.
+
+Bullock, Alan, and Oliver Stallybrass, jt. eds. The Harper Dictionary of Modern Thought. New York: Harper Row, 1977. xix, 684 p. N.B.: "First published in England under the title, The Fontana Dictionary of Modern Thought." ISBN 978-0-06-010578-5
+
+Reese, W.L. Dictionary of Philosophy and Religion: Eastern and Western Thought. Atlantic Highlands, N.J.: Humanities Press, 1980. iv, 644 p. ISBN 978-0-391-00688-1
+
+External links
+
+Philosophyat Wikipedia's sister projects
+
+Definitions from Wiktionary
+
+Media from Wikimedia Commons
+
+News from Wikinews
+
+Quotations from Wikiquote
+
+Texts from Wikisource
+
+Textbooks from Wikibooks
+
+Resources from Wikiversity
+
+ Library resources about
+
+Philosophy
+
+* * *
+
+Resources in your library
+
+Resources in other libraries
+
+Stanford Encyclopedia of Philosophy
+
+The Internet Encyclopedia of Philosophy
+
+Indiana Philosophy Ontology Project
+
+PhilPapers – a comprehensive directory of online philosophical articles and books by academic philosophers
+
+Philosophy Timeline
+
+Philosophy Magazines and Journals
+
+Philosophy at Curlie
+
+Philosophy (review)
+
+Philosophy Documentation Center
+
+Popular Philosophy
+
+Article
+
+Category
+
+Glossary
+
+Index
+
+Outline
+
+Portal
+
+v
+
+t
+
+e
+
+Philosophy
+
+Branches
+
+Traditional 
+Metaphysics
+Ontology
+
+Epistemology
+
+Logic
+
+Ethics
+
+Aesthetics
+
+Philosophy of 
+Action
+
+Art
+Culture
+
+Design
+
+Music
+
+Film
+
+Business
+
+Color
+
+Cosmos
+
+Dialogue
+
+Education
+
+Environment
+
+Futility
+
+Happiness
+
+Healthcare
+
+History
+
+Human nature
+
+Humor
+
+Feminism
+
+Language
+
+Life
+
+Literature
+
+Mathematics
+
+Mind
+Pain
+
+Psychology
+
+Philosophy of psychiatry
+
+Philosophy of perception
+
+Philosophy
+
+Religion
+
+Science
+Physics
+
+Chemistry
+
+Biology
+
+Geography
+
+Sexuality
+
+Social science
+Culture
+
+Economics
+
+Justice
+
+Law
+
+Politics
+
+Society
+
+Space and time
+
+Sport
+
+Technology
+Artificial intelligence
+
+Computer science
+
+Engineering
+
+Information
+
+War
+
+Schools of thought
+
+By era 
+Ancient
+
+Western
+Medieval
+
+Renaissance
+
+Early modern
+
+Modern
+
+Contemporary
+
+Ancient
+
+Chinese 
+Agriculturalism
+
+Confucianism
+
+Legalism
+
+Logicians
+
+Mohism
+
+Chinese naturalism
+
+Neotaoism
+
+Taoism
+
+Yangism
+
+Chan
+
+Greco-Roman 
+Aristotelianism
+
+Atomism
+
+Cynicism
+
+Cyrenaics
+
+Eleatics
+
+Eretrian school
+
+Epicureanism
+
+Hermeneutics
+
+Ionian
+Ephesian
+
+Milesian
+
+Megarian school
+
+Neoplatonism
+
+Peripatetic
+
+Platonism
+
+Pluralism
+
+Presocratic
+
+Pyrrhonism
+
+Pythagoreanism
+
+Neopythagoreanism
+
+Sophistic
+
+Stoicism
+
+Indian 
+Hindu
+
+Samkhya
+
+Nyaya
+
+Vaisheshika
+
+Yoga
+
+Mīmāṃsā
+
+Ājīvika
+
+Ajñana
+
+Cārvāka
+
+Jain
+Anekantavada
+
+Syādvāda
+
+Buddhist
+Śūnyatā
+
+Madhyamaka
+
+Yogacara
+
+Sautrāntika
+
+Svatantrika
+
+Persian 
+Mazdakism
+
+Mithraism
+
+Zoroastrianism
+
+Zurvanism
+
+Medieval
+
+European 
+Christian
+
+\tAugustinianism
+
+Scholasticism
+
+Thomism
+
+Scotism
+
+Occamism
+
+Renaissance humanism
+
+East Asian 
+Korean Confucianism
+
+Edo neo-Confucianism
+
+Neo-Confucianism
+
+Indian 
+Vedanta
+Acintya bheda abheda
+
+Advaita
+
+Bhedabheda
+
+Dvaita
+
+Nimbarka Sampradaya
+
+Shuddhadvaita
+
+Vishishtadvaita
+
+Navya-Nyāya
+
+Islamic 
+Averroism
+
+Avicennism
+
+Illuminationism
+
+ʿIlm al-Kalām
+
+Sufi
+
+Jewish 
+Judeo-Islamic
+
+Modern
+
+People 
+Cartesianism
+
+Kantianism
+
+Neo-Kantianism
+
+Hegelianism
+
+Marxism
+
+Spinozism
+
+0 
+Anarchism
+
+Classical Realism
+
+Liberalism
+
+Collectivism
+
+Conservatism
+
+Determinism
+
+Dualism
+
+Empiricism
+
+Existentialism
+
+Foundationalism
+
+Historicism
+
+Holism
+
+Humanism
+Anti-
+
+Idealism
+Absolute
+
+British
+
+German
+
+Objective
+
+Subjective
+
+Transcendental
+
+Individualism
+
+Kokugaku
+
+Materialism
+
+Modernism
+
+Monism
+
+Naturalism
+
+Natural law
+
+Nihilism
+
+New Confucianism
+
+Neo-scholasticism
+
+Pragmatism
+
+Phenomenology
+
+Positivism
+
+Reductionism
+
+Rationalism
+
+Social contract
+
+Socialism
+
+Transcendentalism
+
+Utilitarianism
+
+Contemporary
+
+Analytic 
+Applied ethics
+
+Analytic feminism
+
+Analytical Marxism
+
+Communitarianism
+
+Consequentialism
+
+Critical rationalism
+
+Experimental philosophy
+
+Falsificationism
+
+Foundationalism / Coherentism
+
+Generative linguistics
+
+Internalism and externalism
+
+Logical positivism
+
+Legal positivism
+
+Normative ethics
+
+Meta-ethics
+
+Moral realism
+
+Quinean naturalism
+
+Ordinary language philosophy
+
+Postanalytic philosophy
+
+Quietism
+
+Rawlsian
+
+Reformed epistemology
+
+Systemics
+
+Scientism
+
+Scientific realism
+
+Scientific skepticism
+
+Transactionalism
+
+Contemporary utilitarianism
+
+Vienna Circle
+
+Wittgensteinian
+
+Continental 
+Critical theory
+
+Deconstruction
+
+Existentialism
+
+Feminist
+
+Frankfurt School
+
+New Historicism
+
+Hermeneutics
+
+Neo-Marxism
+
+Phenomenology
+
+Posthumanism
+
+Postmodernism
+
+Post-structuralism
+
+Social constructionism
+
+Structuralism
+
+Western Marxism
+
+Other 
+Kyoto School
+
+Objectivism
+
+Postcritique
+
+Russian cosmism
+
+more...
+
+Positions
+
+Aesthetics 
+Formalism
+
+Institutionalism
+
+Aesthetic response
+
+Ethics 
+Consequentialism
+
+Deontology
+
+Virtue
+
+Free will 
+Compatibilism
+
+Determinism
+Hard
+
+Incompatibilism
+Hard
+
+Libertarianism
+
+Metaphysics 
+Atomism
+
+Dualism
+
+Idealism
+
+Monism
+
+Naturalism
+
+Realism
+
+Epistemology 
+Empiricism
+
+Fideism
+
+Naturalism
+
+Particularism
+
+Rationalism
+
+Skepticism
+
+Solipsism
+
+Mind 
+Behaviorism
+
+Emergentism
+
+Eliminativism
+
+Epiphenomenalism
+
+Functionalism
+
+Objectivism
+
+Subjectivism
+
+Normativity 
+Absolutism
+
+Particularism
+
+Relativism
+
+Nihilism
+
+Skepticism
+
+Universalism
+
+Ontology 
+Action
+
+Event
+
+Process
+
+Reality 
+Anti-realism
+
+Conceptualism
+
+Idealism
+
+Materialism
+
+Naturalism
+
+Nominalism
+
+Physicalism
+
+Realism
+
+By region
+
+Related lists
+
+Miscellaneous
+
+By region 
+African
+
+Ethiopian
+
+Amerindian
+
+Aztec
+
+Eastern
+
+Chinese
+
+Egyptian
+
+Indian
+
+Indonesian
+
+Iranian
+
+Japanese
+
+Korean
+
+Pakistani
+
+Vietnamese
+
+Western
+
+American
+
+Australian
+
+British
+
+Czech
+
+Danish
+
+French
+
+German
+
+Greek
+
+Italian
+
+Polish
+
+Romanian
+
+Russian
+
+Slovene
+
+Spanish
+
+Turkish
+
+Lists 
+Outline
+
+Index
+
+Years
+
+Problems
+
+Schools
+
+Glossary
+
+Philosophers
+
+Movements
+
+Publications
+
+Miscellaneous 
+Natural law
+
+Sage
+
+Theoretical philosophy / Practical philosophy
+
+Women in philosophy
+
+ Portal
+
+ Category
+
+ Book
+
+v
+
+t
+
+e
+
+Humanities
+
+Anthropology
+
+Digital humanities
+
+History
+
+Law
+
+Literature
+
+Performing arts
+
+Politics
+
+Philosophy
+
+Religious studies
+
+Visual arts
+
+v
+
+t
+
+e
+
+Worldview
+
+Related terms
+
+Basic beliefs/Beliefs
+
+Collective consciousness/Collective unconscious
+
+Conceptual system
+
+Context
+
+Conventions
+
+Cultural movement
+
+Epic poetry/National epics/Pan-national epics
+
+Facts and factoids
+
+Framing
+
+Ideology
+
+Life stance
+
+Lifestyle
+
+Memes/Memeplex
+
+Mental model
+
+Metanarrative
+
+Mindset
+
+Norms
+
+Paradigm
+
+Philosophical theory
+
+Point of view
+
+Presuppositions
+
+Reality tunnel
+
+Received view
+
+Schemata
+
+School of thought
+
+Set
+
+Social reality
+
+Theory of everything
+
+Umwelt
+
+Value system
+
+Aspects
+
+Biases 
+Academic
+
+Attentional
+
+Attitude polarization
+
+Belief
+
+Cognitive (list)
+
+Collective narcissism
+
+Confirmation
+
+Congruence
+
+Cryptomnesia
+
+Cultural
+
+Ethnocentrism
+
+Filter bubble
+
+Homophily
+
+In-group favoritism
+
+Magical thinking
+
+Media
+
+Observer-expectancy
+
+Observational error
+
+Selective exposure
+
+Selective perception
+
+Self-deception
+
+Self-fulfilling prophecy (Clever Hans effect, placebo effect, wishful thinking)
+
+Status quo
+
+Stereotyping
+
+Change and
+
+maintenance 
+Activism
+
+Argument
+
+Argumentum ad populum
+
+Attitude change
+
+Censorship
+
+Charisma
+
+Circular reporting
+
+Cognitive dissonance
+
+Critical thinking
+
+Crowd manipulation
+
+Cultural dissonance
+
+Deprogramming
+
+Echo chamber
+
+Education (religious, values)
+
+Euphemism
+
+Excommunication
+
+Fearmongering
+
+Historical revisionism
+
+Ideological repression
+
+Indoctrination
+
+Media manipulation
+
+Media regulation
+
+Mind control
+
+Missionaries
+
+Moral entrepreneurship
+
+Persuasion
+
+Polite fiction
+
+Political engineering
+
+Propaganda
+
+Propaganda model
+
+Proselytism
+
+Psychological manipulation
+
+Psychological warfare
+
+Religious conversion (forced)
+
+Religious persecution
+
+Religious uniformity
+
+Revolutions
+
+Rhetoric
+
+Self-censorship
+
+Social change
+
+Social control
+
+Social engineering
+
+Social influence
+
+Social progress
+
+Suppression of dissent
+
+Systemic bias
+
+Woozle effect
+
+Culture 
+Anthropology (cultural, social)
+
+Calendars
+
+Ceremonies
+
+Coronations
+
+Cross-cultural psychology
+
+Cultural psychology
+
+Doctrine
+
+Employment/Serfdom/Slavery
+
+Families
+
+Funerals/Burial
+
+Games
+
+Holidays
+
+Hygiene (ritual)
+
+Identity (philosophy) (cultural)
+
+Institutions
+
+Liminality
+
+Liturgy
+
+Marriage
+
+Myth and ritual
+
+Oaths
+
+Pilgrimages
+
+Play
+
+Rites of passage (secular)
+
+Rituals
+
+Social class/Social status/Caste
+
+Symbols
+
+Symbolic boundaries
+
+Worship
+
+Groupthink 
+Abilene paradox
+
+Bandwagon effect
+
+Collectives
+
+Collective behavior (animal)
+
+Collective effervescence
+
+Collective intelligence
+
+Conformity
+
+Consensus theory
+
+Crowd psychology
+
+Cults
+
+Culture-bound syndromes
+
+Deindividuation
+
+Democracy
+
+Emergence
+
+Emotional contagion
+
+Entitativity
+
+False-consensus effect
+
+Folie à deux
+
+Group action
+
+Group dynamics
+
+Group emotion
+
+Group polarization
+
+Groupshift
+
+Herd behavior
+
+Holism
+
+Hysterical contagion
+
+Information cascade
+
+Invisible hand
+
+Lynching
+
+Majoritarianism/Ochlocracy
+
+Mass action
+
+Mass hysteria
+
+Mass psychogenic illness
+
+Milieu control
+
+Mobbing
+
+Moral panic
+
+Organizations
+
+Peer pressure
+
+Pluralistic ignorance
+
+Political correctness
+
+Pseudoconsensus
+
+Scapegoating
+
+Self-organization
+
+Social action
+
+Social behavior
+
+Social emotions
+
+Social exclusion
+
+Social facilitation (animal)
+
+Social group
+
+Social proof
+
+Social psychology
+
+Sociology
+
+Spontaneous order
+
+Status quo
+
+Stigmergy
+
+Swarm behaviour
+
+System justification
+
+Viral phenomena
+
+Knowledge 
+Axioms (tacit assumptions)
+
+Conceptual framework
+
+Epistemology (outline)
+
+Evidence (anecdotal, scientific)
+
+Explanations
+
+Faith (fideism)
+
+Gnosis
+
+Intuition
+
+Meaning-making
+
+Memory
+
+Metaknowledge
+
+Methodology
+
+Observation
+
+Observational learning
+
+Perception
+
+Reasoning (fallacious, logic)
+
+Revelation
+
+Testimony
+
+Tradition (folklore)
+
+Truth (consensus theory, criteria)
+
+World disclosure
+
+Metaphysics 
+Ætiology
+
+Afterlife
+
+Anima mundi
+
+Being
+
+Causality
+
+Concepts
+
+Consciousness (mind–body problem)
+
+Cosmogony
+
+Cosmology (religious)
+
+Creation myth
+
+Deities (existence)
+
+Destiny
+
+Eschatology
+
+Everything/Nothing
+
+Evolution
+
+Existence
+
+Fiction/Non-fiction
+
+Free will
+
+Future
+
+History
+
+Ideas
+
+Idios kosmos
+
+Illusions
+
+Incarnation
+
+Information
+
+Intelligence
+
+Magic
+
+Matter
+
+Miracles
+
+Mythology (comparative)
+
+National mythoi
+
+Nature (philosophical)
+
+Ontology
+
+Origin myths (political myths)
+
+Otherworlds (axes mundi)
+
+Problem of evil
+
+Physics (natural philosophy)
+
+Reality
+
+Souls
+
+Spirit
+
+Supernature
+
+Teleology
+
+Theology
+
+Time
+
+Unobservables
+
+Value 
+Æsthetics
+
+Almsgiving/Charity
+
+Altruism
+
+Autonomy
+
+Beauty
+
+Codes of conduct
+
+Comedy
+
+Common good
+
+Conscience
+
+Consent
+
+Creativity
+
+Disgust
+
+Duty
+
+Economics
+
+Ecstasy (emotional, religious)
+
+Elegance
+
+Emotions (æsthetic)
+
+Entertainment
+
+Eroticism
+
+Ethics
+
+Étiquette
+
+Family values
+
+Food and drink prohibitions (unclean animals)
+
+Golden Rule
+
+Guilt/Culpability
+
+Happiness
+
+Harmony
+
+Honour
+
+Human rights
+
+Judgement
+
+Justice
+
+Laws (jurisprudence, religious)
+
+Liberty (political freedom)
+
+Love
+
+Magnificence
+
+Maxims
+
+Meaning of life
+
+Morality (public)
+
+Obligations
+
+Peace
+
+Piety
+
+Praxeology
+
+Principles
+
+Punishment
+
+Qualities
+
+Repentance
+
+Reverence
+
+Rights
+
+Sexuality (ethics)
+
+Sin
+
+Social stigma
+
+Stewardship
+
+Styles
+
+Sublime, The
+
+Suffering
+
+Sympathy
+
+Taboo
+
+Taste
+
+Theodicy
+
+Trust
+
+Unspoken rules
+
+Virtues and Vices
+
+Works of art
+
+Wrongdoing
+
+Examples
+
+Attitudes 
+Nihilism
+
+Optimism
+
+Pessimism
+
+Reclusion
+
+Weltschmerz
+
+Economic and
+
+political ideologies 
+Authoritarianism
+
+Anarchism
+
+Capitalism
+
+Christian democracy
+
+Collectivism
+
+Colonialism
+
+Communalism
+
+Communism
+
+Communitarianism
+
+Conservatism
+
+Constitutionalism
+
+Distributism
+
+Environmentalism
+
+Extremism
+
+Fanaticism
+
+Fascism
+
+Feminism
+
+Fundamentalism
+
+Globalism
+
+Green politics
+
+Imperialism
+
+Individualism
+
+Industrialism
+
+Intellectualism
+
+Islamism
+
+Liberalism
+
+Libertarianism
+
+Masculism
+
+Militarism
+
+Monarchism
+
+Nationalism
+
+Pacifism
+
+Progressivism
+
+Radicalism
+
+Reformism
+
+Republicanism
+
+Sentientism
+
+Social democracy
+
+Socialism
+
+Utilitarianism
+
+Veganism
+
+Religions 
+African traditional religions
+
+Bahá'í
+
+Buddhism
+
+Cao Dai
+
+Cheondoism
+
+Chinese traditional religions
+
+Christianity
+
+Ethnic religions
+
+Hòa Hảo
+
+Hinduism
+
+Islam
+
+Jainism
+
+Judaism
+
+Korean shamanism
+
+Neo-Paganism
+
+Rastafarianism
+
+Secular/Nonreligious/Agnostic/Atheist
+
+Shinto
+
+Sikhism
+
+Spiritism
+
+Taoism
+
+Tenrikyo
+
+Tenriism
+
+Unitarian Universalism
+
+Zoroastrianism
+
+Schools of
+
+philosophy 
+Agriculturalism
+
+Aristotelianism
+
+Atomism
+
+Averroism
+
+Cartesianism
+
+Cārvāka
+
+Collectivism
+
+Confucianism/New Confucianism
+
+Critical theory
+
+Cynicism
+
+Cyrenaics
+
+Determinism
+
+Dualism
+
+Eleatics
+
+Empiricism
+
+Eretrian school
+
+Epicureanism
+
+Existentialism
+
+Foundationalism
+
+Hedonism
+
+Hegelianism
+
+Hermeneutics
+
+Historicism/New Historicism
+
+Holism
+
+Humanism/Renaissance humanism
+
+Illuminationism
+
+ʿIlm al-Kalām
+
+Idealism
+
+Individualism
+
+Ionian
+
+Kantianism/Neo-Kantianism
+
+Kokugaku
+
+Legalism
+
+Logicians
+
+Materialism
+
+Mohism
+
+Megarian school
+
+Modernism/Postmodernism
+
+Monism
+
+Natural Law
+
+Naturalism (Chinese)
+
+Naturalism (western)
+
+Nihilism
+
+Peripatetic
+
+Phenomenology
+
+Platonism/Neoplatonism
+
+Pluralism
+
+Positivism
+
+Pragmatism
+
+Presocratic
+
+Pyrrhonism
+
+Pythagoreanism/Neopythagoreanism
+
+Rationalism
+
+Reductionism
+
+Scholasticism/Neo-Scholasticism
+
+Sentientism
+
+Social constructionism
+
+Sophism
+
+Spinozism
+
+Stoicism
+
+Structuralism/Post-structuralism
+
+Thomism
+
+Transcendentalism
+
+Utilitarianism
+
+Yangism
+
+Authority control 
+BNE: XX525257
+
+BNF: cb119368422 (data)
+
+GND: 4045791-6
+
+LCCN: sh85100849
+
+NARA: 10642509
+
+NDL: 00572945
+
+NKC: ph114540

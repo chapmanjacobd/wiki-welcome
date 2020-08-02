@@ -1,0 +1,341 @@
+"For the band, see The Stylistics.
+
+ Part of a series on
+
+Linguistics
+
+Outline
+
+History
+
+Index
+
+Subfields
+
+Acquisition
+
+Anthropological
+
+Applied
+
+Computational
+
+Discourse analysis
+
+Forensic
+
+Historical
+
+Lexicography
+
+Morphology
+
+Morphophonology
+
+Neurolinguistics
+
+Philosophy of language
+
+Phonetics
+
+Phonology
+
+Pragmatics
+
+Psycholinguistics
+
+Semantics
+
+Sociolinguistics
+
+Syntax
+
+Grammatical theories
+
+Cognitive
+
+Model-theoretic
+
+Constituency
+
+Dependency
+
+Functional
+
+Generative
+
+Stochastic
+
+Topics
+
+Conservative / innovative forms
+
+Descriptivism
+
+Etymology
+
+Internet linguistics
+
+LGBT linguistics
+
+Linguistic anthropology
+
+Linguistic philosophy
+
+Origin of language
+
+Origin of speech
+
+Orthography
+
+Prescriptivism
+
+Second-language acquisition
+
+Structuralism
+
+ Portal
+
+v
+
+t
+
+e
+
+Stylistics, a branch of applied linguistics, is the study and interpretation of texts of all types and/or spoken language in regard to their linguistic and tonal style, where style is the particular variety of language used by different individuals and/or in different situations or settings. For example, the vernacular, or everyday language may be used among casual friends, whereas more formal language, with respect to grammar, pronunciation or accent, and lexicon or choice of words, is often used in a cover letter and résumé and while speaking during a job interview.
+
+As a discipline, stylistics links literary criticism to linguistics. It does not function as an autonomous domain on its own, and it can be applied to an understanding of literature and journalism as well as linguistics. Sources of study in stylistics may range from canonical works of writing to popular texts, and from advertising copy to news, non-fiction, and popular culture, as well as to political and religious discourse. Indeed, as recent work in critical stylistics, multimodal stylistics and mediated stylistics has made clear, non-literary texts may be of just as much interest to stylisticians as literary ones. Literariness, in other words, is here conceived as 'a point on a cline rather than as an absolute'.
+
+Stylistics as a conceptual discipline may attempt to establish principles capable of explaining particular choices made by individuals and social groups in their use of language, such as in the literary production and reception of genre, the study of folk art, in the study of spoken dialects and registers, and can be applied to areas such as discourse analysis as well as literary criticism.
+
+Common features of style include the use of dialogue, including regional accents and individual idioms (or idiolects), the distribution of sentence lengths, the use of particular language registers, and so on. In addition, stylistics is a distinctive term that may be used to determine the connections between the form and effects within a particular variety of language. Therefore, stylistics looks at what is 'going on' within the language; what the linguistic associations are that the style of language reveals.
+
+Contents
+
+1 Early twentieth century
+
+2 Late twentieth century
+
+3 Literary stylistics
+
+3.1 Poetry
+
+3.2 Implicature
+
+3.3 Tense
+
+3.4 The point of poetry
+
+4 See also
+
+5 Notes
+
+6 References and related reading
+
+7 External links
+
+Early twentieth century
+
+The analysis of literary style goes back to the study of classical rhetoric, though modern stylistics has its roots in Russian Formalism and the related Prague School of the early twentieth century.
+
+In 1909, Charles Bally de stylistique française had proposed stylistics as a distinct academic discipline to complement Saussurean linguistics. For Bally, Saussure's linguistics by itself couldn't fully describe the language of personal expression. Bally's programme fits well with the aims of the Prague School.
+
+Taking forward the ideas of the Russian Formalists, the Prague School built on the concept of foregrounding, where it is assumed that poetic language is considered to stand apart from non-literary background language, by means of deviation (from the norms of everyday language) or parallelism. According to the Prague School, however, this background language isn't constant, and the relationship between poetic and everyday language is therefore always shifting.
+
+Late twentieth century
+
+Roman Jakobson had been an active member of the Russian Formalists and the Prague School, before emigrating to America in the 1940s. He brought together Russian Formalism and American New Criticism in his Closing Statement at a conference on stylistics at Indiana University in 1958. Published as Linguistics and Poetics in 1960, Jakobson's lecture is often credited with being the first coherent formulation of stylistics, and his argument was that the study of poetic language should be a sub-branch of linguistics. The poetic function was one of six general functions of language he described in the lecture.
+
+Michael Halliday is an important figure in the development of British stylistics. His 1971 study Linguistic Function and Literary Style: An Inquiry into the Language of William Golding's The Inheritors is a key essay. One of Halliday's contributions has been the use of the term register to explain the connections between language and its context. For Halliday register is distinct from dialect. Dialect refers to the habitual language of a particular user in a specific geographical or social context. Register describes the choices made by the user, choices which depend on three variables: field ("what the participants... are actually engaged in doing", for instance, discussing a specific subject or topic), tenor (who is taking part in the exchange) and mode (the use to which the language is being put).
+
+Fowler comments that different fields produce different language, most obviously at the level of vocabulary (Fowler. 1996, 192) The linguist David Crystal points out that Halliday's 'tenor' stands as a roughly equivalent term for 'style', which is a more specific alternative used by linguists to avoid ambiguity (Crystal. 1985, 292). Halliday's third category, mode, is what he refers to as the symbolic organisation of the situation. Downes recognises two distinct aspects within the category of mode and suggests that not only does it describe the relation to the medium: written, spoken, and so on, but also describes the genre of the text (Downes. 1998, 316). Halliday refers to genre as pre-coded language, language that has not simply been used before, but that predetermines the selection of textual meanings. The linguist William Downes makes the point that the principal characteristic of register, no matter how peculiar or diverse, is that it is obvious and immediately recognisable (Downes. 1998, 309).
+
+Literary stylistics
+
+In The Cambridge Encyclopedia of Language, Crystal observes that, in practice, most stylistic analysis has attempted to deal with the complex and 'valued' language within literature, i.e. 'literary stylistics'. He goes on to say that in such examination the scope is sometimes narrowed to concentrate on the more striking features of literary language, for instance, its 'deviant' and abnormal features, rather than the broader structures that are found in whole texts or discourses. For example, the compact language of poetry is more likely to reveal the secrets of its construction to the stylistician than is the language of plays and novels (Crystal. 1987, 71).
+
+Poetry
+
+As well as conventional styles of language there are the unconventional – the most obvious of which is poetry. In Practical Stylistics, HG Widdowson examines the traditional form of the epitaph, as found on headstones in a cemetery. For example:
+
+His memory is dear today
+
+As in the hour he passed away.
+
+(Ernest C. Draper 'Ern'. Died 4.1.38)
+
+(Widdowson. 1992, 6)
+
+Widdowson makes the point that such sentiments are usually not very interesting and suggests that they may even be dismissed as 'crude verbal carvings' and crude verbal disturbance (Widdowson, 3). Nevertheless, Widdowson recognises that they are a very real attempt to convey feelings of human loss and preserve affectionate recollections of a beloved friend or family member. However, what may be seen as poetic in this language is not so much in the formulaic phraseology but in where it appears. The verse may be given undue reverence precisely because of the sombre situation in which it is placed. Widdowson suggests that, unlike words set in stone in a graveyard, poetry is unorthodox language that vibrates with inter-textual implications (Widdowson. 1992, 4).
+
+Two problems with a stylistic analysis of poetry are noted by PM Wetherill in Literary Text: An Examination of Critical Methods. The first is that there may be an over-preoccupation with one particular feature that may well minimise the significance of others that are equally important (Wetherill. 1974, 133). The second is that any attempt to see a text as simply a collection of stylistic elements will tend to ignore other ways whereby meaning is produced (Wetherill. 1974, 133).
+
+Implicature
+
+In 'Poetic Effects' from Literary Pragmatics, the linguist Adrian Pilkington analyses the idea of 'implicature', as instigated in the previous work of Dan Sperber and Deirdre Wilson. Implicature may be divided into two categories: 'strong' and 'weak' implicature, yet between the two extremes there are a variety of other alternatives. The strongest implicature is what is emphatically implied by the speaker or writer, while weaker implicatures are the wider possibilities of meaning that the hearer or reader may conclude.
+
+Pilkington's 'poetic effects', as he terms the concept, are those that achieve most relevance through a wide array of weak implicatures and not those meanings that are simply 'read in' by the hearer or reader. Yet the distinguishing instant at which weak implicatures and the hearer or reader's conjecture of meaning diverge remains highly subjective. As Pilkington says: 'there is no clear cut-off point between assumptions which the speaker certainly endorses and assumptions derived purely on the hearer's responsibility.' (Pilkington. 1991, 53) In addition, the stylistic qualities of poetry can be seen as an accompaniment to Pilkington's poetic effects in understanding a poem's meaning.
+
+Tense
+
+Widdowson points out that in Samuel Taylor Coleridge's poem "The Rime of the Ancient Mariner" (1798), the mystery of the Mariner's abrupt appearance is sustained by an idiosyncratic use of tense. (Widdowson. 1992, 40) For instance, the Mariner 'holds' the wedding-guest with his 'skinny hand' in the present tense, but releases it in the past tense ('...his hands dropt he.'); only to hold him again, this time with his 'glittering eye', in the present (Widdowson. 1992, 41).
+
+The point of poetry
+
+Widdowson notices that when the content of poetry is summarised, it often refers to very general and unimpressive observations, such as 'nature is beautiful; love is great; life is lonely; time passes', and so on (Widdowson. 1992, 9). But to say:
+
+Like as the waves make towards the pebbled shore,
+
+So do our minutes hasten to their end ...
+
+William Shakespeare, '60'.
+
+Or, indeed:
+
+Love, all alike, no season knows nor clime,
+
+Nor hours, days months, which are the rags of time ...
+
+John Donne, 'The Sun Rising', Poems (1633)
+
+This language gives the reader a new perspective on familiar themes and allows us to look at them without the personal or social conditioning that we unconsciously associate with them (Widdowson. 1992, 9). So, although the reader may still use the same exhausted words and vague terms like 'love', 'heart' and 'soul' to refer to human experience, to place these words in a new and refreshing context allows the poet the ability to represent humanity and communicate honestly. This, in part, is stylistics, and this, according to Widdowson, is the point of poetry (Widdowson. 1992, 76).
+
+See also
+
+Acrolect
+
+Aureation
+
+Basilect
+
+Classical language
+
+Gender role in language
+
+Internet linguistics
+
+Liturgical language
+
+Media stylistics
+
+Official language
+
+Philology
+
+Poetics and Linguistics Association
+
+Standard language
+
+Stylometry
+
+Notes
+
+^ Widdowson, H.G. 1975. Stylistics and the teaching of literature. Longman: London. ISBN 0-582-55076-9
+
+^ Simpson, Paul. 2004. Stylistics : A resource book for students. Routledge p. 2: "Stylistics is a method of textual interpretation in which primacy of place is assigned to language".
+
+^ Attenborough, F. (2014). "Rape is rape (except when it's not): the media, recontextualisation and violence against women". Journal of Language Aggression and Conflict. 2(2): 183-203.
+
+^ Davies, M. (2007) The attraction of opposites: the ideological function of conventional and created oppositions in the construction of in-groups and out-groups in news texts, in L. Jeffries, D. McIntyre, D. Bousfield (eds.) Stylistics and Social Cognition. Amsterdam: Rodopi.
+
+^ Simpson, Paul. 2004. Stylistics: A resource book for students. Routledge p. 3: "The preferred object of study in stylistics is literature, whether that be institutionally sanctioned 'literature' as high art or more popular 'non-canonical' forms of writing.".
+
+^ Jeffries, L. (2010) Critical Stylistics. Basingstoke: Palgrave.
+
+^ Montoro, R. (2006) Analysting literature through films, in G. Watson, S. Zyngier (eds.) Literature and Stylistics for Language Learners: Theory and Practice. Basingstoke: Palgrave, pp. 48-59.
+
+^ Attenborough, F. (2014) Jokes, pranks, blondes and banter: recontextualising sexism in the British print press, Journal of Gender Studies, 23(2): 137-154.
+
+^ Jeffries, L., McIntyre, D. (2010) Stylistics. Cambridge: Cambridge University Press, p. 2.
+
+^ Carter, R., Nash, W. (1990) Seeing through Language: a guide to styles of English writing. Oxford: Blackwell.
+
+^ Lesley Jeffries, Daniel McIntyre, Stylistics, Cambridge University Press, 2010, p 1. ISBN 0-521-72869-X
+
+^ , Talbot J. Taylor, Mutual Misunderstanding: Scepticism and the Theorizing of Language and Interpretation, Duke University Press, 1992, p 91. ISBN 0-8223-1249-2
+
+^ Ulrich Ammon, Status and Function of Languages and Language Varieties, Walter de Gruyter, 1989, p 518. ISBN 0-89925-356-3
+
+^ Katie Wales, A Dictionary of Stylistics, Pearson Education, 2001, p 315. ISBN 0-582-31737-1
+
+^ Rob Pope, The English Studies Book: an Introduction to Language, Literature and Culture, Routledge, 2002, p 88. ISBN 0-415-25710-7
+
+^ Richard Bradford, A Linguistic History of English Poetry, Routledge, 1993, p 8. ISBN 0-415-07057-0
+
+^ Nikolas Coupland, Style: Language Variation and Identity, Cambridge University Press, 2007, p 10. ISBN 0-521-85303-6
+
+^ Raman Selden, The Cambridge History of Literary Criticism: From Formalism to Poststructuralism, Cambridge University Press, 1989, p83. ISBN 0-521-30013-4
+
+^ Paul Simpson, Stylistics: a Resource Book for Students, Routledge, 2004, p75. ISBN 0-415-28104-0
+
+^ Helen Leckie-Tarry, Language and Context: a Functional Linguistic Theory of Register, Continuum International Publishing Group, 1995, p6. ISBN 1-85567-272-3
+
+^ Nikolas Coupland, Style: Language Variation and Identity, Cambridge University Press, 2007, p 12. ISBN 0-521-85303-6
+
+^ Christopher S. Butler, Structure and Function: a Guide to Three Major Structural-Functional Theories, John Benjamins Publishing Company, 2003, p 373. ISBN 1-58811-361-2
+
+References and related reading
+
+ed. David Birch. 1995. Context and Language: A Functional Linguistic Theory of Register (London, New York: Pinter)
+
+Richard Bradford. 1997. Stylistics (London and New York: Routledge)
+
+Michael Burke. 2010. Literary Reading, Cognition and Emotion: An Exploration of the Oceanic Mind (London and New York: Routledge)
+
+David Crystal. 1998. Language Play (London: Penguin)
+
+1985. A Dictionary of Linguistics and Phonetics, 2nd edition (Oxford: Basil Blackwell)
+
+1997. The Cambridge Encyclopedia of Language, 2nd edition (Cambridge: Cambridge University Press)
+
+William Downes. 1998. Language and Society, 2nd edition (Cambridge: Cambridge University Press)
+
+Roger Fowler. 1996. Linguistic Criticism, 2nd edition (Oxford: Oxford University Press)
+
+1995. The Language of George Orwell (London: Macmillan Press)
+
+MAK Halliday. 1978. Language as Social Semiotic: The Social Interpretation of Language and Meaning (London: Edward Arnold)
+
+Hernández-Campoy, Juan M. (2016). Sociolinguistic Styles. Wiley-Blackwell. ISBN 978-1-118-73764-4.
+
+Brian Lamont. 2005. First Impressions (Edinburgh: Penbury Press)
+
+Geoffrey Leech and Michael H. Short. 1981. Style in Fiction: A Linguistic Introduction to English Fictional Prose (London: Longman)
+
+A McIntosh and P Simpson. 1964. The Linguistic Science and Language Teaching (London: Longman)
+
+George Orwell. 1949. Nineteen Eighty-Four (London: Heinemann)
+
+1964. Inside the Whale and Other Essays (London: Penguin Books)
+
+Adrian Pilkington. 1991. 'Poetic Effects', Literary Pragmatics, ed. Roger Sell (London: Routledge)
+
+ed. Thomas A. Sebeok. 1960. Style in Language (Cambridge, MA: MIT Press)
+
+Michael Toolan. 1998. Language in Literature: An Introduction to Stylistics (London: Hodder Arnold)
+
+Jonathan Swift. 1994. Gulliver's Travels (London: Penguin Popular Classics)
+
+Katie Wales. 2001. A Dictionary of Stylistics, 2nd edition, (Harlow: Longman)
+
+ed. Jean Jacques Weber. 1996. The Stylistics Reader: From Roman Jakobson to the Present (London: Arnold Hodder)
+
+PM Wetherill. 1974. Literary Text: An Examination of Critical Methods (Oxford: Basil Blackwell)
+
+HG Widdowson. 1992. Practical Stylistics (Oxford: Oxford University Press)
+
+Joseph Williams. 2007. Style: Lessons in Clarity and Grace, 9th edition (New York: Pearson Longman)
+
+External links
+
+Stylistics from Scratch: My 'Take' on Stylistics and How to Go About a Stylistic Analysis Professor Mick Short
+
+Checklist of American and British programs in stylistics and literary linguistics
+
+The Poetics and Linguistics Association
+
+http://www.brianlamont.com/
+
+Stylistics – Theoretical issues of stylistics
+
+A CC licensed introductory course to Stylistics from Lancaster University: http://www.lancs.ac.uk/fass/projects/stylistics/start.htm

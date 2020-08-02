@@ -1,0 +1,1300 @@
+"This article is about Lord Kelvin. For other uses, see Kelvin (disambiguation).
+
+For other people with the same name, see William Thomson.
+
+The Right Honourable
+
+The Lord Kelvin
+
+OM GCVO PC PRS FRSE
+
+President of the Royal Society
+
+In office
+
+1890–1895
+
+Preceded by Sir George Stokes
+
+Succeeded by The Lord Lister
+
+Personal details
+
+Born (1824-06-26)26 June 1824
+
+Belfast, Ireland
+
+Died 17 December 1907(1907-12-17) (aged 83)
+
+Largs, Ayrshire, Scotland
+
+Nationality British
+
+Spouse(s) Margaret Crum
+
+​
+
+(m. 1852; died 1870)
+
+Frances Blandy​
+
+(m. 1874⁠–⁠1907)
+
+Children none
+
+Residence Belfast; Glasgow; Cambridge
+
+Signature
+
+Alma mater Royal Belfast Academical Institution
+
+Glasgow University
+
+Peterhouse, Cambridge
+
+Known for 
+Joule–Thomson effect
+
+Thomson effect (thermoelectric)
+
+Mirror galvanometer
+
+Siphon recorder
+
+Kelvin material
+
+Kelvin water dropper
+
+Kelvin wave
+
+Kelvin–Helmholtz instability
+
+Kelvin–Helmholtz mechanism
+
+Kelvin–Helmholtz luminosity
+
+Kelvin's minimum energy theorem
+
+Kelvin transform
+
+Absolute zero
+
+Kelvin's circulation theorem
+
+Stokes' theorem
+
+Kelvin bridge
+
+Kelvin sensing
+
+Kelvin equation
+
+Kelvin-Varley divider
+
+Magnetoresistance
+
+Coining the term 'kinetic energy'
+
+Awards First Smith's Prize (1845)
+
+Royal Medal (1856)
+
+Keith Medal (1864)
+
+Matteucci Medal (1876)
+
+Albert Medal (1879)
+
+Copley Medal (1883)
+
+John Fritz Medal (1905)
+
+Scientific career
+
+Institutions University of Glasgow
+
+Academic advisors William Hopkins
+
+Notable students William Edward Ayrton
+
+Influences Sadi Carnot
+
+Rudolf Clausius
+
+Julius von Mayer
+
+James Joule
+
+Humphry Davy
+
+Influenced Andrew Gray
+
+It is believed the "PNP" in his signature stands for "Professor of Natural Philosophy". Note that Kelvin also wrote under the pseudonym "P. Q. R."
+
+William Thomson, Baron Kelvin, OM, GCVO, PC, PRS, FRSE (26 June 1824 – 17 December 1907) was a British mathematical physicist and engineer who was born in Belfast in 1824. At the University of Glasgow he did important work in the mathematical analysis of electricity and formulation of the first and second laws of thermodynamics, and did much to unify the emerging discipline of physics in its modern form. He worked closely with mathematics professor Hugh Blackburn in his work. He also had a career as an electric telegraph engineer and inventor, which propelled him into the public eye and ensured his wealth, fame and honour. For his work on the transatlantic telegraph project he was knighted in 1866 by Queen Victoria, becoming Sir William Thomson. He had extensive maritime interests and was most noted for his work on the mariner's compass, which previously had limited reliability.
+
+Absolute temperatures are stated in units of kelvin in his honour. While the existence of a lower limit to temperature (absolute zero) was known prior to his work, Kelvin is known for determining its correct value as approximately −273.15 degree Celsius or −459.67 degree Fahrenheit.
+
+He was ennobled in 1892 in recognition of his achievements in thermodynamics, and of his opposition to Irish Home Rule, becoming Baron Kelvin, of Largs in the County of Ayr. He was the first British scientist to be elevated to the House of Lords. The title refers to the River Kelvin, which flows near his laboratory at the University of Glasgow. His home was the red sandstone mansion Netherhall, in Largs. Despite offers of elevated posts from several world-renowned universities, Kelvin refused to leave Glasgow, remaining professor of Natural Philosophy for over 50 years, until his eventual retirement from that post. The Hunterian Museum at the University of Glasgow has a permanent exhibition on the work of Kelvin including many of his original papers, instruments, and other artifacts, such as his smoking pipe.
+
+Active in industrial research and development, he was recruited around 1899 by George Eastman to serve as vice-chairman of the board of the British company Kodak Limited, affiliated with Eastman Kodak.
+
+Contents
+
+1 Early life and work
+
+1.1 Family
+
+1.2 Youth
+
+1.3 Cambridge
+
+1.4 Thermodynamics
+
+2 Transatlantic cable
+
+2.1 Calculations on data rate
+
+2.2 Scientist to engineer
+
+2.3 Disaster and triumph
+
+2.4 Later expeditions
+
+3 Other contributions
+
+3.1 Thomson and Tait: Treatise on Natural Philosophy
+
+3.2 Kelvin's vortex theory of the atom
+
+3.3 Marine
+
+3.4 Electrical standards
+
+3.5 Age of the Earth: geology
+
+4 Later life and death
+
+5 Aftermath and legacy
+
+5.1 Limits of classical physics
+
+5.2 Pronouncements later proven to be false
+
+5.3 Eponyms
+
+5.4 Honours
+
+5.5 Arms
+
+6 See also
+
+7 References
+
+7.1 Kelvin's works
+
+7.2 Biography, history of ideas and criticism
+
+8 External links
+
+Early life and work
+
+Family
+
+Thomson family tree: James Thomson (mathematician), James Thomson (engineer), and William Thomson, were all professors at Glasgow University; the later two, through their association with William Rankine, another Glasgow professor, worked to form one of the founding schools of thermodynamics.
+
+William Thomson's father, James Thomson, was a teacher of mathematics and engineering at the Royal Belfast Academical Institution and the son of a farmer. James Thomson married Margaret Gardner in 1817 and, of their children, four boys and two girls survived infancy. Margaret Thomson died in 1830 when William was six years old.
+
+William and his elder brother James were tutored at home by their father while the younger boys were tutored by their elder sisters. James was intended to benefit from the major share of his father's encouragement, affection and financial support and was prepared for a career in engineering.
+
+In 1832, his father was appointed professor of mathematics at Glasgow and the family moved there in October 1833. The Thomson children were introduced to a broader cosmopolitan experience than their father's rural upbringing, spending mid-1839 in London and the boys were tutored in French in Paris. Much of Thomson's life during the mid-1840s was spent in Germany and the Netherlands. Language study was given a high priority.
+
+His sister, Anna Thomson, was the mother of James Thomson Bottomley FRSE (1845-1926).
+
+Youth
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "William Thomson, Baron Kelvin" – news · newspapers · books · scholar · JSTOR (December 2017) (Learn how and when to remove this template message)
+
+Thomson had heart problems and nearly died when he was 9 years old. He attended the Royal Belfast Academical Institution, where his father was a professor in the university department, before beginning study at Glasgow University in 1834 at the age of 10, not out of any precociousness; the University provided many of the facilities of an elementary school for able pupils, and this was a typical starting age.
+
+In school, Thomson showed a keen interest in the classics along with his natural interest in the sciences. At the age of 12 he won a prize for translating Lucian of Samosata's Dialogues of the Gods from Latin to English.
+
+In the academic year 1839/1840, Thomson won the class prize in astronomy for his Essay on the figure of the Earth which showed an early facility for mathematical analysis and creativity. His physics tutor at this time was his namesake, David Thomson.
+
+Throughout his life, he would work on the problems raised in the essay as a coping strategy during times of personal stress. On the title page of this essay Thomson wrote the following lines from Alexander Pope's Essay on Man. These lines inspired Thomson to understand the natural world using the power and method of science:
+
+Go, wondrous creature! mount where Science guides;
+
+Go measure earth, weigh air, and state the tides;
+
+Instruct the planets in what orbs to run,
+
+Correct old Time, and regulate the sun;
+
+Thomson became intrigued with Fourier's Théorie analytique de la chaleur and committed himself to study the "Continental" mathematics resisted by a British establishment still working in the shadow of Sir Isaac Newton. Unsurprisingly, Fourier's work had been attacked by domestic mathematicians, Philip Kelland authoring a critical book. The book motivated Thomson to write his first published scientific paper under the pseudonym P.Q.R., defending Fourier, and submitted to the Cambridge Mathematical Journal by his father. A second P.Q.R. paper followed almost immediately.
+
+While on holiday with his family in Lamlash in 1841, he wrote a third, more substantial, P.Q.R. paper On the uniform motion of heat in homogeneous solid bodies, and its connection with the mathematical theory of electricity. In the paper he made remarkable connections between the mathematical theories of heat conduction and electrostatics, an analogy that James Clerk Maxwell was ultimately to describe as one of the most valuable science-forming ideas.
+
+Cambridge
+
+Lord Kelvin by Hubert von Herkomer
+
+William's father was able to make a generous provision for his favourite son's education and, in 1841, installed him, with extensive letters of introduction and ample accommodation, at Peterhouse, Cambridge. While at Cambridge, Thomson was active in sports, athletics and sculling, winning the Colquhoun Sculls in 1843. He also took a lively interest in the classics, music, and literature; but the real love of his intellectual life was the pursuit of science. The study of mathematics, physics, and in particular, of electricity, had captivated his imagination. In 1845 Thomson graduated as Second Wrangler. He also won the First Smith's Prize,
+which, unlike the tripos, is a test of original research. Robert Leslie Ellis, one of the examiners, is said to have declared to another examiner "You and I are just about fit to mend his pens."
+
+In 1845, he gave the first mathematical development of Michael Faraday's idea that electric induction takes place through an intervening medium, or "dielectric", and not by some incomprehensible "action at a distance". He also devised the mathematical technique of electrical images, which became a powerful agent in solving problems of electrostatics, the science which deals with the forces between electrically charged bodies at rest. It was partly in response to his encouragement that Faraday undertook the research in September 1845 that led to the discovery of the Faraday effect, which established that light and magnetic (and thus electric) phenomena were related.
+
+He was elected a fellow of St. Peter's (as Peterhouse was often called at the time) in June 1845. On gaining the fellowship, he spent some time in the laboratory of the celebrated Henri Victor Regnault, at Paris; but in 1846 he was appointed to the chair of natural philosophy in the University of Glasgow. At twenty-two he found himself wearing the gown of a professor in one of the oldest Universities in the country, and lecturing to the class of which he was a first year student a few years before.
+
+Thermodynamics
+
+By 1847, Thomson had already gained a reputation as a precocious and maverick scientist when he attended the British Association for the Advancement of Science annual meeting in Oxford. At that meeting, he heard James Prescott Joule making yet another of his, so far, ineffective attempts to discredit the caloric theory of heat and the theory of the heat engine built upon it by Sadi Carnot and Émile Clapeyron. Joule argued for the mutual convertibility of heat and mechanical work and for their mechanical equivalence.
+
+Thomson was intrigued but sceptical. Though he felt that Joule's results demanded theoretical explanation, he retreated into an even deeper commitment to the Carnot–Clapeyron school. He predicted that the melting point of ice must fall with pressure, otherwise its expansion on freezing could be exploited in a perpetuum mobile. Experimental confirmation in his laboratory did much to bolster his beliefs.
+
+In 1848, he extended the Carnot–Clapeyron theory further through his dissatisfaction that the gas thermometer provided only an operational definition of temperature. He proposed an absolute temperature scale in which a unit of heat descending from a body A at the temperature T° of this scale, to a body B at the temperature (T−1)°, would give out the same mechanical effect , whatever be the number T. Such a scale would be quite independent of the physical properties of any specific substance. By employing such a "waterfall", Thomson postulated that a point would be reached at which no further heat (caloric) could be transferred, the point of absolute zero about which Guillaume Amontons had speculated in 1702. "Reflections on the Motive Power of Heat", published by Carnot in French in 1824, the year of Lord Kelvin's birth, used −267 as an estimate of the absolute zero temperature. Thomson used data published by Regnault to calibrate his scale against established measurements.
+
+In his publication, Thomson wrote:
+
+... The conversion of heat (or caloric) into mechanical effect is probably impossible, certainly undiscovered
+
+— But a footnote signalled his first doubts about the caloric theory, referring to Joule's very remarkable discoveries. Surprisingly, Thomson did not send Joule a copy of his paper, but when Joule eventually read it he wrote to Thomson on 6 October, claiming that his studies had demonstrated conversion of heat into work but that he was planning further experiments. Thomson replied on 27 October, revealing that he was planning his own experiments and hoping for a reconciliation of their two views.
+
+Thomson returned to critique Carnot's original publication and read his analysis to the Royal Society of Edinburgh in January 1849, still convinced that the theory was fundamentally sound. However, though Thomson conducted no new experiments, over the next two years he became increasingly dissatisfied with Carnot's theory and convinced of Joule's. In February 1851 he sat down to articulate his new thinking. He was uncertain of how to frame his theory and the paper went through several drafts before he settled on an attempt to reconcile Carnot and Joule. During his rewriting, he seems to have considered ideas that would subsequently give rise to the second law of thermodynamics. In Carnot's theory, lost heat was absolutely lost but Thomson contended that it was "lost to man irrecoverably; but not lost in the material world". Moreover, his theological beliefs led to speculation about the heat death of the universe.
+
+I believe the tendency in the material world is for motion to become diffused, and that as a whole the reverse of concentration is gradually going on – I believe that no physical action can ever restore the heat emitted from the Sun, and that this source is not inexhaustible; also that the motions of the Earth and other planets are losing vis viva which is converted into heat; and that although some vis viva may be restored for instance to the earth by heat received from the sun, or by other means, that the loss cannot be precisely compensated and I think it probable that it is under-compensated.
+
+Compensation would require a creative act or an act possessing similar power.
+
+In final publication, Thomson retreated from a radical departure and declared "the whole theory of the motive power of heat is founded on ... two ... propositions, due respectively to Joule, and to Carnot and Clausius." Thomson went on to state a form of the second law:
+
+It is impossible, by means of inanimate material agency, to derive mechanical effect from any portion of matter by cooling it below the temperature of the coldest of the surrounding objects.
+
+In the paper, Thomson supported the theory that heat was a form of motion but admitted that he had been influenced only by the thought of Sir Humphry Davy and the experiments of Joule and Julius Robert von Mayer, maintaining that experimental demonstration of the conversion of heat into work was still outstanding.
+
+As soon as Joule read the paper he wrote to Thomson with his comments and questions. Thus began a fruitful, though largely epistolary, collaboration between the two men, Joule conducting experiments, Thomson analysing the results and suggesting further experiments. The collaboration lasted from 1852 to 1856, its discoveries including the Joule–Thomson effect, sometimes called the Kelvin–Joule effect, and the published results did much to bring about general acceptance of Joule's work and the kinetic theory.
+
+Thomson published more than 650 scientific papers and applied for 70 patents (not all were issued). Regarding science, Thomson wrote the following:
+
+In physical science a first essential step in the direction of learning any subject is to find principles of numerical reckoning and practicable methods for measuring some quality connected with it. I often say that when you can measure what you are speaking about and express it in numbers you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind: it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be.
+
+Transatlantic cable
+
+Calculations on data rate
+
+To understand the technical issues in which Thomson became involved, see Submarine communications cable: Bandwidth problems.
+
+Though now eminent in the academic field, Thomson was obscure to the general public. In September 1852, he married childhood sweetheart Margaret Crum, daughter of Walter Crum; but her health broke down on their honeymoon, and over the next seventeen years, Thomson was distracted by her suffering. On 16 October 1854, George Gabriel Stokes wrote to Thomson to try to re-interest him in work by asking his opinion on some experiments of Michael Faraday on the proposed transatlantic telegraph cable.
+
+Faraday had demonstrated how the construction of a cable would limit the rate at which messages could be sent – in modern terms, the bandwidth. Thomson jumped at the problem and published his response that month. He expressed his results in terms of the data rate that could be achieved and the economic consequences in terms of the potential revenue of the transatlantic undertaking. In a further 1855 analysis, Thomson stressed the impact that the design of the cable would have on its profitability.
+
+Thomson contended that the signalling speed through a given cable was inversely proportional to the square of the length of the cable. Thomson's results were disputed at a meeting of the British Association in 1856 by Wildman Whitehouse, the electrician of the Atlantic Telegraph Company. Whitehouse had possibly misinterpreted the results of his own experiments but was doubtless feeling financial pressure as plans for the cable were already well under way. He believed that Thomson's calculations implied that the cable must be "abandoned as being practically and commercially impossible".
+
+Thomson attacked Whitehouse's contention in a letter to the popular Athenaeum magazine, pitching himself into the public eye. Thomson recommended a larger conductor with a larger cross section of insulation. He thought Whitehouse no fool, and suspected that he might have the practical skill to make the existing design work. Thomson's work had attracted the attention of the project's undertakers. In December 1856, he was elected to the board of directors of the Atlantic Telegraph Company.
+
+Scientist to engineer
+
+Thomson became scientific adviser to a team with Whitehouse as chief electrician and Sir Charles Tilston Bright as chief engineer but Whitehouse had his way with the specification, supported by Faraday and Samuel F. B. Morse.
+
+William Thomson's telegraphic syphon recorder, on display at Porthcurno Telegraph Museum, in January 2019.
+
+Thomson sailed on board the cable-laying ship HMS Agamemnon in August 1857, with Whitehouse confined to land owing to illness, but the voyage ended after 380 miles (610 km) when the cable parted. Thomson contributed to the effort by publishing in the Engineer the whole theory of the stresses involved in the laying of a submarine cable, and showed that when the line is running out of the ship, at a constant speed, in a uniform depth of water, it sinks in a slant or straight incline from the point where it enters the water to that where it touches the bottom.
+
+Thomson developed a complete system for operating a submarine telegraph that was capable of sending a character every 3.5 seconds. He patented the key elements of his system, the mirror galvanometer and the siphon recorder, in 1858.
+
+Whitehouse still felt able to ignore Thomson's many suggestions and proposals. It was not until Thomson convinced the board that using purer copper for replacing the lost section of cable would improve data capacity, that he first made a difference to the execution of the project.
+
+The board insisted that Thomson join the 1858 cable-laying expedition, without any financial compensation, and take an active part in the project. In return, Thomson secured a trial for his mirror galvanometer, which the board had been unenthusiastic about, alongside Whitehouse's equipment. Thomson found the access he was given unsatisfactory and the Agamemnon had to return home following the disastrous storm of June 1858. In London, the board was about to abandon the project and mitigate their losses by selling the cable. Thomson, Cyrus West Field and Curtis M. Lampson argued for another attempt and prevailed, Thomson insisting that the technical problems were tractable. Though employed in an advisory capacity, Thomson had, during the voyages, developed a real engineer's instincts and skill at practical problem-solving under pressure, often taking the lead in dealing with emergencies and being unafraid to assist in manual work. A cable was completed on 5 August.
+
+Disaster and triumph
+
+Thomson's fears were realized when Whitehouse's apparatus proved insufficiently sensitive and had to be replaced by Thomson's mirror galvanometer. Whitehouse continued to maintain that it was his equipment that was providing the service and started to engage in desperate measures to remedy some of the problems. He succeeded in fatally damaging the cable by applying 2,000 V. When the cable failed completely Whitehouse was dismissed, though Thomson objected and was reprimanded by the board for his interference. Thomson subsequently regretted that he had acquiesced too readily to many of Whitehouse's proposals and had not challenged him with sufficient vigor.
+
+A joint committee of inquiry was established by the Board of Trade and the Atlantic Telegraph Company. Most of the blame for the cable's failure was found to rest with Whitehouse. The committee found that, though underwater cables were notorious in their lack of reliability, most of the problems arose from known and avoidable causes. Thomson was appointed one of a five-member committee to recommend a specification for a new cable. The committee reported in October 1863.
+
+In July 1865, Thomson sailed on the cable-laying expedition of the SS Great Eastern but the voyage was dogged by technical problems. The cable was lost after 1,200 miles (1,900 km) had been laid and the project was abandoned. A further attempt in 1866 laid a new cable in two weeks , and then recovered and completed the 1865 cable. The enterprise was now feted as a triumph by the public and Thomson enjoyed a large share of the adulation. Thomson, along with the other principals of the project, was knighted on 10 November 1866.
+
+To exploit his inventions for signalling on long submarine cables, Thomson now entered into a partnership with C.F. Varley and Fleeming Jenkin. In conjunction with the latter, he also devised an automatic curb sender, a kind of telegraph key for sending messages on a cable.
+
+Later expeditions
+
+Thomson took part in the laying of the French Atlantic submarine communications cable of 1869, and with Jenkin was engineer of the Western and Brazilian and Platino-Brazilian cables, assisted by vacation student James Alfred Ewing. He was present at the laying of the Pará to Pernambuco section of the Brazilian coast cables in 1873.
+
+Thomson's wife died on 17 June 1870, and he resolved to make changes in his life. Already addicted to seafaring, in September he purchased a 126 ton schooner, the Lalla Rookh and used it as a base for entertaining friends and scientific colleagues. His maritime interests continued in 1871 when he was appointed to the board of enquiry into the sinking of HMS Captain.
+
+In June 1873, Thomson and Jenkin were on board the Hooper, bound for Lisbon with 2,500 miles (4,020 km) of cable when the cable developed a fault. An unscheduled 16-day stop-over in Madeira followed and Thomson became good friends with Charles R. Blandy and his three daughters. On 2 May 1874 he set sail for Madeira on the Lalla Rookh. As he approached the harbour, he signalled to the Blandy residence "Will you marry me?" and Fanny signalled back "Yes". Thomson married Fanny, 13 years his junior, on 24 June 1874.
+
+Other contributions
+
+Thomson and Tait: Treatise on Natural Philosophy
+
+Main article: Treatise on Natural Philosophy
+
+Over the period 1855 to 1867, Thomson collaborated with Peter Guthrie Tait on a text book that founded the study of mechanics first on the mathematics of kinematics, the description of motion without regard to force. The text developed dynamics in various areas but with constant attention to energy as a unifying principle.
+
+A second edition appeared in 1879, expanded to two separately bound parts. The textbook set a standard for early education in mathematical physics.
+
+Kelvin's vortex theory of the atom
+
+Main article: Vortex theory of the atom
+
+Between 1870 and 1890 the vortex atom theory, which purported that an atom was a vortex in the aether, was popular among British physicists and mathematicians. Thomson pioneered the theory, which was distinct from the seventeenth century vortex theory of Descartes in that Thomson was thinking in terms of a unitary continuum theory, whereas Descartes was thinking in terms of three different types of matter, each relating respectively to emission, transmission, and reflection of light. About 60 scientific papers were written by approximately 25 scientists. Following the lead of Thomson and Tait, the branch of topology called knot theory was developed. Kelvin's initiative in this complex study that continues to inspire new mathematics has led to persistence of the topic in history of science.
+
+Marine
+
+Thomson's tide-predicting machine
+
+Thomson was an enthusiastic yachtsman, his interest in all things relating to the sea perhaps arising from, or fostered by, his experiences on the Agamemnon and the Great Eastern.
+
+Thomson introduced a method of deep-sea depth sounding, in which a steel piano wire replaces the ordinary hand line. The wire glides so easily to the bottom that "flying soundings" can be taken while the ship is at full speed. A pressure gauge to register the depth of the sinker was added by Thomson.
+
+About the same time he revived the Sumner method of finding a ship's position, and calculated a set of tables for its ready application. In 1876, he constructed a harmonic analyzer, in which an assembly of disks were used to sum trigonometric series and thus to predict tides. Kelvin mentioned that a similar device could be built to solve differential equations.
+
+During the 1880s, Thomson worked to perfect the adjustable compass to correct errors arising from magnetic deviation owing to the increased use of iron in naval architecture. Thomson's design was a great improvement on the older instruments, being steadier and less hampered by friction. The deviation due to the ship's magnetism was corrected by movable iron masses at the binnacle. Thomson's innovations involved much detailed work to develop principles identified by George Biddell Airy and others, but contributed little in terms of novel physical thinking. Thomson's energetic lobbying and networking proved effective in gaining acceptance of his instrument by The Admiralty.
+
+Kelvin Mariner's Compass
+
+ Scientific biographers of Thomson, if they have paid any attention at all to his compass innovations, have generally taken the matter to be a sorry saga of dim-witted naval administrators resisting marvellous innovations from a superlative scientific mind. Writers sympathetic to the Navy, on the other hand, portray Thomson as a man of undoubted talent and enthusiasm, with some genuine knowledge of the sea, who managed to parlay a handful of modest ideas in compass design into a commercial monopoly for his own manufacturing concern, using his reputation as a bludgeon in the law courts to beat down even small claims of originality from others, and persuading the Admiralty and the law to overlook both the deficiencies of his own design and the virtues of his competitors'.
+
+The truth, inevitably, seems to lie somewhere between the two extremes.
+
+Charles Babbage had been among the first to suggest that a lighthouse might be made to signal a distinctive number by occultations of its light, but Thomson pointed out the merits of the Morse code for the purpose, and urged that the signals should consist of short and long flashes of the light to represent the dots and dashes.
+
+Electrical standards
+
+Thomson did more than any other electrician up to his time in introducing accurate methods and apparatus for measuring electricity. As early as 1845 he pointed out that the experimental results of William Snow Harris were in accordance with the laws of Coulomb. In the Memoirs of the Roman Academy of Sciences for 1857 he published a description of his new divided ring electrometer, based on the old electroscope of Johann Gottlieb Friedrich von Bohnenberger and he introduced a chain or series of effective instruments, including the quadrant electrometer, which cover the entire field of electrostatic measurement. He invented the current balance, also known as the Kelvin balance or Ampere balance (SiC), for the precise specification of the ampere, the standard unit of electric current. From around 1880 he was aided by the electrical engineer Magnus Maclean FRSE in his electrical experiments.
+
+In 1893, Thomson headed an international commission to decide on the design of the Niagara Falls power station. Despite his belief in the superiority of direct current electric power transmission, he endorsed Westinghouse's alternating current system which had been demonstrated at the Chicago World's Fair of that year. Even after Niagara Falls Thomson still held to his belief that direct current was the superior system.
+
+Acknowledging his contribution to electrical standardisation, the International Electrotechnical Commission elected Thomson as its first President at its preliminary meeting, held in London on 26–27 June 1906. "On the proposal of the President , secounded  by Mr Mailloux  the Right Honorable Lord Kelvin, G.C.V.O., O.M., was unanimously elected first President of the Commission", minutes of the Preliminary Meeting Report read.
+
+Age of the Earth: geology
+
+Kelvin caricatured by Spy for Vanity Fair, 1897
+
+Kelvin estimated of the age of the Earth. Given his youthful work on the figure of the Earth and his interest in heat conduction, it is no surprise that he chose to investigate the Earth's cooling and to make historical inferences of the Earth's age from his calculations. Thomson was a creationist in a broad sense, but he was not a 'flood geologist' (a view that had lost mainstream scientific support by the 1840s). He contended that the laws of thermodynamics operated from the birth of the universe and envisaged a dynamic process that saw the organisation and evolution of the Solar System and other structures, followed by a gradual "heat death". He developed the view that the Earth had once been too hot to support life and contrasted this view with that of uniformitarianism, that conditions had remained constant since the indefinite past. He contended that "This earth, certainly a moderate number of millions of years ago, was a red-hot globe ... ."
+
+After the publication of Charles Darwin's On the Origin of Species in 1859, Thomson saw evidence of the relatively short habitable age of the Earth as tending to contradict Darwin's gradualist explanation of slow natural selection bringing about biological diversity. Thomson's own views favoured a version of theistic evolution sped up by divine guidance. His calculations showed that the Sun could not have possibly existed long enough to allow the slow incremental development by evolution – unless some energy source beyond what he or any other Victorian era person knew of was found. He was soon drawn into public disagreement with geologists, and with Darwin's supporters John Tyndall and T.H. Huxley. In his response to Huxley's address to the Geological Society of London (1868) he presented his address "Of Geological Dynamics" (1869) which, among his other writings, challenged the geologists' acceptance that the earth must be of indefinite age.
+
+Thomson's initial 1864 estimate of the Earth's age was from 20 to 400 million years old. These wide limits were due to his uncertainty about the melting temperature of rock, to which he equated the Earth's interior temperature, as well as the uncertainty in thermal conductivities and specific heats of rocks. Over the years he refined his arguments and reduced the upper bound by a factor of ten, and in 1897 Thomson, now Lord Kelvin, ultimately settled on an estimate that the Earth was 20–40 million years old. In a letter published in Scientific American Supplement 1895 Kelvin criticized geologists’ estimates of the age of rocks and the age of the earth, including the views published by Charles Darwin, as "vaguely vast age".
+
+His exploration of this estimate can be found in his 1897 address to the Victoria Institute, given at the request of the Institute's president George Stokes, as recorded in that Institute's journal Transactions. Although his former assistant John Perry published a paper in 1895 challenging Kelvin's assumption of low thermal conductivity inside the Earth, and thus showing a much greater age, this had little immediate impact. The discovery in 1903 that radioactive decay releases heat led to Kelvin's estimate being challenged, and Ernest Rutherford famously made the argument in a lecture attended by Kelvin that this provided the unknown energy source Kelvin had suggested, but the estimate was not overturned until the development in 1907 of radiometric dating of rocks.
+
+It was widely believed that the discovery of radioactivity had invalidated Thomson's estimate of the age of the Earth. Thomson himself never publicly acknowledged this because he thought he had a much stronger argument restricting the age of the Sun to no more than 20 million years. Without sunlight, there could be no explanation for the sediment record on the Earth's surface. At the time, the only known source for the solar power output was gravitational collapse. It was only when thermonuclear fusion was recognised in the 1930s that Thomson's age paradox was truly resolved.
+
+Later life and death
+
+Statue of Kelvin; Belfast Botanic Gardens
+
+The grave of the Thomson family, Glasgow Necropolis
+
+In the winter of 1860–1861 Kelvin slipped on some ice and fractured his leg, causing him to limp thereafter. He remained something of a celebrity on both sides of the Atlantic until his death.
+
+Thomson remained a devout believer in Christianity throughout his life; attendance at chapel was part of his daily routine. He saw his Christian faith as supporting and informing his scientific work, as is evident from his address to the annual meeting of the Christian Evidence Society, 23 May 1889.
+
+In the 1902 Coronation Honours list published on 26 June 1902 (the original day of King Edward VII´s coronation), Kelvin was appointed a Privy Counsellor and one of the first members of the new Order of Merit (OM). He received the order from the King on 8 August 1902, and was sworn a member of the council at Buckingham Palace on 11 August 1902.
+
+In November 1907 he caught a chill and his condition deteriorated until he died at his Scottish residence, Netherhall, in Largs on 17 December.
+
+At the request of Westminster Abbey, the undertakers Wylie & Lochhead prepared an oak coffin, lined with lead. In the dark of the winter evening the cortege set off from Netherhall for Largs railway station, a distance of about a mile. Large crowds witnessed the passing of the cortege, and shopkeepers closed their premises and dimmed their lights. The coffin was placed in a special Midland and Glasgow and South-Western Railway van. The train set off at 8.30 pm for Kilmarnock, where the van was attached to the overnight express to St Pancras railway station in London.
+
+Kelvin’s coffin was then taken by hearse to Westminster Abbey where it rested overnight in St Faith’s Chapel. The following day the Abbey was crowded for the funeral, including representatives from the University of Glasgow and the University of Cambridge, along with representatives from France, Italy, Germany, Austria, Russia, the United States, Canada, Australia, Japan, and Monaco. Kelvin’s grave is in the nave, near the choir screen, and close to the graves of Isaac Newton, John Herschel, and Charles Darwin. The pall-bearers included Darwin’s son, Sir George Darwin.
+
+Back in Scotland the University of Glasgow held a memorial service for Kelvin in the Bute Hall. Kelvin had been a member of the Scottish Episcopal Church, attached to St Columba’s Episcopal Church in Largs, and when in Glasgow to St Mary’s Episcopal Church (now, St Mary's Cathedral, Glasgow). At the same time as the funeral in Westminster Abbey, a service was held in St Columba’s Episcopal Church, Largs, attended by a large congregation including burgh dignitaries.
+
+William Thomson is also memorialised on the Thomson family grave in Glasgow Necropolis. The family grave has a second modern memorial to William alongside, erected by the Royal Philosophical Society of Glasgow; a society that he was president of in the periods 1856-1858 and 1874-1877.
+
+Aftermath and legacy
+
+Limits of classical physics
+
+In 1884, Thomson led a master class on "Molecular Dynamics and the Wave Theory of Light" at Johns Hopkins University. Kelvin referred to the acoustic wave equation describing sound as waves of pressure in air and attempted to describe also an electromagnetic wave equation, presuming a luminiferous aether susceptible to vibration. The study group included Michelson and Morley who subsequently performed the Michelson–Morley experiment that undercut the aether theory. Thomson did not provide a text but A. S. Hathaway took notes and duplicated them with a Papyrograph. As the subject matter was under active development, Thomson amended that text and in 1904 it was typeset and published. Thomson's attempts to provide mechanical models ultimately failed in the electromagnetic regime.
+
+On 27 April 1900 he gave a widely reported lecture titled Nineteenth-Century Clouds over the Dynamical Theory of Heat and Light to the Royal Institution. The two "dark clouds" he was alluding to were confusion surrounding how matter moves through the aether (including the puzzling results of the Michelson–Morley experiment) and indications that the Law of Equipartition in statistical mechanics might break down. Two major physical theories were developed during the twentieth century starting from these issues: for the former, the theory of relativity; for the second, quantum mechanics. Albert Einstein, in 1905, published the so-called "Annus Mirabilis papers", one of which explained the photoelectric effect, based on Max Planck's discovery of energy quanta which was the foundation of quantum mechanics, another of which described special relativity, and the last of which explained Brownian motion in terms of statistical mechanics, providing a strong argument for the existence of atoms.
+
+Pronouncements later proven to be false
+
+Like many scientists, Thomson made some mistakes in predicting the future of technology.
+
+His biographer Silvanus P. Thompson writes that "When Röntgen's discovery of the X-rays was announced at the end of 1895, Lord Kelvin was entirely skeptical, and regarded the announcement as a hoax. The papers had been full of the wonders of Röntgen's rays, about which Lord Kelvin was intensely skeptical until Röntgen himself sent him a copy of his Memoir"; on 17 January 1896, having read the paper and seen the photographs, he wrote Röntgen a letter saying that "I need not tell you that when I read the paper I was very much astonished and delighted. I can say no more now than to congratulate you warmly on the great discovery you have made" He would have his own hand X-rayed in May 1896. (See also N rays.)
+
+His forecast for practical aviation (i.e., heavier-than-air aircraft) was negative. In 1896 he refused an invitation to join the Aeronautical Society, writing that "I have not the smallest molecule of faith in aerial navigation other than ballooning or of expectation of good results from any of the trials we hear of." And in a 1902 newspaper interview he predicted that "No balloon and no aeroplane will ever be practically successful."
+
+The statement "There is nothing new to be discovered in physics now. All that remains is more and more precise measurement" has been widely misattributed to Kelvin since the 1980s, either without citation or stating that it was made in an address to the British Association for the Advancement of Science (1900). There is no evidence that Kelvin said this, and the quote is instead a paraphrase of Albert A. Michelson, who in 1894 stated: "… it seems probable that most of the grand underlying principles have been firmly established … An eminent physicist remarked that the future truths of physical science are to be looked for in the sixth place of decimals." Similar statements were given earlier by others, such as Philipp von Jolly. The attribution to Kelvin giving an address in 1900 is presumably a confusion with his "Two clouds" speech, delivered to the Royal Institution in 1900 (see above), and which on the contrary pointed out areas that would subsequently see revolutions.
+
+In 1898, Kelvin predicted that only 400 years of oxygen supply remained on the planet, due to the rate of burning combustibles. In his calculation, Kelvin assumed that photosynthesis was the only source of free oxygen; he did not know all of the components of the oxygen cycle. He could not even have known all of the sources of photosynthesis: for example the cyanobacterium Prochlorococcus—which accounts for more than half of marine photosynthesis—was not discovered until 1986.
+
+Eponyms
+
+A variety of physical phenomena and concepts with which Thomson is associated are named Kelvin:
+
+Kelvin material
+
+Kelvin water dropper
+
+Kelvin wave
+
+Kelvin–Helmholtz instability
+
+Kelvin–Helmholtz mechanism
+
+Kelvin–Helmholtz luminosity
+
+The SI unit of temperature, kelvin
+
+Kelvin transform in potential theory
+
+Kelvin's circulation theorem
+
+Kelvin bridge (also known as Thomson bridge)
+
+Kelvin–Stokes theorem
+
+Kelvin–Varley divider
+
+Kelvin sensing
+
+Kelvin functions
+
+Honours
+
+The memorial of William Thomson, Baron Kelvin in Kelvingrove Park next to the University of Glasgow
+
+Fellow of the Royal Society of Edinburgh, 1847.
+Keith Medal, 1864.
+
+Gunning Victoria Jubilee Prize, 1887.
+
+President, 1873–1878, 1886–1890, 1895–1907.
+
+Foreign member of the Royal Swedish Academy of Sciences, 1851.
+
+Fellow of the Royal Society, 1851.
+Royal Medal, 1856.
+
+Copley Medal, 1883.
+
+President, 1890–1895.
+
+Hon. Member of the Royal College of Preceptors (College of Teachers), 1858.
+
+Hon. Member of the Institution of Engineers and Shipbuilders in Scotland, 1859.
+
+Knighted 1866.
+
+Commander of the Imperial Order of the Rose (Brazil), 1873.
+
+Commander of the Legion of Honor (France), 1881.
+Grand Officer of the Legion of Honor, 1889.
+
+Knight of the Prussian Order Pour le Mérite, 1884.
+
+Commander of the Order of Leopold (Belgium), 1890.
+
+Baron Kelvin, of Largs in the County of Ayr, 1892. The title derives from the River Kelvin, which runs by the grounds of the University of Glasgow. His title died with him, as he was survived by neither heirs nor close relations.
+
+Knight Grand Cross of the Victorian Order, 1896.
+
+Honorary degree Legum doctor (LL.D.), Yale University, 5 May 1902.
+
+One of the first members of the Order of Merit, 1902.
+
+Privy Counsellor, 11 August 1902.
+
+Honorary degree Doctor mathematicae from the Royal Frederick University on 6 September 1902, when they celebrated the centennial of the birth of mathematician Niels Henrik Abel.
+
+First international recipient of John Fritz Medal, 1905.
+
+Order of the First Class of the Sacred Treasure of Japan, 1901.
+
+He is buried in Westminster Abbey, London next to Isaac Newton.
+
+Lord Kelvin was commemorated on the £20 note issued by the Clydesdale Bank in 1971; in the current issue of banknotes, his image appears on the bank's £100 note. He is shown holding his adjustable compass and in the background is a map of the transatlantic cable.
+
+The town of Kelvin, Arizona, is named in his honour, as he was reputedly a large investor in the mining operations there.
+
+In 2011 he was one of seven inaugural inductees to the Scottish Engineering Hall of Fame.
+
+Arms
+
+Coat of arms of William Thomson, Baron Kelvin
+ 
+Notes
+
+The arms of Lord Kelvin consist of:
+
+Crest
+
+A cubit arm erect, vested azure, cuffed argent, the hand grasping five ears of rye proper.
+
+Escutcheon
+
+Argent, a stag's head caboshed gules, on a chief azure a thunderbolt proper, winged or, between two spur revels of the first.
+
+Supporters
+
+On the dexter side a student of the University of Glasgow, habited, holding in his dexter hand a marine voltmeter, all proper. On the sinister side a sailor, habited, holding in the dexter hand a coil, the rope passing through the sinister, and suspended therefrom a sinker of a sounding machine, also all proper.
+
+Motto
+
+Honesty without fear.
+
+See also
+
+Kelvin sensing
+
+Kelvin equation
+
+People on Scottish banknotes
+
+List of things named after Lord Kelvin
+
+Weaire–Phelan structure for a solution to the Kelvin problem regarding partitioning space.
+
+References
+
+^ Grabiner, Judy (2002). "Creators of Mathematics: The Irish Connection (book review)" (PDF). Irish Math. Soc. Bulletin. 48: 67. Retrieved 27 June 2016.
+
+^ a b Harold I. Sharlin (13 December 2019). "William Thomson, Baron Kelvin". Encyclopædia Britannica. Retrieved 24 January 2020.
+
+^ "Significant Scots. William Thomson (Lord Kelvin)". Electric Scotland. Retrieved 23 July 2018.
+
+^ "William Thomson, Lord Kelvin. Scientist, Mathematician and Engineer". Westminster Abbey. Retrieved 23 July 2018. His first wife was Margaret Crum and he married secondly Frances Blandy but had no children.
+
+^ Kelvin and Ireland Raymond Flood, Mark McCartney and Andrew Whitaker (2009) J. Phys.: Conf. Ser. 158 011001
+
+^ Randall, Lisa (2005). Warped Passages. New York: HarperCollins. p.162
+
+^ "Hutchison, Iain "Lord Kelvin and Liberal Unionism (PDF). Retrieved 29 October 2011.
+
+^ Trainer, Matthew (2008). "Lord Kelvin, Recipient of The John Fritz Medal in 1905". Physics in Perspective. 10: 212–223. doi:10.1007/s00016-007-0344-4.
+
+^ "Biography of William Thomson's father". Groups.dcs.st-and.ac.uk. Retrieved 29 October 2011.
+
+^ Former Fellows of The Royal Society of Edinburgh, 1783–2002
+
+^ "David Thomson Aberdeen University".
+
+^ P.Q.R. (1841). "On Fourier's expansions of functions in trigonometric series". Cambridge Mathematical Journal. 2: 258–262.
+
+^ P.Q.R. (1841). "Note on a passage in Fourier's 'Heat'". Cambridge Mathematical Journal. 3: 25–27.
+
+^ P.Q.R. (1842). "On the uniform motion of heat and its connection with the mathematical theory of electricity". Cambridge Mathematical Journal. 3: 71–84.
+
+^ Niven, W.D. (ed.) (1965). The Scientific Papers of James Clerk Maxwell, 2 vols. New York: Dover. Vol. 2, p. 301.CS1 maint: extra text: authors list (link)
+
+^ Mayer, Roland. Peterhouse Boat Club 1828-1978. Peterhouse Boat Club. p. 5. ISBN 0950618101.
+
+^ "Thomson, William (THN841W)". A Cambridge Alumni Database. University of Cambridge.
+
+^ Thompson (1910) vol. 1, p. 98
+
+^ McCartney, Mark (1 December 2002). "William Thomson: king of Victorian physics". Physics World. Retrieved 16 July 2008.
+
+^ Chang (2004), Ch.4
+
+^ Thomson, W. (1848) "On an Absolute Thermometric Scale founded on Carnot's Theory of the Motive Power of Heat, and calculated from Regnault's observations" Math. and Phys. Papers vol. 1, pp 100–106
+
+^ — (1949) "An Account of Carnot's Theory of the Motive Power of Heat; with Numerical Results deduced from Regnault's Experiments on Steam" Math. and Phys. Papers vol.1, pp 113–155
+
+^ a b Sharlin (1979), p.112
+
+^ Thomson, W. (1851) "On the dynamical theory of heat; with numerical results deduced from Mr. Joule's equivalent of a thermal unit and M. Regnault's observations on steam" Math. and Phys. Papers vol. 1, pp 175–183
+
+^ Thomson, W. (March 1851). "On the Dynamical Theory of Heat, with numerical results deduced from Mr Joule's equivalent of a Thermal Unit, and M. Regnault's Observations on Steam". Transactions of the Royal Society of Edinburgh. XX (part II): 261–268, 289–298. Also published in Thomson, W. (December 1852). "On the Dynamical Theory of Heat, with numerical results deduced from Mr Joule's equivalent of a Thermal Unit, and M. Regnault's Observations on Steam". Phil. Mag. 4. IV (22): 8–21. Retrieved 25 June 2012.
+
+^ Thomson, W. (1851) p.183
+
+^ Thomson, W. (1856) "On the thermal effects of fluids in motion" Math. and Phys. Papers vol.1, pp 333–455
+
+^ "William Thomson, Baron Kelvin (Scottish engineer, mathematician, and physicist) - Encyclopædia Britannica". Britannica.com. 17 December 1907. Retrieved 4 September 2013.
+
+^ Thomson, W. (1891). Popular Lectures and Addresses, Vol. I. London: MacMillan. p. 80. Retrieved 25 June 2012.
+
+^ Smith, Crosbie. "Thomson, William". Oxford Dictionary of National Biography (online ed.). Oxford University Press. doi:10.1093/ref:odnb/36507. (Subscription or UK public library membership required.)
+
+^ Thomson, W. (1854) "On the theory of the electric telegraph" Math. and Phys. Papers vol.2, p.61
+
+^ Thomson, W. (1855) "On the peristaltic induction of electric currents in submarine telegraph wires" Math. and Phys. Papers vol.2, p.87
+
+^ Thomson, W. (1855) "Letters on telegraph to America" Math. and Phys. Papers vol.2, p.92
+
+^ Thomson, W. (1857) Math. and Phys. Papers vol.2, p.154
+
+^ Sharlin (1979) p.141
+
+^ Sharlin (1979) p.144
+
+^ "Board of Trade Committee to Inquire into … Submarine Telegraph Cables’, Parl. papers (1860), 52.591, no. 2744
+
+^ "Report of the Scientific Committee Appointed to Consider the Best Form of Cable for Submersion Between Europe and America" (1863)
+
+^ Alan Gurney (17 August 2005). "Chapter 19: Thomson's Compass and Binnacle". Compass: A Story of Exploration and Innovation. W. W. Norton & Company. ISBN 9780393608830.
+
+^ "Lord Kelvin's sailing yacht 'Lalla Rookh', c 1860-1900". stock images.
+
+^ Kragh, Helge (2002). "The Vortex Atom: A Victorian Theory of Everything". Centaurus. 44 (1–2): 32–114. doi:10.1034/j.1600-0498.2002.440102.x. ISSN 0008-8994. Retrieved 9 March 2019.
+
+^ Thomson, Wm. (1867). "On Vortex Atoms". Proceedings of the Royal Society of Edinburgh. 6: 94–105. doi:10.1017/S0370164600045430.
+
+^ Silliman, Robert H. (1963) William Thomson: Smoke Rings and Nineteenth-Century Atomism, Isis 54(4): 461–474. JSTOR link
+
+^ Helge Kragh (211) Higher Speculations, Grand Theories and Failed Revolutions in Physics and Cosmology, Oxford University Press
+
+^ Wolfram, Stephen (2002). A New Kind of Science. Wolfram Media, Inc. p. 1107. ISBN 978-1-57955-008-0.
+
+^ Lindley (2004), p.259
+
+^ "Maclean, Magnus, 1857-1937, electrical engineer". University of Strathclyde Archives. Retrieved 19 January 2018.
+
+^ David Lindley, Degrees Kelvin: A Tale of Genius, Invention, and Tragedy, page 293
+
+^ IEC. "1906 Preliminary Meeting Report, pp 46-48" (PDF). The minutes from our first meeting. Retrieved 21 October 2012.
+
+^ Sharlin (1979) p.169
+
+^ Imbrie & Imbrie 1986, p. 40. sfn error: no target: CITEREFImbrieImbrie1986 (help)
+
+^ Young & Stearley 2008, p. 99. sfn error: no target: CITEREFYoungStearley2008 (help)
+
+^ Burchfield (1990)
+
+^ Bowler, Peter J. (1983). The eclipse of Darwinism: anti-Darwinian evolution theories in the decades around 1900 (paperback ed.). Baltimore: Johns Hopkins University Press. pp. 23–24. ISBN 978-0-8018-4391-4.
+
+^ a b c Kelvin did pay off gentleman's bet with Strutt on the importance of radioactivity in the Earth. The Kelvin period does exist in the evolution of stars. They shine from gravitational energy for a while (correctly calculated by Kelvin) before fusion and the main sequence begins. Fusion was not understood until well after Kelvin's time. 
+ England, P.; Molnar, P.; Righter, F. (January 2007). "John Perry's neglected critique of Kelvin's age for the Earth: A missed opportunity in geodynamics". GSA Today. 17 (1): 4–9. doi:10.1130/GSAT01701A.1.
+
+^ Of Geological Dynamics" excerpts". Zapatopi.net. Retrieved 29 October 2011.
+
+^ Tung, K.K. "Topics in Mathematical Modeling" (Princeton University Press 2007), p.243-251. In Thomson's theory the Earth's age is proportional to the square of the difference between interior temperature and surface temperature, so that the uncertainty in the former leads to an even larger relative uncertainty in the age.
+
+^ Thomson, William (1862). "On the Secular Cooling of the Earth". Transactions of the Royal Society of Edinburgh. XXIII: 160–161. doi:10.1017/s0080456800018512.
+
+^ Burchfield, Joe D. (1990). Lord Kelvin and the Age of the Earth. University of Chicago Press. p. 43. ISBN 978-0-226-08043-7.
+
+^ Hamblin, W. Kenneth (1989). The Earth's Dynamic Systems 5th ed. Macmillan Publishing Company. p. 135. ISBN 978-0-02-349381-2.
+
+^ Heuel-Fabianek, Burkhard. "Natürliche Radioisotope: die "Atomuhr" für die Bestimmung des absoluten Alters von Gesteinen und archäologischen Funden". StrahlenschutzPraxis. 1/2017: 31–42.
+
+^ Silvanus Phillips Thompson (January 1977). "The life of Lord Kelvin". American Journal of Physics. 45 (10): 1095. Bibcode:1977AmJPh..45.1010T. doi:10.1119/1.10735. ISBN 978-0-8284-0292-7.
+
+^ Silvanus Phillips Thompson (January 1977). "The life of Lord Kelvin". American Journal of Physics. 45 (10): 998. Bibcode:1977AmJPh..45.1010T. doi:10.1119/1.10735. ISBN 978-0-8284-0292-7.
+
+^ Perry, John (1895) "On the age of the earth," Nature, 51 : 224-227, 341-342, 582-585. (51:224, 51:341, 51:582 at Internet Archive)
+
+^ Stacey, Frank D. (2000). "Kelvin's age of the Earth paradox revisited". Journal of Geophysical Research. 105 (B6): 13155–13158. Bibcode:2000JGR...10513155S. doi:10.1029/2000JB900028.
+
+^ Philips, Thompson S. The Life of William Thomson, Baron Kelvin of Largs.
+
+^ McCartney & Whitaker (2002), reproduced on Institute of Physics website
+
+^ Thomson, W. (1889) Address to the Christian Evidence Society
+
+^ The Finality of this Globe, Hampshire Telegraph, 15 June 1889, p. 11.
+
+^ "The Coronation Honours". The Times (36804). London. 26 June 1902. p. 5.
+
+^ "Court Circular". The Times (36842). London. 9 August 1902. p. 6.
+
+^ "No. 27470". The London Gazette. 2 September 1902. p. 5679.
+
+^ a b "No. 27464". The London Gazette. 12 August 1902. p. 5173.
+
+^ "Death of Lord Kelvin". Times. Missing or empty |url= (help)
+
+^ a b The Scotsman, 23 December 1907
+
+^ Glasgow Herald, 24 December 1907
+
+^ Glasgow Evening Times, 23 December 1907
+
+^ Royal Philosophical Society of Glasgow (2008). No Mean Society: 200 years of the Royal Philosophical Society of Glasgow. 2nd Ed (PDF). p. 138. ISBN 978-0-9544965-0-0.
+
+^ Robert Kargon and Peter Achinstein (1987) Kelvin’s Baltimore Lectures and Modern Theoretical Physics: historical and philosophical perspectives, MIT Press ISBN 0-262-11117-9
+
+^ "Lord Kelvin, Nineteenth Century Clouds over the Dynamical Theory of Heat and Light", reproduced in Notices of the Proceedings at the Meetings of the Members of the Royal Institution of Great Britain with Abstracts of the Discourses, Volume 16, p. 363–397
+
+^ The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, Series 6, volume 2, pages 1–40 (1901)
+
+^ The life of William Thomson, baron Kelvin of Largs, vol2, "Views and Opinions"
+
+^ The Royal Society, London
+
+^ Letter from Lord Kelvin to Baden Powell 8 December 1896
+
+^ Interview in the Newark Advocate 26 April 1902
+
+^ Superstring: A theory of everything? (1988) by Paul Davies and Julian Brown
+
+^ Einstein (2007) by Walter Isaacson, page 575
+
+^ a b The End of Science (1996), by John Horgan, p. 19
+
+^ Lightman, Alan P. (2005). The discoveries: great breakthroughs in twentieth-century science, including the original papers. Toronto: Alfred A. Knopf Canada. p. 8. ISBN 978-0-676-97789-9.
+
+^ "Papers Past — Evening Post — 30 July 1898 — A Startling Scientific Prediction". Paperspast.natlib.govt.nz. Retrieved 4 September 2013.
+
+^ "The Evening News - Google News Archive Search". Archived from the original on 12 July 2012.
+
+^ "Honorary Members and Fellows". Institution of Engineers in Scotland. Retrieved 6 October 2012.
+
+^ "No. 23185". The London Gazette. 16 November 1866. p. 6062.
+
+^ "No. 26260". The London Gazette. 23 February 1892. p. 991.
+
+^ "No. 26758". The London Gazette. 14 July 1896. p. 4026.
+
+^ "Court Circular". The Times (36760). London. 6 May 1902. p. 5.
+
+^ "No. 27470". The London Gazette. 2 September 1902. p. 5679.
+
+^ "Foreign degrees for British men of Science". The Times (36867). London. 8 September 1902. p. 4.
+
+^ "Honorary doctorates from the University of Oslo 1902-1910". (in Norwegian)
+
+^ "Current Banknotes : Clydesdale Bank". The Committee of Scottish Clearing Bankers. Retrieved 15 October 2008.
+
+^ "Scottish Engineering Hall of Fame". engineeringhalloffame.org. 2012. Retrieved 27 August 2012.
+
+^ Thompson, Silvanus (1910). The Life of William Thomson, Baron Kelvin of Largs. Volume: 2. MacMillan and Co., Limited. p. 914.
+
+Kelvin's works
+
+Thomson, W.; Tait, P.G. (1867). Treatise on Natural Philosophy. Oxford. 2nd edition, 1883. (reissued by Cambridge University Press, 2009. ISBN 978-1-108-00537-1)
+Treatise on Natural Philosophy (Part I) (Internet Archive)
+
+Treatise on Natural Philosophy (Part II) (Internet Archive)
+
+——; Tait, P.G (1872). Elements of Natural Philosophy. At the University press. (reissued by Cambridge University Press, 2010. ISBN 978-1-108-01448-9) 2nd edition, 1879.
+
+Thomson, W. (1881). Shakespeare and Bacon on Vivisection. Sands & McDougall.
+
+——; Tait, P.G (1872). Elements of Natural Philosophy. At the University press. (reissued by Cambridge University Press, 2010. ISBN 978-1-108-01448-9) 2nd edition, 1879.
+
+—— (1882–1911). Mathematical and Physical Papers. Cambridge University Press. (6 volumes)
+Volume I. 1841-1853 (Internet Archive)
+
+Volume II. 1853-1856 (Internet Archive)
+
+Volume III. Elasticity, heat, electro-magnetism (Internet Archive)
+
+Volume IV. Hydrodynamics and general dynamics (Hathitrust)
+
+Volume V. Thermodynamics, cosmical and geological physics, molecular and crystalline theory, electrodynamics (Internet Archive)
+
+Volume VI. Voltaic theory, radioactivity, electrions, navigation and tides, miscellaneous (Internet Archive)
+
+—— (1904). "Baltimore Lectures on Molecular Dynamics and the Wave Theory of Light". Baltimore Lectures on Molecular Dynamics and the Wave Theory of Light. Bibcode:2010blmd.book.....T. (reissued by Cambridge University Press, 2010. ISBN 978-1-108-00767-2)
+
+—— (1912). "Collected Papers in Physics and Engineering". Nature. 90 (2256): 563–565. ASIN B0000EFOL8. Bibcode:1913Natur..90..563P. doi:10.1038/090563a0.
+
+Wilson, D.B. (ed.) (1990). The Correspondence Between Sir George Gabriel Stokes and Sir William Thomson, Baron Kelvin of Largs. (2 vols), Cambridge University Press. ISBN 978-0-521-32831-9.CS1 maint: extra text: authors list (link)
+
+Hörz, H. (2000). Naturphilosophie als Heuristik?: Korrespondenz zwischen Hermann von Helmholtz und Lord Kelvin (William Thomson). Basilisken-Presse. ISBN 978-3-925347-56-6.
+
+Biography, history of ideas and criticism
+
+Buchwald, J.Z. (1977). "William Thomson and the mathematization of Faraday's electrostatics". Historical Studies in the Physical Sciences. 8: 101–136. doi:10.2307/27757369. JSTOR 27757369.
+
+Burchfield, J.D. (1990). Lord Kelvin and the Age of the Earth. University of Chicago Press. ISBN 978-0-226-08043-7.
+
+Cardoso Dias, D.M. (1996). "William Thomson and the Heritage of Caloric". Annals of Science. 53 (5): 511–520. doi:10.1080/00033799600200361.
+
+Chang, H. (2004). Inventing Temperature: Measurement and Scientific Progress. Oxford University Press. ISBN 978-0-19-517127-3.
+
+Gooding, D. (1980). "Faraday, Thomson, and the concept of the magnetic field". British Journal for the History of Science. 13 (2): 91–120. doi:10.1017/S0007087400017726.
+
+Gossick, B.R. (1976). "Heaviside and Kelvin: a study in contrasts". Annals of Science. 33 (3): 275–287. doi:10.1080/00033797600200561.
+
+Gray, A. (1908). Lord Kelvin: An Account of His Scientific Life and Work. London: J. M. Dent & Co.
+
+Green, G. & Lloyd, J.T. (1970). "Kelvin's instruments and the Kelvin Museum". American Journal of Physics. 40 (3): 496. Bibcode:1972AmJPh..40..496G. doi:10.1119/1.1986598. ISBN 978-0-85261-016-9.
+
+Hearn, Chester G. (2004). Circuits in the Sea: the men, the ships, and the Atlantic cable. Westport, Connecticut: Praeger.
+
+Kargon, R.H. & Achinstein, P. (eds.) (1987). "Kelvin's Baltimore Lectures and Modern Theoretical Physics; Historical and Philosophical Perspectives". Physics Today. 42 (1): 82–84. Bibcode:1989PhT....42a..82K. doi:10.1063/1.2810888. ISBN 978-0-262-11117-1.CS1 maint: multiple names: authors list (link) CS1 maint: extra text: authors list (link)
+
+King, A.G. (1925). "Kelvin the Man". Nature. 117 (2933): 79. Bibcode:1926Natur.117R..79.. doi:10.1038/117079b0.
+
+King, E.T. (1909). "Lord Kelvin's Early Home". Nature. 82 (2099): 331–333. Bibcode:1910Natur..82..331J. doi:10.1038/082331a0.
+
+Knudsen, O. (1972). "From Lord Kelvin's notebook: aether speculations". Centaurus. 16 (1): 41–53. Bibcode:1972Cent...16...41K. doi:10.1111/j.1600-0498.1972.tb00164.x.
+
+Lekner, J. (2012). "Nurturing genius: the childhood and youth of Kelvin and Maxwell" (PDF). New Zealand Science Review.
+
+Lindley, D. (2004). Degrees Kelvin: A Tale of Genius, Invention and Tragedy. Joseph Henry Press. ISBN 978-0-309-09073-5.
+
+McCartney, M. & Whitaker, A. (eds) (2002). Physicists of Ireland: Passion and Precision. Institute of Physics Publishing. ISBN 978-0-7503-0866-3.CS1 maint: multiple names: authors list (link) CS1 maint: extra text: authors list (link)
+
+May, W.E. (1979). "Lord Kelvin and his compass". Journal of Navigation. 32: 122–134. doi:10.1017/S037346330003318X.
+
+Munro, J. (1891). Heroes of the Telegraph. London: Religious Tract Society.
+
+Murray, D. (1924). Lord Kelvin as Professor in the Old College of Glasgow. Glasgow: Maclehose & Jackson.
+
+Russell, A. (1912). Lord Kelvin: His Life and Work. London: T.C. & E.C.Jack. Retrieved 25 March 2014.
+
+Sharlin, H.I. (1979). Lord Kelvin: The Dynamic Victorian. Pennsylvania State University Press. ISBN 978-0-271-00203-3.
+
+Smith, C. & Wise, M.N. (1989). Energy and Empire: A Biographical Study of Lord Kelvin. Cambridge University Press. ISBN 978-0-521-26173-9. Retrieved 25 March 2014.
+
+Thompson, S.P. (1910). Life of William Thomson: Baron Kelvin of Largs. London: Macmillan. In two volumes Volume 1 Volume 2
+
+Tunbridge, P. (1992). Lord Kelvin: His Influence on Electrical Measurements and Units. Peter Peregrinus: London. ISBN 978-0-86341-237-0.
+
+Wilson, D. (1910). William Thomson, Lord Kelvin: His Way of Teaching. Glasgow: John Smith & Son.
+
+Wilson, D.B. (1987). Kelvin and Stokes: A Comparative Study in Victorian Physics. Bristol: Hilger. ISBN 978-0-85274-526-7.
+
+External links
+
+ Wikisource has original works written by or about:
+
+William Thomson, 1st Baron Kelvin
+
+ Wikiquote has quotations related to: William Thomson, Baron Kelvin
+
+ Wikimedia Commons has media related to William Thomson, 1st Baron Kelvin.
+
+ Wikisource has the text of the 1911 Encyclopædia Britannica article Kelvin, William Thomson, Baron.
+
+Works by William Thomson, Baron Kelvin at Project Gutenberg
+
+O'Connor, John J.; Robertson, Edmund F., "William Thomson, Baron Kelvin", MacTutor History of Mathematics archive, University of St Andrews.
+
+Works by or about William Thomson, Baron Kelvin at Internet Archive
+
+Works by William Thomson, Baron Kelvin at LibriVox (public domain audiobooks)
+
+Heroes of the Telegraph at The Online Books Page
+
+"Horses on Mars", from Lord Kelvin
+
+William Thomson: king of Victorian physics at Institute of Physics website
+
+Measuring the Absolute: William Thomson and Temperature, Hasok Chang and Sang Wook Yi (PDF file)
+
+Reprint of papers on electrostatics and magnetism (gallica)
+
+The molecular tactics of a crystal (Internet Archive)
+
+Quotations. This collection includes sources for many quotes.
+
+Kelvin Building Opening – The Leys School, Cambridge (1893)
+
+The Kelvin Library
+
+Academic offices
+
+Preceded by
+
+The Earl of Stair
+ Chancellor of the University of Glasgow
+
+1904–1907
+ Succeeded by
+
+The Earl of Rosebery
+
+Peerage of the United Kingdom
+
+New creation
+ Baron Kelvin
+
+1892–1907
+ Extinct
+
+v
+
+t
+
+e
+
+Copley Medallists (1851–1900)
+
+Richard Owen (1851)
+
+Alexander von Humboldt (1852)
+
+Heinrich Wilhelm Dove (1853)
+
+Johannes Peter Müller (1854)
+
+Léon Foucault (1855)
+
+Henri Milne-Edwards (1856)
+
+Michel Eugène Chevreul (1857)
+
+Charles Lyell (1858)
+
+Wilhelm Eduard Weber (1859)
+
+Robert Bunsen (1860)
+
+Louis Agassiz (1861)
+
+Thomas Graham (1862)
+
+Adam Sedgwick (1863)
+
+Charles Darwin (1864)
+
+Michel Chasles (1865)
+
+Julius Plücker (1866)
+
+Karl Ernst von Baer (1867)
+
+Charles Wheatstone (1868)
+
+Henri Victor Regnault (1869)
+
+James Prescott Joule (1870)
+
+Julius Robert von Mayer (1871)
+
+Friedrich Wöhler (1872)
+
+Hermann von Helmholtz (1873)
+
+Louis Pasteur (1874)
+
+August Wilhelm von Hofmann (1875)
+
+Claude Bernard (1876)
+
+James Dwight Dana (1877)
+
+Jean-Baptiste Boussingault (1878)
+
+Rudolf Clausius (1879)
+
+James Joseph Sylvester (1880)
+
+Charles Adolphe Wurtz (1881)
+
+Arthur Cayley (1882)
+
+William Thomson (1883)
+
+Carl Ludwig (1884)
+
+Friedrich August Kekulé von Stradonitz (1885)
+
+Franz Ernst Neumann (1886)
+
+Joseph Dalton Hooker (1887)
+
+Thomas Henry Huxley (1888)
+
+George Salmon (1889)
+
+Simon Newcomb (1890)
+
+Stanislao Cannizzaro (1891)
+
+Rudolf Virchow (1892)
+
+George Gabriel Stokes (1893)
+
+Edward Frankland (1894)
+
+Karl Weierstrass (1895)
+
+Karl Gegenbaur (1896)
+
+Albert von Kölliker (1897)
+
+William Huggins (1898)
+
+John William Strutt (1899)
+
+Marcellin Berthelot (1900)
+
+v
+
+t
+
+e
+
+Presidents of the Royal Society
+
+17th century 
+Viscount Brouncker (1662)
+
+Joseph Williamson (1677)
+
+Christopher Wren (1680)
+
+John Hoskyns (1682)
+
+Cyril Wyche (1683)
+
+Samuel Pepys (1684)
+
+Earl of Carbery (1686)
+
+Earl of Pembroke (1689)
+
+Robert Southwell (1690)
+
+Charles Montagu (1695)
+
+Lord Somers (1698)
+
+18th century 
+Isaac Newton (1703)
+
+Hans Sloane (1727)
+
+Martin Folkes (1741)
+
+Earl of Macclesfield (1752)
+
+Earl of Morton (1764)
+
+James Burrow (1768)
+
+James West (1768)
+
+James Burrow (1772)
+
+John Pringle (1772)
+
+Joseph Banks (1778)
+
+19th century 
+William Hyde Wollaston (1820)
+
+Humphry Davy (1820)
+
+Davies Gilbert (1827)
+
+Duke of Sussex (1830)
+
+Marquess of Northampton (1838)
+
+Earl of Rosse (1848)
+
+Lord Wrottesley (1854)
+
+Benjamin Collins Brodie (1858)
+
+Edward Sabine (1861)
+
+George Biddell Airy (1871)
+
+Joseph Dalton Hooker (1873)
+
+William Spottiswoode (1878)
+
+Thomas Henry Huxley (1883)
+
+George Gabriel Stokes (1885)
+
+William Thomson (1890)
+
+Joseph Lister (1895)
+
+20th century 
+William Huggins (1900)
+
+Lord Rayleigh (1905)
+
+Archibald Geikie (1908)
+
+William Crookes (1913)
+
+J. J. Thomson (1915)
+
+Charles Scott Sherrington (1920)
+
+Ernest Rutherford (1925)
+
+Frederick Gowland Hopkins (1930)
+
+William Henry Bragg (1935)
+
+Henry Hallett Dale (1940)
+
+Robert Robinson (1945)
+
+Lord Adrian (1950)
+
+Cyril Norman Hinshelwood (1955)
+
+Howard Florey (1960)
+
+Patrick Blackett (1965)
+
+Alan Lloyd Hodgkin (1970)
+
+Lord Todd (1975)
+
+Andrew Huxley (1980)
+
+George Porter (1985)
+
+Sir Michael Atiyah (1990)
+
+Sir Aaron Klug (1995)
+
+21st century 
+Lord May (2000)
+
+Lord Rees (2005)
+
+Sir Paul Nurse (2010)
+
+Venki Ramakrishnan (2015)
+
+v
+
+t
+
+e
+
+Scientists whose names are used as units
+
+SI base units 
+André-Marie Ampère (ampere)
+
+William Thomson, 1st Baron Kelvin (kelvin)
+
+SI derived units 
+Henri Becquerel (becquerel)
+
+Anders Celsius (degree Celsius)
+
+Charles-Augustin de Coulomb (coulomb)
+
+Michael Faraday (farad)
+
+Louis Harold Gray (gray)
+
+Joseph Henry (henry)
+
+Heinrich Hertz (hertz)
+
+James Prescott Joule (joule)
+
+Isaac Newton (newton)
+
+Georg Ohm (ohm)
+
+Blaise Pascal (pascal)
+
+Werner von Siemens (siemens)
+
+Rolf Maximilian Sievert (sievert)
+
+Nikola Tesla (tesla)
+
+Alessandro Volta (volt)
+
+James Watt (watt)
+
+Wilhelm Eduard Weber (weber)
+
+Non-SI metric (cgs) units 
+Anders Jonas Ångström (angstrom)
+
+Peter Debye (debye)
+
+Loránd Eötvös (eotvos)
+
+Galileo Galilei (gal)
+
+Johann Carl Friedrich Gauss (gauss)
+
+William Gilbert (gilbert)
+
+Heinrich Kayser (kayser)
+
+Johann Heinrich Lambert (lambert)
+
+Samuel Langley (langley)
+
+James Clerk Maxwell (maxwell)
+
+Hans Christian Ørsted (oersted)
+
+Jean Léonard Marie Poiseuille (poise)
+
+Sir George Stokes, 1st Baronet (stokes)
+
+John William Strutt, 3rd Baron Rayleigh (rayl)
+
+Imperial and US
+
+customary units 
+Daniel Gabriel Fahrenheit (degree Fahrenheit)
+
+Johann Heinrich Lambert (foot-lambert)
+
+William John Macquorn Rankine (degree Rankine)
+
+Non-systematic units 
+Alexander Graham Bell (bel)
+
+Marie Curie (curie)
+
+Pierre Curie (curie)
+
+John Dalton (dalton)
+
+Michael Faraday (faraday)
+
+Heinrich Mache (Mache)
+
+John Napier (neper)
+
+René Antoine Ferchault de Réaumur (degree Réaumur)
+
+Wilhelm Röntgen (roentgen)
+
+J. J. Thomson (thomson)
+
+Evangelista Torricelli (torr)
+
+List of scientists whose names are used as units · Scientists whose names are used in physical constants · People whose names are used in chemical element names
+
+Authority control 
+BNE: XX1429435
+
+BNF: cb12270383k (data)
+
+CANTIC: a10980672
+
+GND: 118777033
+
+ISNI: 0000 0001 2125 9810
+
+LCCN: n79139223
+
+NDL: 00518412
+
+NKC: mzk2003202351
+
+NLA: 35265200
+
+NLG: 245605
+
+NLI: 000599873
+
+NTA: 070034982
+
+SELIBR: 193257
+
+SNAC: w6xd13bf
+
+SUDOC: 031500994
+
+Trove: 888776
+
+VIAF: 29592835
+
+ WorldCat Identities: lccn-n79139223

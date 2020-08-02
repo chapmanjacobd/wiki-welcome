@@ -1,0 +1,429 @@
+"For other uses, see Soap (disambiguation).
+
+Sodium salt of fatty acids (long chain carboxylic acids), used for washing and cleaning
+
+This article's lead section does not adequately summarize key points of its contents. Please consider expanding the lead to provide an accessible overview of all important aspects of the article. Please discuss this issue on the article's talk page. (September 2018)
+
+Two equivalent images of the chemical structure of sodium stearate, a typical ingredient found in bar soaps.
+
+The chemical structure of sodium laureth sulfate, a typical ingredient found in liquid soaps.
+
+Greases for automotive applications contain soaps.
+
+Soap is a salt of a fatty acid used in a variety of cleansing and lubricating products. In a domestic setting, soaps are surfactants usually used for washing, bathing, and other types of housekeeping. In industrial settings, soaps are used as thickeners, components of some lubricants, and precursors to catalysts.
+
+When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned. In hand washing, as a surfactant, when lathered with a little water, soap kills microorganisms by disorganizing their membrane lipid bilayer and denaturing their proteins. It also emulsifies oils, enabling them to be carried away by running water.
+
+Soap is created by mixing fats and oils with a base, as opposed to detergent which is created by combining chemical compounds in a mixer.
+
+Humans have used soap for millennia. Evidence exists of the production of soap-like materials in around 2800 BC in ancient Babylon.
+
+Contents
+
+1 Types of soaps
+
+1.1 Non-toilet soaps
+
+1.1.1 Production of metallic soaps
+
+1.2 Toilet soaps
+
+1.2.1 Production of toilet soaps
+
+2 History
+
+2.1 Ancient Middle East
+
+2.2 Roman Empire
+
+2.3 Ancient China
+
+2.4 Islamic Middle East
+
+2.5 Medieval Europe
+
+2.6 15th–18th centuries
+
+2.7 19th century
+
+2.8 Liquid soap
+
+3 Soap-making for hobbyists
+
+4 See also
+
+4.1 Personal use soap
+
+4.2 Soap-related
+
+5 References
+
+6 Further reading
+
+7 External links
+
+Types of soaps
+
+A collection of decorative bar soaps, as often found in hotels
+
+Since they are salts of fatty acids, soaps have the general formula (RCO2−)nMn+ (Where R is an alkyl, M is a metal and n is the charge of the cation). The major classification of soaps is determined by the identity of Mn+. When M is Na or K, the soaps are called toilet soaps, used for handwashing. Many metal dications (Mg2+, Ca2+, and others) give metallic soap. When M is Li, the result is lithium soap (e.g., lithium stearate), which is used in high-performance greases.
+
+Non-toilet soaps
+
+Soaps are key components of most lubricating greases and thickeners. Greases are usually emulsions of calcium soap or lithium soap and mineral oil. Many other metallic soaps are also useful, including those of aluminium, sodium, and mixtures thereof. Such soaps are also used as thickeners to increase the viscosity of oils. In ancient times, lubricating greases were made by the addition of lime to olive oil.
+
+Metal soaps are also included in modern artists' oil paints formulations as a rheology modifier.
+
+Production of metallic soaps
+
+Most metal soaps are prepared by neutralization of purified fatty acids:
+
+2 RCO2H + CaO → (RCO2)2Ca + H2O
+
+Toilet soaps
+
+In a domestic setting, "soap" usually refers to what is technically called a toilet soap, used for household and personal cleaning. When used for cleaning, soap solubilizes particles and grime, which can then be separated from the article being cleaned.
+The insoluble oil/fat molecules become associated inside micelles, tiny spheres formed from soap molecules with polar hydrophilic (water-attracting) groups on the outside and encasing a lipophilic (fat-attracting) pocket, which shields the oil/fat molecules from the water making it soluble. Anything that is soluble will be washed away with the water.
+
+Structure of a micelle, a cell-like structure formed by the aggregation of soap subunits (such as sodium stearate): The exterior of the micelle is hydrophilic (attracted to water) and the interior is lipophilic (attracted to oils).
+
+Production of toilet soaps
+
+The production of toilet soaps usually entails saponification of fats (triglycerides). Triglycerides are vegetable or animal oils and fats. An alkaline solution (often lye or sodium hydroxide) induces saponification whereby the triglyceride fats first hydrolyze into salts of fatty acids. Glycerol (glycerin) is liberated. The glycerin can remain in the soap product as a softening agent, although it is sometimes separated.
+
+The type of alkali metal used determines the kind of soap product. Sodium soaps, prepared from sodium hydroxide, are firm, whereas potassium soaps, derived from potassium hydroxide, are softer or often liquid. Historically, potassium hydroxide was extracted from the ashes of bracken or other plants. Lithium soaps also tend to be hard. These are used exclusively in greases.
+
+For making toilet soaps, triglycerides (oils and fats) are derived from coconut, olive, or palm oils, as well as tallow. Triglyceride is the chemical name for the triesters of fatty acids and glycerin. Tallow, i.e., rendered beef fat, is the most available triglyceride from animals. Each species offers quite different fatty acid content, resulting in soaps of distinct feel. The seed oils give softer but milder soaps. Soap made from pure olive oil, sometimes called Castile soap or Marseille soap, is reputed for its particular mildness. The term "Castile" is also sometimes applied to soaps from a mixture of oils, but a high percentage of olive oil.
+
+Fatty acid content of various fats used for soapmaking
+
+Lauric acidMyristic acidPalmitic acidStearic acidOleic acidLinoleic acidLinolenic acid
+
+fatsC12 saturatedC14 saturatedC16 saturatedC18 saturatedC18 monounsaturatedC18 diunsaturatedC18 triunsaturated
+
+Tallow 0 4 28 23 35 2 1
+
+Coconut oil 48 18 9 3 7 2 0
+
+Palm kernel oil 46 16 8 3 12 2 0
+
+Palm oil 0 1 44 4 37 9 0
+
+Laurel oil 54 0 0 0 15 17 0
+
+Olive oil 0 0 11 2 78 10 0
+
+Canola oil 0 1 3 2 58 9 23
+
+History
+
+Ancient Middle East
+
+Box for Amigo del Obrero (Worker's Friend) soap from the 20th century, part of the Museo del Objeto del Objeto collection
+
+The earliest recorded evidence of the production of soap-like materials dates back to around 2800 BC in ancient Babylon. A formula for soap consisting of water, alkali, and cassia oil was written on a Babylonian clay tablet around 2200 BC.
+
+The Ebers papyrus (Egypt, 1550 BC) indicates the ancient Egyptians bathed regularly and combined animal and vegetable oils with alkaline salts to create a soap-like substance. Egyptian documents mention a similar substance was used in the preparation of wool for weaving.
+
+In the reign of Nabonidus (556–539 BC), a recipe for soap consisted of uhulu , cypress  and sesame  "for washing the stones for the servant girls".
+
+In ancient Israel, the ashes from barilla plants, such as species of Salsola, saltwort (Seidlitzia rosmarinus) and Anabasis, were used in soap production, known as potash. Soap made from potash (a concentrate of burnt wood or vegetable ashes mixed with lard or olive oil) is alkaline. If animal lard were used, it was heated and kept lukewarm (not boiling hot; neither cold). Lard, collected from suet, needed to be rendered and strained before being used with ashes (with the recommended consistency of 1 cup of lard to 3/8 cup of concentrated ash water). Traditionally, olive oil was used instead of animal lard throughout the Levant, which was boiled in a copper cauldron for several days. As the boiling progresses, alkali ashes and smaller quantities of quicklime were added, and constantly stirred. In the case of lard, it required constant stirring while kept lukewarm until it began to trace. Once it began to thicken, the brew was poured into a mold and left to cool and harden for 2 weeks. After hardening, it was cut into smaller cakes. Aromatic herbs were often added to the rendered soap to impart their fragrance, such as yarrow leaves, lavender, germander, etc. The ancient method here described is still in use in the production of Nabulsi soap.
+
+Roman Empire
+
+The word sapo, Latin for soap, likely was borrowed from an early Germanic language and is cognate with Latin sebum, "tallow". It first appears in Pliny the Elder's account, Historia Naturalis, which discusses the manufacture of soap from tallow and ashes, but the only use he mentions for it is as a pomade for hair; he mentions rather disapprovingly that the men of the Gauls and Germans were more likely to use it than their female counterparts. The Romans avoided washing with harsh soaps before encountering the milder soaps used by the Gauls around 58 BC. Aretaeus of Cappadocia, writing in the 2nd century AD, observes among "Celts, which are men called Gauls, those alkaline substances that are made into balls  called soap". The Romans' preferred method of cleaning the body was to massage oil into the skin and then scrape away both the oil and any dirt with a strigil. The Gauls used soap made from animal fat.
+
+Zosimos of Panopolis, circa 300 AD, describes soap and soapmaking. Galen describes soap-making using lye and prescribes washing to carry away impurities from the body and clothes. The use of soap for personal cleanliness became increasingly common in the 2nd century AD. According to Galen, the best soaps were Germanic, and soaps from Gaul were second best.
+
+Ancient China
+
+A detergent similar to soap was manufactured in ancient China from the seeds of Gleditsia sinensis. Another traditional detergent is a mixture of pig pancreas and plant ash called zhuyizi (simplified Chinese: 猪胰子; traditional Chinese: 豬胰子; pinyin: zhūyízǐ). True soap, made of animal fat, did not appear in China until the modern era. Soap-like detergents were not as popular as ointments and creams.
+
+Islamic Middle East
+
+Hard toilet soap with a pleasant smell was produced in the Middle East during the Islamic Golden Age, when soap-making became an established industry. Recipes for soap-making are described by Muhammad ibn Zakariya al-Razi (854–925), who also gave a recipe for producing glycerine from olive oil. In the Middle East, soap was produced from the interaction of fatty oils and fats with alkali. In Syria, soap was produced using olive oil together with alkali and lime. Soap was exported from Syria to other parts of the Muslim world and to Europe.
+
+A 12th-century Islamic document describes the process of soap production. It mentions the key ingredient, alkali, which later becomes crucial to modern chemistry, derived from al-qaly or "ashes".
+
+By the 13th century, the manufacture of soap in the Islamic world had become virtually industrialized, with sources in Nablus, Fes, Damascus, and Aleppo.
+
+Medieval Europe
+
+Soapmakers in Naples were members of a guild in the late sixth century (then under the control of the Eastern Roman Empire), and in the eighth century, soap-making was well known in Italy and Spain. The Carolingian capitulary De Villis, dating to around 800, representing the royal will of Charlemagne, mentions soap as being one of the products the stewards of royal estates are to tally. The lands of Medieval Spain were a leading soapmaker by 800, and soapmaking began in the Kingdom of England about 1200. Soapmaking is mentioned both as "women's work" and as the produce of "good workmen" alongside other necessities, such as the produce of carpenters, blacksmiths, and bakers.
+
+In Europe, soap in the 9th century was produced from animal fats and had an unpleasant smell. Hard toilet soap with a pleasant smell was later imported from the Middle East.
+
+15th–18th centuries
+
+Advertising at Dobbins' medicated toilet soap
+
+A 1922 magazine advertisement for Palmolive Soap
+
+Liquid soap
+
+Manufacturing process of soaps/detergents
+
+In France, by the second half of the 15th century, the semi-industrialized professional manufacture of soap was concentrated in a few centers of Provence—Toulon, Hyères, and Marseille—which supplied the rest of France. In Marseilles, by 1525, production was concentrated in at least two factories, and soap production at Marseille tended to eclipse the other Provençal centers. English manufacture tended to concentrate in London.
+
+Finer soaps were later produced in Europe from the 16th century, using vegetable oils (such as olive oil) as opposed to animal fats. Many of these soaps are still produced, both industrially and by small-scale artisans. Castile soap is a popular example of the vegetable-only soaps derived from the oldest "white soap" of Italy. In 1634 Charles I granted the newly formed Society of Soapmakers a monopoly in soap production who produced certificates from ‘foure Countesses, and five Viscountesses, and divers other Ladies and Gentlewomen of great credite and quality, besides common Laundresses and others’, testifying that ‘the New White Soap washeth whiter and sweeter than the Old Soap’.
+
+Industrially manufactured bar soaps became available in the late 18th century, as advertising campaigns in Europe and America promoted popular awareness of the relationship between cleanliness and health. In modern times, the use of soap has become commonplace in industrialized nations due to a better understanding of the role of hygiene in reducing the population size of pathogenic microorganisms.
+
+19th century
+
+Ad for Soapine, circa 1900, indicating that it is made of whale oil
+
+Until the Industrial Revolution, soapmaking was conducted on a small scale and the product was rough. In 1780, James Keir established a chemical works at Tipton, for the manufacture of alkali from the sulfates of potash and soda, to which he afterwards added a soap manufactory. The method of extraction proceeded on a discovery of Keir's. In 1790, Nicolas Leblanc discovered how to make alkali from common salt. Andrew Pears started making a high-quality, transparent soap in 1807 in London. His son-in-law, Thomas J. Barratt, opened a factory in Isleworth in 1862.
+
+During the Restoration era (February 1665 – August 1714) a soap tax was introduced in England, which meant that until the mid-1800s, soap was a luxury, used regularly only by the well-to-do. The soap manufacturing process was closely supervised by revenue officials who made sure that soapmakers' equipment was kept under lock and key when not being supervised. Moreover, soap could not be produced by small makers because of a law which stipulated that soap boilers must manufacture a minimum quantity of one imperial ton at each boiling, which placed the process beyond reach of the average person. The soap trade was boosted and deregulated when the tax was repealed in 1853.
+
+William Gossage produced low-priced, good-quality soap from the 1850s. Robert Spear Hudson began manufacturing a soap powder in 1837, initially by grinding the soap with a mortar and pestle. American manufacturer Benjamin T. Babbitt introduced marketing innovations that included sale of bar soap and distribution of product samples. William Hesketh Lever and his brother, James, bought a small soap works in Warrington in 1886 and founded what is still one of the largest soap businesses, formerly called Lever Brothers and now called Unilever. These soap businesses were among the first to employ large-scale advertising campaigns.
+
+Liquid soap
+
+See also: Detergent
+
+Liquid soap was not invented until the nineteenth century; in 1865, William Shepphard patented a liquid version of soap. In 1898, B.J. Johnson developed a soap derived from palm and olive oils; his company, the B.J. Johnson Soap Company, introduced "Palmolive" brand soap that same year. This new brand of soap became popular rapidly, and to such a degree that B.J. Johnson Soap Company changed its name to Palmolive.
+
+In the early 1900s, other companies began to develop their own liquid soaps. Such products as Pine-Sol and Tide appeared on the market, making the process of cleaning things other than skin, such as clothing, floors, and bathrooms, much easier.
+
+Liquid soap also works better for more traditional or non-machine washing methods, such as using a washboard.
+
+Soap-making for hobbyists
+
+A variety of methods are available for hobbyists to make soap. Most soapmakers use processes where the glycerol remains in the product, and the saponification continues for many days after the soap is poured into molds. The glycerol is left during the hot-process method, but at the high temperature employed, the reaction is practically completed in the kettle, before the soap is poured into molds. This simple and quick process is employed in small factories all over the world.
+
+Handmade soap from the cold process also differs from industrially made soap in that an excess of fat is used, beyond that needed to consume the alkali (in a cold-pour process, this excess fat is called "superfatting"), and the glycerol left in acts as a moisturizing agent. However, the glycerine also makes the soap softer. Addition of glycerol and processing of this soap produces glycerin soap. Superfatted soap is more skin-friendly than one without extra fat, although it can leave a "greasy" feel. Sometimes, an emollient is added, such as jojoba oil or shea butter. Sand or pumice may be added to produce a scouring soap. The scouring agents serve to remove dead cells from the skin surface being cleaned. This process is called exfoliation.
+
+The lye is dissolved in water.
+
+To make antibacterial soap, compounds such as triclosan or triclocarban can be added. There is some concern that use of antibacterial soaps and other products might encourage antibiotic resistance in microorganisms.
+
+\t\t
+\t\t\t
+
+\t\t\t
+Azul e branco soap – a bar of blue-white soap
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Handmade soaps sold at a shop in Hyères, France
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Traditional Marseille soap
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Modern Soap Shop in Tübingen (2019)
+
+\t\t\t
+
+\t\t
+
+See also
+
+Personal use soap
+
+African black soap, popular in West Africa
+
+Aleppo soap, popular in Syria
+
+Castile soap, popular in Spain
+
+Lava (soap), cleaning hands from industrial grease and dirt
+
+Marseille soap, popular in France
+
+Nabulsi soap, popular in the West Bank
+
+Saltwater soap, used to wash in seawater
+
+Shaving soap, used for shaving
+
+Vegan soap, made without use of animal byproducts
+
+Soap-related
+
+Antibiotic misuse
+
+Dishwashing soap
+
+Foam
+
+List of cleaning products
+
+Hand washing
+
+Soap bubble
+
+Soap dish
+
+Soap dispenser
+
+Soap plant
+
+Soap substitute
+
+Soapwort
+
+Shampoo
+
+Shower gel
+
+Toothpaste
+
+Soap made from human corpses
+
+References
+
+^ IUPAC, Compendium of Chemical Terminology, 2nd ed. (the "Gold Book") (1997). Online corrected version: (2006–) "soap". doi:10.1351/goldbook.S05721
+
+^ S., Tumosa, Charles (2001-09-01). "A Brief History of Aluminum Stearate as a Component of Paint". cool.conservation-us.org. Archived from the original on 2017-03-18. Retrieved 2017-04-05.
+
+^ "What's The Difference Between Soap and Detergent | cleancult".
+
+^ Klaus Schumann; Kurt Siekmann (2005). "Soaps". Ullmann's Encyclopedia of Industrial Chemistry. Weinheim: Wiley-VCH. doi:10.1002/14356007.a24_247. ISBN 978-3527306732.
+
+^ see the main Grease (lubricant) article
+
+^ Thorsten Bartels; et al. (2005). "Lubricants and Lubrication". Ullmann's Encyclopedia of Industrial Chemistry. Weinheim: Wiley-VCH. doi:10.1002/14356007.a15_423. ISBN 978-3527306732.
+
+^ S., Tumosa, Charles (2001-09-01). "A Brief History of Aluminum Stearate as a Component of Paint". cool.conservation-us.org. Archived from the original on 2017-03-18. Retrieved 2017-03-17.
+
+^ Cavitch, Susan Miller. The Natural Soap Book. Storey Publishing, 1994 ISBN 0-88266-888-9.
+
+^ David J. Anneken, Sabine Both, Ralf Christoph, Georg Fieg, Udo Steinberner, Alfred Westfechtel "Fatty Acids" in Ullmann's Encyclopedia of Industrial Chemistry 2006, Wiley-VCH, Weinheim. doi:10.1002/14356007.a10_245.pub2
+
+^ Willcox, Michael (2000). "Soap". In Hilda Butler (ed.). Poucher's Perfumes, Cosmetics and Soaps (10th ed.). Dordrecht: Kluwer Academic Publishers. p. 453. ISBN 978-0-7514-0479-1. Archived from the original on 2016-08-20. The earliest recorded evidence of the production of soap-like materials dates back to around 2800 BCE in ancient Babylon.
+
+^ Adventist Youth Honors Answer Book/Arts and Crafts/Soap Craft (General Conference). Wikibooks. Retrieved 8 March 2020.
+
+^ Adventist Youth Honors Answer Book/Arts and Crafts/Soap Craft (General Conference). Wikibooks. Retrieved 8 March 2020.
+
+^ Noted in Levey, Martin (1958). "Gypsum, salt and soda in ancient Mesopotamian chemical technology". Isis. 49 (3): 336–342 (341). doi:10.1086/348678. JSTOR 226942.
+
+^ Zohar Amar, Flora of the Bible, Jerusalem 2012, s.v. ברית, p. 216 (note 34) OCLC 783455868.
+
+^ Abu-Rabiʻa, ʻAref (2001). Bedouin Century: Education and Development among the Negev Tribes in the Twentieth Century. New York. pp. 47–48. OCLC 47119256.
+
+^ a b Cohen, Amnon (1989). Economic Life in Ottoman Jerusalem. Cambridge: Cambridge University Press. p. 81. ISBN 0521365511.
+
+^ soaps p Archived 2011-02-08 at the Wayback Machine. Etymonline.com. Retrieved on 2011-11-20.
+
+^ Pliny the Elder, Natural History, XXVIII.191. See also Martial, Epigrammata, VIII, 33, 20. Archived 2013-01-21 at the Wayback Machine
+
+^ a b Foreman, Amanda (October 4, 2019). "The Long Road to Cleanliness". www.wsj.com. Retrieved October 6, 2019.
+
+^ Aretaeus, The Extant Works of Aretaeus, the Cappadocian, ed. and tr. Francis Adams (London) 1856:238 and 496 Archived 2016-06-09 at the Wayback Machine, noted in Michael W. Dols, "Leprosy in medieval Arabic medicine" Journal of the History of Medicine 1979:316 note 9; the Gauls with whom the Cappadocian would have been familiar are those of Anatolian Galatia.
+
+^ a b Partington, James Riddick; Hall, Bert S (1999). A History of Greek Fire and Gun Powder. JHU Press. p. 307. ISBN 978-0-8018-5954-0.
+
+^ a b Jones, Geoffrey (2010). "Cleanliness and Civilization". Beauty Imagined: A History of the Global Beauty Industry. Oxford University Press. ISBN 978-0-19-160961-9. Archived from the original on 2016-05-07.
+
+^ Benn, Charles (2002). Everyday Life in the Tang Dynasty. Oxford University Press. p. 116. ISBN 978-0-19-517665-0. Archived from the original on 2016-05-05.
+
+^ a b Ahmad Y. al-Hassan (2001), Science and Technology in Islam: Technology and applied sciences, pages 73-74 Archived 2017-12-09 at the Wayback Machine, UNESCO
+
+^ BBC Science and Islam Part 2, Jim Al-Khalili. BBC Productions. Accessed 30 January 2012.
+
+^ Phillips, Michael (March 11, 2008). "Nablus' olive oil soap: a Palestinian tradition lives on". Institute for Middle East Understanding (IMEU). Archived from the original on July 20, 2008. Retrieved 2008-03-27.
+
+^ "Craft Traditions of Palestine". Sunbula. Archived from the original on March 21, 2008. Retrieved 2008-04-18.
+
+^ footnote 48, p. 104, Understanding the Middle Ages: the transformation of ideas and attitudes in the Medieval world, Harald Kleinschmidt, illustrated, revised, reprint edition, Boydell & Brewer, 2000, ISBN 0-85115-770-X.
+
+^ Anionic and Related Lime Soap Dispersants, Raymond G. Bistline Jr., in Anionic Surfactants: Organic Chemistry, Helmut Stache, ed., Volume 56 of Surfactant science series, CRC Press, 1996, chapter 11, p. 632, ISBN 0-8247-9394-3.
+
+^ www.soap-flakes.com Archived 2015-05-26 at the Wayback Machine. soap-flakes.com. Retrieved on 2015-10-31.
+
+^ Robinson, James Harvey (1904). Readings in European History: Vol. I. Ginn and co. Archived from the original on 2009-09-25.
+
+^ Nef, John U. (1936). "A Comparison of Industrial Growth in France and England from 1540 to 1640: III". The Journal of Political Economy. 44 (5): 643–666 (660ff.). doi:10.1086/254976. JSTOR 1824135.
+
+^ Barthélemy, L. (1883) "La savonnerie marseillaise", noted by Nef 1936:660 note 99.
+
+^ Nef 1936:653, 660.
+
+^ Keith Thomas, 'Noisomeness,' London Review of Books, Vol. 42 No. 14, 16 July 2020
+
+^ McNeil, Ian (1990). An Encyclopaedia of the History of Technology. Taylor & Francis. pp. 2003–205. ISBN 978-0-415-01306-2. Archived from the original on 2016-05-05.
+
+^ Pears, Francis (1859). The Skin, Baths, Bathing, and Soap. The author. pp. 100–. Archived from the original on 2016-05-04.
+
+^ "The Soap Tax". The Spectator Archive. The Spectator, London. Archived from the original on 24 March 2017. Retrieved 23 March 2017.
+
+^ "Repeal of the Soap Tax". Hansard. UK Parliament. Archived from the original on 24 March 2017. Retrieved 23 March 2013.
+
+^ Hansard, Thomas Curson (1864). Hansard's Parliamentary Debates. Uxbridge, England: Forgotten Books. pp. 363–374. ISBN 9780243121328.
+
+^ , "Improved liquid soap", issued 1865-08-22 
+
+^ Prigge, Matthew (2018-01-25). "The Story Behind This Bar of Palmolive Soap". Milwaukee Magazine. Retrieved 2019-06-27.
+
+^ "Colgate-Palmolive Company History: Creating Bright Smiles for 200 Years". Colgate-Palmolive Company. Retrieved 17 October 2012.
+
+^ "The History of Liquid Soap". Blue Aspen Originals. Archived from the original on 1 December 2012. Retrieved 17 October 2012.
+
+^ Garzena, Patrizia, and Tadiello, Marina (2013). The Natural Soapmaking Handbook. Online information and Table of Contents Archived 2015-07-30 at the Wayback Machine. ISBN 978-0-9874995-0-9/
+
+^ "The Process of Making Soap". edtech.mcc.edu. Retrieved 8 March 2020.
+
+^ "Antibacterial Soaps Concern Experts". ABC News. 2006-01-06. Archived from the original on 12 November 2014. Retrieved 12 November 2014.
+
+Further reading
+
+Carpenter, William Lant; Leask, Henry (1895). A treatise on the manufacture of soap and candles, lubricants and glycerin. Free ebook at Google Books.
+
+Dunn, Kevin M. (2010). Scientific Soapmaking: The Chemistry of Cold Process. Clavicula Press. ISBN 978-1-935652-09-0.
+
+Garzena, Patrizia, and Marina Tadiello (2004). Soap Naturally: Ingredients, methods and recipes for natural handmade soap. Online information and Table of Contents. ISBN 978-0-9756764-0-0/
+
+Garzena, Patrizia, and Marina Tadiello (2013). The Natural Soapmaking Handbook. Online information and Table of Contents. ISBN 978-0-9874995-0-9/
+
+Mohr, Merilyn (1979). The Art of Soap Making. A Harrowsmith Contemporary Primer. Firefly Books. ISBN 978-0-920656-03-7.
+
+Soap. Spons' Workshop Receipts. Vol. IV – Rain Water to Wire Ropes. Spon. 1921. pp. 143–179.
+
+Thomssen, E. G., Ph. D. (1922). Soap-Making Manual. Free ebook at Project Gutenberg.
+
+Peter Donkor (1986). SMALL-SCALE SOAPMAKING A handbook. Ebook online at SlideShare. ISBN 0-946688-37-0.
+
+Bob Spencer / Practical Action (2005). SOAPMAKING. Ebook online.
+
+External links
+
+Soapat Wikipedia's sister projects
+
+Media from Wikimedia Commons
+
+Quotations from Wikiquote
+
+Chisholm, Hugh, ed. (1911). "Soap" . Encyclopædia Britannica (11th ed.). Cambridge University Press.
+
+Authority control 
+BNF: cb119396082 (data)
+
+GND: 4126815-5
+
+LCCN: sh85123820
+
+NDL: 00570627

@@ -1,0 +1,833 @@
+"For other uses, see Ear (disambiguation).
+
+Organ of hearing and balance
+
+Ear
+
+The outer portion of the human ear
+
+"Ear" pronounced (Received Pronunciation)
+
+Details
+
+System Auditory system
+
+Identifiers
+
+Latin Auris
+
+MeSH D004423
+
+NeuroLex ID birnlex_1062
+
+TA A01.1.00.005
+
+A15.3.00.001
+
+FMA 52780
+
+Anatomical terminology
+
+This article is one of a series documenting the anatomy of the
+
+Human ear
+
+Outer ear
+
+Pinna
+
+Tragus
+
+Middle ear
+
+Tympanic membrane
+
+Ossicles
+Malleus
+
+Incus
+
+Stapes
+
+Inner ear
+
+Vestibules
+Utricle
+
+Saccule
+
+Cochlea
+
+Semicircular canals
+
+v
+
+t
+
+e
+
+Play media
+
+How sounds make their way from the source to your brain
+
+The ear is the organ of hearing and, in mammals, balance. In mammals, the ear is usually described as having three parts—the outer ear, the middle ear and the inner ear. The outer ear consists of the pinna and the ear canal. Since the outer ear is the only visible portion of the ear in most animals, the word "ear" often refers to the external part alone. The middle ear includes the tympanic cavity and the three ossicles. The inner ear sits in the bony labyrinth, and contains structures which are key to several senses: the semicircular canals, which enable balance and eye tracking when moving; the utricle and saccule, which enable balance when stationary; and the cochlea, which enables hearing. The ears of vertebrates are placed somewhat symmetrically on either side of the head, an arrangement that aids sound localisation.
+
+The ear develops from the first pharyngeal pouch and six small swellings that develop in the early embryo called otic placodes, which are derived from ectoderm.
+
+The ear may be affected by disease, including infection and traumatic damage. Diseases of the ear may lead to hearing loss, tinnitus and balance disorders such as vertigo, although many of these conditions may also be affected by damage to the brain or neural pathways leading from the ear.
+
+The ear has been adorned by earrings and other jewelry in numerous cultures for thousands of years, and has been subjected to surgical and cosmetic alterations.
+
+Contents
+
+1 Structure
+
+1.1 Outer ear
+
+1.2 Middle ear
+
+1.3 Inner ear
+
+1.4 Blood supply
+
+2 Function
+
+2.1 Hearing
+
+2.2 Balance
+
+3 Development
+
+3.1 Inner ear
+
+3.2 Middle ear
+
+3.3 Outer ear
+
+4 Clinical significance
+
+4.1 Hearing loss
+
+4.2 Congenital abnormalities
+
+4.3 Vertigo
+
+4.4 Injury
+
+4.5 Tinnitus
+
+5 Society and culture
+
+6 Other animals
+
+6.1 Invertebrates
+
+7 See also
+
+8 References
+
+9 External links
+
+Structure
+
+The human ear consists of three parts—the outer ear, middle ear and inner ear. The ear canal of the outer ear is separated from the air-filled tympanic cavity of the middle ear by the eardrum. The middle ear contains the three small bones—the ossicles—involved in the transmission of sound, and is connected to the throat at the nasopharynx, via the pharyngeal opening of the Eustachian tube. The inner ear contains the otolith organs—the utricle and saccule—and the semicircular canals belonging to the vestibular system, as well as the cochlea of the auditory system.
+
+Outer ear
+
+Main article: Outer ear
+
+The outer ear is the external portion of the ear and includes the fleshy visible pinna (also called the auricle), the ear canal, and the outer layer of the eardrum (also called the tympanic membrane).
+
+The pinna consists of the curving outer rim called the helix, the inner curved rim called the antihelix, and opens into the ear canal. The tragus protrudes and partially obscures the ear canal, as does the facing antitragus. The hollow region in front of the ear canal is called the concha. The ear canal stretches for about 1 inch (2.5 cm). The first part of the canal is surrounded by cartilage, while the second part near the eardrum is surrounded by bone. This bony part is known as the auditory bulla and is formed by the tympanic part of the temporal bone. The skin surrounding the ear canal contains ceruminous and sebaceous glands that produce protective ear wax. The ear canal ends at the external surface of the eardrum.
+
+Two sets of muscles are associated with the outer ear: the intrinsic and extrinsic muscles. In some mammals, these muscles can adjust the direction of the pinna. In humans, these muscles have little or no effect. The ear muscles are supplied by the facial nerve, which also supplies sensation to the skin of the ear itself, as well as to the external ear cavity. The great auricular nerve, auricular nerve, auriculotemporal nerve, and lesser and greater occipital nerves of the cervical plexus all supply sensation to parts of the outer ear and the surrounding skin.
+
+The pinna consists of a single piece of elastic cartilage with a complicated relief on its inner surface and a fairly smooth configuration on its posterior surface. A tubercle, known as Darwin's tubercle, is sometimes present, lying in the descending part of the helix and corresponding to the ear-tip of mammals. The earlobe consists of areola and adipose tissue. The symmetrical arrangement of the two ears allows for the localisation of sound. The brain accomplishes this by comparing arrival-times and intensities from each ear, in circuits located in the superior olivary complex and the trapezoid bodies which are connected via pathways to both ears.
+
+Middle ear
+
+Main article: Middle ear
+
+The middle ear
+
+The middle ear lies between the outer ear and the inner ear. It consists of an air-filled cavity called the tympanic cavity and includes the three ossicles and their attaching ligaments; the auditory tube; and the round and oval windows. The ossicles are three small bones that function together to receive, amplify, and transmit the sound from the eardrum to the inner ear. The ossicles are the malleus (hammer), incus (anvil), and the stapes (stirrup). The stapes is the smallest named bone in the body. The middle ear also connects to the upper throat at the nasopharynx via the pharyngeal opening of the Eustachian tube.
+
+The three ossicles transmit sound from the outer ear to the inner ear. The malleus receives vibrations from sound pressure on the eardrum, where it is connected at its longest part (the manubrium or handle) by a ligament. It transmits vibrations to the incus, which in turn transmits the vibrations to the small stapes bone. The wide base of the stapes rests on the oval window. As the stapes vibrates, vibrations are transmitted through the oval window, causing movement of fluid within the cochlea.
+
+The round window allows for the fluid within the inner ear to move. As the stapes pushes the secondary tympanic membrane, fluid in the inner ear moves and pushes the membrane of the round window out by a corresponding amount into the middle ear. The ossicles help amplify sound waves by nearly 15–20 times.
+
+Inner ear
+
+The outer ear receives sound, transmitted through the ossicles of the middle ear to the inner ear, where it is converted to a nervous signal in the cochlear and transmitted along the vestibulocochlear nerve.
+
+Main article: Inner ear
+
+The inner ear sits within the temporal bone in a complex cavity called the bony labyrinth. A central area known as the vestibule contains two small fluid-filled recesses, the utricle and saccule. These connect to the semicircular canals and the cochlea. There are three semicircular canals angled at right angles to each other which are responsible for dynamic balance. The cochlea is a spiral shell-shaped organ responsible for the sense of hearing. These structures together create the membranous labyrinth.
+
+The bony labyrinth refers to the bony compartment which contains the membranous labyrinth, contained within the temporal bone. The inner ear structurally begins at the oval window, which receives vibrations from the incus of the middle ear. Vibrations are transmitted into the inner ear into a fluid called endolymph, which fills the membranous labyrinth. The endolymph is situated in two vestibules, the utricle and saccule, and eventually transmits to the cochlea, a spiral-shaped structure. The cochlea consists of three fluid-filled spaces: the vestibular duct, the cochlear duct, and the tympanic duct. Hair cells responsible for transduction—changing mechanical changes into electrical stimuli are present in the organ of Corti in the cochlea.
+
+Blood supply
+
+The blood supply of the ear differs according to each part of the ear.
+
+The outer ear is supplied by a number of arteries. The posterior auricular artery provides the majority of the blood supply. The anterior auricular arteries provide some supply to the outer rim of the ear and scalp behind it. The posterior auricular artery is a direct branch of the external carotid artery, and the anterior auricular arteries are branches from the superficial temporal artery. The occipital artery also plays a role.
+
+The middle ear is supplied by the mastoid branch of either the occipital or posterior auricular arteries and the deep auricular artery, a branch of the maxillary artery. Other arteries which are present but play a smaller role include branches of the middle meningeal artery, ascending pharyngeal artery, internal carotid artery, and the artery of the pterygoid canal.
+
+The inner ear is supplied by the anterior tympanic branch of the maxillary artery; the stylomastoid branch of the posterior auricular artery; the petrosal branch of middle meningeal artery; and the labyrinthine artery, arising from either the anterior inferior cerebellar artery or the basilar artery.
+
+Function
+
+Hearing
+
+Main article: Hearing
+
+Sound waves travel through the outer ear, are modulated by the middle ear, and are transmitted to the vestibulocochlear nerve in the inner ear. This nerve transmits information to the temporal lobe of the brain, where it is registered as sound.
+
+Sound that travels through the outer ear impacts on the eardrum, and causes it to vibrate. The three ossicles bones transmit this sound to a second window (the oval window) which protects the fluid-filled inner ear. In detail, the pinna of the outer ear helps to focus a sound, which impacts on the eardrum. The malleus rests on the membrane, and receives the vibration. This vibration is transmitted along the incus and stapes to the oval window. Two small muscles, the tensor tympani and stapedius, also help modulate noise. The two muscles reflexively contract to dampen excessive vibrations. Vibration of the oval window causes vibration of the endolymph within the vestibule and the cochlea.
+
+The inner ear houses the apparatus necessary to change the vibrations transmitted from the outside world via the middle ear into signals passed along the vestibulocochlear nerve to the brain. The hollow channels of the inner ear are filled with liquid, and contain a sensory epithelium that is studded with hair cells. The microscopic "hairs" of these cells are structural protein filaments that project out into the fluid. The hair cells are mechanoreceptors that release a chemical neurotransmitter when stimulated. Sound waves moving through fluid flows against the receptor cells of the organ of Corti. The fluid pushes the filaments of individual cells; movement of the filaments causes receptor cells to become open to receive the potassium-rich endolymph. This causes the cell to depolarise, and creates an action potential that is transmitted along the spiral ganglion, which sends information through the auditory portion of the vestibulocochlear nerve to the temporal lobe of the brain.
+
+The human ear can generally hear sounds with frequencies between 20 Hz and 20 kHz (the audio range). Sounds outside this range are considered infrasound (below 20 Hz) or ultrasound (above 20 kHz) Although hearing requires an intact and functioning auditory portion of the central nervous system as well as a working ear, human deafness (extreme insensitivity to sound) most commonly occurs because of abnormalities of the inner ear, rather than in the nerves or tracts of the central auditory system.
+
+Balance
+
+Main articles: Balance (ability) and Equilibrioception
+
+Providing balance, when moving or stationary, is also a central function of the ear. The ear facilitates two types of balance: static balance, which allows a person to feel the effects of gravity, and dynamic balance, which allows a person to sense acceleration.
+
+Static balance is provided by two ventricles, the utricle and the saccule. Cells lining the walls of these ventricles contain fine filaments, and the cells are covered with a fine gelatinous layer. Each cell has 50–70 small filaments, and one large filament, the kinocilium. Within the gelatinous layer lie otoliths, tiny formations of calcium carbonate. When a person moves, these otoliths shift position. This shift alters the positions of the filaments, which opens ion channels within the cell membranes, creating depolarisation and an action potential that is transmitted to the brain along the vestibulocochlear nerve.
+
+Dynamic balance is provided through the three semicircular canals. These three canals are orthogonal (at right angles) to each other. At the end of each canal is a slight enlargement, known as the ampulla, which contains numerous cells with filaments in a central area called the cupula. The fluid in these canals rotates according to the momentum of the head. When a person changes acceleration, the inertia of the fluid changes. This affects the pressure on the cupula, and results in the opening of ion channels. This causes depolarisation, which is passed as a signal to the brain along the vestibulocochlear nerve. Dynamic balance also helps maintain eye tracking when moving, via the vestibulo–ocular reflex.
+
+Development
+
+During embryogenesis the ear develops as three distinct structures: the inner ear, the middle ear and the outer ear. Each structure originates from a different germ layer: the ectoderm, endoderm and mesenchyme.
+
+Inner ear
+
+The otic placode visible on this sketch of a developing embryo.
+
+After implantation, around the second to third week the developing embryo consists of three layers: endoderm, mesoderm and ectoderm. The first part of the ear to develop is the inner ear, which begins to form from the ectoderm around the 22nd day of the embryo's development. Specifically, the inner ear derives from two thickenings called otic placodes on either side of the head. Each otic placode recedes below the ectoderm, forms an otic pit and then an otic vesicle. This entire mass will eventually become surrounded by mesenchyme to form the bony labyrinth.
+
+Around the 33rd day of development, the vesicles begin to differentiate. Closer to the back of the embryo, they form what will become the utricle and semicircular canals. Closer to the front of the embryo, the vesicles differentiate into a rudimentary saccule, which will eventually become the saccule and cochlea. Part of the saccule will eventually give rise and connect to the cochlear duct. This duct appears approximately during the sixth week and connects to the saccule through the ductus reuniens.
+
+As the cochlear duct's mesenchyme begins to differentiate, three cavities are formed: the scala vestibuli, the scala tympani and the scala media. Both the scala vestibuli and the scala tympani contain an extracellular fluid called perilymph. The scala media contains endolymph. A set of membranes called the vestibular membrane and the basilar membrane develop to separate the cochlear duct from the vestibular duct and the tympanic duct, respectively.
+
+Parts of the otic vesicle in turn form the vestibulocochlear nerve. These form bipolar neurons which supply sensation to parts of the inner ear (namely the sensory parts of the semicircular canals, macular of the utricle and saccule, and organ of Corti). The nerve begins to form around the 28th day.
+
+Molecular regulation
+
+Most of the genes responsible for the regulation of inner ear formation and its morphogenesis are members of the homeobox gene family such as Pax, Msx and Otx homeobox genes. The development of inner ear structures such as the cochlea is regulated by Dlx5/Dlx6, Otx1/Otx2 and Pax2, which in turn are controlled by the master gene Shh. Shh is secreted by the notochord.
+
+Middle ear
+
+The middle ear and its components develop from the first and second pharyngeal arches. The tympanic cavity and auditory tube develop from the first part of the pharyngeal pouch between the first two arches in an area which will also go on to develop the pharynx. This develops as a structure called the tubotympanic recess. The ossicles (malleus, incus and stapes) normally appear during the first half of fetal development. The first two (malleus and incus) derive from the first pharyngeal arch and the stapes derives from the second. All three ossicles develop from the neural crest. Eventually cells from the tissue surrounding the ossicles will experience apoptosis and a new layer of endodermal epithelial will constitute the formation of the tympanic cavity wall.
+
+Outer ear
+
+The ear develops in the lower neck region and moves upwards as the mandible develops.
+
+Unlike structures of the inner and middle ear, which develop from pharyngeal pouches, the ear canal originates from the dorsal portion of the first pharyngeal cleft. It is fully expanded by the end of the 18th week of development. The eardrum is made up of three layers (ectoderm, endoderm and connective tissue). The pinna originates as a fusion of six hillocks. The first three hillocks are derived from the lower part of the first pharyngeal arch and form the tragus, crus of the helix, and helix, respectively. The final three hillocks are derived from the upper part of the second pharyngeal arch and form the antihelix, antitragus, and earlobe. The outer ears develop in the lower neck. As the mandible forms they move towards their final position level with the eyes.
+
+Clinical significance
+
+Hearing loss
+
+Perforation
+
+Fluid in the middle ear cavity
+
+Complications of otitis media that can lead to hearing loss, as seen on otoscope.
+
+Main article: Hearing loss
+
+Hearing loss may be either partial or total. This may be a result of injury or damage, congenital disease, or physiological causes. When hearing loss is a result of injury or damage to the outer ear or middle ear, it is known as conductive hearing loss. When deafness is a result of injury or damage to the inner ear, vestibulochoclear nerve, or brain, it is known as sensorineural hearing loss.
+
+Causes of conductive hearing loss include an ear canal blocked by ear wax, ossicles that are fixed together or absent, or holes in the eardrum. Conductive hearing loss may also result from middle ear inflammation causing fluid build-up in the normally air-filled space, such as by otitis media. Tympanoplasty is the general name of the operation to repair the middle ear's eardrum and ossicles. Grafts from muscle fascia are ordinarily used to rebuild an intact eardrum. Sometimes artificial ear bones are placed to substitute for damaged ones, or a disrupted ossicular chain is rebuilt in order to conduct sound effectively.
+
+Hearing aids or cochlear implants may be used if the hearing loss is severe or prolonged. Hearing aids work by amplifying the sound of the local environment and are best suited to conductive hearing loss. Cochlear implants transmit the sound that is heard as if it were a nervous signal, bypassing the cochlea.
+
+Congenital abnormalities
+
+Anomalies and malformations of the pinna are common. These anomalies include chromosome syndromes such as ring 18. Children may also present cases of abnormal ear canals and low ear implantation. In rare cases no pinna is formed (atresia), or is extremely small (microtia). Small pinnae can develop when the auricular hillocks do not develop properly. The ear canal can fail to develop if it does not channelise properly or if there is an obstruction. Reconstructive surgery to treat hearing loss is considered as an option for children older than five, with a cosmetic surgical procedure to reduce the size or change the shape of the ear is called an otoplasty. The initial medical intervention is aimed at assessing the baby's hearing and the condition of the ear canal, as well as the middle and inner ear. Depending on the results of tests, reconstruction of the outer ear is done in stages, with planning for any possible repairs of the rest of the ear.
+
+Approximately one out of one thousand children suffer some type of congenital deafness related to the development of the inner ear. Inner ear congenital anomalies are related to sensorineural hearing loss and are generally diagnosed with a computed tomography (CT) scan or a magnetic resonance imaging (MRI) scan. Hearing loss problems also derive from inner ear anomalies because its development is separate from that of the middle and external ear. Middle ear anomalies can occur because of errors during head and neck development. The first pharyngeal pouch syndrome associates middle ear anomalies to the malleus and incus structures as well as to the non-differentiation of the annular stapedial ligament. Temporal bone and ear canal anomalies are also related to this structure of the ear and are known to be associated with sensorineural hearing loss and conductive hearing loss.
+
+Vertigo
+
+Main article: Vertigo
+
+Vertigo refers to the inappropriate perception of motion. This is due to dysfunction of the vestibular system. One common type of vertigo is benign paroxysmal positional vertigo, when an otolith is displaced from the ventricles to the semicircular canal. The displaced otolith rests on the cupola, causing a sensation of movement when there is none. Ménière's disease, labyrinthitis, strokes, and other infective and congenital diseases may also result in the perception of vertigo.
+
+Injury
+
+Outer ear
+
+Injuries to the external ear occur fairly frequently, and can leave minor to major deformity. Injuries include: laceration, avulsion injuries, burn and repeated twisting or pulling of an ear, for discipline or torture. Chronic damage to the ears can cause cauliflower ear, a common condition in boxers and wrestlers in which the cartilage around the ears becomes lumpy and distorted owing to persistence of a haematoma around the perichondrium, which can impair blood supply and healing. Owing to its exposed position, the external ear is susceptible to frostbite as well as skin cancers, including squamous-cell carcinoma and basal-cell carcinomas.
+
+Middle ear
+
+The ear drum may become perforated in the event of a large sound or explosion, when diving or flying (called barotrauma), or by objects inserted into the ear. Another common cause of injury is due to an infection such as otitis media. These may cause a discharge from the ear called otorrhea, and are often investigated by otoscopy and audiometry. Treatment may include watchful waiting, antibiotics and possibly surgery, if the injury is prolonged or the position of the ossicles is affected. Skull fractures that go through the part of the skull containing the ear structures (the temporal bone) can also cause damage to the middle ear. A cholesteatoma is a cyst of squamous skin cells that may develop from birth or secondary to other causes such as chronic ear infections. It may impair hearing or cause dizziness or vertigo, and is usually investigated by otoscopy and may require a CT scan. The treatment for cholesteatoma is surgery.
+
+Inner ear
+
+There are two principal damage mechanisms to the inner ear in industrialised society, and both injure hair cells. The first is exposure to elevated sound levels (noise trauma), and the second is exposure to drugs and other substances (ototoxicity). A large number of people are exposed to sound levels on a daily basis that are likely to lead to significant hearing loss. The National Institute for Occupational Safety and Health has recently published research on the estimated numbers of persons with hearing difficulty (11%) and the percentage of those that can be attributed to occupational noise exposure (24%). Furthermore, according to the National Health and Nutrition Examination Survey (NHANES), approximately twenty-two million (17%) US workers reported exposure to hazardous workplace noise. Workers exposed to hazardous noise further exacerbate the potential for developing noise-induced hearing loss when they do not wear hearing protection.
+
+Tinnitus
+
+Tinnitus is the hearing of sound when no external sound is present. While often described as a ringing, it may also sound like a clicking, hiss or roaring. Rarely, unclear voices or music are heard. The sound may be soft or loud, low pitched or high pitched and appear to be coming from one ear or both. Most of the time, it comes on gradually. In some people, the sound causes depression, anxiety, or concentration difficulties.
+
+Tinnitus is not a disease but a symptom that can result from a number of underlying causes. One of the most common causes is noise-induced hearing loss. Other causes include: ear infections, disease of the heart or blood vessels, Ménière's disease, brain tumors, emotional stress, exposure to certain medications, a previous head injury, and earwax. It is more common in those with depression and anxiety.
+
+Society and culture
+
+Stretching of the earlobe and various cartilage piercings
+
+The ears have been ornamented with jewelry for thousands of years, traditionally by piercing of the earlobe. In ancient and modern cultures, ornaments have been placed to stretch and enlarge the earlobes, allowing for larger plugs to be slid into a large fleshy gap in the lobe. Tearing of the earlobe from the weight of heavy earrings, or from traumatic pull of an earring (for example, by snagging on a sweater), is fairly common.
+
+Injury to the ears has been present since Roman times as a method of reprimand or punishment – "In Roman times, when a dispute arose that could not be settled amicably, the injured party cited the name of the person thought to be responsible before the Praetor; if the offender did not appear within the specified time limit, the complainant summoned witnesses to make statements. If they refused, as often happened, the injured party was allowed to drag them by the ear and to pinch them hard if they resisted. Hence the French expression "se faire tirer l’oreille", of which the literal meaning is "to have one's ear pulled" and the figurative meaning "to take a lot of persuading". We use the expression "to tweak (or pull) someone's ears" to mean "inflict a punishment"."
+
+The pinnae have an effect on facial appearance. In Western societies, protruding ears (present in about 5% of ethnic Europeans) have been considered unattractive, particularly if asymmetric. The first surgery to reduce the projection of prominent ears was published in the medical literature by Ernst Dieffenbach in 1845, and the first case report in 1881.
+
+Pointy ears are a characteristic of some creatures in folklore such as the French croquemitaine, Brazilian curupira or Japanese earth spider. It has been a feature of characters on art as old as that of Ancient Greece and medieval Europe. Pointy ears are a common characteristic of many creatures in the fantasy genre, including elves, faeries, pixies, hobbits, or orcs. They are a characteristic of creatures in the horror genre, such as vampires. Pointy ears are also found in the science fiction genre; for example among the Vulcan and Romulan races of the Star Trek universe and the Nightcrawler character from the X-Men universe.
+
+Georg von Békésy was a Hungarian biophysicist born in Budapest, Hungary. In 1961, he was awarded the Nobel Prize in Physiology or Medicine for his research on the function of the cochlea in the mammalian hearing organ.
+
+The Vacanti mouse was a laboratory mouse that had what looked like a human ear grown on its back. The "ear" was actually an ear-shaped cartilage structure grown by seeding cow cartilage cells into a biodegradable ear-shaped mold and then implanted under the skin of the mouse; then the cartilage naturally grew by itself. It was developed as an alternative to ear repair or grafting procedures and the results met with much publicity and controversy in 1997.
+
+Other animals
+
+Primate ears
+
+Human & Crab-eating macaque
+
+(Darwin's tubercle highlighted)
+
+Pinnae of the bat
+
+The pinna helps direct sound through the ear canal to the eardrum. The complex geometry of ridges on the inner surface of some mammalian ears helps to sharply focus sounds produced by prey, using echolocation signals. These ridges can be regarded as the acoustic equivalent of a fresnel lens, and may be seen in a wide range of animals, including the bat, aye-aye, lesser galago, bat-eared fox, mouse lemur and others.
+
+Some large primates such as gorillas and orang-utans (and also humans) have undeveloped ear muscles that are non-functional vestigial structures, yet are still large enough to be easily identified. An ear muscle that cannot move the ear, for whatever reason, has lost that biological function. This serves as evidence of homology between related species. In humans, there is variability in these muscles, such that some people are able to move their ears in various directions, and it has been said that it may be possible for others to gain such movement by repeated trials. In such primates, the inability to move the ear is compensated for mainly by the ability to easily turn the head on a horizontal plane, an ability which is not common to most monkeys—a function once provided by one structure is now replaced by another.
+
+In some animals with mobile pinnae (like the horse), each pinna can be aimed independently to better receive the sound. For these animals, the pinnae help localise the direction of the sound source.
+
+\t\t
+\t\t\t
+
+\t\t\t
+African bush elephant
+
+Loxodonta africana
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Fennec fox (desert regions)
+
+Vulpes zerda
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Arctic fox
+
+Vulpes lagopus
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Domestic rabbit – French Lop breed
+
+Oryctolagus cuniculus
+
+\t\t\t
+
+\t\t
+
+Half-Lop Rabbit
+
+Illustration by
+
+Charles Darwin, 1868
+
+The ear, with its blood vessels close to the surface, is an essential thermoregulator in some land mammals, including the elephant, the fox, and the rabbit. There are five types of ear carriage in domestic rabbits, some of which have been bred for exaggerated ear length—a potential health risk that is controlled in some countries. Abnormalities in the skull of a half-lop rabbit were studied by Charles Darwin in 1868. In marine mammals, Earless seals are one of three groups of Pinnipedia.
+
+Invertebrates
+
+Only vertebrate animals have ears, though many invertebrates detect sound using other kinds of sense organs. In insects, tympanal organs are used to hear distant sounds. They are located either on the head or elsewhere, depending on the insect family. The tympanal organs of some insects are extremely sensitive, offering acute hearing beyond that of most other animals. The female cricket fly Ormia ochracea has tympanal organs on each side of her abdomen. They are connected by a thin bridge of exoskeleton and they function like a tiny pair of eardrums, but, because they are linked, they provide acute directional information. The fly uses her "ears" to detect the call of her host, a male cricket. Depending on where the song of the cricket is coming from, the fly's hearing organs will reverberate at slightly different frequencies. This difference may be as little as 50 billionths of a second, but it is enough to allow the fly to home in directly on a singing male cricket and parasitise it.
+
+Simpler structures allow other arthropods to detect near-field sounds. Spiders and cockroaches, for example, have hairs on their legs which are used for detecting sound. Caterpillars may also have hairs on their body that perceive vibrations and allow them to respond to sound.
+
+See also
+
+Hear, hear
+
+Hearing test
+
+Righting reflex
+
+References
+
+^ "Ear". Oxford Dictionary. Retrieved 25 February 2016.
+
+^ a b c d Standring, Susan (2008). Borley, Neil R. (ed.). Gray's Anatomy: The Anatomical Basis of Clinical Practice (40 ed.). Edinburgh: Churchill Livingstone/Elsevier. pp. Chapter 36. "External and middle ear", 615–631. ISBN 978-0-443-06684-9. Archived from the original on 10 March 2014.
+
+^ a b c d e f g Drake, Richard L.; Vogl, Wayne; Tibbitts, Adam W.M. Mitchell; illustrations by Richard; Richardson, Paul (2005). Gray's anatomy for students. Philadelphia: Elsevier/Churchill Livingstone. pp. 855–856. ISBN 978-0-8089-2306-0.
+
+^ Moore KL, Dalley AF, Agur AM (2013). Clinically Oriented Anatomy, 7th ed. Lippincott Williams & Wilkins. pp. 848–849. ISBN 978-1-4511-8447-1.
+
+^ Stenström, J. Sten: Deformities of the ear; In: Grabb, W., C., Smith, J.S. (Edited): "Plastic Surgery", Little, Brown and Company, Boston, 1979, ISBN 0-316-32269-5 (C), ISBN 0-316-32268-7 (P)
+
+^ Purves, D. (2007). Neuroscience (4th ed.). New York: Sinauer. pp. 332–336. ISBN 978-0-87893-697-7.
+
+^ Mitchell, Richard L. Drake, Wayne Vogl, Adam W.M. (2005). Gray's anatomy for students. Philadelphia: Elsevier. p. 858. ISBN 978-0-8089-2306-0.
+
+^ a b c d e Standring, Susan (2008). Borley, Neil R. (ed.). Gray's Anatomy: The Anatomical Basis of Clinical Practice (40 ed.). Edinburgh: Churchill Livingstone/Elsevier. pp. Chapter 37. "Inner ear", 633–650. ISBN 978-0-443-06684-9.
+
+^ a b c d Hall, Arthur C. Guyton, John E. (2005). Textbook of medical physiology (11th ed.). Philadelphia: W.B. Saunders. pp. 651–657. ISBN 978-0-7216-0240-0.
+
+^ Greinwald, John H. Jr MD; Hartnick, Christopher J. MD The Evaluation of Children With Sensorineural Hearing Loss. Archives of Otolaryngology – Head & Neck Surgery. 128(1):84–87, January 2002
+
+^ "Definition of "ultrasound" | Collins English Dictionary". www.collinsdictionary.com. Retrieved 20 March 2016.
+
+^ Hall, Arthur C. Guyton, John E. (2005). Textbook of medical physiology (11th ed.). Philadelphia: W.B. Saunders. pp. 692–694. ISBN 978-0-7216-0240-0.
+
+^ a b Moore, Keith L. (2009). Fundamentos de Anatomía con Orientación Clínica. pp. 1021–1035.
+
+^ a b c d e f g h i Sadler, T.W. (2010). Embriología Médica. pp. 321–327.
+
+^ a b c d e f Moore, Keith L. (2008). Embriología Clínica. pp. 477–482.
+
+^ a b c d e f g h Standring, Susan (2008). Borley, Neil R. (ed.). Gray's Anatomy: The Anatomical Basis of Clinical Practice (40 ed.). Edinburgh: Churchill Livingstone/Elsevier. pp. Chapter 38. "Development of the ear", 651–653. ISBN 978-0-443-06684-9.
+
+^ a b c d e UNSW Embryology. Hearing-Inner Ear Development. Archived from the original on 30 September 2012. Retrieved 20 April 2013.
+
+^ a b Drake, Richard L.; Wayne, A.; Mitchell, Adam (2010). GRAY Anatomía para estudiantes. pp. 854–871.
+
+^ Chatterjee, Sumantra; Kraus, Petra; Luftkin, Thomas (2010). "A symphony of inner ear developmental control genes". BMC Genetics. 11: 68. doi:10.1186/1471-2156-11-68. PMC 2915946. PMID 20637105.
+
+^ "Hearing Aids". National institute of deafness and other communication disorders. Retrieved 20 March 2016.
+
+^ a b c Kliegman; Behrman; Jenson (2007). "367". Nelson Textbook of Pedriatics.
+
+^ Lam SM. Edward Talbot Ely: father of aesthetic otoplasty.  Archives of Facial Plastic Surgery. 6(1):64, 2004 Jan–Feb.
+
+^ Siegert R. Combined reconstruction of congenital auricular atresia and severe microtia.  Laryngoscope. 113(11):2021–2027; discussion 2028–2029, 2003 Nov.
+
+^ Trigg DJ. Applebaum EL. Indications for the surgical repair of unilateral aural atresia in children.   , American Journal of Otology. 19(5):679–684; discussion 684–686, 1998 September
+
+^ Lalwani, A.K. (2009). Diagnóstico y tratamiento en Otorrinolaringología. Cirugía de Cabeza y Cuello. pp. 624–752.
+
+^ Britton, the editors Nicki R. Colledge, Brian R. Walker, Stuart H. Ralston; illustrated by Robert (2010). Davidson's principles and practice of medicine (21st ed.). Edinburgh: Churchill Livingstone/Elsevier. pp. 1151–1171. ISBN 978-0-7020-3084-0.
+
+^ a b Alexandru, Florin (30 January 2004). "Ear Injuries" (PDF). Council of Europe.
+
+^ "Ear Injury – Injuries and Poisoning". Merck Manuals Consumer Version. Retrieved 25 February 2016.
+
+^ Colledge, Nicki (2010). Davidson's Principles and Practice of Medicine. Churchill Livingstone. p. 102.
+
+^ "The Ears, A High Risk Area for Skin Cancer". www.skincancer.org. Archived from the original on 4 March 2016. Retrieved 25 February 2016.
+
+^ "Ruptured Eardrum: Symptoms, Treatments, and Recovery". WebMD. Retrieved 25 February 2016.
+
+^ "How should I evaluate a draining ear?". Medscape. Retrieved 25 February 2016.
+
+^ "Traumatic Perforation of the Tympanic Membrane – Ear, Nose, and Throat Disorders". Merck Manuals Professional Edition. Retrieved 25 February 2016.
+
+^ "Evaluation and management of middle ear trauma". www.uptodate.com. Retrieved 25 February 2016.
+
+^ "Cholesteatoma: MedlinePlus Medical Encyclopedia". www.nlm.nih.gov. Retrieved 25 February 2016.
+
+^ Senate Public Works Committee, Noise Pollution and Abatement Act of 1972, S. Rep. No. 1160, 92nd Cong. 2nd session.
+
+^ Tak SW, Calvert GM, "Hearing Difficulty Attributable to Employment by Industry and Occupation: An Analysis of the National Health Interview Survey – United States, 1997 to 2003," J. Occup. Env. Med. 2008, 50:46–56
+
+^ Tak, SW; Davis, RR; Calvert, GM (2009). "Exposure to Hazardous Workplace Noise and Use of Hearing Protection Devices Among US WOrkers, 1999–2004". Am. J. Ind. Med. 52 (5): 358–371. doi:10.1002/ajim.20690. PMID 19267354.
+
+^ Levine, RA; Oron, Y (2015). Tinnitus. Handbook of Clinical Neurology. 129. pp. 409–431. doi:10.1016/B978-0-444-62630-1.00023-8. ISBN 978-0-444-62630-1. PMID 25726282.
+
+^ a b c d "Tinnitus". September 2014. Retrieved 22 May 2015.
+
+^ a b c Baguley, D; McFerran, D; Hall, D (9 November 2013). "Tinnitus" (PDF). Lancet. 382 (9904): 1600–1607. doi:10.1016/S0140-6736(13)60142-7. PMID 23827090.
+
+^ Han BI, Lee HW, Kim TY, Lim JS, Shin KS (March 2009). "Tinnitus: characteristics, causes, mechanisms, and treatments". J Clin Neurol. 5 (1): 11–19. doi:10.3988/jcn.2009.5.1.11. PMC 2686891. PMID 19513328. About 75% of new cases are related to emotional stress as the trigger factor rather than to precipitants involving cochlear lesions.CS1 maint: uses authors parameter (link)
+
+^ Deborah S. Sarnoff; Robert H. Gotkin; Joan Swirsky (2002). Instant Beauty: Getting Gorgeous on Your Lunch Break. St. Martin's Press. ISBN 0-312-28697-X.
+
+^ Thomas, J. Regan (2010). Advanced Therapy in Facial Plastic and Reconstructive Surgery. PMPH-USA. p. 513. ISBN 978-1-60795-011-0.
+
+^ Miloro, Michael; Ghali, G.E.; Larsen, Peter; Waite, Peter (2004). "Chapter 71. Otoplastic surgery for the protruding ear.". Peterson's Principles of Oral and Maxillofacial Surgery. PMPH-USA. ISBN 978-1-55009-234-9.
+
+^ Theresa Bane (2013). Encyclopedia of Fairies in World Folklore and Mythology. McFarland. p. 91. ISBN 978-0-7864-7111-9.
+
+^ Laurence Bush (2001). Asian Horror Encyclopedia: Asian Horror Culture in Literature, Manga, and Folklore. iUniverse. p. 43. ISBN 978-1-4697-1503-2.
+
+^ Johann Joachim Winckelmann (1850). The History of Ancient Art Among the Greeks. Chapman. p. 80.
+
+^ Alixe Bovey (2002). Monsters and Grotesques in Medieval Manuscripts. University of Toronto Press. p. 38. ISBN 978-0-8020-8512-2.
+
+^ J. Peffer (2012). DragonArt Collector's Edition: Your Ultimate Guide to Drawing Fantasy Art. IMPACT. p. 28. ISBN 978-1-4403-2417-8.
+
+^ Michael J. Tresca (2010). The Evolution of Fantasy Role-Playing Games. McFarland. p. 34. ISBN 978-0-7864-6009-0.
+
+^ David Okum (2006). Manga Fantasy Madness: Over 50 Basic Lessons for Drawing Warriors, Wizards, Monsters and more. IMPACT. p. 31. ISBN 1-60061-381-0.
+
+^ Sirona Knight (7 June 2005). The Complete Idiot's Guide to Elves and Fairies. DK Publishing. p. 171. ISBN 978-1-4406-9638-1.
+
+^ John Michael Greer (1 September 2011). Monsters. Llewellyn Worldwide. p. 107. ISBN 978-0-7387-1600-8.
+
+^ Christopher Hart (2008). Astonishing Fantasy Worlds: The Ultimate Guide to Drawing Adventure Fantasy Art. Watson-Guptill Publications. p. 103. ISBN 978-0-8230-1472-9.
+
+^ John Hamilton (1 August 2011). Elves and Fairies. ABDO. p. 23. ISBN 978-1-60453-215-9.
+
+^ Misha Kavka; Jenny Lawn; Mary Paul (2006). Gothic Nz: The Darker Side of Kiwi Culture. Otago University Press. p. 111. ISBN 978-1-877372-23-0.
+
+^ Lisa Hopkins (1 January 2010). Screening the Gothic. University of Texas Press. p. 202. ISBN 978-0-292-77959-4.
+
+^ Noah William Isenberg (13 August 2013). Weimar Cinema: An Essential Guide to Classic Films of the Era. Columbia University Press. pp. 96–. ISBN 978-0-231-50385-3.
+
+^ Ken Gelder (2000). The Horror Reader. Psychology Press. p. 27. ISBN 978-0-415-21356-1.
+
+^ Henry Jenkins III; Tara McPherson; Jane Shattuc (2 January 2003). Hop on Pop: The Politics and Pleasures of Popular Culture. Duke University Press. p. 119. ISBN 0-8223-8350-0.
+
+^ William Irwin; Rebecca Housel; J. Jeremy Wisnewski (18 May 2009). X-Men and Philosophy: Astonishing Insight and Uncanny Argument in the Mutant X-Verse. John Wiley & Sons. p. 189. ISBN 978-0-470-73036-2.
+
+^ Stevens, S.S. (September 1972). "Georg von Békésy". Physics Today. 25 (9): 78–80. Bibcode:1972PhT....25i..78S. doi:10.1063/1.3071029. Archived from the original on 24 September 2013.
+
+^ Cao, Y.; Vacanti, J.P.; Paige, K.T.; Upton, J.; Vacanti, C.A. (1997). "Transplantation of chondrocytes utilizing a polymer-cell construct to produce tissue-engineered cartilage in the shape of a human ear". Plastic and Reconstructive Surgery. 100 (2): 297–302, discussion 303–304. doi:10.1097/00006534-199708000-00001. PMID 9252594.
+
+^ Goodyear, Dana. "The Stress Test". New Yorker. Retrieved 23 March 2016.
+
+^ Karin Sellberg, Lena Wånggren (2016). Corporeality and Culture: Bodies in Movement. Routledge. pp. 75–76. ISBN 978-1-317-15924-7.
+
+^ Pavey, C.R.; Burwell, C.J. (1998). "Bat Predation on Eared Moths: A Test of the Allotonic Frequency Hypothesis". Oikos. 81 (1): 143–151. doi:10.2307/3546476. JSTOR 3546476.
+
+^ "The Bat's Ear as a Diffraction Grating". Archived from the original on 18 April 2012. Retrieved 27 October 2011.
+
+^ Kuc, R. (2009). "Model predicts bat pinna ridges focus high frequencies to form narrow sensitivity beams". The Journal of the Acoustical Society of America. 125 (5): 3454–3459. Bibcode:2009ASAJ..125.3454K. doi:10.1121/1.3097500. PMID 19425684.
+
+^ a b Darwin, Charles (1871). The Descent of Man, and Selection in Relation to Sex. John Murray: London.
+
+^ Mr. St. George Mivart, Elementary Anatomy, 1873, p. 396. Two ears provide stereo imaging that the brain can use to develop a 3-dimensional sound field.
+
+^ Fayez, I.; Marai, M.; Alnaimy, A.; Habeeb, M. (1994). Baselga, M.; Marai, I.F.M. (eds.). "Thermoregulation in Rabbits" (PDF). Rabbit Production in Hot Climates. Cahiers Options Méditerranéennes. Zaragoza: CIHEAM – International Centre for Advanced Mediterranean Agronomic Studies. 8: 33–41.
+
+^ "Longest ears on a rabbit". Guinness World Records. Retrieved 9 February 2018.
+
+^ Whitman, Bob D. (October 2004). Domestic Rabbits & Their Histories: Breeds of the World. Leawood KS: Leathers Publishing. ISBN 978-1-58597-275-3.
+
+^ Yack, JE; Fullard, JH (1993). "What is an insect ear?". Ann. Entomol. Soc. Am. 86 (6): 677–682. doi:10.1093/aesa/86.6.677.
+
+^ Piper, Ross (2007), Extraordinary Animals: An Encyclopedia of Curious and Unusual Animals, Greenwood Press.
+
+^ Scoble, M.J. 1992. The Lepidoptera: Form, function, and diversity. Oxford University Press
+
+External links
+
+ The dictionary definition of ear at Wiktionary
+
+ Media related to Ears at Wikimedia Commons
+
+v
+
+t
+
+e
+
+Anatomy of hearing and balance
+
+Outer ear 
+Auricle
+helix
+
+antihelix
+
+tragus
+
+antitragus
+
+intertragic notch
+
+earlobe
+
+Ear canal
+
+Auricular muscles
+
+Eardrum
+umbo
+
+pars flaccida
+
+Middle ear
+
+Tympanic cavity 
+Medial structures
+oval window
+
+round window
+
+secondary tympanic membrane
+
+prominence of facial canal
+
+promontory of tympanic cavity
+
+Posterior structures
+mastoid cells
+
+aditus to mastoid antrum
+
+pyramidal eminence
+
+Ossicles 
+Malleus
+superior ligament
+
+lateral ligament
+
+anterior ligament
+
+Incus
+superior ligament
+
+posterior ligament
+
+Stapes
+annular ligament
+
+Muscles
+stapedius
+
+tensor tympani
+
+Auditory tube /
+
+Eustachian tube 
+Torus tubarius
+
+Inner ear
+
+Labyrinths 
+membranous
+
+bony
+
+Auditory system
+
+General 
+Cochlea
+Vestibular duct
+
+Helicotrema
+
+Tympanic duct
+
+Modiolus
+
+Cochlear cupula
+
+Perilymphatic space
+Perilymph
+
+Cochlear aqueduct
+
+Cells
+Claudius
+
+Boettcher
+
+Cochlear duct /
+
+scala media 
+Reissner's/vestibular membrane
+
+Basilar membrane
+
+Reticular membrane
+
+Endolymph
+
+Stria vascularis
+
+Spiral ligament
+
+Organ of Corti
+stereocilia
+
+tip links
+
+Tectorial membrane
+
+Sulcus spiralis
+externus
+
+internus
+
+Spiral limbus
+
+Vestibular system
+
+Vestibule 
+Utricle
+macula
+
+Saccule
+macula
+
+Kinocilium
+
+Otolith
+Otolithic membrane
+
+Vestibular aqueduct
+endolymphatic duct
+
+endolymphatic sac
+
+Ductus reuniens
+
+Semicircular canals 
+Superior
+
+Posterior
+
+Horizontal
+
+Ampullary cupula
+
+Ampullae
+crista ampullaris
+
+v
+
+t
+
+e
+
+Human regional anatomy
+
+Head 
+Face
+Forehead
+
+Cheek
+
+Chin
+
+Eye
+
+Nose
+
+Mouth
+Lips
+
+Ear
+
+Jaw
+
+Mandible
+
+Occiput
+
+Scalp
+
+Temple
+
+Neck 
+Adam's apple
+
+Throat
+
+Nape
+
+Torso (Trunk) 
+Abdomen
+Waist
+
+Midriff
+
+Navel
+
+Back
+
+Thorax
+Breast
+
+Pelvis
+Sex organs
+
+Limbs
+
+Arm 
+Shoulder
+
+Axilla
+
+Brachium
+
+Elbow
+
+Forearm
+
+Wrist
+
+Hand
+Finger
+
+Thumb
+
+Index
+
+Middle
+
+Ring
+
+Little
+
+Leg 
+Buttocks
+
+Hip
+
+Thigh
+
+Knee
+
+Calf
+
+Foot
+Ankle
+
+Heel
+
+Toe
+
+Sole
+
+‹ The template below (Anatomy navs) is being considered for deletion. See templates for discussion to help reach a consensus. ›
+
+General anatomy: systems and organs, regional anatomy, planes and lines, superficial axial anatomy, superficial anatomy of limbs
+
+Authority control 
+GND: 4133604-5
+
+NDL: 00567653
+
+TA98: A01.1.00.005

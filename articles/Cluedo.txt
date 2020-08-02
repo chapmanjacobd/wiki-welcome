@@ -1,0 +1,840 @@
+"Board game
+
+For other uses, see Cluedo (disambiguation).
+
+CluedoThe Classic Mystery Game
+
+The Cluedo and Clue logos (2015–present)
+
+Designer(s) Anthony E. Pratt
+
+Publisher(s) Hasbro
+
+Waddingtons
+
+Parker Brothers
+
+Winning Moves
+
+Publication date 1949; 71 years ago (1949)
+
+Players 2 to 6
+
+3 to 6
+
+(editions vary)
+
+Setup time 5 minutes
+
+Playing time 10 to 60 minutes
+
+Random chance Low (dice rolling)
+
+Age range 8+
+
+Skill(s) required Deduction
+
+Cluedo (/ˈkluːdoʊ/), known as Clue in North America, is a murder mystery game for three to six players that was devised in 1943 by Anthony E. Pratt from Birmingham, England. The game was first manufactured by Waddingtons in the UK in 1949. Since then, it has been relaunched and updated several times, and it is currently owned and published by the American game and toy company Hasbro.
+
+The object of the game is to determine who murdered the game's victim, where the crime took place, and which weapon was used. Each player assumes the role of one of the six suspects and attempts to deduce the correct answer by strategically moving around a game board representing the rooms of a mansion and collecting clues about the circumstances of the murder from the other players.
+
+Numerous games, books, a film, television series, and a musical have been released as part of the Cluedo franchise. Several spinoffs have been released featuring various extra characters, weapons and rooms, or different game play. The original game is marketed as the "Classic Detective Game", and the various spinoffs are all distinguished by different slogans.
+
+In 2008, Cluedo: Discover the Secrets was created (with changes to board, gameplay and characters) as a modern spinoff, but it was criticised in the media and by fans of the original game. Cluedo: The Classic Mystery Game was then introduced in 2012, returning to Pratt's classic formula but also adding several variations.
+
+Contents
+
+1 History
+
+1.1 Marketing
+
+2 Game
+
+2.1 Equipment
+
+2.2 Characters
+
+2.3 Weapons
+
+2.4 Rooms
+
+2.5 Rules
+
+2.5.1 Choice of playing piece
+
+2.5.2 Navigating the board
+
+2.5.3 Making suggestions
+
+2.5.4 Notetaking
+
+2.5.5 Non-Face-To-Face
+
+3 Editions
+
+3.1 Cluedo: Discover the Secrets
+
+3.2 Clue/Cluedo: The Classic Mystery Game
+
+3.3 Notable editions
+
+4 Franchise
+
+5 Worldwide differences
+
+6 See also
+
+7 References
+
+8 External links
+
+History
+
+In 1944, Anthony E. Pratt, an English musician, applied for a patent of his invention of a murder/mystery-themed game, originally named "Murder!". Shortly thereafter, Pratt and his wife, Elva Pratt (1913–1990), who had helped in designing the game, presented it to Waddingtons' executive, Norman Watson, who immediately purchased it and provided its trademark name of "Cluedo" (a play on "clue" and "Ludo"; ludo is Latin for I play, and a common British term for the game Parchesi).
+
+Although the patent was granted in 1947, due to postwar shortages in the UK the game was not officially launched by Waddingtons until 1949. It was simultaneously licensed to Parker Brothers in the US for publication, where it was renamed "Clue" along with other minor changes.
+
+There were several differences between the original game concept and that initially published in 1949. In particular, Pratt's original design calls for ten characters, one of whom was to be designated the victim by random drawing prior to the start of the game. These ten included the eliminated Mr Brown, Mr Gold, Miss Grey, and Mrs Silver. The characters of Nurse White and Colonel Yellow were renamed Mrs White and Colonel Mustard for the actual release. The game allowed for play of up to eight remaining characters, providing for nine suspects in total. Originally there were eleven rooms, including the eliminated "gun room" and cellar. In addition there were nine weapons including the unused bomb, syringe, shillelagh (walking stick/cudgel), fireplace poker, and the later used axe and poison. Some of these unused weapons and characters appeared later in spin-off versions of the game.
+
+Some gameplay aspects were different as well. Notably, the remaining playing cards were distributed into the rooms to be retrieved, rather than dealt directly to the players. Players also had to land on another player in order to make suggestions about that player's character through the use of special counter-tokens, and once exhausted, a player could no longer make suggestions. There were other minor differences, all of which were later updated by the game's initial release and remain essentially unchanged in the standard Classic Detective Game editions of the game.
+
+The methodology used in the early versions of Cluedo is remarkably similar to a traditional, if little known, American card game, The King of Hearts Has Five Sons. However, Pratt himself said his inspiration was a murder mystery parlour game he used to play with friends where youngsters "would congregate in each other's homes for parties at weekends. We'd play a stupid game called Murder, where guests crept up on each other in corridors and the victim would shriek and fall on the floor." The Country house mystery was a popular subgenre of "cosy" English detective fiction in the 1920s and 1930s; set in a residence of the gentry isolated by a snowstorm or similar and the suspects at a weekend house party.
+
+Marketing
+
+Cluedo was originally marketed as "The Great New Detective Game" upon its launch in 1949 in North America, and quickly made a deal to licence "The Great New Sherlock Holmes Game" from the Sir Arthur Conan Doyle estate. Advertising at the time suggested players would take on the guise of "Sherlock Holmes following the path of the criminal", but no depictions of Holmes appear in the advertising or on the box. By 1950 the game was simply marketed as "The Great Detective Game" until the 1960s, at which time it became: "Parker Brothers Detective Game".
+
+Cluedo 1956 UK Edition depicting a Sherlock Holmes type character.
+
+With the launch of the US 1972 edition, a television commercial showed Holmes and Watson engaged in a particularly competitive game. Adjusting with the times, in 1979 US TV commercials a detective, resembling a bumbling Inspector Clouseau from the popular Pink Panther film franchise, looks for clues. In 1986, the marketing slogan added "Classic Detective Game" which persists through the last 2002/2003 edition.
+
+In the UK, Cluedo did not start using "The Great Detective Game" marketing slogan until the mid-1950s, which it continued using until the 2000 edition when it adopted the "Classic Detective Game" slogan. However, in the mid-1950s Waddingtons also adopted a Sherlock Holmes-type detective to adorn their box covers for a brief time, though unlike the US editions, there was no acknowledgement that the character was actually the famous detective. In the 1980s, as in the US, Sherlock Holmes also appeared in TV advertising of the time, along with other classic detectives such as Sam Spade.
+
+Game
+
+Equipment
+
+The game consists of a board which shows the rooms, corridors and secret-passages of an English country house called Tudor Mansion (named Tudor Close, Tudor Hall, Arlington Grange, Boddy Manor or Boddy Mansion in some editions) in Hampshire, England in 1926. The game box also includes several coloured playing pieces to represent characters, miniature murder weapon props, two six-sided dice, three sets of cards (describing the aforementioned rooms, characters or weapons), Solution Cards envelope to contain one card from each set of cards, and a Detective's Notes pad on which are printed lists of rooms, weapons and characters, so players can keep detailed notes during the game.
+
+Characters
+
+Main article: List of Cluedo characters
+
+The figurines and traditional set of North American & UK suspect tokens
+
+The murder victim in the game is known as "Dr Black" in the UK edition and "Mr. Boddy" in North American versions.
+
+Players' tokens are typically plastic pawns or figurines; the standard edition of Cluedo has six of these suspects:
+
+Miss Scarlett (the second t was dropped in North American versions after 1963). She is represented by a red token.
+
+Rev Green (Mr. Green in North America). He is represented by a green token.
+
+Colonel Mustard. He is represented by a yellow token.
+
+Professor Plum. He is represented by a purple token.
+
+Mrs. Peacock. She is represented by a blue token.
+
+Mrs. White. She is represented by a white token.
+
+In 2016, Hasbro launched the current standard version of the game with a new character, Dr. Orchid, replacing Mrs White. She is represented by a pink token.
+
+Weapons
+
+The weapon icons are typically made of unfinished pewter (except the rope, which may be plastic or string); special editions have included gold plated, brass finished and sterling silver versions.
+
+Candlestick
+
+Dagger (Knife in some North American editions)
+
+Lead Pipe (called lead piping in earlier UK editions; the early tokens were made out of actual lead and therefore posed a risk of lead poisoning)
+
+Revolver (first depicted in the UK as a Dreyse M1907 semi-automatic pistol, and in North America as a Colt M1911 pistol.)
+
+Rope
+
+Wrench (depicted as a monkey wrench in North American editions; and an open-ended spanner in some traditional UK versions)
+
+Rooms
+
+There are nine rooms in the mansion where the murder can take place, laid out in circular fashion on the game board, separated by pathways overlaid by playing spaces. Each of the four corner rooms contains a secret passage that leads to the room on the opposite diagonal corner of the map. The centre room (often referred to as the Cellar or Stairs) is inaccessible to the players, but contains the solution envelope, and is not otherwise used during game play. Coloured "start" spaces encircle the outer perimeter which correspond to each player's suspect token. Each character starts at the corresponding coloured space.
+
+ †
+ 
+ Ballroom
+ 
+ ‡ 
+ 
+Kitchen
+ Conservatory
+
+ Dining Room
+ 
+ Cellar
+
+(with
+
+envelope)
+ 
+ Billiard Room
+ 
+Library
+
+ Hall
+ 
+Lounge
+ Study
+
+‡
+ † 
+
+† ‡ denote secret passages to opposite corner
+
+Rules
+
+At the beginning of play, three cards—one suspect, one room, and one weapon—are chosen at random and put into a special envelope, so that no one can see them. These cards represent the facts of the case. The remainder of the cards are distributed among the players.
+
+Players are instructed to assume the token/suspect nearest them. In older versions, play begins with Miss Scarlett and proceeds clockwise. In modern versions, all players roll the die/dice and the highest total starts the game, with play proceeding clockwise. Players roll the die/dice and move along the board's corridor spaces, or into the rooms accordingly.
+
+The objective of the game is to deduce the details of the murder, i.e. the cards in the envelope. There are six characters, six murder weapons and nine rooms, leaving the players with 324 possibilities. As soon as a player enters a room, they may make a suggestion as to the details, naming a suspect, the room they are in, and weapon. For example: "I suggest it was Professor Plum, in the Dining Room, with the candlestick." The player's suggestion must include the room they are currently in; suggestions may not be made in the corridors. The tokens for the suggested suspect and weapon are immediately moved into that room, if they are not both already present. Suggesting an opponent's token is a legitimate board strategy; likewise the weapon icons, though esoteric. A player's suggestion may name themself as the murderer and may include cards in their own hand.
+
+Once a player makes a suggestion, the others are called upon to disprove it. If the player to their left holds any of the three named cards, that player must privately show one (and only one) of the cards to them. If not, the process continues clockwise around the table until either one player disproves the suggestion, or no one can do so. A player's turn normally ends once their suggestion is completed.
+
+A player who believes they have determined the correct elements may make an accusation on their turn. The accusation can include any room, not necessarily the one occupied by the player (if any), and may be made immediately following a suggestion. The accusing player privately checks the three cards in the envelope. If they match the accusation, the player shows them to everyone and wins; if not, they return them to the envelope and may not move nor make suggestions/accusations for the remainder of the game; in effect, "losing". However, other players can move their token into rooms when making suggestions and they must continue to privately show cards in order to disprove suggestions. A player who makes a false accusation while blocking the door to a room must move into that room so others can enter and leave. If all players except for one player have made an incorrect accusation, the remaining player automatically wins.
+
+If a player's suggestion has brought another player's token into a room, the second player may make their own suggestion in the room when their turn comes up, if desired. If not, they may move out of the room, and if able to reach another room, make a suggestion therein, as usual. In the American version, players are not allowed to make suggestions repeatedly by remaining in one room; if they wish to make a second suggestion, they must first spend a turn out of the room.
+
+Choice of playing piece
+
+The first opportunity is in choosing the initial playing piece. Mrs. Peacock has an immediate advantage of starting one-space closer to the first room than any of the other players. Professor Plum can move to the study, and then take the secret-passage to the Kitchen, the hardest room to reach. Traditionally, Miss Scarlett had the advantage of moving first. This has been eliminated with the implementation of the high roll rule in modern versions.
+
+Navigating the board
+
+The next opportunity is choice of initial rooms to enter. Again Mrs. Peacock has an advantage in that she is closest to the Conservatory, a corner room with a secret passage, enabling a player on their turn to move immediately to another room and make a suggestion after rolling the dice. Miss Scarlett has a similar advantage with the Lounge. Making as many suggestions as possible gives a player an advantage to gain information. Therefore, moving into a new room as frequently as possible is one way to meet this goal. Players should make good use of the secret passages. Following the shortest path between rooms then is a good choice, even if a player already holds the card representing that room in their hand. As mentioned earlier, blocking passage of another player prevents them from attaining rooms from which to make suggestions. Various single space tracks on the board can therefore become traps, which are best avoided by a player when planning a path from room to room.
+
+Making suggestions
+
+Each player begins the game with three to six cards in their hand, depending on the number of players. Keeping track of which cards are shown to each player is important in deducing the solution. Detective Notes are supplied with the game to help make this task easier. The pads can keep not only a history of which cards are in a player's hand, but also which cards have been shown by another player. It can also be useful in deducing which cards the other players have shown one another. For example, if Mrs. Scarlett disproves Mr. Green's suggestion that Mrs. Peacock did the crime in the Ballroom with the Candlestick, a player with both the Ballroom and Mrs. Peacock cards in their hand can then deduce that Mrs. Scarlett has the Candlestick. A player makes a suggestion to learn which cards may be eliminated from suspicion. However, in some cases it may be advantageous for a player to include one of their own cards in a suggestion. This technique can be used for both forcing a player to reveal a different card as well as misleading other players into believing a specific card is suspect. Therefore, moving into a room already held in the player's hand may work to their advantage. Suggestions may also be used to thwart a player's opponent. Since every suggestion results in a suspect token being re-located to the suggested room, a suggestion may be used to prevent another player from achieving their intended destination, preventing them from suggesting a particular room, especially if that player appears to be getting close to a solution.
+
+Notetaking
+
+One reason the game is enjoyed by many ages and skill levels is that the complexity of note-taking can increase as a player becomes more skillful. Beginners may simply mark off the cards they have been shown; more advanced players will keep track of who has and who does not have a particular card, possibly with the aid of an additional grid. Expert players may keep track of each suggestion made, knowing that the player who answers it must have at least one of the cards named; which one can be deduced by later events. One can also keep track of which cards a given player has seen, in order to minimize information revealed to that player and/or to read into that player's suggestions.
+
+Non-Face-To-Face
+
+Clue can be played in a non-face-to-face environment such as Zoom. The board can easily be created as an Excel Spreadsheet and "shared" by the Clue Master, who is a non-playing individual. After determining the number of players, the Clue Master (Host) randomly determines the three, randomly-selected, solution cards. The names of the remaining cards are distributed, in the normal fashion, randomly, to the players, by image and/or list. The Clue Master rolls dice and moves tokens on the board, visible to all players. When a suggestion is made, players refute the suggestion using the "chat" function to identify, privately, the card they hold that disproves the suggestion. This replaces "showing" the card to the suggestor. When an accusation is made, the Clue Master, either confirms or denies its accuracy.
+
+Editions
+
+Parker Brothers and Waddingtons each produced their own unique editions between 1949 and 1992. Hasbro purchased both companies in the early 1990s and continued to produce unique editions for each market until 2002/2003 when the current edition of Cluedo/Clue was first released. At this time, Hasbro produced a unified product across markets. The game was then localized with regional differences in spelling and naming conventions.
+
+During Cluedo's long history, eight unique Clue editions were published in North America (1949, '56/60, '60/63, '72, '86, '92, '96, and 2002), including miniaturized "travel" editions. However, only three distinct editions of Cluedo were released in the UK – the longest of which lasted 47 years from its introduction in 1949 until its first successor in 1996. The eighth North America and fourth UK editions constitute the current shared game design. International versions occasionally developed their own unique designs for specific editions. However, most drew on the designs and art from either the US or UK editions, and in some cases mixing elements from both, while localizing others – specifically suspect portraits.
+
+In July 2008, Hasbro released a revamped look for Clue in a Reinvention called Clue: Discover the Secrets. This new version of the game offered major changes to the game play and to the characters and their back stories.
+
+In July 2016 Hasbro replaced Mrs White with a new character, Dr. Orchid, represented by an orchid pink piece. In this current standard edition, Mrs. Peacock has a new game opening opportunity as her starting square is one step closer to the billiard room (with 9 steps instead of 10). The squared off door to the Conservatory makes the room harder for Mr Green to reach as an opening move and increases the distance between the Ballroom and the Conservatory (from 4 steps to 5). This edition removes the side door in the Hall possibly for aesthetics, to increase the difficulty for Professor Plum, or removed in error.
+
+While the suspects' appearance and interior design of Dr. Black's/Mr. Boddy's mansion changed with each edition, the weapons underwent relatively minor changes, with the only major redesign occurring in the fourth 1972 US edition, which was adopted by the second 1996 UK edition and remains the standard configuration across all Classic Detective Game versions since. The artwork for the previous US editions tended to reflect the current popular style at the time they were released. The earlier UK editions were more artistically stylized themes. From 1972 on, the US editions presented lush box cover art depicting the six suspects in various candid poses within a room of the mansion. The UK would finally adopt this style only in its third release in 2000, prior to which Cluedo boxes depicted basic representations of the contents. Such lavish box art illustrations have become a hallmark of the game, since copied for the numerous licensed variants which pay homage to Clue.
+
+Cluedo: Discover the Secrets
+
+Main article: Cluedo: Discover the Secrets
+
+On August 8, 2008, Hasbro redesigned and updated the board, characters, weapons, and rooms. Changes to the rules of game play were made, some to accommodate the new features.
+
+The suspects have new given names and backgrounds, as well as differing abilities that may be used during the game. The revolver is now a pistol, the lead pipe and spanner/wrench have been removed, and a baseball bat, axe, dumbbell, trophy, and poison have been added. The nine rooms have changed to (in clockwise order): Hall, Guest House, Dining Room, Kitchen, Patio, Spa, Theatre, Living Room, and Observatory.
+
+There is also a second deck of cards—the Intrigue cards. In this deck, there are two types of cards, Keepers and Clocks. Keepers are special abilities; for example, "You can see the card". There are eight clocks—the first seven drawn do nothing—whoever draws the eighth is killed by the murderer and out of the game.
+
+The player must move to the indoor swimming pool in the centre of the board to make an accusation. This adds some challenge versus the ability to make accusations from anywhere in the original game.
+
+The most significant change to game play is that once the suspect cards have been taken, the remaining cards are dealt so that all players have an even number of cards (rather than dealt out so that "one player may have a slight advantage"). This means that depending on the number of players a number of cards are left over. These cards are placed face down in the middle and are not seen unless a player takes a turn in the pool room to look at them.
+
+The changes to the game have been criticized in the media for unnecessarily altering classic cultural icons. The game has also been criticized by lovers of the original game.
+
+As of 2017, Hasbro no longer sells the game via its website. However, they do continue to sell a version of it as part of their Grab & Go travel series. Notably, it plays identically to standard classic rules, but visually continues to use the new Discover the Secrets room layout, and two of the new weapons, as well as other design artwork. However, the Intrigue cards are no longer a part of the game.
+
+Clue/Cluedo: The Classic Mystery Game
+
+Main article: Clue (mobile games)
+
+CLUE/CLUEDO the digital adaptation is based on the official Hasbro board game developed by Marmalade Game Studio for iOS and Android mobile devices as well as Steam and Nintendo Switch. The object of the game to determine who killed the game's victim Dr Black, with what weapon? In which room? The player, as one of the six suspects, will ask questions and take notes. The overall goal being to solve the crime first.
+
+Notable editions
+
+Clue "Master Detective" (1988), an expanded version of the game featuring 12 rooms, 10 characters, and eight weapons, with support for up to 10 players. In addition to the regular cast, Clue Master Detective adds Miss Peach, Monsieur Brunette, Madame Rose and Sergeant Gray to the list of suspects. It also added poison and a horseshoe to the assortment of weapons, and The Fountain, the Gazebo and the Carriage House to the list of rooms.
+
+Cluedo: 50th Anniversary (1999), also released as Clue: 50th Anniversary, this standard edition came in a "deluxe" format with the option to play with an extra murder weapon, a bottle of poison. This edition was also issued in a miniaturised Cluedo European travel version. Drew Struzan provided artwork for the game, which was originally created for the US 1996 edition and additionally used for The Limited Gift Edition and the US Clue Card Game (he did not create the Rev. Green portrait used in the Cluedo editions).
+
+Clue "Nostalgia Edition" (2003, 2007) Hasbro began offering a retro Nostalgia edition of the game, essentially a re-issue of the 1963 design in a wooden box. A custom version of the game was also released in the US by Restoration Hardware as Wooden Box Clue with different cover art. In the UK it was released under the Cluedo brand, and was an official re-issue of the original 1949 Waddingtons' design.
+
+Clue "Vintage Edition" (2005, 2009), also released as Cluedo "Vintage Edition", Hasbro re-formatted the nostalgia edition into a "vintage" bookshelf collection along with a series of other popular boardgames. In the Cluedo version, they continued to use the 1963 design and adapted it for the UK market for the first time with localised characters and naming conventions.
+
+Franchise
+
+Main article: Cluedo (franchise)
+
+The board game spawned a franchise, which since 1985 has expanded to include a feature film, mini-series, a musical, and numerous books.
+
+Worldwide differences
+
+Besides some rule differences listed above, some versions label differently the names of characters, weapons, rooms and in some instances the actual game itself.
+
+In Canada and the U.S., the game is known as Clue. It was retitled because the traditional British board game Ludo, on which the name is based, was less well known there than its American variant Parcheesi.
+
+The North American versions of Clue also replace the character "Reverend Green" from the original Cluedo with "Mr. Green." This is the only region to continue to make such a change. Minor changes include "Miss Scarlett" with her name being spelt with one 't', the spanner being called a wrench, and the dagger renamed a knife. In the 2016 U.S. edition, the knife was changed to a dagger. And until 2003, the lead piping was known as the lead pipe only in the North American edition.
+
+In some international versions of the game (mostly the Spanish-language ones) the colours of some pieces are different, so as to correspond with the changes to each suspect's unique foreign name variations. In some cases, rooms and weapons are changed in addition to other regional variances.
+
+In South America it is licensed and sold under several different names. In particular, it is notably marketed as Detetive in Brazil.
+
+In Norway it was first released as Scotland Yard by Damm. It was later re-released as Cluedo, but the rules are the same.
+
+See also
+
+List of Cluedo characters
+
+Clue (1992 video game)
+
+Clue (1998 video game)
+
+Clue (mobile games)
+
+13 Dead End Drive (related board game)
+
+Kill Doctor Lucky (related board game and parody)
+
+Mr. Ree! (related board game)
+
+Orient Express (related board game)
+
+Whodunit (related board game)
+
+References
+
+^ a b Treneman, Ann (12 November 1998). "Mr Pratt, in the old people's home, with an empty pocket". The Independent. Archived from the original on February 10, 2015. Retrieved July 13, 2015.
+
+^ a b L. A. Petrosjan, V. V. Mazalov (2002). "Game Theory and Applications, Volume 8". p. 26. Nova Publishers
+
+^ Watson, Victor (2008). The Waddingtons Story: From the early days to Monopoly, the Maxwell bids and into the next Millennium. Huddersfield: Jeremy Mills Publishing. p. 81. ISBN 978-1-906600-36-5. Retrieved June 21, 2011.
+
+^ a b c d Tim, Walsh (2005). Timeless Toys: Classic Toys and the Playmakers Who Created Them. Kansas City MO: Andrews McMeel Publishing. pp. 84–87.
+
+^ "Archived copy". Archived from the original on September 29, 2009. Retrieved 2009-10-10.CS1 maint: archived copy as title (link)
+
+^ GB patent 586817, Pratt, Anthony Ernest, "Improvements in board games", issued April 1, 1947 
+
+^ a b "Jack Mustard, in the spa, with a baseball bat". The Guardian. 20 December 2008. Retrieved June 21, 2011.
+
+^ "The Secret of Winning at Cluedo" in Deduction Games at www.thegamesjournal.com. Retrieved 11 Feb 2019.
+
+^ How One British Soldier Turned a Parlor Game into Clue by Mary Pilon at mentalfloss.com. Retrieved 12 Feb 2019
+
+^ Mozart, Mike (2010-01-26). "Classic Toy Museum". Classictoymuseum.blogspot.com. Retrieved 2014-04-08.
+
+^ Parker Brothers - Clue (Commercial, 1979). Youtube. Retrieved 12 August 2012.
+
+^ a b c Orbanes, Phil (2003). Clue: The Great Detective Game – Memories: The Game Through The Years. Danvers, MA: Winning Moves, Inc. pp. 2, 5–6.
+
+^ Waddington's Cluedo. Youtube. Retrieved 12 August 2012.
+
+^ Dreyse M1907 WORLD WAR II
+
+^ ''Cluedo/Clue'' rules. (PDF) . Retrieved on 2011-06-15.
+
+^ a b Orbanes, Phil (1997). Limited Gift Edition Clue: The Story of Clue, Secrets of Great Clue Detectives. Hathorne, MA: Winning Moves. pp. 3–4.
+
+^ Celebrating the 60th anniversary of Cluedo The Times, 10/15/2009, by Damian Whitworth (retrieved 11/26/2009)
+
+^ National Public Radio (2008-08-08). "Hasbro Gives Clue Board Game A Makeover". Retrieved 2008-08-16.
+
+^ Who killed Cluedo's Col Mustard? by Cole Moreton, The Independent, Sunday, 17 August 2008, retrieved 10/20/09
+
+^ The makers of Cluedo have gone and killed Professor Plum Telegraph.co.uk By Robert Colvile
+Published: 12:01AM BST 15 Aug 2008 (retrieved 11/1/09)
+
+^ "Hasbro Toy Shop". Hasbrotoyshop.com. Retrieved 22 January 2017.
+
+^ Clue Master Detective at BoardGameGeek
+
+^ Portfolio Products Clue/Parker Brothers Drew Struzan Illustrated Works
+
+^ a b Nostalgia Wooden Box Edition at BoardGameGeek
+
+^ Wooden Box Clue® - No Longer Available (2014-03-27). "Restoration Hardware Wood Box Clue". Restorationhardware.com. Retrieved 2014-04-08.
+
+^ "Master detective. Modus operandi" (PDF). Retrieved 2014-04-08.
+
+External links
+
+Clue official website Hasbro (US site)
+50th Anniversary web site (at Archive.org) official 1999–2000 product line
+
+Cluedofan.com—A detailed resource, including information on film & television productions
+List of international Cluedo/Clue editions at Cluedofan.com
+
+TheArtofMurder.com – A well organized and detailed site maintained by a US collector
+
+Pete's CLUEDO fan site – A detailed site with component images from every edition of the game.
+
+Cluedo at BoardGameGeek
+
+1979 U.S. Clue television commercial
+
+U.S. Clue rules (2002)
+
+U.S. Clue rules (2011)
+
+v
+
+t
+
+e
+
+Cluedo (Clue)
+
+Spinoffs and
+
+variants 
+Cluedo: Discover the Secrets
+
+Cluedo DVD Game
+
+Books 
+Clue
+
+Clue Mysteries
+
+Video games 
+Clue VCR Mystery Game (1985)
+
+Clue (1992)
+
+Clue (1998)
+
+Clue Chronicles: Fatal Illusion (1999)
+
+Clue Classic (2008)
+
+Clue mobile games (2009)
+
+Game shows 
+Cluedo (UK)
+List of Cluedo (UK) episodes
+
+Cluedo (Australia)
+
+Other 
+Characters
+
+Clue (film)
+
+Clue (TV series)
+
+Clue (musical)
+
+Anthony E. Pratt
+
+v
+
+t
+
+e
+
+Hasbro
+
+Intellectual
+
+properties
+
+currently managed
+
+by Hasbro
+
+Toys 
+Action Man
+
+Baby Alive
+
+Blythe
+
+Easy-Bake Oven
+
+Furby
+
+G.I. Joe
+
+Glo Worm
+
+Gobots
+
+ Hanazuki
+
+Jem
+
+Koosh
+
+Kre-O
+
+Lite-Brite
+
+Littlest Pet Shop
+
+M.A.S.K.
+
+Micronauts
+
+Mighty Muggs
+
+Mr. Potato Head
+
+My Little Pony
+
+Nerf
+
+Play-Doh
+
+Pound Puppies
+
+Rom the Space Knight
+
+Rubik's Cube
+
+Sit 'n Spin
+
+Spirograph
+
+Stickle Bricks
+
+Stretch Armstrong
+
+Super Soaker
+
+Tinkertoy
+
+Tonka
+
+Transformers
+
+Visionaries
+
+Weeble
+
+Games 
+Acquire
+
+Aggravation
+
+Axis & Allies
+
+Barrel of Monkeys
+
+Battleship
+
+Boggle
+
+Bop It
+
+Buckaroo!
+
+Candy Land
+
+Catch Phrase
+
+Chutes & Ladders
+
+Clue
+
+Connect 4
+
+Cootie
+
+Cranium
+
+Crocodile Dentist
+
+Designer's World
+
+Elefun
+
+Gator Golf
+
+Girl Talk
+
+Guess Who?
+
+Hi Ho! Cherry-O
+
+Hungry Hungry Hippos
+
+Jenga
+
+Lazer Tag
+
+Life
+
+Mall Madness
+
+Milton
+
+Monopoly
+
+Mouse Trap
+
+Mystery Date
+
+Nerf Blaster
+
+Operation
+
+Ouija
+
+Parcheesi
+
+Perfection
+
+Pictionary
+
+Pit
+
+Risk
+
+Rook
+
+Scattergories
+
+Scrabble (U.S. and Canada)
+
+Simon
+
+Sorry!
+
+Stratego
+
+Taboo
+
+Trivial Pursuit
+
+Trouble
+
+Twister
+
+Upwords
+
+Yahtzee
+
+Wizards of the Coast 
+Duel Masters
+
+Dungeons & Dragons
+
+Magic: The Gathering
+
+From
+
+Saban Brands 
+Beetleborgs
+
+Glitter Force/Glitter Force Doki-Doki
+
+Julius Jr.
+
+Luna Petunia
+
+My Pet Monster
+
+Mystic Knights of Tir Na Nog
+
+Popples
+
+Power Rangers
+
+Treehouse Detectives
+
+V.R. Troopers
+
+eOne 
+Ben & Holly's Little Kingdom
+
+Cupcake & Dino: General Services
+
+The Magic Hockey Skates
+
+Pat & Stan
+
+Peppa Pig
+
+PJ Masks
+
+Ricky Zoom
+
+Winston Steinburger and Sir Dudley Ding Dong
+
+Distributed worldwide
+
+by Hasbro 
+Beyblade (except Japan and parts of Asia)
+
+CirKis (except U.S., UK, France and Germany)
+
+FurReal Friends (except Japan)
+
+iDog (except Japan)
+
+Yo-kai Watch (except Asia)
+
+Zoids (except Japan)
+
+Licensed products 
+Are You Smarter than a 5th Grader?
+
+Disney
+Disney Princess
+
+Elena of Avalor
+
+Frozen
+
+Lucasfilm
+Indiana Jones
+
+Star Wars
+
+Marvel
+Marvel Legends
+
+Marvel Super Hero Squad
+
+Marvel Universe
+
+Spider-Man Classics
+
+20th Century Studios
+The Simpsons
+
+Titan A.E.
+
+Idaten Jump
+
+Nickelodeon
+
+Activision Blizzard
+Overwatch
+
+Sesame Street
+
+Strawberry Shortcake
+
+Sid the Science Kid
+
+STX
+Uglydolls
+
+NBCUniversal
+Jurassic Park
+
+Shrek
+
+Trolls
+
+Sony Pictures
+Ghostbusters
+
+Subsidiaries 
+Nerf
+
+Playskool
+
+Tiger Electronics
+
+Tonka
+
+Wizards of the Coast
+Archetype Entertainment
+
+Avalon Hill
+
+Tuque Games
+
+Entertainment and licensing
+Allspark
+
+Boulder Media
+
+Discovery Family (40%)
+
+Entertainment One
+
+Other media 
+Comics
+
+Films
+
+Television programs
+
+Conventions 
+Auto Assembly
+
+BotCon
+
+HasCon
+
+TFcon
+
+See also 
+Claster Television
+
+Hasbro Universe
+Comic Book
+
+Fun Publications
+
+Saban Capital Group
+
+v
+
+t
+
+e
+
+Waddingtons
+
+Games 
+4000 A.D.
+
+Air Charter
+
+Black Box
+
+Buccaneer
+
+Careers
+
+Cluedo
+
+Escape from Atlantis
+
+Equals
+
+Formula 1
+
+Game of Nations
+
+Monopoly
+
+Mine a Million
+
+Risk
+
+Scoop!
+
+Sorry!
+
+Subbuteo
+
+Totopoly
+
+Travel Go
+
+Whot!

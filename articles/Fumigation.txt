@@ -1,0 +1,205 @@
+A residential property in Los Angeles, subject to tent fumigation or "tenting".
+
+Fumigation of a hotel (Vila Shanti) in Bali where the smoke even reaches the hotel lobby (Feb 2010).
+
+Fumigation is a method of pest control that completely fills an area with gaseous pesticides—or fumigants—to suffocate or poison the pests within. It is used to control pests in buildings (structural fumigation), soil, grain, and produce, and is also used during processing of goods to be imported or exported to prevent transfer of exotic organisms. This method also affects the structure itself, affecting pests that inhabit the physical structure, such as woodborers and drywood termites.
+
+Contents
+
+1 Process
+
+2 Tent fumigation
+
+3 Operating theatres
+
+4 Chemicals
+
+5 Safety
+
+6 See also
+
+7 Early publication
+
+8 References
+
+9 External links
+
+Process
+
+Fumigation generally involves the following phases: First, the area intended for fumigation is covered to create a sealed environment. Next, the fumigant is released into the space to be fumigated. The space is held for a set period while the fumigant gas percolates through the space and acts on/kills any infestation in the area. Finally, the space is ventilated so that the poisonous gases are allowed to escape from the space, rendering it safe for humans to enter. If successful, the fumigated area is now safe and pest free.
+
+Tent fumigation
+
+Structural fumigation techniques differ from building to building. In a residential setting, a "rubber" tent or tents, typically made of plastic/pvc coated canvas material, may be placed over the entire house while the pesticides are being released into the vacant residence. This process is called tent fumigation, or "tenting". The sealed tent concentrates the poisonous gases and prevents them from escaping into the neighborhood. The process can take up to a week depending on the fumigant used, which is in turn, dependent on the temperature and the pest.
+
+Operating theatres
+
+Fumigation of hospital rooms with high concentrations of toxic chemicals has been proposed to reduce microbial agents on hospital surfaces and to control surgical site infections. Formaldehyde fumigation has long been an accepted method for areas where microbiological cleanliness is required. Fumigation with formaldehyde vapor is the recognized and most commonly used method because it is a cost-effective procedure. However, alternative methods are sought due to safety and efficacy concerns. Vaporized hydrogen peroxide is a dry gaseous method that has been used as a reliable alternative for aseptic processing isolators, and more recently, for room/facility decontamination. hydrogn peroxide and silver in solution, this is non-toxic, eco-friendly, chlorine-free, non-mutagenic agents.various forms of H2O2 is available, having the concentration of 10% H2O2 with acidic pH and odorless.
+
+It is diluted in water and does not coast material. Follow this example for calculation, for 1000 ft3 of the area to be fumigated use 20%(i.e. 200 ml of solution in 800 ml demineralized water). and spray it for 30 minutes by using fogger. fogging may be done at 130ml/minute rate. the contact time shall be at least one hour. journal |doi=10.1177/153567600501000206 |title=Area Fumigation with Hydrogen Peroxide Vapor |journal=Applied Biosafety |volume=10 |issue=2 |pages=91–100 |year=2005 |last1=Meszaros |first1=J. E. |last2=Antloga |first2=K. |last3=Justi |first3=C. |last4=Plesnicher |first4=C. |last5=McDonnell |first5=G. |doi-access=free }}</ref>
+
+Chemicals
+
+Methyl bromide was among the most widely used fumigants until its production and use was restricted by the Montreal Protocol due to its role in ozone depletion.
+
+1,3-dichloropropene
+
+dazomet (methyl isothiocyanate precursor)
+
+chloropicrin
+
+DBCP
+
+formaldehyde
+
+hydrogen cyanide
+
+iodoform
+
+methyl isocyanate
+
+phosphine
+
+sulfuryl fluoride
+
+Safety
+
+Fumigation is a hazardous operation. Generally it is a legal requirement that the operator who carries out the fumigation operation holds official certification to perform the fumigation, as the chemicals used are toxic to most forms of life, including humans.
+
+Post operation ventilation of the area is a critical safety aspect of fumigation. It is important to distinguish between the pack or source of the fumigant gas and the environment which has been fumigated. While the fumigant pack may be safe and spent, the space will still hold the fumigant gas until it has been ventilated.
+
+See also
+
+ISPM 15
+
+Early publication
+
+W. G. Johnson, Fumigation Methods (New York, 1902)
+
+References
+
+^ a b Baur, Fred (1984-12-01). Insect Management for Food Storage and Processing. American Ass. of Cereal Chemists. pp. 162–165. ISBN 978-0-913250-38-9.
+
+^ Byrns, G.; Fuller, T. P. (2011). "The risks and benefits of chemical fumigation in the health care environment". Journal of Occupational and Environmental Hygiene. 8 (2): 104–12. doi:10.1080/15459624.2011.547453. PMID 21253983.
+
+^ hydrogen peroxide as per recommendations by different regulatory authorities 
+
+^ Messenger, Belinda; Braun, Adolf (2000). "Alternatives to Methyl Bromide for the Control of Soil-Borne Diseases and Pests in California" (PDF). Pest Management Analysis and Planning Program. California Department of Pesticide Regulation. Archived from the original (PDF) on April 21, 2010. Retrieved March 1, 2016.
+
+^ Decanio, Stephen J.; Norman, Catherine S. (2005). "Economics of the 'critical use' of methyl bromide under the Montreal Protocol". Contemporary Economic Policy. 23 (3): 376–393. doi:10.1093/cep/byi028. SSRN 904751.
+
+External links
+
+ Wikimedia Commons has media related to Fumigation.
+
+National Pesticide Information Center
+
+v
+
+t
+
+e
+
+Pesticides
+
+Pesticide types 
+Acaricide
+
+Bactericide
+
+Biocide
+
+Bioherbicide
+
+Biopesticide
+
+Fungicide
+
+Herbicide
+
+Insecticide
+
+Molluscicide
+
+Nematicide
+
+Piscicide
+
+Rodenticide
+
+Slimicide
+
+Related topics 
+Health effects
+
+Environmental effects
+
+Fumigation
+
+Agricultural spray adjuvant
+
+Biological pest control
+
+Gene silencing
+
+Green pest management
+
+Integrated pest management
+
+Maximum residue limit
+
+Non-pesticide management
+
+Persistent organic pollutant
+
+Pest control
+
+Application
+
+Drift
+
+Formulation
+
+Degradation
+
+Misuse
+
+Paradox of the pesticides
+
+Poisoning
+
+Research
+
+Residue
+
+Resistance
+
+Bee toxicity
+
+Restricted use
+
+Pesticide Action Network
+
+Silent Spring
+
+The Pesticide Question
+
+Toxicity Class
+
+By country 
+Canada
+
+European Union
+
+New Zealand
+
+United States
+
+Integrated Pest Management
+
+Index of pesticide articles
+
+Pesticide categories
+
+Authority control 
+NDL: 00567005

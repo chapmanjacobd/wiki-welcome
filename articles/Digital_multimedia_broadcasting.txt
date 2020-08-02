@@ -1,0 +1,848 @@
+"The South Korean digital TV standard
+
+List of digital television broadcast standards
+
+DVB standards (countries)
+
+DVB-T (terrestrial)
+DVB-T2
+
+DVB-S (satellite)
+DVB-S2
+
+DVB-S2X
+
+DVB-C (cable)
+DVB-C2
+
+DVB-H (handheld)
+DVB-NGH
+
+DVB-T2-Lite
+
+DVB-SH (satellite)
+
+ATSC standards (countries)
+
+ATSC (terrestrial/cable)
+ATSC 2.0
+
+ATSC 3.0
+
+ATSC-M/H (mobile/handheld)
+
+ISDB standards (countries)
+
+ISDB-T (terrestrial)
+SBTVD / ISDB-T International
+
+1seg (handheld)
+ISDB-Tmm
+
+ISDB-Tsb (radio)
+
+ISDB-S (satellite)
+ISDB-S3
+
+ISDB-C (cable)
+
+DTMB standards (countries)
+
+DTMB (terrestrial)
+DTMB-A
+
+CMMB (handheld)
+
+DMB standard (countries)
+
+T-DMB (terrestrial)
+
+S-DMB (satellite)
+
+Codecs
+
+Video
+H.265/MPEG-H HEVC
+
+H.264/MPEG-4 AVC
+
+H.262/MPEG-2 Part 2
+
+VC-1
+
+AVS
+
+Audio
+MPEG-H
+
+HE-AAC
+
+AAC
+
+AC-4
+
+E-AC-3
+
+AC-3
+
+MP3
+
+MP2
+
+Terrestial Frequency bands
+
+VHF
+
+UHF
+
+SHF
+
+v
+
+t
+
+e
+
+Digital multimedia broadcasting (DMB) is a digital radio transmission technology developed in South Korea as part of the national IT project for sending multimedia such as TV, radio and datacasting to mobile devices such as mobile phones, laptops and GPS navigation systems. This technology, sometimes known as mobile TV, should not be confused with Digital Audio Broadcasting which was developed as a research project for the European Union. DMB was developed in South Korea as the next generation digital technology to replace FM radio, but the technological foundations were laid by Prof. Dr. Gert Siegle and Dr. Hamed Amor at Robert Bosch GmbH in Germany. The world's first official mobile TV service started in South Korea in May 2005, although trials were available much earlier. It can operate via satellite (S-DMB) or terrestrial (T-DMB) transmission. DMB has also some similarities with the main competing mobile TV standard, DVB-H.
+
+Contents
+
+1 S-DMB
+
+2 T-DMB
+
+3 Smart DMB
+
+4 HD DMB
+
+5 Countries using DMB
+
+5.1 South Korea
+
+5.2 Other countries
+
+6 DMB in automobiles
+
+7 See also
+
+8 References
+
+9 External links
+
+S-DMB
+
+Main article: S-DMB
+
+T-DMB
+
+T-DMB is made for terrestrial transmissions on band III (VHF) and L (UHF) frequencies. DMB is unavailable in the United States because those frequencies are allocated for television broadcasting (VHF channels 7 to 13) and military applications. USA is adopting ATSC-M/H for free broadcasts to mobiles, and Qualcomm's proprietary MediaFLO system was used there. In Japan, 1seg is the standard, using ISDB.
+
+T-DMB uses MPEG-4 Part 10 (H.264) for the video and MPEG-4 Part 3 BSAC or HE-AAC v2 for the audio. The audio and video is encapsulated in an MPEG transport stream (MPEG-TS). The stream is forward error corrected by Reed Solomon encoding and the parity word is 16 bytes long. There is convolutional interleaving made on this stream, then the stream is broadcast in data stream mode on DAB. In order to diminish the channel effects such as fading and shadowing, the DMB modem uses OFDM-DQPSK modulation. A single-chip T-DMB receiver is also provided by an MPEG transport stream demultiplexer. DMB has several applicable devices such as mobile phone, portable TV, PDA and telematics devices for automobiles.
+
+T-DMB is an  standard (TS 102 427 and TS 102 428). As of December 14, 2007, ITU formally approved T-DMB as the global standard, along with three other standards, like DVB-H, 1seg, and MediaFLO.
+
+Smart DMB
+
+Smart DMB started in January 2013 in South Korea. Smart DMB has a VOD service and quality has been improved from 240p to 480p. Smart DMB is built in many Korean smartphones starting with the Galaxy Grand in January 2013.
+
+HD DMB
+
+HD DMB started in August 2016 in South Korea. HD DMB has been improved from 240p to 720p. It uses HEVC.5 codec. There are currently 6 HD DMB stations in Seoul. Smartphones integrated Qualcomm Snapdragon 801 or higher received firmware upgrade to support HD DMB.
+
+Countries using DMB
+
+Currently, DMB is being put into use in a number of countries, although mainly used in South Korea. Also see list of Countries using DAB/DMB.
+
+South Korea
+
+In 2005, South Korea became the world's first country to start S-DMB and T-DMB service on May 1 and December 1, respectively. In December 2006, T-DMB service in South Korea consists of, 7 TV channels, 12 radio channels, and 8 data channels. These are broadcast on six multiplexes in the VHF band on TV channels 8 and 12 (6 MHz raster). In October 2007, South Korea added broadcasting channel MBCNET to the DMB channel. But in 2010, this channel changed tnN go. In 2009 there were eight DMB video channels in Seoul, and six in other metropolitan cities. As of April 2013, S-DMB service in South Korea consists of 15 TV channels, 2 radio channels and 6 data channels.
+
+South Korea has had Full T-DMB services including JSS (Jpeg Slide Show), DLS (Dynamic Label Segment), BWS, and TPEG since 2006.
+
+S-DMB service in South Korea is provided on a subscription basis through TU Media and is accessible throughout the country. T-DMB service is provided free of charge, but access is limited to selected regions.
+
+Around one million receivers have been sold as of June 2006. 14 million DMB receivers were sold including T-DMB and S-DMB in South Korea, and 40% of the new cell phones have the capability to see DMB.
+
+Receivers are integrated in car navigation systems, mobile phones, portable media players, laptop computers and digital cameras. In mid-August 2007, Iriver, a multimedia and micro-technology company released their "NV", which utilizes South Korea's DMB service.
+
+Since the advent of smartphones DMBs have been made available on phones with receivers through smartphone applications, most of which come pre-installed in phones made and sold in Korea.
+
+Other countries
+
+Some T-DMB trials are currently available or planned around Europe and other countries:
+
+In Norway T-DMB services have been available since May 2009. MiniTV DMB service launched by the Norwegian Mobile TV Corporation (NMTV) is backed by the three largest broadcasters in Norway: the public broadcaster NRK, TV2 and Modern Times Group (MTG). The live channels can be viewed in and around Greater Oslo.
+
+Germany's Mobiles Fernsehen Deutschland (MFD) launched the commercial T-DMB service "Watcha" in June 2006, in time for the World Cup 2006, marketed together with Samsung's P900 DMB Phone, the first DMB Phone in Europe. It was stopped in April 2008 as MFD is now favouring DVB-H, the European standard.
+
+France on December 2007 chose T-DMB Audio in VHF band III and L band as the national standard for terrestrial digital radio.. It was replaced later by DAB+.
+
+China in 2006 chose DAB as an industrial standard. Since 2007 DAB and T-DMB services broadcast in Beijing, Guangdong, Henan, Dalian, Yunnan, Liaoning, Hunan, Zhejiang, Anhui, and Shenzhen.
+
+In Mexico most cell phone carriers offer DMB broadcasting as part of their basic plans. As of 2008 the vast majority of Mexico receives DMB signals.
+
+Ghana is running a T-DMB service in Accra and Kumasi on mobile network since May 2008.
+
+Netherlands: MFD, T-Systems and private investors are planning a DMB service under the name Mobiel TV Nederland. Callmax will also deploy a DMB service on the L-Band frequency in the Netherlands.
+
+Indonesia is currently running a trial in Jakarta.
+
+Italy and Vatican City: RAI and Vatican Radio are currently running a trial some areas.
+
+Canada has been running trials since 2006 in Ottawa, Toronto, Vancouver and Montreal, done by CBC/Radio-Canada.
+
+Malaysia has been running trials since 2008 in KL, done by TV3/MPB. Initially, the government was committed to deploying DVB-T for government-owned channels, however as of December 2009, RTM1 and 2, as well as all the radio channels, are available over Band III for DMB-T as in addition to DVB-T. Additionally, the TV3 DMB signal has moved to L Band. The TV3 DMB signals are still limited to the Damansara and Kuala Lumpur area, while the government owned DMB-T signals have a wider coverage and apparently covers most of the Klang Valley area. The government transmissions are part of a two-year trial that is part of a test that also involves the DAB and DAB+ digital radio standard.
+
+Cambodia on August 2010 chose T-DMB as the national standard for terresetrial digital broadcasting. TVK is currently running a trial.
+
+DMB in automobiles
+
+See also: Software-defined radio and Car audio
+
+T-DMB works flawlessly in vehicles traveling up to 300 km/h. In tunnels or underground areas, both television and radio broadcast is still available, though DMB may skip occasionally. In South Korea, some long distance buses adopted T-DMB instead of satellite TV such as Sky TV. It works quite well even though the resolution is 240p, lower than satellite. In comparison, satellite is usually 480p or higher.
+
+See also
+
+1seg
+
+China Multimedia Mobile Broadcasting (CMMB)
+
+Digital Audio Broadcasting (DAB)
+
+Digital Radio Mondiale (DRM)
+
+Digital Video Broadcasting (DVB)
+
+ETSI Satellite Digital Radio (SDR)
+
+FMeXtra
+
+Handheld projector
+
+Internet radio device
+
+International Journal of Digital Multimedia Broadcasting
+
+Multimedia Broadcast Multicast Service
+
+Satellite radio
+
+Satellite television
+
+WiBro
+
+WiMAX
+
+WorldDMB
+
+DVB-H
+
+References
+
+^ "Korea's Terrestrial DMB: Germany to begin broadcast this May". ZDNet Korea. Retrieved 2010-06-17.
+
+^ "picturephoning.com: DMB". Textually.org. Archived from the original on 2010-08-09. Retrieved 2010-06-17.
+
+^ "South Korea : Social Media 답변 내용 : 악어새 - 리포트월드". Reportworld.co.kr. Archived from the original on 2009-08-17. Retrieved 2010-06-17.
+
+^ "The Introduction of DMB in Korea" (PDF). Ericemoon.googlepages.com. Retrieved 2010-06-17.
+
+^ "Sichere Bewegtbildübertragung zum mobilen Teilnehmer". deutscher-zukunftspreis.de. 1998. Archived from the original on 2013-06-28. Retrieved 2019-11-27.
+
+^ "T-DMB". Eng.t-dmb.org. Archived from the original on 2010-02-13. Retrieved 2010-06-17.
+
+^ "ITU approves Mobile TV Standards". Koreatimes.co.kr. Retrieved 2010-06-17.
+
+^ "Smart DMB starting with Samsung Phones". 아이뉴스24 (iNews 24). Retrieved 2013-01-20 
+
+^ "AsiaMedia :: KOREA: Cell phone-based broadcasting starts". Asiamedia.ucla.edu. Archived from the original on 2011-09-28. Retrieved 2010-06-17.
+
+^ "AsiaMedia :: KOREA: KBS to start terrestrial mobile television services next month". Asiamedia.ucla.edu. 2005-11-22. Archived from the original on 2010-07-21. Retrieved 2010-06-17.
+
+^ "South Korea". WorldDMB. Archived from the original on 10 July 2017. Retrieved 12 July 2015.
+
+^ DMB users shout in the metro coming home, Daily economics
+
+^ "Norway launches mobile TV via DMB". Broadbandtvnews.com. 2009-05-18. Retrieved 2010-06-17.
+
+^ Broadband TV news: MFD hands back German T-DMB licence, May 1, 2008
+
+^ "Country Information for DAB, DAB+ and DMB -France (WorldDMB)". Worlddab.org. 2008-01-18. Archived from the original on 2010-06-25. Retrieved 2010-06-17.
+
+^ WorldDAB - Country Information - France Archived 2015-02-20 at the Wayback Machine Worlddab.org, on 2017-06-14
+
+^ "Country Information for DAB, DAB+ and DMB -China (WorldDMB)". Worlddab.org. Archived from the original on 2010-08-15. Retrieved 2010-06-17.
+
+^ "Country Information for DAB, DAB+ and DMB -Ghana (WorldDMB)". Worlddab.org. Archived from the original on 2011-07-22. Retrieved 2010-06-17.
+
+^ Emerce Digitale omroep gaat concurrentie aan met KPN MobielTV, Februari 12, 2009
+
+^ "RAIWay". RAIWay. Archived from the original on 2011-07-22. Retrieved 2010-06-17.
+
+^ Webteam. "Web TV and T-DMB programmes". Vatican Radio. Archived from the original on 2010-03-07. Retrieved 2010-06-17.
+
+^ "CBC/Radio-Canada Conducts Field Trials with Mobile Broadcast Multimedia".
+
+^ http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=001&aid=0004620658
+
+External links
+
+Mobile Multimedia Broadcasting Standards: Technology and Practice, Ed. Fa-Long Luo, Springer, 2008)
+
+v
+
+t
+
+e
+
+Broadcast video formats
+
+Television
+
+Analog
+
+525 lines 
+System M
+
+NTSC
+
+NTSC-J
+
+PAL-M
+
+625 lines 
+PAL
+System B
+
+System D
+
+System G
+
+System H
+
+System I
+
+System K
+
+PAL-N
+
+PALplus
+
+SECAM
+System B
+
+System D
+
+System G
+
+System K
+
+System L (SECAM-L)
+
+Audio 
+BTSC (MTS)
+
+EIAJ
+
+NICAM
+
+SAP
+
+Sound-in-Syncs
+
+Zweikanalton (A2/IGR)
+
+Hidden signals 
+Captioning
+
+CGMS-A
+
+EPG
+
+GCR
+
+PDC
+
+Teletext
+
+VBI
+
+VEIL
+
+VIT
+
+VITC
+
+WSS
+
+XDS
+
+Historical 
+Pre-1940
+
+Mechanical television
+
+180-line
+
+405-line
+System A
+
+441-line
+
+819-line
+
+MAC
+
+MUSE
+
+Digital
+
+Interlaced 
+SDTV
+480i
+
+576i
+
+HDTV
+1080i
+
+Progressive 
+LDTV
+1seg
+
+240p
+
+288p
+
+EDTV
+480p
+
+576p
+
+HDTV
+720p
+
+1080p
+
+UHDTV
+2160p
+
+4320p
+
+MPEG-2 standards 
+ATSC
+
+DVB
+DVB 3D-TV
+
+ISDB
+
+DTMB
+
+MPEG-4 AVC standards 
+ATSC A/72
+
+DMB
+
+DTMB
+
+DVB
+
+SBTVD
+
+1seg
+
+HEVC standards 
+ATSC 3.0
+
+HD DMB
+
+Audio 
+AC-3 (5.1)
+
+AC-4
+
+DTS
+
+MPEG-1 Audio Layer II
+
+MPEG Multichannel
+
+PCM
+
+LPCM
+
+AAC
+
+HE-AAC
+
+MPEG-H 3D Audio
+
+Hidden signals 
+AFD
+
+Broadcast flag
+
+Captioning
+
+CPCM
+
+EPG
+
+Teletext
+
+Technical issues
+
+14:9 compromise
+
+Broadcast-safe
+
+Digital cinema (DCI)
+
+Display motion blur
+
+Moving image formats
+
+MPEG transport stream
+
+Reverse Standards Conversion
+
+Standards conversion
+
+Television transmitter
+
+Test card
+
+Video on demand
+
+Video processing
+
+Widescreen signaling
+
+Templates (Analogue TV Topics)
+
+v
+
+t
+
+e
+
+Telecommunications
+
+History 
+Beacon
+
+Broadcasting
+
+Cable protection system
+
+Cable TV
+
+Communications satellite
+
+Computer network
+
+Data compression
+audio
+
+DCT
+
+image
+
+video
+
+Digital media
+Internet video
+
+online video platform
+
+social media
+
+streaming
+
+Drums
+
+Edholm's law
+
+Electrical telegraph
+
+Fax
+
+Heliographs
+
+Hydraulic telegraph
+
+Information Age
+
+Information revolution
+
+Internet
+
+Mass media
+
+Mobile phone
+Smartphone
+
+Optical telecommunication
+
+Optical telegraphy
+
+Pager
+
+Photophone
+
+Prepaid mobile phone
+
+Radio
+
+Radiotelephone
+
+Satellite communications
+
+Semaphore
+
+Semiconductor
+device
+
+MOSFET
+
+transistor
+
+Smoke signals
+
+Telecommunications history
+
+Telautograph
+
+Telegraphy
+
+Teleprinter (teletype)
+
+Telephone
+
+The Telephone Cases
+
+Television
+digital
+
+streaming
+
+Undersea telegraph line
+
+Videotelephony
+
+Whistled language
+
+Wireless revolution
+
+Pioneers 
+Nasir Ahmed
+
+Edwin Howard Armstrong
+
+Mohamed M. Atalla
+
+John Logie Baird
+
+Paul Baran
+
+John Bardeen
+
+Alexander Graham Bell
+
+Tim Berners-Lee
+
+Jagadish Chandra Bose
+
+Walter Houser Brattain
+
+Vint Cerf
+
+Claude Chappe
+
+Yogen Dalal
+
+Donald Davies
+
+Lee de Forest
+
+Philo Farnsworth
+
+Reginald Fessenden
+
+Elisha Gray
+
+Oliver Heaviside
+
+Erna Schneider Hoover
+
+Harold Hopkins
+
+Internet pioneers
+
+Bob Kahn
+
+Dawon Kahng
+
+Charles K. Kao
+
+Narinder Singh Kapany
+
+Hedy Lamarr
+
+Innocenzo Manzetti
+
+Guglielmo Marconi
+
+Robert Metcalfe
+
+Antonio Meucci
+
+Jun-ichi Nishizawa
+
+Radia Perlman
+
+Alexander Stepanovich Popov
+
+Johann Philipp Reis
+
+Claude Shannon
+
+Henry Sutton
+
+Nikola Tesla
+
+Camille Tissot
+
+Alfred Vail
+
+Charles Wheatstone
+
+Vladimir K. Zworykin
+
+Transmission
+
+media 
+Coaxial cable
+
+Fiber-optic communication
+optical fiber
+
+Free-space optical communication
+
+Molecular communication
+
+Radio waves
+wireless
+
+Transmission line
+data transmission circuit
+
+telecommunication circuit
+
+Network topology
+
+and switching 
+Bandwidth
+
+Links
+
+Nodes
+terminal
+
+Network switching (circuit
+
+packet)
+
+Telephone exchange
+
+Multiplexing 
+Space-division
+
+Frequency-division
+
+Time-division
+
+Polarization-division
+
+Orbital angular-momentum
+
+Code-division
+
+Concepts 
+Communication protocols
+
+Computer network
+
+Data transmission
+
+Store and forward
+
+Telecommunications equipment
+
+Types of network 
+Cellular network
+
+Ethernet
+
+ISDN
+
+LAN
+
+Mobile
+
+NGN
+
+Public Switched Telephone
+
+Radio
+
+Television
+
+Telex
+
+UUCP
+
+WAN
+
+Wireless network
+
+Notable networks 
+ARPANET
+
+BITNET
+
+CYCLADES
+
+FidoNet
+
+Internet
+
+Internet2
+
+JANET
+
+NPL network
+
+Usenet
+
+Locations (by regions) 
+Africa
+
+Americas (North & South)
+
+Antarctica
+
+Asia
+
+Europe
+
+Oceania
+
+ Category
+
+ Outline
+
+ Portal
+
+ Commons

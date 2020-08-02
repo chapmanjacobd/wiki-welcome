@@ -1,0 +1,1466 @@
+"Not to be confused with the athlete Albert Michelsen.
+
+Albert A. Michelson
+
+Born (1852-12-19)December 19, 1852
+
+Strzelno, Kingdom of Prussia (modern Poland)
+
+Died May 9, 1931(1931-05-09) (aged 78)
+
+Pasadena, California
+
+Nationality United States
+
+Alma mater United States Naval Academy
+
+University of Berlin
+
+Known for Speed of light
+
+Hyperfine structure
+
+Fine structure
+
+Michelson–Morley experiment
+
+Michelson–Gale–Pearson experiment
+
+Michelson interferometer
+
+Michelson stellar interferometer
+
+Spouse(s) Margaret Hemingway
+
+​
+
+(m. 1877; div. 1898)
+
+; 3 children
+
+Edna Stanton (m. 1899)
+
+; 3 children
+
+Awards Matteucci Medal (1903)
+
+Nobel Prize in Physics (1907)
+
+Copley Medal (1907)
+
+Elliott Cresson Medal (1912)
+
+Henry Draper Medal (1916)
+
+Albert Medal (1920)
+
+Franklin Medal (1923)
+
+Duddell Medal and Prize (1929)
+
+Scientific career
+
+Fields Physics
+
+Institutions Case Western Reserve University
+
+Clark University
+
+University of Chicago
+
+Doctoral advisor Hermann Helmholtz
+
+Other academic advisors Georg Hermann Quincke
+
+Alfred Cornu
+
+Doctoral students Robert Millikan
+
+Signature
+
+Albert Abraham Michelson FFRS HFRSE (December 19, 1852 – May 9, 1931) was an American physicist known for his work on measuring the speed of light and especially for the Michelson–Morley experiment. In 1907 he received the Nobel Prize in Physics, becoming the first American to win the Nobel Prize in a science. He was the founder and the first head of the physics department of the University of Chicago.
+
+Contents
+
+1 Life
+
+2 Family
+
+3 Speed of light
+
+3.1 Early measurements
+
+3.2 Mount Wilson and Lookout Mountain
+
+3.3 Michelson, Pease, and Pearson
+
+3.4 Application of Basic Statistical Principles in Michelson’s Study of Speed of Light
+
+3.5 Michelson–Morley interferometry experiment
+
+4 Astronomical interferometry
+
+5 Michelson in popular culture
+
+6 Honors and awards
+
+7 See also
+
+8 Notes
+
+9 References
+
+10 External links
+
+Life
+
+Michelson was born in Strzelno, Province of Posen in now Poland (under German occupation), the son of Samuel Michelson, a Jewish merchant and his wife, Rozalia Przyłubska, a daughter of a Polish merchant. He moved to the US with his parents in 1855, at the age of two. He grew up in the mining towns of Murphy's Camp, California and Virginia City, Nevada, where his father was a merchant. His family was Jewish by birth but non-religious, and Michelson himself was a lifelong agnostic. He spent his high school years in San Francisco in the home of his aunt, Henriette Levy (née Michelson), who was the mother of author Harriet Lane Levy.
+
+President Ulysses S. Grant awarded Michelson a special appointment to the U.S. Naval Academy in 1869. During his four years as a midshipman at the Academy, Michelson excelled in optics, heat, climatology and drawing. After graduating in 1873 and two years at sea, he returned to the Naval Academy in 1875 to become an instructor in physics and chemistry until 1879. In 1879, he was posted to the Nautical Almanac Office, Washington (part of the United States Naval Observatory), to work with Simon Newcomb. In the following year he obtained leave of absence to continue his studies in Europe. He visited the Universities of Berlin and Heidelberg, and the Collège de France and École Polytechnique in Paris.
+
+Michelson was fascinated with the sciences, and the problem of measuring the speed of light in particular. While at Annapolis, he conducted his first experiments on the speed of light, as part of a class demonstration in 1877. His Annapolis experiment was refined, and in 1879, he measured the speed of light in air to be 299,864 ± 51 kilometres per second, and estimated the speed of light in vacuum as 299,940 km/s, or 186,380 mi/s. After two years of studies in Europe, he resigned from the Navy in 1881. In 1883 he accepted a position as professor of physics at the Case School of Applied Science in Cleveland, Ohio and concentrated on developing an improved interferometer. In 1887 he and Edward Morley carried out the famous Michelson–Morley experiment which failed to detect evidence of the existence of the luminiferous ether. He later moved on to use astronomical interferometers in the measurement of stellar diameters and in measuring the separations of binary stars.
+
+In 1889 Michelson became a professor at Clark University at Worcester, Massachusetts and in 1892 was appointed professor and the first head of the department of physics at the newly organized University of Chicago.
+
+In 1898, he noted the Gibbs phenomenon in Fourier analysis on a mechanical computer that was constructed by him.
+
+In 1907, Michelson had the honor of being the first American to receive a Nobel Prize in Physics "for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid". He also won the Copley Medal in 1907, the Henry Draper Medal in 1916 and the Gold Medal of the Royal Astronomical Society in 1923. A crater on the Moon is named after him.
+
+Michelson died in Pasadena, California at the age of 78. The University of Chicago Residence Halls remembered Michelson and his achievements by dedicating 'Michelson House' in his honor. Case Western Reserve has dedicated a Michelson House to him, and Michelson Hall (an academic building of science classrooms, laboratories and offices) at the United States Naval Academy also bears his name. Michelson Laboratory at Naval Air Weapons Station China Lake in Ridgecrest, California is named for him. There is a display in the publicly accessible area of the Lab which includes facsimiles of Michelson's Nobel Prize medal, the prize document, and examples of his diffraction gratings.
+
+Numerous awards, lectures, and honors have been created in Albert A. Michelson's name. Some of the current awards and lectures named for Michelson include the following: the Bomem-Michelson Award and Lecture annually presented until 2017 by the Coblentz Society; the Michelson–Morley Award and Lecture, along with the Michelson Lecture Series, and the Michelson Postdoctoral Prize Lectureship, all of which are given annually by Case Western Reserve University; the A.A. Michelson Award presented every year by the Computer Measurement Group; the Albert A. Michelson Award given by the Navy League of the United States; and the Michelson Memorial Lecture Series presented annually by the Division of Mathematics and Science at the U.S. Naval Academy.
+
+Family
+
+In 1877 Michelson married Margaret Hemingway, daughter of a wealthy New York stockbroker and lawyer and the niece of his commander William T. Sampson. They had two sons and a daughter.
+
+In 1899, he married Edna Stanton. They raised three daughters.
+
+Speed of light
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2017) (Learn how and when to remove this template message)
+
+Page one of Michelson's Experimental Determination of the Velocity of Light
+
+Concluding page of Michelson's Experimental Determination of the Velocity of Light
+
+Early measurements
+
+Michelson was fascinated by light all his life. Once asked why he studied light, he said, ‘’because it’s so much fun.’’ 
+
+As early as 1869, while serving as an officer in the United States Navy, Michelson started planning a repeat of the rotating-mirror method of Léon Foucault for measuring the speed of light, using improved optics and a longer baseline. He conducted some preliminary measurements using largely improvised equipment in 1878, about the same time that his work came to the attention of Simon Newcomb, director of the Nautical Almanac Office who was already advanced in planning his own study.
+
+Michelson's formal experiments took place in June and July 1879. He constructed a frame building along the north sea wall of the Naval Academy to house the machinery. Michelson published his result of 299,910 ± 50 km/s in 1879 before joining Newcomb in Washington DC to assist with his measurements there. Thus began a long professional collaboration and friendship between the two.
+
+Simon Newcomb, with his more adequately funded project, obtained a value of 299,860 ± 30 km/s, just at the extreme edge of consistency with Michelson's. Michelson continued to "refine" his method and in 1883 published a measurement of 299,853 ± 60 km/s, rather closer to that of his mentor.
+
+Lt. Cmdr. Albert A. Michelson while serving in the U.S. Navy. He rejoined the U.S. Navy in World War I, when this portrait was taken.
+
+Mount Wilson and Lookout Mountain
+
+In 1906, a novel electrical method was used by E. B. Rosa and the National Bureau of Standards to obtain a value for the speed of light of 299,781 ± 10 km/s. Though this result has subsequently been shown to be severely biased by the poor electrical standards in use at the time, it seems to have set a fashion for rather lower measured values.
+
+From 1920, Michelson started planning a definitive measurement from the Mount Wilson Observatory, using a baseline to Lookout Mountain, a prominent bump on the south ridge of Mount San Antonio ("Old Baldy"), some 22 miles distant.
+
+In 1922, the U.S. Coast and Geodetic Survey began two years of painstaking measurement of the baseline using the recently available invar tapes. With the baseline length established in 1924, measurements were carried out over the next two years to obtain the published value of 299,796 ± 4 km/s.
+
+Famous as the measurement is, it was beset by problems, not least of which was the haze created by the smoke from forest fires which blurred the mirror image. It is also probable that the intensively detailed work of the geodetic survey, with an estimated error of less than one part in 1 million, was compromised by a shift in the baseline arising from the Santa Barbara earthquake of June 29, 1925, which was an estimated magnitude of 6.3 on the Richter scale.
+
+The now-famous Michelson–Morley experiment also influenced the affirmation attempts of peer Albert Einstein's theory of general relativity and special relativity, using similar optical instrumentation. These instruments and related collaborations included the participation of fellow physicists Dayton Miller, Hendrik Lorentz, and Robert Shankland.
+
+Michelson, Pease, and Pearson
+
+The period after 1927 marked the advent of new measurements of the speed of light using novel electro-optic devices, all substantially lower than Michelson's 1926 value.
+
+Michelson sought another measurement, but this time in an evacuated tube to avoid difficulties in interpreting the image owing to atmospheric effects. In 1929, he began a collaboration with Francis G. Pease and Fred Pearson to perform a measurement in a 1.6 km tube 3 feet in diameter at the Irvine Ranch near Santa Ana, California. In multiple reflections the light path was increased to 5 miles. For the first time in history the speed of light was measured in an almost perfect vacuum of 0.5 mm of mercury. Michelson died with only 36 of the 233 measurement series completed and the experiment was subsequently beset by geological instability and condensation problems before the result of 299,774 ± 11 km/s, consistent with the prevailing electro-optic values, was published posthumously in 1935.
+
+Application of Basic Statistical Principles in Michelson’s Study of Speed of Light
+
+During June and early July 1879, Michelson refined experimental arrangements from those developed by Hippolyte Fizeau and Léon Foucault. The experimental setup was as follows: Light generated from a source is directed towards a rotating mirror through a slit on a fixed plate; the rotating mirror reflects the incoming light and at a certain angle, towards the direction where another fixed flat mirror is placed whose surface is perpendicular to the incoming ray of light; the rotating mirror should have rotated by an angle α by the time the ray of light travels back and is reflected again towards the fixed plate (the distance between the fixed mirror and the rotating one is recorded as D); a displacement from the slit is detected on the plate which measures d; the distance from the rotating mirror to the fixed plate is designated as the radius r while the number of revolutions per second of the mirror is recorded as ω. In this way, tan(2α) = d/r; Δt = (α/2π)/ω; speed of light can be derived as c = 2D/Δt.
+
+While at plain sight, four measured quantities are involved: distance D, radius r, displacement d and rotating mirror revolution per second ω, which seems simple; yet based on the limitation of the measurement technology at that time, great efforts were made by Michelson to reduce systematic errors and apply subsequent corrections. For instance, he adopted a steel measuring tape with a said length of 100 feet and he intended to measure tens of times across the distance; still, he measured its length against a copy of the official standard yard to find out it as 100.006 feet, thus eliminating a systematic error, albeit small.
+
+Aside from the efforts to reduce as much as possible the systematic errors, repeated measurements were performed at multiple levels to obtain more accurate results. As R.J.MacKay and R.W.Oldford remarked in their article, ‘It is clear that Michelson appreciated the power of averaging to reduce variability in measurement’, it is clear that Michelson had in mind the property that averages vary less which should be formally described as: the standard deviation of the average of n independent random variables is less than that of a single random variable by a factor of the square root of n. To realize that, he also strived to have each measurement not influencing each other, thus being mutually independent random variables.
+
+It should also be noted about the statistical model for repeated measurements where the assumption of independence or identical distributions is unrealistic. In the case of light speed study, each measurement is approached as the sum of quantity of interest and measurement error. In the absence of systematic error, the measurement error of speed of light can be modeled by a random sample from a distribution with unknown expectation and finite variance; thus, the speed of light is represented by the expectation of the model distribution and the ultimate goal is to estimate the expectation of the model distribution on the acquired dataset. The law of large numbers suggests to estimate the expectation by the sample mean.
+
+Michelson–Morley interferometry experiment
+
+Main article: Michelson–Morley experiment
+
+In 1887 he collaborated with colleague Edward Williams Morley of Western Reserve University, now part of Case Western Reserve University, in the Michelson–Morley experiment. Their experiment for the expected motion of the Earth relative to the aether, the hypothetical medium in which light was supposed to travel, resulted in a null result. Surprised, Michelson repeated the experiment with greater and greater precision over the next years, but continued to find no ability to measure the aether. The Michelson–Morley results were immensely influential in the physics community, leading Hendrik Lorentz to devise his now-famous Lorentz contraction equations as a means of explaining the null result.
+
+There has been some historical controversy over whether Albert Einstein was aware of the Michelson–Morley results when he developed his theory of special relativity, which pronounced the aether to be "superfluous." In a later interview, Einstein said of the Michelson–Morley experiment, "I was not conscious it had influenced me directly... I guess I just took it for granted that it was true." Regardless of Einstein's specific knowledge, the experiment is today considered the canonical experiment in regards to showing the lack of a detectable aether.
+
+The precision of their equipment allowed Michelson and Morley to be the first to get precise values for the fine structure in the atomic spectral lines for which in 1916 Arnold Sommerfeld gave a theoretical explanation, introducing the fine-structure constant.
+
+Astronomical interferometry
+
+The horizontal structure mounted at the top of the Hooker Telescope implements Michelson's stellar interferometer (1920). Mirrors on that stage (not visible in picture) redirect starlight from two smaller apertures up to 20 feet (6m) apart into the telescope.
+
+In 1920 Michelson and Francis G. Pease made the first measurement of the diameter of a star other than the Sun. Michelson had invented astronomical interferometry and built such an instrument at the Mount Wilson Observatory which was used to measure the diameter of the red giant Betelgeuse. A periscope arrangement was used to direct light from two subpupils, separated by up to 20 feet (6m), into the main pupil of the 100 inch (2.5m) Hooker Telescope, producing interference fringes observed through the eyepiece. The measurement of stellar diameters and the separations of binary stars took up an increasing amount of Michelson's life after this.
+
+Beginning in the 1970s, astronomical interferometry has been revived, with the configuration using two (or more) separate apertures (with diameters small compared to their separation) being often referred to as "Michelson Stellar Interferometry." This was to distinguish it from speckle interferometry, but should not be confused with the Michelson interferometer which is one common laboratory interferometer configuration of which the interferometer used in the Michelson–Morley experiment was an instance. Michelson's concept of interfering light from two relatively small apertures separated by a substantial distance (but with that distance, or baseline, now often as long as hundreds of meters) is employed at modern operational observatories such as VLTI, CHARA and the U.S. Navy's NPOI.
+
+Michelson in popular culture
+
+Commemorative plaque in Strzelno, Poland, were Michelson was born, founded by Polish Physical Society.
+
+In an episode of the television series Bonanza ("Look to the Stars", broadcast March 18, 1962), Ben Cartwright (Lorne Greene) helps the 16-year-old Michelson (portrayed by 25-year-old Douglas Lambert (1936–1986)) obtain an appointment to the U.S. Naval Academy, despite the opposition of the bigoted town schoolteacher (played by William Schallert). Bonanza was set in and around Virginia City, Nevada, where Michelson lived with his parents prior to leaving for the Naval Academy. In a voice-over at the end of the episode, Greene mentions Michelson's 1907 Nobel Prize.
+
+The home in which Michelson lived as a child in Murphys Camp, California is now occupied by a tasting room for Hovey Wine, and craft beer specialty bar, Murphys Pourhouse.
+
+New Beast Theater Works in collaboration with High Concept Laboratories produced a 'semi-opera' about Michelson, his obsessive working style and its effect on his family life. The production ran from February 11 to February 26, 2011 in Chicago at The Building Stage. Michelson was portrayed by Jon Stutzman. The play was directed by David Maral with music composed by Joshua Dumas.
+
+Norman Fitzroy Maclean wrote an essay "Billiards is a Good Game"; published in The Norman Maclean Reader (ed. O. Alan Weltzien, 2008), it is an appreciation of Michelson from Maclean's vantage point as a graduate student regularly watching him play billiards.
+
+Honors and awards
+
+A monument at United States Naval Academy marks the path of Michelson's experiments measuring the speed of light.
+
+1888 – Rumford Prize
+
+1903 – Matteucci Medal
+
+1907 – Copley Medal
+
+1907 – Nobel Prize in Physics
+
+1914 – Elliott Cresson Medal
+
+1916 – Henry Draper Medal from the National Academy of Sciences 
+
+1922 – Prix Jules Janssen, the highest award of the Société astronomique de France, the French astronomical society.
+
+1923 – Gold Medal of the Royal Astronomical Society
+
+1923 – Franklin Medal
+
+Michelson was a member of the Royal Society, the National Academy of Sciences, the American Physical Society and the American Association for the Advancement of Science.
+
+The Computer Measurement Group gives an annual A. A. Michelson Award.
+
+See also
+
+Biography portal
+
+List of Jewish Nobel laureates
+
+List of Naval Academy Nobel Laureates
+
+List of Poles
+
+Notes
+
+^ a b Loyd S. Swenson, Jr., The Ethereal Aether, University of Texas Press, 2013.
+
+^ "Albert A. Michelson, Physics". www.lib.uchicago.edu. Archived from the original on October 21, 2017. Retrieved August 2, 2019.
+
+^ "Guide to the Albert A. Michelson Papers 1891-1969". www.lib.uchicago.edu. Archived from the original on September 7, 2019. Retrieved August 2, 2019.
+
+^ "Michelson, Albert A. (Albert Abraham), 1852-1931". history.aip.org. Archived from the original on March 22, 2019. Retrieved August 2, 2019.
+
+^ "Albert Abraham Michelson 1852–1931". American Institute of Physics.
+
+^ "Archived copy". Archived from the original on September 21, 2019. Retrieved September 21, 2019.CS1 maint: archived copy as title (link)
+
+^ Naukowe, Łódzkie (2003). Bulletin de la Société des sciences et des lettres de Łódź: Série, Recherches sur les déformations, Volumes 39–42. Société des sciences et des lettres de Łódź. p. 162. Michelson's biographers stress, that our hero was not conspicuous by religiousness. His father was a free-thinker and Michelson grew up in non-religious family and have no opportunity to acknowledge the belief of his forebears. He was agnostic through his whole life and only for the short period he was a member of the 21st lodge in Washington.
+
+^ John D. Barrow (2002). The Book of Nothing: Vacuums, Voids, and the Latest Ideas About the Origins of the Universe. Random House Digital, Inc. p. 136. ISBN 978-0-375-72609-5. Morley was deeply religious. His original training had been in theology and he only turned to chemistry, a self-taught hobby, when he was unable to enter the ministry. Michelson, by contrast, was a religious agnostic.
+
+^ 1984; Dorothy Michelson Livingston; One Pass Productions; Cinema Guild. The Master of Light: A Biography of Albert A. Michelson. University of Chicago Press. p. 106. On the religious question, Michelson disagreed with both these men. He had renounced any belief that moral issues were at stake in ...CS1 maint: numeric names: authors list (link)
+
+^ Levy, 920 O'Farrell Street, 47.
+
+^ Nimitz Library's Virtual Exhibits – LibExhibits
+
+^ Shankland, Paul D.; Orchiston, Wayne (2002). "Nineteenth century astronomy at the U.S. Naval Academy". Journal of Astronomical History and Heritage. 5 (2): 165. Bibcode:2002JAHH....5..165S.
+
+^ "USNO – Our Command History". U.S. Naval Observatory.
+
+^ Shankland, Paul D.; Orchiston, Wayne (2002). "Nineteenth century astronomy at the U.S. Naval Academy" (PDF). Journal of Astronomical History and Heritage. 5 (2): 165–179. Bibcode:2002JAHH....5..165S. Archived from the original (PDF) on August 8, 2017. Retrieved November 26, 2017.
+
+^ In 1879 a letter from James Clerk Maxwell to the astronomer David Peck Todd came to the attention of Michelson, possibly giving him considerable motivation. See the book Schwinger, J. (1986). Einstein's Legacy. Scientific American Library. 2012 e-book.
+
+^ "raman-scattering.eu". Archived from the original on March 24, 2012. Retrieved June 2, 2011.
+
+^ "Optics at the U.S. Naval Academy". Optical Society of America.
+
+^ "Michelson's 1879 determinations of the speed of light". Department of Statistics and Actuarial Science, University of Waterloo (Canada).
+
+^ Wolfram, Stephen (2002). A New Kind of Science. Wolfram Media, Inc. p. 899. ISBN 978-1-57955-008-0.
+
+^ "Michelson Remembered". Nimitz Library, US Naval Academy. Archived from the original on October 22, 2017. Retrieved October 22, 2017.
+
+^ "The ABB Sponsored Bomem-Michelson Award". Coblentz Society. 2017. Archived from the original on October 23, 2017. Retrieved October 22, 2017.
+
+^ "Michelson Lectures". Case Western Reserve University. 2017. Archived from the original on May 13, 2017. Retrieved October 22, 2017.
+
+^ "Michelson Postdoctoral Prize Lectureship". Case Western Reserve University. 2017. Archived from the original on May 13, 2017. Retrieved October 22, 2017.
+
+^ "Awards & Scholarships: AA Michelson Award Winners". Computer Measurement Group. 2017. Archived from the original on October 22, 2017. Retrieved October 22, 2017.
+
+^ "Albert A. Michelson Award". Navy League of the United States. 2016. Archived from the original on October 19, 2018. Retrieved December 25, 2018.
+
+^ "Michelson Memorial Lecture Series". U.S. Naval Academy. 2017. Archived from the original on October 22, 2017. Retrieved October 22, 2017.
+
+^ James, I. (2009). Driven to Innovate: A Century of Jewish Mathematicians and Physicists p. 101. ISBN 978-1-906165-22-2. "In 1877, he married Margaret Hemingway, daughter of a wealthy New York stockbroker and lawyer. This marriage lasted twenty years and produced two sons and a daughter."
+
+^ a b den Boer, Marten (1999). "Michelson, Albert Abraham". American National Biography (online ed.). New York: Oxford University Press. doi:10.1093/anb/9780198606697.article.1301131. (subscription required)
+
+^ "The Master of Light". The Attic. Archived from the original on February 2, 2020. Retrieved January 7, 2020.
+
+^ Michelson, Albert A. "Experimental Determination of the Velocity of Light Made at the U.S. Naval Academy, Annapolis."
+
+^ a b "Albert A. Michelson – Facts".
+
+^ Garner, C. L., Captain (retired) (April 1949). "A Geodetic Measurement of Unusually High Accuracy" (PDF). U.S. Coast and Geodetic Survey Journal. Coast and Geodetic Survey: 68–74. Archived from the original (PDF) on March 25, 2009. Retrieved August 13, 2009.
+
+^ "Michelson's Last Experiment". Science. 73 (1899): 10–14. May 22, 1931. doi:10.1126/science.73.1899.10. PMID 17843974.
+
+^ a b Michelson, A. A.; Pease, F. G.; Pearson, F. (1935). "Measurement of the velocity of light in a partial vacuum". Contributions from the Mount Wilson Observatory. 522 (2091): 100–1. doi:10.1126/science.81.2091.100-a. PMID 17816642 – via Astrophysics Data System.
+
+^ Oldford, R. W.; MacKay, R. J. (August 2000). "Light". Statistical Science. 15 (3): 254–278. doi:10.1214/ss/1009212817. ISSN 0883-4237.
+
+^ Dekking, F. M.; Kraaikamp, C.; Lopuhaä, H. P.; Meester, L. E. (2005). A Modern Introduction to Probability and Statistics: Understanding Why and How. p. 248. ISBN 978-1852338961.
+
+^ Swenson, Loyd S. Jr., The Ethereal Aether: A History of the Michelson–Morley–Miller Aether-Drift Experiments, 1880–1930, University of Texas Press, 1972
+
+^ Note that while Einstein's 1905 paper On the Electrodynamics of Moving Bodies appears to reference the experiment on first glance—"together with the unsuccessful attempts to discover any motion of the earth relatively to the 'light medium,' suggest that the phenomena of electrodynamics as well as of mechanics possess no properties corresponding to the idea of absolute rest"—it has been shown that Einstein was referring to a different category of experiments here.
+
+^ Holton, Gerald, "Einstein, Michelson, and the 'Crucial' Experiment", Isis, Vol. 60, No. 2 (Summer, 1969), pp. 133–197
+
+^ AA. Michelson and E. W. Morley, Amer. J. Sci.34, 427 (1887); Phil Mag. 24, 463 (1887).
+
+^ Maclean, Norman F. (Summer 1975). "Billiards is a good game". The University of Chicago Magazine. Archived from the original on August 17, 2018. Retrieved August 16, 2018.
+
+^ "Henry Draper Medal". National Academy of Sciences. Archived from the original on January 26, 2013. Retrieved February 19, 2011.
+
+References
+
+Livingston, D. M. (1973). The Master of Light: A Biography of Albert A. Michelson. ISBN 978-0-226-48711-3.
+
+Levy, Harriet Lane (1996). 920 O'Farrell Street. Berkeley: Heyday Books. ISBN 978-0-930588-91-5.
+
+External links
+
+ Wikisource has original works written by or about:
+
+Albert A. Michelson
+
+ Wikiquote has quotations related to: Albert A. Michelson
+
+ Wikimedia Commons has media related to Albert A. Michelson.
+
+National Academy of Sciences Biographical Memoir
+
+Michelson's Life and Works from the American Institute of Physics
+
+U.S. Naval Academy and The Navy
+
+USNA Guide to the Albert A. Michelson Collection, 1803–1989
+
+From USNA to Nobel: Albert A. Michelson's Life and Contributions
+
+Michelson House at the University of Chicago
+
+Guide to the Albert A. Michelson Papers 1891-1969 at the University of Chicago Special Collections Research Center
+
+Albert A. Michelson on Nobelprize.org including the Nobel Lecture, December 12, 1907 Recent Advances in Spectroscopy
+
+Works by Albert A. Michelson at Project Gutenberg
+
+Works by or about Albert A. Michelson at Internet Archive
+
+IMDB: Bonanza episode Look to the Stars
+
+Norman Maclean: "Billiards Is a Good Game": Gamesmanship and America's First Nobel Prize Scientist; reprinted in Lapham's Quarterly
+
+The U.S. Naval Academy Observatory Programs and Times Gone By: A Tale of Two Domes
+
+"NAWS China Lake". Retrieved September 3, 2010.
+
+Nineteenth Century Astronomy at the U.S. Naval Academy
+
+v
+
+t
+
+e
+
+Copley Medallists (1901–1950)
+
+Josiah Willard Gibbs (1901)
+
+Joseph Lister (1902)
+
+Eduard Suess (1903)
+
+William Crookes (1904)
+
+Dmitri Mendeleev (1905)
+
+Élie Metchnikoff (1906)
+
+Albert A. Michelson (1907)
+
+Alfred Russel Wallace (1908)
+
+George William Hill (1909)
+
+Francis Galton (1910)
+
+George Darwin (1911)
+
+Felix Klein (1912)
+
+Ray Lankester (1913)
+
+J. J. Thomson (1914)
+
+Ivan Pavlov (1915)
+
+James Dewar (1916)
+
+Pierre Paul Émile Roux (1917)
+
+Hendrik Lorentz (1918)
+
+William Bayliss (1919)
+
+Horace Tabberer Brown (1920)
+
+Joseph Larmor (1921)
+
+Ernest Rutherford (1922)
+
+Horace Lamb (1923)
+
+Edward Albert Sharpey-Schafer (1924)
+
+Albert Einstein (1925)
+
+Frederick Gowland Hopkins (1926)
+
+Charles Scott Sherrington (1927)
+
+Charles Algernon Parsons (1928)
+
+Max Planck (1929)
+
+William Henry Bragg (1930)
+
+Arthur Schuster (1931)
+
+George Ellery Hale (1932)
+
+Theobald Smith (1933)
+
+John Scott Haldane (1934)
+
+Charles Thomson Rees Wilson (1935)
+
+Arthur Evans (1936)
+
+Henry Hallett Dale (1937)
+
+Niels Bohr (1938)
+
+Thomas Hunt Morgan (1939)
+
+Paul Langevin (1940)
+
+Thomas Lewis (1941)
+
+Robert Robinson (1942)
+
+Joseph Barcroft (1943)
+
+Geoffrey Ingram Taylor (1944)
+
+Oswald Avery (1945)
+
+Edgar Douglas Adrian (1946)
+
+G. H. Hardy (1947)
+
+Archibald Hill (1948)
+
+George de Hevesy (1949)
+
+James Chadwick (1950)
+
+v
+
+t
+
+e
+
+Laureates of the Nobel Prize in Physics
+
+1901–1925 
+1901: Röntgen
+
+1902: Lorentz / Zeeman
+
+1903: Becquerel / P. Curie / M. Curie
+
+1904: Rayleigh
+
+1905: Lenard
+
+1906: J. J. Thomson
+
+1907: Michelson
+
+1908: Lippmann
+
+1909: Marconi / Braun
+
+1910: Van der Waals
+
+1911: Wien
+
+1912: Dalén
+
+1913: Kamerlingh Onnes
+
+1914: Laue
+
+1915: W. L. Bragg / W. H. Bragg
+
+1916
+
+1917: Barkla
+
+1918: Planck
+
+1919: Stark
+
+1920: Guillaume
+
+1921: Einstein
+
+1922: N. Bohr
+
+1923: Millikan
+
+1924: M. Siegbahn
+
+1925: Franck / Hertz
+
+1926–1950 
+1926: Perrin
+
+1927: Compton / C. Wilson
+
+1928: O. Richardson
+
+1929: De Broglie
+
+1930: Raman
+
+1931
+
+1932: Heisenberg
+
+1933: Schrödinger / Dirac
+
+1934
+
+1935: Chadwick
+
+1936: Hess / C. D. Anderson
+
+1937: Davisson / G. P. Thomson
+
+1938: Fermi
+
+1939: Lawrence
+
+1940
+
+1941
+
+1942
+
+1943: Stern
+
+1944: Rabi
+
+1945: Pauli
+
+1946: Bridgman
+
+1947: Appleton
+
+1948: Blackett
+
+1949: Yukawa
+
+1950: Powell
+
+1951–1975 
+1951: Cockcroft / Walton
+
+1952: Bloch / Purcell
+
+1953: Zernike
+
+1954: Born / Bothe
+
+1955: Lamb / Kusch
+
+1956: Shockley / Bardeen / Brattain
+
+1957: C. N. Yang / T. D. Lee
+
+1958: Cherenkov / Frank / Tamm
+
+1959: Segrè / Chamberlain
+
+1960: Glaser
+
+1961: Hofstadter / Mössbauer
+
+1962: Landau
+
+1963: Wigner / Goeppert Mayer / Jensen
+
+1964: Townes / Basov / Prokhorov
+
+1965: Tomonaga / Schwinger / Feynman
+
+1966: Kastler
+
+1967: Bethe
+
+1968: Alvarez
+
+1969: Gell-Mann
+
+1970: Alfvén / Néel
+
+1971: Gabor
+
+1972: Bardeen / Cooper / Schrieffer
+
+1973: Esaki / Giaever / Josephson
+
+1974: Ryle / Hewish
+
+1975: A. Bohr / Mottelson / Rainwater
+
+1976–2000 
+1976: Richter / Ting
+
+1977: P. W. Anderson / Mott / Van Vleck
+
+1978: Kapitsa / Penzias / R. Wilson
+
+1979: Glashow / Salam / Weinberg
+
+1980: Cronin / Fitch
+
+1981: Bloembergen / Schawlow / K. Siegbahn
+
+1982: K. Wilson
+
+1983: Chandrasekhar / Fowler
+
+1984: Rubbia / Van der Meer
+
+1985: von Klitzing
+
+1986: Ruska / Binnig / Rohrer
+
+1987: Bednorz / Müller
+
+1988: Lederman / Schwartz / Steinberger
+
+1989: Ramsey / Dehmelt / Paul
+
+1990: Friedman / Kendall / R. Taylor
+
+1991: de Gennes
+
+1992: Charpak
+
+1993: Hulse / J. Taylor
+
+1994: Brockhouse / Shull
+
+1995: Perl / Reines
+
+1996: D. Lee / Osheroff / R. Richardson
+
+1997: Chu / Cohen-Tannoudji / Phillips
+
+1998: Laughlin / Störmer / Tsui
+
+1999: 't Hooft / Veltman
+
+2000: Alferov / Kroemer / Kilby
+
+2001–
+
+present 
+2001: Cornell / Ketterle / Wieman
+
+2002: Davis / Koshiba / Giacconi
+
+2003: Abrikosov / Ginzburg / Leggett
+
+2004: Gross / Politzer / Wilczek
+
+2005: Glauber / Hall / Hänsch
+
+2006: Mather / Smoot
+
+2007: Fert / Grünberg
+
+2008: Nambu / Kobayashi / Maskawa
+
+2009: Kao / Boyle / Smith
+
+2010: Geim / Novoselov
+
+2011: Perlmutter / Riess / Schmidt
+
+2012: Wineland / Haroche
+
+2013: Englert / Higgs
+
+2014: Akasaki / Amano / Nakamura
+
+2015: Kajita / McDonald
+
+2016: Thouless / Haldane / Kosterlitz
+
+2017: Weiss / Barish / Thorne
+
+2018: Ashkin / Mourou / Strickland
+
+2019: Peebles / Mayor / Queloz
+
+v
+
+t
+
+e
+
+1907 Nobel Prize laureates
+
+Chemistry 
+Eduard Buchner (Germany)
+
+Literature 
+Rudyard Kipling (Great Britain)
+
+Peace 
+Ernesto Teodoro Moneta (Italy)
+
+Louis Renault (France)
+
+Physics 
+Albert Abraham Michelson (United States)
+
+Physiology or Medicine 
+Charles Louis Alphonse Laveran (France)
+
+Nobel Prize recipients
+
+1990
+
+91
+
+92
+
+93
+
+94
+
+95
+
+96
+
+97
+
+98
+
+99
+
+2000
+
+01
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+v
+
+t
+
+e
+
+Presidents of the National Academy of Sciences
+
+Alexander Bache (1863)
+
+Joseph Henry (1868)
+
+William Rogers (1879)
+
+Othniel Marsh (1883)
+
+Wolcott Gibbs (1895)
+
+Alexander Agassiz (1901)
+
+Ira Remsen (1907)
+
+William H. Welch (1913)
+
+Charles Walcott (1917)
+
+Albert A. Michelson (1923)
+
+Thomas Morgan (1927)
+
+William Campbell (1931)
+
+Frank Lillie (1935)
+
+Frank B. Jewett (1939)
+
+Alfred Richards (1947)
+
+Detlev Bronk (1950)
+
+Frederick Seitz (1962)
+
+Philip Handler (1969)
+
+Frank Press (1981)
+
+Bruce Alberts (1993)
+
+Ralph J. Cicerone (2005)
+
+Marcia McNutt (2016)
+
+v
+
+t
+
+e
+
+Presidents of the American Physical Society
+
+1899–1925 
+Henry Augustus Rowland (1899)
+
+Albert A. Michelson (1901)
+
+Arthur Gordon Webster (1903)
+
+Carl Barus (1905)
+
+Edward Leamington Nichols (1907)
+
+Henry Crew (1909)
+
+William Francis Magie (1911)
+
+Benjamin Osgood Peirce (1913)
+
+Ernest Merritt (1914)
+
+Robert Andrews Millikan (1916)
+
+Henry Andrews Bumstead (1918)
+
+Joseph Sweetman Ames (1919)
+
+Theodore Lyman (1921)
+
+Thomas Corwin Mendenhall (1923)
+
+Dayton Miller (1925)
+
+1926–1950 
+Karl Taylor Compton (1927)
+
+Henry Gale (1929)
+
+William Francis Gray Swann (1931)
+
+Paul D. Foote (1933)
+
+Arthur Compton (1934)
+
+Robert W. Wood (1935)
+
+Floyd K. Richtmyer (1936)
+
+Harrison M. Randall (1937)
+
+Lyman James Briggs (1938)
+
+John Torrence Tate, Sr. (1939)
+
+John Zeleny (1940)
+
+George Braxton Pegram (1941)
+
+G. Stewart (1941)
+
+Percy Williams Bridgman (1942)
+
+Albert Hull (1943)
+
+Arthur Jeffrey Dempster (1944)
+
+Harvey Fletcher (1945)
+
+Edward Condon (1946)
+
+Lee Alvin DuBridge (1947)
+
+J. Robert Oppenheimer (1948)
+
+Francis Wheeler Loomis (1949)
+
+Isidor Isaac Rabi (1950)
+
+1951–1975 
+Charles Christian Lauritsen (1951)
+
+John Hasbrouck Van Vleck (1952)
+
+Enrico Fermi (1953)
+
+H. Bethe (1954)
+
+Raymond Thayer Birge (1955)
+
+E. Wigner (1956)
+
+Henry DeWolf Smyth (1957)
+
+Jesse Beams (1958)
+
+George Eugene Uhlenbeck (1959)
+
+Victor Frederick Weisskopf (1960)
+
+Frederick Seitz (1961)
+
+William V. Houston (1962)
+
+John Harry Williams (1963)
+
+Robert Bacher (1964)
+
+Felix Bloch (1965)
+
+John Archibald Wheeler (1966)
+
+Charles H. Townes (1967)
+
+John Bardeen (1968)
+
+Luis Walter Alvarez (1969)
+
+Edward Mills Purcell (1970)
+
+Robert Serber (1971)
+
+Philip M. Morse (1972)
+
+Joseph Edward Mayer (1973)
+
+Wolfgang K. H. Panofsky (1974)
+
+Chien-Shiung Wu (1975)
+
+1976–2000 
+William A. Fowler (1976)
+
+George Pake (1977)
+
+Norman Foster Ramsey, Jr. (1978)
+
+Lewis M. Branscomb (1979)
+
+Herman Feshbach (1980)
+
+Arthur Leonard Schawlow (1981)
+
+Maurice Goldhaber (1982)
+
+Robert Marshak (1983)
+
+Mildred Dresselhaus (1984)
+
+Robert R. Wilson (1985)
+
+Sidney Drell (1986)
+
+Val Logsdon Fitch (1987)
+
+James A. Krumhansl (1989)
+
+Eugen Merzbacher (1990)
+
+Nicolaas Bloembergen (1991)
+
+Ernest M. Henley (1992)
+
+Donald N. Langenberg (1993)
+
+Burton Richter (1994)
+
+C. Kumar Patel (1995)
+
+J.R. Schrieffer (1996)
+
+D. Allan Bromley (1997)
+
+Andrew Sessler (1998)
+
+Jerome I. Friedman (1999)
+
+James S. Langer (2000)
+
+2001–future 
+George Trilling (2001)
+
+William F. Brinkman (2002)
+
+Myriam Sarachik (2003)
+
+Helen Quinn (2004)
+
+Marvin Cohen (2005)
+
+John Hopfield (2006)
+
+Leo Kadanoff (2007)
+
+Arthur Bienenstock (2008)
+
+Cherry A. Murray (2009)
+
+Curtis Callan (2010)
+
+Barry Barish (2011)
+
+Robert L. Byer (2012)
+
+Michael Turner (2013)
+
+Malcolm R. Beasley (2014)
+
+Sam Aronson (2015)
+
+Homer Neal (2016)
+
+Laura Greene (2017)
+
+Roger Falcone (2018)
+
+David Gross (2019)
+
+Philip H. Bucksbaum (2020)
+
+v
+
+t
+
+e
+
+Presidents of the History of Science Society
+
+1924–1949 
+Lawrence Joseph Henderson (1924–1925)
+
+James Henry Breasted (1926)
+
+David Eugene Smith (1927)
+
+Edgar Fahs Smith (1928)
+
+Lynn Thorndike (1929)
+
+Henry Crew (1930)
+
+William H. Welch (1931)
+
+Berthold Laufer (1932)
+
+J. Playfair McMurrich (1933)
+
+Harvey Williams Cushing (1934)
+
+Charles Albert Browne, Jr. (1935–1936)
+
+Chauncey D. Leake (1937–1938)
+
+Henry E. Sigerist (1939)
+
+Richard H. Shryock (1940–1942)
+
+Louis Charles Karpinski (1943–1944)
+
+Isaiah Bowman (1944)
+
+Vilhjalmur Stefansson (1945–1946)
+
+John Farquhar Fulton (1947–1950)
+
+1950–1999 
+Harcourt Brown (1951–1952)
+
+Dorothy Stimson (1953–1956)
+
+Henry Guerlac (1957–1960)
+
+I. Bernard Cohen (1961–1962)
+
+Marshall Clagett (1963–1964)
+
+Charles Coulston Gillispie (1965–1966)
+
+C. D. O'Malley (1967–1968)
+
+Thomas Kuhn (1969–1970)
+
+Lynn Townsend White, Jr. (1971–1972)
+
+Erwin N. Hiebert (1973–1974)
+
+John C. Greene (1975–1976)
+
+Richard S. Westfall (1977-1978)
+
+Robert P. Multhauf (1979–1980)
+
+Frederic L. Holmes (1981–1982)
+
+Gerald Holton (1983–1984)
+
+Edward Grant (1985–1986)
+
+William Coleman (1987)
+
+Mary Jo Nye (1988–1989)
+
+Stephen G. Brush (1990–1991)
+
+Sally Gregory Kohlstedt (1992–1993)
+
+David C. Lindberg (1994–1995)
+
+Frederick Gregory (1996–1997)
+
+Albert Van Helden (1998–1999)
+
+2000–present 
+Ronald Numbers (2000–2001)
+
+John Servos (2002–2003)
+
+Michael Sokal (2004–2005)
+
+Joan Cadden (2006–2007)
+
+Jane Maienschein (2008–2009)
+
+Paul Lawrence Farber (2010–2011)
+
+Lynn K. Nyhart (2012–2013)
+
+Angela N. H. Creager (2014–2015)
+
+Janet Browne (2016–2017)
+
+v
+
+t
+
+e
+
+Hall of Fame for Great Americans
+
+John Adams
+
+John Quincy Adams
+
+Jane Addams
+
+Louis Agassiz
+
+Susan B. Anthony
+
+John James Audubon
+
+George Bancroft
+
+Clara Barton
+
+Henry Ward Beecher
+
+Alexander Graham Bell
+
+Daniel Boone
+
+Edwin Booth
+
+Louis Brandeis
+
+Phillips Brooks
+
+William Cullen Bryant
+
+Luther Burbank
+
+Andrew Carnegie
+
+George Washington Carver
+
+William Ellery Channing
+
+Rufus Choate
+
+Henry Clay
+
+Grover Cleveland
+
+James Fenimore Cooper
+
+Peter Cooper
+
+Charlotte Cushman
+
+James Buchanan Eads
+
+Thomas Alva Edison
+
+Jonathan Edwards
+
+Ralph Waldo Emerson
+
+David Farragut
+
+Stephen Foster
+
+Benjamin Franklin
+
+Robert Fulton
+
+Josiah W. Gibbs
+
+William C. Gorgas
+
+Ulysses S. Grant
+
+Asa Gray
+
+Alexander Hamilton
+
+Nathaniel Hawthorne
+
+Joseph Henry
+
+Patrick Henry
+
+Oliver Wendell Holmes Sr.
+
+Oliver Wendell Holmes Jr.
+
+Mark Hopkins
+
+Elias Howe
+
+Washington Irving
+
+Andrew Jackson
+
+Thomas J. Jackson
+
+Thomas Jefferson
+
+John Paul Jones
+
+James Kent
+
+Sidney Lanier
+
+Robert E. Lee
+
+Abraham Lincoln
+
+Henry Wadsworth Longfellow
+
+James Russell Lowell
+
+Mary Lyon
+
+Edward MacDowell
+
+James Madison
+
+Horace Mann
+
+John Marshall
+
+Matthew Fontaine Maury
+
+Albert A. Michelson
+
+Maria Mitchell
+
+James Monroe
+
+Samuel F. B. Morse
+
+William T. G. Morton
+
+John Lothrop Motley
+
+Simon Newcomb
+
+Thomas Paine
+
+Alice Freeman Palmer
+
+Francis Parkman
+
+George Peabody
+
+William Penn
+
+Edgar Allan Poe
+
+Walter Reed
+
+Franklin D. Roosevelt
+
+Theodore Roosevelt
+
+Augustus Saint-Gaudens
+
+William Tecumseh Sherman
+
+John Philip Sousa
+
+Joseph Story
+
+Harriet Beecher Stowe
+
+Gilbert Stuart
+
+Sylvanus Thayer
+
+Henry David Thoreau
+
+Mark Twain
+
+Lillian Wald
+
+Booker T. Washington
+
+George Washington
+
+Daniel Webster
+
+George Westinghouse
+
+James McNeill Whistler
+
+Walt Whitman
+
+Eli Whitney
+
+John Greenleaf Whittier
+
+Emma Willard
+
+Frances Willard
+
+Roger Williams
+
+Woodrow Wilson
+
+Orville Wright
+
+Wilbur Wright
+
+Authority control 
+BNF: cb123470892 (data)
+
+CANTIC: a10668652
+
+GND: 118783750
+
+ISNI: 0000 0001 0928 1070
+
+LCCN: n50036642
+
+MGP: 72170
+
+NDL: 00621128
+
+NKC: xx0117481
+
+NLA: 35311288
+
+NLI: 001439259
+
+NTA: 067497233
+
+SELIBR: 237139
+
+SNAC: w6833vkf
+
+SUDOC: 032441487
+
+Trove: 907254
+
+VIAF: 98056250
+
+ WorldCat Identities: lccn-n50036642

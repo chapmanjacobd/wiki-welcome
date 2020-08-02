@@ -1,0 +1,120 @@
+Paleosols sequence, Tuscany, Italy
+
+Etched section of paleosol from the Atlantic, San Salvador Island, Bahamas, indicating the top of the Pleistocene Grotto Beach Formation (limestone)
+
+In the geosciences, paleosol (palaeosol in Great Britain and Australia) can have two meanings. The first meaning, common in geology and paleontology, refers to a former soil preserved by burial underneath either sediments (alluvium or loess) or volcanic deposits (volcanic ash), which in the case of older deposits have lithified into rock. In Quaternary geology, sedimentology, paleoclimatology, and geology in general, it is the typical and accepted practice to use the term "paleosol" to designate such "fossil soils" found buried within sedimentary and volcanic deposits exposed in all continents as illustrated by Retallack (2001), Kraus (1999), and other published papers and books.
+
+In soil science, paleosols are soils formed long periods ago that have no relationship in their chemical and physical characteristics to the present-day climate or vegetation. 
+Such soils form on extremely old continental cratons and as small scattered localities in outliers of ancient rock.
+
+Contents
+
+1 Properties
+
+2 Taxonomic classification
+
+3 Paleosol identification
+
+4 Applications
+
+4.1 Paleoclimate reconstructions
+
+4.2 Paleoatmosphere reconstructions
+
+4.3 Paleobotany
+
+4.4 Paleoseismology
+
+5 See also
+
+6 References
+
+7 External links
+
+Properties
+
+Because of the changes in the Earth's climate over the last fifty million years, soils formed under tropical rainforest (or even savanna) have become exposed to increasingly arid climates which cause former oxisols, ultisols or even alfisols to dry out in such a manner that a very hard crust is formed. This process has occurred so extensively in most parts of Australia as to restrict soil development - the former soil is effectively the parent material for a new soil, but it is so unweatherable that only a very poorly developed soil can exist in present dry climates, especially when they have become much drier during glacial periods in the Quaternary.
+
+In other parts of Australia, and in many parts of Africa, drying out of former soils has not been so severe. This has led to large areas of relict podsols in quite dry climates in the far southern inland of Australia (where temperate rainforest was formerly dominant) and to the formation of torrox soils (a suborder of oxisols) in southern Africa. Here, present climates allow, effectively, the maintenance of the old soils in climates under which they could not actually form if one were to start with the parent material on which they developed in the Mesozoic and Paleocene.
+
+Paleosols in this sense are always exceedingly infertile soils, containing available phosphorus levels orders of magnitude lower than in temperate regions with younger soils. Ecological studies have shown that this has forced highly specialised evolution amongst Australian flora to obtain minimal nutrient supplies. The fact that soil formation is simply not occurring makes ecologically sustainable management even more difficult. However, paleosols often contain the most exceptional biodiversity due to the absence of competition.
+
+Taxonomic classification
+
+The record of paleosols extends into the Precambrian in Earth's history, with rare paleosols older than 2.5 billion years. Geology, biology, and the atmosphere all changed significantly over that time, with dramatic shifts at the Great Oxidation Event (2.42 billion years ago) and during the Paleozoic, when complex animals and land plants proliferated. Consequently, our modern soil classification system cannot be readily applied to paleosols. For example, a modern alfisol - broadly defined as a forest soil - would not have existed prior to the evolution of trees. More problematically, it is specifically defined by chemical properties that would not be preserved in the rock record. While modern soil orders are often used to describe paleosols in a qualitative sense, a paleosol-specific naming scheme has been proposed, although it is only sporadically used in the literature.
+
+Paleosol identification
+
+Rye and Holland (1998) laid out five criteria for identifying a paleosol. While this was prompted by the need for more stringent identification of Precambrian paleosols, it is applicable to paleosols of any age. The criteria are: formed in situ on bedrock, soft-sediment deformation at the top of the profile, and up-profile changes in chemistry, texture, and mineralogy consistent with terrestrial weathering processes. In the field, physical signs of a paleosol include evidence of horizonation (e.g., color and textural changes), bedrock incorporated into a finer overlying lithology (corestones), and evidence of surface processes (e.g., root traces, organic matter, burrows, redox alteration). However, any paleosol should be verified geochemically before use in proxy-based reconstructions; post-deposition alteration processes, such as potassium metasomatism, can change a paleosol's chemistry without dramatically altering its physical appearance.
+
+Applications
+
+Paleoclimate reconstructions
+
+Because rates and styles of weathering are dependent on climatic factors, paleosols can be used to reconstruct variables of past climate. Mean annual precipitation (MAP) and air temperature (MAAT) are two commonly-reconstructed variables which, along with seasonality and in conjunction with other paleoenvironmental tools, can be used to describe past terrestrial climates. A suite of paleoclimatic proxies exist and while they vary in focus, many rely on changes in chemical composition throughout a soil profile that occur during weathering, burial, and post-burial processes. Their use depends on factors such as post-burial alteration, parent material, and soil order; not every proxy is applicable to every paleosol. Most proxies are applicable to Phanerozoic paleosols (not older), as landscape processes changed dramatically after the rise of land plants. Seasonality (the presence and strength of seasons) requires a more nuanced reconstruction approach. Proposed seasonality proxies primarily rely on a soil wetting/drying process, during which pedogenic carbonate can form; like other proxies, this tool is continually being tested and refined.
+
+Paleoatmosphere reconstructions
+
+Soils form in near-constant contact with the atmosphere, so their chemical composition is affected by the composition of the atmosphere through both direct and indirect pathways. The oxidation of paleosols has been used as an indicator of atmospheric oxygen, which has risen over Earth's history. Paleosols have also been used to reconstruct atmospheric carbon dioxide levels, based on modern studies of soil carbon gas exchange, carbon isotopes in pedogenic carbonate nodules, and mass-balance approaches taking multiple atmospheric gases (typically carbon dioxide, oxygen, and methane) into account. These methods are being actively developed in the field of early Earth research.
+
+Paleobotany
+
+Paleosols are an important archive of information about ancient ecosystems and various components of fossil soils can be used to study past plant life. Paleosols often contain ancient plant materials such as pollen grains and phytoliths, a biomineralized form of silica produced by many plants such as grasses. Both pollen and phytolith fossils from different plant species have characteristic shapes that can be traced back to their parent plants. Over long geological time scales, phytoliths may not necessarily be preserved in paleosols due to ability of the poorly crystalline silica to dissolve.
+
+Another indicator of plant community composition in paleosols is the carbon isotopic signature. The ratio of different carbon isotopes in organic matter in paleosols reflects the proportions of plants using C3 photosynthesis, which grow in cooler and wetter climates, versus plants using C4 photosynthesis, which are better adapted to hotter and drier conditions. Other methods for detecting past plant life in paleosols are based on identifying the remains of leaf waxes, which are slow to break down in soils over time.
+
+Paleoseismology
+
+As records of previous Earth surfaces that can be stacked on one another, paleosol sequences are also useful in the field of paleoseismology. 
+
+See also
+
+Paleopedology
+
+Paleopedological record
+
+Pedogenesis
+
+Pedology (soil study)
+
+References
+
+^ Retallack, G.J., 2001, Soils of the Past, 2nd ed. New York, Blackwell Science. ISBN 0-632-05376-3
+
+^ Kraus, M.J., 1999, Paleosols in clastic sedimentary rocks: their geologic applications, Earth Science Review 47:41-70.
+
+^ Tim F. Flannery, The Future Eaters: An Ecological History of the Australian Lands and People; published 1994 by George Braziller
+
+^ David Tilman; Resource Competition And Community Structure; published 1982 by Princeton University Press
+
+^ Mack, Greg H.; James, W. Calvin; Monger, H. Curtis (1993-02-01). "Classification of paleosols". GSA Bulletin. 105 (2): 129–136. Bibcode:1993GSAB..105..129M. doi:10.1130/0016-7606(1993)105<0129:COP>2.3.CO;2. ISSN 0016-7606.
+
+^ "Sign In". www.ajsonline.org. Retrieved 2019-12-04.
+
+^ Sheldon, Nathan D.; Tabor, Neil J. (2009-06-01). "Quantitative paleoenvironmental and paleoclimatic reconstruction using paleosols". Earth-Science Reviews. 95 (1): 1–52. Bibcode:2009ESRv...95....1S. doi:10.1016/j.earscirev.2009.03.004. ISSN 0012-8252.
+
+^ Tabor, Neil J.; Myers, Timothy S. (2015). "Paleosols as Indicators of Paleoenvironment and Paleoclimate". Annual Review of Earth and Planetary Sciences. 43 (1): 333–361. Bibcode:2015AREPS..43..333T. doi:10.1146/annurev-earth-060614-105355.
+
+^ Retallack, Gregory J. (2005-04-01). "Pedogenic carbonate proxies for amount and seasonality of precipitation in paleosols". Geology. 33 (4): 333–336. Bibcode:2005Geo....33..333R. doi:10.1130/G21263.1. ISSN 0091-7613.
+
+^ Breecker, D. O.; Sharp, Z. D.; McFadden, L. D. (2009-03-01). "Seasonal bias in the formation and stable isotopic composition of pedogenic carbonate in modern soils from central New Mexico, USASeasonal bias in the formation of pedogenic carbonate". GSA Bulletin. 121 (3–4): 630–640. doi:10.1130/B26413.1. ISSN 0016-7606.
+
+^ "Sign In". www.ajsonline.org. Retrieved 2019-12-04.
+
+^ Sheldon, Nathan D. (2006-06-10). "Precambrian paleosols and atmospheric CO2 levels". Precambrian Research. 147 (1): 148–155. Bibcode:2006PreR..147..148S. doi:10.1016/j.precamres.2006.02.004. ISSN 0301-9268.
+
+^ Breecker, D. O. (2013). "Quantifying and understanding the uncertainty of atmospheric CO2 concentrations determined from calcic paleosols". Geochemistry, Geophysics, Geosystems. 14 (8): 3210–3220. Bibcode:2013GGG....14.3210B. doi:10.1002/ggge.20189. ISSN 1525-2027.
+
+^ Cerling, T. E. (Univ of Utah (1991-04-01). "Carbon dioxide in the atmosphere: Evidence from cenozoic and mesozoic paleosols". American Journal of Science; (United States). 291:4 (4): 377–400. Bibcode:1991AmJS..291..377C. doi:10.2475/ajs.291.4.377. ISSN 0002-9599. OSTI 5895659.
+
+^ Kurmann, M. H. (1985). An opal phytolith and palynomorph study of extant and fossil soils in Kansas (USA). Palaeogeography, Palaeoclimatology, Palaeoecology, 49(3), 217-235.
+
+^ Cerling, T. E. (1984). The stable isotopic composition of modern soil carbonate and its relationship to climate. Earth and Planetary Science Letters, 71(2), 229-240.
+
+^ Zhang, Z., Zhao, M., Eglinton, G., Lu, H., & Huang, C. Y. (2006). Leaf wax lipids as paleovegetational and paleoenvironmental proxies for the Chinese Loess Plateau over the last 170kyr. Quaternary Science Reviews, 25(5), 575-594.
+
+External links
+
+ The Wikibook Historical Geology has a page on the topic of: Soils and paleosols
+
+Commission on Paleopedology of the International Union of Soil Science, Subcommission on Paleopedology of the International Union for Quaternary Research

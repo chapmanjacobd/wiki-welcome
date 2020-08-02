@@ -1,0 +1,3681 @@
+This article is about the Hijri calendar based on lunar observation. For the solar calendar whose first year is fixed to the Hijra, see Solar Hijri calendar. For the rule-based Hijri calendar, see Tabular Islamic calendar.
+
+lunar calendar used by Muslims to determine religious observances
+
+Today
+
+Sunday
+
+* * *
+
+26 July
+
+2020 AD/CE
+
+* * *
+
+5 Dhu al-Hijjah
+
+1441 AH
+
+* * *
+
+Using tabular calculations
+
+ Part of a series on
+
+Islam
+
+Beliefs
+
+Oneness of God
+
+Prophets
+
+Revealed Books
+
+Angels
+
+Day of Resurrection
+
+Predestination
+
+Practices
+
+Profession of Faith
+
+Prayer
+
+Alms-giving
+
+Fasting
+
+Pilgrimage
+
+Texts and sciences
+
+Quran
+
+Sunnah (Hadith, Sirah)
+
+Aqidah (creed)
+
+Tafsir (exegesis)
+
+Sharia (law)
+
+Fiqh (jurisprudence)
+
+History
+
+Timeline
+
+Muhammad
+
+Ahl al-Bayt
+
+Sahabah
+
+Rashidun
+
+Caliphate
+
+Imamate
+
+Spread of Islam
+
+Succession to Muhammad
+
+Culture and society
+
+Sufism
+
+Academics
+
+Animals
+
+Art
+
+Calendar
+
+Children
+
+Demographics
+
+Denominations
+
+Economics
+
+Education
+
+Exorcism
+
+Feminism
+
+Festivals
+
+Finance
+
+LGBT
+
+Madrasa
+
+Moral teachings
+
+Mosque
+
+Mysticism
+
+Philosophy
+
+Poetry
+
+Politics
+
+Proselytizing
+
+Science
+
+Slavery
+
+Social welfare
+
+Women
+
+Related topics
+
+Abrogation in Islam
+
+Criticism of Islam
+Muhammad
+
+Quran
+
+Islam and other religions
+
+Islamism
+
+Islam and violence
+
+Islamophobia
+
+Glossary
+
+ Islam portal
+
+v
+
+t
+
+e
+
+Islamic Calendar stamp issued at King Khalid airport (10 Rajab 1428 / 24 July 2007)
+
+The Islamic calendar (Arabic: ٱلتَّقْوِيم ٱلْهِجْرِيّ‎ at-taqwīm al-hijrīy), also known as the Hijri, Lunar Hijri, Muslim or Arabic calendar, is a lunar calendar consisting of 12 lunar months in a year of 354 or 355 days. It is used to determine the proper days of Islamic holidays and rituals, such as the annual period of fasting and the proper time for the Hajj. The civil calendar of almost all countries where the religion is predominantly Muslim is the Gregorian calendar, with Syriac month-names used in the Levant and Mesopotamia (Iraq, Syria, Jordan, Lebanon and Palestine). Notable exceptions to this rule are Iran and Afghanistan, which use the Solar Hijri calendar. Rents, wages and similar regular commitments are generally paid by the civil calendar.
+
+The Islamic calendar employs the Hijri era whose epoch was established as the Islamic New Year of 622 AD/CE. During that year, Muhammad and his followers migrated from Mecca to Medina and established the first Muslim community (ummah), an event commemorated as the Hijra. In the West, dates in this era are usually denoted AH (Latin: Anno Hegirae, "in the year of the Hijra") in parallel with the Christian (AD), Common (CE) and Jewish eras (AM). In Muslim countries, it is also sometimes denoted as H from its Arabic form (سَنَة هِجْرِيَّة, abbreviated ھ). In English, years prior to the Hijra are reckoned as BH ("Before the Hijra").
+
+The current Islamic year is 1441 AH. In the Gregorian calendar, 1441 AH runs from approximately 31 August 2019 to 20 August 2020.
+
+Contents
+
+1 History
+
+1.1 Pre-Islamic calendar
+
+1.2 Prohibiting Nasī’
+
+2 Days of the Week
+
+3 Months
+
+3.1 Length of months
+
+3.2 Prohibition of the name Ramadan
+
+4 Year numbering
+
+5 Astronomical considerations
+
+6 Theological considerations
+
+7 Astronomical 12-moon calendars
+
+7.1 Islamic calendar of Turkey
+
+7.2 Saudi Arabia's Umm al-Qura calendar
+
+8 Other calendars using the Islamic era
+
+9 Tabular Islamic calendar
+
+9.1 Kuwaiti algorithm
+
+10 Notable dates
+
+11 Converting Hijri to Gregorian date or vice versa
+
+11.1 Current correlations
+
+12 Uses
+
+13 Computer support
+
+14 See also
+
+15 References
+
+15.1 Notes
+
+16 External links
+
+History
+
+Pre-Islamic calendar
+
+Main article: Pre-Islamic calendar
+
+For central Arabia, especially Mecca, there is a lack of epigraphical evidence but details are found in the writings of Muslim authors of the Abbasid era. Inscriptions of the ancient South Arabian calendars reveal the use of a number of local calendars. At least some of these South Arabian calendars followed the lunisolar system. Both al-Biruni and al-Mas'udi suggest that the ancient Arabs used the same month names as the Muslims, though they also record other month names used by the pre-Islamic Arabs.
+
+The Islamic tradition is unanimous in stating that Arabs of Tihamah, Hejaz, and Najd distinguished between two types of months, permitted (ḥalāl) and forbidden (ḥarām) months. The forbidden months were four months during which fighting is forbidden, listed as Rajab and the three months around the pilgrimage season, Dhu al-Qa‘dah, Dhu al-Hijjah, and Muharram. A similar if not identical concept to the forbidden months is also attested by Procopius, where he describes an armistice that the Eastern Arabs of the Lakhmid al-Mundhir respected for two months in the summer solstice of 541 AD/CE. However, Muslim historians do not link these months to a particular season. The Qur'an links the four forbidden months with Nasī’, a word that literally means "postponement". According to Muslim tradition, the decision of postponement was administered by the tribe of Kinanah, by a man known as the al-Qalammas of Kinanah and his descendants (pl. qalāmisa).
+
+Different interpretations of the concept of Nasī’ have been proposed. Some scholars, both Muslim and Western, maintain that the pre-Islamic calendar used in central Arabia was a purely lunar calendar similar to the modern Islamic calendar. According to this view, Nasī’ is related to the pre-Islamic practices of the Meccan Arabs, where they would alter the distribution of the forbidden months within a given year without implying a calendar manipulation. This interpretation is supported by Arab historians and lexicographers, like Ibn Hisham, Ibn Manzur, and the corpus of Qur'anic exegesis.
+
+This is corroborated by an early Sabaic inscription, where a religious ritual was "postponed" (ns'’w) due to war. According to the context of this inscription, the verb ns'’ has nothing to do with intercalation, but only with moving religious events within the calendar itself. The similarity between the religious concept of this ancient inscription and the Qur'an suggests that non-calendaring postponement is also the Qur'anic meaning of Nasī’. The Encyclopaedia of Islam concludes "The Arabic system of  can only have been intended to move the Hajj and the fairs associated with it in the vicinity of Mecca to a suitable season of the year. It was not intended to establish a fixed calendar to be generally observed." The term "fixed calendar" is generally understood to refer to the non-intercalated calendar.
+
+Others concur that it was originally a lunar calendar, but suggest that about 200 years before the Hijra it was transformed into a lunisolar calendar containing an intercalary month added from time to time to keep the pilgrimage within the season of the year when merchandise was most abundant. This interpretation was first proposed by the medieval Muslim astrologer and astronomer Abu Ma'shar al-Balkhi, and later by al-Biruni, al-Mas'udi, and some western scholars. This interpretation considers Nasī’ to be a synonym to the Arabic word for "intercalation" (kabīsa). The Arabs, according to one explanation mentioned by Abu Ma'shar, learned of this type of intercalation from the Jews. The Jewish Nasi was the official who decided when to intercalate the Jewish calendar. Some sources say that the Arabs followed the Jewish practice and intercalated seven months over nineteen years, or else that they intercalated nine months over 24 years; there is, however, no consensus among scholars on this issue.
+
+Postponement (Nasī’) of one ritual in a particular circumstance does not imply alteration of the sequence of months, and scholars agree that this did not happen. Al-Biruni also says this did not happen, and the festivals were kept within their season by intercalation every second or third year of a month between Dhu al-Hijjah and Muharram. He also says that, in terms of the fixed calendar that was not introduced until 10 AH (632 AD/CE), the first intercalation was, for example, of a month between Dhu al-Hijjah and Muharram, the second of a month between Muharram and Safar, the third of a month between Safar and Rabi'I, and so on. The intercalations were arranged so that there were seven of them every nineteen years. The notice of intercalation was issued at the pilgrimage, the next month would be Nasī’ and Muharram would follow. If, on the other hand, the names relate to the intercalated rather than the fixed calendar, the second intercalation might be, for example, of a month between Muharram and Safar allowing for the first intercalation, and the third intercalation of a month between Safar and Rabi'I allowing for the two preceding intercalations, and so on. The time for the intercalation to move from the beginning of the year to the end (twelve intercalations) is the time it takes the fixed calendar to revolve once through the seasons (about 32 1/2 tropical years). There are two big drawbacks of such a system, which would explain why it is not known ever to have been used anywhere in the world. First, it cannot be regulated by means of a cycle (the only cycles known in antiquity were the octaeteris (3 intercalations in 8 years) and the enneadecaeteris (7 intercalations in 19 years). Secondly, without a cycle it is difficult to establish from the number of the year (a) if it is intercalary and (b) if it is intercalary, where exactly in the year the intercalation is located.
+
+Although some scholars (see list above) claim that the holy months were shuffled about for convenience without the use of intercalation, there is no documentary record of the festivals of any of the holy months being observed in any month other than those they are now observed in. The Qu'ran (sura 9.37) only refers to the "postponement" of a sacred month. If they were shuffled as suggested, one would expect there to be a prohibition against "anticipation" as well. If the festivities of the sacred months were kept in season by moving them into later months, they would move through the whole twelve months in only 33 years. Had this happened, at least one writer would have mentioned it. Sura 9.36 states "Verily, the number of months with Allah is twelve months" and sura 37 refers to "adjusting the number of months". Such adjustment can only be effected by intercalation.
+
+There are a number of indications that the intercalated calendar was similar to the Jewish calendar, whose year began in the spring. There are clues in the names of the months themselves:
+
+Rabi' I - first spring
+
+Rabi' II - second spring
+
+Jumada I - first month of parched land
+
+Jumada II - second month of parched land
+
+Sha'ban - Arabs "dispersed" to find water
+
+Ramadan - scorched
+
+Shawwal - female camels "raised" their tails after calving
+
+In the intercalated calendar's last year (AD/CE 632), Dhu al-Hijjah corresponded to March. The Battle of the Trench in Shawwal and Dhu'l Qi'dah of AH 5 coincided with "harsh winter weather". Military campaigns clustered round Ramadan, when the summer heat had dissipated, and all fighting was forbidden during Rajab, at the height of summer. The invasion of Tabak in Rajab AH 9 was hampered by "too much hot weather" and "drought". In AH 1 Muhammad noted the Jews of Yathrib observing a festival when he arrived on Monday, 8 Rabi'I. Rabi'I is the third month and if it coincided with the third month of the Jewish calendar the festival would have been the Feast of Weeks, which is observed on the 6th and 7th days of that month.
+
+Prohibiting Nasī’
+
+Further information: Nasi'
+
+Illustration of Muhammad prohibiting Nasī'. Found in an illustrated copy of Al-Biruni's The Remaining Signs of Past Centuries (17th-century copy of an early 14th-century Ilkhanid manuscript).
+
+In the tenth year of the Hijra, as documented in the Qur'an (Surah At-Tawbah (9):36–37), Muslims believe God revealed the "prohibition of the Nasī'".
+
+The number of the months, with God, is twelve in the Book of God, the day that He created the heavens and the earth; four of them are sacred. That is the right religion. So wrong not each other during them. And fight the unbelievers totally even as they fight you totally and know that God is with the godfearing.
+Know that intercalation (nasi) is an addition to disbelief. Those who disbelieve are led to error thereby, making it lawful in one year and forbidden in another in order to adjust the number of (the months) made sacred by God and make the sacred ones permissible. The evil of their course appears pleasing to them. But God gives no guidance to those who disbelieve.
+
+— Surah at-Tawbah (9), Ayahs 36–37
+
+The prohibition of Nasī' would presumably have been announced when the intercalated month had returned to its position just before the month of Nasi' began. If Nasī' meant intercalation, then the number and the position of the intercalary months between AH 1 and AH 10 are uncertain; western calendar dates commonly cited for key events in early Islam such as the Hijra, the Battle of Badr, the Battle of Uhud and the Battle of the Trench should be viewed with caution as they might be in error by one, two, three or even four lunar months. This prohibition was mentioned by Muhammad during the farewell sermon which was delivered on 9 Dhu al-Hijjah AH 10 (Julian date Friday 6 March, 632 AD/CE) on Mount Arafat during the farewell pilgrimage to Mecca.
+
+Certainly the Nasi’ is an impious addition, which has led the infidels into error. One year they authorise the Nasi', another year they forbid it. They observe the divine precept with respect to the number of the sacred months, but in fact they profane that which God has declared to be inviolable, and sanctify that which God has declared to be profane. Assuredly time, in its revolution, has returned to such as it was at the creation of the heavens and the earth. In the eyes of God the number of the months is twelve. Among these twelve months four are sacred, namely, Rajab, which stands alone, and three others which are consecutive.
+
+— Translated by Sherrard Beaumont Burnaby
+
+The three successive sacred (forbidden) months mentioned by Prophet Muhammad (months in which battles are forbidden) are Dhu al-Qa'dah, Dhu al-Hijjah, and Muharram, months 11, 12, and 1 respectively. The single forbidden month is Rajab, month 7. These months were considered forbidden both within the new Islamic calendar and within the old pagan Meccan calendar.
+
+Days of the Week
+
+The Islamic days, like those in the Hebrew and Bahá'í calendars, begin at sunset. The Christian liturgical day, kept in monasteries, begins with vespers (see vesper), which is evening, in line with the other Abrahamic traditions. Christian and planetary weekdays begin at the following midnight. Muslims gather for worship at a mosque at noon on "gathering day" (Yawm al-Jumʿah) which corresponds with Friday.
+
+Thus "gathering day" is often regarded as the weekly day off. This is frequently made official, with many Muslim countries adopting Friday and Saturday (e.g., Egypt, Saudi Arabia) or Thursday and Friday as official weekends, during which offices are closed; other countries (e.g., Iran) choose to make Friday alone a day of rest. A few others (e.g., Turkey, Pakistan, Morocco, Nigeria) have adopted the Saturday-Sunday weekend while making Friday a working day with a long midday break to allow time off for worship.
+
+No.NameArabicMeaningGregorian equivalent
+
+1 al-ʾAḥad ٱلْأَحَد‎ the One Sunday
+
+2 al-ʾIthnayn ٱلْإِثْنَيْن‎ the Second Monday
+
+3 ath-Thulāthāʾ ٱلثُّلَاثَاء‎ the Third Tuesday
+
+4 al-ʾArbiʿāʾ ٱلْأَرْبِعَاء‎ the Fourth Wednesday
+
+5 al-Khamīs ٱلْخَمِيس‎ the Fifth Thursday
+
+6 al-Jumʿah ٱلْجُمْعَة‎ the Gathering Friday
+
+7 as-Sabt ٱلسَّبْت‎ the Rest Saturday
+
+Months
+
+Four of the twelve Hijri months are considered sacred: Rajab (7), and the three consecutive months of Dhū al-Qa'dah (11), Dhu al-Ḥijjah (12) and Muḥarram (1). As the lunar calendar lags behind the solar calendar by about ten days every Gregorian year, months of the Islamic calendar fall in different parts of the Gregorian calendar each year. The cycle repeats every 33 lunar years.
+
+No.NameArabicMeaningNote
+
+1 al-Muḥarram ٱلْمُحَرَّم‎ forbidden A sacred month, so called because battle and all kinds of fighting are forbidden (ḥarām) during this month. Muharram includes Ashura, the tenth day.
+
+2 Ṣafar صَفَر‎ void Supposedly named this because pre-Islamic Arab houses were empty this time of year while their occupants gathered food. Another account relates that they used to loot the houses of their enemies after defeating them in battle, leaving nothing behind.
+
+3 Rabīʿ al-ʾAwwal/ Rabīʿ al-ʾŪlā رَبِيع ٱلْأَوَّل‎or
+
+رَبِيع ٱلْأُولَىٰ‎ the first spring Also means to graze, because cattle were grazed during this month. Also a very holy month of celebration for many Muslims, as it was the month the Prophet Muhammad was born.
+
+4 Rabīʿ ath-Thānī, Rabīʿ al-ʾĀkhir رَبِيع ٱلثَّانِي‎
+
+رَبِيع ٱلْآخِر‎ the second spring, the last spring 
+
+5 Jumādā al-ʾAwwal / Jumadā al-ʾŪlā جُمَادَىٰ ٱلْأَوَّل‎
+
+or
+
+جُمَادَىٰ ٱلْأُولَىٰ‎ the first of parched land Often considered the pre-Islamic summer. Jumādā may also be related to a verb meaning "to freeze" and another account relates that water would freeze during this time of year.
+
+6 Jumādā ath-Thāniyah / Jumādā al-ʾĀkhirah جُمَادَىٰ ٱلثَّانِيَة‎
+
+جُمَادَىٰ ٱلْآخِرَة‎ the second of parched land/the last of parched land 
+
+7 Rajab رَجَب‎ respect, honour This is the second sacred month in which fighting is forbidden. Rajab may also be related to a verb meaning "to remove", so called because pre-Islamic Arabs would remove the heads of their spears and refrain from fighting.
+
+8 Shaʿbān شَعْبَان‎ scattered Marked the time of year when Arab tribes dispersed to find water. Sha‘bān may also be related to a verb meaning "to be in between two things". Another account relates that it was called thus because the month lies between Rajab and Ramadan.
+
+9 Ramaḍān رَمَضَان‎ burning heat Burning is related to fasting as with an empty stomach one's worldly desire will burn. Supposedly so called because of high temperatures caused by the excessive heat of the sun. Ramaḍān is the most venerated month of the Hijri calendar. During this time, Muslims must fast from pre-dawn until sunset and should give charity to the poor and needy.
+
+10 Shawwāl شَوَّال‎ raised Female camels would normally be in calf at this time of year and raise their tails. At the first day of this month, the Eid al-Fitr, "Festival of Breaking the Fast" begins, marking the end of fasting and the end of Ramadhan.
+
+11 Zū al-Qaʿdah ذُو ٱلْقَعْدَة‎ the one of truce/sitting This is a holy month during which war is banned. People are allowed to defend themselves if attacked.
+
+12 Zū al-Ḥijjah ذُو ٱلْحِجَّة‎ the one of pilgrimage During this month Muslim pilgrims from all around the world congregate at Mecca to visit the Kaaba. The Hajj is performed on the eighth, ninth and the tenth of this month. Day of Arafah takes place on the ninth of the month. Eid al-Adha, the "Festival of the Sacrifice", begins on the tenth day and ends on sunset of the twelfth, and this is a fourth holy month during which war is banned.
+
+Length of months
+
+Each month of the Islamic calendar commences on the birth of the new lunar cycle. Traditionally this is based on actual observation of the moon's crescent (hilal) marking the end of the previous lunar cycle and hence the previous month, thereby beginning the new month. Consequently, each month can have 29 or 30 days depending on the visibility of the moon, astronomical positioning of the earth and weather conditions. However, certain sects and groups, most notably Bohras Muslims namely Alavis, Dawoodis and Sulaymanis and Shia Ismaili Muslims, use a tabular Islamic calendar (see section below) in which odd-numbered months have thirty days (and also the twelfth month in a leap year) and even months have 29.
+
+Prohibition of the name Ramadan
+
+According to numerous Hadiths, 'Ramadan' is one of the names of God in Islam, and as such it is prohibited to say only "Ramadan" in reference to the calendar month and that it is necessary to say the "month of Ramadan", as reported in Sunni, Shia and Zaydi Hadiths.
+
+Year numbering
+
+Main article: Hijri year
+
+In pre-Islamic Arabia, it was customary to identify a year after a major event which took place in it. Thus, according to Islamic tradition, Abraha, governor of Yemen, then a province of the Christian Kingdom of Aksum (Ethiopia), attempted to destroy the Kaaba with an army which included several elephants. The raid was unsuccessful, but that year became known as the Year of the Elephant, during which Muhammad was born (sura al-Fil). Most equate this to the year 570 AD/CE, but a minority use 571 CE.
+
+The first ten years of the Hijra were not numbered, but were named after events in the life of Muhammad according to Abū Rayḥān al-Bīrūnī:
+
+The year of permission.
+
+The year of the order of fighting.
+
+The year of the trial.
+
+The year of congratulation on marriage.
+
+The year of the earthquake.
+
+The year of enquiring.
+
+The year of gaining victory.
+
+The year of equality.
+
+The year of exemption.
+
+The year of farewell.
+
+In AH 17 (638 AD/CE), Abu Musa Ashaari, one of the officials of the Caliph Umar in Basrah, complained about the absence of any years on the correspondence he received from Umar, making it difficult for him to determine which instructions were most recent. This report convinced Umar of the need to introduce an era for Muslims. After debating the issue with his counsellors, he decided that the first year should be the year of Muhammad's arrival at Medina (known as Yathrib, before Muhammad's arrival). Uthman ibn Affan then suggested that the months begin with Muharram, in line with the established custom of the Arabs at that time. The years of the Islamic calendar thus began with the month of Muharram in the year of Muhammad's arrival at the city of Medina, even though the actual emigration took place in Safar and Rabi' I of the intercalated calendar, two months before the commencement of Muharram in the new fixed calendar. Because of the Hijra, the calendar was named the Hijri calendar.
+
+F A Shamsi (1984) postulated that the Arabic calendar was never intercalated. According to him, the first day of the first month of the new fixed Islamic calendar (1 Muharram AH 1) was no different from what was observed at the time. The day the Prophet moved from Quba' to Medina was originally 26 Rabi' I on the pre-Islamic calendar. 1 Muharram of the new fixed calendar corresponded to Friday, 16 July 622 AD/CE, the equivalent civil tabular date (same daylight period) in the Julian calendar. The Islamic day began at the preceding sunset on the evening of 15 July. This Julian date (16 July) was determined by medieval Muslim astronomers by projecting back in time their own tabular Islamic calendar, which had alternating 30- and 29-day months in each lunar year plus eleven leap days every 30 years. For example, al-Biruni mentioned this Julian date in the year 1000 AD/CE. Although not used by either medieval Muslim astronomers or modern scholars to determine the Islamic epoch, the thin crescent moon would have also first become visible (assuming clouds did not obscure it) shortly after the preceding sunset on the evening of 15 July, 1.5 days after the associated dark moon (astronomical new moon) on the morning of 14 July.
+
+Though Cook and Crone in Hagarism: The Making of the Islamic World cite a coin from AH 17, the first surviving attested use of a Hijri calendar date alongside a date in another calendar (Coptic) is on a papyrus from Egypt in AH 22, PERF 558.
+
+Astronomical considerations
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2016) (Learn how and when to remove this template message)
+
+Due to the Islamic calendar's reliance on certain variable methods of observation to determine its month-start-dates, these dates sometimes vary slightly from the month-start-dates of the astronomical lunar calendar, which are based directly on astronomical calculations. Still, the Islamic calendar seldom varies by more than three days from the astronomical-lunar-calendar system, and roughly approximates it. Both the Islamic calendar and the astronomical-lunar-calendar take no account of the solar year in their calculations, and thus both of these strictly lunar based calendar systems have no ability to reckon the timing of the four seasons of the year.
+
+In the astronomical-lunar-calendar system, a year of 12 lunar months is 354.37 days long. In this calendar system, lunar months begin precisely at the time of the monthly "conjunction", when the Moon is located most directly between the Earth and the Sun. The month is defined as the average duration of a revolution of the Moon around the Earth (29.53 days). By convention, months of 30 days and 29 days succeed each other, adding up over two successive months to 59 full days. This leaves only a small monthly variation of 44 minutes to account for, which adds up to a total of 24 hours (i.e., the equivalent of one full day) in 2.73 years. To settle accounts, it is sufficient to add one day every three years to the lunar calendar, in the same way that one adds one day to the Gregorian calendar every four years. The technical details of the adjustment are described in Tabular Islamic calendar.
+
+The Islamic calendar, however, is based on a different set of conventions being used for the determination of the month-start-dates. Each month still has either 29 or 30 days, but due to the variable method of observations employed, there is usually no discernible order in the sequencing of either 29 or 30 day month lengths. Traditionally, the first day of each month is the day (beginning at sunset) of the first sighting of the hilal (crescent moon) shortly after sunset. If the hilal is not observed immediately after the 29th day of a month (either because clouds block its view or because the western sky is still too bright when the moon sets), then the day that begins at that sunset is the 30th. Such a sighting has to be made by one or more trustworthy men testifying before a committee of Muslim leaders. Determining the most likely day that the hilal could be observed was a motivation for Muslim interest in astronomy, which put Islam in the forefront of that science for many centuries. Still, due to the fact that both lunar reckoning systems are ultimately based on the lunar cycle itself, both systems still do roughly correspond to one another, never being more than three days out of synchronisation with one another.
+
+Clerics observe the moon.
+
+This traditional practice for the determination of the start-date of the month is still followed in the overwhelming majority of Muslim countries. Each Islamic state proceeds with its own monthly observation of the new moon (or, failing that, awaits the completion of 30 days) before declaring the beginning of a new month on its territory. But, the lunar crescent becomes visible only some 17 hours after the conjunction, and only subject to the existence of a number of favourable conditions relative to weather, time, geographic location, as well as various astronomical parameters. Given the fact that the moon sets progressively later than the sun as one goes west, with a corresponding increase in its "age" since conjunction, Western Muslim countries may, under favorable conditions, observe the new moon one day earlier than eastern Muslim countries. Due to the interplay of all these factors, the beginning of each month differs from one Muslim country to another, during the 48 hour period following the conjunction. The information provided by the calendar in any country does not extend beyond the current month.
+
+A number of Muslim countries try to overcome some of these difficulties by applying different astronomy-related rules to determine the beginning of months. Thus, Malaysia, Indonesia, and a few others begin each month at sunset on the first day that the moon sets after the sun (moonset after sunset). In Egypt, the month begins at sunset on the first day that the moon sets at least five minutes after the sun. A detailed analysis of the available data shows, however, that there are major discrepancies between what countries say they do on this subject, and what they actually do. In some instances, what a country says it does is impossible.
+
+Due to the somewhat variable nature of the Islamic calendar, in most Muslim countries, the Islamic calendar is used primarily for religious purposes, while the Solar-based Gregorian calendar is still used primarily for matters of commerce and agriculture.
+
+Theological considerations
+
+If the Islamic calendar were prepared using astronomical calculations, Muslims throughout the Muslim world could use it to meet all their needs, the way they use the Gregorian calendar today. But, there are divergent views on whether it is licit to do so.
+
+A majority of theologians oppose the use of calculations (beyond the constraint that each month must be not less than 29 nor more than 30 days) on the grounds that the latter would not conform with Muhammad's recommendation to observe the new moon of Ramadan and Shawal in order to determine the beginning of these months.
+
+However, some jurists see no contradiction between Muhammad's teachings and the use of calculations to determine the beginnings of lunar months. They consider that Muhammad's recommendation was adapted to the culture of the times, and should not be confused with the acts of worship.
+
+Thus the jurists Ahmad Muhammad Shakir and Yusuf al-Qaradawi both endorsed the use of calculations to determine the beginning of all months of the Islamic calendar, in 1939 and 2004 respectively. So did the Fiqh Council of North America (FCNA) in 2006 and the European Council for Fatwa and Research (ECFR) in 2007.
+
+The major Muslim associations of France also announced in 2012 that they would henceforth use a calendar based on astronomical calculations, taking into account the criteria of the possibility of crescent sighting in any place on Earth. But, shortly after the official adoption of this rule by the French Council of the Muslim Faith (CFCM) in 2013, the new leadership of the association decided, on the eve of Ramadan 2013, to follow the Saudi announcement rather than to apply the rule just adopted. This resulted in a division of the Muslim community of France, with some members following the new rule, and others following the Saudi announcement.
+
+Isma'ili-Taiyebi Bohras having the institution of da'i al-mutlaq follow the tabular Islamic calendar (see section below) prepared on the basis of astronomical calculations from the days of Fatimid imams.
+
+Astronomical 12-moon calendars
+
+Islamic calendar of Turkey
+
+Turkish Muslims use an Islamic calendar which is calculated several years in advance (currently up to 1444 AH/2022 CE) by the Turkish Presidency of Religious Affairs (Diyanet İşleri Başkanlığı). From 1 Muharrem 1400 AH (21 November 1979) until 29 Zilhicce 1435 (24 October 2014) the computed Turkish lunar calendar was based on the following rule: "The lunar month is assumed to begin on the evening when, within some region of the terrestrial globe, the computed centre of the lunar crescent at local sunset is more than 5° above the local horizon and (geocentrically) more than 8° from the Sun." In the current rule the (computed) lunar crescent has to be above the local horizon of Ankara at sunset.
+
+Saudi Arabia's Umm al-Qura calendar
+
+Saudi Arabia uses the sighting method to determine the beginning of each month of the Hijri calendar. Since AH 1419 (1998/99), several official hilal sighting committees have been set up by the government to determine the first visual sighting of the lunar crescent at the beginning of each lunar month. Nevertheless, the religious authorities also allow the testimony of less experienced observers and thus often announce the sighting of the lunar crescent on a date when none of the official committees could see it.
+
+The country also uses the Umm al-Qura calendar, based on astronomical calculations, but this is restricted to administrative purposes. The parameters used in the establishment of this calendar underwent significant changes over the past decade.
+
+Before AH 1420 (before 18 April 1999), if the moon's age at sunset in Riyadh was at least 12 hours, then the day ending at that sunset was the first day of the month. This often caused the Saudis to celebrate holy days one or even two days before other predominantly Muslim countries, including the dates for the Hajj, which can only be dated using Saudi dates because it is performed in Mecca.
+
+For AH 1420–22, if moonset occurred after sunset at Mecca, then the day beginning at that sunset was the first day of a Saudi month, essentially the same rule used by Malaysia, Indonesia, and others (except for the location from which the hilal was observed).
+
+Since the beginning of AH 1423 (16 March 2002), the rule has been clarified a little by requiring the geocentric conjunction of the sun and moon to occur before sunset, in addition to requiring moonset to occur after sunset at Mecca. This ensures that the moon has moved past the sun by sunset, even though the sky may still be too bright immediately before moonset to actually see the crescent.
+
+In 2007, the Islamic Society of North America, the Fiqh Council of North America and the European Council for Fatwa and Research announced that they will henceforth use a calendar based on calculations using the same parameters as the Umm al-Qura calendar to determine (well in advance) the beginning of all lunar months (and therefore the days associated with all religious observances). This was intended as a first step on the way to unify, at some future time, Muslims' calendars throughout the world.
+
+Since 1 October 2016, as a cost-cutting measure, Saudi Arabia no longer uses the Islamic calendar for paying the monthly salaries of government employees but the Gregorian calendar.
+
+Other calendars using the Islamic era
+
+The Solar Hijri calendar is a solar calendar used in Iran and Afghanistan which counts its years from the Hijra or migration of Muhammad from Mecca to Medina in 622 AD/CE.
+
+Tabular Islamic calendar
+
+Main article: Tabular Islamic calendar
+
+The Tabular Islamic calendar is a rule-based variation of the Islamic calendar, in which months are worked out by arithmetic rules rather than by observation or astronomical calculation. It has a 30-year cycle with 11 leap years of 355 days and 19 years of 354 days. In the long term, it is accurate to one day in about 2,500 solar years or 2,570 lunar years. It also deviates up to about one or two days in the short term.
+
+Kuwaiti algorithm
+
+Main article: Tabular Islamic calendar § Kuwaiti algorithm
+
+Microsoft uses the "Kuwaiti algorithm", a variant of the tabular Islamic calendar, to convert Gregorian dates to the Islamic ones. Microsoft claimed that the variant is based on a statistical analysis of historical data from Kuwait, however it matches a known tabular calendar.
+
+Notable dates
+
+Main article: Muslim holidays
+
+Important dates in the Islamic (Hijri) year are:
+
+1 Muharram: Sunni Islamic New Year.
+
+10 Muharram: Day of Ashura. For Sunnis, the crossing of the Red Sea by Moses occurred on this day. For both Shias and Sunnis, the martyrdom of Husayn ibn Ali, the grandson of Muhammad, and his followers.
+
+12 Rabi al-Awwal: Mawlid or Birth of the Prophet for Sunnis.
+
+17 Rabi al-Awwal: Mawlid for Shias.
+
+27 Rajab: Isra and Mi'raj for the majority of Muslims.
+
+15 Sha'ban: Mid-Sha'ban, or Night of Forgiveness. For Twelvers, also the birthday of Muhammad al-Mahdi, the Twelfth Imam.
+
+1 Ramadan: Shia Islamic New Year. The first day of fasting.
+
+27 Ramadan: Nuzul al-Qur'an. The most probable day Muhammad received the first verses of the Quran. (17 Ramadan in Indonesia and Malaysia)
+
+Last third of Ramadan which includes Laylat al-Qadr.
+
+1 Shawwal: Eid ul-Fitr.
+
+8–13 Dhu al-Hijjah: The Hajj to Mecca.
+
+9 Dhu al-Hijjah: Day of Arafa.
+
+10 Dhu al-Hijjah: Eid al-Adha.
+
+Days considered important predominantly for Shia Muslims:
+
+9 Rabi' al-Awwal: Eid-e-Shuja' (Revenge taken by Mukhtar al-Thaqafi).
+
+13 Rajab: Birthday of Ali ibn Abi Talib
+
+3 Sha'ban: Birthday of Husayn ibn Ali.
+
+21 Ramadan: Martyrdom of Ali ibn Abi Talib.
+
+Converting Hijri to Gregorian date or vice versa
+
+Civil and Hijri establishment dates of a library in Old City, Jerusalem
+
+Conversions may be made by using the Tabular Islamic calendar, or, for greatest accuracy (one day in 15,186 years), via the Jewish calendar. Theoretically, the days of the months correspond in both calendars if the displacements which are a feature of the Jewish system are ignored. The table below gives, for nineteen years, the Muslim month which corresponds to the first Jewish month.
+
+Year AD/CEYear AH
+Muslim
+
+month
+
+2011 1432 5
+
+2012 1433 5
+
+2013 1434 5
+
+2014 1435 6
+
+2015 1436 6
+
+2016 1437 7
+
+2017 1438 7
+
+2018 1439 7
+
+2019 1440 8
+
+2020 1441 8
+
+Year AD/CEYear AH
+Muslim
+
+month
+
+2021 1442 8
+
+2022 1443 9
+
+2023 1444 9
+
+2024 1445 10
+
+2025 1446 10
+
+2026 1447 10
+
+2027 1448 11
+
+2028 1449 11
+
+2029 1450 11
+
+This table may be extended since every nineteen years the Muslim month number increases by seven. When it goes above twelve, subtract twelve and add one to the year AH. From 412 AD/CE to 632 AD/CE inclusive the month number is 1 and the calculation gives the month correct to a month or so. 622 AD/CE corresponds to BH 1 and AH 1. For earlier years, year BH = (623 or 622) – year AD/CE).
+
+This article's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (July 2020) (Learn how and when to remove this template message)
+
+An example calculation: What is the civil date and year AH of the first day of the first month in the year 20875 AD/CE?
+
+We first find the Muslim month number corresponding to the first month of the Jewish year which begins in 20874 AD/CE. Dividing 20874 by 19 gives quotient 1098 and remainder 12. Dividing 2026 by 19 gives quotient 106 and remainder 12. 2026 is chosen because it gives the same remainder on division by 19 as 20874. The two years are therefore (1098–106)=992×19 years apart. The Muslim month number corresponding to the first Jewish month is therefore 992×7=6944 higher than in 2026. To convert into years and months divide by twelve – 6944/12=578 years and 8 months. Adding, we get 1447y 10m + 20874y – 2026y + 578y 8m = 20874y 6m. Therefore, the first month of the Jewish year beginning in 20874 AD/CE corresponds to the sixth month of the Muslim year AH 20874. The worked example in Conversion between Jewish and civil dates, shows that the civil date of the first day of this month (ignoring the displacements) is Friday, 14 June. The year AH 20875 will therefore begin seven months later, on the first day of the eighth Jewish month, which the worked example shows to be 7 January, 20875 AD/CE (again ignoring the displacements). The date given by this method, being calculated, may differ by a day from the actual date, which is determined by observation.
+
+A reading of the section which follows will show that the year AH 20875 is wholly contained within the year 20875 AD/CE, also that in the Gregorian calendar this correspondence will occur one year earlier. The reason for the discrepancy is that the Gregorian year (like the Julian, though less so) is slightly too long, so the Gregorian date for a given AH date will be earlier and the Muslim calendar catches up sooner.
+
+Current correlations
+
+An Islamic year will be entirely within a Gregorian year of the same number in the year 20874, after which year the number of the Islamic year will always be greater than the number of the concurrent civil year. The Islamic calendar year of 1429 occurred entirely within the civil calendar year of 2008. Such years occur once every 33 or 34 Islamic years (32 or 33 civil years). More are listed here:
+
+ Islamic year within civil year
+
+Islamic Civil Difference
+
+1026 1617 591
+
+1060 1650 590
+
+1093 1682 589
+
+1127 1715 588
+
+1161 1748 587
+
+1194 1780 586
+
+1228 1813 585
+
+1261 1845 584
+
+1295 1878 583
+
+1329 1911 582
+
+1362 1943 581
+
+1396 1976 580
+
+1429 2008 579
+
+1463 2041 578
+
+1496 2073 577
+
+1530 2106 576
+
+1564 2139 575
+
+1597 2171 574
+
+1631 2204 573
+
+1664 2236 572
+
+1698 2269 571
+
+1732 2302 570
+
+1765 2334 569
+
+1799 2367 568
+
+1832 2399 567
+
+1866 2432 566
+
+1899 2464 565
+
+1933 2497 564
+
+1967 2530 563
+
+2000 2562 562
+
+Because a Hijri or Islamic lunar year is between 10 and 12 days shorter than a civil year, it begins 10–12 days earlier in the civil year following the civil year in which the previous Hijri year began. Once every 33 or 34 Hijri years, or once every 32 or 33 civil years, the beginning of a Hijri year (1 Muharram) coincides with one of the first ten days of January. Subsequent Hijri New Years move backward through the civil year back to the beginning of January again, passing through each civil month from December to January.
+
+Uses
+
+The Islamic calendar is now used primarily for religious purposes, and for official dating of public events and documents in Muslim countries. Because of its nature as a purely lunar calendar, it cannot be used for agricultural purposes and historically Islamic communities have used other calendars for this purpose: the Egyptian calendar was formerly widespread in Islamic countries, and the Iranian calendar and the 1789 Ottoman calendar (a modified Julian calendar) were also used for agriculture in their countries. In the Levant and Iraq the Aramaic names of the Babylonian calendar are still used for all secular matters. In the Maghreb, Berber farmers in the countryside still use the Julian calendar for agrarian purposes. These local solar calendars have receded in importance with the near-universal adoption of the Gregorian calendar for civil purposes. The Saudi Arabia uses the lunar Islamic calendar. In Indonesia, the Javanese calendar, created by Sultan Agung in 1633, combines elements of the Islamic and pre-Islamic Saka calendars.
+
+British author Nicholas Hagger writes that after seizing control of Libya, Muammar Gaddafi "declared" on 1 December 1978 "that the Muslim calendar should start with the death of the prophet Mohammed in 632 rather than the hijra (Mohammed's 'emigration' from Mecca to Medina) in 622". This put the country ten solar years behind the standard Muslim calendar. However, according to the 2006 Encyclopedia of the Developing World, "More confusing still is Qaddafi's unique Libyan calendar, which counts the years from the Prophet's birth, or sometimes from his death. The months July and August, named after Julius and Augustus Caesar, are now Nasser and Hannibal respectively." Reflecting on a 2001 visit to the country, American reporter Neil MacFarquhar observed, "Life in Libya was so unpredictable that people weren't even sure what year it was. The year of my visit was officially 1369. But just two years earlier Libyans had been living through 1429. No one could quite name for me the day the count changed, especially since both remained in play. ... Event organizers threw up their hands and put the Western year in parentheses somewhere in their announcements."
+
+Computer support
+
+Hijri support was available in later versions of traditional Visual Basic, and is also available in the .NET Framework.
+
+See also
+
+Solar Hijri calendar
+
+Assyrian calendar
+
+Hebrew calendar
+
+Persian calendar
+
+Babylonian calendar
+
+Pre-Islamic Arabian calendar
+
+Rumi calendar
+
+Arabic names of Gregorian months
+
+List of observances set by the Islamic calendar
+
+Islamic New Year
+
+References
+
+^ The Beginning of Hijri calendar – Paul Lunde, Saudi Aramco World Magazine (November/December 2005), retrieved 1/1/2019
+
+^ a b Watt, W. Montgomery. "Hidjra". In P.J. Bearman; Th. Bianquis; C.E. Bosworth; E. van Donzel; W.P. Heinrichs (eds.). Encyclopaedia of Islam Online. Brill Academic Publishers. ISSN 1573-3912.
+
+^ Hijri Calendar, Government of Sharjah, archived from the original on 2 February 2017, retrieved 21 January 2017.
+
+^ Islamic Finder, Hijra calendar
+
+^ a b c d e f g F.C. De Blois, "TA’RĪKH": I.1.iv. "Pre-Islamic and agricultural calendars of the Arabian peninsula", The Encyclopaedia of Islam, 2nd edition, X:260.
+
+^ a b c A. Moberg, "NASI'", The Encyclopaedia of Islam, 2nd, VII: 977.
+
+^ a b c Abu Ma'shar al-Balkhi (787–886), Kitab al-Uluf, Journal Asiatique, series 5, xi (1858) 168+. (in French and Arabic)
+
+^ For an overview of the various theories and a discussion of the problem of "hindsight chronology" in early and pre-Islamic sources, see Maurice A. McPartlan, The Contribution of Qu'rān and Hadīt to Early Islamic Chronology (Durham, 1997).
+
+^ Mahmud Effendi (1858), as discussed in Sherrard Beaumont Burnaby, Elements of the Jewish and Muhammadan calendars (London: 1901), pp. 460–470.
+
+^ According to "Tradition", repeatedly cited by F.C. De Blois.
+
+^ Muḥammad al-Khuḍarī Bayk (1935). Muḥāḍarāt tārīkh al-Umam al-Islāmiyya. 2 (4th ed.). Al-maktaba al-tijāriyya. pp. 59–60.
+
+^ The Encyclopedia of Islam, 2nd edition, Index, p. 441.
+
+^ a b c d al-Biruni (tr. C. Edward Sachau (1879). "Intercalation of the Ancient Arabs", The Chronology of Ancient Nations. London: William H. Allen, 1000/1879. pp. 13–14, 73–74.CS1 maint: location (link)
+
+^ A. Moberg, "NASI'", E.J. Brill's first encyclopaedia of Islam.
+
+^ Bab. Talmud, Sanhedrin, p. 11.
+
+^ Bonner 2011, page 21.
+
+^ al-Biruni, The chronology of ancient nations, tr. C. Edward Sachau (1000/1879) 141.
+
+^ From an illustrated manuscript of Al-Biruni's 11th-century Vestiges of the Past (Bibliothèque Nationale, Paris, Arabe 1489 fol. 5v. (Bibliothèque Nationale on-line catalog). See also: Robert Hillenbrand, "Images of Muhammad in al-Bīrūnī's Chronology of Ancient Nations", in: R. Hillenbrand (ed.), Persian Painting from the Mongols to the Qajars: Studies in Honour of Basil W. Robinson (London/New York: I.B. Tauris Publishers, 2000), pp. 129–46.
+
+^ Quran 9:36–37
+
+^ Sherrard Beaumont Burnaby, Elements of the Jewish and Muhammadan calendars (London: 1901) 370.
+
+^ "Center for Muslim-Jewish Engagement". usc.edu. Archived from the original on 28 August 2014.
+
+^ Richards, E. G. (2012). "Calendars" (PDF). In Urban, Sean E.; Seidelmann, P. Kenneth (eds.). Explanatory Supplement to the Astronomical Almanac. Mill Valley, CA: University Science Books. p. 606. ISBN 978-1-891389-85-6.
+
+^ Hanif, Muhammad (18 February 2010). "The significance of the 12th of Rabi al - Awwal". Minhaj - ul - Quran. Retrieved 14 June 2016.
+
+^ Al-Bayhaqi, Abu Bakr. Sunnan al-Kubra (in Arabic). p. Vol. 4, Book 11, Ch. 6, Nu. 7904. قَالَ رَسُولُ اللَّٰهِ صَلَّىٰ اللَّٰهُ عَلَيْهِ وَسَلَّمَ: لَا تَقُولُوا۟ «رَمَضَانُ» فَإِنَّ رَمَضَانَ اسْمٌ مِنْ أَسْمَاءِ اللَّٰهِ وَلَٰكِنْ قُولُوا۟ «شَهْرُ رَمَضَانَ»
+
+^ Al-Tabari, Muhammad ibn Jarir. Tafsir al-Tabari (in Arabic). p. Vol. 3, Pg. 187. أَنَّهُ كَرِهَ أَنْ يُقَالُ «رَمَضَانَ»، وَيَقُولُ: لَعَلَّهُ اسْمٌ مِنْ أَسْمَاءِ اللَّٰهِ، لَٰكِنَّ نَقُولُ كَمَا قَالَ اللَّٰهُ: «شَهْرُ رَمَضَانَ»
+
+^ Al-Razi, Fakhr al-Din. Tafsir al-Kabir (in Arabic). p. Vol. 5, Pg. 251. عَنِ النَّبِيِّ صَلَّىٰ اللَّٰهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: لَا تَقُولُوا۟ «جَاءَ رَمَضَانُ» وَ«ذَهَبَ رَمَضَانُ» وَلَٰكِنْ قُولُوا۟ «جَاءَ شَهْرُ رَمَضَانَ» وَ«ذَهَبَ شَهْرُ رَمَضَانَ» فَإِنَّ رَمَضَانَ اسْمٌ مِنْ أَسْمَاءِ اللَّٰهِ تَعَالَىٰ.
+
+^ Ibn al-Jawzi, Abdul Rahman. Al-Mawdu'at (in Arabic). p. Vol. 2, Pg. 187. قَالَ رَسُولُ اللَّٰهِ صَلَّىٰ اللَّٰهُ عَلَيْهِ وَسَلَّمَ: لَا تَقُولُوا۟ «رَمَضَانُ» فَإِنَّ رَمَضَانَ اسْمُ اللَّٰهِ، وَلَٰكِنْ قُولُوا۟ «شَهْرُ رَمَضَانَ»
+
+^ Ibn Abu Hatim, Abdul Rahman. Tafsir Ibn Abu Hatim (in Arabic). p. Vol. 1, Pg. 310, Nu. 1648. لَا تَقُولُوا۟ «رَمَضَانُ»، فَإِنَّ رَمَضَانَ اسْمٌ مِنْ أَسْمَاءِ اللَّٰهِ، وَلَٰكِنْ قُولُوا۟ «شَهْرُ رَمَضَانَ»
+
+^ Al-Dimashqi, Tamam. Fawa'id al-Tamam (in Arabic). p. Vol. 1, Pg. 104, Nu. 241. قَالَ رَسُولُ اللَّٰهِ صَلَّىٰ اللَّٰهُ عَلَيْهِ وَسَلَّمَ: لَا يَقُولَنَّ أَحَدُكُمْ «صُمْتُ رَمَضَانَ»، وَ«قُمْتُ رَمَضَانَ»، وَلَا «صَنَعْتُ فِي رَمَضَانَ كَذَا وَكَذَا»، فَإِنَّ رَمَضَانَ اسْمٌ مِنْ أَسْمَاءِ اللَّٰهِ عَزَّ وَجَلَّ الْعِظَامِ، وَلَٰكِنْ قُولُوا۟ «شَهْرُ رَمَضَانَ» كَمَا قَالَ رَبُّكُمْ عَزَّ وَجَلَّ فِي كِتَابِهِ
+
+^ Ibn al-Saqri, Abu Tahir. Mashyakhah (in Arabic). p. Vol. 1, Pg. 126, Nu. 52. عَائِشَةَ رَضِيَ اللَّٰهُ عَنْهَا قَالَتْ قُلْتُ يَا رَسُولَ اللَّٰهِ مَا مَعْنَىٰ رَمَضَانَ فَقَالَ رَسُولُ اللَّٰهِ صَلَّىٰ اللَّٰهُ عَلَيْهِ وَسَلَّمَ: يَا حُمَيْرَاءُ لَا تَقُولِي «رَمَضَانُ» فَإِنَّهُ اسْمٌ مِنْ أَسْمَاءِ اللَّٰهِ وَلَٰكِنْ قُولِي «شَهْرُ رَمَضَانَ» يَعْنِي رَمَضَانَ أَرْمَضَ فِيهِ ذُنُوبَ عِبَادِهِ فَغَفَرَهَا
+
+^ Al-Kulayni, Muhammad ibn Ya'qub. Al-Kafi (in Arabic). p. Book 14 (the Book of Fasting), Ch. 4. قَالَ أَبُو جَعْفَرٍ (عَلَيْهِ السَّلَامُ): لَا تَقُولُوا۟ «هَٰذَا رَمَضَانُ» وَلَا «ذَهَبَ رَمَضَانُ» وَلَا «جَاءَ رَمَضَانُ» فَإِنَّ رَمَضَانَ اسْمٌ مِنْ أَسْمَاءِ اللَّٰهِ عَزَّ وَجَلَّ لَا يَجِيءُ وَلَا يَذْهَبُ وَإِنَّمَا يَجِيءُ وَيَذْهَبُ الزَّائِلُ وَلَٰكِنْ قُولُوا۟ «شَهْرُ رَمَضَانَ» فَإِنَّ الشَّهْرَ مُضَافٌ إِلَىٰ الْاسْمِ وَالاسْمُ اسْمُ اللَّٰهِ عَزَّ وَجَلَّ
+
+^ Ibn Babawayh, al-Saduq. Man La Yahduruhu al-Faqih (in Arabic). p. Vol. 2, Pg. 182. قَالَ أَمِيرُ الْمُؤْمِنِينَ (عَلَيْهِ السَّلَامُ): لَا تَقُولُوا۟ «رَمَضَانُ» وَلَٰكِنْ قُولُوا۟ «شَهْرُ رَمَضَانَ» فَإِنَّكُمْ لَا تَدْرُونَ مَا رَمَضَانُ
+
+^ Al-Hurr Al-Amili, Muhammad. Wasa'il al-Shia (in Arabic). p. Vol. 10, Ch. 19. عَلِيٍّ (عَلَيْهِ السَّلَامُ) قَالَ: لَا تَقُولُوا۟ «رَمَضَانُ» فَإِنَّكُمْ لَا تَدْرُونَ مَا رَمَضَانُ فَمَنْ قَالَهُ فَلْيَتَصَدَّقْ وَلْيَصُمْ كَفَّارَهً لِقَوْلِهِ وَلَٰكِنْ قُولُوا۟ كَمَا قَالَ اللَّٰهُ عَزَّ وَجَلَّ «شَهْرُ رَمَضَانَ»
+
+^ Al-Majlisi, Muhammad-Baqir. Bihar al-Anwar (in Arabic). p. Vol. 93, Ch. 48.
+
+^ Ibn Tawus, Sayyid. Al-Iqbal Bil-Amal (in Arabic). p. Vol. 1, Pg. 29.
+
+^ Al-Nouri Al-Tabarsi, Husayn. Mustadrak al-Wasa'il (in Arabic). p. Vol. 7, Ch. 12, Hadith 1, Nu. 8609.
+
+^ Al-Shajari, Yahya bin Hussein. Al-Amali Al-Khamisiyah (in Arabic). p. Vol. 1, Pg. 380, Nu. 1355. أَنَّ عَلِيًّا عَلَيْهِ السَّلَامُ كَانَ يَقُولُ: لَا تَقُولُوا۟ «رَمَضَانُ» فَإِنَّكُمْ لَا تَدْرُونَ مَا رَمَضَانُ فَمَنْ قَالَهُ فَلْيَتَصَدَّقْ وَلْيَصُمْ كَفَّارَةً لِقَوْلِهِ، وَلَٰكِنْ قُولُوا۟ كَمَا قَالَ اللَّٰهُ عَزَّ وَجَلَّ: «شَهْرُ رَمَضَانَ»
+
+^ Sherrard Beaumont Burnaby, Elements of the Jewish and Muhammadan calendars (1901) 376.
+
+^ Tillier, Mathieu; Vanthieghem, Naïm (11 April 2019), "Recording debts in Sufyānid Fusṭāṭ: a reexamination of the procedures and calendar in use in the first/seventh century 1", Geneses, First . | New York : Routledge, 2019.: Routledge, pp. 148–188, ISBN 978-1-351-11331-1, retrieved 14 June 2020CS1 maint: location (link)
+
+^ Chronology of Prophetic Events, Fazlur Rehman Shaikh (2001) p.52 Ta-Ha Publishers Ltd.
+
+^ Sherrard Beaumont Burnaby, Elements of the Jewish and Muhammadan calendars (1901) pp.373–5, 382–4.
+
+^ "Calendrica". Archived from the original on 16 February 2005.
+
+^ al-Biruni, The chronology of ancient nations, tr. C. Edward Sachau (1000/1879) 327.
+
+^ "NASA phases of the moon 601–700". Archived from the original on 8 October 2010.
+
+^ Emile Biémont, Rythmes du temps, Astronomie et calendriers, De Borck, 2000, 393p.
+
+^ "tabsir.net".
+
+^ Karim Meziane et Nidhal Guessoum: La visibilité du croissant lunaire et le ramadan, La Recherche n° 316, janvier 1999, pp. 66–71.
+
+^ "Calculations or Sighting for starting an Islamic month". www.moonsighting.com. Archived from the original on 8 May 2017. Retrieved 16 April 2017.
+
+^ Oumma (23 June 2010). "Le mois islamique est-il universel ou national ?". Oumma.
+
+^ Allal el Fassi : "Aljawab assahih wannass-hi al-khaliss ‘an nazilati fas wama yata’allaqo bimabda-i acchouhouri al-islamiyati al-arabiyah", " and the beginning of Islamic Arab months", report prepared at the request of King Hassan II of Morocco, Rabat, 1965 (36 p.), with no indication of editor.
+
+^ Muhammad Mutawalla al-Shaârawi : Fiqh al-halal wal haram (edited by Ahmad Azzaâbi), Dar al-Qalam, Beyrouth, 2000, p. 88.
+
+^ "Interpretation of the Meaning of The Noble Quran Translated into the English Language By Dr. Muhammad Taqi-ud-Din Al-Hilali Ph.D. & Dr. Muhammad Muhsin Khan". Archived from the original on 27 January 2010.
+
+^ Abderrahman al-Haj : "The faqih, the politician and the determination of lunar months" (in arabic)
+
+^ Allal el Fassi : "Aljawab assahih..." op. cit.
+
+^ The dynasty of Fatimids in Egypt used a tabular pre-calculated calendar over a period of two centuries, between the 10th and 12th centuries, before a change of political regime reactivated the procedure of observation of the new moon.
+
+^ "The Islamic Calendar".
+
+^ "أوائل الشهور العربية .. هل يجوز شرعاً إثباتها".
+
+^ For a detailed discussion of Shakir's legal opinion on the subject, see "Issue N° 9" in Khalid Chraibi: Issues in the Islamic Calendar, Tabsir.net
+
+^ "Fiqh Council of North America Islamic lunar calendar". Archived from the original on 16 May 2008.
+
+^ "Zulfikar Ali Shah The astronomical calculations: a fiqhi discussion" (PDF). Archived from the original (PDF) on 9 August 2008.
+
+^ "Islamic Center of Boston, Wayland" (PDF).
+
+^ For a detailed discussion of the issues and the FCNA and ECFR positions, see : Khalid Chraibi: Can the Umm al Qura calendar serve as a global Islamic calendar? Tabsir.net
+
+^ Oumma (19 July 2012). "Le Conseil Français du Culte Musulman (CFCM): Ramadan moubarak!". Retrieved 15 January 2019.
+
+^ Nidhal Guessoum (5 July 2012). "Quel sera le premier jour du mois de Ramadan 2012? (On which date will Ramadan 2012 begin?)". Retrieved 15 January 2019.
+
+^ "The Islamic Calendar of Turkey".
+
+^ "Crescent sighting using the Uml al Qura calendar in Saudi Arabia" (PDF). (268 KB)
+
+^ "The Umm al-Qura Calendar of Saudi Arabia".
+
+^ "Log in - Meetup". progmuslim.meetup.com.
+
+^ "tabsir.net".
+
+^ "Saudi Arabia adopts Gregorian calendar". 8 October 2016.
+
+^ The prince’s time machine: Saudi Arabia adopts the Gregorian calendar The Economist, Dec 17th 2016.
+
+^ Persian Pilgrimages by Afshin Molavi. Books.google.com. Retrieved 11 August 2012.
+
+^ The "Kuwaiti Algorithm" (Robert van Gent).
+
+^ Gast, M.; Delheur, J.; E.B. "Calendrier". Encyclopédie Berbère, 11 (Bracelets – Caprarienses) (in French). OpenEdition. Retrieved 5 July 2018.
+
+^ the start of each lunar month determined not ahead of time by astronomical calculation, but only after the crescent moon is sighted by the proper religious authorities. (source: Tripp, Culture Shock, 2009: p.154-5).
+
+^ Hagger, Nicholas (2009). The Libyan Revolution: Its Origins and Legacy. Winchester, UK: O Books. p. 109.
+
+^ Encyclopedia of the Developing World (2007), volume 3, p. 1338.
+
+^ Neil MacFarquhar (2010). The Media Relations Department of Hizbollah Wishes You a Happy Birthday: Unexpected Encounters in the Changing Middle East. ReadHowYouWant. ISBN 978-1-4587-6009-8. pages 37–38.
+
+Notes
+
+^ exact dates depend on which variant of the Islamic calendar is followed.
+
+^ Some theologians also interpret Surah al-Baqarah 2:185 as requiring direct sighting, but they represent only a minority. The Quranic verse reads as follows : "185. The month of Ramadân in which was revealed the Qur'ân, a guidance for mankind and clear proofs for the guidance and the criterion (between right and wrong). So whoever of you sights (the crescent on the first night of) the month (of Ramadân i.e., is present at his home), he must observe Saum (fasts) that month, and whoever is ill or on a journey, the same number  from other days. God intends for you ease, and He does not want to make things difficult for you. (He wants that you) must complete the same number (of days), and that you must magnify God  "God is the Most Great") on seeing the crescent of the months of Ramadân and Shawwâl] for having guided you so that you may be grateful to Him."
+
+External links
+
+"Hegira" . Encyclopedia Americana. 1920.
+
+Helmer Aslaksen The Islamic Calendar
+
+Khalid Chraibi, The reform of the Islamic calendar: the terms of the debate, Tabsir.net, September 2012
+
+v
+
+t
+
+e
+
+Months of the Islamic calendar (AH)
+
+Muharram
+
+Safar
+
+Rabi' I
+
+Rabi' II
+
+Jumada I
+
+Jumada II
+
+Rajab
+
+Sha'ban
+
+Ramadan
+
+Shawwal
+
+Dhu al-Qadah
+
+Dhu al-Hijjah
+
+v
+
+t
+
+e
+
+Time
+
+Key concepts 
+Past
+history
+
+deep time
+
+Present
+
+Future
+
+Futures studies
+
+Far future in religion
+
+Far future in fiction
+
+Timeline of the far future
+
+Eternity
+
+Eternity of the world
+
+Measurement
+
+and standards
+
+Chronometry 
+UTC
+
+UT
+
+TAI
+
+Unit of time
+
+Planck time
+
+New Earth Time
+
+Second
+
+Minute
+
+Hour
+
+Day
+
+Week
+
+Month
+
+Season
+
+Year
+
+Decade
+
+Century
+
+Millennium
+
+Tropical year
+
+Sidereal year
+
+Samvatsara
+
+Measurement systems 
+6-hour clock (Italian)
+
+6-hour clock (Thai)
+
+12-hour clock
+
+24-hour clock
+
+Daylight saving time
+
+Decimal
+
+Hexadecimal
+
+Metric
+
+Sidereal
+
+Solar
+
+Time zone
+
+Calendars 
+Gregorian
+
+Julian
+
+Hebrew
+
+Islamic
+
+Lunar
+
+Solar Hijri
+
+Mayan
+
+Intercalation
+
+Leap second
+
+Leap year
+
+Clocks 
+Horology
+
+History of timekeeping devices
+
+Main types
+astrarium
+
+atomic
+quantum
+
+hourglass
+
+marine
+
+sundial
+
+sundial markup schema
+
+watch
+mechanical
+
+stopwatch
+
+water-based
+
+Cuckoo clock
+
+Digital clock
+
+Grandfather clock
+
+Chronology
+
+History
+
+Astronomical chronology
+
+Big History
+
+Calendar era
+
+Chronicle
+
+Deep time
+
+Periodization
+
+Regnal year
+
+Timeline
+
+Religion
+
+Mythology
+
+Dreamtime
+
+Kaal
+
+Kalachakra
+
+Prophecy
+
+Time and fate deities
+
+Wheel of time
+
+Immortality
+
+Philosophy of time 
+A series and B series
+
+B-theory of time
+
+Causality
+
+Duration
+
+Endurantism
+
+Eternal return
+
+Eternalism
+
+Event
+
+Multiple time dimensions
+
+Perdurantism
+
+Presentism
+
+Static interpretation of time
+
+Temporal finitism
+
+Temporal parts
+
+"The Unreality of Time"
+
+Human experience
+
+and use of time 
+Accounting period
+
+Chronemics
+
+Fiscal year
+
+Generation time
+
+Mental chronometry
+
+Music
+
+Procrastination
+
+Punctuality
+
+Temporal database
+
+Term
+
+Time discipline
+
+Time management
+
+Time perception
+Specious present
+
+Time-tracking software
+
+Time-use research
+
+Time-based currency
+
+Time value of money
+
+Time clock
+
+Timesheet
+
+Yesterday – Today – Tomorrow
+
+Time in
+
+Geology 
+Geological time
+age
+
+chron
+
+eon
+
+epoch
+
+era
+
+period
+
+Geochronology
+
+Geological history of Earth
+
+Physics 
+Absolute space and time
+
+Arrow of time
+
+Chronon
+
+Coordinate time
+
+Imaginary time
+
+Planck epoch
+
+Planck time
+
+Proper time
+
+Rate
+
+Spacetime
+
+Theory of relativity
+
+Time dilation
+gravitational
+
+Time domain
+
+Time translation symmetry
+
+Time reversal symmetry
+
+Other subject areas 
+Chronological dating
+
+Chronobiology
+
+Circadian rhythms
+
+Dating methodologies in archaeology
+
+Time geography
+
+Related topics 
+Carpe diem
+
+Clock position
+
+Space
+
+System time
+
+Tempus fugit
+
+Time capsule
+
+Time complexity
+
+Time signature
+
+Time travel
+
+ Category
+
+v
+
+t
+
+e
+
+Astronomy in the medieval Islamic world
+
+Astronomers
+
+by century
+
+8th 
+Ahmad Nahavandi
+
+Al-Fadl ibn Naubakht
+
+Muḥammad ibn
+
+Ibrāhīm al-Fazārī
+
+Mashallah ibn Athari
+
+Yaʿqūb ibn Ṭāriq
+
+9th 
+Abu Maʿshar
+
+Abu Said Gorgani
+
+Al-Farghānī
+
+Al-Kindi
+
+Al-Mahani
+
+Abu Hanifa Dinawari
+
+Al-Ḥajjāj ibn Yūsuf
+
+Al-Marwazi
+
+Ali ibn Isa al-Asturlabi
+
+Banu Musa
+
+Iranshahri
+
+Khālid ibn ʿAbd al‐Malik
+
+Al-Khwārizmī
+
+Sahl ibn Bishr
+
+Thābit ibn Qurra
+
+Yahya ibn Abi Mansur
+
+10th 
+al-Sufi
+
+Ibn
+
+Al-Adami
+
+al-Khojandi
+
+al-Khazin
+
+al-Qūhī
+
+Abu al-Wafa
+
+Ahmad ibn Yusuf
+
+al-Battani
+
+Al-Qabisi
+
+Ibn al-A'lam
+
+Al-Nayrizi
+
+Al-Saghani
+
+Aṣ-Ṣaidanānī
+
+Ibn Yunus
+
+Ibrahim ibn Sinan
+
+Ma Yize
+
+al-Sijzi
+
+Mariam al-Asturlabi
+
+Nastulus
+
+Abolfadl Harawi
+
+Haseb-i Tabari
+
+al-Majriti
+
+Abu al-Hasan al-Ahwazi
+
+11th 
+Abu Nasr Mansur
+
+al-Biruni
+
+Ali ibn Ridwan
+
+Al-Zarqālī
+
+Ibn al-Samh
+
+Al-Muradi
+
+Alhazen
+
+Avicenna
+
+Ibn al-Saffar
+
+Kushyar Gilani
+
+Said al-Andalusi
+
+Ibrahim ibn Said al-Sahli
+
+Ibn Muʿādh al-Jayyānī
+
+Al-Isfizari
+
+12th 
+Al-Bitruji
+
+Avempace
+
+Ibn Tufail
+
+Al-Kharaqī
+
+Al-Khazini
+
+Al-Samawal al-Maghribi
+
+Abu al-Salt
+
+Averroes
+
+Ibn al-Kammad
+
+Jabir ibn Aflah
+
+Omar Khayyam
+
+Sharaf al-Dīn al-Ṭūsī
+
+13th 
+Ibn al-Banna' al-Marrakushi
+
+Ibn al‐Ha'im al‐Ishbili
+
+Jamal ad-Din
+
+Alam al-Din al-Hanafi
+
+Najm al‐Din al‐Misri
+
+Muhyi al-Dīn al-Maghribī
+
+Nasir al-Din al-Tusi
+
+Qutb al-Din al-Shirazi
+
+Shams al-Dīn al-Samarqandī
+
+Zakariya al-Qazwini
+
+al-Urdi
+
+al-Abhari
+
+Muhammad ibn Abi Bakr al‐Farisi
+
+Abu Ali al-Hasan al-Marrakushi
+
+Ibn Ishaq al-Tunisi
+
+Ibn al‐Raqqam
+
+Al-Ashraf Umar II
+
+Fakhr al-Din al- Akhlati
+
+14th 
+Ibn al-Shatir
+
+Al-Khalili
+
+Ibn Shuayb
+
+ al-Battiwi
+
+Abū al‐ʿUqūl
+
+Al-Wabkanawi
+
+Nizam al-Din Nishapuri
+
+ al-Jadiri
+
+Sadr al-Shari'a al-Asghar
+
+15th 
+Ali Kuşçu
+
+ʿAbd al‐Wājid
+
+Jamshīd al-Kāshī
+
+Kadızade Rumi
+
+Ulugh Beg
+
+Sibt al-Maridini
+
+Ibn al-Majdi
+
+al-Wafa'i
+
+al-Kubunani
+
+'Abd al-'Aziz al-Wafa'i
+
+16th 
+Al-Birjandi
+
+al-Khafri
+
+Bahāʾ al-dīn al-ʿĀmilī
+
+Piri Reis
+
+Takiyüddin
+
+17th 
+Yang Guangxian
+
+Ahmad Khani
+
+Al Achsasi al Mouakket
+
+Mohammed al-Rudani
+
+Topics
+
+Works
+
+Arabic star names
+
+Islamic calendar
+
+ʿAjā'ib al-makhlūqāt wa gharā'ib al-mawjūdāt
+
+Encyclopedia of the Brethren of Purity
+
+Tabula Rogeriana
+
+The Book of Healing
+
+The Remaining Signs of Past Centuries
+
+Zij 
+Alfonsine tables
+
+Huihui Lifa
+
+Book of Fixed Stars
+
+Toledan Tables
+
+Zij-i Ilkhani
+
+Zij-i Sultani
+
+Sullam al-sama'
+
+Instruments 
+Alidade
+
+Analog computer
+
+Aperture
+
+Armillary sphere
+
+Astrolabe
+
+Astronomical clock
+
+Celestial globe
+
+Compass
+
+Compass rose
+
+Dioptra
+
+Equatorial ring
+
+Equatorium
+
+Globe
+
+Graph paper
+
+Magnifying glass
+
+Mural instrument
+
+Navigational astrolabe
+
+Nebula
+
+Octant
+
+Planisphere
+
+Quadrant
+
+Sextant
+
+Shadow square
+
+Sundial
+
+Schema for horizontal sundials
+
+Triquetrum
+
+Concepts 
+Almucantar
+
+Apogee
+
+Astrology in medieval Islam
+
+Astrophysics
+
+Axial tilt
+
+Azimuth
+
+Celestial mechanics
+
+Celestial spheres
+
+Circular orbit
+
+Deferent and epicycle
+
+Earth's rotation
+
+Eccentricity
+
+Ecliptic
+
+Elliptic orbit
+
+Equant
+
+Galaxy
+
+Geocentrism
+
+Gravitational potential energy
+
+Gravity
+
+Heliocentrism
+
+Inertia
+
+Islamic cosmology
+
+Moonlight
+
+Multiverse
+
+Muwaqqit
+
+Obliquity
+
+Parallax
+
+Precession
+
+Qibla
+
+Salah times
+
+Specific gravity
+
+Spherical Earth
+
+Sublunary sphere
+
+Sunlight
+
+Supernova
+
+Temporal finitism
+
+Trepidation
+
+Triangulation
+
+Tusi couple
+
+Universe
+
+Institutions 
+Al-Azhar University
+
+House of Knowledge
+
+House of Wisdom
+
+University of Al Quaraouiyine
+
+Observatories
+Constantinople (Taqi al-Din)
+
+Maragheh
+
+Samarkand (Ulugh Beg)
+
+Influences 
+Babylonian astronomy
+
+Egyptian astronomy
+
+Hellenistic astronomy
+
+Indian astronomy
+
+Influenced 
+Byzantine science
+
+Chinese astronomy
+
+Medieval European science
+
+Indian astronomy
+
+v
+
+t
+
+e
+
+Islam topics
+
+Outline of Islam
+
+Beliefs 
+God in Islam
+
+Tawhid
+
+Muhammad
+In Islam
+
+Prophets of Islam
+
+Angels
+
+Revelation
+
+Qadar
+
+Judgement Day
+
+Five Pillars 
+Shahada
+
+Salah
+
+Sawm
+
+Zakat
+
+Hajj
+
+History
+
+Leaders
+
+Timeline of Islamic history
+
+Succession to Muhammad
+
+Early conquests
+
+Golden Age
+
+Historiography
+
+Sahaba
+
+Ahl al-Bayt
+
+Shi'a Imams
+
+Caliphates
+Rashidun
+
+Umayyad
+
+Abbasid
+
+Córdoba
+
+Fatimid
+
+Almohad
+
+Sokoto
+
+Ottoman
+
+Religious texts 
+Quran
+
+Hadith
+
+Tafsir
+
+Seerah
+
+Story of Prophets
+
+Denominations 
+Sunni
+
+Sufi
+Barelvi
+
+Deobandi
+
+Salafi
+
+Shia
+Twelver Shia
+
+Isma'ilism
+
+Bektashi Alevism
+
+Ibadi
+
+Nation of Islam
+
+Ahmadiyya
+
+Quranism
+
+Non-denominational
+
+Life
+
+Culture
+
+Animals
+
+Art
+
+Calendar
+
+Children
+
+Clothing
+
+Flags
+
+Holidays
+
+Mosques
+
+Madrasas
+
+Moral teachings
+
+Music
+
+Philosophy
+
+Political aspects
+
+Qurbani
+
+Science
+medieval
+
+Social welfare
+
+Women
+
+LGBT
+
+Islam by country
+
+Law
+
+Jurisprudence
+
+Economics 
+Banking
+
+Economic history
+
+Sukuk
+
+Takaful
+
+Murabaha
+
+Riba
+
+Hygiene 
+Ghusl
+
+Miswak
+
+Najis
+
+Tayammum
+
+Toilet
+
+Wudu
+
+Family
+
+Marriage
+
+Sex
+
+Haya
+
+Marriage contract
+
+Mahr
+
+Mahram
+
+Nikah
+
+Nikah mut'ah
+
+Zina
+
+Other aspects 
+Baligh
+
+Cleanliness
+
+Criminal
+
+Dhabiĥa
+
+Dhimmi
+
+Divorce
+
+Diet
+
+Ethics
+
+Etiquette
+
+Gambling
+
+Gender segregation
+
+Honorifics
+
+Hudud
+
+Inheritance
+
+Jizya
+
+Leadership
+
+Ma malakat aymanukum
+
+Military
+POWs
+
+Slavery
+
+Sources of law
+
+Theological
+kalam
+
+Islamic studies
+
+Arts 
+Arabesque
+
+Architecture
+
+Calligraphy
+
+Carpets
+
+Gardens
+
+Geometric patterns
+
+Music
+
+Pottery
+
+Medieval science 
+Alchemy and chemistry
+
+Astronomy
+
+Cosmology
+
+Geography and cartography
+
+Mathematics
+
+Medicine
+
+Ophthalmology
+
+Physics
+
+Philosophy 
+Early
+
+Contemporary
+
+Eschatology
+
+Theological
+
+Other areas 
+Astrology
+
+Creationism (evolution)
+
+Feminism
+
+Inventions
+
+Liberalism and progressivism
+
+Literature
+poetry
+
+Psychology
+
+Shu'ubiyya
+
+Conversion to mosques
+
+Other
+
+Other religions 
+Christianity
+Mormonism
+
+Protestantism
+
+Hinduism
+
+Jainism
+
+Judaism
+
+Sikhism
+
+Related topics 
+Apostasy
+
+Criticism of Islam
+Muhammad
+
+Quran
+
+Cultural Muslim
+
+Islamism
+Criticism
+
+Post-Islamism
+
+Qutbism
+
+Islamophobia
+Incidents
+
+Islamic terrorism
+
+Islamic view of miracles
+
+Domestic violence
+
+Nursing
+
+Persecution of Muslims
+
+Quran and miracles
+
+Symbolism
+
+ Islam portal
+
+ Category
+
+v
+
+t
+
+e
+
+Time measurement and standards
+
+Chronometry
+
+Orders of magnitude
+
+Metrology
+
+International standards 
+Coordinated Universal Time
+offset
+
+UT
+
+ΔT
+
+DUT1
+
+International Earth Rotation and Reference Systems Service
+
+ISO 31-1
+
+ISO 8601
+
+International Atomic Time
+
+6-hour clock (Italian · Thai)
+
+12-hour clock
+
+24-hour clock
+
+Barycentric Coordinate Time
+
+Barycentric Dynamical Time
+
+Civil time
+
+Daylight saving time
+
+Geocentric Coordinate Time
+
+International Date Line
+
+Leap second
+
+Solar time
+
+Terrestrial Time
+
+Time zone
+
+180th meridian
+
+New Earth Time
+
+Obsolete standards 
+Ephemeris time
+
+Greenwich Mean Time
+
+Prime meridian
+
+Time in physics 
+Absolute space and time
+
+Spacetime
+
+Chronon
+
+Continuous signal
+
+Coordinate time
+
+Cosmological decade
+
+Discrete time and continuous time
+
+Planck time
+
+Proper time
+
+Theory of relativity
+
+Time dilation
+
+Gravitational time dilation
+
+Time domain
+
+Time translation symmetry
+
+T-symmetry
+
+Horology 
+Clock
+
+Astrarium
+
+Atomic clock
+
+Complication
+
+History of timekeeping devices
+
+Hourglass
+
+Marine chronometer
+
+Marine sandglass
+
+Radio clock
+
+Watch
+stopwatch
+
+Water clock
+
+Sundial
+
+Dialing scales
+
+Equation of time
+
+History of sundials
+
+Sundial markup schema
+
+Calendar 
+Astronomical
+
+Dominical letter
+
+Epact
+
+Equinox
+
+Gregorian
+
+Hebrew
+
+Hindu
+
+Holocene
+
+Intercalation
+
+Islamic
+
+Julian
+
+Leap year
+
+Lunar
+
+Lunisolar
+
+Solar
+
+Solstice
+
+Tropical year
+
+Weekday determination
+
+Weekday names
+
+Archaeology and geology 
+Chronological dating
+
+Geologic time scale
+
+International Commission on Stratigraphy
+
+Astronomical chronology 
+Galactic year
+
+Nuclear timescale
+
+Precession
+
+Sidereal time
+
+Other units of time 
+Flick
+
+Shake
+
+Jiffy
+
+Second
+
+Minute
+
+Moment
+
+Hour
+
+Day
+
+Week
+
+Fortnight
+
+Month
+
+Year
+
+Olympiad
+
+Lustrum
+
+Decade
+
+Century
+
+Saeculum
+
+Millennium
+
+Related topics 
+Chronology
+
+Duration
+music
+
+Mental chronometry
+
+Decimal time
+
+Metric time
+
+System time
+
+Time value of money
+
+Timekeeper
+
+v
+
+t
+
+e
+
+Calendars
+
+Systems 
+Lunar
+
+Lunisolar
+
+Solar
+
+In wide use 
+Astronomical
+
+Chinese
+
+Gregorian
+
+Hindu
+
+Islamic
+
+ISO
+
+Unix time
+
+In more
+
+limited use
+
+Akan
+
+Armenian
+
+Assamese (Bhāshkarābda)
+
+Assyrian
+
+Baháʼí
+Badí‘
+
+Balinese pawukon
+
+Balinese saka
+
+Bengali
+
+Bangladeshi
+
+Berber
+
+Buddhist
+
+Burmese
+
+Chinese
+Earthly Branches
+
+Heavenly Stems
+
+Ethiopian
+
+Gaelic
+
+Germanic heathen
+
+Georgian
+
+Hebrew
+
+Hindu or Indian
+Vikram Samvat
+
+Saka
+
+Igbo
+
+Iranian
+Jalali
+medieval
+
+Hijri
+modern
+
+Zoroastrian
+
+Islamic
+Fasli
+
+Tabular
+
+Jain
+
+Japanese
+
+Javanese
+
+Korean
+Juche
+
+Kurdish
+
+Lithuanian
+
+Malayalam
+
+Manipuri (Meitei)
+
+Melanau
+
+Mongolian
+
+Nanakshahi
+
+Nepal Sambat
+
+Nisg̱a'a
+
+Oromo
+
+Romanian
+
+Somali
+
+Sesotho
+
+Slavic
+Slavic Native Faith
+
+Tamil
+
+Taiwanese
+
+Thai
+lunar
+
+solar
+
+Tibetan
+
+Vietnamese
+
+Xhosa
+
+Yoruba
+
+Types 
+Runic
+
+Mesoamerican
+Long Count
+
+Calendar round
+
+Christian variants 
+Coptic
+
+Julian
+Revised
+
+Liturgical year
+Eastern Orthodox
+
+Saints
+
+Historical 
+Arabian
+
+Attic
+
+Aztec
+Tōnalpōhualli
+
+Xiuhpōhualli
+
+Babylonian
+
+Bulgar
+
+Byzantine
+
+Cappadocian
+
+Celtic
+
+Cham
+
+Culāsakaraj
+
+Egyptian
+
+Florentine
+
+French Republican
+
+Germanic
+
+Greek
+
+Hindu
+
+Inca
+
+Macedonian
+
+Maya
+Haab'
+
+Tzolk'in
+
+Muisca
+
+Pentecontad
+
+Pisan
+
+Rapa Nui
+
+Roman calendar
+
+Rumi
+
+Soviet
+
+Swedish
+
+Turkmen
+
+By specialty 
+Holocene
+anthropological
+
+Proleptic Gregorian / Proleptic Julian
+historiographical
+
+Darian
+Martian
+
+Dreamspell
+New Age
+
+Discordian
+
+'Pataphysical
+
+Proposals 
+Hanke–Henry Permanent
+
+International Fixed
+
+Pax
+
+Positivist
+
+Symmetry454
+
+World
+
+Fictional 
+Discworld (Discworld)
+
+Greyhawk (Dungeons & Dragons)
+
+Middle-earth (The Lord of the Rings)
+
+Stardate (Star Trek)
+
+Galactic Standard Calendar (Star Wars)
+
+Displays and
+
+applications
+
+Electronic
+
+Perpetual
+
+Wall
+
+Year naming
+
+and
+
+numbering
+
+Terminology 
+Era
+
+Epoch
+
+Regnal name
+
+Regnal year
+
+Year zero
+
+Systems 
+Ab urbe condita
+
+Anno Domini/Common Era
+
+Anno Mundi
+
+Assyrian
+
+Before Present
+
+Chinese Imperial
+
+Chinese Minguo
+
+Human Era
+
+Japanese
+
+Korean
+
+Seleucid
+
+Spanish
+
+Yugas
+Satya
+
+Treta
+
+Dvapara
+
+Kali
+
+Vietnamese
+
+ List of calendars
+
+ Category
+
+v
+
+t
+
+e
+
+Chronology
+
+Key topics 
+Archaeology
+
+Astronomy
+
+Geology
+
+History
+Big History
+
+Paleontology
+
+Time
+
+Periods
+
+Eras
+
+Epochs
+
+Calendar eras 
+Human Era
+
+Ab urbe condita
+
+Anno Domini / Common Era
+
+Anno Mundi
+
+Byzantine era
+
+Seleucid era
+
+Era of Caesar (Iberia)
+
+Before Present
+
+Hijri
+
+Egyptian
+
+Sothic cycle
+
+Hindu units of time (Yuga)
+
+Mesoamerican
+Long Count
+
+Short Count
+
+Tzolk'in
+
+Haab'
+
+Regnal year 
+Canon of Kings
+
+Lists of kings
+
+Limmu
+
+Era names 
+Chinese
+
+Japanese
+
+Korean
+
+Vietnamese
+
+Calendars
+
+Pre-Julian / Julian 
+Pre-Julian Roman
+
+Original Julian
+
+Proleptic Julian
+
+Revised Julian
+
+Gregorian 
+Gregorian
+
+Proleptic Gregorian
+
+Old Style and New Style dates
+
+Adoption of the Gregorian calendar
+
+Dual dating
+
+Astronomical 
+Lunisolar
+
+Solar
+
+Lunar
+
+Astronomical year numbering
+
+Others 
+Chinese sexagenary cycle
+
+Geologic Calendar
+
+Hebrew
+
+Iranian
+
+Islamic
+
+ISO week date
+
+Mesoamerican
+Maya
+
+Aztec
+
+Winter count
+
+New Earth Time
+
+Astronomic time 
+Cosmic Calendar
+
+Ephemeris
+
+Galactic year
+
+Metonic cycle
+
+Milankovitch cycles
+
+Geologic time
+
+Concepts 
+Deep time
+
+Geological history of Earth
+
+Geological time units
+
+Standards 
+Global Standard Stratigraphic Age (GSSA)
+
+Global Boundary Stratotype Section and Point (GSSP)
+
+Methods 
+Chronostratigraphy
+
+Geochronology
+
+Isotope geochemistry
+
+Law of superposition
+
+Luminescence dating
+
+Samarium–neodymium dating
+
+Chronological
+
+dating
+
+Absolute dating 
+Amino acid racemisation
+
+Archaeomagnetic dating
+
+Dendrochronology
+
+Ice core
+
+Incremental dating
+
+Lichenometry
+
+Paleomagnetism
+
+Radiometric dating
+Radiocarbon
+
+Uranium–lead
+
+Potassium–argon
+
+Tephrochronology
+
+Luminescence dating
+
+Thermoluminescence dating
+
+Relative dating 
+Fluorine absorption
+
+Nitrogen dating
+
+Obsidian hydration
+
+Seriation
+
+Stratigraphy
+
+Genetic methods 
+Molecular clock
+
+Linguistic methods 
+Glottochronology
+
+Related topics 
+Chronicle
+
+New Chronology
+
+Synchronoptic view
+
+Timeline
+
+Year zero
+
+Circa
+
+Floruit
+
+Terminus post quem
+
+ASPRO chronology
+
+Phantom time hypothesis
+
+v
+
+t
+
+e
+
+People and things in the Quran
+
+Characters
+
+Non-humans 
+Allāh ("The God")
+Names of Allah found in the Quran, such as Karīm (Generous)
+
+Animals
+
+Related 
+The baqarah (cow) of Israelites
+
+The dhiʾb (wolf) that Jacob feared could attack Joseph
+
+The fīl (elephant) of the Abyssinians
+
+Ḥimār (Domesticated donkey)
+
+The hud-hud (hoopoe) of Solomon
+
+The kalb (dog) of the sleepers of the cave
+
+The namlah (female ant) of Solomon
+
+The nūn (fish or whale) of Jonah
+
+The nāqat (she-camel) of Saleh
+
+Non-related 
+ʿAnkabūt (Female spider)
+
+Dābbat al-Arḍ (Beast of the Earth)
+
+Ḥimār (Wild ass)
+
+Naḥl (Honey bee)
+
+Qaswarah ("Lion", "beast of prey" or "hunter")
+
+Malāʾikah (Angels) 
+Angels of Hell
+Mālik
+
+Zabāniyah
+
+Bearers of the Throne
+
+Harut and Marut
+
+Kirāman Kātibīn (Honourable Scribes)
+Raqib
+
+Atid
+
+Munkar and Nakir
+
+Riḍwan
+
+Archangels 
+Jibrīl (Gabriel, chief)
+Ar-Rūḥ ("The Spirit")
+Ar-Rūḥ al-Amīn ("The Trustworthy Spirit")
+
+Ar-Rūḥ al-Qudus ("The Holy Spirit")
+
+Angel of the Trumpet (Isrāfīl or Raphael)
+
+Malakul-Mawt (Angel of Death, Azrael)
+
+Mīkāil (Michael)
+
+Jinn (Genies) 
+Jann
+
+ʿIfrīt
+
+Qarīn
+
+Shayāṭīn (Demons or Devils) 
+Iblīs ash-Shayṭān (the (chief) Devil)
+
+Mārid ("Rebellious one")
+
+Others 
+Ghilmān or Wildān
+
+Ḥūr
+
+Prophets
+
+Mentioned 
+Ādam (Adam)
+
+Al-Yasaʿ (Elisha)
+
+Ayyūb (Job)
+
+Dāwūd (David)
+
+Dhūl-Kifl (Ezekiel?)
+
+Hārūn (Aaron)
+
+Hūd (Eber?)
+
+Idrīs (Enoch?)
+
+Ilyās (Elijah)
+
+ʿImrān (Joachim the father of Maryam)
+
+Isḥāq (Isaac)
+
+Ismāʿīl (Ishmael)
+Dhabih Ullah
+
+Lūṭ (Lot)
+
+Ṣāliḥ
+
+Shuʿayb (Jethro, Reuel or Hobab?)
+
+Sulaymān ibn Dāwūd (Solomon son of David)
+
+ʿUzair (Ezra?)
+
+Yaḥyā ibn Zakariyyā (John the Baptist the son of Zechariah)
+
+Yaʿqūb (Jacob)
+Isrāʾīl (Israel)
+
+Yūnus (Jonah)
+Dhūn-Nūn ("He of the Fish (or Whale)" or "Owner of the Fish (or Whale)")
+
+Ṣāḥib al-Ḥūt ("Companion of the Whale")
+
+Yūsuf ibn Ya‘qūb (Joseph son of Jacob)
+
+Zakariyyā (Zechariah)
+
+Ulul-ʿAzm
+
+("Those of the Perseverance and Strong Will") 
+Muḥammad
+Aḥmad
+
+Other names and titles of Muhammad
+
+ʿĪsā (Jesus)
+Al-Masīḥ (The Messiah)
+
+Ibn Maryam (Son of Mary)
+
+Mūsā Kalīmullāh (Moses He who spoke to God)
+
+Ibrāhīm Khalīlullāh (Abraham Friend of God)
+
+Nūḥ (Noah)
+
+Debatable ones 
+Dhūl-Qarnain
+
+Luqmān
+
+Maryam (Mary)
+
+Ṭālūt (Saul or Gideon?)
+
+Implied 
+Irmiyā (Jeremiah)
+
+Ṣamūʾīl (Samuel)
+
+Yūshaʿ ibn Nūn (Joshua, companion and successor of Moses)
+
+People of Prophets
+
+Good ones 
+Adam's immediate relatives
+Martyred son
+
+Wife
+
+Believer of Ya-Sin
+
+Family of Noah
+Father Lamech
+
+Mother Shamkhah bint Anush or Betenos
+
+Luqman's son
+
+People of Aaron and Moses
+Egyptians
+Believer (Hizbil or Hizqil ibn Sabura)
+
+Imraʾat Firʿawn (Āsiyá bint Muzāḥim the Wife of Pharaoh, who adopted Moses)
+
+Magicians of the Pharaoh
+
+Wise, pious man
+
+Moses' wife
+
+Moses' sister-in-law
+
+Mother
+
+Sister
+
+People of Abraham
+Mother Abiona or Amtelai the daughter of Karnebo
+
+Ishmael's mother
+
+Isaac's mother
+
+People of Jesus
+Disciples (including Peter)
+
+Mary's mother
+
+Zechariah's wife
+
+People of Joseph
+Brothers (including Binyāmin (Benjamin) and Simeon)
+
+Egyptians
+ʿAzīz (Potiphar, Qatafir or Qittin)
+
+Malik (King Ar-Rayyān ibn Al-Walīd))
+
+Wife of ʿAzīz (Zulaykhah)
+
+Mother
+
+People of Solomon
+Mother
+
+Queen of Sheba
+
+Vizier
+
+Zayd (Muhammad's adopted son)
+
+Evil ones 
+Āzar (possibly Terah)
+
+Firʿawn (Pharaoh of Moses' time)
+
+Hāmān
+
+Jālūt (Goliath)
+
+Qārūn (Korah, cousin of Moses)
+
+As-Sāmirī
+
+Abū Lahab
+
+Slayers of Saleh's she-camel (Qaddar ibn Salif and Musda' ibn Dahr)
+
+Implied or
+
+not specified 
+Abraha
+
+Abu Bakr
+
+Bal'am/Balaam
+
+Barṣīṣā
+
+Caleb or Kaleb the companion of Joshua
+
+Luqman's son
+
+Nebuchadnezzar II
+
+Nimrod
+
+Rahmah the wife of Ayyub
+
+Shaddad
+
+Groups
+
+Mentioned 
+Aṣḥāb al-Jannah
+People of Paradise
+
+People of the Burnt Garden
+
+Aṣḥāb as-Sabt (Companions of the Sabbath)
+
+Christian apostles
+Ḥawāriyyūn (Disciples of Jesus)
+
+Companions of Noah's Ark
+
+Aṣḥāb al-Kahf war-Raqīm (Companions of the Cave and Al-Raqaim?
+
+Companions of the Elephant
+
+People of al-Ukhdūd
+
+People of a township in Surah Ya-Sin
+
+People of Yathrib or Medina
+
+Qawm Lūṭ (People of Sodom and Gomorrah)
+
+Nation of Noah
+
+Tribes, ethnicities
+
+or families 
+Aʿrāb (Arabs or Bedouins)
+ʿĀd (people of Hud)
+
+Companions of the Rass
+
+Qawm Tubbaʿ (People of Tubba)
+People of Sabaʾ or Sheba
+
+Quraysh
+
+Thamūd (people of Saleh)
+Aṣḥāb al-Ḥijr ("Companions of the Stoneland")
+
+‘Ajam
+
+Ar-Rūm (literally "The Romans")
+
+Banī Isrāʾīl (Children of Israel)
+
+Muʾtafikāt (The overthrown cities of Sodom and Gomorrah)
+
+People of Ibrahim
+
+People of Ilyas
+
+People of Nuh
+
+People of Shuaib
+Ahl Madyan People of Madyan)
+
+Aṣḥāb al-Aykah ("Companions of the Wood")
+
+Qawm Yūnus (People of Jonah)
+
+Ya'juj and Ma'juj/Gog and Magog
+
+Ahl al-Bayt ("People of the Household")
+Household of Abraham
+Brothers of Yūsuf
+
+Lot's daughters
+
+Progeny of Imran
+
+Household of Moses
+
+Household of Muhammad ibn Abdullah ibn Abdul-Muttalib ibn Hashim
+Daughters of Muhammad
+
+Muhammad's wives
+
+Household of Salih
+
+People of Fir'aun
+
+Current Ummah of Islam (Ummah of Muhammad)
+Aṣḥāb Muḥammad (Companions of Muhammad)
+Anṣār (Muslims of Medina who helped Muhammad and his Meccan followers, literally 'Helpers')
+
+Muhajirun (Emigrants from Mecca to Medina)
+
+People of Mecca
+Wife of Abu Lahab
+
+Children of Ayyub
+
+Sons of Adam
+
+Wife of Nuh
+
+Wife of Lut
+
+Yaʾjūj wa Maʾjūj (Gog and Magog)
+
+Son of Nuh
+
+Implicitly
+
+mentioned 
+Amalek
+
+Ahl as-Suffa (People of the Verandah)
+
+Banu Nadir
+
+Banu Qaynuqa
+
+Banu Qurayza
+
+Iranian people
+
+Umayyad Dynasty
+
+Aus and Khazraj
+
+People of Quba
+
+Religious groups 
+Ahl al-Dhimmah
+
+Kāfirūn
+disbelievers
+
+Majūs Zoroastrians
+
+Munāfiqūn (Hypocrites)
+
+Muslims
+Believers
+
+Ahl al-Kitāb (People of the Book)
+Naṣārā (Christian(s) or People of the Injil)
+Ruhban (Christian monks)
+
+Qissis (Christian priest)
+
+Yahūd (Jews)
+Ahbār (Jewish scholars)
+
+Rabbani/Rabbi
+
+Sabians
+
+Polytheists
+Meccan polytheists at the time of Muhammad
+
+Mesopotamian polytheists at the time of Abraham and Lot
+
+Locations
+
+Mentioned 
+Al-Arḍ Al-Muqaddasah ("The Holy Land")
+'Blessed' Land
+
+In the Arabian Peninsula (excluding Madyan)
+Al-Aḥqāf ("The Sandy Plains," or "the Wind-curved Sand-hills")
+Iram dhāt al-ʿImād (Iram of the Pillars)
+
+Al-Madīnah (formerly Yathrib)
+
+ʿArafāt
+
+Al-Ḥijr (Hegra)
+
+Badr
+
+Ḥunayn
+
+Makkah (Mecca)
+Bakkah
+
+Ḥaraman Āminan ("Sanctuary (which is) Secure")
+
+Kaʿbah (Kaaba)
+
+Maqām Ibrāhīm (Station of Abraham)
+
+Safa and Marwa
+
+Sabaʾ (Sheba)
+ʿArim Sabaʾ (Dam of Sheba)
+
+Rass
+
+Al-Jannah (Paradise, literally "The Garden")
+
+Jahannam (Hell)
+
+In Mesopotamia:
+Al-Jūdiyy
+Munzalanm-Mubārakan ("Place-of-Landing Blessed")
+
+Bābil (Babylon)
+
+Qaryat Yūnus ("Township of Jonah," that is Nineveh)
+
+Door of Hittah
+
+Madyan (Midian)
+
+Majmaʿ al-Baḥrayn
+
+Miṣr (Mainland Egypt)
+
+Salsabīl (A river in Paradise)
+
+Sinai Region or Tīh Desert
+Al-Wād Al-Muqaddas Ṭuwan (The Holy Valley of Tuwa)
+Al-Wādil-Ayman (The valley on the 'righthand' side of the Valley of Tuwa and Mount Sinai)
+Al-Buqʿah Al-Mubārakah ("The Blessed Place")
+
+Mount Sinai or Mount Tabor
+
+Religious locations 
+Bayʿa (Church)
+
+Miḥrāb
+
+Monastery
+
+Masjid (Mosque, literally "Place of Prostration")
+Al-Mashʿar Al-Ḥarām ("The Sacred Grove")
+
+Al-Masjid Al-Aqṣā (Al-Aqsa Mosque, literally "The Farthest Place-of-Prostration")
+
+Al-Masjid Al-Ḥarām (The Sacred Mosque of Mecca)
+
+Masjid al-Dirar
+
+A Mosque in the area of Medina, possibly:
+Masjid Qubāʾ (Quba Mosque)
+
+The Prophet's Mosque
+
+Salat (Synagogue)
+
+Implied 
+Antioch
+Antakya
+
+Arabia
+Al-Ḥijāz (literally "The Barrier")
+Black Stone (Al-Ḥajar al-Aswad) & Al-Hijr of Isma'il
+
+Cave of Hira
+
+Ghār ath-Thawr (Cave of the Bull)
+
+Hudaybiyyah
+
+Ta'if
+
+Ayla
+
+Barrier of Dhul-Qarnayn
+
+Bayt al-Muqaddas & 'Ariha
+
+Bilād ar-Rāfidayn (Mesopotamia)
+
+Canaan
+
+Cave of Seven Sleepers
+
+Dār an-Nadwa
+
+Jordan River
+
+Nile River
+
+Palestine River
+
+Paradise of Shaddad
+
+Plant matter 
+Baṣal (Onion)
+
+Fūm (Garlic or wheat)
+
+Shaṭʾ (Shoot)
+
+Sūq (Plant stem)
+
+Zarʿ (Seed)
+
+Fruits 
+ʿAdas (Lentil)
+
+Baql (Herb)
+
+Ḥabb dhul-ʿaṣf (Corn of the husk)
+
+Qith-thāʾ (Cucumber)
+
+Rummān (Pomegranate)
+
+Tīn (Fig)
+
+Ukul khamṭ (Bitter fruit or food of Sheba)
+
+Zaytūn (Olive)
+
+In Paradise
+Forbidden fruit of Adam
+
+Bushes, trees
+
+or plants 
+Plants of Sheba
+Athl (Tamarisk)
+
+Sidr (Lote-tree)
+
+Līnah (Tender Palm tree)
+
+Nakhl (Date palm)
+
+Rayḥān (Scented plant)
+
+Sidrat al-Muntahā
+
+Zaqqūm
+
+Holy books 
+Al-Injīl (The Gospel of Jesus)
+
+Al-Qurʾān (The Book of Muhammad)
+
+Ṣuḥuf-i Ibrāhīm (Scroll(s) of Abraham)
+
+At-Tawrāt (The Torah)
+Ṣuḥuf-i-Mūsā (Scroll(s) of Moses)
+
+Tablets of Stone
+
+Az-Zabūr (The Psalms of David)
+
+Umm al-Kitāb ("Mother of the Book(s)")
+
+Objects of people
+
+or beings 
+Heavenly Food of Christian Apostles
+
+Noah's Ark
+
+Staff of Musa
+
+Tābūt as-Sakīnah (Casket of Shekhinah)
+
+Throne of Bilqis
+
+Trumpet of Israfil
+
+Mentioned idols
+
+(cult images) 
+'Ansāb
+
+Jibt and Ṭāghūt (False god)
+
+Of Israelites 
+Baʿal
+
+The ʿijl (golden calf statue) of Israelites
+
+Of Noah's people 
+Nasr
+
+Suwāʿ
+
+Wadd
+
+Yaghūth
+
+Yaʿūq
+
+Of Quraysh 
+Al-Lāt
+
+Al-ʿUzzā
+
+Manāt
+
+Celestial bodies Maṣābīḥ (literally 'lamps'):
+Al-Qamar (The Moon)
+
+Kawākib (Planets)
+Al-Arḍ (The Earth)
+
+Nujūm (Stars)
+Ash-Shams (The Sun)
+
+Liquids 
+Māʾ (Water or fluid)
+Nahr (River)
+
+Yamm (River or sea)
+
+Sharāb (Drink)
+
+Events, incidents,
+
+occasions or times 
+Incident of Ifk
+
+Laylat al-Qadr
+
+Event of Mubahala
+
+Sayl al-ʿArim (Flood of the Great Dam of Ma'rib in Sheba)
+
+The Farewell Pilgrimage
+
+Treaty of Hudaybiyyah
+
+Battles or
+
+military expeditions 
+Battle of al-Aḥzāb ("the Confederates")
+
+Battle of Badr
+
+Battle of Hunayn
+
+Battle of Khaybar
+
+Battle of Uhud
+
+Expedition of Tabuk
+
+Conquest of Mecca
+
+Days 
+Al-Jumuʿah (The Friday)
+
+As-Sabt (The Sabbath or Saturday)
+
+Days of battles
+
+Days of Hajj
+
+Doomsday
+
+Months of the
+
+Islamic calendar 12 months:
+Four holy months
+Ash-Shahr Al-Ḥarām (The Sacred or Forbidden Month)
+
+Ramaḍān
+
+Pilgrimages 
+Al-Ḥajj (literally "The Pilgrimage", the Greater Pilgrimage)
+
+Al-ʿUmrah (The Lesser Pilgrimage)
+
+\t
+
+Times for Prayer
+
+or Remembrance Times for Duʿāʾ ('Invocation'), Ṣalāh and Dhikr ('Remembrance', including Taḥmīd ('Praising'), Takbīr and Tasbīḥ):
+Al-ʿAshiyy (The Afternoon or the Night)
+
+Al-Ghuduww ("The Mornings")
+Al-Bukrah ("The Morning")
+
+Aṣ-Ṣabāḥ ("The Morning")
+
+Al-Layl ("The Night")
+Al-ʿIshāʾ ("The Late-Night")
+
+Aẓ-Ẓuhr ("The Noon")
+
+Dulūk ash-Shams ("Decline of the Sun")
+Al-Masāʾ ("The Evening")
+
+Qabl al-Ghurūb ("Before the Setting (of the Sun)")
+Al-Aṣīl ("The Afternoon")
+
+Al-ʿAṣr ("The Afternoon")
+
+Qabl ṭulūʿ ash-Shams ("Before the rising of the Sun")
+Al-Fajr ("The Dawn")
+
+Implied 
+Event of Ghadir Khumm
+
+Laylat al-Mabit
+
+The first pilgrimage
+
+Note: The names are sorted alphabetically. Standard form: Islamic name / Biblical name (title or relationship)
+
+Authority control 
+BNF: cb119745866 (data)
+
+GND: 4332685-7
+
+SUDOC: 027775658

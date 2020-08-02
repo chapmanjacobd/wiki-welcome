@@ -1,0 +1,525 @@
+"Legal doctrine that some acts can be tried regardless of where they occurred, particularly applied to war crimes
+
+Universal jurisdiction allows states or international organizations to claim criminal jurisdiction over an accused person regardless of where the alleged crime was committed, and regardless of the accused's nationality, country of residence, or any other relation with the prosecuting entity. Crimes prosecuted under universal jurisdiction are considered crimes against all, too serious to tolerate jurisdictional arbitrage. 
+
+The concept of universal jurisdiction is therefore closely linked to the idea that some international norms are erga omnes, or owed to the entire world community, as well as to the concept of jus cogens – that certain international law obligations are binding on all states.
+
+According to Amnesty International, a proponent of universal jurisdiction, certain crimes pose so serious a threat to the international community as a whole that states have a logical and moral duty to prosecute an individual responsible; therefore, no place should be a safe haven for those who have committed genocide, crimes against humanity, extrajudicial executions, war crimes, torture and forced disappearances.
+
+Opponents such as Henry Kissinger, who himself was called to give testimony about the US Government's Operation Condor in a Spanish court, argue that universal jurisdiction is a breach of each state's sovereignty: all states being equal in sovereignty, as affirmed by the United Nations Charter, "idespread agreement that human rights violations and crimes against humanity must be prosecuted has hindered active consideration of the proper role of international courts. Universal jurisdiction risks creating universal tyranny – that of judges." According to Kissinger, as a logistical matter, since any number of states could set up such universal jurisdiction tribunals, the process could quickly degenerate into politically driven show trials to attempt to place a quasi-judicial stamp on a state's enemies or opponents.
+
+The United Nations Security Council Resolution 1674, adopted by the United Nations Security Council on 28 April 2006, "Reaffirm the provisions of paragraphs 138 and 139 of the 2005 World Summit Outcome Document regarding the responsibility to protect populations from genocide, war crimes, ethnic cleansing and crimes against humanity" and commits the Security Council to action to protect civilians in armed conflict.
+
+Contents
+
+1 History
+
+2 Universal distinct from extraterritorial jurisdiction
+
+3 International tribunals invoking universal jurisdiction
+
+4 Particular states invoking universal jurisdiction
+
+5 Immunity for state officials
+
+6 Considerations by the ILC on universal jurisdiction protecting the environment
+
+7 Universal jurisdiction enforcement around the world
+
+7.1 Australia
+
+7.2 Belgium
+
+7.3 Canada
+
+7.4 Finland
+
+7.5 France
+
+7.6 Germany
+
+7.7 Ireland
+
+7.8 Israel
+
+7.9 Malaysia
+
+7.10 Senegal
+
+7.11 Spain
+
+7.12 United Kingdom
+
+7.13 United States
+
+8 See also
+
+9 References
+
+10 Further reading
+
+11 External links
+
+History
+
+Title page from the second edition (Amsterdam 1631) of De jure belli ac pacis. First published in 1625, Grotius advances a system of principles of natural law, which are held to be binding on all people and nations regardless of local custom.
+
+Defendants at the Nuremberg Trials listening to translated evidence through headphones.
+
+The Institutes of Justinian, echoing the Commentaries of Gaius, says that "All nations ... are governed partly by their own particular laws, and partly by those laws which are common to all,  natural Reason appoints for all mankind." Expanding on the classical understanding of universal law accessible by reason, in the seventeenth century, the Dutch jurist Grotius laid the foundations for universal jurisdiction in modern international law, promulgating in his Dē Jūre Prādae (Of the Law of Captures) and later Dē jūre bellī ac pācis (Of the Law of War and Peace) the Enlightenment view that there are universal principles of right and wrong.
+
+At about the same time, international law came to recognize the analogous concept of hostēs hūmānī generis ("enemies of the human race"): pirates, hijackers, and similar outlaws whose crimes were typically committed outside the territory of any state. The notion that heads of state and senior public officials should be treated like pirates or outlaws before the global bar of justice is, according to Henry Kissinger, a new gloss on this old concept. From these premises, representing the Enlightenment belief in trans-territorial, trans-cultural standards of right and wrong, derives universal jurisdiction.
+
+Perhaps the most notable and influential precedent for universal jurisdiction were the mid-20th century Nuremberg Trials. U.S. Justice Robert H. Jackson then chief prosecutor, famously stated that an International Military Tribunal enforcing universal principles of right and wrong could prosecute acts without a particular geographic location, Nazi "crimes against the peace of the world"—even if the acts were perfectly legal at the time in Fascist Germany. Indeed, one charge was Nazi law itself became a crime, law distorted into a bludgeon of oppression. The Nuremberg trials supposed universal standards by which one nation's laws, and acts of its officials, can be judged; an international rule of law unbound by national borders.
+
+On the other hand, even at the time the Nuremberg trials appeared to be victor's justice, revenge papered over with legal simulcra. US Supreme Court Chief Justice Harlan Fiske Stone remarked that his colleague Justice Jackson acting as Nuremberg Chief prosecutor was "conducting his high-grade lynching party in Nuremberg. I don't mind what he does to the Nazis, but I hate to see the pretense that he is running a court and proceeding according to common law. This is a little too sanctimonious a fraud to meet my old-fashioned ideas."
+
+Kenneth Roth, the executive director of Human Rights Watch, argues that universal jurisdiction allowed Israel to try Adolf Eichmann in Jerusalem in 1961. Roth also argues that clauses in treaties such as the Geneva Conventions of 1949 and the United Nations Convention Against Torture of 1984, which requires signatory states to pass municipal laws that are based on the concept of universal jurisdiction, indicate widespread international acceptance of the concept.
+
+Universal distinct from extraterritorial jurisdiction
+
+Universal jurisdiction differs from a state's prosecuting crimes under its own laws, whether on its own territory (territorial jurisdiction) or abroad (extraterritorial jurisdiction). As an example, the United States asserts jurisdiction over stateless vessels carrying illicit drugs on international waters—but here the US reaches across national borders to enforce its own law, rather than invoking universal jurisdiction and trans-national standards of right and wrong.
+
+States attempting to police acts committed by foreign nationals on foreign territory tends to be more controversial than a state prosecuting its own citizens wherever they may be found. Bases on which a state might exercise jurisdiction in this way include the following:
+
+A state can exercise jurisdiction over acts that affect the fundamental interests of the state, such as spying, even if the act was committed by foreign nationals on foreign territory. For example, the Indian Information Technology Act 2000 largely supports the extraterritoriality of the said Act. The law states that a contravention of the Act that affects any computer or computer network situated in India will be punishable by India irrespective of the culprit's location and nationality.
+
+A state may try its own nationals for crimes committed abroad. France and some other nations will refuse to extradite their own citizens as a matter of law, but will instead try them on their own territory for crimes committed abroad.
+
+More controversial is the exercise of jurisdiction where the victim of the crime is a national of the state exercising jurisdiction. In the past some states have claimed this jurisdiction (e.g., Mexico, Cutting Case (1887)), while others have been strongly opposed to it (e.g., the United States, except in cases in which an American citizen is a victim: US v Yunis (1988)). In more recent years, however, a broad global consensus has emerged in permitting its use in the case of torture, "forced disappearances" or terrorist offences (due in part to it being permitted by the various United Nations conventions on terrorism); but its application in other areas is still highly controversial. For example, former dictator of Chile Augusto Pinochet was arrested in London in 1998, on Spanish judge Baltazar Garzon's demand, on charges of human rights abuses, not on the grounds of universal jurisdiction but rather on the grounds that some of the victims of the abuses committed in Chile were Spanish citizens. Spain then sought his extradition from Britain, again, not on the grounds of universal jurisdiction, but by invoking the law of the European Union regarding extradition; and he was finally released on grounds of health. Argentinian Alfredo Astiz's sentence is part of this juridical frame.
+
+International tribunals invoking universal jurisdiction
+
+States parties to the Statute of the International Criminal Court (light green means ratification or accession deposited but not yet in force, brown means signed but not yet ratified).
+
+Established in The Hague in 2002, the International Criminal Court (ICC) is an international tribunal of general jurisdiction (defined by treaty) to prosecute state-members' citizens for genocide, crimes against humanity, war crimes, and the crime of aggression, as specified by several international agreements, most prominently the Rome Statute of the International Criminal Court signed in 1998. Universal jurisdiction over the crimes enumerated in the Rome Statute was rejected by the signing parties, however universal jurisdiction is what allows the United Nations Security Council to refer specific situations to the ICC. This has only happened with Darfur (2005) and Libya (2011).
+
+In addition the United Nations has set up geographically specific courts to investigate and prosecute crimes against humanity under a theory of universal jurisdiction, such as the International Criminal Tribunal for Rwanda (1994), and the International Criminal Tribunal for the Former Yugoslavia (1993).
+
+The International Criminal Tribunal for the Former Yugoslavia investigates war crimes that took place in the Balkans in the 1990s. It convicted former Bosnian Serb leader Radovan Karadžić on 10 charges relating to directing murders, purges and other abuses against civilians, including genocide in connection with the 1995 massacre of 8,000 Muslim men and boys in Srebrenica; he was sentenced to 40 years in prison.
+
+Particular states invoking universal jurisdiction
+
+Universal jurisdiction may be asserted by a particular nation as well as by an international tribunal. The result is the same: individuals become answerable for crimes defined and prosecuted regardless of where they live, or where the conduct occurred; crimes said to be so grievous as to be universally condemned.
+
+Amnesty International argues that since the end of the Second World War over fifteen states have conducted investigations, commenced prosecutions and completed trials based on universal jurisdiction for the crimes or arrested people with a view to extraditing the persons to a state seeking to prosecute them. These states include: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Israel, Mexico, Netherlands, Senegal, Spain, Switzerland, the United Kingdom and the United States. Amnesty writes:
+
+ All states parties to the Convention against Torture and the Inter-American Convention are obliged whenever a person suspected of torture is found in their territory to submit the case to their prosecuting authorities for the purposes of prosecution, or to extradite that person. In addition, it is now widely recognized that states, even those that are not states parties to these treaties, may exercise universal jurisdiction over torture under customary international law.
+
+Examples of particular states invoking universal jurisdiction are Israel's prosecution of Eichmann in 1961 (see § Israel below) and Spain's prosecution of South American dictators and torturers (see § Spain below). More recently, the Center for Constitutional Rights tried first in Switzerland and then in Canada to prosecute former US President George W. Bush on behalf of persons tortured in US detention camps, invoking the universal jurisdiction doctrine. Bush cancelled his trip to Switzerland after news of the planned prosecution came to light. Bush has traveled to Canada but the Canadian government shut down the prosecution in advance of his arrest. The Center has filed a grievance with the United Nations for Canada's failure to invoke universal jurisdiction to enforce the Convention Against Torture, a petition on which action is pending.
+
+Immunity for state officials
+
+On 14 February 2002, the International Court of Justice in the ICJ Arrest Warrant Case concluded that state officials may have immunity under international law while serving in office. The court stated that immunity was not granted to state officials for their own benefit, but instead to ensure the effective performance of their functions on behalf of their respective states. The court also stated that when abroad, state officials may enjoy immunity from arrest in another state on criminal charges, including charges of war crimes or crimes against humanity. But the ICJ qualified its conclusions, saying that state officers "may be subject to criminal proceedings before certain international criminal courts, where they have jurisdiction. Examples include the International Criminal Tribunal for the former Yugoslavia, and the International Criminal Tribunal for Rwanda ..., and the future International Criminal Court."
+
+In 2003, Charles Taylor, the former president of Liberia, was served with an arrest warrant by the Special Court for Sierra Leone (SCSL) that was set up under the auspices of a treaty that binds only the United Nations and the Government of Sierra Leone. Taylor contested the Special Court's jurisdiction, claiming immunity, but the Special Court for Sierra Leone concluded in 2004 that "the sovereign equality of states does not prevent a head of state from being prosecuted before an international criminal tribunal or court". The Special Court convicted Taylor in 2012 and sentenced him to fifty years' imprisonment, making him the first head of state since the Nuremberg Trials after World War II to be tried and convicted by an international court. In sum, the question whether a former head of state might have immunity depends on which international court or tribunal endeavors to try him, how the court is constituted, and how it interprets its own mandate.
+
+Considerations by the ILC on universal jurisdiction protecting the environment
+
+The UN's International Law Commission (ILC) has discussed "The scope and application of the principle of universal jurisdiction". The ILC refers to deeming serious violations of environmental rules as crimes of such a serious nature that it can be compared to crimes relating to arms trafficking, human trafficking, terrorism and land grabbing, which all my lead to universal jurisdiction being invoked. The ILC also refers to the United Nations Environmental Programme (UNEP) calling for the application of universal jurisdiction for crimes that result in the destruction of the environment, as well as the ICC Prosecutor making it a "prioritized crime". This has also lead to discussions on application of universal jurisdiction, used in conjunction with the aforementioned principles of jus cogens and erga omnes, for protection of the environment.
+
+Universal jurisdiction enforcement around the world
+
+Australia
+
+The High Court of Australia confirmed the authority of the Australian Parliament, under the Australian Constitution, to exercise universal jurisdiction over war crimes in the Polyukhovich v Commonwealth case of 1991.
+
+Belgium
+
+In 1993, Belgium's Parliament passed a "law of universal jurisdiction" (sometimes referred to as "Belgium's genocide law"), allowing it to judge people accused of war crimes, crimes against humanity or genocide. In 2001, four Rwandan citizens were convicted and given sentences from 12 to 20 years' imprisonment for their involvement in 1994 Rwandan genocide. There was a rapid succession of cases:
+
+Prime Minister Ariel Sharon was accused of involvement in the 1982 Sabra and Shatila massacre in Lebanon, conducted by a Christian militia;
+
+Israelis filed a case against Yasser Arafat on grounds of responsibility for terrorist activity;
+
+In 2003, Iraqi victims of a 1991 Bagdad bombing pressed charges against George H.W. Bush, Colin Powell and Dick Cheney.
+
+Confronted with this sharp increase in cases, Belgium established the condition that the accused person must be Belgian or present in Belgium. An arrest warrant issued in 2000 under this law, against the then Minister of Foreign Affairs of the Democratic Republic of the Congo, was challenged before the International Court of Justice in the case entitled ICJ Arrest Warrant Case. The ICJ's decision issued on 14 February 2002 found that it did not have jurisdiction to consider the question of universal jurisdiction, instead deciding the question on the basis of immunity of high-ranking state officials. However, the matter was addressed in separate and dissenting opinions, such as that of President Guillaume who concluded that universal jurisdiction exists only in relation to piracy; and the dissenting opinion of Judge Oda who recognised piracy, hijacking, terrorism and genocide as crimes subject to universal jurisdiction.
+
+On 1 August 2003, Belgium repealed the law on universal jurisdiction, and introduced a new law on extraterritorial jurisdiction similar to or more restrictive than that of most other European countries. However, some cases that had already started continued. These included those concerning the Rwandan genocide, and complaints filed against the Chadian ex-President Hissène Habré (dubbed the "African Pinochet"). In September 2005, Habré was indicted for crimes against humanity, torture, war crimes and other human rights violations by a Belgian court. Arrested in Senegal following requests from Senegalese courts, he was tried and convicted for war crimes by the Special Tribunal in Senegal in 2016 and sentenced to life in prison.
+
+Canada
+
+To implement the Rome Statute, Canada passed the Crimes Against Humanity and War Crimes Act. Michael Byers, a University of British Columbia law professor, has argued that these laws go further than the Rome Statute, providing Canadian courts with jurisdiction over acts pre-dating the ICC and occurring in territories outside of ICC member-states; "as a result, anyone who is present in Canada and alleged to have committed genocide, torture ... anywhere, at any time, can be prosecuted ".
+
+Finland
+
+A Finnish high court sentenced a Rwandan preacher to life in jail in 2010 for his participation in Rwanda's genocide in 1994. Francois Bazaramba, 59, moved in 2003 to Finland seeking asylum. Finland allows prosecutions for crimes against humanity wherever they are committed. At the time of the genocide, he was a pastor in the Baptist church in Nyakizu in southern Rwanda. According to Finnish newspaper Helsingin Sanomat, the court found him guilty of orchestrating deadly attacks, and organising the torching of Tutsi homes. In a statement the court said he had spread anti-Tutsi propaganda and incited "killings through fomenting anger and contempt towards Tutsis". It stated that "The court has found Bazaramba guilty of an offence which without a genocidal intent would be judged as a murder or incitement to murder ... For those crimes, the only possible punishment is life imprisonment." Helsingin Sanomat reported that he was acquitted of 10 counts of murder and of providing training and acquiring weapons. During the trial, the court heard from 68 witnesses, travelling to Rwanda and Tanzania to hear some testimonies.
+
+France
+
+The article 689 of the code de procédure pénale states the infractions that can be judged in France when they were committed outside French territory either by French citizens or foreigners. The following infractions may be prosecuted:
+
+Torture
+
+Terrorism
+
+Nuclear smuggling
+
+Naval piracy
+
+Airplane hijacking
+
+Germany
+
+Main article: Völkerstrafgesetzbuch
+
+Germany has implemented the principle of universal jurisdiction for genocide, crimes against humanity and war crimes into its criminal law through the "Völkerstrafgesetzbuch" or VStGB ("international criminal code", literally "book of the criminal law of peoples"), which implemented the treaty creating the International Criminal Court into domestic law. The law was passed in 2002 and up to 2014 it has been used once, in the trial of Rwandan rebel leader Ignace Murwanashyaka. In 2015 he was found guilty and sentenced to 13 years in prison.
+
+Ireland
+
+Main article: Extraterritorial jurisdiction in Irish law
+
+Israel
+
+Main article: Adolf Eichmann
+
+The moral philosopher Peter Singer, along with Kenneth Roth, has cited Israel's prosecution of Adolf Eichmann in 1961 as an assertion of universal jurisdiction. He claims that while Israel did invoke a statute specific to Nazi crimes against Jews, its Supreme Court claimed universal jurisdiction over crimes against humanity.
+
+Eichmann's defense lawyer argued that Israel did not have jurisdiction on account of Israel not having come into existence until 1948. The Genocide Convention also did not come into effect until 1951, and the Genocide Convention does not automatically provide for universal jurisdiction. It is also argued that Israeli agents obtained Eichmann illegally, violating international law when they seized and kidnapped Eichmann, and brought him to Israel to stand trial. The Argentinian government settled the dispute diplomatically with Israel.
+
+Israel argued universal jurisdiction based on the "universal character of the crimes in question" and that the crimes committed by Eichmann were not only in violation of Israel law, but were considered "grave offenses against the law of nations itself". It also asserted that the crime of genocide is covered under international customary law. As a supplemental form of jurisdiction, a further argument is made on the basis of protective jurisdiction. Protective jurisdiction is a principle that "provides that states may exercise jurisdiction over aliens who have committed an act abroad which is deemed prejudicial to the security of the particular state concerned".
+
+Malaysia
+
+In November 2011, the Kuala Lumpur War Crimes Commission purportedly exercised universal jurisdiction to try and convict in absentia former US President George W. Bush and former British Prime Minister Tony Blair for the invasion of Iraq. In May 2012, the tribunal again under a purported exercise of universal jurisdiction took testimony from victims of torture at Abu Ghraib and Guantanamo, and convicted in absentia former President Bush, former Vice President Dick Cheney, former Defense Secretary Donald Rumsfeld, former Deputy Assistant Attorneys General John Yoo and Jay Bybee, former Attorney General Alberto Gonzales, and former counselors David Addington and William Haynes II for conspiracy to commit war crimes. The tribunal referred their findings to the chief prosecutor at the International Court of Justice in The Hague.
+
+The legitimacy of the tribunal and its findings have been questioned.
+
+Senegal
+
+In July 2015, the first trial in Africa of a universal jurisdiction case relating to crimes committed abroad by a foreigner with foreign victims was held in a Senegalese courtroom. The former dictator of Chad, Hissène Habré, denied the legitimacy of the special court set up to try him in Senegal for the deaths of thousands during his rule, but the head of the tribunal, Gberdao Gustave Kam, said he would be compelled to participate. Mr. Habré's lawyers said he was forced to attend the first day of his trial for crimes against humanity, war crimes and torture. The case was lauded by Human Rights Watch. It was also the first time the courts of one country are prosecuting the former ruler of another for alleged human rights crimes.
+
+Spain
+
+Spanish law recognizes the principle of universal jurisdiction. Article 23.4 of the Judicial Power Organization Act (LOPJ), enacted on 1 July 1985, establishes that Spanish courts have jurisdiction over crimes committed by Spaniards or foreign citizens outside Spain when such crimes can be described according to Spanish criminal law as genocide, terrorism, or some other, as well as any other crime that, according to international treaties or conventions, must be prosecuted in Spain. On 25 July 2009, the Spanish Congress passed a law that limits the competence of the Audiencia Nacional under Article 23.4 to cases in which Spaniards are victims, there is a relevant link to Spain, or the alleged perpetrators are in Spain. The law still has to pass the Senate, the high chamber, but passage is expected because it is supported by both major parties.
+
+In 1999, Nobel peace prize winner Rigoberta Menchú brought a case against the Guatemalan military leadership in a Spanish Court. Six officials, among them Efraín Ríos Montt and Óscar Humberto Mejía, were formally charged on 7 July 2006 to appear in the Spanish National Court after Spain's Constitutional Court ruled in September 2005, the Spanish Constitutional Court declaration that the "principle of universal jurisdiction prevails over the existence of national interests", following the Menchu suit brought against the officials for atrocities committed in the Guatemalan Civil War
+
+In June 2003, Spanish judge Baltasar Garzón jailed Ricardo Miguel Cavallo, a former Argentine naval officer, who was extradited from Mexico to Spain pending his trial on charges of genocide and terrorism relating to the years of Argentina's military dictatorship.
+
+On 11 January 2006, the Spanish High Court agreed to investigate a case in which seven former Chinese officials, including the former Communist Party General Secretary Jiang Zemin and former Premier Li Peng were alleged to have participated in a genocide in Tibet. This investigation follows a Spanish Constitutional Court (26 September 2005) ruling that Spanish courts could try genocide cases even if they did not involve Spanish nationals. China denounced the investigation as an interference in its internal affairs and dismissed the allegations as "sheer fabrication". The case was shelved in 2010, because of a law passed in 2009 that restricted High Court investigations to those "involving Spanish victims, suspects who are in Spain, or some other obvious link with Spain".
+
+Complaints were lodged against former Israeli Defense Forces chief of General Staff Lt.-Gen. (res.) Dan Halutz and six other senior Israeli political and military officials by pro-Palestinian organizations, who sought to prosecute them in Spain under the principle of universal jurisdiction. On 29 January 2009, Fernando Andreu, a judge of the Audiencia Nacional, opened preliminary investigations into claims that a targeted killing attack in Gaza in 2002 warranted the prosecution of Halutz, the former Israeli defence minister Binyamin Ben-Eliezer, the former defence chief-of-staff Moshe Ya'alon, and four others, for crimes against humanity. Israeli Prime Minister Benjamin Netanyahu strongly criticized the decision, and Israeli officials refused to provide information requested by the Spanish court. The attack killed the founder and leader of the military wing of the Islamic militant organisation Hamas, Salah Shehade, who Israel said was responsible for hundreds of civilian deaths. The attack also killed 14 others (including his wife and 9 children). It had targeted the building where Shahade hid in Gaza City. It also wounded some 150 Palestinians, according to the complaint (or 50, according to other reports). The Israeli chief of operations and prime minister apologized officially, saying they were unaware, due to faulty intelligence, that civilians were in the house. The investigation in the case was halted on 30 June 2009 by a decision of a panel of 18 judges of the Audiencia Nacional. The Spanish Court of Appeals rejected the lower court's decision, and on appeal in April 2010 the Supreme Court of Spain upheld the Court of Appeals decision against conducting an official inquiry into the IDF's targeted killing of Shehadeh.
+
+United Kingdom
+
+See also: Augusto Pinochet's arrest and trial
+
+An offence is generally only triable in the jurisdiction where the offence took place, unless a specific statute enables the UK to exercise extraterritorial jurisdiction. This is the case, inter alia, for:
+
+Torture (s. 134 of the Criminal Justice Act 1988)
+
+Sexual offences against children (s. 72 of the Sexual Offences Act 2003)
+
+Fraud and dishonesty (Criminal Justice Act 1993 Part 1)
+
+Terrorism (ss. 59, 62–63 of the Terrorism Act 2000)
+
+Bribery (was s. 109 of the Anti-terrorism, Crime and Security Act 2001, now s. 12 of the Bribery Act 2010)
+
+In December 2009, Westminster Magistrates' Court issued an arrest warrant for Tzipi Livni in connection with accusations of war crimes in the Gaza Strip during Operation Cast Lead (2008–2009). The warrant was issued on 12 December and revoked on 14 December 2009 after it was revealed that Livni had not entered British territory. The warrant was later denounced as "cynical" by the Israeli foreign ministry, while Livni's office said she was "proud of all her decisions in Operation Cast Lead". Livni herself called the arrest warrant "an abuse of the British legal system". Similarly a January visit to Britain by a team of Israel Defense Forces (IDF) was cancelled over concerns that arrest warrants would be sought by pro-Palestinian advocates in connection with allegations of war crimes under laws of universal jurisdiction.
+
+After a denunciation from Amnesty International, Nepal's Colonel Kumar Lama was charged in UK with torture, but was then acquitted.
+
+United States
+
+While the United States has no formal statute authorizing it, in some cases the Federal government has exercised self-help in apprehending or killing persons suspected of conspiring to commit crimes within the United States from outside of the country, or committing crimes against U.S officials outside of the United States. This has occurred even when the suspect is not a U.S. person, has never been in the United States, and even when the person has never conspired or assisted in the commission of a crime within the United States, there is a functioning government which could try the person for the crime committed there, and notwithstanding the existence of a proper extradition treaty between that country and the United States, ignoring the provisions of the treaty and capturing or killing the person directly.
+
+In 1985, Dr. Humberto Alvarez-Machain, a Mexican national, allegedly assisted in the torture and murder of a U.S. DEA agent in Mexico. Notwithstanding that the U.S had an extradition treaty with Mexico (and because the Mexican government declined to extradite a Mexican national to the U.S. for a crime allegedly committed in Mexico), the U.S. Government hired a private citizen and some Mexican nationals to essentially act as mercenaries, who then went into Mexico, kidnapped Dr. Alvarez-Machain, and brought him back to the U.S. for trial for the crime committed in Mexico. The trial court ruled that since Alvarez-Machain had been brought to the U.S. in violation of the treaty, his arrest was unlawful. The United States Supreme Court, in United States v. Alvarez-Machain, ruled that notwithstanding the existence of an extradition treaty with Mexico, it was still legal for the U.S. government to exercise self-help and essentially grab him off the street in Mexico ("forcible abduction") to bring him back to the U.S. for trial. In Alvarez-Machain's subsequent criminal trial, he was acquitted, and he lost a civil suit he filed for false arrest against the government.
+
+See also
+
+Law portal
+
+Extraterritorial jurisdiction
+
+Actio popularis
+
+Hostis humani generis
+
+Jurisdiction of the International Court of Justice
+
+Rule of Law in Armed Conflicts Project (RULAC)
+
+Targeted killing
+
+References
+
+^ See Lyal S. Sunga Individual Responsibility in International Law for Serious Human Rights Violations, Nijhoff (1992) 252 p. ISBN 978-0-7923-1453-0
+
+^ The Program for Humanitarian Policy and Conflict Research, "Brief Primer on Genocide" Accessed at "Archived copy". Archived from the original on 19 June 2009. Retrieved 29 July 2009.CS1 maint: archived copy as title (link)
+
+^ a b "UNIVERSAL JURISDICTION: Questions and answers". Retrieved 6 February 2016.
+
+^ "CNN: Spanish judge seeks Kissinger".
+
+^ a b Kissinger, Henry (July–August 2001). "The Pitfalls of Universal Jurisdiction". Foreign Affairs. Archived from the original on 14 January 2009.
+
+^ a b c Roth, Kenneth (September–October 2001). "The Case for Universal Jurisdiction". Foreign Affairs. Archived from the original on 21 January 2009.
+
+^ Resolution 1674 (2006) Archived 23 February 2009 at the Wayback Machine
+
+^ Security Council passes landmark resolution – world has responsibility to protect people from genocide Oxfam Press Release – 28 April 2006
+
+^ Institutes of Justinian, Book I, Title II, "Concerning Natural Law, the Law of Nations, and the Civil Law".
+
+^ Gaius. Commentaries on the Roman Law, Book I, Chapter I, "De Jure Gentium et Civili".
+
+^ Maine, Sir Henry Sumner. Ancient Law: Its Connection With the Early History of Society and Relation to Modern Ideas (1861 first ed.). London: John Murray. p. 46.
+
+^ Grotius (1604). De Jure Pradæ: (Of the Law of Captures). London: Oxford University Press. pp. xviii. (discussing in introductory notes Grotius' account of universal principles of right and wrong derived from reason and divine Will, the underpinning of much modern international law).
+
+^ Anthony Pagden (2013). The Enlightenment, and Why It Still Matters. Random House. ISBN 978-1-4000-6068-9. f there does exist some concept of universal justice, if even the most powerful states on occasion feel compelled to abide by the demands of international law, that we owe to the Enlightenment.
+
+^ Jackson, Robert, U.S. Supreme Court Justice (21 November 1945). "Justice Jackson's Opening statement for the Prosecution". Proceedings, Trial of the Major War Criminals Before the International Military Tribunal. International Military Tribunal. Retrieved 3 November 2012.CS1 maint: multiple names: authors list (link)
+
+^ Jack Goldsmith (20 January 2012). "The Shadow of Nuremberg". New York Times. Retrieved 17 March 2016. The compromises of 1945 came to be seen as imperfect but essential progress toward international rule of law and the foundation for modern international criminal tribunals.
+
+^ Alpheus T. Mason, Harlan Fiske Stone: Pillar of the Law (New York: Viking, 1956), p. 716.
+
+^ Neil Boister (2012). An Introduction to Transnational Criminal Law. Oxford University Press. ISBN 978-0-19-960538-5.
+
+^ http://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1317&context=bjil
+
+^ Brian Murphy (24 March 2016). "U.N. tribunal finds former Bosnia Serb leader guilty of genocide". Washington Post. Retrieved 24 March 2016.
+
+^ Universal Jurisdiction: The duty of states to enact and implement legislation – Chapter Nine (Torture: The legal basis for universal jurisdiction), Amnesty International 1 September 2001. Section II. Universal Jurisdiction over torture
+
+^ a b Matt Eisenbrandt; Katherine Gallagher (17 January 2012). "Halting Canadian Bush Prosecution Violated International Obligations". Jurist. Retrieved 6 March 2016. Canada disregarded an opportunity to shatter the global impunity Bush enjoys and in so doing violated international law.
+
+^ "ICJ rejects Belgian arrest warrant for foreign ministers of Democratic Republic of Congo". United Nations Information Service. 14 September 2002.
+
+^ Cesare P.R. Romano and André Nollkaemper. The Arrest Warrant Against The Liberian President, Charles Taylor, on the website of the American Society of International Law, June 2003. Cites in footnote 6: Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium), Judgment, Merits, para. 61.
+
+^ Cesare P.R. Romano and André Nollkaemper. The Arrest Warrant Against The Liberian President, Charles Taylor, on the website of the American Society of International Law, June 2003.
+
+^ Appellate Tribunal (31 May 2004). < "Prosecutor v. Charles Ghankay Taylor, Summary of Decision on Immunity From Jurisdiction". Case Number SCSL-2003-01-I. , Special Court of Sierra Leone. Retrieved 30 May 2012.
+
+^ Simons, Marlise & Goodman, J. David (31 May 2004). "Judge Gives Taylor 50 Years for 'Heinous' Crimes in War". The New York Times. Retrieved 30 May 2012.
+
+^ Report of the Secretary-General, The scope and application of the principle of universal jurisdiction, A/72/112, 72nd session, item 86 (2017) p. 10 – 11.
+
+^ Prosecutor’s Office at the International Criminal Court, Policy Paper on Case Selection and Prioritisation (September 2016) p. 5.
+
+^ Jesper Jarl Fanø (2019). Enforcing International Maritime Legislation on Air Pollution through UNCLOS. Hart Publishing. ch.16-18.
+
+^ "Belgique : Questions et Réponses sur la loi de Compétence Universelle". Human Rights Watch. Retrieved 18 February 2012.
+
+^ ICJ's decision See paragraph 43
+
+^ separate and dissenting opinions
+
+^ separate opinion of President Guillaume at paragraph 12
+
+^ dissenting opinion of Judge Oda, paragraph 12
+
+^ "Belgium: Universal Jurisdiction Law Repealed". Human Rights Watch. 1 August 2003.
+
+^ Trial Watch : Hissène Habré Archived 13 April 2009 at the Wayback Machine
+
+^ Michael Byers (2007). Intent for a Nation. Vancouver: Douglas & McIntyre. p. 111. ISBN 978-1-55365-250-2.
+
+^ "Finland sentences Rwanda preacher to life for genocide". BBC News. 11 June 2010.
+
+^ "Détail d'un code" (in French). Legifrance.gouv.fr. Retrieved 18 February 2012.
+
+^ "Conviction of FDLR leaders by German Court". Armed Groups and International Law. 28 September 2015. Retrieved 1 October 2015.
+
+^ "US tells armed group in DRC to surrender or face 'military option'". The Guardian. 5 August 2014. Retrieved 19 November 2014.
+
+^ Singer, Peter (2002). One World. Yale University Press. p. 114. ISBN 0-300-09686-0.
+
+^ a b c Attorney General of Israel v. Eichmann, Criminal Case 40/61 (District Court of Jerusalem 1961). Transcripts, archived from the original on 1 October 2006, retrieved 6 February 2013
+
+^ "Symbolic 'war crimes' tribunal to try Bush, Blair". CBS News. 15 November 2011. Archived from the original on 1 January 2012. Retrieved 16 May 2012.
+
+^ "Bush, Blair guilty in Malaysia 'war crimes trial'". Ottawa Citizen. 22 November 2011. Archived from the original on 13 January 2012. Retrieved 24 November 2011.
+
+^ Holt, Bob (15 May 2012). "Are George W. Bush and Dick Cheney war criminals? Malaysian court says 'yes'". NewJerseyNewsroom.com. Archived from the original on 18 May 2012. Retrieved 16 May 2012.
+
+^ Ridley, Yvonne (12 May 2011). "Bush Convicted of War Crimes in Absentia". Foreign Policy Journal. Retrieved 16 May 2012.
+
+^ Hunt, Luke (15 May 2012). "Bush and Cheney on Trial". The Diplomat. Retrieved 17 May 2012.
+
+^ theglobeandmail.com: "Ex-dictator of Chad denies legitimacy of torture crimes trial in Senegal", 20 Jul 2015
+
+^ Kingstone, Steve (25 June 2009). "Spain reins in crusading judges". BBC News.
+
+^ "Spanish court ends Israel bombing probe". Associated Press. 30 June 2009.
+
+^ "Spain judge charges ex-generals in Guatemala genocide case". Jurist. 8 July 2006.
+
+^ "Spanish Supreme Court: Guatemala Genocide Case". Nizkor Project. 25 February 2003.
+
+^ Daly, Emma (30 June 2003). "Spanish Judge Sends Argentine to Prison on Genocide Charge". The New York Times.
+
+^ "Profile: Judge Baltasar Garzon". BBC. 7 April 2010.
+
+^ "Spain to investigate 'genocide' in Tibet". The Independent. 11 January 2006. p. 19.
+
+^ "Spanish court to investigate Tibet massacre case". The New Zealand Herald. Reuters. 12 January 2006.
+
+^ Olesen, Alexa (7 June 2006). "China rejects Spain's 'genocide' claim". The Independent. London. Archived from the original on 13 June 2006.
+
+^ "Spanish court shelves Tibet human rights case against China". Madrid: phayul.com. Deutsche Presse-Agentur. 26 February 2010. Retrieved 6 September 2010.
+
+^ a b Izenberg, Dan (19 April 2010). "Universal jurisdiction victory in Spain but battle goes on". The Jerusalem Post. Retrieved 20 May 2010.
+
+^ Service, Haaretz (20 January 2010). "Spanish war crimes probe against Israeli officials to go on". Haaretz. Retrieved 20 October 2010.
+
+^ Giles Tremlett in Madrid (29 January 2009). "Spain investigates claims of Israeli crimes against humanity in Gaza". The Guardian. London. Retrieved 18 February 2012.
+
+^ "Spanish judge to go ahead with Gaza raid probe". Middle-east-online.com. 4 May 2009. Retrieved 18 February 2012.
+
+^ Yuval Yoaz, State commission to examine civilian deaths in 2002 Shahade assassination, Haaretz, 19 September 2007
+
+^ Walter Rodgers (4 September 2002). "Palestinians grapple with collaborators". CNN. Retrieved 19 May 2010.
+
+^ Yaacov Lozowick (2003). Right to exist: a moral defense of Israel's wars. Doubleday. ISBN 0-385-50905-7. Retrieved 19 May 2010. Salah Shehade precision bomb.
+
+^ a b Pierre Klochendler (23 July 2002). "Israeli general apologizes for civilian deaths". CNN. Retrieved 19 May 2010.
+
+^ Sergio Catignani (2008). Israeli counter-insurgency and the Intifadas: dilemmas of a conventional army. Routledge. ISBN 0-203-93069-X. Retrieved 20 May 2010.
+
+^ David Rudge (25 July 2002). "Peres apologizes for Shehadeh hit". The Jerusalem Post. Retrieved 20 May 2010.
+
+^ David B. Green (20 April 2003). "Rebuilding Iraq; Fighting by the book; The Israeli army instructs its soldiers in a stringent ethical code. Can US forces learn from its example?". Boston Globe. Retrieved 20 May 2010.
+
+^ "Jurisdiction". Crown Prosecution Service. For a list of particular offences with an extra-territorial reach see Archbold 2-36a-2-83.
+
+^ Black, Ian (14 December 2009). "British court issued Gaza arrest warrant for former Israeli minister Tzipi Livni". The Guardian. London. Retrieved 27 May 2010.
+
+^ "Foreign Ministry outraged over U.K. arrest warrant against Livni". Haaretz. 14 December 2009. Retrieved 14 December 2009.
+
+^ "Israel condemns attempt in a UK court to arrest Livni". BBC News. 15 December 2009. Retrieved 15 December 2009.
+
+^ "Tzipi Livni: UK warrant a legal 'abuse'". BBC News. 14 December 2009. Retrieved 14 December 2009.
+
+^ Black, Ian (14 December 2009). "Israeli military cancels UK visit over arrest fears". The Guardian. London. Retrieved 27 May 2010.
+
+^ See Sosa v. Alvarez-Machain
+
+Further reading
+
+Archibugi, Daniele, Pease, Alice. Crime and Global Justice. The Dynamics of International Punishment, Polity Press, 2018, ISBN 978-1-50951-262-1.
+
+Köchler, Hans, Global Justice or Global Revenge? International Criminal Justice at the Crossroads (2003)
+
+Reydams, Luc (2004). Universal Jurisdiction: International and Municipal Legal Perspectives. Oxford University Press. ISBN 0-19-927426-6.
+
+Lyal S. Sunga, The Emerging System of International Criminal Law: Developments in Codification and Implementation. Kluwer, 1997, 508 pp. ISBN 90-411-0472-0
+
+Lyal S. Sunga, Individual Responsibility in International Law for Serious Human Rights Violations. Nijhoff, 1992, 252 pp. ISBN 0-7923-1453-0
+
+Jerusalem Center for Public Affairs Diane Morrison and Justus Reid Weiner Curbing the Manipulation of Universal Jurisdiction
+
+External links
+
+Macedo, Stephen (project chair and editor). The Princeton principles on Universal Jurisdiction, The Princeton Project on Universal Jurisdiction, Princeton University, 2001, ISBN 0-9711859-0-5
+
+Legal Remedies for Victims of "International Crimes": Fostering an EU Approach To Extraterritorial Jurisdiction The Redress Trust and the International Federation of Human Rights, March 2004
+
+Kissinger, Henry, The Pitfalls of Universal Jurisdiction: Risking Judicial Tyranny –, Foreign Affairs, July/August 2001.
+
+The AU-EU Expert Report on the Principle of Universal Jurisdiction, 16 April 2009.
+
+v
+
+t
+
+e
+
+International criminal law
+
+Sources 
+Customary international law
+
+Peremptory norm
+
+Hague Conventions
+
+Geneva Conventions
+
+Nuremberg Charter
+
+Nuremberg principles
+
+United Nations Charter
+
+Genocide Convention
+
+Convention Against Torture
+
+Rome Statute
+
+Law portal
+
+Crimes against
+
+international law
+
+Crimes against humanity
+
+Crime against peace
+
+Crime of apartheid
+
+Genocide
+Incitement to genocide
+
+Piracy
+
+Slave trading
+
+War crime
+
+International courts
+
+(in order of foundation)
+
+International Military Tribunal (Nuremberg Trials)
+
+International Military Tribunal for the Far East
+
+International Criminal Tribunal for the former Yugoslavia
+
+International Criminal Tribunal for Rwanda
+
+Special Court for Sierra Leone
+
+International Criminal Court
+
+Extraordinary Chambers in the Courts of Cambodia
+
+Special Panels of the Dili District Court
+
+Special Tribunal for Lebanon
+
+International Residual Mechanism for Criminal Tribunals
+
+History 
+List of war crimes
+
+List of convicted war criminals
+
+Leipzig War Crimes Trials
+
+Prosecution of Ottoman war criminals
+
+Turkish courts-martial of 1919–1920
+
+Related concepts 
+Command responsibility
+
+Superior orders
+
+Joint criminal enterprise
+
+International speech crimes
+
+Law of war
+
+Universal jurisdiction
+
+Non-combatant

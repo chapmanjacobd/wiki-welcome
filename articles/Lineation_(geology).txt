@@ -1,0 +1,53 @@
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Lineation" geology – news · newspapers · books · scholar · JSTOR (June 2017) (Learn how and when to remove this template message)
+
+Lineations in structural geology are linear structural features within rocks. There are several types of lineations, intersection lineations, crenulation lineations, mineral lineations and stretching lineations being the most common. Lineation field measurements are recorded as map lines with a plunge angle and azimuth.
+
+Contents
+
+1 Intersection lineations
+
+2 Stretching lineations
+
+3 See also
+
+4 References
+
+Intersection lineations
+
+Stretched pebble conglomerate L-tectonite illustrating a stretch lineation within a shear zone, Glengarry Basin, Australia. Pronounced asymmetric shearing has stretched the conglomerate pebbles into prolate (cigar-shaped) rods.
+
+Intersection lineations are linear structures formed by the intersection of any two surfaces in a three-dimensional space. The trace of bedding on an intersecting foliation plane commonly appears as colour stripes generally parallel to local fold's hinges. Intersection lineations can also be due to the intersection of two foliations.
+
+Intersection lineations are measured in relation to the two structures which intersect to form them. For instance, according to the measurement conventions of structural geology, original bedding, S0 intersected by a fold's axial plane foliation, forms an intersection lineation L0-1, with an azimuth and plunge defined by the fold. This is the typical cleavage-bedding intersection angle and is diagnostic of the plunge of the fold on all parts of the fold.
+
+Stretching lineations
+
+L-teconite mylonite formed from coarse-grained sandstone protolith, Glengarry Basin, Australia. This photograph illustrates a pronounced and prominent stretching lineation plunging steeply to the north, as a rake upon the main shear foliation parallel with the protractor. Stretching lineations may form in any faulting regime when conditions are such that rocks deform ductiley, including extensional, compressional, transpressional, and transtensional.
+
+Stretching lineations are formed by shearing of rocks during asymmetric deformation of a rock mass. Stretching lineations record primarily the vector of greatest stretch, which is perpendicular to the principle plane of shortening.
+
+A stretching lineation may be visualised as a ball of treacle (molasses) which, when pulled, forms a cigar-shaped rod parallel to the direction in which it is pulled. This is parallel to the direction in which a shearing force, as found in a shear zone, stretches the rock. Shortening occurs at the same time as elongation but in a perpendicular sense to the stretched rod.
+
+With reference to the image at right (top), the conglomerate pebbles most likely were deposited as sub-spherical pebbles and boulders. During deformation the rock was flattened and then stretched by movement along a ductile shear zone within which this outcrop resides. The spherical conglomerate pebbles stretched along the direction of movement of this shear zone, attaining their current somewhat flattened cigar-shaped form. The pebbles thus record important information on the orientation of the shear zone (subvertical) and the direction of movement of the shear zone, and the overall change in pebble shape from originally sub-spherical to presently elongate cigar-shaped, allows one to quantify the strain experienced by the rock mass in the geologic past.
+
+Stretching lineations may also manifest as linear features upon pre-existing surfaces such as foliations within shear zones (see image at right, below). In such a case the lineation may not be as obvious in plan and may require measurement as a rake upon a planar surface. In this case, the two lineations are formed in the same deformation event but are manifest differently owing to the different rheologies of the deformed rocks.
+
+Finally, the key difference between a stretching lineation and an intersection lineation is that stretching lineations carry no information on the orientation of other planar fabrics within a rock mass. In the case of the illustrated lineations within the sandstone, they do not record an earlier deformation event's foliation and cannot be used to infer orientation information for folds or original bedding.
+
+See also
+
+Shear (geology)
+
+Foliation (geology)
+
+Rock microstructure
+
+Fold (geology)
+
+Tectonite
+
+References
+
+^ Parker, Sybil (1994). Dictionary of Geology and Mineralogy. McGraw Hill.

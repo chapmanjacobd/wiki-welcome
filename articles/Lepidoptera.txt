@@ -1,0 +1,1765 @@
+"
+
+Order of insects including moths and butterflies
+
+Lepidoptera
+
+Temporal range: Early Jurassic–present, 200–0 Ma 
+PreꞒ
+
+Ꞓ
+
+O
+
+S
+
+D
+
+C
+
+P
+
+T
+
+J
+
+K
+
+Pg
+
+N
+
+Monarch butterfly and luna moth, two widely recognized North American lepidopterans
+
+Scientific classification 
+
+Kingdom:
+ Animalia
+
+Phylum:
+ Arthropoda
+
+Class:
+ Insecta
+
+(unranked):
+ Amphiesmenoptera
+
+Order:
+ Lepidoptera
+
+Linnaeus, 1758
+
+Suborders
+
+Aglossata
+
+Glossata
+
+Heterobathmiina
+
+Zeugloptera
+
+Lepidoptera (/ˌlɛpɪˈdɒptərə/ LEP-i-DOP-tər-ə, from Ancient Greek lepís “scale” + pterón “wing”) is an order of insects that includes butterflies and moths (both are called lepidopterans). About 180,000 species of the Lepidoptera are described, in 126 families and 46 superfamilies, 10 per cent of the total described species of living organisms. It is one of the most widespread and widely recognizable insect orders in the world. The Lepidoptera show many variations of the basic body structure that have evolved to gain advantages in lifestyle and distribution. Recent estimates suggest the order may have more species than earlier thought, and is among the four most speciose orders, along with the Hymenoptera, Diptera, and Coleoptera.
+
+Lepidopteran species are characterized by more than three derived features. The most apparent is the presence of scales that cover the bodies, wings, and a proboscis. The scales are modified, flattened \"hairs\", and give butterflies and moths their wide variety of colors and patterns. Almost all species have some form of membranous wings, except for a few that have reduced wings or are wingless. Mating and the laying of eggs are carried out by adults, normally near or on host plants for the larvae. Like most other insects, butterflies and moths are holometabolous, meaning they undergo complete metamorphosis. The larvae are commonly called caterpillars, and are completely different from their adult moth or butterfly forms, having a cylindrical body with a well-developed head, mandible mouth parts, three pairs of thoracic legs and from none up to five pairs of prolegs. As they grow, these larvae change in appearance, going through a series of stages called instars. Once fully matured, the larva develops into a pupa. A few butterflies and many moth species spin a silk case or cocoon prior to pupating, while others do not, instead going underground. A butterfly pupa, called a chrysalis, has a hard skin, usually with no cocoon. Once the pupa has completed its metamorphosis, a sexually mature adult emerges.
+
+The Lepidoptera have, over millions of years, evolved a wide range of wing patterns and coloration ranging from drab moths akin to the related order Trichoptera, to the brightly colored and complex-patterned butterflies. Accordingly, this is the most recognized and popular of insect orders with many people involved in the observation, study, collection, rearing of, and commerce in these insects. A person who collects or studies this order is referred to as a lepidopterist.
+
+Butterflies and moths play an important role in the natural ecosystem as pollinators and as food in the food chain; conversely, their larvae are considered very problematic to vegetation in agriculture, as their main source of food is often live plant matter. In many species, the female may produce from 200 to 600 eggs, while in others, the number may approach 30,000 eggs in one day. The caterpillars hatching from these eggs can cause damage to large quantities of crops. Many moth and butterfly species are of economic interest by virtue of their role as pollinators, the silk they produce, or as pest species.
+
+Contents
+
+1 Etymology
+
+2 Distribution and diversity
+
+3 External morphology
+
+3.1 Head
+
+3.2 Thorax
+
+3.3 Abdomen
+
+3.4 Scales
+
+4 Internal morphology
+
+4.1 Reproductive system
+
+4.2 Digestive system
+
+4.3 Circulatory system
+
+4.4 Respiratory system
+
+5 Polymorphism
+
+6 Reproduction and development
+
+6.1 Lepidopterans in diapause
+
+6.2 Mating
+
+6.3 Life cycle
+
+6.3.1 Eggs
+
+6.3.2 Larvae
+
+6.3.3 Wing development
+
+6.3.4 Pupa
+
+6.3.5 Adult
+
+7 Behavior
+
+7.1 Flight
+
+7.1.1 Navigation
+
+7.1.2 Migration
+
+7.2 Communication
+
+8 Ecology
+
+8.1 Defense and predation
+
+8.2 Pollination
+
+8.3 Mutualism
+
+8.4 Parasitism
+
+8.5 Other biological interactions
+
+9 Evolution and systematics
+
+9.1 History of study
+
+9.2 Fossil record
+
+9.3 Phylogeny
+
+9.4 Taxonomy
+
+10 Relationship to people
+
+10.1 Culture
+
+10.2 Pests
+
+10.3 Beneficial insects
+
+10.4 Food
+
+10.5 Health
+
+11 See also
+
+11.1 Lists
+
+12 References
+
+13 Further reading
+
+14 External links
+
+Etymology
+
+The term was coined by Linnaeus in 1735 and is derived from Greek λεπίς, gen. λεπίδος (\"scale\") and πτερόν (\"wing\"). Sometimes, the term Rhopalocera is used for the clade of all butterfly species, derived from the Ancient Greek ῥόπαλον (rhopalon):4150 and κέρας (keras):3993 meaning \"club\" and \"horn\", respectively, coming from the shape of the antennae of butterflies.
+
+The origins of the common names \"butterfly\" and \"moth\" are varied and often obscure. The English word butterfly is from Old English buttorfleoge, with many variations in spelling. Other than that, the origin is unknown, although it could be derived from the pale yellow color of many species' wings suggesting the color of butter. The species of Heterocera are commonly called moths. The origins of the English word moth are more clear, deriving from the Old English moððe\" (cf. Northumbrian dialect mohðe) from Common Germanic (compare Old Norse motti, Dutch mot and German Motte all meaning \"moth\"). Perhaps its origins are related to Old English maða meaning \"maggot\" or from the root of \"midge\", which until the 16th century was used mostly to indicate the larva, usually in reference to devouring clothes.
+
+The etymological origins of the word \"caterpillar\", the larval form of butterflies and moths, are from the early 16th century, from Middle English catirpel, catirpeller, probably an alteration of Old North French catepelose: cate, cat (from Latin cattus) + pelose, hairy (from Latin pilōsus).
+
+Distribution and diversity
+
+Main article: Lists of Lepidoptera by region
+
+The Lepidoptera are among the most successful groups of insects. They are found on all continents, except Antarctica, and inhabit all terrestrial habitats ranging from desert to rainforest, from lowland grasslands to mountain plateaus, but almost always associated with higher plants, especially angiosperms (flowering plants). Among the most northern dwelling species of butterflies and moths is the Arctic Apollo (Parnassius arcticus), which is found in the Arctic Circle in northeastern Yakutia, at an altitude of 1500 m above sea level. In the Himalayas, various Apollo species such as Parnassius epaphus have been recorded to occur up to an altitude of 6,000 m above sea level.:221
+
+Some lepidopteran species exhibit symbiotic, phoretic, or parasitic lifestyles, inhabiting the bodies of organisms rather than the environment. Coprophagous pyralid moth species, called sloth moths, such as Bradipodicola hahneli and Cryptoses choloepi, are unusual in that they are exclusively found inhabiting the fur of sloths, mammals found in Central and South America.
+Two species of Tinea moths have been recorded as feeding on horny tissue and have been bred from the horns of cattle. The larva of Zenodochium coccivorella is an internal parasite of the coccid Kermes species. Many species have been recorded as breeding in natural materials or refuse such as owl pellets, bat caves, honeycombs or diseased fruit.
+
+As of 2007, there was roughly 174,250 lepidopteran species described, with butterflies and skippers estimated to comprise around 17,950, and moths making up the rest. The vast majority of Lepidoptera are to be found in the tropics, but substantial diversity exists on most continents. North America has over 700 species of butterflies and over 11,000 species of moths, while about 400 species of butterflies and 14,000 species of moths are reported from Australia. The diversity of Lepidoptera in each faunal region has been estimated by John Heppner in 1991 based partly on actual counts from the literature, partly on the card indices in the Natural History Museum (London) and the National Museum of Natural History (Washington), and partly on estimates:
+
+Diversity of Lepidoptera in each faunal region
+ 
+Palearctic
+Nearctic
+Neotropic
+Afrotropic
+Indo-Australian
+
+(comprising Indomalayan, Australasian, and Oceanian realms)
+
+Estimated number of species
+ 22,465
+ 11,532
+ 44,791
+ 20,491
+ 47,287
+
+External morphology
+
+Main article: External morphology of Lepidoptera
+
+Parts of an adult butterfly
+
+A – head, B – thorax, C – abdomen, 1 – prothoracic shield, 2 – spiracle, 3 – true legs, 4 – midabdominal prolegs, 5 – anal proleg, 6 – anal plate, 7 – tentacle, a – frontal triangle, b – stemmata (ocelli), c – antenna, d – mandible, e – labrum.
+
+Lepidoptera are morphologically distinguished from other orders principally by the presence of scales on the external parts of the body and appendages, especially the wings. Butterflies and moths vary in size from microlepidoptera only a few millimeters long, to conspicuous animals with a wingspan greater than 25 centimetres, such as the Queen Alexandra's birdwing and Atlas moth.:246
+Lepidopterans undergo a four-stage life cycle: egg; larva or caterpillar; pupa or chrysalis; and imago (plural: imagines) / adult and show many variations of the basic body structure, which give these animals advantages for diverse lifestyles and environments.
+
+Head
+
+Face of a caterpillar with the mouthparts showing
+
+The head is where many sensing organs and the mouth parts are found. Like the adult, the larva also has a toughened, or sclerotized head capsule. Here, two compound eyes, and chaetosema, raised spots or clusters of sensory bristles unique to Lepidoptera, occur, though many taxa have lost one or both of these spots. The antennae have a wide variation in form among species and even between different sexes. The antennae of butterflies are usually filiform and shaped like clubs, those of the skippers are hooked, while those of moths have flagellar segments variously enlarged or branched. Some moths have enlarged antennae or ones that are tapered and hooked at the ends.:559–560
+
+The maxillary galeae are modified and form an elongated proboscis. The proboscis consists of one to five segments, usually kept coiled up under the head by small muscles when it is not being used to suck up nectar from flowers or other liquids. Some basal moths still have mandibles, or separate moving jaws, like their ancestors, and these form the family Micropterigidae.:560
+
+The larvae, called caterpillars, have a toughened head capsule. Caterpillars lack the proboscis and have separate chewing mouthparts. These mouthparts, called mandibles, are used to chew up the plant matter that the larvae eat. The lower jaw, or labium, is weak, but may carry a spinneret, an organ used to create silk. The head is made of large lateral lobes, each having an ellipse of up to six simple eyes.:562–563
+
+Thorax
+
+The thorax is made of three fused segments, the prothorax, mesothorax, and metathorax, each with a pair of legs. The first segment contains the first pair of legs. In some males of the butterfly family Nymphalidae, the forelegs are greatly reduced and are not used for walking or perching.:586 The three pairs of legs are covered with scales. Lepidoptera also have olfactory organs on their feet, which aid the butterfly in \"tasting\" or \"smelling\" out its food. In the larval form there are 3 pairs of true legs, with up to 11 pairs of abdominal legs (usually eight) and hooklets, called apical crochets.
+
+The two pairs of wings are found on the middle and third segments, or mesothorax and metathorax, respectively. In the more recent genera, the wings of the second segment are much more pronounced, although some more primitive forms have similarly sized wings of both segments. The wings are covered in scales arranged like shingles, which form an extraordinary variety of colors and patterns. The mesothorax has more powerful muscles to propel the moth or butterfly through the air, with the wing of this segment (forewing) having a stronger vein structure.:560 The largest superfamily, the Noctuidae, has their wings modified to act as tympanal or hearing organs.
+
+The caterpillar has an elongated, soft body that may have hair-like or other projections, three pairs of true legs, with none to 11 pairs of abdominal legs (usually eight) and hooklets, called apical crochets. The thorax usually has a pair of legs on each segment. The thorax is also lined with many spiracles on both the mesothorax and metathorax, except for a few aquatic species, which instead have a form of gills.:563
+
+Abdomen
+
+Caterpillar prolegs on Papilio machaon
+
+See also: Lepidoptera genitalia
+
+The abdomen, which is less sclerotized than the thorax, consists of 10 segments with membranes in between, allowing for articulated movement. The sternum, on the first segment, is small in some families and is completely absent in others. The last two or three segments form the external parts of the species' sex organs. The genitalia of Lepidoptera are highly varied and are often the only means of differentiating between species. Male genitals include a valva, which is usually large, as it is used to grasp the female during mating. Female genitalia include three distinct sections.
+
+The females of basal moths have only one sex organ, which is used for copulation and as an ovipositor, or egg-laying organ. About 98% of moth species have a separate organ for mating, and an external duct that carries the sperm from the male.:561
+
+The abdomen of the caterpillar has four pairs of prolegs, normally located on the third to sixth segments of the abdomen, and a separate pair of prolegs by the anus, which have a pair of tiny hooks called crotchets. These aid in gripping and walking, especially in species that lack many prolegs (e. g. larvae of Geometridae). In some basal moths, these prolegs may be on every segment of the body, while prolegs may be completely absent in other groups, which are more adapted to boring and living in sand (e. g., Prodoxidae and Nepticulidae, respectively).:563
+
+Scales
+
+Wing scales form the color and pattern on wings. The scales shown here are lamellar. The pedicel can be seen attached to a few loose scales.
+
+The wings, head, and parts of the thorax and abdomen of Lepidoptera are covered with minute scales, a feature from which the order derives its name. Most scales are lamellar, or blade-like, and attached with a pedicel, while other forms may be hair-like or specialized as secondary sexual characteristics.
+
+The lumen or surface of the lamella has a complex structure. It gives color either by colored pigments it contains, or through structural coloration with mechanisms that include photonic crystals and diffraction gratings.
+
+Scales function in insulation, thermoregulation, producing pheromones (in males only), and aiding gliding flight, but the most important is the large diversity of vivid or indistinct patterns they provide, which help the organism protect itself by camouflage or mimicry, and which act as signals to other animals including rivals and potential mates.
+
+Electron microscopy images of scales
+
+A patch of wing (×50)
+
+Scales close up (×200)
+
+A single scale (×1000)
+
+Microstructure of a scale (×5000)
+
+Internal morphology
+
+Reproductive system
+
+In the reproductive system of butterflies and moths, the male genitalia are complex and unclear. In females the three types of genitalia are based on the relating taxa: 'monotrysian', 'exoporian', and 'ditrysian'. In the monotrysian type is an opening on the fused segments of the sterna 9 and 10, which act as insemination and oviposition. In the exoporian type (in Hepaloidae and Mnesarchaeoidea) are two separate places for insemination and oviposition, both occurring on the same sterna as the monotrysian type, i.e. 9 and 10. The ditrysian groups have an internal duct that carries sperm, with separate openings for copulation and egg-laying. In most species, the genitalia are flanked by two soft lobes, although they may be specialized and sclerotized in some species for ovipositing in area such as crevices and inside plant tissue. Hormones and the glands that produce them run the development of butterflies and moths as they go through their life cycles, called the endocrine system. The first insect hormone prothoracicotropic hormone (PTTH) operates the species life cycle and diapause. This hormone is produced by corpora allata and corpora cardiaca, where it is also stored. Some glands are specialized to perform certain task such as producing silk or producing saliva in the palpi.:65, 75 While the corpora cardiaca produce PTTH, the corpora allata also produces juvenile hormones, and the prothorocic glands produce moulting hormones.
+
+Digestive system
+
+In the digestive system, the anterior region of the foregut has been modified to form a pharyngeal sucking pump as they need it for the food they eat, which are for the most part liquids. An esophagus follows and leads to the posterior of the pharynx and in some species forms a form of crop. The midgut is short and straight, with the hindgut being longer and coiled. Ancestors of lepidopteran species, stemming from Hymenoptera, had midgut ceca, although this is lost in current butterflies and moths. Instead, all the digestive enzymes, other than initial digestion, are immobilized at the surface of the midgut cells. In larvae, long-necked and stalked goblet cells are found in the anterior and posterior midgut regions, respectively. In insects, the goblet cells excrete positive potassium ions, which are absorbed from leaves ingested by the larvae. Most butterflies and moths display the usual digestive cycle, but species with different diets require adaptations to meet these new demands.:279
+
+Internal morphology of adult male in the family Nymphalidae, showing most of the major organ systems, with characteristic reduced forelegs of that family: The corpora include the corpus allatum and the corpus cardiaca.
+
+Circulatory system
+
+In the circulatory system, hemolymph, or insect blood, is used to circulate heat in a form of thermoregulation, where muscles contraction produces heat, which is transferred to the rest of the body when conditions are unfavorable.
+In lepidopteran species, hemolymph is circulated through the veins in the wings by some form of pulsating organ, either by the heart or by the intake of air into the trachea.:69
+
+Respiratory system
+
+Air is taken in through spiracles along the sides of the abdomen and thorax supplying the trachea with oxygen as it goes through the lepidopteran's respiratory system. Three different tracheaes supply and diffuse oxygen throughout the species' bodies. The dorsal tracheae supply oxygen to the dorsal musculature and vessels, while the ventral tracheae supply the ventral musculature and nerve cord, and the visceral tracheae supply the guts, fat bodies, and gonads.:71, 72
+
+Polymorphism
+
+Main article: Polymorphism in Lepidoptera
+
+Sexually dimorphic bagworm moths (Thyridopteryx ephemeraeformis) mating: The female is flightless.
+
+The Heliconius butterflies from the tropics of the Western Hemisphere are the classical model for Müllerian mimicry.
+
+Polymorphism is the appearance of forms or \"morphs\", which differ in color and number of attributes within a single species.:163 In Lepidoptera, polymorphism can be seen not only between individuals in a population, but also between the sexes as sexual dimorphism, between geographically separated populations in geographical polymorphism, and between generations flying at different seasons of the year (seasonal polymorphism or polyphenism). In some species, the polymorphism is limited to one sex, typically the female. This often includes the phenomenon of mimicry when mimetic morphs fly alongside nonmimetic morphs in a population of a particular species. Polymorphism occurs both at specific level with heritable variation in the overall morphological adaptations of individuals, as well as in certain specific morphological or physiological traits within a species.
+
+Environmental polymorphism, in which traits are not inherited, is often termed as polyphenism, which in Lepidoptera is commonly seen in the form of seasonal morphs, especially in the butterfly families of Nymphalidae and Pieridae. An Old World pierid butterfly, the common grass yellow (Eurema hecabe) has a darker summer adult morph, triggered by a long day exceeding 13 hours in duration, while the shorter diurnal period of 12 hours or less induces a paler morph in the postmonsoon period. Polyphenism also occurs in caterpillars, an example being the peppered moth, Biston betularia.
+
+Geographical isolation causes a divergence of a species into different morphs. A good example is the Indian white admiral Limenitis procris, which has five forms, each geographically separated from the other by large mountain ranges.:26 An even more dramatic showcase of geographical polymorphism is the Apollo butterfly (Parnassius apollo). Because the Apollos live in small local populations, thus having no contact with each other, coupled with their strong stenotopic nature and weak migration ability, interbreeding between populations of one species practically does not occur; by this, they form over 600 different morphs, with the size of spots on the wings of which varies greatly.
+
+Seasonal diphenism in the common grass yellow, Eurema hecabe
+
+Dry-season form
+
+Wet-season form
+
+Sexual dimorphism is the occurrence of differences between males and females in a species. In Lepidoptera, it is widespread and almost completely set by genetic determination. Sexual dimorphism is present in all families of the Papilionoidea and more prominent in the Lycaenidae, Pieridae, and certain taxa of the Nymphalidae. Apart from color variation, which may differ from slight to completely different color-pattern combinations, secondary sexual characteristics may also be present.:25 Different genotypes maintained by natural selection may also be expressed at the same time. Polymorphic and/or mimetic females occur in the case of some taxa in the Papilionidae primarily to obtain a level of protection not available to the male of their species. The most distinct case of sexual dimorphism is that of adult females of many Psychidae species which have only vestigial wings, legs, and mouthparts as compared to the adult males that are strong fliers with well-developed wings and feathery antennae.
+
+Reproduction and development
+
+Mating pair of Laothoe populi (poplar hawk-moth) showing two different color variants
+
+Species of Lepidoptera undergo holometabolism or \"complete metamorphosis\". Their life cycle normally consists of an egg, a larva, a pupa, and an imago or adult. The larvae are commonly called caterpillars, and the pupae of moths encapsulated in silk are called cocoons, while the uncovered pupae of butterflies are called chrysalides.
+
+Lepidopterans in diapause
+
+ Part of a series on
+
+Animal dormancy
+
+Torpor
+
+Hibernation
+Hibernaculum
+
+HIT
+
+Aestivation
+
+Cryptobiosis
+
+Brumation
+
+Diapause
+Embryonic diapause
+
+Winter rest
+
+Critical thermal maximum
+
+Sleep (non-human)
+
+Developmental biology
+
+v
+
+t
+
+e
+
+Unless the species reproduces year-round, a butterfly or moth may enter diapause, a state of dormancy that allows the insect to survive unfavorable environmental conditions.
+
+Mating
+
+See also: Lepidoptera genitalia
+
+Males usually start eclosion (emergence) earlier than females and peak in numbers before females. Both of the sexes are sexually mature by the time of eclosion.:564 Butterflies and moths normally do not associate with each other, except for migrating species, staying relatively asocial. Mating begins with an adult (female or male) attracting a mate, normally using visual stimuli, especially in diurnal species like most butterflies. However, the females of most nocturnal species, including almost all moth species, use pheromones to attract males, sometimes from long distances. Some species engage in a form of acoustic courtship, or attract mates using sound or vibration such as the polka-dot wasp moth, Syntomeida epilais.
+
+Adaptations include undergoing one seasonal generation, two or even more, called voltinism (Univoltism, bivoltism, and multivism, respectively). Most lepidopterans in temperate climates are univoltine, while in tropical climates most have two seasonal broods. Some others may take advantage of any opportunity they can get, and mate continuously throughout the year. These seasonal adaptations are controlled by hormones, and these delays in reproduction are called diapause.:567 Many lepidopteran species, after mating and laying their eggs, die shortly afterwards, having only lived for a few days after eclosion. Others may still be active for several weeks and then overwinter and become sexually active again when the weather becomes more favorable, or diapause. The sperm of the male that mated most recently with the female is most likely to have fertilized the eggs, but the sperm from a prior mating may still prevail.:564
+
+Life cycle
+
+The four stages of the life cycle of an anise swallowtail
+
+Eggs
+
+Lepidoptera usually reproduce sexually and are oviparous (egg-laying), though some species exhibit live birth in a process called ovoviviparity. A variety of differences in egg-laying and the number of eggs laid occur. Some species simply drop their eggs in flight (these species normally have polyphagous larvae, meaning they eat a variety of plants e. g., hepialids and some nymphalids) while most lay their eggs near or on the host plant on which the larvae feed. The number of eggs laid may vary from only a few to several thousand. The females of both butterflies and moths select the host plant instinctively, and primarily, by chemical cues.:564
+
+The eggs are derived from materials ingested as a larva and in some species, from the spermatophores received from males during mating. An egg can only be 1/1000 the mass of the female, yet she may lay up to her own mass in eggs. Females lay smaller eggs as they age. Larger females lay larger eggs. The egg is covered by a hard-ridged protective outer layer of shell, called the chorion. It is lined with a thin coating of wax, which prevents the egg from drying out. Each egg contains a number of micropyles, or tiny funnel-shaped openings at one end, the purpose of which is to allow sperm to enter and fertilize the egg. Butterfly and moth eggs vary greatly in size between species, but they are all either spherical or ovate.
+
+The egg stage lasts a few weeks in most butterflies, but eggs laid prior to winter, especially in temperate regions, go through diapause, and hatching may be delayed until spring. Other butterflies may lay their eggs in the spring and have them hatch in the summer. These butterflies are usually temperate species (e. g. Nymphalis antiopa).
+
+Larvae
+
+Main article: Caterpillar
+
+Larval form typically lives and feeds on plants
+
+The larvae or caterpillars are the first stage in the life cycle after hatching. Caterpillars, are \"characteristic polypod larvae with cylindrical bodies, short thoracic legs, and abdominal prolegs (pseudopods)\". They have a toughened (sclerotised) head capsule with an adfrontal suture formed by medial fusion of the sclerites, mandibles (mouthparts) for chewing, and a soft tubular, segmented body, that may have hair-like or other projections, three pairs of true legs, and additional prolegs (up to five pairs). The body consists of thirteen segments, of which three are thoracic and ten are abdominal. Most larvae are herbivores, but a few are carnivores (some eat ants or other caterpillars) and detritivores.
+
+Different herbivorous species have adapted to feed on every part of the plant and are normally considered pests to their host plants; some species have been found to lay their eggs on the fruit and other species lay their eggs on clothing or fur (e. g., Tineola bisselliella, the common clothes moth). Some species are carnivorous and others are even parasitic. Some lycaenid species such as Phengaris rebeli are social parasites of Myrmica ants nests. A species of Geometridae from Hawaii has carnivorous larvae that catch and eat flies. Some pyralid caterpillars are aquatic.
+
+The larvae develop rapidly with several generations in a year; however, some species may take up to 3 years to develop, and exceptional examples like Gynaephora groenlandica take as long as seven years. The larval stage is where the feeding and growing stages occur, and the larvae periodically undergo hormone-induced ecdysis, developing further with each instar, until they undergo the final larval-pupal molt.
+
+The larvae of both butterflies and moths exhibit mimicry to deter potential predators. Some caterpillars have the ability to inflate parts of their heads to appear snake-like. Many have false eye-spots to enhance this effect. Some caterpillars have special structures called osmeteria (family Papilionidae), which are exposed to produce smelly chemicals used in defense. Host plants often have toxic substances in them and caterpillars are able to sequester these substances and retain them into the adult stage. This helps make them unpalatable to birds and other predators. Such unpalatability is advertised using bright red, orange, black, or white warning colors. The toxic chemicals in plants are often evolved specifically to prevent them from being eaten by insects. Insects, in turn, develop countermeasures or make use of these toxins for their own survival. This \"arms race\" has led to the coevolution of insects and their host plants.
+
+Wing development
+
+No form of wing is externally visible on the larva, but when larvae are dissected, developing wings can be seen as disks, which can be found on the second and third thoracic segments, in place of the spiracles that are apparent on abdominal segments. Wing disks develop in association with a trachea that runs along the base of the wing, and are surrounded by a thin peripodial membrane, which is linked to the outer epidermis of the larva by a tiny duct. Wing disks are very small until the last larval instar, when they increase dramatically in size, are invaded by branching tracheae from the wing base that precede the formation of the wing veins, and begin to develop patterns associated with several landmarks of the wing.
+
+Near pupation, the wings are forced outside the epidermis under pressure from the hemolymph, and although they are initially quite flexible and fragile, by the time the pupa breaks free of the larval cuticle, they have adhered tightly to the outer cuticle of the pupa (in obtect pupae). Within hours, the wings form a cuticle so hard and well-joined to the body that pupae can be picked up and handled without damage to the wings.
+
+Pupa
+
+Play media
+
+Eclosion of Papilio dardanus
+
+After about five to seven instars,:26–28 or molts, certain hormones, like PTTH, stimulate the production of ecdysone, which initiates insect molting. Then, the larva puparium, a sclerotized or hardened cuticle of the last larval instar, develops into the pupa. Depending on the species, the pupa may be covered in a silk cocoon, attached to different types of substrates, buried in the ground, or may not be covered at all. Features of the imago are externally recognizable in the pupa. All the appendages on the adult head and thorax are found cased inside the cuticle (antennae, mouthparts, etc.), with the wings wrapped around, adjacent to the antennae.:564 The pupae of some species have functional mandibles, while the pupal mandibles are not functional in others.
+
+While encased, some of the lower segments are not fused, and are able to move using small muscles found in between the membrane. Moving may help the pupa, for example, escape the sun, which would otherwise kill it. The pupa of the Mexican jumping bean moth (Cydia deshaisiana) does this. The larvae cut a trapdoor in the bean (species of Sebastiania) and use the bean as a shelter. With a sudden rise in temperature, the pupa inside twitches and jerks, pulling on the threads inside. Wiggling may also help to deter parasitoid wasps from laying eggs on the pupa. Other species of moths are able to make clicks to deter predators.:564, 566
+
+The length of time before the pupa ecloses (emerges) varies greatly. The monarch butterfly may stay in its chrysalis for two weeks, while other species may need to stay for more than 10 months in diapause. The adult emerges from the pupa either by using abdominal hooks or from projections located on the head. The mandibles found in the most primitive moth families are used to escape from their cocoon (e. g., Micropterigoidea).:564
+
+Adult
+
+Most lepidopteran species do not live long after eclosion, only needing a few days to find a mate and then lay their eggs. Others may remain active for a longer period (from one to several weeks), or go through diapause and overwintering as monarch butterflies do, or waiting out environmental stress. Some adult species of microlepidoptera go through a stage where no reproductive-related activity occurs, lasting through summer and winter, followed by mating and oviposition in the early spring.:564
+
+While most butterflies and moths are terrestrial, many species of Pyralidae are truly aquatic with all stages except the adult occurring in water. Many species from other families such as Erebidae, Nepticulidae, Cosmopterygidae, Tortricidae, Olethreutidae, Noctuidae, Cossidae, and Sphingidae are aquatic or semiaquatic.:22
+
+Behavior
+
+Flight
+
+Flight is an important aspect of the lives of butterflies and moths, and is used for evading predators, searching for food, and finding mates in a timely manner, as most lepidopteran species do not live long after eclosion. It is the main form of locomotion in most species. In Lepidoptera, the forewings and hindwings are mechanically coupled and flap in synchrony. Flight is anteromotoric, or being driven primarily by action of the forewings. Although lepidopteran species reportedly can still fly when their hindwings are cut off, it reduces their linear flight and turning capabilities.
+
+Lepidopteran species have to be warm, about 77 to 79 °F (25 to 26 °C), to fly. They depend on their body temperature being sufficiently high and since they cannot regulate it themselves, this is dependent on their environment. Butterflies living in cooler climates may use their wings to warm their bodies. They will bask in the sun, spreading out their wings so that they get maximum exposure to the sunlight. In hotter climates butterflies can easily overheat, so they are usually active only during the cooler parts of the day, early morning, late afternoon or early evening. During the heat of the day, they rest in the shade. Some larger thick-bodied moths (e.g. Sphingidae) can generate their own heat to a limited degree by vibrating their wings. The heat generated by the flight muscles warms the thorax while the temperature of the abdomen is unimportant for flight. To avoid overheating, some moths rely on hairy scales, internal air sacs, and other structures to separate the thorax and abdomen and keep the abdomen cooler.
+
+Some species of butterflies can reach fast speeds, such as the southern dart, which can go as fast as 48.4 km/h. Sphingids are some of the fastest flying insects, some are capable of flying at over 50 km/h (30 mi/h), having a wingspan of 35–150 mm. In some species, sometimes a gliding component to their flight exists. Flight occurs either as hovering, or as forward or backward motion. In butterfly and moth species, such as hawk moths, hovering is important as they need to maintain a certain stability over flowers when feeding on the nectar.
+
+Navigation
+
+Timelapse of flying moths, attracted to the floodlights
+
+Main article: Animal navigation
+
+Navigation is important to Lepidoptera species, especially for those that migrate. Butterflies, which have more species that migrate, have been shown to navigate using time-compensated sun compasses. They can see polarized light, so can orient even in cloudy conditions. The polarized light in the region close to the ultraviolet spectrum is suggested to be particularly important. Most migratory butterflies are those that live in semiarid areas where breeding seasons are short. The life histories of their host plants also influence the strategies of the butterflies. Other theories include the use of landscapes. Lepidoptera may use coastal lines, mountains, and even roads to orient themselves. Above sea, the flight direction is much more accurate if the coast is still visible.
+
+Many studies have also shown that moths navigate. One study showed that many moths may use the Earth's magnetic field to navigate, as a study of the moth heart and dart suggests. Another study, of the migratory behavior of the silver Y, showed, even at high altitudes, the species can correct its course with changing winds, and prefers flying with favourable winds, suggesting a great sense of direction. Aphrissa statira in Panama loses its navigational capacity when exposed to a magnetic field, suggesting it uses the Earth's magnetic field.
+
+Moths exhibit a tendency to circle artificial lights repeatedly. This suggests they use a technique of celestial navigation called transverse orientation. By maintaining a constant angular relationship to a bright celestial light, such as the Moon, they can fly in a straight line. Celestial objects are so far away, even after traveling great distances, the change in angle between the moth and the light source is negligible; further, the moon will always be in the upper part of the visual field or on the horizon. When a moth encounters a much closer artificial light and uses it for navigation, the angle changes noticeably after only a short distance, in addition to being often below the horizon. The moth instinctively attempts to correct by turning toward the light, causing airborne moths to come plummeting downwards, and at close range, which results in a spiral flight path that gets closer and closer to the light source. Other explanations have been suggested, such as the idea that moths may be impaired with a visual distortion called a Mach band by Henry Hsiao in 1972. He stated that they fly towards the darkest part of the sky in pursuit of safety, thus are inclined to circle ambient objects in the Mach band region.
+
+Migration
+
+Main article: Lepidoptera migration
+
+Monarch butterflies, seen in a cluster in Santa Cruz, California, where the western population migrates for the winter
+
+Lepidopteran migration is typically seasonal, as the insects moving to escape dry seasons or other disadvantageous conditions. Most lepidopterans that migrate are butterflies, and the distance travelled varies. Some butterflies that migrate include the mourning cloak, painted lady, American lady, red admiral, and the common buckeye.:29–30 A notable species of moth that migrates long distances is the bogong moth. The most well-known migrations are those of the eastern population of the monarch butterfly from Mexico to northern United States and southern Canada, a distance of about 4,000–4,800 km (2,500–3,000 mi). Other well-known migratory species include the painted lady and several of the danaine butterflies. Spectacular and large-scale migrations associated with the monsoons are seen in peninsular India. Migrations have been studied in more recent times using wing tags and stable hydrogen isotopes.
+
+Moths also undertake migrations, an example being the uraniids. Urania fulgens undergoes population explosions and massive migrations that may be not surpassed by any other insect in the Neotropics. In Costa Rica and Panama, the first population movements may begin in July and early August and depending on the year, may be very massive, continuing unabated for as long as five months.
+
+Communication
+
+Group of Melitaea athalia near Warka, Poland
+
+Pheromones are commonly involved in mating rituals among species, especially moths, but they are also an important aspect of other forms of communication. Usually, the pheromones are produced by either the male or the female and detected by members of the opposite sex with their antennae. In many species, a gland between the eighth and ninth segments under the abdomen in the female produces the pheromones. Communication can also occur through stridulation, or producing sounds by rubbing various parts of the body together.
+
+Moths are known to engage in acoustic forms of communication, most often as courtship, attracting mates using sound or vibration. Like most other insects, moths pick up these sounds using tympanic membranes in their abdomens. An example is that of the polka-dot wasp moth (Syntomeida epilais), which produces sounds with a frequency above that normally detectable by humans (about 20 kHz). These sounds also function as tactile communication, or communication through touch, as they stridulate, or vibrate a substrate like leaves and stems.
+
+Most moths lack bright colors, as many species use coloration as camouflage, but butterflies engage in visual communication. Female cabbage butterflies, for example, use ultraviolet light to communicate, with scales colored in this range on the dorsal wing surface. When they fly, each down stroke of the wing creates a brief flash of ultraviolet light which the males apparently recognize as the flight signature of a potential mate. These flashes from the wings may attract several males that engage in aerial courtship displays.
+
+Ecology
+
+Moths and butterflies are important in the natural ecosystem. They are integral participants in the food chain; having co-evolved with flowering plants and predators, lepidopteran species have formed a network of trophic relationships between autotrophs and heterotrophs, which are included in the stages of Lepidoptera larvae, pupae, and adults. Larvae and pupae are links in the diets of birds and parasitic entomophagous insects. The adults are included in food webs in a much broader range of consumers (including birds, small mammals, reptiles, etc.).:567
+
+Defense and predation
+
+Main article: Defense in insects
+
+Papilio machaon caterpillar showing the osmeterium, which emits unpleasant smells to ward off predators
+
+Lepidopteran species are soft bodied, fragile, and almost defenseless, while the immature stages move slowly or are immobile, hence all stages are exposed to predation. Adult butterflies and moths are preyed upon by birds, bats, lizards, amphibians, dragonflies, and spiders. Caterpillars and pupae fall prey not only to birds, but also to invertebrate predators and small mammals, as well as fungi and bacteria. Parasitoid and parasitic wasps and flies may lay eggs in the caterpillar, which eventually kill it as they hatch inside its body and eat its tissues. Insect-eating birds are probably the largest predators. Lepidoptera, especially the immature stages, are an ecologically important food to many insectivorous birds, such as the great tit in Europe.
+
+An \"evolutionary arms race\" can be seen between predator and prey species. The Lepidoptera have developed a number of strategies for defense and protection, including evolution of morphological characters and changes in ecological lifestyles and behaviors. These include aposematism, mimicry, camouflage, and development of threat patterns and displays. Only a few birds, such as the nightjars, hunt nocturnal lepidopterans. Their main predators are bats. Again, an \"evolutionary race\" exists, which has led to numerous evolutionary adaptations of moths to escape from their main predators, such as the ability to hear ultrasonic sounds, or even to emit sounds in some cases. Lepidopteran eggs are also preyed upon. Some caterpillars, such as the zebra swallowtail butterfly larvae, are cannibalistic.
+
+Some species of Lepidoptera are poisonous to predators, such as the monarch butterfly in the Americas, Atrophaneura species (roses, windmills, etc.) in Asia, as well as Papilio antimachus, and the birdwings, the largest butterflies in Africa and Asia, respectively. They obtain their toxicity by sequestering the chemicals from the plants they eat into their own tissues. Some Lepidoptera manufacture their own toxins. Predators that eat poisonous butterflies and moths may become sick and vomit violently, learning not to eat those species. A predator which has previously eaten a poisonous lepidopteran may avoid other species with similar markings in the future, thus saving many other species, as well. Toxic butterflies and larvae tend to develop bright colors and striking patterns as an indicator to predators about their toxicity. This phenomenon is known as aposematism. Some caterpillars, especially members of Papilionidae, contain an osmeterium, a Y-shaped protrusible gland found in the prothoracic segment of the larvae. When threatened, the caterpillar emits unpleasant smells from the organ to ward off the predators.
+
+Camouflage is also an important defense strategy, which involves the use of coloration or shape to blend into the surrounding environment. Some lepidopteran species blend with their surroundings, making them difficult to spot by predators. Caterpillars can exhibit shades of green that match its host plant. Others look like inedible objects, such as twigs or leaves. For instance, the mourning cloak fades into the backdrop of trees when it folds its wings back. The larvae of some species, such as the common Mormon (Papilio polytes) and the western tiger swallowtail look like bird droppings. For example, adult Sesiidae species (also known as clearwing moths) have a general appearance sufficiently similar to a wasp or hornet to make it likely the moths gain a reduction in predation by Batesian mimicry. Eyespots are a type of automimicry used by some butterflies and moths. In butterflies, the spots are composed of concentric rings of scales in different colors. The proposed role of the eyespots is to deflect attention of predators. Their resemblance to eyes provokes the predator's instinct to attack these wing patterns.
+
+Batesian and Müllerian mimicry complexes are commonly found in Lepidoptera. Genetic polymorphism and natural selection give rise to otherwise edible species (the mimic) gaining a survival advantage by resembling inedible species (the model). Such a mimicry complex is referred to as Batesian and is most commonly known in the example between the limenitidine viceroy butterfly in relation to the inedible danaine monarch. The viceroy is, in fact, more toxic than the monarch and this resemblance should be considered as a case of Müllerian mimicry. In Müllerian mimicry, inedible species, usually within a taxonomic order, find it advantageous to resemble each other so as to reduce the sampling rate by predators that need to learn about the insects' inedibility. Taxa from the toxic genus Heliconius form one of the most well-known Müllerian complexes. The adults of the various species now resemble each other so well, the species cannot be distinguished without close morphological observation and, in some cases, dissection or genetic analysis.
+
+Moths evidently are able to hear the range emitted by bats, which in effect causes flying moths to make evasive maneuvers because bats are a main predator of moths. Ultrasonic frequencies trigger a reflex action in the noctuid moth that cause it to drop a few inches in its flight to evade attack. Tiger moths in a defense emit clicks within the same range of the bats, which interfere with the bats and foil their attempts to echolocate it.
+
+Pollination
+
+Further information: Entomophily and Pollination syndrome
+
+A day-flying hummingbird hawk-moth drinking nectar from a species of Dianthus
+
+Most species of Lepidoptera engage in some form of entomophily (more specifically psychophily and phalaenophily for butterflies and moths, respectively), or the pollination of flowers. Most adult butterflies and moths feed on the nectar inside flowers, using their probosces to reach the nectar hidden at the base of the petals. In the process, the adults brush against the flowers' stamens, on which the reproductive pollen is made and stored. The pollen is transferred on appendages on the adults, which fly to the next flower to feed and unwittingly deposit the pollen on the stigma of the next flower, where the pollen germinates and fertilizes the seeds.:813–814
+
+Flowers pollinated by butterflies tend to be large and flamboyant, pink or lavender in color, frequently having a landing area, and usually scented, as butterflies are typically day-flying. Since butterflies do not digest pollen (except for heliconid species,) more nectar is offered than pollen. The flowers have simple nectar guides, with the nectaries usually hidden in narrow tubes or spurs, reached by the long \"tongue\" of the butterflies. Butterflies such as Thymelicus flavus have been observed to engage in flower constancy, which means they are more likely to transfer pollen to other conspecific plants. This can be beneficial for the plants being pollinated, as flower constancy prevents the loss of pollen during different flights and the pollinators from clogging stigmas with pollen of other flower species.
+
+Among the more important moth pollinator groups are the hawk moths of the family Sphingidae. Their behavior is similar to hummingbirds, i.e., using rapid wing beats to hover in front of flowers. Most hawk moths are nocturnal or crepuscular, so moth-pollinated flowers (e.g., Silene latifolia ) tend to be white, night-opening, large, and showy with tubular corollae and a strong, sweet scent produced in the evening, night, or early morning. A lot of nectar is produced to fuel the high metabolic rates needed to power their flight. Other moths (e.g., noctuids, geometrids, pyralids) fly slowly and settle on the flower. They do not require as much nectar as the fast-flying hawk moths, and the flowers tend to be small (though they may be aggregated in heads).
+
+Mutualism
+
+Tobacco hornworm caterpillar (Manduca sexta) parasitized by Braconidae wasp larvae
+
+Mutualism is a form of biological interaction wherein each individual involved benefits in some way. An example of a mutualistic relationship would be that shared by yucca moths (Tegeculidae) and their host, yucca flowers (Liliaceae). Female yucca moths enter the host flowers, collect the pollen into a ball using specialized maxillary palps, then move to the apex of the pistil, where pollen is deposited on the stigma, and lay eggs into the base of the pistil where seeds will develop. The larvae develop in the fruit pod and feed on a portion of the seeds. Thus, both insect and plant benefit, forming a highly mutualistic relationship.:814 Another form of mutualism occurs between some larvae of butterflies and certain species of ants (e.g. Lycaenidae). The larvae communicate with the ants using vibrations transmitted through a substrate, such as the wood of a tree or stems, as well as using chemical signals. The ants provide some degree of protection to these larvae and they in turn gather honeydew secretions.
+
+Parasitism
+
+Parasitoid larvae exits from the fox moth caterpillar
+
+Only 42 species of parasitoid lepidopterans are known (1 Pyralidae; 40 Epipyropidae).:748 The larvae of the greater and lesser wax moths feed on the honeycomb inside bee nests and may become pests; they are also found in bumblebee and wasp nests, albeit to a lesser extent. In northern Europe, the wax moth is regarded as the most serious parasitoid of the bumblebee, and is found only in bumblebee nests. In some areas in southern England, as much as 80% of nests can be destroyed. Other parasitic larvae are known to prey upon cicadas and leaf hoppers.
+
+The different parasitoids affecting the gypsy moth (Lymantaria dispar): The stage they affect and eventually kill and its duration are denoted by arrows.
+
+In reverse, moths and butterflies may be subject to parasitic wasps and flies, which may lay eggs on the caterpillars, which hatch and feed inside its body, resulting in death. Although, in a form of parasitism called idiobiont, the adult paralyzes the host, so as not to kill it but for it to live as long as possible, for the parasitic larvae to benefit the most. In another form of parasitism, koinobiont, the species live off their hosts while inside (endoparasitic). These parasites live inside the host caterpillar throughout its life cycle, or may affect it later on as an adult. In other orders, koinobionts include flies, a majority of coleopteran, and many hymenopteran parasitoids.:748–749 Some species may be subject to a variety of parasites, such as the gypsy moth (Lymantaria dispar), which is attacked by a series of 13 species, in six different taxa throughout its life cycle.:750
+
+In response to a parasitoid egg or larva in the caterpillar's body, the plasmatocytes, or simply the host's cells can form a multilayered capsule that eventually causes the endoparasite to asphyxiate. The process, called encapsulation, is one of the caterpillar's only means of defense against parasitoids.:748
+
+Other biological interactions
+
+A few species of Lepidoptera are secondary consumers, or predators. These species typically prey upon the eggs of other insects, aphids, scale insects, or ant larvae.:567 Some caterpillars are cannibals, and others prey on caterpillars of other species (e.g. Hawaiian Eupithecia ). Those of the 15 species in Eupithecia that mirror inchworms, are the only known species of butterflies and moths that are ambush predators. Four species are known to eat snails. For example, the Hawaiian caterpillar (Hyposmocoma molluscivora) uses silk traps, in a manner similar to that of spiders, to capture certain species of snails (typically Tornatellides).
+
+Larvae of some species of moths in the Tineidae, Gelechioidae, and Noctuidae (family/superfamily/families, respectively), besides others, feed on detritus, or dead organic material, such as fallen leaves and fruit, fungi, and animal products, and turn it into humus.:567 Well-known species include the cloth moths (Tineola bisselliella, Tinea pellionella, and Trichophaga tapetzella), which feed on detritus containing keratin, including hair, feathers, cobwebs, bird nests (particularly of domestic pigeons, Columba livia domestica) and fruits or vegetables. These species are important to ecosystems as they remove substances that would otherwise take a long time to decompose.
+
+In 2015 it was reported that wasp bracovirus DNA was present in Lepidoptera such as monarch butterflies, silkworms and moths. These were described in some newspaper articles as examples of a naturally occurring genetically engineered insects.
+
+Evolution and systematics
+
+History of study
+
+Main article: Lepidopterology
+
+Lepidoptera collection in Cherni Osam Natural Sciences Museum, Troyan, Bulgaria
+
+Linnaeus in Systema Naturae (1758) recognized three divisions of the Lepidoptera: Papilio, Sphinx and Phalaena, with seven subgroups in Phalaena. These persist today as 9 of the superfamilies of Lepidoptera. Other works on classification followed including those by Michael Denis & Ignaz Schiffermüller (1775), Johan Christian Fabricius (1775) and Pierre André Latreille (1796). Jacob Hübner described many genera, and the lepidopteran genera were catalogued by Ferdinand Ochsenheimer and Georg Friedrich Treitschke in a series of volumes on the lepidopteran fauna of Europe published between 1807 and 1835. Gottlieb August Wilhelm Herrich-Schäffer (several volumes, 1843–1856), and Edward Meyrick (1895) based their classifications primarily on wing venation. Sir George Francis Hampson worked on the microlepidoptera during this period and Philipp Christoph Zeller published The Natural History of the Tineinae also on microlepidoptera (1855).
+
+Among the first entomologists to study fossil insects and their evolution was Samuel Hubbard Scudder (1837–1911), who worked on butterflies. He published a study of the Florissant deposits of Colorado, including the exceptionally preserved Prodryas persephone. Andreas V. Martynov (1879–1938) recognized the close relationship between Lepidoptera and Trichoptera in his studies on phylogeny.
+
+Major contributions in the 20th century included the creation of the monotrysia and ditrysia (based on female genital structure) by Borner in 1925 and 1939. Willi Hennig (1913–1976) developed the cladistic methodology and applied it to insect phylogeny. Niels P. Kristensen, E. S. Nielsen and D. R. Davis studied the relationships among monotrysian families and Kristensen worked more generally on insect phylogeny and higher Lepidoptera too. While it is often found that DNA-based phylogenies differ from those based on morphology, this has not been the case for the Lepidoptera; DNA phylogenies correspond to a large extent to morphology-based phylogenies.
+
+Many attempts have been made to group the superfamilies of the Lepidoptera into natural groups, most of which fail because one of the two groups is not monophyletic: Microlepidoptera and Macrolepidoptera, Heterocera and Rhopalocera, Jugatae and Frenatae, Monotrysia and Ditrysia.
+
+Fossil record
+
+Main article: Prehistoric Lepidoptera
+
+1887 engraving of Prodryas persephone, a fossil lepidopteran from the Eocene.
+
+The fossil record for Lepidoptera is lacking in comparison to other winged species, and tends not to be as common as some other insects in habitats that are most conducive to fossilization, such as lakes and ponds; their juvenile stage has only the head capsule as a hard part that might be preserved. The location and abundance of the most common moth species are indicative that mass migrations of moths occurred over the Palaeogene North Sea, which is why there is a serious lack of moth fossils. Yet there are fossils, some preserved in amber and some in very fine sediments. Leaf mines are also seen in fossil leaves, although the interpretation of them is tricky.
+
+Putative fossil stem group representatives of Amphiesmenoptera (the clade comprising Trichoptera and Lepidoptera) are known from the Triassic.:567 The earliest known lepidopteran fossils are fossilized scales from the Triassic-Jurassic boundary. They were found as rare palynological elements in the sediments of the Triassic-Jurassic boundary from the cored Schandelah-1 well, drilled near Braunschweig in northern Germany. This pushes back the fossil record and origin of glossatan lepidopterans by about 70 million years, supporting molecular estimates of a Norian (ca 212 million years) divergence of glossatan and non-glossatan lepidopterans. The findings were reported in 2018 in the journal Science Advances. The authors of the study proposed that lepidopterans evolved a proboscis as an adaptation to drink from droplets and thin films of water for maintaining their fluid balance in the hot and arid climate of the Triassic.
+
+The earliest described lepidopteran taxon is Archaeolepis mane, a primitive moth-like species from the Jurassic, dated back to around 190 million years ago, and known only from three wings found in Dorset, UK. The wings show scales with parallel grooves under a scanning electron microscope and a characteristic wing venation pattern shared with Trichoptera (caddisflies). Only two more sets of Jurassic lepidopteran fossils have been found, as well as 13 sets from the Cretaceous, which all belong to primitive moth-like families.
+
+Many more fossils are found from the Tertiary, and particularly the Eocene Baltic amber. The oldest genuine butterflies of the superfamily Papilionoidea have been found in the Paleocene MoClay or Fur Formation of Denmark. The best preserved fossil lepidopteran is the Eocene Prodryas persephone from the Florissant Fossil Beds.
+
+Phylogeny
+
+Phylogenetic hypothesis of major lepidopteran lineages superimposed on the geologic time scale. Radiation of angiosperms spans 130 to 95 million years ago from their earliest forms to domination of vegetation.
+
+Lepidoptera and Trichoptera (caddisflies) are sister groups, sharing many similarities that are lacking in others; for example the females of both orders are heterogametic, meaning they have two different sex chromosomes, whereas in most species the males are heterogametic and the females have two identical sex chromosomes. The adults in both orders display a particular wing venation pattern on their forewings. The larvae in the two orders have mouth structures and glands with which they make and manipulate silk. Willi Hennig grouped the two orders into the superorder Amphiesmenoptera; together they are sister to the extinct order Tarachoptera. Lepidoptera descend from a diurnal moth-like common ancestor that either fed on dead or living plants.
+
+The cladogram, based on a 2008 DNA and protein analysis, shows the order as a clade, sister to the Trichoptera, and more distantly related to the Diptera (true flies) and Mecoptera (scorpionflies).
+
+ part of Endopterygota
+ 
+  
+ 
+ Antliophora
+ 
+  
+ 
+Diptera (true flies) 
+
+ 
+
+ 
+ 
+  
+ 
+Mecoptera (scorpionflies) 
+
+ 
+
+ 
+ 
+  
+ 
+Boreidae (snow scorpionflies) 
+
+ 
+
+ 
+ 
+Siphonaptera (fleas) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+  
+ 
+Trichoptera (caddisflies) 
+
+ 
+
+ 
+ 
+Lepidoptera (butterflies and moths) 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Hymenoptera (sawflies, wasps, ants, bees) 
+
+ 
+
+ 
+
+Micropterigidae, Agathiphagidae and Heterobathmiidae are the oldest and most basal lineages of Lepidoptera. The adults of these families do not have the curled tongue or proboscis, that are found in most members of the order, but instead have chewing mandibles adapted for a special diet. Micropterigidae larvae feed on leaves, fungi, or liverworts (much like the Trichoptera). Adult Micropterigidae chew the pollen or spores of ferns. In the Agathiphagidae, larvae live inside kauri pines and feed on seeds. In Heterobathmiidae the larvae feed on the leaves of Nothofagus, the southern beech tree. These families also have mandibles in the pupal stage, which help the pupa emerge from the seed or cocoon after metamorphosis.
+
+The Eriocraniidae have a short coiled proboscis in the adult stage, and though they retain their pupal mandibles with which they escaped the cocoon, their mandibles are non-functional thereafter. Most of these non-ditrysian families, are primarily leaf miners in the larval stage. In addition to the proboscis, there is a change in the scales among these basal lineages, with later lineages showing more complex perforated scales.
+
+With the evolution of the Ditrysia in the mid-Cretaceous, there was a major reproductive change. The Ditrysia, which comprise 98% of the Lepidoptera, have two separate openings for reproduction in the females (as well as a third opening for excretion), one for mating, and one for laying eggs. The two are linked internally by a seminal duct. (In more basal lineages there is one cloaca, or later, two openings and an external sperm canal.) Of the early lineages of Ditrysia, Gracillarioidea and Gelechioidea are mostly leaf miners, but more recent lineages feed externally. In the Tineoidea, most species feed on plant and animal detritus and fungi, and build shelters in the larval stage.
+
+The Yponomeutoidea is the first group to have significant numbers of species whose larvae feed on herbaceous plants, as opposed to woody plants. They evolved about the time that flowering plants underwent an expansive adaptive radiation in the mid-Cretaceous, and the Gelechioidea that evolved at this time also have great diversity. Whether the processes involved coevolution or sequential evolution, the diversity of the Lepidoptera and the angiosperms increased together.
+
+In the so-called \"macrolepidoptera\", which constitutes about 60% of lepidopteran species, there was a general increase in size, better flying ability (via changes in wing shape and linkage of the forewings and hindwings), reduction in the adult mandibles, and a change in the arrangement of the crochets (hooks) on the larval prolegs, perhaps to improve the grip on the host plant. Many also have tympanal organs, that allow them to hear. These organs evolved eight times, at least, because they occur on different body parts and have structural differences.
+The main lineages in the macrolepidoptera are the Noctuoidea, Bombycoidea, Lasiocampidae, Mimallonoidea, Geometroidea and Rhopalocera. Bombycoidea plus Lasiocampidae plus Mimallonoidea may be a monophyletic group. The Rhopalocera, comprising the Papilionoidea (butterflies), Hesperioidea (skippers), and the Hedyloidea (moth-butterflies), are the most recently evolved. There is quite a good fossil record for this group, with the oldest skipper dating from 56 million years ago.
+
+Taxonomy
+
+Main articles: Taxonomy of the Lepidoptera and Lepidopteran diversity
+
+Taxonomy is the classification of species in selected taxa, the process of naming being called nomenclature. There are over 120 families in Lepidoptera, in 45 to 48 superfamilies. Lepidoptera have always been, historically, classified in five suborders, one of which is of primitive moths that never lost the morphological features of their ancestors. The rest of the moths and butterflies make up ninety-eight percent of the other taxa, making Ditrysia. More recently, findings of new taxa, larvae and pupa have aided in detailing the relationships of primitive taxa, phylogenetic analysis showing the primitive lineages to be paraphyletic compared to the rest of Lepidoptera lineages. Recently lepidopterists have abandoned clades like suborders, and those between orders and superfamilies.:569
+
+Zeugloptera is a clade with Micropterigoidea being its only superfamily, containing the single family Micropterigidae. Species of Micropterigoidea are practically living fossils, being one of the most primitive lepidopteran groups, still retaining chewing mouthparts (mandibles) in adults, unlike other clades of butterflies and moths. About 120 species are known worldwide, with more than half the species in the genus Micropteryx in the Palearctic region. There are only two known in North America (Epimartyria), with many more being found in Asia and the southwest Pacific, particularly New Zealand with about 50 species.:569
+
+Aglossata is the second most primitive lineage of Lepidoptera; being first described in 1952 by Lionel Jack Dumbleton. Agathiphagidae is the only family in Aglossata and contains two species in its only genus, Agathiphaga.:569 Agathiphaga queenslandensis and Agathiphaga vitiensis are found along the north-eastern coast of Queensland, Australia, and in Fiji to Vanuatu and the Solomon Islands, respectively.
+
+Heterobathmiina was first described by Kristensen and Nielsen in 1979. Heterobathmiidae is the only family and includes about 10 species, which are day-flying, metallic moths, confined to southern South America, the adults eat the pollen of Nothofagus or southern beech and the larvae mine the leaves.:569
+
+Glossata contains a majority of the species, with the most obvious difference being non-functioning mandibles, and elongated maxillary galeae or the proboscis. The basal clades still retaining some of the ancestral features of the wings such as similarly shaped fore- and hindwings with relatively complete venation. Glossata also contains the division Ditrysia, which contains 98% of all described species in Lepidoptera.:569
+
+Relationship to people
+
+Culture
+
+Death's-head hawkmoth (Acherontia lachesis), an old bleached specimen still showing the classical skull pattern on the thorax
+
+Artistic depictions of butterflies have been used in many cultures including as early as 3500 years ago, in Egyptian hieroglyphs. Today, butterflies are widely used in various objects of art and jewelry: mounted in frames, embedded in resin, displayed in bottles, laminated in paper, and in some mixed media artworks and furnishings. Butterflies have also inspired the \"butterfly fairy\" as an art and fictional character.
+
+In many cultures the soul of a dead person is associated with the butterfly, for example in Ancient Greece, where the word for butterfly ψυχή (psyche) also means soul and breath. In Latin, as in Ancient Greece, the word for \"butterfly\" papilio was associated with the soul of the dead. The skull-like marking on the thorax of the death's-head hawkmoth has helped these moths, particularly A. atropos, earn a negative reputation, such as associations with the supernatural and evil. The moth has been prominently featured in art and movies such as Un Chien Andalou (by Buñuel and Dalí) and The Silence of the Lambs, and in the artwork of the Japanese metal band Sigh's album Hail Horror Hail. According to Kwaidan: Stories and Studies of Strange Things, by Lafcadio Hearn, a butterfly was seen in Japan as the personification of a person's soul; whether they be living, dying, or already dead. One Japanese superstition says that if a butterfly enters your guestroom and perches behind the bamboo screen, the person whom you most love is coming to see you. However, large numbers of butterflies are viewed as bad omens. When Taira no Masakado was secretly preparing for his famous revolt, there appeared in Kyoto so vast a swarm of butterflies that the people were frightened—thinking the apparition to be a portent of coming evil.
+
+In the ancient Mesoamerican city of Teotihuacan, the brilliantly colored image of the butterfly was carved into many temples, buildings, jewelry, and emblazoned on incense burners in particular. The butterfly was sometimes depicted with the maw of a jaguar and some species were considered to be the reincarnations of the souls of dead warriors. The close association of butterflies to fire and warfare persisted through to the Aztec civilization and evidence of similar jaguar-butterfly images has been found among the Zapotec, and Maya civilizations.
+
+Play media
+
+Caterpillar hatchling of the grey dagger (Acronicta psi) eating leaves from a tree
+
+Pests
+
+The larvae of many lepidopteran species are major pests in agriculture. Some of the major pests include Tortricidae, Noctuidae, and Pyralidae. The larvae of the Noctuidae genus Spodoptera (armyworms), Helicoverpa (corn earworm), or Pieris brassicae can cause extensive damage to certain crops. Helicoverpa zea larvae (cotton bollworms or tomato fruitworms) are polyphagous, meaning they eat a variety of crops, including tomatoes and cotton. Peridroma saucia (variegated cutworms) are described as one of the most damaging pests to gardens, with the ability to destroy entire gardens and fields in a matter of days.
+
+Butterflies and moths are one of the largest taxa to solely feed and be dependent on living plants, in terms of the number of species, and they are in many ecosystems, making up the largest biomass to do so. In many species, the female may produce anywhere from 200 to 600 eggs, while in some others it may go as high as 30,000 eggs in one day. This can create many problems for agriculture, where many caterpillars can affect acres of vegetation. Some reports estimate that there have been over 80,000 caterpillars of several different taxa feeding on a single oak tree. In some cases, phytophagous larvae can lead to the destruction of entire trees in relatively short periods of time.:567
+
+Ecological ways of removing pest Lepidoptera species are becoming more economically viable, as research has shown ways like introducing parasitic wasps and flies. For example, Sarcophaga aldrichi, a fly which deposited larvae feed upon the pupae of the forest tent caterpillar moth. Pesticides can affect other species other than the species they are targeted to eliminate, damaging the natural ecosystem. Another good biological pest control method is the use of pheromone traps. A pheromone trap is a type of insect trap that uses pheromones to lure insects. Sex pheromones and aggregating pheromones are the most common types used. A pheromone-impregnated lure is encased in a conventional trap such as a Delta trap, water-pan trap, or funnel trap.
+
+Species of moths that are detritivores would naturally eat detritus containing keratin, such as hairs or feathers. Well known species are cloth moths (T. bisselliella, T. pellionella, and T. tapetzella), feeding on foodstuffs that people find economically important, such as cotton, linen, silk and wool fabrics as well as furs; furthermore they have been found on shed feathers and hair, bran, semolina and flour (possibly preferring wheat flour), biscuits, casein, and insect specimens in museums.
+
+Beneficial insects
+
+Even though most butterflies and moths affect the economy negatively, some species are a valuable economic resource. The most prominent example is that of the domesticated silkworm moth (Bombyx mori), the larvae of which make their cocoons out of silk, which can be spun into cloth. Silk is and has been an important economic resource throughout history. The species Bombyx mori has been domesticated to the point where it is completely dependent on mankind for survival. A number of wild moths such as Bombyx mandarina, and Antheraea species, besides others, provide commercially important silks.
+
+The preference of the larvae of most lepidopteran species to feed on a single species or limited range of plants is used as a mechanism for biological control of weeds in place of herbicides. The pyralid cactus moth was introduced from Argentina to Australia, where it successfully suppressed millions of acres of prickly pear cactus.:567 Another species of the Pyralidae, called the alligator weed stem borer (Arcola malloi), was used to control the aquatic plant known as alligator weed (Alternanthera philoxeroides) in conjunction with the alligator weed flea beetle; in this case, the two insects work in synergy and the weed rarely recovers.
+
+Breeding butterflies and moths, or butterfly gardening/rearing, has become an ecologically viable process of introducing species into the ecosystem to benefit it. Butterfly ranching in Papua New Guinea permits nationals of that country to \"farm\" economically valuable insect species for the collectors market in an ecologically sustainable manner.
+
+Food
+
+Beondegi, silkworm pupae steamed or boiled and seasoned for taste, for sale by a street vendor in South Korea
+
+Lepidoptera feature prominently in entomophagy as food items on almost every continent. While in most cases, adults, larvae or pupae are eaten as staples by indigenous people, beondegi or silkworm pupae are eaten as a snack in Korean cuisine while Maguey worm is considered a delicacy in Mexico. In some parts of Huasteca, the silk nests of the Madrone butterfly are maintained on the edge of roof tops of houses for consumption. In the Carnia region of Italy, children catch and eat ingluvies of the toxic Zygaena moths in early summer. The ingluvies, despite having a very low cyanogenic content, serve as a convenient, supplementary source of sugar to the children who can include this resource as a seasonal delicacy at minimum risk.
+
+Health
+
+Some larvae of both moths and butterflies have a form of hair that has been known to be a cause of human health problems. Caterpillar hairs sometimes have toxins in them and species from approximately 12 families of moths or butterflies worldwide can inflict serious human injuries (urticarial dermatitis and atopic asthma to osteochondritis, consumption coagulopathy, renal failure, and intracerebral hemorrhage). Skin rashes are the most common, but there have been fatalities. Lonomia is a frequent cause of envenomation in humans in Brazil, with 354 cases reported between 1989 and 2005. Lethality ranging up to 20% with death caused most often by intracranial hemorrhage.
+
+These hairs have also been known to cause keratoconjunctivitis. The sharp barbs on the end of caterpillar hairs can get lodged in soft tissues and mucous membranes such as the eyes. Once they enter such tissues, they can be difficult to extract, often exacerbating the problem as they migrate across the membrane. This becomes a particular problem in an indoor setting. The hairs easily enter buildings through ventilation systems and accumulate in indoor environments because of their small size, which makes it difficult for them to be vented out. This accumulation increases the risk of human contact in indoor environments.
+
+See also
+
+Arthropods portal
+
+Animals portal
+
+Biology portal
+
+Comparison of butterflies and moths
+
+Lepidoptera in the 10th edition of Systema Naturae
+
+McGuire Center for Lepidoptera and Biodiversity, University of Florida
+
+Societas Europaea Lepidopterologica
+
+Lists
+
+Lists of Lepidoptera by region
+
+Taxonomy of the Lepidoptera
+
+References
+
+^ a b c d Capinera, John L. (2008). \"Butterflies and moths\". Encyclopedia of Entomology. 4 (2nd ed.). Springer. pp. 626–672. ISBN 9781402062421.
+
+^ a b c Mallet, Jim (12 June 2007). \"Taxonomy of Lepidoptera: the scale of the problem\". The Lepidoptera Taxome Project. University College, London. Archived from the original on 5 June 2011. Retrieved 8 February 2011.
+
+^ \"Lepidoptera Taxome Project\". Lepidoptera Taxome Project. Archived from the original on 18 August 2011. Retrieved 25 February 2015.
+
+^ a b c d Powell, Jerry A. (2009). \"Lepidoptera\". In Resh, Vincent H.; Cardé, Ring T. (eds.). Encyclopedia of Insects (2 (illustrated) ed.). Academic Press. pp. 557–587. ISBN 978-0-12-374144-8.
+
+^ a b Kristensen, Niels P.; Scoble, M. J.; Karsholt, Ole (2007). \"Lepidoptera phylogeny and systematics: the state of inventorying moth and butterfly diversity\" (PDF). In Z.-Q. Zhang; W. A. Shear (eds.). Linnaeus Tercentenary: Progress in Invertebrate Taxonomy (Zootaxa:1668). Magnolia Press. pp. 699–747. ISBN 978-0-12-690647-9. Retrieved 2 March 2010.
+
+^ Harper, Douglas. \"Lepidoptera\". The Online Etymology Dictionary. Archived from the original on 10 July 2011. Retrieved 8 February 2011.
+
+^ a b Partridge, Eric (2009). Origins: an etymological dictionary of modern English. Routledge. ISBN 978-0-203-42114-7.
+
+^ Harpe, Douglas; Dan McCormack (November 2001). \"Online Etymological Dictionary\". LogoBee. p. 1. Archived from the original on 3 September 2012. Retrieved 6 December 2009.
+
+^ Arnett, Ross H. (28 July 2000). \"Part I: 27\". American insects: a handbook of the insects of America north of Mexico (2nd ed.). CRC Press. p. 631. ISBN 978-0-8493-0212-1.
+
+^ Harper, Douglas. \"moth\". The Online Etymology Dictionary. Archived from the original on 6 June 2011. Retrieved 31 March 2011.
+
+^ \"Caterpillar\". Dictionary.com. Archived from the original on 9 September 2011. Retrieved 5 October 2011.
+
+^ a b c d e f g h i j k Gullan, P. J.; P. S. Cranston (13 September 2004). \"7\". The insects: an outline of entomology (3 ed.). Wiley-Blackwell. pp. 198–199. ISBN 978-1-4051-1113-3.
+
+^ Stumpe, Felix. \"Parnassius arctica Eisner, 1968\". Russian-Insects.com. Archived from the original on 15 July 2011. Retrieved 9 November 2010.
+
+^ Mani, M. S. (1968). Ecology and Biogeography of High Altitude Insects. Volume 4 of Series entomologica. Springer. p. 530. ISBN 978-90-6193-114-0. Retrieved 9 November 2010.
+
+^ Sherman, Lee (2008). \"An OSU scientist braves an uncharted rainforest in a search for rare and endangered species\" (PDF). Terra. Oregon State University. 3 (2). Archived (PDF) from the original on 19 September 2011. Retrieved 14 February 2011.
+
+^ a b Rau, P (1941). \"Observations on certain lepidopterous and hymenopterous parasites of Polistes wasps\". Annals of the Entomological Society of America. 34 (2): 355–366(12). doi:10.1093/aesa/34.2.355.
+
+^ Mallet, Jim (12 June 2007). \"Taxonomy of butterflies: the scale of the problem\". The Lepidoptera Taxome Project. University College, London. Archived from the original on 14 May 2011. Retrieved 8 February 2011.
+
+^ Eaton, Eric R.; Kaufman, Kenn (2007). Kaufman field guide to insects of North America. Houghton Mifflin Harcourt. p. 391. ISBN 978-0-618-15310-7. Archived from the original on 24 July 2019. Retrieved 22 September 2016.
+
+^ Tuskes, Paul M.; Tuttle, James P.; Collins, Michael M. (1996). The wild silk moths of North America: a natural history of the Saturniidae of the United States and Canada. The Cornell series in arthropod biology (illustrated ed.). Cornell University Press. p. 250. ISBN 978-0-8014-3130-2. Retrieved 12 February 2011.
+
+^ Green, Ken; Osborne, William S. (1994). Wildlife of the Australian snow-country: a comprehensive guide to alpine fauna (illustrated ed.). Reed. p. 200. ISBN 978-0-7301-0461-2.
+
+^ a b c d Gillot, C. (1995). \"Butterflies and moths\". Entomology (2 ed.). pp. 246–266. ISBN 978-0-306-44967-3. Retrieved 14 November 2010.
+
+^ a b c d Scoble (1995). Section The Adult Head – Feeding and Sensation, (pp. 4–22).
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah Resh, Vincent H.; Ring T. Carde (1 July 2009). Encyclopedia of Insects (2 ed.). U. S. A.: Academic Press. ISBN 978-0-12-374144-8.
+
+^ Christopher, O'Toole (2002). Firefly Encyclopedia of Insects and Spiders (1 ed.). ISBN 978-1-55297-612-8.
+
+^ Heppner, J. B. (2008). \"Butterflies and moths\". In Capinera, John L. (ed.). Encyclopedia of Entomology. Gale virtual reference library. 4 (2 ed.). Springer Reference. p. 4345. ISBN 978-1-4020-6242-1. Archived from the original on 24 June 2016. Retrieved 22 September 2016.
+
+^ Scoble, MJ. (1992). The Lepidoptera: Form, function, and diversity. Oxford Univ. Press. ISBN 978-1-4020-6242-1.
+
+^ a b Scoble (1995). Section Scales, (pp. 63–66).
+
+^ Vukusic, P. (2006). \"Structural color in Lepidoptera\" (PDF). Current Biology. 16 (16): R621–3. doi:10.1016/j.cub.2006.07.040. PMID 16920604. Archived (PDF) from the original on 26 October 2010. Retrieved 11 November 2010.
+
+^ Hall, Jason P. W.; Harvey, Donald J. (2002). \"A survey of androconial organs in the Riodinidae (Lepidoptera)\" (PDF). Zoological Journal of the Linnean Society. 136 (2): 171–197. doi:10.1046/j.1096-3642.2002.00003.x. Archived (PDF) from the original on 5 March 2012. Retrieved 4 June 2012.
+
+^ Williams, C. M. (1947). \"Physiology of insect diapause. ii. interaction between the pupal brain and prothoracic glands in the metamorphosis of the giant silkworm, Platysamia cecropia\". The Biological Bulletin. 93 (2): 89–98. doi:10.2307/1538279. JSTOR 1538279. PMID 20268135.
+
+^ a b c Gullan, P. J.; P. S. Cranston (22 March 2010). The Insects: An Outline of Entomology (4 ed.). Oxford: Wiley, John & Sons, Incorporated. ISBN 978-1-4443-3036-6.
+
+^ Lighton J. R. B.; Lovegrove B. G. (1990). \"A temperature-induced switch from diffusive to convective ventilation in the honeybee\" (PDF). Journal of Experimental Biology. 154 (1): 509–516.
+
+^ Ford, E. B. (1965). \"Genetic polymorphism\". Proceedings of the Royal Society of London. Series B, Biological Sciences. Oxford University Press. 164 (995): 350–61. doi:10.1098/rspb.1966.0037. PMID 4379524.
+
+^ a b c Gullan & Cranston (2005). \"Polymorphism and polyphenism\". The Insects: An Outline of Entomology. pp. 163–164.
+
+^ Noor, Mohamed A. F.; Parnell, Robin S.; Grant, Bruce S. (2008). \"A reversible color polyphenism in American Peppered Moth (Biston betularia cognataria) caterpillars\". PLoS ONE. 3 (9): e3142. Bibcode:2008PLoSO...3.3142N. doi:10.1371/journal.pone.0003142. PMC 2518955. PMID 18769543.
+
+^ a b Kunte, Krushnamegh (2000). Butterflies of Peninsular India. Part of Project lifescape. Orient Blackswan. ISBN 81-7371-354-5, ISBN 978-81-7371-354-5.
+
+^ Ivy I. G., Morgun D. V., Dovgailo K. E., Rubin N. I., Solodovnikov I. A. Дневные бабочки (Hesperioidea and Papilionoidea, Lepidoptera) Восточной Европы. \" CD determinant, database and software package \"Lysandra\". Minsk, Kiev, Moscow: 2005. In Russian
+
+^ \"Psychidae at Bug Guide\". Iowa State University. Archived from the original on 10 February 2012. Retrieved 19 January 2010.
+
+^ a b Sanderford, M. V.; W. E. Conner (July 1990). \"Courtship sounds of the polka-dot wasp moth, Syntomeida epilais\". Naturwissenschaften. 77 (7): 345–347. Bibcode:1990NW.....77..345S. doi:10.1007/BF01138395.
+
+^ Wiklund, Christer (July 1984). \"Egg-laying patterns in butterflies in relation to their phenology and the visual apparency and abundance of their host plants\". Oecologia. 63 (1): 23–29. Bibcode:1984Oecol..63...23W. doi:10.1007/BF00379780. PMID 28311161.
+
+^ Oberhauser, Karen S.; Solensky, Michelle J (2004). The Monarch Butterfly: Biology and Conservation (First ed.). Ithaca NY: Cornell University Press. ISBN 978-0801441882.
+
+^ Oberhauser 2009, p. 3. sfn error: no target: CITEREFOberhauser2009 (help)
+
+^ Gullan, P. J.; Cranston, P. S. (2010). \"Life-history patterns and phases\". The Insects: an Outline of Entomology (4th ed.). Wiley-Blackwell. pp. 156–164. ISBN 978-1-4443-3036-6.
+
+^ a b Dugdale, J. S. (1996). \"Natural history and identification of litter-feeding Lepidoptera larvae (Insecta) in beech forests, Orongorongo Valley, New Zealand, with especial reference to the diet of mice (Mus musculus)\" (PDF). Journal of the Royal Society of New Zealand. 26 (4): 251–274. doi:10.1080/03014223.1996.9517513. Retrieved 14 November 2010.
+
+^ Triplehorn, Charles A.; Johnson, Norman F. (2005). Borror and Delong's Introduction to the Study of Insects. Belmont, California: Thomson Brooks/Cole. ISBN 978-0-03-096835-8.
+
+^ Elmes, G.W.; Wardlaw, J.C.; Schönrogge, K.; Thomas, J.A.; Clarke, R.T. (2004). \"Food stress causes differential survival of socially parasitic caterpillars of Maculinea rebeli integrated in colonies of host and non-host Myrmica ant species\". Entomologia Experimentalis et Applicata. 110 (1): 53–63. doi:10.1111/j.0013-8703.2004.00121.x.
+
+^ Arnett, Ross H. Jr. (28 July 2000). American Insects. A Handbook of the Insects of America North of Mexico (2 ed.). CRC press LLC. pp. 631–632. ISBN 978-0-8493-0212-1.
+
+^ Berg, Clifford O. (1950). \"Biology of certain aquatic caterpillars (Pyralididae: Nymphula spp.) which feed on Potamogeton\". Transactions of the American Microscopical Society. 69 (3): 254–266. doi:10.2307/3223096. JSTOR 3223096.
+
+^ Ehrlich, P. R.; Raven, P. H. (1964). \"Butterflies and plants: a study in coevolution\". Evolution. 18 (4): 586–608. doi:10.2307/2406212. JSTOR 2406212.
+
+^ a b Nijhout, H. Frederik (17 August 1991). The Development and Evolution of Butterfly Wing Patterns(Smithsonian Series in Comparative Evolutionary Biology) (1 ed.). Smithsonian Institution Scholarly Press. pp. 2–4. ISBN 978-0-87474-917-5.
+
+^ a b Dole, Claire Hagen (28 May 2003). The Butterfly Gardener's Guide. Brooklyn Botanic Garden. p. 26. ISBN 978-1-889538-58-7. metamorphosis butterfly.
+
+^ Ward, James V.; Ward, Peter E. (1992). Aquatic Insect Ecology, Biology And Habitat. John Wiley & Sons. ISBN 978-0-471-55007-5.
+
+^ Benjamin Jantzen; Thomas Eisner (28 July 2008). \"Hindwings are unnecessary for flight but essential for execution of normal evasive flight in Lepidoptera\". Proceedings of the National Academy of Sciences. 105 (43): 16636–16640. Bibcode:2008PNAS..10516636J. doi:10.1073/pnas.0807223105. PMC 2575472. PMID 18936482.
+
+^ \"Skippers Butterflies and Moths: Lepidoptera – Behavior And Reproduction\". Net Industries and its Licensors. 2011. Archived from the original on 26 July 2011. Retrieved 20 February 2011.
+
+^ Reisner, Alex. \"Speed of animals\". speedofanimals.com. Archived from the original on 25 February 2011. Retrieved 20 February 2011.
+
+^ Scoble, Malcolm (1995). The Lepidoptera: Form, Function and Diversity. Oxford University Press, 1995. pp. 66–67. ISBN 978-0-19-854952-9.
+
+^ Sauman, Ivo; Adriana D. Briscoe; Haisun Zhu; Dingding Shi; Oren Froy; Julia Stalleicken; Quan Yuan; Amy Casselman; Steven M. Reppert (5 May 2005). \"Connecting the Navigational Clock to Sun Compass Input in Monarch Butterfly Brain\". Neuron. 46 (3): 457–467. doi:10.1016/j.neuron.2005.03.014. PMID 15882645.
+
+^ Southwood, T. R. E. (1962). \"Migration of terrestrial arthropods in relation to habitat\". Biological Reviews. 37 (2): 171–211. doi:10.1111/j.1469-185X.1962.tb01609.x.
+
+^ Dennis, Roger L. H.; Tim G. Shreeve; Henry R. Arnold; David B. Roy (September 2005). \"Does diet breadth control herbivorous insect distribution size? Life history and resource outlets for specialist butterflies\". Journal of Insect Conservation. 9 (3): 187–200. doi:10.1007/s10841-005-5660-x.
+
+^ Made, J. G. van der; Josef Blab; Rudi Holzberger; H. van den Bijtel (1989). Actie voor Vlinders, zo kunnen we ze redden (in Dutch). Weert: M & P cop. p. 192. ISBN 978-90-6590-303-7.
+
+^ Baker, R. Robin (February 1987). \"Integrated use of moon and magnetic compasses by the heart-and-dart moth, Agrotis exclamationis\". Animal Behaviour. 35 (1): 94–101. doi:10.1016/S0003-3472(87)80214-2.
+
+^ Breen, Amanda (7 May 2008). \"Scientists make compass discovery in migrating moths\". University of Greenwich at Medway. p. 1. Archived from the original on 30 May 2012. Retrieved 9 December 2009.
+
+^ a b Chapman, Jason W.; Reynolds, Don R.; Mouritsen, Henrik; Hill, Jane K.; Riley, Joe R.; Sivell, Duncan; Smith, Alan D.; Woiwod, Ian P. (8 April 2008). \"Wind selection and drift compensation optimize migratory pathways in a high-flying moth\". Current Biology. 18 (7): 514–518. doi:10.1016/j.cub.2008.02.080. PMID 18394893.
+
+^ Srygley, Robert B.; Oliveira, Evandro G.; Riveros, Andre J. (2005). \"Experimental evidence for a magnetic sense in Neotropical migrating butterflies (Lepidoptera: Pieridae)\" (PDF). The British Journal of Animal Behaviour. 71 (1): 183–191. doi:10.1016/j.anbehav.2005.04.013. Archived from the original (PDF) on 4 November 2009.
+
+^ Elliot, Debbie; Berenbaum, May (18 August 2007). \"Why are Moths Attracted to Flame? (audio)\". National Public Radio. p. 1. Archived from the original on 8 January 2009. Retrieved 12 December 2009.
+
+^ Hsiao, Henry S. (1972). Attraction of moths to light and to infrared radiation. San Francisco Press. ISBN 978-0-911302-21-9.
+
+^ Warrant, Eric; Frost, Barrie; Green, Ken; Mouritsen, Henrik; Dreyer, David; Adden, Andrea; Brauburger, Kristina; Heinze, Stanley (2016). \"The Australian Bogong Moth Agrotis infusa: A Long-Distance Nocturnal Navigator\". Frontiers in Behavioral Neuroscience. 10: 77. doi:10.3389/fnbeh.2016.00077. PMC 4838632. PMID 27147998.
+
+^ Williams, C. B. (1927). \"A study of butterfly migration in south India and Ceylon, based largely on records by Messrs. G. Evershed, E. E. Green, J. C. F. Fryer and W. Ormiston\". Transactions of the Royal Entomological Society of London. 75 (1): 1–33. doi:10.1111/j.1365-2311.1927.tb00054.x.
+
+^ Urquhart, F. A.; N. R. Urquhart (1977). \"Overwintering areas and migratory routes of the Monarch butterfly (Danaus p. plexippus, Lepidoptera: Danaidae) in North America, with special reference to the western population\". Canadian Entomologist. 109 (12): 1583–1589. doi:10.4039/ent1091583-12.
+
+^ Wassenaar L. I.; K. A. Hobson (1998). \"Natal origins of migratory monarch butterflies at wintering colonies in Mexico: new isotopic evidence\". Proceedings of the National Academy of Sciences. 95 (26): 15436–15439. Bibcode:1998PNAS...9515436W. doi:10.1073/pnas.95.26.15436. PMC 28060. PMID 9860986.
+
+^ Smith, N. G. (1983). Janzen, D. H. (ed.). Urania fulgens (Calipato Verde, Green Urania). Costa Rican Natural History. Chicago: University of Chicago Press. p. 816.
+
+^ Chapman, R. F. (1998). The Insects: Structure and Function (4 ed.). New York: Cambridge University Press. p. 715. ISBN 978-0-521-57890-5. Insects.
+
+^ a b Meyer, John R. (2006). \"Acoustic Communication\". Department of Entomology, C State University. Archived from the original on 20 July 2011. Retrieved 25 February 2011.
+
+^ a b c d \"Caterpillar and Butterfly Defense Mechanisms\". EnchantedLearning.com. Archived from the original on 28 March 2009. Retrieved 7 December 2009.
+
+^ Kricher, John (16 August 1999). \"6\". A Neotropical Companion. Princeton University Press. pp. 157–158. ISBN 978-0-691-00974-2.
+
+^ Santos, J. C.; Cannatella, D. C.; Cannatella, DC (2003). \"Multiple, recurring origins of aposematism and diet specialization in poison frogs\". Proceedings of the National Academy of Sciences. 100 (22): 12792–12797. Bibcode:2003PNAS..10012792S. doi:10.1073/pnas.2133521100. PMC 240697. PMID 14555763. (Abstract).
+
+^ \"osmeterium\". Merriam-Webster, Incorporated. Archived from the original on 20 February 2010. Retrieved 9 December 2009.
+
+^ Hadley, Debbie. \"Osmeterium\". About.com Guide. Archived from the original on 23 July 2008. Retrieved 9 December 2009.
+
+^ Latimer, Jonathan P.; Karen Stray Nolting (30 May 2000). Butterflies. Houghton Mifflin Harcourt Trade & Reference Publishers. p. 12. ISBN 978-0-395-97944-0. Tiger swallowtail.
+
+^ Insects and Spiders of the World. 10. Marshall Cavendish Corporation. Marshall Cavendish. January 2003. pp. 292–293. ISBN 978-0-7614-7344-2.CS1 maint: others (link)
+
+^ Carroll, Sean (2005). Endless forms most beautiful: the new science of evo devo and the making of the animal kingdom. W. W. Norton & Co. pp. 205–210. ISBN 978-0-393-06016-4. Butterfly eyespots defense.
+
+^ Ritland, D. B.; L. P. Brower (1991). \"The viceroy butterfly is not a Batesian mimic\". Nature. 350 (6318): 497–498. Bibcode:1991Natur.350..497R. doi:10.1038/350497a0. Viceroys are as unpalatable as monarchs, and significantly more unpalatable than queens from representative Florida populations.
+
+^ Meyer, A. (2006). \"Repeating patterns of mimicry\". PLOS Biology. 4 (10): e341. doi:10.1371/journal.pbio.0040341. PMC 1617347. PMID 17048984.
+
+^ Jones, G; D A Waters (2000). \"Moth hearing in response to bat echolocation calls manipulated independently in time and frequency\". Proceedings of the Royal Society B: Biological Sciences. 267 (1453): 1627–32. doi:10.1098/rspb.2000.1188. PMC 1690724. PMID 11467425.
+
+^ Ratcliffe, John M.; Fullard, James H.; Arthur, Benjamin J.; Hoy, Ronald R. (2009). \"Tiger moths and the threat of bats: decision-making based on the activity of a single sensory neuron\" (PDF). Biology Letters. 5 (3): 368–371. doi:10.1098/rsbl.2009.0079. PMC 2679932. PMID 19324625. Archived from the original (PDF) on 19 July 2011. Retrieved 11 February 2011.
+
+^ a b Gilbert, L. E. (1972). \"Pollen feeding and reproductive biology of Heliconius butterflies\". Proceedings of the National Academy of Sciences. 69 (6): 1402–1407. Bibcode:1972PNAS...69.1403G. doi:10.1073/pnas.69.6.1403. PMC 426712. PMID 16591992.
+
+^ Goulson, D.; Ollerton, J.; Sluman, C. (1997). \"Foraging strategies in the small skipper butterfly, Thymelicus flavus: when to switch?\". Animal Behaviour. 53 (5): 1009–1016. doi:10.1006/anbe.1996.0390.
+
+^ Helen J. Young; Lauren Gravitz (2002). \"The effects of stigma age on receptivity in Silene alba (Caryophyllaceae)\". American Journal of Botany. 89 (8): 1237–1241. doi:10.3732/ajb.89.8.1237. PMID 21665724.
+
+^ Oliveira PE; PE Gibbs; AA Barbosa (2004). \"Moth pollination of woody species in the Cerrados of Central Brazil: a case of so much owed to so few?\". Plant Systematics and Evolution. 245 (1–2): 41–54. doi:10.1007/s00606-003-0120-0.
+
+^ Devries, P. J. (1988). \"The larval ant-organs of Thisbe irenea (Lepidoptera: Riodinidae) and their effects upon attending ants\". Zoological Journal of the Linnean Society. 94 (4): 379–393. doi:10.1111/j.1096-3642.1988.tb01201.x.
+
+^ Devries, Pj (June 1990). \"Enhancement of Symbioses Between Butterfly Caterpillars and Ants by Vibrational Communication\". Science. 248 (4959): 1104–1106. Bibcode:1990Sci...248.1104D. doi:10.1126/science.248.4959.1104. PMID 17733373.
+
+^ Benton, Frank (1895). The honey bee: a manual of instruction in apiculture . 1–6, 33. Oestergaard Verlag. pp. 113–114.
+
+^ a b Rubinoff, Daniel; Haines, William P. (2005). \"Web-spinning caterpillar stalks snails\". Science. 309 (5734): 575. doi:10.1126/science.1110397. PMID 16040699.
+
+^ Pierce, N. E. (1995). \"Predatory and parasitic Lepidoptera: Carnivores living on plants\". Journal of the Lepidopterists' Society. 49 (4): 412–453.
+
+^ a b Grabe, Albert (1942). Eigenartige Geschmacksrichtungen bei Kleinschmetterlingsraupen (\"Strange tastes among micromoth caterpillars\") (PDF). 27 (in German). pp. 105–109.
+
+^ Gasmi, Laila; Boulain, Helene; Gauthier, Jeremy; Hua-Van, Aurelie; Musset, Karine; Jakubowska, Agata K.; Aury, Jean-Marc; Volkoff, Anne-Nathalie; Huguet, Elisabeth (17 September 2015). \"Recurrent Domestication by Lepidoptera of Genes from Their Parasites Mediated by Bracoviruses\". PLOS Genet. 11 (9): e1005470. doi:10.1371/journal.pgen.1005470. PMC 4574769. PMID 26379286.
+
+^ Shaikh-Lesko, Rina (17 September 2015). \"Parasite's Genes Persist in Host Genomes | The Scientist Magazine®\". The Scientist. Archived from the original on 21 December 2016. Retrieved 13 July 2016.
+
+^ a b c d e f g h i j Scoble, Malcolm J. (September 1995). \"2\". The Lepidoptera: Form, Function and Diversity (1 ed.). Oxford University: Oxford University Press. pp. 4–5. ISBN 978-0-19-854952-9.
+
+^ a b c d e f g h i j k l m Grimaldi, D.; Engel, M. S. (2005). Evolution of the Insects. Cambridge University Press. ISBN 978-0-521-82149-0.
+
+^ Rust, Jest (2000). \"Palaeontology: Fossil record of mass moth migration\". Nature. 405 (6786): 530–531. Bibcode:2000Natur.405..530R. doi:10.1038/35014733. PMID 10850702.
+
+^ van Eldijk, Timo J. B.; Wappler, Torsten; Strother, Paul K.; van der Weijst, Carolien M. H.; Rajaei, Hossein; Visscher, Henk; van de Schootbrugge, Bas (10 January 2018). \"A Triassic-Jurassic window into the evolution of Lepidoptera\". Science Advances. 4 (1): e1701568. Bibcode:2018SciA....4E1568V. doi:10.1126/sciadv.1701568. PMC 5770165. PMID 29349295.
+
+^ Grimaldi, David A.; Michael S. Engel (2005). Evolution of the insects. Cambridge University Press. p. 561. ISBN 978-0-521-82149-0. Archived from the original on 8 January 2014. Retrieved 15 July 2011.
+
+^ Davies, Hazel; Butler, Carol A. (June 2008). Do butterflies bite?: fascinating answers to questions about butterflies and moths. Rutgers University Press. p. 48. ISBN 978-0-8135-4268-3. Archived from the original on 8 January 2014. Retrieved 15 July 2011.
+
+^ Wolfram Mey; Wilfried Wichard; Patrick Müller; Bo Wang (2017). \"The blueprint of the Amphiesmenoptera – Tarachoptera, a new order of insects from Burmese amber (Insecta, Amphiesmenoptera)\". Fossil Record. 20 (2): 129–145. doi:10.5194/fr-20-129-2017.
+
+^ Kaila, Lauri; Marko Mutanen; Tommi Nyman (27 August 2011). \"Phylogeny of the mega-diverse Gelechioidea (Lepidoptera): Adaptations and determinants of success\". Molecular Phylogenetics and Evolution. 61 (3): 801–809. doi:10.1016/j.ympev.2011.08.016. PMID 21903172.
+
+^ Whiting, Michael F.; Whiting, Alison S.; Hastriter, Michael W.; Dittmar, Katharina (2008). \"A molecular phylogeny of fleas (Insecta: Siphonaptera): origins and host associations\". Cladistics. 24 (5): 677–707. CiteSeerX 10.1.1.731.5211. doi:10.1111/j.1096-0031.2008.00211.x.
+
+^ Yeates, David K.; Wiegmann, Brian. \"Endopterygota Insects with complete metamorphosis\". Tree of Life. Archived from the original on 26 May 2016. Retrieved 24 May 2016.
+
+^ Whiting, Michael F. (2002). \"Mecoptera is paraphyletic: multiple genes and phylogeny of Mecoptera and Siphonaptera\". Zoologica Scripta. 31 (1): 93–104. doi:10.1046/j.0300-3256.2001.00095.x. Archived from the original on 5 January 2013.
+
+^ Wiegmann, Brian; Yeates, David K. (2012). The Evolutionary Biology of Flies. Columbia University Press. p. 5. ISBN 978-0-231-50170-5.
+
+^ Kristensen, N. P. (1999). \"The non-Glossatan moths\". In N. P. Kristensen (ed.). Lepidoptera, Moths and Butterflies Volume 1: Evolution, Systematics, and Biogeography. Handbook of Zoology. A Natural History of the phyla of the Animal Kingdom. Volume IV Arthropoda: Insecta Part 35. Walter de Gruyter. pp. 41–49.
+
+^ \"Species Agathiphaga queenslandensis Dumbleton, 1952\". Australian Faunal Directory. Department of the Environment, Water, Heritage and the Arts. 9 October 2008. Archived from the original on 5 April 2011. Retrieved 31 August 2010.
+
+^ Beccaloni, G.; Scoble, M.; Kitching, I.; Simonsen, T.; Robinson, G.; Pitkin, B.; Hine, A.; Lyal, C., eds. (2003). \"Agathiphaga vitiensis\". The Global Lepidoptera Names Index. Natural History Museum. Retrieved 8 May 2018.
+
+^ Beccaloni, G.; Scoble, M.; Kitching, I.; Simonsen, T.; Robinson, G.; Pitkin, B.; Hine, A.; Lyal, C., eds. (2003). \"Heterobathmia\". The Global Lepidoptera Names Index. Natural History Museum. Retrieved 8 May 2018.
+
+^ Larsen, Torben B. (1994). \"Butterflies of Egypt\". Saudi Aramco World. 45 (5): 24–27. Archived from the original on 13 January 2010. Retrieved 18 December 2009.
+
+^ \"Table complete with real butterflies embedded in resin\". Mfjoe.com. 18 December 2009. Archived from the original on 6 May 2010. Retrieved 28 April 2012.
+
+^ Rabuzzi, Matthew (November 1997). \"Butterfly Etymology\". Cultural Entomology Digest 4. Cupertino, California: Bugbios. p. 4. Archived from the original on 3 December 1998. Retrieved 18 December 2009.
+
+^ Hearn, Lafcadio (1904). Kwaidan: Stories and Studies of Strange Thing. Dover Publications, Inc. ISBN 978-0-486-21901-1.
+
+^ Miller, Mary (1993). The Gods and Symbols of Ancient Mexico and the Maya. Thames & Hudson. ISBN 978-0-500-27928-1.
+
+^ Cook, Kelly A.; Weinzier, R. (2004). \"IPM: Field Crops: Corn Earworm (Heliothis Zea)\". IPM. p. 1. Archived from the original on 9 February 2009. Retrieved 17 January 2009.
+
+^ Capinera, John L. (2008). \"Variegated Cutworm, Peridroma saucia (Hübner) (Lepidoptera: Noctuidae)\". In Capinera, John L. (ed.). Encyclopedia of Entomology. Springer Netherlands. pp. 4038–4041. doi:10.1007/978-1-4020-6359-6_3936. ISBN 9781402062421.
+
+^ Hahn, Jeff (15 June 2003). \"Friendly Flies: Good News, Bad News\". Yard & Garden Line News. University of Minnesota. 5 (9). Archived from the original on 20 July 2011.
+
+^ Weinzierl, R.; Henn, T.; Koehler, P. G.; Tucker, C. L. (June 2005). \"Insect Attractants and Traps\". Alternatives in Insect Management. Entomology and Nematology Department, University of Florida. Office of Agricultural Entomology, University of Illinois at Urbana-Champaign. Archived from the original on 11 March 2011.
+
+^ Goldsmith M. R.; T. Shimada; H. Abe (2005). \"The genetics and genomics of the silkworm, Bombyx mori\". Annual Review of Entomology. 50: 71–100. doi:10.1146/annurev.ento.50.071803.130456. PMID 15355234.
+
+^ Yoshitake, N. (1968). \"Phylogenetic aspects on the origin of Japanese race of the silkworm, Bombyx mori\". Journal of Sericological Sciences of Japan. 37: 83–87.
+
+^ Coombs, E. M. (2004). Biological Control of Invasive Plants in the United States. Corvallis: Oregon State University Press. p. 146. ISBN 978-0-87071-029-2.
+
+^ Butterfly Farms | Rainforest Conservation | Butterfly Ranching Archived 22 January 2008 at the Wayback Machine. butterfliesandart.com
+
+^ Robinson, Martin; Bartlett, Ray and Whyte, Rob (2007) Korea. Lonely Planet publications, ISBN 978-1-74104-558-1. (pg 63)
+
+^ Acuña, Ana María; Caso, Laura; Aliphat, Mario M.; Vergara, Carlos H. (2011). \"Edible insects as part of the traditional food system of the Popoloca town of Los Reyes Metzontla, Mexico\". Journal of Ethnobiology. 31 (1): 150–169. doi:10.2993/0278-0771-31.1.150.
+
+^ Ramos-Elorduy, Julieta; Moreno, José MP; Vázquez, Adolfo I.; Landero, Ivonne; Oliva-Rivera, Héctor; Camacho, Víctor HM (6 January 2011). \"Edible Lepidoptera in Mexico: Geographic distribution, ethnicity, economic and nutritional importance for rural people\". Journal of Ethnobiology and Ethnomedicine. 7: 2. doi:10.1186/1746-4269-7-2. ISSN 1746-4269. PMC 3034662. PMID 21211040.
+
+^ Zagrobelny, Mika; Dreon, Angelo Leandro; Gomiero, Tiziano; Marcazzan, Gian Luigi; Glaring, Mikkel Andreas; Møller, Birger Lindberg; Paoletti, Maurizio G. (2009). \"Toxic moths: source of a truly safe delicacy\". Journal of Ethnobiology. 29 (1): 64–76. doi:10.2993/0278-0771-29.1.64.
+
+^ Diaz, HJ (2005). \"The evolving global epidemiology, syndromic classification, management, and prevention of caterpillar envenoming\". American Journal of Tropical Medicine and Hygiene. 72 (3): 347–357. doi:10.4269/ajtmh.2005.72.347. PMID 15772333.
+
+^ Redd, J.; Voorhees, R.; Török, T. (2007). \"Outbreak of lepidopterism at a Boy Scout camp\". Journal of the American Academy of Dermatology. 56 (6): 952–955. doi:10.1016/j.jaad.2006.06.002. PMID 17368636.
+
+^ Kowacs, P. A.; Cardoso, J.; Entres, M.; Novak, E. M.; Werneck, L. C. (December 2006). \"Fatal intracerebral hemorrhage secondary to Lonomia obliqua caterpillar envenoming: case report\". Arquivos de Neuro-Psiquiatria. 64 (4): 1030–2. doi:10.1590/S0004-282X2006000600029. PMID 17221019. Free full text.
+
+^ Patel RJ, Shanbhag RM (1973). \"Ophthalmia nodosa – (a case report)\". Indian Journal of Ophthalmology. 21 (4): 208. Archived from the original on 12 September 2019. Retrieved 17 November 2018.
+
+^ Balit, Corrine R.; Ptolemy, Helen C.; Geary, Merilyn J.; Russell, Richard C.; Isbister, Geoffrey K. (2001). \"Outbreak of caterpillar dermatitis caused by airborne hairs of the mistletoe browntail moth (Euproctis edwardsi)\". The Medical Journal of Australia. 175 (11–12): 641–3. doi:10.5694/j.1326-5377.2001.tb143760.x. PMID 11837874. Archived from the original on 4 April 2011. Retrieved 25 February 2011.. Free full text.
+
+Further reading
+
+Kristensen, N. P. (ed.) 1999. Lepidoptera, Moths and Butterflies. Volume 1: Evolution, Systematics, and Biogeography. Handbuch der Zoologie. Eine Naturgeschichte der Stämme des Tierreiches / Handbook of Zoology. A Natural History of the phyla of the Animal Kingdom. Band / Volume IV Arthropoda: Insecta Teilband / Part 35: 491 pp. Walter de Gruyter, Berlin, New York.
+
+Nemos, F. (c. 1895). Europas bekannteste Schmetterlinge. Beschreibung der wichtigsten Arten und Anleitung zur Kenntnis und zum Sammeln der Schmetterlinge und Raupen  (PDF). Berlin: Oestergaard Verlag. Archived from the original (PDF) on 24 July 2011.
+
+Nye, I. W. B. & Fletcher, D. S. 1991. Generic Names of Moths of the World. Volume 6: xxix + 368 pp. Trustees of the British Museum (Natural History), London.
+
+O'Toole, Christopher. 2002. Firefly Encyclopedia of Insects and Spiders. ISBN 1-55297-612-2.
+
+Bibliography
+
+Lamas, Gerardo (1990). \"An Annotated List of Lepidopterological Journals\" (PDF). Journal of Research on the Lepidoptera. 29 (1–2): 92–104. Archived from the original (PDF) on 27 August 2016. Retrieved 22 November 2012.
+
+External links
+
+ Wikispecies has information related to Lepidoptera
+
+ The Wikibook Dichotomous Key has a page on the topic of: Lepidoptera
+
+ Wikimedia Commons has media related to Lepidoptera.
+
+Historic Moth illustrations
+
+Lepidoptera at Insects (Insecta) of the World
+
+\"Lepidoptera\". Integrated Taxonomic Information System.
+
+Caught Between the Pages: Treasures from the Franclemont Collection Online virtual exhibit featuring a selection of historic entomological writings and images from the Comstock Library of Entomology at Cornell University
+
+Regional sites
+
+British Butterflies and Moths
+
+Butterflies of Bulgaria
+
+Butterflies of Canada
+
+Photography of European Butterflies and Moths
+
+Lepidoptera of French Antilles
+
+Butterflies of India
+
+A Check List of Butterflies in Indo-China
+
+Moths of Jamaica
+
+Japmoth Japanese moths. Access images via the numbers on the left.
+
+Butterflies and Moths in the Netherlands
+
+Butterflies and Moths of Northern Ireland
+
+Butterflies of Asian Russia
+
+Photos of Larvae and Pupae butterflies and moths. Spain
+
+Butterflies of Asturias – Spain
+
+Swedish Moths and Butterflies Lepidoptera (English)
+
+Butterflies of Turkey
+
+v
+
+t
+
+e
+
+Insect orders
+
+Kingdom: Animalia
+
+Phylum: Arthropoda
+
+(unranked): Pancrustacea
+
+Subphylum: Hexapoda
+
+Extant
+
+Monocondylia 
+Archaeognatha (jumping bristletails)
+
+D
+
+i
+
+c
+
+o
+
+n
+
+d
+
+y
+
+l
+
+i
+
+a
+
+Apterygota * 
+Zygentoma (silverfish, firebrats)
+
+P
+
+t
+
+e
+
+r
+
+y
+
+g
+
+o
+
+t
+
+a
+
+Palaeoptera
+
+Ephemeropteroidea 
+Ephemeroptera (mayflies)
+
+Odonatoptera 
+Odonata (dragonflies, damselflies)
+
+N
+
+e
+
+o
+
+p
+
+t
+
+e
+
+r
+
+a
+
+Polyneoptera
+
+Plecoptera (stoneflies)
+
+Dermaptera (earwigs)
+
+Embioptera (webspinners)
+
+Phasmatodea (stick and leaf insects)
+
+Notoptera (ice-crawlers, gladiators)
+
+Orthoptera (crickets, wetas, grasshoppers, locusts)
+
+Zoraptera (angel insects)
+
+Dictyoptera 
+Blattodea (cockroaches, termites)
+
+Mantodea (mantises)
+
+E
+
+u
+
+m
+
+e
+
+t
+
+a
+
+b
+
+o
+
+l
+
+a
+
+Paraneoptera * 
+Psocodea (barklice, lice)
+
+Thysanoptera (thrips)
+
+Hemiptera (cicadas, aphids, true bugs)
+
+E
+
+n
+
+d
+
+o
+
+p
+
+t
+
+e
+
+r
+
+y
+
+g
+
+o
+
+t
+
+a
+
+basal 
+Hymenoptera (sawflies, wasps, ants, bees)
+
+Neuropteroidea
+
+Coleopterida 
+Strepsiptera (twisted-winged parasites)
+
+Coleoptera (beetles)
+
+Neuropterida 
+Raphidioptera (snakeflies)
+
+Megaloptera (alderflies, dobsonflies, fishflies)
+
+Neuroptera (net-winged insects: lacewings, mantidflies, antlions)
+
+Panorpida
+
+(Mecopterida)
+
+Antliophora 
+Mecoptera (scorpionflies) + Siphonaptera (fleas)
+
+Diptera (gnats, mosquitoes, flies)
+
+Amphiesmenoptera 
+Trichoptera (caddisflies)
+
+Lepidoptera (moths, butterflies)
+
+Four most speciose orders are marked in bold
+
+Italic are paraphyletic groups
+
+Based on Sasaki et al. (2013)
+
+Extinct
+
+Aethiocarenodea
+
+Archodonata
+
+Blattoptera
+
+Caloneurodea
+
+Campylopteridae
+
+Carbotriplurida
+
+Coxoplectoptera
+
+Diaphanopterodea
+
+Eoblattodea
+
+Eudiaphanoptera
+
+Geroptera
+
+Glosselytrodea
+
+Heraridea
+
+Hypoperlida
+
+Lapeyriidae
+
+Meganisoptera
+
+Megasecoptera
+
+Miomoptera
+
+Monura
+
+Palaeodictyoptera
+
+Paoliida
+
+Permoplecoptera
+
+Protanisoptera
+
+Protelytroptera
+
+Protephemerida
+
+Protodiptera
+
+Protorthoptera
+
+Protozygoptera
+
+Syntonoptera
+
+Titanoptera
+
+Triadophlebioptera
+
+Extinct incertae sedis families and genera are marked in italic
+
+Wikispecies
+
+v
+
+t
+
+e
+
+Extant Lepidoptera families
+
+Kingdom: Animalia
+
+Phylum: Arthropoda
+
+Class: Insecta
+
+Subclass: Pterygota
+
+Infraclass: Neoptera
+
+Superorder: Endopterygota
+
+Suborder Zeugloptera
+
+Micropterigoidea Micropterigidae (mandibulate archaic moths)
+
+Suborder Aglossata
+
+Agathiphagoidea Agathiphagidae (kauri moths)
+
+Suborder Heterobathmiina
+
+Heterobathmioidea Heterobathmiidae
+
+Suborder Glossata
+
+Dacnonypha
+
+Eriocranioidea 
+Eriocraniidae
+
+Acanthoctesia
+
+Acanthopteroctetoidea 
+Acanthopteroctetidae (archaic sun moths)
+
+Lophocoronina
+
+Lophocoronoidea Lophocoronidae
+
+Neopseustina
+
+Neopseustoidea 
+Aenigmatineidae
+
+Neopseustidae (archaic bell moths)
+
+Exoporia
+
+Hepialoidea 
+Anomosetidae
+
+Hepialidae (swift moths, ghost moths)
+
+Neotheoridae (Amazonian primitive ghost moths)
+
+Palaeosetidae (miniature ghost moths)
+
+Prototheoridae (African primitive ghost moths)
+
+Mnesarchaeoidea 
+Mnesarchaeidae (New Zealand primitive moths)
+
+H
+
+e
+
+t
+
+e
+
+r
+
+o
+
+n
+
+e
+
+u
+
+r
+
+a
+
+M
+
+o
+
+n
+
+o
+
+t
+
+r
+
+y
+
+s
+
+i
+
+a
+
+Adeloidea 
+Adelidae (fairy longhorn moths)
+
+Cecidosidae
+
+Heliozelidae
+
+Incurvariidae
+
+Prodoxidae (yucca moths)
+
+Andesianoidea 
+Andesianidae (Andean endemic moths)
+
+Nepticuloidea 
+Nepticulidae (pigmy, or midget moths)
+
+Opostegidae (white eyecap moths)
+
+Palaephatoidea 
+Palaephatidae (Gondwanaland moths)
+
+Tischerioidea 
+Tischeriidae (trumpet leaf miner moths)
+
+D
+
+i
+
+t
+
+r
+
+y
+
+s
+
+i
+
+a
+
+Simaethistoidea 
+Simaethistidae
+
+Tineoidea 
+Acrolophidae (burrowing webworm moths)
+
+Arrhenophanidae
+
+Eriocottidae (Old World spiny-winged moths)
+
+Lypusidae
+
+Psychidae (bagworm moths)
+
+Tineidae (fungus moths)
+
+Gracillarioidea 
+Bucculatricidae (ribbed cocoon makers)
+
+Douglasiidae (Douglas moths)
+
+Gracillariidae
+
+Roeslerstammiidae
+
+Yponomeutoidea 
+Acrolepiidae (false diamondback moths)
+
+Bedelliidae
+
+Glyphipterigidae (sedge moths)
+
+Heliodinidae
+
+Lyonetiidae
+
+Plutellidae
+
+Yponomeutidae (ermine moths)
+
+Ypsolophidae
+
+Gelechioidea 
+Autostichidae
+
+Batrachedridae
+
+Blastobasidae
+
+Coleophoridae (case-bearers, case moths)
+
+Cosmopterigidae (cosmet moths)
+
+Elachistidae (grass-miner moths)
+
+Gelechiidae (twirler moths)
+
+Lecithoceridae (long-horned moths)
+
+Metachandidae
+
+Momphidae (mompha moths)
+
+Oecophoridae (concealer moths)
+
+Pterolonchidae
+
+Scythrididae (flower moths)
+
+Xyloryctidae (timber moths)
+
+Galacticoidea 
+Galacticidae
+
+Zygaenoidea 
+Heterogynidae
+
+Zygaenidae (burnet, forester, or smoky moths)
+
+Himantopteridae
+
+Lacturidae
+
+Somabrachyidae
+
+Megalopygidae (flannel moths)
+
+Aididae
+
+Anomoeotidae
+
+Cyclotornidae
+
+Epipyropidae (planthopper parasite moths)
+
+Dalceridae (slug caterpillars)
+
+Limacodidae (slug, or cup moths)
+
+Cossoidea 
+Cossidae (carpenter millers, or goat moths)
+
+Dudgeoneidae (dudgeon carpenter moths)
+
+Sesioidea 
+Brachodidae (little bear moths)
+
+Castniidae (castniid moths: giant butterfly-moths, sun moths)
+
+Sesiidae (clearwing moths)
+
+Choreutoidea 
+Choreutidae (metalmark moths)
+
+Tortricoidea 
+Tortricidae (tortrix moths)
+
+Urodoidea 
+Urodidae (false burnet moths)
+
+Schreckensteinioidea 
+Schreckensteiniidae (bristle-legged moths)
+
+Epermenioidea 
+Epermeniidae (fringe-tufted moths)
+
+Alucitoidea 
+Alucitidae (many-plumed moths)
+
+Tineodidae (false plume moths)
+
+Pterophoroidea 
+Pterophoridae (plume moths)
+
+Whalleyanoidea 
+Whalleyanidae
+
+Immoidea 
+Immidae
+
+Copromorphoidea 
+Copromorphidae (tropical fruitworm moths)
+
+Carposinidae (fruitworm moths)
+
+Thyridoidea 
+Thyrididae (picture-winged leaf moths)
+
+Calliduloidea 
+Callidulidae (Old World butterfly-moths)
+
+Papilionoidea
+
+(butterflies) 
+Papilionidae (swallowtail butterflies)
+
+Hedylidae (American moth-butterflies)
+
+Hesperiidae (skippers)
+
+Pieridae (whites, yellows, orangetips, sulphurs)
+
+Riodinidae (metalmarks)
+
+Lycaenidae (gossamer-winged butterflies: blues, coppers and relatives)
+
+Nymphalidae (brush-footed, or four-footed butterflies)
+
+Hyblaeoidea 
+Hyblaeidae (teak moths)
+
+Pyraloidea 
+Pyralidae (snout moths)
+
+Crambidae (grass moth)
+
+Mimallonoidea 
+Mimallonidae (sack bearer moths)
+
+Lasiocampoidea 
+Lasiocampidae (eggars, snout moths, or lappet moths)
+
+Bombycoidea 
+Anthelidae (Australian lappet moth)
+
+Apatelodidae (American silkworm moths)
+
+Bombycidae (silk moths)
+
+Brahmaeidae (Brahmin moths)
+
+Carthaeidae (Dryandra moth)
+
+Endromidae (Kentish glory and relatives)
+
+Eupterotidae
+
+Phiditiidae
+
+Saturniidae (saturniids)
+
+Sphingidae (hawk moths, sphinx moths and hornworms)
+
+Noctuoidea 
+Erebidae (underwing, tiger, tussock, litter, snout, owlet moths)
+
+Euteliidae
+
+Noctuidae (daggers, sallows, owlet moths, quakers, cutworms, darts)
+
+Nolidae (tuft moths)
+
+Notodontidae (prominents, kittens)
+
+Oenosandridae
+
+Drepanoidea 
+Drepanidae (hook-tips)
+
+Cimeliidae (gold moths)
+
+Doidae
+
+Geometroidea 
+Sematuridae
+
+Pseudobistonidae
+
+Epicopeiidae (oriental swallowtail moths)
+
+Uraniidae
+
+Geometridae (geometer moths)
+
+Superfamily unassigned 
+Millieriidae
+
+Note: division Monotrysia is not a clade.
+
+Taxonomy of the Lepidoptera
+
+Lists by region
+
+Taxon identifiers 
+Wikidata: Q28319
+
+Wikispecies: Lepidoptera
+
+ADW: Lepidoptera
+
+BioLib: 16868
+
+BOLD: 113
+
+BugGuide: 57
+
+EoL: 747
+
+EPPO: 1LEPIO
+
+Fauna Europaea: 7
+
+Fauna Europaea (new): b64a743d-0469-4571-9ed4-061779300ac0
+
+Fossilworks: 71428
+
+GBIF: 797
+
+iNaturalist: 47157
+
+IRMNG: 12144
+
+ITIS: 117232
+
+NCBI: 7088
+
+NZOR: 4139991c-cde7-42fe-b132-9c101c86e33a
+
+PPE: lepidoptera
+
+uBio: 425288
+
+WoRMS: 989022
+
+Authority control 
+BNE: XX528452
+
+BNF: cb11932240r (data)
+
+GND: 4052831-5
+
+LCCN: sh85076067
+
+NDL: 00569531
+
+SELIBR: 145169
+
+"
+

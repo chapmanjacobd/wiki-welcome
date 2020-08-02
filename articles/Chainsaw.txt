@@ -1,0 +1,1260 @@
+"For other uses, see Chainsaw (disambiguation).
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Chainsaw" – news · newspapers · books · scholar · JSTOR (November 2011) (Learn how and when to remove this template message)
+
+A chainsaw in action.
+
+A chainsaw (alternatively spelled chain saw) is a portable, mechanical saw which cuts with a set of teeth attached to a rotating chain that runs along a guide bar. It is used in activities such as tree felling, limbing, bucking, pruning, cutting firebreaks in wildland fire suppression and harvesting of firewood. Chainsaws with specially designed bar and chain combinations have been developed as tools for use in chainsaw art and chainsaw mills. These specialized chainsaws are used for cutting concrete during construction developments. Chainsaws are sometimes used for cutting ice, for example, ice sculpture and winter swimming in Finland. Someone who uses a saw is a sawyer.
+
+Contents
+
+1 History
+
+1.1 In surgery
+
+1.2 For cutting wood
+
+2 Construction
+
+2.1 Engine
+
+2.2 Drive mechanism
+
+2.3 Guide bar
+
+2.3.1 Gauge
+
+2.3.2 Oil holes
+
+2.3.3 Grease holes at bar nose
+
+2.3.4 Guide slot
+
+2.3.5 Bar types
+
+2.4 Cutting chain
+
+2.5 Tensioning mechanism
+
+2.6 Safety features
+
+3 Maintenance
+
+4 Safety
+
+5 Working techniques
+
+6 Cutting stone, concrete and brick
+
+7 See also
+
+8 References
+
+9 External links
+
+History
+
+Historical osteotome, a medical bone chainsaw
+
+Typical of the earliest chainsaws, this Dolmar saw is operated by two men.
+
+In surgery
+
+The origin is debated, but a chainsaw-like tool was made around 1830 by the German orthopaedist Bernhard Heine. This instrument, the osteotome, had links of a chain carrying small cutting teeth with the edges set at an angle; the chain was moved around a guiding blade by turning the handle of a sprocket wheel. As the name implies, this was used to cut bone.
+The prototype of the chain saw familiar today in the timber industry was pioneered in the late 18th century by two Scottish doctors, John Aitken and James Jeffray, for symphysiotomy and excision of diseased bone respectively. The chain hand saw, a fine serrated link chain which cut on the concave side, was invented around 1783–1785. It was illustrated in Aitken's Principles of Midwifery or Puerperal Medicine (1785) and used by him in his dissecting room. Jeffray claimed to have conceived the idea of the chain saw independently about that time but it was 1790 before he was able to have it produced. In 1806, Jeffray published Cases of the Excision of Carious Joints by H. Park and P. F. Moreau with Observations by James Jeffray M.D. In this communication he translated Moreau's paper of 1803. Park and Moreau described successful excision of diseased joints, particularly the knee and elbow. Jeffray explained that the chain saw would allow a smaller wound and protect the adjacent neurovascular bundle. Symphysiotomy had too many complications for most obstetricians but Jeffray's ideas became accepted, especially after the development of anaesthetics. Mechanised versions of the chain saw were developed but in the later 19th century, it was superseded in surgery by the Gigli twisted wire saw. For much of the 19th century, however, the chain saw was a useful surgical instrument.
+
+For cutting wood
+
+Electric chainsaw
+
+The earliest patent for a practical "endless chain saw" (a saw comprising a chain of links carrying saw teeth and running in a guide frame) was granted to Samuel J. Bens of San Francisco on January 17, 1905. His intent being to fell giant redwoods. The first portable chainsaw was developed and patented in 1918 by Canadian millwright James Shand. After he allowed his rights to lapse in 1930 his invention was further developed by what became the German company Festo in 1933. The company now operates as Festool producing portable power tools. Other important contributors to the modern chainsaw are Joseph Buford Cox and Andreas Stihl; the latter patented and developed an electric chainsaw for use on bucking sites in 1926 and a gasoline-powered chainsaw in 1929, and founded a company to mass-produce them. In 1927, Emil Lerp, the founder of Dolmar, developed the world's first gasoline-powered chainsaw and mass-produced them.
+
+World War II interrupted the supply of German chain saws to North America, so new manufacturers sprang up including Industrial Engineering Ltd (IEL) in 1939, the forerunner of Pioneer Saws. Ltd and part of Outboard Marine Corporation, the oldest manufacturer of chainsaws in North America.
+
+McCulloch in North America started to produce chainsaws in 1948. The early models were heavy, two-person devices with long bars. Often chainsaws were so heavy that they had wheels like dragsaws. Other outfits used driven lines from a wheeled power unit to drive the cutting bar.
+
+After World War II, improvements in aluminum and engine design lightened chainsaws to the point where one person could carry them. In some areas the skidder (chainsaw) crews have been replaced by the feller buncher and harvester.
+
+Chainsaws have almost entirely replaced simple man-powered saws in forestry. They come in many sizes, from small electric saws intended for home and garden use, to large "lumberjack" saws. Members of military engineer units are trained to use chainsaws as are firefighters to fight forest fires and to ventilate structure fires.
+
+There are three main types of chainsaw sharpeners - Handheld File, Electric Chain Saw and Bar Mounted.
+
+Construction
+
+The cutting chain seen here features the popular chipper teeth style cutting blades
+
+A chainsaw consists of several parts:
+
+Engine
+
+Chainsaw engines are traditionally either a two-stroke gasoline (petrol) internal combustion engine (usually with a cylinder volume of 30 to 120 cm3) or an electric motor driven by a battery or electric power cord. Combustion engines today are supplied through a traditional carburetor or an electronically adjustable carburetor.
+
+The carburetor may need to be adjusted, i.e. when operating in high or low altitudes, or their fuel oil-to-gasoline ratios must be adjusted to run properly. Electronically controlled carburetors make all adjustments automatically. These systems are provided by most large chain saw producers.
+
+To reduce user fatigue and occupational health issues, saws are dampened (protected from vibrations). Saws can also be heated for the operator. Some saws offer a Winter and Summer mode of operation: Winter mode applies in temperatures below 0 °C / 32 °F where inside the cover a hole is opened leaving warm air to the air filter and carburetor to prevent icing. In warmer environment the hole is closed and both units are not ventilated with warm air.
+
+To ensure clean air supply to the carburetor, chainsaw producers offer different filters with fine or less fine mesh. In clean surrounding air a less fine filter can be used, in dusty environment the other. The fine filter keeps the air clean to its optimum (i.e. 44 µm) but has the tendency to clog. This leads to the engine dying. 
+
+Modern chainsaw carburettors are designed so that the engines can be operated in different positions, upside-down or tilted 90 degrees. Early engines died when tilting (two man saw from Dolmar, Germany from 1930 to 1937).
+
+Drive mechanism
+
+Typically a centrifugal clutch and sprocket.
+The centrifugal clutch expands with increasing speed, engaging a drum. On this drum sits either a fixed sprocket or an exchangeable one. The clutch has three jobs: When the engine runs idle (typically 2500-2700 rpm) the chain does not move. When the clutch is engaged and the chain stops in the wood or another reason, it protects the engine. Most importantly, it protects the operator in case of a kickback. Here the chain brake stops the drum and the clutch releases immediately.
+
+Clutches and drums can be in two positions: either turned outside (Husqvarna) or inside (Stihl).
+
+Guide bar
+
+An elongated bar with a round end of wear-resistant alloy steel typically 40 to 90 cm (16 to 36 in) in length. An edge slot guides the cutting chain. Specialized loop-style bars, called bow bars, were also used at one time for bucking logs and clearing brush, although they are now rarely encountered due to increased hazards of operation.
+
+All guide bars have some elements for operation:
+
+Gauge
+
+The lower part of the chain runs in the gauge. Here the lubrication oil is pulled by the chain to the nose.
+
+Oil holes
+
+At the end of the saw power head there are two oil holes, one on each side. These holes must match with the outlet of the oil pump. The pump pumps the oil through the hole in the lower part of the gauge. (See also below)
+
+Saw bar producers provide a large variety of bars matching different saws.
+
+Grease holes at bar nose
+
+Through this hole grease is pumped, typically each tank filling to keep the nose sprocket well lubricated.
+
+Guide slot
+
+Here one or two bolts from the saw run through. The clutch cover is put on top of the bar and it is secured though this/these bolts. It depends on the size of the saw if one or two bolts are installed.
+
+Bar types
+
+There are different bar types available:
+
+Laminated bars
+
+These bars consist of different layers to reduce the weight of the bar.
+
+Solid bars
+
+These bars are solid steel bars intended for professional use. They have commonly an exchangeable nose since the sprocket at the bar nose wears out faster than the bar.
+
+Safety bars
+
+These bars are laminated bars with a small sprocket at the nose. The small nose reduces the kickback effect. Such bars are used on consumer saws.
+
+Cutting chain
+
+Main article: Saw chain
+
+Usually each segment in chain (which is constructed from riveted metal sections similar to a bicycle chain, but without rollers) features small sharp cutting teeth. Each tooth takes the form of a folded tab of chromium-plated steel with a sharp angular or curved corner and two beveled cutting edges, one on the top plate and one on the side plate. Left-handed and right-handed teeth are alternated in the chain. Chains come in varying pitch and gauge; the pitch of a chain is defined as half of the length spanned by any three consecutive rivets (e.g., 8 mm, 0.325 inch), while the gauge is the thickness of the drive link where it fits into the guide bar (e.g., 1.5 mm, 0.05 inch). Conventional "full complement" chain has one tooth for every two drive links. "Full skip" chain has one tooth for every three drive links. Built into each tooth is a depth gauge or "raker" which rides ahead of the tooth and limits the depth of cut, typically to around 0.5 mm (0.025"). Depth gauges are critical to safe chain operation. If left too high they will cause very slow cutting, if filed too low the chain will become more prone to kick back. Low depth gauges will also cause the saw to vibrate excessively. Vibration is uncomfortable for the operator and is detrimental to the saw.
+
+Tensioning mechanism
+
+Main article: Tensioner
+
+Some way to adjust the tension in the cutting chain so that it neither binds on nor comes loose from the guide bar. The tensioner is either operated by turning a screw or a manual wheel. The tensioner is either in a lateral position underneath the exhaust or integrated in the clutch cover.
+
+Lateral tensioners have the advantage that the clutch cover is easier to mount but the disadvantage that it is more difficult to reach nearby the bar. Tensioners through the clutch cover are easier to operate, but the clutch cover is more difficult to attach.
+
+When turning the screw, a hook in a bar hole moves the bar either out (tensioning) or in, making the chain loose. Tension is right when it can be moved easily by hand and not hanging loose from the bar. When tensioning, hold the bar nose up and pull the bar nuts tight. Otherwise the chain might derail.
+
+The underside of each link features a small metal finger called a "drive link" (also DL) which locates the chain on the bar, helps to carry lubricating oil around the bar, and engages with the engine's drive sprocket inside the body of the saw. The engine drives the chain around the track by a centrifugal clutch, engaging the chain as engine speed increases under power, but allowing it to stop as the engine speed slows to idle speed.
+
+Consistent improvements, new chainsaw safety devices and overall design have taken place since the chainsaw's invention, saving many lives and preventing countless serious injuries. These include chainbrake systems, better chain design, and better ergonomics through lighter saws and the introduction of anti-vibration systems.
+
+As chainsaw carving has become more popular, chainsaw manufacturers are making special short, narrow-tipped bars for carving. These are called "quarter tipped," "nickel tipped" or "dime tipped" bars, based on the size of the round tip. Chainsaw manufacturer Echo sponsors a carving series, as well as carvers such as former Runaways singer Cherie Currie. Some chainsaws are built specifically for carving applications.
+
+Safety features
+
+A chainsaw used to trim the 2016 Capitol Christmas tree
+
+Main article: Chainsaw safety features
+
+Today's chainsaws have multiple safety features to protect the operator. These features do not guarantee that the operator will not be harmed. The best protection is good safety practices.
+
+Chain brake
+
+The chain brake is located in the clutch cover. Here a band tensions around the clutch drum, stopping the chain within milliseconds when activated. The chain brake is released by the upper handle with the hand or wrist. The brake is intended to be used in kick-back events.
+
+Chain catcher
+
+The chain catcher is located between the saw body and the clutch cover. In most cases it resembles a hook made of aluminum. It is used to stop the chain when it derails from the bar and shortens the length of the chain. When derailing, the chain swings from underneath the saw towards the operator. The shorting prevents hitting the operator, but it hits the rear handle guard.
+
+Rear handle guard
+
+The rear handle guard protects the hand of the operator when the chain derails.
+
+Chain
+
+Some chains have safety features as safety links as on micro chisel saws. These links keep the saw close to the gap between two cutting links and lift the chain when the space at the safety link is full with saw chips, which lifts the chain and lets it cut slower. Non professional chains have less aggressive teeth, by virtue of having shallower depth gauges.
+
+Clothing
+
+Modern protective clothing is designed to protect the operator in the event of a moving chain touching their clothing by snarling the chain and sprocket with special synthetic fibres that are woven into the garment.
+
+Maintenance
+
+Logging near Apiary, Oregon
+
+Two-stroke chainsaws require about 2–5% of oil in the fuel to lubricate the engine, while the motor in electrical chain-saws is normally lubricated for life. Most modern gasoline operated saws today require a fuel mix of 2% (1:50). Gasoline that contains ethanol can result in problems of the equipment because Ethanol dissolves plastic, rubber and other material. This leads to problems especially on older equipment. A workaround of this problem is to run fresh fuel only and run the saw dry at the end of the work.
+
+Separate chain oil or bar oil is used for the lubrication of the bar and chain on all types of chainsaw. The chain oil is depleted quickly because it tends to be thrown off by chain centrifugal force, and it is soaked up by sawdust. On two-stroke chainsaws the chain oil reservoir is usually filled up at the same time as refuelling. The reservoir is normally large enough to provide sufficient chain oil between refuelling. Lack of chain oil, or using an oil of incorrect viscosity, is a common source of damage to chainsaws, and tends to lead to rapid wear of the bar, or the chain seizing or coming off the bar. In addition to being quite thick, chain oil is particularly sticky (due to "tackifier" additives) to reduce the amount thrown off the chain. Although motor oil is a common emergency substitute, it is lost even faster and so leaves the chain under-lubricated.
+
+The oil is pumped from a small pump to a hole in the bar. From here the lower ends of each chain drive link take a portion of the oil into the gauge towards the bar nose. The pump outlet and bar hole must be aligned. Since the bar is moving out and inwards depending on the chain length, the oil outlet on the saw side has a banana style long shape.
+
+Chains must be kept sharp to perform well. They become blunt rapidly if they touch soil, metal or stones. When blunt, they tend to produce powdery sawdust, rather than the longer, clean shavings characteristic of a sharp chain; a sharp saw also needs very little force from the operator to push it into the cut. Special hardened chains (made with tungsten carbide) are used for applications where soil is likely to contaminate the cut, such as for cutting through roots.
+
+A clear sign of a blunt chain are vibrations of the saw. A sharp chain pulls itself into the wood without pressing on the saw.
+
+The air intake filter tends to clog up with sawdust. This must be cleaned from time to time, but is not a problem during normal operation.
+
+Safety
+
+A chainsaw operator wearing full safety gear using a gasoline-powered chain saw
+
+Main articles: Chainsaw safety features and chainsaw safety clothing
+
+Despite safety features and protective clothing, injuries can still arise from chainsaw use, from the large forces involved in the work, from the fast-moving, sharp chain, or from the vibration and noise of the machinery.
+
+A common accident arises from kickback, when a chain tooth at the tip of the guide bar catches on wood without cutting through it. This throws the bar (with its moving chain) in an upward arc toward the operator which can cause serious injury or even death.
+
+Another dangerous situation occurs when heavy timber begins to fall or shift before a cut is complete. The chainsaw operator may be trapped or crushed. Similarly, timber falling in an unplanned direction may harm the operator or other workers, or an operator working at a height may fall or be injured by falling timber.
+
+Like other hand-held machinery, the operation of chainsaws can cause vibration white finger, tinnitus or industrial deafness. These symptoms were very common when such equipment was not de-vibrated. On today's equipment there are damping elements (in rubber or steel spring) lowering these risks. Heated handles are an additional help. Newer, cordless electric chainsaws use brushless motors which further decrease noise and vibration while being lighter and easier to wield than traditional petroleum-powered models.
+
+The risks associated with chainsaw use mean that protective clothing such as chainsaw boots, chainsaw trousers and hearing protectors are normally worn while operating them, and many jurisdictions require that operators be certified or licensed to work with chainsaws. Injury can also result if the chain breaks during operation due to poor maintenance or attempting to cut inappropriate materials.
+
+Gasoline-powered chainsaws expose operators to harmful carbon monoxide (CO) gas, especially indoors or in partially enclosed outdoor areas.
+
+Drop starting, or turning on a chainsaw by dropping it with one hand while pulling the starting cord with the other, is a safety violation in most states in the U.S. Keeping both hands on the saw for stability is essential for safe chainsaw use.
+
+Safe and effective chainsaw and crosscut use on federally-administered public lands within the United States has been codified since 2016 in the Final Directive for National Saw Program issued by the United States Forest Service which specifies the training, testing, and certification process for employees as well as for unpaid volunteers who operate chainsaws within public lands.
+
+The new directive specifies Forest Service Manual (FSM) 2358 (PDF) which covers classification of sawyers, their Personal Protective Equipment (PPE) and numerous other aspects of required safety training and behavior when operating chainsaws or crosscut saws on federally-administered public lands.
+
+Working techniques
+
+Chainsaw training is designed to provide working technical knowledge and skills to safely operate the equipment.
+
+Sizeup – This is scouting and planning safe cuts for the felling direction, danger zones, and retreat paths, before starting the saw. The tree's location relative to other objects, support, and tension determines a safe fall, splits off or if the saw will jam. Several factors to consider are: tree lean and bend, wind direction, branch arrangement, snow load, obstacles and damaged, rotting tree parts, which might behave unexpectedly when cut. A tree may have to fall in its natural direction if it is too dangerous or impossible to fell in a desired direction. The aim is for the tree to fall safely for limbing and cross-cutting the log. The goal is to avoid having the tree fall on another tree or obstacle.
+
+Felling – After clearing the tree's base undergrowth for the retreat path and the felling direction; felling is properly done with three main cuts. To control the fall, the directional cut line should run 1/4 of the tree diameter to make a 45-degree wedge, which should be 90 degrees to the felling direction and perfectly horizontal. The top cut should be made first and then the bottom cut is made to form the directional cut line at the wedge point. A narrow or nonexistent hinge lessens felling direction control. From the opposite side of the wedge, the final felling cut is finished 1/10th of the tree diameter from the direction cut line. The felling cut is made horizontally and slightly (1.5–2 inches; 5.1 cm) above the bottom cut. When the hinge is properly set, the felling cut will begin the fall in the desired direction. A sitback is when a tree moves back opposite the intended direction. Placing a wedge in the felling cut can prevent a sitback from pinching the saw.
+
+Freeing – Working a badly fallen tree that may have become trapped in other trees. Working out maximum tension locations to decide the safest way to release tension, and a winch may be needed in complicated situations. To avoid cutting straight through a tree in tension, one or two cuts at the tension point of sufficient depth to reduce tension may be necessary. After tension releases, cuts are made outside the bend.
+
+Limbing – Cutting the branches off the log. The operator must be able to properly reach the cut to avoid kickback.
+
+Bucking – Cross-cutting the felled log into sections. Setup is made to avoid binding the chainsaw within the changing log tensions and compressions. Safe bucking is started at the log highside and then sections worked offside, toward the butt end. The offside log falls and allows for gravity to help prevent binds. The log's kerf movement while cutting can help to indicate binds. Additional equipment (lifts, bars, wedges and winches) and special cutting techniques can help prevent binds.
+
+Binds – This is when the chainsaw is at risk or is stuck in the log compression. A log bound chainsaw is not safe, and must be carefully removed to prevent equipment damage.
+Top bind – The tension area on log bottom, compression on top.
+
+Bottom bind – The tension area on log top, compression on bottom.
+
+Side bind – Sideways pressure exerted on log.
+
+End bind – Weight compresses the log's entire cross section.
+
+Brushing and slashing – This is quickly clearing small trees and branches under five iinches (13 cm) in diameter. A hand piler may follow along to move out debris.
+
+Cutting stone, concrete and brick
+
+A chainsaw cutting concrete. The hose supplies cooling water.
+
+Special chainsaws can cut concrete, brick and natural stone. These use similar chains to ordinary chainsaws, but with cutting edges embedded with diamond grit. They may use gasoline or hydraulic power, and the chain is lubricated with water, because of high friction and to remove stone-dust. The machine is used in construction, for example in cutting deep square holes in walls or floors, in stone sculpture for removing large chunks of stone during pre-carving, by fire departments for gaining access to buildings and in restoration of buildings and monuments, for removing parts with minimal damage to the surrounding structure. More recently concrete chainsaws with electric motors of 230 volts have also been developed.
+
+Because the material to be cut is non-fibrous, there is much less chance of kickback. Therefore, the most-used method of cutting is plunge-cutting, by pushing the tip of the blade into the material. With this method square cuts as small as the blade width can be achieved. Pushback can occur if a block shifts when nearly cut through and pinches the blade, but overall the machine is less dangerous than a wood-cutting chainsaw.
+
+See also
+
+Bandsaw
+
+Chainsaws in popular culture
+
+Circular saw
+
+Dragsaw
+
+Jigsaw
+
+Portable sawmill
+
+Saw chain
+
+Small engine
+
+References
+
+^ "Definition of chain saw". Merriam-Webster. Retrieved April 13, 2019.
+
+^ Lennox, Doug. Now You Know: The Book of Answers, Volume 4. Toronto: Dundurn Press. 175. Print.
+
+^ "Endless chain saw". Retrieved 21 September 2018.
+
+^ Wardrop, Jim (June 1976). "British Columbia's experience with early chain saws". Material Culture Review/Revue de la culture matérielle. 2. Retrieved April 9, 2017.
+
+^ CA patent 186260A, James Shand, "SAW", published 1918-08-27, issued 1918-08-27 
+
+^ Reid, Mark Collin (2017). "Timber!". Canada's History. 97 (5): 20-23. ISSN 1920-9894.
+
+^ "Steady Growth, Industry Firsts Noted in Long Pioneer History", Chain Saw Age August 1972.
+
+^ ECHO Carving Series Archived September 27, 2007, at the Wayback Machine
+
+^ "Welcome to ChainsawChick.com!". www.chainsawchick.com. Retrieved 21 September 2018.
+
+^ "Masters of the Chainsaw - Chainsaw Competitions". www.mastersofthechainsaw.com. Archived from the original on 30 October 2016. Retrieved 21 September 2018.
+
+^ "Ethanol free fuel". hsqGlobal. Retrieved 21 September 2018.
+
+^ "Chain Saw Safety Manual" (PDF). Stihl. 1999. Archived from the original (PDF) on 2010-03-31.
+
+^ Stihl, Chain Saw Safety Manual, pp. 12-16
+
+^ "Preventing Chain Saw Injuries During Tree Removal After a Disaster". Centers for Disease Control and Prevention. Retrieved 1 April 2014.
+
+^ Vibration Syndrome. National Institute for Occupational Safety and Health. Current Intelligence Bulletin 38: March 29, 2983. Retrieved December 22, 2008.
+
+^ Carbon Monoxide Hazards from Small Gasoline Powered Engines. National Institute for Occupational Safety and Health. Retrieved December 22, 2008.
+
+^ Final Directive for National Saw Program Federal Register. Retrieved November 24, 2016.
+
+^ Chain Saw and Crosscut Saw Training Course Student's Guidebook 2006 Edition. USDA, US Forest Service. 29 December 2009. Retrieved 18 February 2011.
+
+^ a b c Jonsered Operator's Manual (1153137-95Rev.2). 2012-03-04. pp. 16–18.
+
+^ Husqvarna Operator's Manual (115 42 1549 Rev. 6). 2009-12-29. pp. 27–28, 43.
+
+^ Electric concrete chainsaw 230V
+
+External links
+
+ Wikimedia Commons has media related to Chainsaws.
+
+How a Chainsaw Works., Popular Science, August 1951
+
+v
+
+t
+
+e
+
+Forestry tools and equipment
+
+Tree planting/
+
+afforestation 
+Caulk boots
+
+Hoedad (hoedag)
+
+Groasis Waterboxx
+
+Mattock
+
+Pottiputki
+
+Root trainer
+
+Seed trap
+
+Tree planting bar (dibble bar)
+
+Tree shelter (Tuley tube)
+
+Tree spade
+
+Mensuration 
+3D scanner
+
+Angle gauge
+
+Biltmore stick
+
+Chain
+
+Cruising rod
+
+Diameter tape
+
+Hemispherical photography
+
+Inclinometer
+
+Increment borer
+
+Rangefinder
+laser
+
+Microtome
+
+Relascope
+
+Tree caliper
+
+Wedge prism
+
+Fire suppression 
+Aerial firefighting
+DC-10
+
+UAVs
+
+Driptorch
+
+Fire flapper
+
+Fire rake
+
+Fire retardant
+
+Helitack
+
+McLeod (rakehoe)
+
+Pulaski
+
+Axes 
+Billhook
+
+Broadaxe
+
+Froe (shake axe)
+
+Hatchet
+
+Labrys
+
+Log splitter
+
+Marking axe
+
+Splitting maul
+
+Saws 
+Bow saw
+
+Bucksaw
+
+Chainsaw
+safety clothing
+
+safety features
+
+Crosscut saw
+
+Dragsaw
+
+Head saw
+
+Lumber edger
+
+Portable sawmill
+
+Resaw
+
+Two-man saw
+
+Whipsaw
+
+Logging 
+Cant hook
+
+Feller buncher
+
+Forwarder
+
+Go-devil
+
+Harvester
+
+Helicopter
+
+Log truck
+
+Lombard Steam Log Hauler
+
+Michigan logging wheels
+
+Peavey
+
+Pickaroon
+
+Pike pole
+
+Skid cone
+
+Skidder
+Washington winch
+
+Steam donkey
+
+Yarder
+swing
+
+Other 
+Denailer
+
+Firewood processor
+
+Forest railway
+
+Forestry mulcher
+
+Hand compass
+
+Hand hook
+
+Hydraulic debarker
+
+Log house moulder
+
+Machete
+
+Stump grinder
+
+Chainsaw mill
+
+Tree tyer
+
+Tsakat
+
+Whoopie sling
+
+Wood-drying kiln
+
+Woodchipper
+
+ Categories
+tools
+
+equipment
+
+ Commons
+tools
+
+equipment
+
+ WikiProject Forestry
+
+v
+
+t
+
+e
+
+Garden tools
+
+Averruncator
+
+Axe
+
+Broadfork
+
+Brushcutter
+
+Chainsaw
+
+Cultivator
+
+Daisy grubber
+
+Dethatcher
+
+Dibber
+
+Earth auger
+
+Edger
+
+Garden fork
+
+Garden hose
+
+Grafter
+
+Grass shears
+
+Grass stitcher
+
+Hedge trimmer
+
+Hoe
+
+Homi
+
+Hori hori
+
+Irrigation sprinkler
+
+Kirpi
+
+Lawn aerator
+
+Lawn mower
+
+Lawn sweeper
+
+Leaf blower
+
+Loppers
+
+Machete
+
+Mattock
+
+Pickaxe
+
+Pitchfork
+
+Plough
+
+Post hole digger
+
+Potting bench
+
+Pruning shears (secateurs)
+
+Rake
+
+Riddle
+
+Scythe
+
+Shovel
+
+Sickle
+
+Spade
+Loy
+
+String trimmer
+
+Trowel
+
+Watering can
+
+Weeder
+
+Wheelbarrow
+
+Types of tools
+
+Cleaning
+
+Cutting and abrasive
+
+Forestry
+
+Garden
+
+Hand
+
+Machine and metalworking
+
+Measuring and alignment
+
+Power
+
+v
+
+t
+
+e
+
+Lumberjack sports
+
+Events 
+Aizkolaritza (Basque)
+
+Axe throwing
+
+Bucking
+
+Caber toss (Scotland)
+
+Felling cut
+
+Limbing
+
+Logrolling
+
+Pole climbing
+
+Sawing
+bow
+
+crosscut
+
+Hot Saw
+
+Wood chopping
+
+Wood splitting
+
+Woodsman
+
+Competitions 
+European Championship in Forestry Skills
+
+Lumberjack World Championship
+
+Southern Forestry Conclave
+
+Stihl Timbersports Series
+
+World Logging Championship
+
+Axe Throwing World Championships
+
+Paul Bunyan Days
+
+ Category
+players
+
+v
+
+t
+
+e
+
+Woodworking
+
+Overviews 
+History
+
+Glossary
+
+Wood (lumber)
+
+Occupations 
+Boat building
+
+Bow and arrow
+
+Bush carpentry
+
+Cabinetry
+
+Caning
+
+Carpentry
+
+Certosina
+
+Chainsaw carving
+
+Chip carving
+
+Clogs
+
+Ébéniste
+
+Fretwork
+
+Intarsia
+
+Japanese carpentry
+
+Khatam
+
+Kohlrosing
+
+Log building
+
+Marquetry
+
+Millwork
+
+Parquetry
+
+Pyrography
+
+Relief carving
+
+Root carving
+
+Sawdust
+
+Segmented turning
+
+Shingle weaving
+
+Shipbuilding
+
+Spindle turning
+
+Timber framing
+
+Treen
+
+Whittling
+
+Wood carving
+
+Woodturning
+
+Wood flour
+
+Woods
+
+Soft 
+Cedar (Calocedrus, Cedrus)
+
+Cypress
+
+Douglas-fir
+
+Fir
+
+Juniper
+
+Larch
+
+Kauri
+
+Pine
+
+Rimu
+
+Spruce
+
+Yew
+
+Hard 
+Afromosia
+
+Alder
+
+Andiroba
+
+Anigre
+
+Ash
+
+Apple
+
+Aspen
+
+Avodire
+
+Balsa
+
+Beech
+
+Bilinga
+
+Birch
+
+African Blackwood
+
+Australian Blackwood
+
+Boxwood
+
+Bubinga
+
+Camphor
+
+Cedrela
+
+Cherry
+
+Chestnut
+
+Cocobolo
+
+Cumaru
+
+Ebony
+
+Elm
+
+Eucalyptus
+
+Hazel
+
+Hickory
+
+Hornbeam
+
+Idigbo
+
+Imbuia
+
+Ipê
+
+Iroko
+
+Jarra
+
+Jelutong
+
+Lignum vitae
+
+Linden (lime, basswood)
+
+Lovoa
+
+Merbau
+
+Mahogany (American, African)
+
+Maple
+
+Meranti
+
+Oak
+
+Padauk
+
+Pear
+
+Plum
+
+Poplar
+
+Purpleheart
+
+Ovankol
+
+Ramin
+
+Red Quebracho
+
+Rosewood
+
+Rubberwood
+
+Sapele
+
+Teak
+
+Totara
+
+Utile
+
+Walnut
+
+Wenge
+
+Willow
+
+Zebrano
+
+Engineered 
+Cross-laminated
+
+Glue laminated
+
+Hardboard
+
+MDF
+
+OSB
+
+Particle board
+
+Plywood
+
+Wood-plastic composite
+
+Tools
+
+Abrasives
+
+Axe
+
+Adze
+
+Chisel
+
+Drawknife
+
+Drill
+
+Float
+
+Gimlet
+
+Gauge
+
+Impact driver
+
+Janka hardness test
+
+Jointer
+
+Mallet
+
+Milling machine
+
+Mitre box
+
+Rasp
+
+Router
+
+Shaper
+
+Sandpaper
+
+Square (Carpenters, Combination, Speed, Try)
+
+Thickness planer
+
+Timber-framing
+
+Vise
+
+Winding sticks
+
+Wood scribe
+
+Workbench
+
+Clamps 
+Band clamp
+
+C-clamp
+
+F-clamp
+
+Flooring clamp
+
+Gripe
+
+Mitre clamp
+
+Pipe clamp
+
+Saws 
+Backsaw
+
+Bandsaw
+
+Bow
+
+Bucksaw
+
+Chainsaw
+
+Circular
+
+Compass
+
+Coping
+
+Crosscut
+
+Frame
+
+Fretsaw
+
+Hand saw
+
+Jigsaw
+
+Keyhole
+
+Miter
+
+Rip
+
+Scroll
+
+Table
+
+Veneer
+
+Whipsaw
+
+Planes 
+Bedrock plane
+
+Block plane
+
+Chamfer plane
+
+Compass plane
+
+Finger plane
+
+Grooving plane
+
+Jack plane
+
+Japanese plane
+
+Jointer plane
+
+Moulding plane
+
+Razee plane
+
+Rebate plane
+
+Router plane
+
+Scrub plane
+
+Shoulder plane
+
+Smoothing plane
+
+Spokeshave
+
+Surform
+
+Geometry
+
+Joints 
+Birdsmouth
+
+Biscuit
+
+Box
+
+Bridle
+
+Butt
+
+Butterfly
+
+Coping
+
+Crown of thorns
+
+Dado
+
+Dovetail
+
+Finger
+
+Groove
+
+Halved
+
+Hammer-headed tenon
+
+Knee
+
+Lap
+
+Mason's mitre
+
+Miter
+
+Mortise and tenon
+
+Rabbet/Rebate
+
+Scarf
+
+Splice
+
+Tongue and groove
+
+Profiles 
+Bead
+
+Bevel
+
+Chamfer
+
+Ogee
+
+Ogive
+
+Ovolo
+
+Treatments 
+Adhesive
+
+French polish
+
+Heat bending
+
+Lacquer
+
+Oil
+
+Paint
+
+Paint stripper
+
+Steam bending
+
+Thermal
+
+Varnish
+
+Wax
+
+Wood drying
+
+Wood preservation
+
+Wood stain
+
+Wood finishing
+
+Organizations 
+American Association of Woodturners
+
+Architectural Woodwork Institute
+
+British Woodworking Federation
+
+Building and Wood Workers' International
+
+Caricature Carvers of America
+
+International Federation of Building and Wood Workers
+
+National Wood Carvers Association
+
+Society of Wood Engravers
+
+Timber Framers Guild
+
+Conversion 
+Chainsaw mill
+
+Hewing
+
+Sawmill
+
+Whipsaw
+
+Wood splitting
+
+Flat sawing
+
+Quarter sawing
+
+Rift sawing
+
+Techniques 
+Frame and panel
+
+Frameless construction
+
+ Category
+
+ WikiProject
+
+ Commons
+
+Authority control 
+GND: 4163700-8
+
+LCCN: sh85022336
+
+NARA: 10638294
+
+NDL: 01177337

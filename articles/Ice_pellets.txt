@@ -1,0 +1,262 @@
+ Part of a series on
+
+Weather
+
+Temperate and polar seasons
+
+Winter
+
+Spring
+
+Summer
+
+Autumn
+
+Tropical seasons
+
+Dry season
+Harmattan
+
+Wet season
+
+Storms
+
+Cloud
+Cumulonimbus cloud
+
+Arcus cloud
+
+Downburst
+Microburst
+
+Heat burst
+
+Derecho
+
+Lightning
+Volcanic lightning
+
+Thunderstorm
+Air-mass thunderstorm
+
+Thundersnow
+
+Dry thunderstorm
+
+Mesocyclone
+Supercell
+
+Tornado
+Anticyclonic tornado
+
+Landspout
+
+Waterspout
+
+Dust devil
+
+Fire whirl
+
+Anticyclone
+
+Cyclone
+
+Polar low
+
+Extratropical cyclone
+European windstorm
+
+Nor'easter
+
+Subtropical cyclone
+
+Tropical cyclone
+Atlantic hurricane
+
+Typhoon
+
+Storm surge
+
+Dust storm
+Simoom
+
+Haboob
+
+Monsoon
+Amihan
+
+Gale
+
+Sirocco
+
+Firestorm
+
+Winter storm
+Ice storm
+
+Blizzard
+
+Ground blizzard
+
+Snowsquall
+
+Precipitation
+
+Drizzle
+Freezing
+
+Graupel
+
+Hail
+Megacryometeor
+
+Ice pellets
+
+Diamond dust
+
+Rain
+Freezing
+
+Cloudburst
+
+Snow
+Rain and snow mixed
+
+Snow grains
+
+Snow roller
+
+Slush
+
+Topics
+
+Air pollution
+
+Atmosphere
+
+Chemistry
+
+Convection
+
+Physics
+
+River
+
+Climate
+
+Cloud
+Physics
+
+Fog
+Fog season
+
+Cold wave
+
+Heat wave
+
+Jet stream
+
+Meteorology
+
+Severe weather
+List
+
+Extreme
+
+Severe weather terminology
+Canada
+
+Japan
+
+United States
+
+Weather forecasting
+
+Weather modification
+
+Glossaries
+
+Meteorology
+
+Climate change
+
+Tornado terms
+
+Tropical cyclone terms
+
+ Weather portal
+
+v
+
+t
+
+e
+
+Ice pellets are a form of precipitation consisting of small, translucent balls of ice. Ice pellets are smaller than hailstones which form in thunderstorms rather than in winter, and are different from graupel ("soft hail") which is made of frosty white rime, and from a mixture of rain and snow which is a slushy liquid or semisolid. Ice pellets often bounce when they hit the ground or other solid objects, and make a higher-pitched "tap" when striking objects like jackets, windshields, and dried leaves, compared to the dull splat of liquid raindrops. Pellets generally do not freeze into a solid mass unless mixed with freezing rain. The METAR code for ice pellets is PL (PE before November 1998).
+
+Contents
+
+1 Terminology
+
+2 Formation
+
+3 Effects
+
+4 See also
+
+5 References
+
+6 External links
+
+Terminology
+
+Ice pellets are known as sleet in the United States, the official term used by the U.S. National Weather Service. However, the term sleet refers to a mixture of rain and snow in most Commonwealth countries, including Canada. Because of this, Environment Canada never uses the term sleet, and uses the terms "ice pellets" or "wet snow" instead.
+
+Formation
+
+Temperature profile for ice pellet formation.
+
+Ice pellets form when a layer of above-freezing air is located between 1,500 and 3,000 meters (5,000 and 10,000 ft) above the ground, with sub-freezing air both above and below it. This causes the partial or complete melting of any snowflakes falling through the warm layer (the French term for sleet, neige fondue, literally means "melted snow" because of this). As they fall back into the sub-freezing layer closer to the surface, they re-freeze into ice pellets. However, if the sub-freezing layer beneath the warm layer is too small, the precipitation will not have time to re-freeze before hitting the surface, so it will become freezing rain. A temperature profile showing a warm layer above the ground is most likely to be found in advance of a warm front during the cold season, but can occasionally be found behind a passing cold front, and often with a stationary front.
+
+An accumulation of ice pellets
+
+Ice pellets next to a U.S. penny for scale
+
+Effects
+
+In most parts of the world, ice pellets only occur for brief periods and do not accumulate a significant amount. However, across the eastern United States and southeastern Canada, warm air flowing north from the Gulf of Mexico ahead of a strong synoptic-scale storm system can overrun cold, dense air at the surface for many hundreds of miles for an extended period of time. In these areas, ice pellet accumulations of 2–5 cm (0.8–2.0 in) are not unheard of. The effects of a significant accumulation of ice pellets are not unlike an accumulation of snow. One significant difference is that for the same volume of snow, an equal volume of ice pellets is significantly heavier and thus more difficult to clear away. Additionally, a volume of ice pellets takes significantly longer to melt compared to an equal volume of fresh snowfall.
+
+See also
+
+Freezing rain
+
+Graupel
+
+Hail
+
+Sleet (disambiguation)
+
+References
+
+^ "Hail (glossary entry)". National Oceanic and Atmospheric Administration's National Weather Service. Retrieved 2007-03-20.
+
+^ "USA and International Code Change For Ice Pellets". National Oceanic and Atmospheric Administration. Retrieved 2013-09-20.
+
+^ "Sleet (glossary entry)". National Oceanic and Atmospheric Administration's National Weather Service. Retrieved 2007-03-20.
+
+^ "sleet Meaning in the Cambridge English Dictionary". cambridge.org.
+
+^ "Weather Glossary". Environment Canada. Retrieved 2015-03-30. Ice pellets: This is the term Canadians use to describe frozen rain drops which are five millimetres or less in diameter and bounce when they hit a hard surface. Americans call this sleet.
+
+^ Chris St. Clair, Canada's Weather, p. 55, Firefly Books, 2009. ISBN 1-55407-338-3
+
+^ Weatherquestions.com. What causes ice pellets (sleet)? Retrieved on 2007-12-08.
+
+External links
+
+ Media related to Ice pellets at Wikimedia Commons
+
+Authority control 
+LCCN: sh94001038
+
+NARA: 10664656

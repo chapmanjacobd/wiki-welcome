@@ -1,0 +1,466 @@
+"Type of construction equipment
+
+This article is about heavy construction equipment. For the AMD CPU microarchitecture, see Excavator (microarchitecture). For similar terminology, see excavation (disambiguation).
+
+The principle of a hydraulic excavator.
+
+Play media
+
+Hydraulic excavator in action
+
+Dashboard and controls of a 3.8 ton excavator
+
+Excavators are heavy construction equipment consisting of a boom, dipper (or stick), bucket and cab on a rotating platform known as the "house". The house sits atop an undercarriage with tracks or wheels. They are a natural progression from the steam shovels and often mistakenly called power shovels. All movement and functions of a hydraulic excavator are accomplished through the use of hydraulic fluid, with hydraulic cylinders and hydraulic motors. Due to the linear actuation of hydraulic cylinders, their mode of operation is fundamentally different from cable-operated excavators which use winches and steel ropes to accomplish the movements.
+
+Contents
+
+1 Terminology
+
+2 Usage
+
+3 Configurations
+
+4 Excavator attachments
+
+5 Notable manufacturers
+
+6 Current manufacturers
+
+7 See also
+
+8 References
+
+9 External links
+
+Terminology
+
+Excavators are also called diggers, JCBs (a proprietary name, in an example of a generic trademark), mechanical shovels, or 360-degree excavators (sometimes abbreviated simply to "360"). Tracked excavators are sometimes called "trackhoes" by analogy to the backhoe. In the UK, wheeled excavators are sometimes known as "rubber ducks."
+
+Usage
+
+House demolition by an excavator in Invermere, British Columbia.
+
+Excavators are used in many ways:
+
+Digging of trenches, holes, foundations
+
+Material handling
+
+Brush cutting with hydraulic saw and mower attachments
+
+Forestry work
+
+Forestry mulching
+
+Construction
+
+Demolition with hydraulic claw, cutter and breaker attachments
+
+General grading/landscaping
+
+Mining, especially, but not only open-pit mining
+
+River dredging
+
+Driving piles, in conjunction with a pile driver
+
+Drilling shafts for footings and rock blasting, by use of an auger or hydraulic drill attachment
+
+Snow removal with snowplow and snow blower attachments
+
+\t\t
+\t\t\t
+
+\t\t\t
+A cable-operated excavator under the Northwest (now Terex) name at the Pageant of Steam grounds.
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Liebherr 314 wheeled excavator.
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Link-Belt excavator trenching.
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+CAT 5230 in coal mining operation.
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+A LT Komatsu excavator seen in India.
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+A New Holland E215 in Hamburg, Germany.
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\t
+
+\t\t\t
+Caterpillar 350L excavator in Louisville, Kentucky, USA, 2001. Note the hydraulic thumb.
+
+\t\t\t
+
+\t\t
+
+Configurations
+
+Modern hydraulic excavators come in a wide variety of sizes. The smaller ones are called mini or compact excavators. For example, Caterpillar's smallest mini-excavator weighs 2,060 pounds (930 kg) and has 13 hp; their largest model is the largest excavator available (developed and produced by the Orenstein Koppel, Germany, until the takeover 2011 by Caterpillar, named »RH400«), the CAT 6090, which weighs in excess of 2,160,510 pounds (979,990 kg), has 4500 hp, and a bucket as large as 52.0 m³.
+
+Hydraulic excavators usually couple engine power to (commonly) three hydraulic pumps rather than to mechanical drivetrains. The two main pumps supply oil at high pressure (up to 5000 psi, 345 bar) for the arms, swing motor, track motors and accessories while the third is a lower pressure (~700 psi, 48 bar) pump for pilot control of the spool valves; this third circuit allows for reduced physical effort when operating the controls. Generally, the 3 pumps used in excavators consist of 2 variable displacement piston pumps and a gear pump. The arrangement of the pumps in the excavator unit changes with different manufacturers using different formats.
+
+The three main sections of an excavator are the undercarriage, the house and the arm (also boom is used). The undercarriage includes tracks, track frame, and final drives, which have a hydraulic motor and gearing providing the drive to the individual tracks. Undercarriage can also have blade similar to that of a bulldozer. The house includes the operator cab, counterweight, engine, fuel and hydraulic oil tanks. The house attaches to the undercarriage by way of a center pin. High pressure oil is supplied to the tracks' hydraulic motors through a hydraulic swivel at the axis of the pin, allowing the machine to slew 360° unhindered and thus provides the left-and-right movement. The arm provides the up-and-down and closer-and-further (or digging movement) movements. Arm consist typically of boom, stick and bucket with three joints between them and the house.
+
+The boom attaches to the house and provides the up-and-down movement. It can be one of several different configurations:
+
+Most common are mono booms; these have no movement apart from straight up and down.
+
+Some others have a knuckle boom which can also move left and right in line with the machine.
+
+Another option is a hinge at the base of the boom allowing it to hydraulically pivot up to 180° independent to the house; however, this is generally available only to compact excavators.
+
+Variable angle booms have additional joint in the middle of the boom to change the curvature of the boom. These are also called triple-articulated booms (TAB) or 3 piece booms.
+
+Attached to the end of the boom is the stick (or dipper arm). The stick provides the digging movement needed to pull the bucket through the ground. The stick length is optional depending whether reach (longer stick) or break-out power (shorter stick) is required. Most common is mono stick but there are also, for example, telescopic sticks.
+
+On the end of the stick is usually a bucket. A wide, large capacity (mud) bucket with a straight cutting edge is used for cleanup and levelling or where the material to be dug is soft, and teeth are not required. A general purpose (GP) bucket is generally smaller, stronger, and has hardened side cutters and teeth used to break through hard ground and rocks. Buckets have numerous shapes and sizes for various applications. There are also many other attachments which are available to be attached to the excavator for boring, ripping, crushing, cutting, lifting, etc. Attachments can be attached with pins similar to other parts of the arm or with some variety of quick coupler. Excavators in Scandinavia often feature a tiltrotator which allows attachments rotate 360 degrees and tilt +/- 45 degrees, in order to increase the flexibility and precision of the excavator. 
+
+Hydraulic excavator controls illustration, color of the control matches the moving part.
+
+Before the 1990s, all excavators had a long or conventional counterweight that hung off the rear of the machine to provide more digging force and lifting capacity. This became a nuisance when working in confined areas. In 1993 Yanmar launched the world's first Zero Tail Swing excavator, which allows the counterweight to stay inside the width of the tracks as it slews, thus being safer and more user friendly when used in a confined space. This type of machine is now widely used throughout the world.
+
+There are two main types of "Control" configuration generally use in excavators to control the boom and bucket, both of which spread the four main digging controls between two x-y joysticks. This allows a skilled operator to control all four functions simultaneously. The most popular configuration in the US is the SAE controls configuration while in other parts of the world, the ISO control configuration is more common. Some manufacturers such as Takeuchi have switches that allow the operator to select which control configuration to use.
+
+Excavator attachments
+
+Hydraulic excavator capabilities have expanded far beyond excavation tasks with buckets. With the advent of hydraulic-powered attachments such as a breaker, a grapple or an auger, the excavator is frequently used in many applications other than excavation. Many excavators feature a quick coupler for simplified attachment mounting, increasing the machine's utilization on the jobsite. Excavators are usually employed together with loaders and bulldozers. Most wheeled, compact and some medium-sized (11 to 18-tonne) excavators have a backfill (or dozer) blade. This is a horizontal bulldozer-like blade attached to the undercarriage and is used for levelling and pushing removed material back into a hole.
+
+Notable manufacturers
+
+14. oktobar
+
+Bobcat Company
+
+Bucyrus International
+
+Case CE
+
+Caterpillar Inc.
+
+CNH Global
+
+Deere and Company
+
+DONEX
+
+Doosan Infracore (formerly Daewoo Heavy Industries Machinery) - including Solar brand
+
+ENMTP
+
+HEPCO
+
+Hitachi Construction Machinery
+
+SANY
+
+Hydrema
+
+Hyundai Heavy Industries
+
+John Deere
+
+J. C. Bamford (JCB)
+
+Kato Works - subsidiary of IHICM Ltd.
+
+Komatsu Limited
+
+LBX (Link-Belt) Excavators
+
+ThyssenKrupp
+
+KOBELCO Construction Machinery Co., Ltd. - producing Kobelco worldwide
+
+Kobelco - subsidiary organization of Kobe Steel, also producing Kobelco
+
+Kubota
+
+Liebherr
+
+LiuGong
+
+Lonking
+
+LT - subsidiary with Komatsu, operated as LT Komatsu for Indian market
+
+Mahindra
+
+Marion Power Shovel Company - ceased operations in 1997
+
+Mitsubishi Heavy Industries - the excavator market was fully owned by Caterpillar Inc.
+
+New Holland
+
+Orenstein Koppel (OK) - ceased operations in 1999
+
+Poclain
+
+Samsung Group→The business was bought by Volvo Construction Equipment
+
+Sandvik Mining and Construction
+
+Sany
+
+SDLG - subsidiary corporation of Volvo Construction Equipment
+
+ST Kinetics
+
+SUMITOMO
+
+Shantui
+
+Tata Hitachi Construction Machinery - owned by Hitachi Construction Machinery for Indian market
+
+Terex Corporation
+
+Uralvagonzavod
+
+Volvo Construction Equipment
+
+Wacker Neuson
+
+XCMG
+
+XGMA
+
+Yanmar
+
+Yuchai
+
+Zoomlion
+
+Current manufacturers
+
+This section may contain content that is repetitive or redundant of text elsewhere in the article. Please help improve it by merging similar text or removing repeated statements. (April 2020)
+
+As of April 2020, there are current excavator manufacturers:
+
+ Japan 
+Hitachi Construction Machinery
+
+Kato Works Co. Ltd.
+
+Kobelco
+
+Komatsu Limited
+
+Kubota
+
+SUMITOMO
+
+Yanmar
+
+ Korea
+
+Doosan
+
+Hyundai Heavy Industries
+
+ China
+
+LiuGong
+
+Lonking
+
+SANY
+
+SDLG
+
+Shantui
+
+XCMG
+
+XGMA
+
+Yuchai
+
+Zoomlion
+
+ America
+
+Bucyrus International
+
+Case CE
+
+Caterpillar Inc.
+
+John Deere
+
+LBX (Link-Belt) Excavators
+
+New Holland
+
+Powerplus Group Inc.
+
+Terex Corporation
+
+ Denmark
+
+Hydrema
+
+ Sweden
+
+Sandvik AB
+
+Volvo Construction Equipment
+
+ United Kingdom
+
+JCB
+
+ India
+
+BEML
+
+Escorts Group
+
+LT
+
+Mahindra
+
+Tata Hitachi Construction Machinery
+
+ Germany
+
+ThyssenKrupp
+
+Wacker Neuson
+
+ Russia
+
+DONEX
+
+Uralvagonzavod
+
+ France
+
+Poclain
+
+ Switzerland-Germany
+
+Liebherr
+
+ Iran
+
+HEPCO
+
+ Algeria
+
+ENMTP
+
+ Italy-America-Netherlands
+
+CNH Global
+
+ Singapore
+
+ST Kinetics
+
+See also
+
+Types of excavator
+
+Compact excavator
+
+Dragline excavator
+
+Long reach excavator
+
+Amphibious excavator
+
+Power shovel
+
+Steam shovel
+
+Suction excavator
+
+Walking excavator
+
+Bucket-wheel excavator
+
+Other
+
+Bulldozer
+
+Civil engineering
+
+Heavy equipment
+
+Loader
+
+Mining simulation
+
+Tractor
+
+Skid-steer loader
+
+SAE controls
+
+References
+
+^ "Use Powerful Excavator Building Tamiami Trail". The Weekly Miami Metropolis. September 15, 1916. Retrieved 29 December 2013.
+
+^ "Industrial Expe ..Lasso Gives More Power To The Hy-Mac Elbow". The Glasgow Herald. June 9, 1962. Retrieved 29 December 2013.
+
+^ "First Wind Farm In Nh To Begin Operation". Bangor Daily News. Jan 9, 2006. Retrieved 29 December 2013.
+
+^ Glancey, Jonathan (2007-04-20). "Classics of everyday design No 16". London: The Guardian. Archived from the original on 28 February 2014. Retrieved 27 September 2010.
+
+^ -F, Kevin. "Types of Excavators and Their Uses". Archived from the original on 19 October 2012. Retrieved 29 December 2013.
+
+^ "Komatsu PW130-7". H.E. Services. Archived from the original on 29 March 2010. Retrieved 13 April 2010.
+
+^ "Tips to Help You Operate Your Mini Excavator". Archived from the original on 31 December 2013. Retrieved 29 December 2013.
+
+^ Lance Lefebure (2 December 2010). "How it works: The track motor spool in an Excavator". Archived from the original on 17 February 2016. Retrieved 5 May 2018 – via YouTube.
+
+^ "Archived copy". Archived from the original on 2010-03-30. Retrieved 2009-11-22.CS1 maint: archived copy as title (link)
+
+External links
+
+ Media related to Excavators at Wikimedia Commons

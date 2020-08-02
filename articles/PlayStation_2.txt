@@ -1,0 +1,2318 @@
+PS2" redirects here. For the lineup of IBM computers, see IBM Personal System/2. For the port, see PS/2 port. For other uses, see PS2 (disambiguation).
+
+Sixth-generation and second home video game console developed by Sony Interactive Entertainment
+
+PlayStation 2
+
+Left: Original PlayStation 2 with vertical stand
+
+Right: Slimline PlayStation 2 with vertical stand, 8 MB memory card and DualShock 2 controller
+
+Also known as PS2
+
+Developer Sony Computer Entertainment
+
+Manufacturer Sony Corporation
+
+Product family PlayStation
+
+Type Home video game console
+
+Generation Sixth generation
+
+Release date PlayStation 2JP: March 4, 2000
+
+NA: October 26, 2000
+
+EU: November 24, 2000
+
+AU: November 30, 2000
+
+PlayStation 2 SlimlineEU: October 29, 2004
+
+JP: November 3, 2004
+
+NA: November 25, 2004
+
+AU: December 2, 2004
+
+Lifespan 2000–2013
+
+Introductory price ¥39,800, US$299, £299
+
+Discontinued JP: December 28, 2012
+
+WW: January 4, 2013
+
+Units shipped 155.0 million (as of March 31, 2012)
+
+Media DVD, CD
+
+System-on-chip used Integrated Emotion Engine, Graphics Synthesizer, 32 MB of RDRAM, and 4 MB of eDRAM (PlayStation 2 Slimline models only)
+
+CPU MIPS R5900 Emotion Engine @ 
+294.912 MHz
+
+299 MHz (PlayStation 2 Slimline models only)
+
+Memory 32 MB of RDRAM (system RAM)
+
+4 MB of eDRAM (video RAM)
+
+Removable storage 8 MB PlayStation 2 memory card
+
+128 KB PlayStation memory card
+
+40GB hard drive
+
+Display 
+Video output formats
+
+Composite video
+
+S-Video
+
+SCART/JP21 RGB
+
+VGA (progressive scan capable software only)
+
+YPBPR component video/D-Terminal
+
+Graphics 150 MHz Graphics Synthesizer
+
+Sound PCM 2ch 48KHz, Dolby Digital 5.1 and DTS 5.1
+
+Controller input DualShock 2, DualShock, PlayStation Controller, EyeToy, PlayStation 2 DVD Remote Control, PlayStation Portable
+
+Connectivity 100 Mbit Ethernet/modem (requires adapter on SCPH-10000-500xx models), 2 × USB 1.1, 1 × IEEE 1394 interface
+
+Online services 
+Proprietary broadband/dialup developer-run third party servers
+
+Proprietary Sony DNAS server
+
+Dimensions Original PS2: 3.1" (78.7 mm) x 11.9" (302.3 mm) x 7.2" (182.9 mm)
+
+Mass Original PS2: 4.85 lb (2.2 kg)
+
+Best-selling game Grand Theft Auto: San Andreas: 17.33 million sold (as of February 2009)
+
+Backward
+
+compatibility PlayStation
+
+Predecessor PlayStation
+
+Successor PlayStation 3
+
+The PlayStation 2 (officially branded as PS2) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on March 4, 2000, in North America on October 26, 2000, and in Europe and Australia on November 24, 2000, and is the successor to the original PlayStation, as well as the second installment in the PlayStation console line-up. A sixth-generation console, it competed with Sega's Dreamcast, Nintendo's GameCube, and Microsoft's original Xbox.
+
+Announced in 1999, the PS2 offered backward-compatibility for its predecessor's DualShock controller, as well as its games. The PS2 is the best-selling video game console of all time, having sold over 155 million units worldwide, as confirmed by Sony. Over 3,800 game titles have been released for the PS2, with over 1.5 billion copies sold. Sony later manufactured several smaller, lighter revisions of the console known as Slimline models in 2004.
+
+Even with the release of its successor, the PlayStation 3, the PS2 remained popular well into the seventh generation, and continued to be produced until 2013, when Sony finally announced it had been discontinued after over twelve years of production – one of the longest lifespans of a video game console. Despite the announcement, new games for the console continued to be produced until the end of 2013, including Final Fantasy XI: Seekers of Adoulin for Japan, FIFA 13 for North America, and Pro Evolution Soccer 2014 for Europe. Repair services for the system in Japan ended on September 7, 2018.
+
+Contents
+
+1 History
+
+2 Hardware
+
+2.1 Video and audio
+
+2.2 Online support
+
+2.3 Retail configurations
+
+2.4 Disc Read Error lawsuit
+
+3 Games
+
+4 Reception
+
+4.1 Sales
+
+5 Accessories
+
+5.1 General
+
+5.2 Music
+
+5.3 Controllers
+
+5.4 Mouse and Keyboard
+
+6 Homebrew development
+
+7 Successor
+
+8 See also
+
+9 References
+
+History
+
+Though Sony has kept details of the PlayStation 2's development secret, work on the console began around the time that the original PlayStation was released (in late 1994). Insiders stated that it was developed in the U.S. West Coast by former members of Argonaut Software. By 1997 word had leaked to the press that the console would have backward-compatibility with the original PlayStation, a built-in DVD player, and Internet connectivity. Sony announced the PlayStation 2 (PS2) on March 1, 1999. The video game console was positioned as a competitor to Sega's Dreamcast, the first sixth-generation console to be released, although ultimately the main rivals of the PS2 were Nintendo's GameCube and Microsoft's Xbox. The Dreamcast itself launched very successfully in North America later that year, selling over 500,000 units within two weeks.
+
+Soon after the Dreamcast's North American launch, Sony unveiled the PlayStation 2 at the Tokyo Game Show on September 20, 1999. Sony showed fully playable demos of upcoming PlayStation 2 games including Gran Turismo 2000 (later released as Gran Turismo 3: A-Spec) and Tekken Tag Tournament – which showed the console's graphic abilities and power.
+
+The PS2 was launched in March 2000 in Japan, October in North America, and November in Europe. Sales of the console, games and accessories pulled in $250 million on the first day, beating the $97 million made on the first day of the Dreamcast. Directly after its release, it was difficult to find PS2 units on retailer shelves due to manufacturing delays. Another option was purchasing the console online through auction websites such as eBay, where people paid over a thousand dollars for the console. The PS2 initially sold well partly on the basis of the strength of the PlayStation brand and the console's backward-compatibility, selling over 980,000 units in Japan by March 5, 2000, one day after launch. This allowed the PS2 to tap the large install base established by the PlayStation – another major selling point over the competition. Later, Sony added new development kits for game developers and more PS2 units for consumers. The PS2's built-in functionality also expanded its audience beyond the gamer, as its debut pricing was the same or less than a standalone DVD player. This made the console a low cost entry into the home theater market.
+
+The success of the PS2 at the end of 2000 caused Sega problems both financially and competitively, and Sega announced the discontinuation of the Dreamcast in March 2001, just 18 months after its successful Western launch. Despite the Dreamcast still receiving support through 2001, the PS2 remained the only sixth generation console for over 6 months before it faced competition from new rivals: Nintendo's GameCube and Microsoft's Xbox. Many analysts predicted a close three-way matchup among the three consoles. The Xbox had the most powerful hardware, while the GameCube was the least expensive console, and Nintendo changed its policy to encourage third-party developers. While the PlayStation 2 theoretically had the weakest specification of the three, it had a head start due to its installed base plus strong developer commitment, as well as a built-in DVD player (the Xbox required an adapter, while the GameCube lacked support entirely). While the PlayStation 2's initial games lineup was considered mediocre, this changed during the 2001 holiday season with the release of several blockbuster games that maintained the PS2's sales momentum and held off its newer rivals. Sony also countered the Xbox by temporarily securing PlayStation 2 exclusives for highly anticipated games such as the Grand Theft Auto series and Metal Gear Solid 2: Sons of Liberty.
+
+Sony cut the price of the console in May 2002 from US$299 to $199 in North America, making it the same price as the GameCube and $100 less than the Xbox. It also planned to cut the price in Japan around that time. It cut the price twice in Japan in 2003. In 2006, Sony cut the cost of the console in anticipation of the release of the PlayStation 3.
+
+Sony, unlike Sega with its Dreamcast, originally placed little emphasis on online gaming during its first few years, although that changed upon the launch of the online-capable Xbox. Coinciding with the release of Xbox Live, Sony released the PlayStation Network Adapter in late 2002, with several online first–party titles released alongside it, such as SOCOM: U.S. Navy SEALs to demonstrate its active support for Internet play. Sony also advertised heavily, and its online model had the support of Electronic Arts (EA); EA did not offer online Xbox titles until 2004. Although Sony and Nintendo both started out late, and although both followed a decentralized model of online gaming where the responsibility is up to the developer to provide the servers, Sony's moves made online gaming a major selling point of the PS2.
+
+In September 2004, in time for the launch of Grand Theft Auto: San Andreas, Sony revealed a newer, slimmer PS2. In preparation for the launch of the new models (SCPH-700xx-9000x), Sony stopped making the older models (SCPH-3000x-500xx) to let the distribution channel empty its stock of the units. After an apparent manufacturing issue – Sony reportedly underestimated demand – caused some initial slowdown in producing the new unit caused in part by shortages between the time the old units were cleared out and the new units were ready. The issue was compounded in Britain when a Russian oil tanker became stuck in the Suez Canal, blocking a ship from China carrying PS2s bound for the UK. During one week in November, British sales totalled 6,000 units – compared to 70,000 units a few weeks prior. There were shortages in more than 1,700 stores in North America on the day before Christmas.
+
+Hardware
+
+Main article: PlayStation 2 technical specifications
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2015) (Learn how and when to remove this template message)
+
+Software for the PlayStation 2 was distributed primarily on DVD-ROM, with some titles being published on CD-ROM. In addition, the console can play audio CDs and DVD movies and is backward-compatible with almost all original PlayStation games. The PlayStation 2 also supports PlayStation memory cards and controllers, although original PlayStation memory cards will only work with original PlayStation games and the controllers may not support all functions (such as analog buttons) for PlayStation 2 games.
+
+The standard PlayStation 2 memory card has an 8 MB capacity. There are a variety of non-Sony manufactured memory cards available for the PlayStation 2, allowing for a memory capacity larger than the standard 8 MB.
+
+The console also features 2 USB ports, and 1 IEEE 1394 (Firewire) port (SCPH-10000 to 3900x only). A hard disk drive can be installed in an expansion bay on the back of the console, and is required to play certain games, notably the popular Final Fantasy XI. This is only available on certain models.
+
+The console uses the Emotion Engine CPU, custom-designed by Sony and Toshiba and based on the MIPS architecture with a floating point performance of 6.2 GFLOPS. The GPU is likewise custom-designed for the console and called the Graphics Synthesizer, with a fillrate of 2.4 gigapixels/second, capable of rendering up to 75 million polygons per second. When accounting for features such as lighting, texture mapping, artificial intelligence, and game physics, it has a real-world performance of 3 million to 16 million polygons per second.
+
+Video and audio
+
+The PlayStation 2 may natively output video resolutions on SDTV and HDTV from 480i to 480p while other games, such as Gran Turismo 4 and Tourist Trophy are known to support up-scaled 1080i resolution using any of the following standards: composite video (480i), S-Video (480i), RGB (480i/p), VGA (for progressive scan games and PS2 Linux only), YPBPR component video (which display most original PlayStation games in their native 240p mode which most HDTV sets do not support), and D-Terminal. Cables are available for all of these signal types; these cables also output analog stereo audio. Additionally, an RF modulator is available for the system to connect to older TVs.
+
+Digital (S/PDIF) audio may also be output by the console via its TOSLINK connector which outputs 2.0 PCM, 5.1, and 6.1 channel sound in Dolby Digital, Dolby Digital Surround EX, DTS, And DTS-ES formats.
+
+Online support
+
+Main article: PlayStation 2 online functionality
+
+See also: List of PlayStation 2 online games
+
+PlayStation 2 users had the option to play select games over the Internet, using dial-up or a broadband Internet connection. The PlayStation 2 Network Adaptor was required for the original models, while the slim models included networking ports on the console. Instead of having a unified, subscription-based online service like Xbox Live as competitor Microsoft later chose for its Xbox console, online multiplayer functionality on the PlayStation 2 was the responsibility of the game publisher and ran on third-party servers. Many games that supported online play exclusively supported broadband Internet access.
+
+Retail configurations
+
+Main article: PlayStation 2 retail configurations
+
+The PS2's controller, the DualShock 2, had the same form factor as the PlayStation DualShock.
+
+The PS2 has undergone many revisions, some only of internal construction and others involving substantial external changes.
+
+The PS2 is primarily differentiated between models featuring the original "fat" case design and "slimline" models, which were introduced at the end of 2004. In 2010, the Sony Bravia KDL-22PX300 was made available to consumers. It was a 22" HD-Ready television which incorporated a built-in PlayStation 2.
+
+The PS2 standard color is matte black. Several variations in color were produced in different quantities and regions, including ceramic white, light yellow, metallic blue (aqua), metallic silver, navy (star blue), opaque blue (astral blue), opaque black (midnight black), pearl white, sakura purple, satin gold, satin silver, snow white, super red, transparent blue (ocean blue), and also Limited Edition color Pink, which was distributed in some regions such as Oceania, and parts of Asia.
+
+In September 2004, Sony unveiled its third major hardware revision. Available in late October 2004, it was smaller, thinner, and quieter than the original versions and included a built-in Ethernet port (in some markets it also had an integrated modem). Due to its thinner profile, it did not contain the 3.5" expansion bay and therefore did not support the internal hard disk drive. It also lacked an internal power supply until a later revision (excluding the Japan version), similar to the GameCube, and had a modified Multitap expansion. The removal of the expansion bay was criticized as a limitation due to the existence of titles such as Final Fantasy XI, which required the use of the HDD.
+
+Sony also manufactured a consumer device called the PSX that can be used as a digital video recorder and DVD burner in addition to playing PS2 games. The device was released in Japan on December 13, 2003, and was the first Sony product to include the XrossMediaBar interface. It did not sell well in the Japanese market and was not released anywhere else.
+
+Disc Read Error lawsuit
+
+A class-action lawsuit was filed against Sony Computer Entertainment America Inc. on July 16, 2002, in the Superior Court of California, County of San Mateo. The lawsuit addresses consumer reports of inappropriate "no disc" error (disc read error) messages and other problems associated with playing DVDs and CDs on the PlayStation 2.
+
+Sony settled its "disc read error" lawsuit by compensating the affected customers with US$25, a free game from a specified list, and the reduced cost repair or replacement (at SCEA's discretion) of the damaged system. This settlement was subject to the courts' approval, and hearings began in the US and Canada on April 28, 2006, and May 11, 2006, respectively.
+
+Games
+
+See also: List of PlayStation 2 games, List of best-selling PlayStation 2 video games, and List of PlayStation games incompatible with PlayStation 2
+
+PlayStation 2 software is distributed on CD-ROM and DVD-ROM; the two formats are differentiated by the color of their discs' bottoms, with CD-ROMs being blue and DVD-ROMs being silver. The PlayStation 2 offered some particularly high-profile exclusive games. Most main entries in the Grand Theft Auto, Final Fantasy, and Metal Gear Solid series were released exclusively for the console. Several prolific series got their start on the PlayStation 2, including God of War, Ratchet Clank, Jak and Daxter, Devil May Cry, Kingdom Hearts, and Sly Cooper. Grand Theft Auto: San Andreas was the best-selling game on the console.
+
+Game releases peaked in 2004, but declined with the release of the PlayStation 3 in 2006. The last new games for the console were Final Fantasy XI: Seekers of Adoulin in Asia, FIFA 13 in North America, and Pro Evolution Soccer 2014 in Europe. As of June 30, 2007, a total of 10,035 software titles had been released worldwide including games released in multiple regions as separate titles.
+
+Reception
+
+Initial reviews in 2000 of the PlayStation 2 acclaimed the console, with reviewers commending its hardware and graphics capabilities, its ability to play DVDs, and the system's backwards compatibility with games and hardware for the original PlayStation. Early points of criticism included the lack of online support at the time, its inclusion of only two controller ports, and the system's price at launch compared to the Dreamcast in 2000. PC Magazine in 2001 called the console "outstanding", praising its "noteworthy components" such as the Emotion Engine CPU, 32MB of RAM, support for IEEE 1394 (branded as "i.LINK" by Sony and "FireWire" by Apple), and the console's two USB ports while criticizing its "expensive" games and its support for only two controllers without the multitap accessory.
+
+Later reviews, especially after the launch of the competing GameCube and Xbox systems, continued to praise the PlayStation 2's large game library and DVD playback, while routinely criticizing the PlayStation 2's lesser graphics performance compared to the newer systems and its rudimentary online service compared to Xbox Live. In 2002, CNET rated the console 7.3 out of 10, calling it a "safe bet" despite not being the "newest or most powerful", noting that the console "yields in-game graphics with more jagged edges". CNET also criticized the DVD playback functionality, claiming that the console's video quality was "passable" and that the playback controls were "rudimentary", recommending users to purchase a remote control. The console's two controller ports and expensiveness of its memory cards were also a point of criticism.
+
+Back of the slim model, showing its built in networking.
+
+The slim model of the PlayStation 2 received positive reviews, especially for its incredibly small size and built-in networking. The slim console's requirement for a separate power adapter was often criticized while the top-loading disc drive was often noted as being far less likely to break compared to the tray-loading drive of the original model.
+
+Sales
+
+Main article: PlayStation 2 sales
+
+Demand for the PlayStation 2 remained strong throughout much of its lifespan, selling over 1.4 million units in Japan by March 31, 2000. Over 10.6 million units were sold worldwide by March 31, 2001. In 2005, the PlayStation 2 became the fastest game console to reach 100 million units shipped, accomplishing the feat within 5 years and 9 months from its launch; this was surpassed 4 years later when the Nintendo DS reached 100 million shipments in 4 years and 5 months from its launch. By July 2009, the system had sold 138.8 million units worldwide, with 51 million of those units sold in PAL regions.
+
+Overall, over 155 million PlayStation 2 units were sold worldwide by March 31, 2012, the year Sony officially stopped supplying updated sales numbers of the system.
+
+Accessories
+
+Main article: PlayStation 2 accessories
+
+The EyeToy – a motion detecting camera
+
+The PlayStation 2's DualShock 2 controller is largely identical to the PlayStation's DualShock, with the same basic functionality. However, it includes analog pressure sensitivity on the face, shoulder and D-pad buttons, replacing the digital buttons of the original. (These buttons later became digital again with the release of the DualShock 4.) Like its predecessor, the DualShock 2 controller has force feedback, or "vibration" functionality. It is lighter and includes two more levels of vibration.
+
+The PlayStation 2 DVD remote control
+
+General
+
+An 8MB memory card for the PlayStation 2
+
+Optional hardware includes additional DualShock or DualShock 2 controllers, a PS2 DVD remote control, an internal or external hard disk drive (HDD), a network adapter, horizontal and vertical stands, PlayStation or PS2 memory cards, the multitap for PlayStation or PS2, a USB motion camera (EyeToy), a USB keyboard and mouse, and a headset.
+
+The original PS2 multitap (SCPH-10090) cannot be plugged into the newer slim models, as the multitap connects to the memory card slot as well as the controller slot and the memory card slot on the slimline is shallower. New slim-design multitaps (SCPH-70120) were manufactured for these models, however third-party adapters also exist to permit original multitaps to be used.
+
+Early versions of the PS2 could be networked via an i.LINK port, though this had little game support and was dropped. Some third party manufacturers have created devices that allow disabled people to access the PS2 through ordinary switches, etc.
+
+Some third-party companies, such as JoyTech, have produced LCD monitor and speaker attachments for the PS2, which attach to the back of the console. These allow users to play games without access to a television as long as there is access to mains electricity or a similar power source. These screens can fold down onto the PS2 in a similar fashion to laptop screens.
+
+Music
+
+SingStar microphones
+
+There are many accessories for musical games, such as dance pads for Dance Dance Revolution, In the Groove, and Pump It Up titles and High School Musical 3: Senior Year Dance. Konami microphones for use with the Karaoke Revolution games, dual microphones (sold with and used exclusively for SingStar games), various "guitar" controllers (for the Guitar Freaks series and Guitar Hero series), the drum set controller (sold in a box set (or by itself) with a "guitar" controller and a USB microphone (for use with Rock Band and Guitar Hero series, World Tour and newer), and a taiko drum controller for Taiko: Drum Master.
+
+Controllers
+
+Specialized controllers include light guns (GunCon), fishing rod and reel controllers, a Dragon Quest VIII "slime" controller, a Final Fantasy X-2 "Tiny Bee" dual pistol controller, an Onimusha 3 katana controller, and a Resident Evil 4 chainsaw controller.
+
+Mouse and Keyboard
+
+Unlike the PlayStation, which requires the use of an official Sony PlayStation Mouse to play mouse-compatible games, the few PS2 games with mouse support work with a standard USB mouse as well as a USB trackball. In addition, some of these games also support the usage of a USB keyboard for text input, game control (in lieu of a DualShock or DualShock 2 gamepad, in tandem with a USB mouse), or both.
+
+Homebrew development
+
+Main article: PlayStation 2 homebrew
+
+Using homebrew programs, it is possible to play various audio and video file formats on a PS2. Homebrew programs can also be used to play patched backups of original PS2 DVD games on unmodified consoles, and to install retail discs to an installed hard drive on older models. Homebrew emulators of older computer and gaming systems have been developed for the PS2.
+
+Sony released a Linux-based operating system, Linux for PlayStation 2, for the PS2 in a package that also includes a keyboard, mouse, Ethernet adapter and HDD. In Europe and Australia, the PS2 comes with a free Yabasic interpreter on the bundled demo disc. This allows users to create simple programs for the PS2. A port of the NetBSD project and BlackRhino GNU/Linux, an alternative Debian-based distribution, are also available for the PS2.
+
+Successor
+
+Main article: PlayStation 3
+
+A successor, the PlayStation 3 was released in Japan and North America in November 2006 and Europe in March 2007.
+
+See also
+
+Video games portal
+
+GScube
+
+Linux for PlayStation 2
+
+PCSX2 – PlayStation 2 (PS2) emulator for Microsoft Windows, Linux, and macOS
+
+PlayStation Broadband Navigator
+
+References
+
+^ Perry, Douglas (September 11, 1999). "Call It PlayStation 2". IGN. Archived from the original on October 22, 2019. Retrieved October 22, 2019.
+
+^ "Sony announces PS2 launch date and price". Gamespot. May 13, 2000. Archived from the original on October 22, 2019. Retrieved October 22, 2019.
+
+^ Goodley, Simon (August 5, 2000). "Sony delays UK launch of PlayStation 2". The Telegraph. Archived from the original on October 22, 2019. Retrieved October 22, 2019.
+
+^ プレイステーション2の日本国内での出荷が本日（2012年12月28日）で完了. Famitsu (in Japanese). Enterbrain. December 28, 2012. Archived from the original on December 28, 2012. Retrieved December 28, 2012.
+
+^ a b "PlayStation 2 manufacture ends after 12 years". The Guardian. January 4, 2013. Archived from the original on September 21, 2013. Retrieved January 4, 2013.
+
+^ a b c Diefendorff, Keith (April 19, 1999). "Sony's Emotionally Charged Chip" (PDF). Microprocessor Report. 13 (5). Archived (PDF) from the original on September 11, 2006. Retrieved June 22, 2017.
+
+^ Shiloy, Anton (February 26, 2007). "Sony Removes Emotion Engine, Graphics Synthesizer from PAL PlayStation 3". X-bit labs. Archived from the original on October 26, 2016. Retrieved May 7, 2014.
+
+^ John L. Hennessy and David A. Patterson. "Computer Architecture: A Quantitative Approach, Third Edition". ISBN 1-55860-724-2
+
+^ Shimpi, Anand. "Rambus DRAM: Uncovering Facts Burying Rumors". AnandTech. Archived from the original on February 19, 2017. Retrieved February 19, 2017.
+
+^ Perry, Douglass C. "The Untapped Power of PlayStation 2". IGN. Archived from the original on February 18, 2017. Retrieved February 18, 2017.
+
+^ Leadbetter, Richard (July 21, 2012). "Digital Foundry vs. PS2 Classics on PlayStation 3". Archived from the original on August 6, 2012. Retrieved February 19, 2017.
+
+^ Guinness (February 2009). Guinness World Records 2009 Gamer's Edition. pp. 108–109. ISBN 978-1-904994-45-9. GTA: San Andreas is the best-selling PlayStation 2 game, with a massive 17.33 million copies sold.
+
+^ "Cumulative Worldwide Hardware Unit Sales (Sell-In)". Sony Interactive Entertainment Business Development. Archived from the original on April 27, 2019. Retrieved October 30, 2019.
+
+^ Makuch, Eddie (February 15, 2011). "150 million PS2 units shipped worldwide". Asia.gamespot.com. Archived from the original on March 22, 2011.
+
+^ "Letters". Next Generation. No. 22. Imagine Media. October 1996. p. 203.
+
+^ a b "Saturn/PS-X Sequels". Next Generation. No. 27. Imagine Media. March 1997. p. 24.
+
+^ "Gaming Gossip". Electronic Gaming Monthly. No. 93. Ziff Davis. April 1997. p. 28.
+
+^ Whitehead, Dan (October 25, 2011). "Dreamcast: A Forensic Retrospective Article". Eurogamer.net. Archived from the original on October 15, 2014.
+
+^ "PlayStation 2 Timeline". GameSpy. p. 3. Archived from the original on June 4, 2004. Retrieved August 19, 2008.
+
+^ "A Look Back at the Sega Dreamcast". Archived from the original on January 18, 2016. Retrieved December 30, 2016.
+
+^ Perry, Douglass C. (September 20, 1999). "TGS 1999: Sony's Grand Showing". Archived from the original on July 28, 2017. Retrieved December 30, 2016.
+
+^ "Roosevelt Creative Arts Middle School –". Archived from the original on September 21, 2013. Retrieved December 30, 2016.
+
+^ "Sony Pulls in Over $250 Million at Launch". IGN. June 17, 2012. Archived from the original on September 21, 2013.
+
+^ "PlayStation 2 Timeline". GameSpy. pp. 2–3. Archived from the original on June 4, 2004. Retrieved December 19, 2007.
+
+^ "PS2 history". gamesindustry.biz. November 22, 2006. Archived from the original on October 11, 2007. Retrieved September 25, 2007.
+
+^ "PlayStation 2 Timeline". GameSpy. p. 3. Archived from the original on June 4, 2004. Retrieved December 19, 2007.
+
+^ "PlayStation 2 Timeline". GameSpy. p. 2. Archived from the original on June 4, 2004. Retrieved December 19, 2007.
+
+^ What Ever Happened To The Dreamcast?. TechnoBuffalo. Retrieved on August 23, 2013.
+
+^ "Hardware Behind the Consoles - Part II: Nintendo's GameCube". AnandTech. Archived from the original on May 11, 2013. Retrieved October 21, 2012.
+
+^ Morris, Chris (May 14, 2002). "Sony slashes PlayStation prices: Preemptive move undercuts competition and could spark video game price war". CNN. Archived from the original on November 30, 2005. Retrieved January 4, 2006.
+
+^ Gaither, Chris. "Sony to Cut PlayStation 2 Price by $100." New York Times: 0. May 14, 2002. ProQuest. Web. July 29, 2013.
+
+^ "Sony to Cut Price of PlayStation 2 in Japan Market --- Move Follows Plan to Lower Cost of Product in U.S. by a Third." Asian Wall Street Journal: 0. May 15, 2002. ProQuest. Web. July 29, 2013.
+
+^ a b "Sony to Cut Price of PlayStation 2 Game Console by 20 Percent." Knight Ridder Tribune Business News: 1. November 4, 2003. ProQuest. Web. July 29, 2013.
+
+^ Falcone, John (November 12, 2002). "Sony PlayStation 2 Online Adaptor review". CNET. Retrieved May 19, 2020.
+
+^ Elliott, Valerie (December 9, 2004). "Merry Christmas, your PlayStation 2 is stuck in Suez". Times Online. News International. Archived from the original on March 16, 2007. Retrieved April 1, 2007.
+
+^ "2004 Holiday Sales Results Call". GameStop. Archived from the original on May 5, 2012. Retrieved September 9, 2006.
+
+^ "Playstation 1 and Playstation 2 Compatibility". web.archive.org. December 6, 2018. Retrieved July 15, 2020.
+
+^ "Memory Card (8MB) (for PlayStation 2)". web.archive.org. March 5, 2016. Retrieved July 15, 2020.
+
+^ "Final Fantasy XI Review for PlayStation 2 – GameSpot". Uk.gamespot.com. March 23, 2004. Archived from the original on July 21, 2011. Retrieved November 11, 2010.
+
+^ "SONY COMPUTER ENTERTAINMENT ANNOUNCES WORLD'S FASTEST 128 Bit CPU "EMOTION ENGINE" FOR THE NEXT GENERATION PLAYSTATION". Ars Technica. March 2, 1999. Archived from the original on May 10, 2000. Retrieved February 1, 2020.
+
+^ a b Casamassina, Matt (November 3, 2000). "Gamecube Versus PlayStation 2". IGN. Archived from the original on November 4, 2014. Retrieved November 14, 2014.
+
+^ Reaching for the limits of PS2 performance (page 32), SCEE, 2003
+
+^ 
+"Gran Turismo 4 - #9 Top PS2 Games". IGN. Archived from the original on February 26, 2016. Retrieved March 1, 2016.
+
+^ "Amazon.com: TRADERPLUS 6FT AV to RCA Composite Cable Cord for Sony Playstation 2 (PS2), Playstation 3 (PS3): Video Games". web.archive.org. September 6, 2019. Retrieved July 15, 2020.
+
+^ "Amazon.com: 6' S-Video Cable for PlayStation 2 (Black): Video Games". web.archive.org. March 12, 2015. Retrieved July 15, 2020.
+
+^ "Sony Playstation RGB SCART lead Sync on Luma PS1 PS2 GROUNDED cable co | Retro Access". web.archive.org. July 15, 2020. Retrieved July 15, 2020.
+
+^ "Official Sony Genuine PS2 Linux VGA Cable Playstation 2  | eBay". web.archive.org. July 15, 2020. Retrieved July 15, 2020.
+
+^ "Amazon.com: Gam3Gear Component AV Audio Video Cable for PS3 PS2: Artist Not Provided: Electronics". web.archive.org. February 27, 2020. Retrieved July 15, 2020.
+
+^ "240p — HD Retrovision". web.archive.org. November 18, 2019. Retrieved July 15, 2020.
+
+^ "Amazon.com: (PS3/PS2 for) D Terminal Cable: Video Games". web.archive.org. February 28, 2015. Retrieved July 15, 2020.
+
+^ "PS2 - Installation using an RFU adapter" (PDF).
+
+^ "Using optical cable for PS2 - ecoustics.com". ecoustics. Retrieved July 15, 2020.
+
+^ "PS2 Model Identification - PS2 Model Numbers". web.archive.org. October 31, 2019. Retrieved July 15, 2020.
+
+^ Trenholm, Richard. "Sony Bravia KDL-22PX300 TV with PS2 built-in parties like it's 2000". CNET. Retrieved February 22, 2020.
+
+^ "The PS2 Isn't Gone, It's In This TV". Kotaku. Retrieved February 22, 2020.
+
+^ Calvert, Justin (November 4, 2003). "PS2 price drop, new colors for Japan". GameSpot. Archived from the original on June 29, 2011. Retrieved July 10, 2007.
+
+^ Fahey, Rob (March 9, 2004). "Sony launches new PS2 colors in Japan". gamesindustry.biz. Archived from the original on September 30, 2007. Retrieved July 10, 2007.
+
+^ A list of all console colors and console Limited Editions Archived May 27, 2007, at the Wayback Machine. Consolecolors.com
+
+^ "Sony PSX (DVR) | Video Game Console Library". March 25, 2019. Archived from the original on March 25, 2019. Retrieved February 22, 2020.
+
+^ Sony Settles PS2 "Disc Read Error" Class Action Archived June 4, 2010, at the Wayback Machine Gamasutra, November 10, 2005
+
+^ "Cumulative Software Titles". Sony Computer Entertainment Inc. Archived from the original on September 21, 2008. Retrieved September 19, 2014.
+
+^ Marriott, Michel (October 26, 2000). "PlayStation 2: Game Console as Trojan Horse". The New York Times. ISSN 0362-4331. Archived from the original on July 13, 2019. Retrieved August 30, 2019.
+
+^ "Hardware Review - Sony PlayStation 2". www.thedigitalbits.com. Archived from the original on August 30, 2019. Retrieved August 30, 2019.
+
+^ Sarrel, By Matthew D.; March 6, 2001 12:00AM EST; March 6, 2001. "Sony Playstation 2". PCMAG. Archived from the original on August 30, 2019. Retrieved August 30, 2019.CS1 maint: numeric names: authors list (link)
+
+^ Gladstone, Darren. "Sony PS2 review: Sony PS2". CNET. Archived from the original on July 2, 2019. Retrieved August 30, 2019.
+
+^ Falcone, John. "Sony PlayStation 2 (slim form factor)". CNET. Archived from the original on August 30, 2019. Retrieved August 30, 2019.
+
+^ Pocket-lint (January 28, 2005). "Slim-line PlayStation 2 (PS2)". Pocket-lint. Archived from the original on August 30, 2019. Retrieved August 30, 2019.
+
+^ "PlayStation®2 Cumulative Production Shipments of Hardware ｜ CORPORATE INFORMATION ｜ Sony Computer Entertainment Inc". June 9, 2012. Archived from the original on June 9, 2012. Retrieved August 30, 2019.
+
+^ "Nintendo Ships 100 Millionth Portable Nintendo DS System". Nintendo. March 11, 2009. Archived from the original on January 15, 2020. Retrieved March 11, 2009.
+
+^ "Wayback Machine" (PDF). September 2, 2009. Archived (PDF) from the original on September 2, 2009. Retrieved August 30, 2019.
+
+^ "SIE Business Development | Sony Interactive Entertainment Inc". www.sie.com. Archived from the original on April 27, 2019. Retrieved August 30, 2019.
+
+^ "Dual Shock 2 Review". IGN. September 27, 2001. Archived from the original on May 15, 2011. Retrieved February 7, 2011. The biggest difference between the Dual Shock 2 and the original… all of the buttons and even the digital pad offer analog support. This means that the d-pad, the four face buttons and the four shift buttons are all pressure-sensitive and have 255 degrees of sensitivity. It is also worth noting that the Dual Shock 2 is a bit lighter than the original Dual Shock because it appears to have less in the way of gears for the vibration function of the controller.
+
+^ Cavalli, Earnest (October 24, 2013). "DualShock 4 drops analog buttons, citing lack of interest". Engadget. Archived from the original on September 21, 2015. Retrieved August 16, 2015.
+
+^ "PlayStation Knowledge Center | Support - PlayStation.com". Us.playstation.com. January 10, 2011. Archived from the original on November 26, 2011. Retrieved March 27, 2011.
+
+^ PS2 Emulators – "Archived copy". Archived from the original on June 12, 2008. Retrieved June 9, 2008.CS1 maint: archived copy as title (link)
+
+v
+
+t
+
+e
+
+PlayStation
+
+Sony Interactive Entertainment
+
+SIE Worldwide Studios
+
+Consoles
+
+Home consoles 
+PlayStation
+Models
+
+Main hardware
+
+PlayStation 2
+Models
+
+Main hardware
+
+PlayStation 3
+Models
+
+Main hardware
+
+System software
+
+PlayStation 4
+Models
+
+Main hardware
+
+System software
+
+PlayStation 5
+
+Handhelds 
+PocketStation
+
+PlayStation Portable
+System software
+
+PlayStation Vita
+System software
+
+Miscellaneous 
+PSX
+
+PlayStation TV
+
+PlayStation Classic
+
+Games
+
+PS1 
+A–L
+
+M–Z
+
+Best-selling
+
+PS one Classics
+JP
+
+NA
+
+PAL
+
+PocketStation 
+A-Z
+
+PS2 
+A–K
+
+L–Z
+
+Best-selling
+
+Online games
+
+PS2 Classics for PS3
+
+PS2 games for PS4
+
+PS3 
+Best-selling
+
+Physical
+
+Digital only
+
+3D games
+
+PS Move games
+
+PS4 
+A–L
+
+M–Z
+
+Best-selling
+
+Free-to-play
+
+PSVR games
+
+PS5 
+A–Z
+
+PSP 
+Physical and digital
+
+System software compatibilities
+
+PS Minis
+
+PS Vita 
+A–L
+
+M–O
+
+P–R
+
+S
+
+T–V
+
+W–Z
+
+Other 
+PS Mobile
+
+TurboGrafx-16 Classics
+
+NEOGEO Station
+
+Classics HD
+
+Reprints 
+Greatest Hits
+
+Essentials
+
+The Best
+
+BigHit Series
+
+Network 
+PlayStation Network
+2011 outage
+
+Central Station
+
+FirstPlay
+
+PlayStation App
+
+PlayStation Home
+
+PlayStation Mobile
+
+PlayStation Now
+
+PlayStation Store
+
+PlayStation Video
+
+PlayStation Vue
+
+PS2 online
+
+Room for PSP
+
+VidZone
+
+Accessories
+
+Controllers 
+PlayStation controller
+
+PlayStation Mouse
+
+Analog Joystick
+
+Dual Analog
+
+DualShock
+
+Sixaxis
+
+PlayStation Move
+
+Cameras 
+EyeToy
+
+Go!Cam
+
+PlayStation Eye
+
+PlayStation Camera
+
+Miscellaneous 
+Multitap
+
+Link Cable
+
+PS2 accessories
+
+PS2 Headset
+
+PS3 accessories
+
+PlayTV
+
+Wonderbook
+
+PlayStation VR
+
+Kits 
+Net Yaroze
+
+PS2 Linux
+
+GScube
+
+OtherOS
+
+Zego
+
+Media
+
+Magazines 
+Official U.S. PlayStation Magazine
+
+PlayStation: The Official Magazine
+
+PlayStation Official Magazine – UK
+
+PlayStation Official Magazine – Australia
+
+PlayStation Underground
+
+Advertisements 
+Double Life
+
+Mountain
+
+PlayStation marketing
+
+Characters 
+Toro
+
+Polygon Man
+
+Kevin Butler
+
+Marcus Rivers
+
+Arcade boards 
+Namco System 11
+
+System 12
+
+System 10
+
+System 246
+
+System 357
+
+Related 
+Super NES CD-ROM
+
+Sony Ericsson Xperia Play
+
+ Category
+
+v
+
+t
+
+e
+
+Sony
+
+Founders 
+Masaru Ibuka
+
+Akio Morita
+
+Key personnel 
+Shuzo Sumi (Chairman of the Board)
+
+Kazuo Matsunaga (Vice Chairman of the Board)
+
+Kenichiro Yoshida (Chairman, President and CEO)
+
+Shigeki Ishizuka (Vice Chairman)
+
+Primary businesses 
+Sony Entertainment
+Sony Music Group
+
+Sony Pictures
+
+Sony Pictures Japan
+
+Sony Pictures India
+
+Sony Financial Holdings
+Sony Life
+
+Sony Bank
+
+Sony Interactive Entertainment
+PlayStation
+
+Sony Mobile
+
+Sony Music Japan
+
+Technologies
+
+and brands 
+α (Alpha)
+
+Betacam
+
+Bionz
+
+Blu-ray
+
+BRAVIA
+
+CD
+
+Cell
+
+Cyber-shot
+
+Dash
+
+Dream Machine
+
+DVD
+
+Exmor
+
+FeliCa
+
+Handycam
+
+HDCAM/HDCAM-SR
+
+LocationFree
+
+Memory Stick
+
+MiniDisc
+
+MiniDV
+
+MicroMV
+
+mylo
+
+PlayNow
+
+PlayStation
+
+Reader
+
+S/PDIF
+
+SDDS
+8 channel films
+
+Sony Entertainment Network
+
+SXRD
+
+Sony Tablet
+
+Tunnel diode
+
+TransferJet
+
+UMD
+
+Vaio
+
+Video8/Hi8/Digital8
+
+Walkman
+
+Walkman Phones
+
+XDCAM
+
+Xperia
+
+HMZ-T1
+
+Historical products 
+AIBO
+
+CV-2000
+
+DAT
+
+Betamax
+
+Sony CLIÉ
+
+Discman
+
+Jumbotron
+
+Lissa
+
+Mavica
+
+NEWS
+
+Sony Optiarc
+
+Qualia
+
+Rolly
+
+TR-55
+
+Trinitron
+
+1 inch Type C (BVH series)
+
+U-matic
+
+Watchman
+
+WEGA
+
+Electronics 
+Sony Electronics (US subsidiary)
+
+Sony Energy Devices
+
+Sony Creative Software
+
+FeliCa Networks (57%)
+
+v
+
+t
+
+e
+
+Sony Interactive Entertainment
+
+Key personnel 
+Kaz Hirai
+
+Andrew House
+
+Ken Kutaragi
+
+Shawn Layden
+
+Shuhei Yoshida
+
+v
+
+t
+
+e
+
+SIE Worldwide Studios
+
+Franchises 
+Ape Escape
+
+Arc the Lad
+
+Bloodborne
+
+Boku no Natsuyasumi
+
+Colony Wars
+
+Dark Cloud
+
+Everybody's Golf
+
+Fat Princess
+
+G-Police
+
+God of War
+
+Gran Turismo
+
+Infamous
+
+Jak and Daxter
+
+Killzone
+
+LittleBigPlanet
+
+MediEvil
+
+MotorStorm
+
+PaRappa the Rapper
+
+Patapon
+
+Rally Cross
+
+Ratchet Clank
+
+Resistance
+
+Sly Cooper
+
+SOCOM
+
+Syphon Filter
+
+The Last of Us
+
+Tomba!
+
+Twisted Metal
+
+Uncharted
+
+Vib-Ribbon
+
+White Knight Chronicles
+
+Wild Arms
+
+Wipeout
+
+Divisions 
+Japan Studio
+Team Gravity
+
+London Studio
+
+Pixelopus
+
+San Diego Studio
+
+San Mateo Studio
+
+Santa Monica Studio
+
+Subsidiaries 
+Bend Studio
+
+Guerrilla Games
+
+Insomniac Games
+
+Media Molecule
+
+Naughty Dog
+
+Polyphony Digital
+
+Sucker Punch Productions
+
+Former 
+989 Studios
+
+Bigbig Studios
+
+Camden Studio
+
+Contrail
+
+Evolution Studios
+
+Guerrilla Cambridge
+
+Incognito Entertainment
+
+Psygnosis
+
+Studio Liverpool
+
+Team Ico
+
+Team Soho
+
+Zipper Interactive
+
+Related 
+Sony Interactive Entertainment
+list of games
+
+v
+
+t
+
+e
+
+PlayStation
+
+Sony Interactive Entertainment
+
+SIE Worldwide Studios
+
+Consoles
+
+Home consoles 
+PlayStation
+Models
+
+Main hardware
+
+PlayStation 2
+Models
+
+Main hardware
+
+PlayStation 3
+Models
+
+Main hardware
+
+System software
+
+PlayStation 4
+Models
+
+Main hardware
+
+System software
+
+PlayStation 5
+
+Handhelds 
+PocketStation
+
+PlayStation Portable
+System software
+
+PlayStation Vita
+System software
+
+Miscellaneous 
+PSX
+
+PlayStation TV
+
+PlayStation Classic
+
+Games
+
+PS1 
+A–L
+
+M–Z
+
+Best-selling
+
+PS one Classics
+JP
+
+NA
+
+PAL
+
+PocketStation 
+A-Z
+
+PS2 
+A–K
+
+L–Z
+
+Best-selling
+
+Online games
+
+PS2 Classics for PS3
+
+PS2 games for PS4
+
+PS3 
+Best-selling
+
+Physical
+
+Digital only
+
+3D games
+
+PS Move games
+
+PS4 
+A–L
+
+M–Z
+
+Best-selling
+
+Free-to-play
+
+PSVR games
+
+PS5 
+A–Z
+
+PSP 
+Physical and digital
+
+System software compatibilities
+
+PS Minis
+
+PS Vita 
+A–L
+
+M–O
+
+P–R
+
+S
+
+T–V
+
+W–Z
+
+Other 
+PS Mobile
+
+TurboGrafx-16 Classics
+
+NEOGEO Station
+
+Classics HD
+
+Reprints 
+Greatest Hits
+
+Essentials
+
+The Best
+
+BigHit Series
+
+Network 
+PlayStation Network
+2011 outage
+
+Central Station
+
+FirstPlay
+
+PlayStation App
+
+PlayStation Home
+
+PlayStation Mobile
+
+PlayStation Now
+
+PlayStation Store
+
+PlayStation Video
+
+PlayStation Vue
+
+PS2 online
+
+Room for PSP
+
+VidZone
+
+Accessories
+
+Controllers 
+PlayStation controller
+
+PlayStation Mouse
+
+Analog Joystick
+
+Dual Analog
+
+DualShock
+
+Sixaxis
+
+PlayStation Move
+
+Cameras 
+EyeToy
+
+Go!Cam
+
+PlayStation Eye
+
+PlayStation Camera
+
+Miscellaneous 
+Multitap
+
+Link Cable
+
+PS2 accessories
+
+PS2 Headset
+
+PS3 accessories
+
+PlayTV
+
+Wonderbook
+
+PlayStation VR
+
+Kits 
+Net Yaroze
+
+PS2 Linux
+
+GScube
+
+OtherOS
+
+Zego
+
+Media
+
+Magazines 
+Official U.S. PlayStation Magazine
+
+PlayStation: The Official Magazine
+
+PlayStation Official Magazine – UK
+
+PlayStation Official Magazine – Australia
+
+PlayStation Underground
+
+Advertisements 
+Double Life
+
+Mountain
+
+PlayStation marketing
+
+Characters 
+Toro
+
+Polygon Man
+
+Kevin Butler
+
+Marcus Rivers
+
+Arcade boards 
+Namco System 11
+
+System 12
+
+System 10
+
+System 246
+
+System 357
+
+Related 
+Super NES CD-ROM
+
+Sony Ericsson Xperia Play
+
+ Category
+
+Other 
+Gaikai
+
+SN Systems
+
+Cellius (49%)
+
+Dimps
+
+toio
+
+ Category
+
+v
+
+t
+
+e
+
+Sony Music Entertainment
+
+Key personnel 
+Rob Stringer
+
+Kevin Kelleher
+
+Flagship 
+Columbia Records
+
+RCA Records
+
+Epic Records
+
+Arista Records
+
+Nashville 
+Columbia Nashville
+
+Arista Nashville
+
+RCA Records Nashville
+
+Provident Label Group
+
+Sony Masterworks 
+Sony Classical Records
+
+Portrait Records
+
+Milan Records
+
+RCA Red Seal Records
+
+Okeh Records
+
+UK 
+Black Butter Records
+
+Syco Music (50%)
+
+Relentless Records
+
+Ministry of Sound
+
+Japan 
+Epic Records Japan
+
+Ki/oon Music
+
+Ariola Japan
+
+BMG Japan
+
+mora
+
+Sacra Music
+
+Aniplex
+Aniplex of America
+
+A-1 Pictures
+
+CloverWorks
+
+Funimation (95%, co-owned with Sony Pictures Television)
+Manga Entertainment (UK branch only)
+
+Madman Anime Group
+
+AnimeLab
+
+Wakanim
+
+Music On! TV
+
+Peanuts Worldwide (39%)
+
+Distribution 
+The Orchard
+IODA
+
+RED Distribution
+
+Red Essential
+
+TVT Records
+
+Other labels 
+RCA Inspiration
+
+Phonogenic Records
+
+Ultra Music
+
+Century Media Records
+
+Legacy Recordings
+
+Kemosabe Records
+
+Ricordi
+
+Robbins Entertainment
+
+Sony/ATV Music Publishing
+
+Sony Music Australia
+
+Sony Music India
+
+Sony Music Latin
+
+Vevo
+
+Volcano Entertainment
+
+v
+
+t
+
+e
+
+Sony Pictures Entertainment
+
+Key personnel 
+Tony Vinciquerra
+
+Tom Rothman
+
+Motion
+
+Picture Group 
+Columbia Pictures
+
+TriStar Pictures
+
+TriStar Productions
+
+Screen Gems
+
+Classics
+
+Imageworks
+
+Animation
+
+Worldwide Acquisitions
+Destination Films
+
+Stage 6 Films
+
+Affirm Films
+
+Sony Pictures Home Entertainment
+Sony Wonder
+
+Television
+
+U.S. production 
+Sony Crackle
+The Minisode Network
+
+Embassy Row
+
+TriStar Television
+
+International production 
+2waytraffic
+
+Left Bank Pictures
+
+Playmaker Media
+
+Silvergate Media
+
+Stellify Media
+
+Teleset
+
+Distribution 
+Funimation (95%, co-owned with Aniplex)
+Manga Entertainment (UK)
+
+Madman Anime Group
+
+AnimeLab
+
+Wakanim
+
+v
+
+t
+
+e
+
+Sony Pictures Television TV channels and VOD platforms
+
+O = online VOD platform
+
+Americas
+
+U.S. networks 
+Sony Movie Channel
+
+Game Show Network
+
+getTV
+
+Cine Sony
+
+Sony CrackleO
+
+Defunct
+
+3net (JV with Discovery and IMAX)
+
+Fearnet (JV with Comcast and Lionsgate)
+
+Canada 
+Former
+
+Sony Movie Channel and AXN Movies (rebranded)
+
+Latin America 
+AXN
+
+Lifetime 
+
+Sony Channel
+
+Defunct
+
+Animax
+
+Locomotion
+
+Sony Spin
+
+Asia
+
+Indian
+
+sub-continent
+
+v
+
+t
+
+e
+
+Sony Pictures Networks India
+
+Hindi 
+Sony Entertainment Television
+
+Sony Max
+
+Sony Max 2
+
+Sony Pal
+
+Sony Sab
+
+Sony Wah
+
+English 
+Sony Pix
+
+Bengali 
+Sony Aath
+
+Sports 
+Sony Six
+
+Sony Ten
+Sony Ten 1
+
+Sony Ten 2
+
+Sony Ten 3
+
+Music 
+Sony Mix
+
+Other 
+Sony BBC Earth (50%; Joint venture with BBC Studios)
+
+Sony Yay
+
+Online VOD 
+Sony LIV
+
+Former 
+Animax
+
+AXN
+
+Sony ESPN (50%; Joint venture with ESPN Inc.)
+
+Sony Le Plex
+
+Sony Rox
+
+Sony Ten Golf
+
+TEN Cricket International
+
+Japan 
+Animax
+Animax PlusO
+
+AXN
+AXN Mystery
+
+AXN PlusO
+
+Star Channel 
+
+Taiwan 
+Former
+
+AXN
+
+Animax
+Animax HD
+
+Southeast
+
+Asia 
+Defunct
+
+AXN Beyond
+
+BeTV
+
+HOOQO 
+
+Sony Channel
+
+Former
+
+Animax
+
+AXN
+
+Gem 
+
+Sony One
+
+Europe,
+
+Middle
+
+East,
+
+Africa
+
+(EMEA)
+
+Germany 
+AnimaxO
+
+Sony AXN
+
+Sony Channel
+
+Defunct
+
+Animax (linear television)
+
+Italy 
+Defunct
+
+AXN
+
+AXN Sci Fi
+
+Cine Sony
+
+Pop
+
+The
+
+Netherlands 
+Defunct
+
+Film1 Festival
+
+Film1 Sundance
+
+Former
+
+Film1
+Film1 Action
+
+Film1 Drama
+
+Film1 Family
+
+Film1 Premiere
+
+Portugal 
+AXN
+AXN Movies
+
+AXN NowO
+
+AXN White
+
+Defunct
+
+Animax
+
+AXN Black
+
+Russia 
+Sony Channel
+
+Sony Sci-Fi
+
+Sony Turbo
+
+Spain 
+AXN
+AXN NowO
+
+AXN White
+
+Defunct
+
+Animax
+
+Turkey 
+Sony Channel
+
+Sony Çocuk
+
+Planet Mutfak
+
+Planet Türk
+
+UK Ireland
+
+v
+
+t
+
+e
+
+Television channels in the United Kingdom and Ireland operated by Sony Pictures Television
+
+Current 
+Pop
+
+Pop Max
+
+Sony Channel
+
+Sony Movies
+
+Sony Movies Action
+
+Sony Movies Classic
+
+Tiny Pop
+
+Former 
+Bliss
+
+Flava
+
+More Than Movies
+
+Movies4Men
+
+Movies4Men 2
+
+Pop Girl
+
+Scuzz
+
+Sony Crime Channel
+
+True Crime
+
+True Drama
+
+True Entertainment
+
+True Movies
+
+True Movies 2
+
+TruTV
+
+Miscellaneous 
+Sony Pictures Television
+
+CSC Media Group
+
+animaxtv.co.uk (VOD, defunct)
+
+Funimation
+
+Baltics 
+Sony Channel
+
+Sony Sci-Fi
+
+Sony Turbo
+
+Central and
+
+Eastern
+
+Europe
+
+(CEE) 
+AXN
+Adria
+
+Hungary
+AXN NowO
+
+AXN Black
+
+AXN Spin
+
+AXN White
+
+Sony Max
+
+Sony Movie Channel
+
+Viasat Hungary
+Viasat 3
+
+Viasat 6
+
+Defunct
+
+Animax
+
+AXN Crime
+
+AXN Sci-Fi
+
+Middle East 
+AXN Middle East
+Arabic
+
+English
+
+Defunct
+
+AXN Israel
+
+Africa 
+Defunct
+
+Animax
+
+Sony Channel
+
+Sony MAX
+
+Other 
+Digital
+Mobile
+
+Entertainment Japan
+
+Family Entertainment Group
+
+Studios
+
+Madison Gate Records
+
+Ghost Corps
+
+Defunct 
+Adelaide Productions
+
+Columbia Pictures Television
+
+Columbia TriStar Television
+
+Culver Entertainment
+
+Merv Griffin Enterprises
+
+ELP Communications
+
+Online distribution
+
+platforms 
+PlayStation Network
+PlayStation Now
+
+PlayStation Store
+
+PlayStation Video
+
+PlayStation Plus
+
+PlayStation Vue
+
+defunct
+PlayNow
+
+Sony Entertainment Network
+
+Sony Crackle
+Minisodes
+
+Sony Liv
+
+Other businesses 
+Sony DADC
+
+Sony Network Communications
+
+Sony Professional Solutions
+
+M3 (39.4%)
+
+Sony/ATV Music Publishing
+APM Music
+
+EMI Music Publishing
+
+Extreme Music
+
+Hickory Records
+
+EMI Production Music
+
+Vaio (4.9%)
+
+Other assets 
+Sony Corporation of America (umbrella company in the US)
+
+Other subsidiaries
+
+List of acquisitions
+
+Nonprofit organizations 
+Sony Institute of Higher Education Shohoku College
+
+Other 
+History of Sony
+
+Sony Toshiba IBM Center of Competence for the Cell Processor
+
+Sony timer
+
+v
+
+t
+
+e
+
+Video game consoles
+(sixth generation)
+
+Types 
+Home video game console
+list
+
+Handheld game console
+list
+
+Microconsole
+list
+
+Dedicated console
+list
+
+Generations 
+First (1972–80)
+
+Second (1976–92)
+
+Third (1983–2003)
+
+Fourth (1987–2004)
+
+Fifth (1993–2005)
+
+Sixth (1998–2013)
+
+Seventh (2005–17)
+
+Eighth (2012–present)
+
+Sixth
+
+generation
+
+Home 
+DISCover
+
+Dreamcast
+
+GameCube
+Panasonic Q
+
+Nuon
+
+PlayStation 2
+
+V.Smile
+
+Xavix
+
+Xbox
+
+Handheld 
+Game Boy Advance family
+Game Boy Advance
+
+Advance SP
+
+Micro
+
+GP32
+
+N-Gage
+QD
+
+Neo Geo Pocket Color
+
+SwanCrystal
+
+Tapwave Zodiac
+
+Dedicated 
+Pocket Dream Console
+
+← Fifth generation
+
+Seventh generation →
+
+Emulator
+
+Game
+
+History
+
+List
+
+Manufacturer
+
+v
+
+t
+
+e
+
+Home video game consoles
+
+Atari 
+Atari 2600
+
+Atari 5200
+
+Atari 7800
+
+Atari XEGS
+
+Atari Jaguar
+
+Atari VCS
+
+Bandai 
+Super Vision 8000
+
+Arcadia
+
+RX-78
+
+Playdia
+
+Apple Bandai Pippin
+
+Casio 
+PV-1000
+
+Casio Loopy
+
+Commodore 
+Commodore 64 Games System
+
+Commodore CDTV
+
+Amiga CD32
+
+Epoch Co. 
+Epoch Cassette Vision
+
+Super Cassette Vision
+
+Intellivision Entertainment 
+Intellivision Amico
+
+Mattel 
+Intellivision
+
+HyperScan
+
+Microsoft 
+Xbox
+
+Xbox 360
+
+Xbox One
+
+Xbox Series X
+
+NEC 
+TurboGrafx-16
+
+PC-FX
+
+Nintendo 
+NES
+
+SNES
+
+N64
+
+GameCube
+
+Wii
+
+Wii U
+
+Switch
+
+Panasonic 
+3DO Interactive Multiplayer
+
+Panasonic Q
+
+Philips 
+Magnavox Odyssey
+
+Odyssey²
+
+Videopac + G7400
+
+Philips CD-i
+
+RCA 
+RCA Studio II
+
+RCA Nuon
+
+Sega 
+SG-1000
+
+Master System
+
+Sega Genesis
+
+Sega Saturn
+
+Dreamcast
+
+SNK 
+Neo Geo
+
+Neo Geo CD
+
+Sony 
+PlayStation
+
+PlayStation 2
+
+PSX
+
+PlayStation 3
+
+PlayStation 4
+
+PlayStation 5
+
+VTech 
+VTech CreatiVision
+
+Socrates
+
+V.Smile
+
+V.Flash
+
+Others
+
+1970s 
+APF-MP1000
+
+Bally Astrocade
+
+Fairchild Channel F
+
+Interton VC 4000/1292 Advanced Programmable Video System
+
+1980s 
+Action Max
+
+Arcadia 2001
+
+ColecoVision
+
+Gakken Compact Vision TV Boy
+
+RDI Halcyon
+
+Vectrex
+
+View-Master Interactive Vision
+
+1990s 
+3DO Interactive Multiplayer
+
+Amstrad GX4000
+
+CPS Changer
+
+FM Towns Marty
+
+LaserActive
+
+Super A'Can
+
+2000s 
+DISCover
+
+EVO Smart Console
+
+Game Wave
+
+Nuon
+
+Xavix
+
+Zeebo
+
+List
+
+Authority control 
+GND: 4619543-9

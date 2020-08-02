@@ -1,0 +1,2595 @@
+"Discovery and exploration of outer space
+
+"Space Exploration" redirects here. For the company, see SpaceX.
+
+Humans explore the lunar surface
+
+This Kuiper belt object, known as Ultima Thule, is the farthest closely visited Solar System body, seen in 2019
+
+Space exploration is the use of astronomy and space technology to explore outer space. While the exploration of space is carried out mainly by astronomers with telescopes, its physical exploration though is conducted both by unmanned robotic space probes and human spaceflight. Space exploration, like its classical form astronomy, is one of the main sources for space science.
+
+While the observation of objects in space, known as astronomy, predates reliable recorded history, it was the development of large and relatively efficient rockets during the mid-twentieth century that allowed physical space exploration to become a reality. Common rationales for exploring space include advancing scientific research, national prestige, uniting different nations, ensuring the future survival of humanity, and developing military and strategic advantages against other countries.
+
+The early era of space exploration was driven by a "Space Race" between the Soviet Union and the United States. The launch of the first human-made object to orbit Earth, the Soviet Union's Sputnik 1, on 4 October 1957, and the first Moon landing by the American Apollo 11 mission on 20 July 1969 are often taken as landmarks for this initial period. The Soviet space program achieved many of the first milestones, including the first living being in orbit in 1957, the first human spaceflight (Yuri Gagarin aboard Vostok 1) in 1961, the first spacewalk (by Alexei Leonov) on 18 March 1965, the first automatic landing on another celestial body in 1966, and the launch of the first space station (Salyut 1) in 1971. 
+After the first 20 years of exploration, focus shifted from one-off flights to renewable hardware, such as the Space Shuttle program, and from competition to cooperation as with the International Space Station (ISS).
+
+With the substantial completion of the ISS following STS-133 in March 2011, plans for space exploration by the U.S. remain in flux. Constellation, a Bush Administration program for a return to the Moon by 2020 was judged inadequately funded and unrealistic by an expert review panel reporting in 2009. 
+The Obama Administration proposed a revision of Constellation in 2010 to focus on the development of the capability for crewed missions beyond low Earth orbit (LEO), envisioning extending the operation of the ISS beyond 2020, transferring the development of launch vehicles for human crews from NASA to the private sector, and developing technology to enable missions to beyond LEO, such as Earth–Moon L1, the Moon, Earth–Sun L2, near-Earth asteroids, and Phobos or Mars orbit.
+
+In the 2000s, the People's Republic of China initiated a successful manned spaceflight program, while the European Union, Japan, and India have also planned future crewed space missions. China, Russia, Japan, and India have advocated crewed missions to the Moon during the 21st century, while the European Union has advocated manned missions to both the Moon and Mars during the 20th and 21st century.
+
+From the 1990s onwards, private interests began promoting space tourism and then public space exploration of the Moon (see Google Lunar X Prize).
+
+Contents
+
+1 History of exploration
+
+1.1 Telescope
+
+1.2 First outer space flights
+
+1.3 First human outer space flight
+
+1.4 First astronomical body space explorations
+
+1.5 First space station
+
+1.6 First interstellar space flight
+
+1.7 Farthest from Earth
+
+1.8 Key people in early space exploration
+
+2 Targets of exploration
+
+2.1 The Sun
+
+2.2 Mercury
+
+2.3 Venus
+
+2.4 Earth
+
+2.5 The Moon
+
+2.6 Mars
+
+2.7 Phobos
+
+2.8 Jupiter
+
+2.9 Saturn
+
+2.10 Uranus
+
+2.11 Neptune
+
+2.12 Other objects in the Solar System
+
+2.13 Asteroids and comets
+
+2.14 Deep space exploration
+
+3 Future of space exploration
+
+3.1 Breakthrough Starshot
+
+3.2 Asteroids
+
+3.3 James Webb Space Telescope
+
+3.4 Artemis program
+
+4 Rationales
+
+5 Topics
+
+5.1 Spaceflight
+
+5.2 Satellites
+
+5.3 Commercialization of space
+
+5.4 Alien life
+
+5.5 Human spaceflight and habitation
+
+5.5.1 Human representation and participation
+
+5.5.1.1 Women
+
+5.6 Art
+
+6 See also
+
+6.1 Robotic space exploration programs
+
+6.2 Living in space
+
+6.2.1 Animals in space
+
+6.2.2 Humans in space
+
+6.3 Recent and future developments
+
+6.4 Other
+
+7 References
+
+8 Further reading
+
+9 External links
+
+History of exploration
+
+See also: Timeline of space exploration, History of astronomy, Timeline of first orbital launches by country, and Outer space § Discovery
+
+Most orbital flight actually takes place in upper layers of the atmosphere, especially in the thermosphere (not to scale)
+
+Timeline of Solar System exploration.
+
+In July 1950 the first Bumper rocket is launched from Cape Canaveral, Florida. The Bumper was a two-stage rocket consisting of a Post-War V-2 topped by a WAC Corporal rocket. It could reach then-record altitudes of almost 400 km. Launched by General Electric Company, this Bumper was used primarily for testing rocket systems and for research on the upper atmosphere. They carried small payloads that allowed them to measure attributes including air temperature and cosmic ray impacts.
+
+Telescope
+
+The first telescope was said to be invented in 1608 in the Netherlands by an eyeglass maker named Hans Lippershey. The Orbiting Astronomical Observatory 2 was the first space telescope launched on December 7, 1968. As of February 2, 2019, there was 3,891 confirmed exoplanets discovered. The Milky Way is estimated to contain 100–400 billion stars and more than 100 billion planets. There are at least 2 trillion galaxies in the observable universe. GN-z11 is the most distant known object from Earth, reported as 32 billion light-years away.
+
+First outer space flights
+
+Sputnik 1, the first artificial satellite orbited Earth at 939 to 215 km (583 to 134 mi) in 1957, and was soon followed by Sputnik 2. See First satellite by country (Replica Pictured)
+
+Apollo CSM in lunar orbit
+
+Apollo 17 astronaut Harrison Schmitt standing next to a boulder at Taurus-Littrow.
+
+In 1949, the Bumper-WAC reached an altitude of 393 kilometres (244 mi), becoming the first human-made object to enter space, according to NASA, although V-2 Rocket MW 18014 crossed the Kármán line earlier, in 1944.
+
+The first successful orbital launch was of the Soviet uncrewed Sputnik 1 ("Satellite 1") mission on 4 October 1957. The satellite weighed about 83 kg (183 lb), and is believed to have orbited Earth at a height of about 250 km (160 mi). It had two radio transmitters (20 and 40 MHz), which emitted "beeps" that could be heard by radios around the globe. Analysis of the radio signals was used to gather information about the electron density of the ionosphere, while temperature and pressure data was encoded in the duration of radio beeps. The results indicated that the satellite was not punctured by a meteoroid. Sputnik 1 was launched by an R-7 rocket. It burned up upon re-entry on 3 January 1958.
+
+First human outer space flight
+
+The first successful human spaceflight was Vostok 1 ("East 1"), carrying 27-year-old Russian cosmonaut Yuri Gagarin on 12 April 1961. The spacecraft completed one orbit around the globe, lasting about 1 hour and 48 minutes. Gagarin's flight resonated around the world; it was a demonstration of the advanced Soviet space program and it opened an entirely new era in space exploration: human spaceflight.
+
+First astronomical body space explorations
+
+The first artificial object to reach another celestial body was Luna 2 reaching the Moon in 1959. The first soft landing on another celestial body was performed by Luna 9 landing on the Moon on February 3, 1966. Luna 10 became the first artificial satellite of the Moon, entering Moon Orbit on April 3, 1966.
+
+The first crewed landing on another celestial body was performed by Apollo 11 on July 20, 1969, landing on the Moon. There have been a total of six spacecraft with humans landing on the Moon starting from 1969 to the last human landing in 1972.
+
+The first interplanetary flyby was the 1961 Venera 1 flyby of Venus, though the 1962 Mariner 2 was the first flyby of Venus to return data (closest approach 34,773 kilometers). Pioneer 6 was the first satellite to orbit the Sun, launched on December 16, 1965. The other planets were first flown by in 1965 for Mars by Mariner 4, 1973 for Jupiter by Pioneer 10, 1974 for Mercury by Mariner 10, 1979 for Saturn by Pioneer 11, 1986 for Uranus by Voyager 2, 1989 for Neptune by Voyager 2. In 2015, the dwarf planets Ceres and Pluto were orbited by Dawn and passed by New Horizons, respectively. This accounts for flybys of each of the eight planets in our Solar System, the Sun, the Moon and Ceres Pluto (2 of the 5 recognized dwarf planets).
+
+The first interplanetary surface mission to return at least limited surface data from another planet was the 1970 landing of Venera 7 which returned data to Earth for 23 minutes from Venus. In 1975 the Venera 9 was the first to return images from the surface of another planet, returning images from Venus. In 1971 the Mars 3 mission achieved the first soft landing on Mars returning data for almost 20 seconds. Later much longer duration surface missions were achieved, including over six years of Mars surface operation by Viking 1 from 1975 to 1982 and over two hours of transmission from the surface of Venus by Venera 13 in 1982, the longest ever Soviet planetary surface mission. Venus and Mars are the two planets outside of Earth, humans have conducted surface missions on with unmanned robotic spacecraft.
+
+First space station
+
+Salyut 1 was the first space station of any kind, launched into low Earth orbit by the Soviet Union on April 19, 1971. The International Space Station is currently the only fully functional space station, with continuous inhabitance since the year 2000.
+
+First interstellar space flight
+
+Voyager 1 became the first human-made object to leave our Solar System into interstellar space on August 25, 2012. The probe passed the heliopause at 121 AU to enter interstellar space.
+
+Farthest from Earth
+
+The Apollo 13 flight passed the far side of the Moon at an altitude of 254 kilometers (158 miles; 137 nautical miles) above the lunar surface, and 400,171 km (248,655 mi) from Earth, marking the record for the farthest humans have ever traveled from Earth in 1970.
+
+Voyager 1 is currently at a distance of 145.11 astronomical units (2.1708×1010 km; 1.3489×1010 mi) (21.708 billion kilometers; 13.489 billion miles) from Earth as of January 1, 2019. It is the most distant human-made object from Earth.
+
+GN-z11 is the most distant known object from Earth, reported as 13.4 billion light-years away.
+
+Key people in early space exploration
+
+The dream of stepping into the outer reaches of Earth's atmosphere was driven by the fiction of Jules Verne and H. G. Wells, and rocket technology was developed to try to realize this vision. The German V-2 was the first rocket to travel into space, overcoming the problems of thrust and material failure. During the final days of World War II this technology was obtained by both the Americans and Soviets as were its designers. The initial driving force for further development of the technology was a weapons race for intercontinental ballistic missiles (ICBMs) to be used as long-range carriers for fast nuclear weapon delivery, but in 1961 when the Soviet Union launched the first man into space, the United States declared itself to be in a "Space Race" with the Soviets.
+
+Konstantin Tsiolkovsky, Robert Goddard, Hermann Oberth, and Reinhold Tiling laid the groundwork of rocketry in the early years of the 20th century.
+
+Wernher von Braun was the lead rocket engineer for Nazi Germany's World War II V-2 rocket project. In the last days of the war he led a caravan of workers in the German rocket program to the American lines, where they surrendered and were brought to the United States to work on their rocket development ("Operation Paperclip"). He acquired American citizenship and led the team that developed and launched Explorer 1, the first American satellite. Von Braun later led the team at NASA's Marshall Space Flight Center which developed the Saturn V moon rocket.
+
+Initially the race for space was often led by Sergei Korolev, whose legacy includes both the R7 and Soyuz—which remain in service to this day. Korolev was the mastermind behind the first satellite, first man (and first woman) in orbit and first spacewalk. Until his death his identity was a closely guarded state secret; not even his mother knew that he was responsible for creating the Soviet space program.
+
+Kerim Kerimov was one of the founders of the Soviet space program and was one of the lead architects behind the first human spaceflight (Vostok 1) alongside Sergey Korolev. After Korolev's death in 1966, Kerimov became the lead scientist of the Soviet space program and was responsible for the launch of the first space stations from 1971 to 1991, including the Salyut and Mir series, and their precursors in 1967, the Cosmos 186 and Cosmos 188.
+
+Other key people:
+
+Valentin Glushko was Chief Engine Designer for the Soviet Union. Glushko designed many of the engines used on the early Soviet rockets, but was constantly at odds with Korolev.
+
+Vasily Mishin was Chief Designer working under Sergey Korolev and one of the first Soviets to inspect the captured German V-2 design. Following the death of Sergei Korolev, Mishin was held responsible for the Soviet failure to be first country to place a man on the Moon.
+
+Robert Gilruth was the NASA head of the Space Task Force and director of 25 crewed space flights. Gilruth was the person who suggested to John F. Kennedy that the Americans take the bold step of reaching the Moon in an attempt to reclaim space superiority from the Soviets.
+
+Christopher C. Kraft, Jr. was NASA's first flight director, who oversaw development of Mission Control and associated technologies and procedures.
+
+Maxime Faget was the designer of the Mercury capsule; he played a key role in designing the Gemini and Apollo spacecraft, and contributed to the design of the Space Shuttle.
+
+Targets of exploration
+
+The Moon as seen in a digitally processed image from data collected during the 1992 Galileo spacecraft flyby
+
+Starting in the mid-20th century probes and then human mission were sent into Earth orbit, and then on to the Moon. Also, probes were sent throughout the known Solar system, and into Solar orbit. Unmanned spacecraft have been sent into orbit around Saturn, Jupiter, Mars, Venus, and Mercury by the 21st century, and the most distance active spacecraft, Voyager 1 and 2 traveled beyond 100 times the Earth-Sun distance. The instruments were enough though that it is thought they have left the Sun's heliosphere, a sort of bubble of particles made in the Galaxy by the Sun's solar wind.
+
+The Sun
+
+The Sun is a major focus of space exploration. Being above the atmosphere in particular and Earth's magnetic field gives access to the solar wind and infrared and ultraviolet radiations that cannot reach Earth's surface. The Sun generates most space weather, which can affect power generation and transmission systems on Earth and interfere with, and even damage, satellites and space probes. Numerous spacecraft dedicated to observing the Sun, beginning with the Apollo Telescope Mount, have been launched and still others have had solar observation as a secondary objective. Parker Solar Probe, launched in 2018, will approach the Sun to within 1/8th the orbit of Mercury.
+
+Mercury
+
+Main article: Exploration of Mercury
+
+MESSENGER image of Mercury (2013)
+
+A MESSENGER image from 18,000 km showing a region about 500 km across (2008)
+
+Mercury remains the least explored of the Terrestrial planets. As of May 2013, the Mariner 10 and MESSENGER missions have been the only missions that have made close observations of Mercury. MESSENGER entered orbit around Mercury in March 2011, to further investigate the observations made by Mariner 10 in 1975 (Munsell, 2006b).
+
+A third mission to Mercury, scheduled to arrive in 2025, BepiColombo is to include two probes. BepiColombo is a joint mission between Japan and the European Space Agency. MESSENGER and BepiColombo are intended to gather complementary data to help scientists understand many of the mysteries discovered by Mariner 10's flybys.
+
+Flights to other planets within the Solar System are accomplished at a cost in energy, which is described by the net change in velocity of the spacecraft, or delta-v. Due to the relatively high delta-v to reach Mercury and its proximity to the Sun, it is difficult to explore and orbits around it are rather unstable.
+
+Venus
+
+Mariner 10 image of Venus (1974)
+
+Main article: Observations and explorations of Venus
+
+Venus was the first target of interplanetary flyby and lander missions and, despite one of the most hostile surface environments in the Solar System, has had more landers sent to it (nearly all from the Soviet Union) than any other planet in the Solar System. The first flyby was the 1961 Venera 1, though the 1962 Mariner 2 was the first flyby to successfully return data. Mariner 2 has been followed by several other flybys by multiple space agencies often as part of missions using a Venus flyby to provide a gravitational assist en route to other celestial bodies. In 1967 Venera 4 became the first probe to enter and directly examine the atmosphere of Venus. In 1970, Venera 7 became the first successful lander to reach the surface of Venus and by 1985 it had been followed by eight additional successful Soviet Venus landers which provided images and other direct surface data. Starting in 1975 with the Soviet orbiter Venera 9 some ten successful orbiter missions have been sent to Venus, including later missions which were able to map the surface of Venus using radar to pierce the obscuring atmosphere.
+
+Earth
+
+First television image of Earth from space, taken by TIROS-1. (1960)
+
+The Blue Marble Earth picture taken during Apollo 17 (1972)
+
+Main article: Earth observation satellite
+
+Space exploration has been used as a tool to understand Earth as a celestial object in its own right. Orbital missions can provide data for Earth that can be difficult or impossible to obtain from a purely ground-based point of reference.
+
+For example, the existence of the Van Allen radiation belts was unknown until their discovery by the United States' first artificial satellite, Explorer 1. These belts contain radiation trapped by Earth's magnetic fields, which currently renders construction of habitable space stations above 1000 km impractical.
+Following this early unexpected discovery, a large number of Earth observation satellites have been deployed specifically to explore Earth from a space based perspective. These satellites have significantly contributed to the understanding of a variety of Earth-based phenomena. For instance, the hole in the ozone layer was found by an artificial satellite that was exploring Earth's atmosphere, and satellites have allowed for the discovery of archeological sites or geological formations that were difficult or impossible to otherwise identify.
+
+The Moon
+
+The Moon (2010)
+
+Main article: Exploration of the Moon
+
+Apollo 16 LEM Orion, the Lunar Roving Vehicle and astronaut John Young (1972)
+
+The Moon was the first celestial body to be the object of space exploration. It holds the distinctions of being the first remote celestial object to be flown by, orbited, and landed upon by spacecraft, and the only remote celestial object ever to be visited by humans.
+
+In 1959 the Soviets obtained the first images of the far side of the Moon, never previously visible to humans. The U.S. exploration of the Moon began with the Ranger 4 impactor in 1962. Starting in 1966 the Soviets successfully deployed a number of landers to the Moon which were able to obtain data directly from the Moon's surface; just four months later, Surveyor 1 marked the debut of a successful series of U.S. landers. The Soviet uncrewed missions culminated in the Lunokhod program in the early 1970s, which included the first uncrewed rovers and also successfully brought lunar soil samples to Earth for study. This marked the first (and to date the only) automated return of extraterrestrial soil samples to Earth. Uncrewed exploration of the Moon continues with various nations periodically deploying lunar orbiters, and in 2008 the Indian Moon Impact Probe.
+
+Crewed exploration of the Moon began in 1968 with the Apollo 8 mission that successfully orbited the Moon, the first time any extraterrestrial object was orbited by humans. In 1969, the Apollo 11 mission marked the first time humans set foot upon another world. Crewed exploration of the Moon did not continue for long, however. The Apollo 17 mission in 1972 marked the sixth landing and the most recent human visit there. Artemis 2 will flyby the Moon in 2022. Robotic missions are still pursued vigorously.
+
+Mars
+
+Mars, as seen by the Hubble Space Telescope (2003)
+
+Surface of Mars by the Spirit rover (2004)
+
+Main article: Exploration of Mars
+
+The exploration of Mars has been an important part of the space exploration programs of the Soviet Union (later Russia), the United States, Europe, Japan and India. Dozens of robotic spacecraft, including orbiters, landers, and rovers, have been launched toward Mars since the 1960s. These missions were aimed at gathering data about current conditions and answering questions about the history of Mars. The questions raised by the scientific community are expected to not only give a better appreciation of the red planet but also yield further insight into the past, and possible future, of Earth.
+
+The exploration of Mars has come at a considerable financial cost with roughly two-thirds of all spacecraft destined for Mars failing before completing their missions, with some failing before they even began. Such a high failure rate can be attributed to the complexity and large number of variables involved in an interplanetary journey, and has led researchers to jokingly speak of The Great Galactic Ghoul which subsists on a diet of Mars probes. This phenomenon is also informally known as the "Mars Curse".
+In contrast to overall high failure rates in the exploration of Mars, India has become the first country to achieve success of its maiden attempt. India's Mars Orbiter Mission (MOM) is one of the least expensive interplanetary missions ever undertaken with an approximate total cost of ₹450 Crore (US$73 million). The first mission to Mars by any Arab country has been taken up by the United Arab Emirates. Called the Emirates Mars Mission, it is scheduled for launch in 2020. The uncrewed exploratory probe has been named "Hope Probe" and will be sent to Mars to study its atmosphere in detail.
+
+SpaceX CEO Elon Musk hopes that the SpaceX Starship will explore the Mars.
+
+Phobos
+
+Phobos (moon) (2008)
+
+Main article: Exploration of Phobos
+
+The Russian space mission Fobos-Grunt, which launched on 9 November 2011 experienced a failure leaving it stranded in low Earth orbit. It was to begin exploration of the Phobos and Martian circumterrestrial orbit, and study whether the moons of Mars, or at least Phobos, could be a "trans-shipment point" for spaceships traveling to Mars.
+
+Jupiter
+
+Jupiter, as seen by the Hubble Space Telescope (2019).
+
+Main article: Exploration of Jupiter
+
+The exploration of Jupiter has consisted solely of a number of automated NASA spacecraft visiting the planet since 1973. A large majority of the missions have been "flybys", in which detailed observations are taken without the probe landing or entering orbit; such as in Pioneer and Voyager programs. The Galileo and Juno spacecraft are the only spacecraft to have entered the planet's orbit. As Jupiter is believed to have only a relatively small rocky core and no real solid surface, a landing mission is precluded.
+
+Reaching Jupiter from Earth requires a delta-v of 9.2 km/s, which is comparable to the 9.7 km/s delta-v needed to reach low Earth orbit. Fortunately, gravity assists through planetary flybys can be used to reduce the energy required at launch to reach Jupiter, albeit at the cost of a significantly longer flight duration.
+
+Jupiter has 79 known moons, many of which have relatively little known information about them.
+
+Saturn
+
+A picture of Saturn taken by Cassini (2004)
+
+Main article: Exploration of Saturn
+
+A view beneath the clouds of Titan, as seen in false colour, created from a mosaic of images taken by Cassini (2013)
+
+Saturn has been explored only through uncrewed spacecraft launched by NASA, including one mission (Cassini–Huygens) planned and executed in cooperation with other space agencies. These missions consist of flybys in 1979 by Pioneer 11, in 1980 by Voyager 1, in 1982 by Voyager 2 and an orbital mission by the Cassini spacecraft, which lasted from 2004 until 2017.
+
+Saturn has at least 62 known moons, although the exact number is debatable since Saturn's rings are made up of vast numbers of independently orbiting objects of varying sizes. The largest of the moons is Titan, which holds the distinction of being the only moon in the Solar System with an atmosphere denser and thicker than that of Earth. Titan holds the distinction of being the only object in the Outer Solar System that has been explored with a lander, the Huygens probe deployed by the Cassini spacecraft.
+
+Uranus
+
+Uranus as imaged by Voyager 2 (1986)
+
+Main article: Exploration of Uranus
+
+The exploration of Uranus has been entirely through the Voyager 2 spacecraft, with no other visits currently planned. Given its axial tilt of 97.77°, with its polar regions exposed to sunlight or darkness for long periods, scientists were not sure what to expect at Uranus. The closest approach to Uranus occurred on 24 January 1986. Voyager 2 studied the planet's unique atmosphere and magnetosphere. Voyager 2 also examined its ring system and the moons of Uranus including all five of the previously known moons, while discovering an additional ten previously unknown moons.
+
+Images of Uranus proved to have a very uniform appearance, with no evidence of the dramatic storms or atmospheric banding evident on Jupiter and Saturn. Great effort was required to even identify a few clouds in the images of the planet. The magnetosphere of Uranus, however, proved to be unique, being profoundly affected by the planet's unusual axial tilt. In contrast to the bland appearance of Uranus itself, striking images were obtained of the Moons of Uranus, including evidence that Miranda had been unusually geologically active.
+
+Neptune
+
+A picture of Neptune taken by Voyager 2 (1989)
+
+Main article: Exploration of Neptune
+
+Triton as imaged by Voyager 2 (1989)
+
+The exploration of Neptune began with the 25 August 1989 Voyager 2 flyby, the sole visit to the system as of 2014. The possibility of a Neptune Orbiter has been discussed, but no other missions have been given serious thought.
+
+Although the extremely uniform appearance of Uranus during Voyager 2's visit in 1986 had led to expectations that Neptune would also have few visible atmospheric phenomena, the spacecraft found that Neptune had obvious banding, visible clouds, auroras, and even a conspicuous anticyclone storm system rivaled in size only by Jupiter's small Spot. Neptune also proved to have the fastest winds of any planet in the Solar System, measured as high as 2,100 km/h. Voyager 2 also examined Neptune's ring and moon system. It discovered 900 complete rings and additional partial ring "arcs" around Neptune. In addition to examining Neptune's three previously known moons, Voyager 2 also discovered five previously unknown moons, one of which, Proteus, proved to be the last largest moon in the system. Data from Voyager 2 supported the view that Neptune's largest moon, Triton, is a captured Kuiper belt object.
+
+Other objects in the Solar System
+
+New Horizons image of Pluto (2015)
+
+Main article: Pluto § Exploration
+
+New Horizons image of Charon (2015)
+
+The dwarf planet Pluto presents significant challenges for spacecraft because of its great distance from Earth (requiring high velocity for reasonable trip times) and small mass (making capture into orbit very difficult at present). Voyager 1 could have visited Pluto, but controllers opted instead for a close flyby of Saturn's moon Titan, resulting in a trajectory incompatible with a Pluto flyby. Voyager 2 never had a plausible trajectory for reaching Pluto.
+
+Pluto continues to be of great interest, despite its reclassification as the lead and nearest member of a new and growing class of distant icy bodies of intermediate size (and also the first member of the important subclass, defined by orbit and known as "plutinos"). After an intense political battle, a mission to Pluto dubbed New Horizons was granted funding from the United States government in 2003. New Horizons was launched successfully on 19 January 2006. In early 2007 the craft made use of a gravity assist from Jupiter. Its closest approach to Pluto was on 14 July 2015; scientific observations of Pluto began five months prior to closest approach and continued for 16 days after the encounter.
+
+Asteroids and comets
+
+Main articles: Exploration of the asteroids and List of missions to comets
+
+Comet 103P/Hartley (2010)
+
+Asteroid 4 Vesta, imaged by the Dawn spacecraft (2011)
+
+Until the advent of space travel, objects in the asteroid belt were merely pinpricks of light in even the largest telescopes, their shapes and terrain remaining a mystery.
+Several asteroids have now been visited by probes, the first of which was Galileo, which flew past two: 951 Gaspra in 1991, followed by 243 Ida in 1993. Both of these lay near enough to Galileo's planned trajectory to Jupiter that they could be visited at acceptable cost. The first landing on an asteroid was performed by the NEAR Shoemaker probe in 2000, following an orbital survey of the object. The dwarf planet Ceres and the asteroid 4 Vesta, two of the three largest asteroids, were visited by NASA's Dawn spacecraft, launched in 2007.
+
+Although many comets have been studied from Earth sometimes with centuries-worth of observations, only a few comets have been closely visited. In 1985, the International Cometary Explorer conducted the first comet fly-by (21P/Giacobini-Zinner) before joining the Halley Armada studying the famous comet. The Deep Impact probe smashed into 9P/Tempel to learn more about its structure and composition and the Stardust mission returned samples of another comet's tail. The Philae lander successfully landed on Comet Churyumov–Gerasimenko in 2014 as part of the broader Rosetta mission.
+
+Hayabusa was a robotic spacecraft developed by the Japan Aerospace Exploration Agency to return a sample of material from the small near-Earth asteroid 25143 Itokawa to Earth for further analysis. Hayabusa was launched on 9 May 2003 and rendezvoused with Itokawa in mid-September 2005. After arriving at Itokawa, Hayabusa studied the asteroid's shape, spin, topography, color, composition, density, and history. In November 2005, it landed on the asteroid twice to collect samples. The spacecraft returned to Earth on 13 June 2010.
+
+Deep space exploration
+
+Main article: Deep space exploration
+
+This high-resolution image of the Hubble Ultra Deep Field includes galaxies of various ages, sizes, shapes, and colors. The smallest, reddest galaxies, are some of the most distant galaxies to have been imaged by an optical telescope.
+
+Deep space exploration is the branch of astronomy, astronautics and space technology that is involved with the exploration of distant regions of outer space. Physical exploration of space is conducted both by human spaceflights (deep-space astronautics) and by robotic spacecraft.
+
+Some of the best candidates for future deep space engine technologies include anti-matter, nuclear power and beamed propulsion. The latter, beamed propulsion, appears to be the best candidate for deep space exploration presently available, since it uses known physics and known technology that is being developed for other purposes.
+
+Chandra, Hubble, and Spitzer image NGC 1952
+
+Star cluster Pismis 24 and NGC 6357
+
+Whirlpool Galaxy (Messier 51)
+
+Future of space exploration
+
+Concept art for a NASA Vision mission
+
+Artistic image of a rocket lifting from a Saturn moon
+
+The United States' planned Space Launch System concept art
+
+Main article: Future of space exploration
+
+Breakthrough Starshot
+
+Main article: Breakthrough Starshot
+
+Breakthrough Starshot is a research and engineering project by the Breakthrough Initiatives to develop a proof-of-concept fleet of light sail spacecraft named StarChip, to be capable of making the journey to the Alpha Centauri star system 4.37 light-years away. It was founded in 2016 by Yuri Milner, Stephen Hawking, and Mark Zuckerberg.
+
+Asteroids
+
+Main article: Exploration of the asteroids
+
+An article in science magazine Nature suggested the use of asteroids as a gateway for space exploration, with the ultimate destination being Mars. In order to make such an approach viable, three requirements need to be fulfilled: first, "a thorough asteroid survey to find thousands of nearby bodies suitable for astronauts to visit"; second, "extending flight duration and distance capability to ever-increasing ranges out to Mars"; and finally, "developing better robotic vehicles and tools to enable astronauts to explore an asteroid regardless of its size, shape or spin." Furthermore, using asteroids would provide astronauts with protection from galactic cosmic rays, with mission crews being able to land on them without great risk to radiation exposure.
+
+James Webb Space Telescope
+
+Main article: James Webb Space Telescope
+
+The James Webb Space Telescope (JWST or "Webb") is a space telescope that is planned to be the successor to the Hubble Space Telescope. The JWST will provide greatly improved resolution and sensitivity over the Hubble, and will enable a broad range of investigations across the fields of astronomy and cosmology, including observing some of the most distant events and objects in the universe, such as the formation of the first galaxies. Other goals include understanding the formation of stars and planets, and direct imaging of exoplanets and novas.
+
+The primary mirror of the JWST, the Optical Telescope Element, is composed of 18 hexagonal mirror segments made of gold-plated beryllium which combine to create a 6.5-meter (21 ft; 260 in) diameter mirror that is much larger than the Hubble's 2.4-meter (7.9 ft; 94 in) mirror. Unlike the Hubble, which observes in the near ultraviolet, visible, and near infrared (0.1 to 1 μm) spectra, the JWST will observe in a lower frequency range, from long-wavelength visible light through mid-infrared (0.6 to 27 μm), which will allow it to observe high redshift objects that are too old and too distant for the Hubble to observe. The telescope must be kept very cold in order to observe in the infrared without interference, so it will be deployed in space near the Earth–Sun L2 Lagrangian point, and a large sunshield made of silicon- and aluminum-coated Kapton will keep its mirror and instruments below 50 K (−220 °C; −370 °F).
+
+Artemis program
+
+Main article: Artemis program
+
+The Artemis program is an ongoing crewed spaceflight program carried out by NASA, U.S. commercial spaceflight companies, and international partners such as ESA, with the goal of landing "the first woman and the next man" on the Moon, specifically at the lunar south pole region by 2024. Artemis would be the next step towards the long-term goal of establishing a sustainable presence on the Moon, laying the foundation for private companies to build a lunar economy, and eventually sending humans to Mars.
+
+In 2017, the lunar campaign was authorized by Space Policy Directive 1, utilizing various ongoing spacecraft programs such as Orion, the Lunar Gateway, Commercial Lunar Payload Services, and adding an undeveloped crewed lander. The Space Launch System will serve as the primary launch vehicle for Orion, while commercial launch vehicles are planned for use to launch various other elements of the campaign. NASA requested $1.6 billion in additional funding for Artemis for fiscal year 2020, while the Senate Appropriations Committee requested from NASA a five-year budget profile which is needed for evaluation and approval by Congress.
+
+Rationales
+
+Main article: Space advocacy
+
+Astronaut Buzz Aldrin had a personal Communion service when he first arrived on the surface of the Moon.
+
+The research that is conducted by national space exploration agencies, such as NASA and Roscosmos, is one of the reasons supporters cite to justify government expenses. Economic analyses of the NASA programs often showed ongoing economic benefits (such as NASA spin-offs), generating many times the revenue of the cost of the program. It is also argued that space exploration would lead to the extraction of resources on other planets and especially asteroids, which contain billions of dollars that worth of minerals and metals. Such expeditions could generate a lot of revenue. In addition, it has been argued that space exploration programs help inspire youth to study in science and engineering. Space exploration also gives scientists the ability to perform experiments in other settings and expand humanity's knowledge.
+
+Another claim is that space exploration is a necessity to mankind and that staying on Earth will lead to extinction. Some of the reasons are lack of natural resources, comets, nuclear war, and worldwide epidemic. Stephen Hawking, renowned British theoretical physicist, said that "I don't think the human race will survive the next thousand years, unless we spread into space. There are too many accidents that can befall life on a single planet. But I'm an optimist. We will reach out to the stars." Arthur C. Clarke (1950) presented a summary of motivations for the human exploration of space in his non-fiction semi-technical monograph Interplanetary Flight. He argued that humanity's choice is essentially between expansion off Earth into space, versus cultural (and eventually biological) stagnation and death.
+
+NASA has produced a series of public service announcement videos supporting the concept of space exploration.
+
+Overall, the public remains largely supportive of both crewed and uncrewed space exploration. According to an Associated Press Poll conducted in July 2003, 71% of U.S. citizens agreed with the statement that the space program is "a good investment", compared to 21% who did not.
+
+Topics
+
+Delta-v's in km/s for various orbital maneuvers
+
+Spaceflight
+
+Main article: Spaceflight
+
+Spaceflight is the use of space technology to achieve the flight of spacecraft into and through outer space.
+
+Spaceflight is used in space exploration, and also in commercial activities like space tourism and satellite telecommunications. Additional non-commercial uses of spaceflight include space observatories, reconnaissance satellites and other Earth observation satellites.
+
+A spaceflight typically begins with a rocket launch, which provides the initial thrust to overcome the force of gravity and propels the spacecraft from the surface of Earth. Once in space, the motion of a spacecraft—both when unpropelled and when under propulsion—is covered by the area of study called astrodynamics. Some spacecraft remain in space indefinitely, some disintegrate during atmospheric reentry, and others reach a planetary or lunar surface for landing or impact.
+
+Satellites
+
+Main article: Satellite
+
+Satellites are used for a large number of purposes. Common types include military (spy) and civilian Earth observation satellites, communication satellites, navigation satellites, weather satellites, and research satellites. Space stations and human spacecraft in orbit are also satellites.
+
+Commercialization of space
+
+Main article: Commercialization of space
+
+Current examples of the commercial use of space include satellite navigation systems, satellite television and satellite radio. Space tourism is the recent phenomenon of space travel by individuals for the purpose of personal pleasure.
+
+Private spaceflight companies such as SpaceX and Blue Origin, and commercial space stations such as the Axiom Space and the Bigelow Commercial Space Station have dramatically changed the landscape of space exploration, and will continue to do so in the near future.
+
+Alien life
+
+Main articles: Astrobiology and Extraterrestrial life
+
+Astrobiology is the interdisciplinary study of life in the universe, combining aspects of astronomy, biology and geology. It is focused primarily on the study of the origin, distribution and evolution of life. It is also known as exobiology (from Greek: έξω, exo, "outside"). The term "Xenobiology" has been used as well, but this is technically incorrect because its terminology means "biology of the foreigners". Astrobiologists must also consider the possibility of life that is chemically entirely distinct from any life found on Earth. In the Solar System some of the prime locations for current or past astrobiology are on Enceladus, Europa, Mars, and Titan.
+
+Human spaceflight and habitation
+
+Main articles: Human spaceflight, Effect of spaceflight on the human body, Space medicine, Space architecture, Space Station, Space habitat, and Space colonization
+
+Crew quarters on Zvezda the base ISS crew module
+
+To date, the longest human occupation of space is the International Space Station which has been in continuous use for 19 years, 267 days. Valeri Polyakov's record single spaceflight of almost 438 days aboard the Mir space station has not been surpassed. The health effects of space have been well documented through years of research conducted in the field of aerospace medicine. Analog environments similar to those one may experience in space travel (like deep sea submarines) have been used in this research to further explore the relationship between isolation and extreme environments. It is imperative that the health of the crew be maintained as any deviation from baseline may compromise the integrity of the mission as well as the safety of the crew, hence the reason why astronauts must endure rigorous medical screenings and tests prior to embarking on any missions. However, it does not take long for the environmental dynamics of spaceflight to commence its toll on the human body; for example, space motion sickness (SMS) - a condition which affects the neurovestibular system and culminates in mild to severe signs and symptoms such as vertigo, dizziness, fatigue, nausea, and disorientation - plagues almost all space travelers within their first few days in orbit. Space travel can also have a profound impact on the psyche of the crew members as delineated in anecdotal writings composed after their retirement. Space travel can adversely affect the body's natural biological clock (circadian rhythm); sleep patterns causing sleep deprivation and fatigue; and social interaction; consequently, residing in a Low Earth Orbit (LEO) environment for a prolonged amount of time can result in both mental and physical exhaustion. Long-term stays in space reveal issues with bone and muscle loss in low gravity, immune system suppression, and radiation exposure. The lack of gravity causes fluid to rise upward which can cause pressure to build up in the eye, resulting in vision problems; the loss of bone minerals and densities; cardiovascular deconditioning; and decreased endurance and muscle mass.
+
+Radiation is perhaps the most insidious health hazard to space travelers as it is invisible to the naked eye and can cause cancer. Space craft are no longer protected from the sun's radiation as they are positioned above the Earth's magnetic field; the danger of radiation is even more potent when one enters deep space. The hazards of radiation can be ameliorated through protective shielding on the spacecraft, alerts, and dosimetry.
+
+Fortunately, with new and rapidly evolving technological advancements, those in Mission Control are able to monitor the health of their astronauts more closely utilizing telemedicine. One may not be able to completely evade the physiological effects of space flight, but they can be mitigated. For example, medical systems aboard space vessels such as the International Space Station (ISS) are well equipped and designed to counteract the effects of lack of gravity and weightlessness; on-board treadmills can help prevent muscle loss and reduce the risk of developing premature osteoporosis. Additionally, a crew medical officer is appointed for each ISS mission and a flight surgeon is available 24/7 via the ISS Mission Control Center located in Houston, Texas. Although the interactions are intended to take place in real time, communications between the space and terrestrial crew may become delayed - sometimes by as much as 20 minutes - as their distance from each other increases when the spacecraft moves further out of LEO; because of this the crew are trained and need to be prepared to respond to any medical emergencies that may arise on the vessel as the ground crew are hundreds of miles away. As one can see, travelling and possibly living in space poses many challenges. Many past and current concepts for the continued exploration and colonization of space focus on a return to the Moon as a "stepping stone" to the other planets, especially Mars. At the end of 2006 NASA announced they were planning to build a permanent Moon base with continual presence by 2024.
+
+Beyond the technical factors that could make living in space more widespread, it has been suggested that the lack of private property, the inability or difficulty in establishing property rights in space, has been an impediment to the development of space for human habitation. Since the advent of space technology in the latter half of the twentieth century, the ownership of property in space has been murky, with strong arguments both for and against. In particular, the making of national territorial claims in outer space and on celestial bodies has been specifically proscribed by the Outer Space Treaty, which had been, as of 2012, ratified by all spacefaring nations.
+Space colonization, also called space settlement and space humanization, would be the permanent autonomous (self-sufficient) human habitation of locations outside Earth, especially of natural satellites or planets such as the Moon or Mars, using significant amounts of in-situ resource utilization.
+
+Human representation and participation
+
+See also: Space law
+
+Women
+
+Main article: Women in space
+
+The first woman to ever enter space was Valentina Tereshkova. She flew in 1963 but it was not until the 1980s that another woman entered space again. All astronauts were required to be military test pilots at the time and women were not able to enter this career, this is one reason for the delay in allowing women to join space crews. After the rule changed, Svetlana Savitskaya became the second woman to enter space, she was also from the Soviet Union. Sally Ride became the next woman to enter space and the first woman to enter space through the United States program.
+
+Since then, eleven other countries have allowed women astronauts. Due to some slow changes in the space programs to allow women.
+The first all female space walk occurred in 2018, including Christina Koch and Jessica Meir. These two women have both participated in separate space walks with NASA. The first woman to go to the moon is planned for 2024.
+
+Despite these developments women are still underrepresented among astronauts and especially cosmonauts. Issues that block potential applicants from the programs and limit the space missions they are able to go on, are for example:
+
+agencies limiting women to half as much time in space than men, argueing with unresearched potential risks for cancer.
+
+a lack of space suits sized appropriately for female astronauts.
+
+Additionally women have been discriminately treated for example as with Sally Ride by beeing scrutinized more than her male counterparts and asked sexist questions by the press.
+
+Art
+
+See also: Space art § Art in space
+
+Artistry in and from space ranges from signals, capturing and arranging material like Yuri Gagarin's selfie in space or the image The Blue Marble, over drawings like the first one in space by cosmonaut and artist Alexei Leonov, music videos like Chris Hadfield's cover of Space Oddity onboard the ISS, to permanent installations on celestial bodies like on the Moon.
+
+See also
+
+Spaceflight portal
+
+Main article: Outline of space exploration
+
+Tupan Patera on Io
+
+Ganymede (moon)
+
+Discovery and exploration of the Solar System
+
+In-space propulsion technologies
+
+List of crewed spacecraft
+
+List of missions to Mars
+
+List of missions to the outer planets
+
+List of spaceflight records
+
+Robotic space exploration programs
+
+Robotic spacecraft
+
+Timeline of planetary exploration
+
+Landings on other planets
+
+Pioneer program
+
+Luna program
+
+Zond program
+
+Venera program
+
+Mars probe program
+
+Ranger program
+
+Mariner program
+
+Surveyor program
+
+Viking program
+
+Voyager program
+
+Vega program
+
+Phobos program
+
+Discovery program
+
+Chandrayaan Program
+
+Mangalyaan Program
+
+Chang'e Program
+
+Private Astrobotic Technology Program
+
+Living in space
+
+Interplanetary contamination
+
+Animals in space
+
+Animals in space
+
+Monkeys in space
+
+Russian space dogs
+
+Humans in space
+
+Astronauts
+
+List of human spaceflights
+
+List of human spaceflights by program
+
+Vostok program
+
+Mercury program
+
+Voskhod program
+
+Gemini program
+
+Soyuz program
+
+Apollo program
+
+Salyut program
+
+Skylab
+
+Space Shuttle program
+
+Mir
+
+International Space Station
+
+Vision for Space Exploration
+
+Aurora Programme
+
+Tier One
+
+Effect of spaceflight on the human body
+
+Space architecture
+
+Space archaeology
+
+flexible path destinations set
+
+Recent and future developments
+
+Asia's Space Race
+
+Commercial astronauts
+
+Artemis program
+
+Energy development
+
+Exploration of Mars
+
+Space tourism
+
+Private spaceflight
+
+Space colonization
+
+Interstellar spaceflight
+
+Deep space exploration
+
+Human outpost
+
+Mars to Stay
+
+NewSpace
+
+Other
+
+Spaceflight
+
+List of spaceflights
+
+Timeline of Solar System exploration
+
+List of artificial objects on extra-terrestrial surfaces
+
+Space station
+
+Space telescope
+
+Sample return mission
+
+Atmospheric reentry
+
+Space and survival
+
+List of spaceflight-related accidents and incidents
+
+Religion in space
+
+Militarization of space
+
+French space program
+
+Russian explorers
+
+U.S. space exploration history on U.S. stamps
+
+References
+
+^ 
+"How Space is Explored". NASA. Archived from the original on 2 July 2009.
+
+^ Roston, Michael (28 August 2015). "NASA's Next Horizon in Space". New York Times. Retrieved 28 August 2015.
+
+^ Chow, Denise (9 March 2011). "After 13 Years, International Space Station Has All Its NASA Rooms". Space.com.
+
+^ Connolly, John F. (October 2006). "Constellation Program Overview" (PDF). Constellation Program Office. Archived from the original (PDF) on 10 July 2007. Retrieved 6 July 2009.
+
+^ Lawler, Andrew (22 October 2009). "No to NASA: Augustine Commission Wants to More Boldly Go". Science. Archived from the original on 13 May 2013.
+
+^ "President Outlines Exploration Goals, Promise". Address at KSC. 15 April 2010.
+
+^ Joseph A. Angelo (2014). Spacecraft for Astronomy. Infobase Publishing. p. 20. ISBN 978-1-4381-0896-4.
+
+^ "How Many Stars in the Milky Way?". NASA Blueshift. Archived from the original on 25 January 2016.
+
+^ Staff (2 January 2013). "100 Billion Alien Planets Fill Our Milky Way Galaxy: Study". Space.com. Archived from the original on 3 January 2013. Retrieved 3 January 2013.
+
+^ Conselice, Christopher J.; et al. (2016). "The Evolution of Galaxy Number Density at z 8 and Its Implications". The Astrophysical Journal. 830 (2): 83. arXiv:1607.03909v2. Bibcode:2016ApJ...830...83C. doi:10.3847/0004-637X/830/2/83.
+
+^ Fountain, Henry (17 October 2016). "Two Trillion Galaxies, at the Very Least". New York Times. Retrieved 17 October 2016.
+
+^ a b Borenstein, Seth (3 March 2016). "Astronomers Spot Record Distant Galaxy From Early Cosmos". Associated Press. Archived from the original on 6 March 2016. Retrieved 1 May 2016.
+
+^ a b "GN-z11: Astronomers push Hubble Space Telescope to limits to observe most remote galaxy ever seen". Australian Broadcasting Corporation. 3 March 2016. Retrieved 10 March 2016.
+
+^ "First Human-Made Object to Enter Space". NASA. 3 January 2008.
+
+^ Williams, Matt (16 September 2016). "How high is space?". Universe Today. Archived from the original on 2 June 2017. Retrieved 14 May 2017.
+
+^ "NASA on Luna 2 mission". Sse.jpl.nasa.gov. Archived from the original on 31 March 2012. Retrieved 24 May 2012.
+
+^ "NASA on Luna 9 mission". Sse.jpl.nasa.gov. Archived from the original on 31 March 2012. Retrieved 24 May 2012.
+
+^ "NASA on Luna 10 mission". Sse.jpl.nasa.gov. Archived from the original on 18 February 2012. Retrieved 24 May 2012.
+
+^ Harwood, William (12 September 2013). "Voyager 1 finally crosses into interstellar space". CBS News.
+
+^ "Voyager - Mission Status". Jet Propulsion Laboratory. National Aeronautics and Space Administration. Retrieved 1 January 2019.
+
+^ "Voyager 1". BBC Solar System. Archived from the original on February 3, 2018. Retrieved September 4, 2018.
+
+^ "Tsiolkovsky biography". Russianspaceweb.com. Archived from the original on 10 May 2012. Retrieved 24 May 2012.
+
+^ "Herman Oberth". centennialofflight.net. 29 December 1989. Retrieved 24 May 2012.
+
+^ "Von Braun". History.msfc.nasa.gov. Retrieved 24 May 2012.
+
+^ "Goddard Biography" (PDF). Retrieved 24 May 2012.
+
+^ Bond, Peter (7 April 2003). "Obituary: Lt-Gen Kerim Kerimov". The Independent. London. Archived from the original on 8 January 2008. Retrieved 21 November 2010.
+
+^ Betty, Blair (1995). "Behind Soviet Aeronauts". Azerbaijan International. 3: 3.
+
+^ Dinerman, Taylor (27 September 2004). "Is the Great Galactic Ghoul losing his appetite?". The space review. Retrieved 27 March 2007.
+
+^ Knight, Matthew. "Beating the curse of Mars". Science Space. Retrieved 27 March 2007.
+
+^ "India becomes first Asian nation to reach Mars orbit, joins elite global space club". The Washington Post. 24 September 2014. Retrieved 24 September 2014. India became the first Asian nation to reach the Red Planet when its indigenously made unmanned spacecraft entered the orbit of Mars on Wednesday
+
+^ "India's spacecraft reaches Mars orbit ... and history". CNN. 24 September 2014. Retrieved 24 September 2014. India's Mars Orbiter Mission successfully entered Mars' orbit Wednesday morning, becoming the first nation to arrive on its first attempt and the first Asian country to reach the Red Planet.
+
+^ Harris, Gardiner (24 September 2014). "On a Shoestring, India Sends Orbiter to Mars on Its First Try". New York Times. Retrieved 25 September 2014.
+
+^ "India Successfully Launches First Mission to Mars; PM Congratulates ISRO Team". International Business Times. 5 November 2013. Retrieved 13 October 2014.
+
+^ Bhatt, Abhinav (5 November 2013). "India's 450-crore mission to Mars to begin today: 10 facts". NDTV. Retrieved 13 October 2014.
+
+^ "Hope Mars Probe". mbrsc.ae. Mohammed Bin Rashid Space Centre. Retrieved 22 July 2016.
+
+^ Molczan, Ted (9 November 2011). "Phobos-Grunt – serious problem reported". SeeSat-L. Retrieved 9 November 2011.
+
+^ "Project Phobos-Grunt – YouTube". Ru.youtube.com. 22 August 2006. Retrieved 24 May 2012.
+
+^ a b Wong, Al (28 May 1998). "Galileo FAQ: Navigation". NASA. Retrieved 28 November 2006.
+
+^ Hirata, Chris. "Delta-V in the Solar System". California Institute of Technology. Archived from the original on 15 July 2006. Retrieved 28 November 2006.
+
+^ Suomi, V.E.; Limaye, S.S.; Johnson, D.R. (1991). "High winds of Neptune: A possible mechanism". Science. 251 (4996): 929–932. Bibcode:1991Sci...251..929S. doi:10.1126/science.251.4996.929. PMID 17847386.
+
+^ Agnor, C.B.; Hamilton, D.P. (2006). "Neptune's capture of its moon Triton in a binary-planet gravitational encounter". Nature. 441 (7090): 192–194. Bibcode:2006Natur.441..192A. doi:10.1038/nature04792. PMID 16688170.
+
+^ "Voyager Frequently Asked Questions". Jet Propulsion Laboratory. 14 January 2003. Archived from the original on 21 July 2011. Retrieved 8 September 2006.
+
+^ Roy Britt, Robert (26 February 2003). "Pluto mission gets green light at last". space.com. Space4Peace.org. Retrieved 26 December 2013.
+
+^ "Space and its Exploration: How Space is Explored". NASA.gov. Archived from the original on 2 July 2009. Retrieved 1 July 2009.
+
+^ "Future Spaceflight". BBC. Retrieved 1 July 2009.
+
+^ Forward, Robert L (January 1996). "Ad Astra!". Journal of the British Interplanetary Society. 49: 23–32. Bibcode:1996JBIS...49...23F.
+
+^ Gilster, Paul (12 April 2016). "Breakthrough Starshot: Mission to Alpha Centauri". Centauri Dreams. Retrieved 14 April 2016.
+
+^ F, Jessica (14 April 2016). "Stephen Hawking, Mark Zuckerberg, Yuri Milner Launch $100M Space Project Called Breakthrough Starshot". Nature World News.
+
+^ EDT, Seung Lee on 4/13/16 at 2:01 PM (13 April 2016). "Mark Zuckerberg Launches $100 Million Initiative To Send Tiny Space Probes To Explore Stars". Newsweek. Retrieved 29 July 2019.
+
+^ "About the James Webb Space Telescope". Retrieved 13 January 2012.
+
+^ "How does the Webb Contrast with Hubble?". JWST Home – NASA. 2016. Archived from the original on 3 December 2016. Retrieved 4 December 2016.
+
+^ "JWST vital facts: mission goals". NASA James Webb Space Telescope. 2017. Retrieved 29 January 2017.
+
+^ "James Webb Space Telescope. JWST History: 1989-1994". Space Telescope Science Institute, Baltimore, MD. 2017. Archived from the original on 3 February 2014. Retrieved 29 December 2018.
+
+^ "The Sunshield". nasa.gov. NASA. Retrieved 28 August 2016.
+
+^ "NASA: Moon to Mars". NASA. Retrieved 19 May 2019.
+
+^ NASA administrator on new Moon plan: 'We're doing this in a way that's never been done before'. Loren Grush, The Verge. 17 May 2019.
+
+^ Harwood, William (17 July 2019). "NASA boss pleads for steady moon mission funding". CBS News. Retrieved 28 August 2019.
+
+^ Senate appropriators advance bill funding NASA despite uncertainties about Artemis costs. Jeff Foust, Space News. 27 September 2019.
+
+^ Fernholz, Tim; Fernholz, Tim. "Trump wants $1.6 billion for a moon mission and proposes to get it from college aid". Quartz. Retrieved 14 May 2019.
+
+^ Berger, Eric (14 May 2019). "NASA reveals funding needed for Moon program, says it will be named Artemis". Ars Technica. Retrieved 22 May 2019.
+
+^ Hertzfeld, H. R. (2002). "Measuring the Economic Returns from Successful NASA Life Sciences Technology Transfers". The Journal of Technology Transfer. 27 (4): 311–320. doi:10.1023/A:1020207506064. PMID 14983842.
+
+^ Elvis, Martin (2012). "Let's mine asteroids — for science and profit". Nature. 485 (7400): 549. Bibcode:2012Natur.485..549E. doi:10.1038/485549a. PMID 22660280.
+
+^ "Is Space Exploration Worth the Cost? A Freakonomics Quorum". Freakonomics. freakonomics.com. 11 January 2008. Retrieved 27 May 2014.
+
+^ Zelenyi, L. M.; Korablev, O. I.; Rodionov, D. S.; Novikov, B. S.; Marchenkov, K. I.; Andreev, O. N.; Larionov, E. V. (December 2015). "Scientific objectives of the scientific equipment of the landing platform of the ExoMars-2018 mission". Solar System Research. 49 (7): 509–517. Bibcode:2015SoSyR..49..509Z. doi:10.1134/S0038094615070229. ISSN 0038-0946.
+
+^ Highfield, Roger (15 October 2001). "Colonies in space may be only hope, says Hawking". The Daily Telegraph. London. Retrieved 5 August 2007.
+
+^ Clarke, Arthur C. (1950). "10". Interplanetary Flight – An Introduction to Astronautics. New York: Harper Brothers.
+
+^ "NASA "Reach" Public Service Announcement for Space Exploration". NASA.
+
+^ "Origin of Human Life – USA Today/Gallup Poll". Pollingreport.com. 3 July 2007. Retrieved 25 December 2013.
+
+^ "NASA Astrobiology". Astrobiology.arc.nasa.gov. Archived from the original on 28 September 2015. Retrieved 24 May 2012.
+
+^ "X". Aleph.se. 11 March 2000. Retrieved 24 May 2012.
+
+^ "Fears and dreads". World Wide Words. 31 May 1997. Retrieved 24 May 2012.
+
+^ "iTWire – Scientists will look for alien life, but Where and How?". Itwire.com.au. 27 April 2007. Archived from the original on 14 October 2008. Retrieved 24 May 2012.
+
+^ "Astrobiology". Biocab.org. Retrieved 24 May 2012.
+
+^ Ward, Peter (8 December 2006). "Launching the Alien Debates". Astrobiology Magazine. Retrieved 25 December 2013.
+
+^ "Astrobiology: the quest for extraterrestrial life". Spacechronology.com. 29 September 2010. Archived from the original on 14 July 2012. Retrieved 24 May 2012.
+
+^ a b c d Doarn, CharlesR; Polk, Jd; Shepanek, Marc (2019). "Health challenges including behavioral problems in long-duration spaceflight". Neurology India. 67 (8): S190–S195. doi:10.4103/0028-3886.259116. ISSN 0028-3886. PMID 31134909.
+
+^ Perez, Jason (30 March 2016). "The Human Body in Space". NASA. Retrieved 11 November 2019.
+
+^ a b c Mars, Kelli (27 March 2018). "5 Hazards of Human Spaceflight". NASA. Retrieved 6 October 2019.
+
+^ Mars, Kelli (27 March 2018). "5 Hazards of Human Spaceflight". NASA. Retrieved 11 November 2019.
+
+^ "Global Exploration Strategy and Lunar Architecture" (PDF) (Press release). NASA. 4 December 2006. Archived from the original (PDF) on 14 June 2007. Retrieved 5 August 2007.
+
+^ Simberg, Rand (Fall 2012). "Property Rights in Space". The New Atlantis (37): 20–31. Archived from the original on 15 December 2012. Retrieved 14 December 2012.
+
+^ Kramer, Miriam (27 August 2013). "Female Astronauts Face Discrimination from Space Radiation Concerns, Astronauts Say". Space.com. Purch. Retrieved 7 January 2017.
+
+^ Sokolowski, Susan L. (5 April 2019). "Female astronauts: How performance products like space suits and bras are designed to pave the way for women's accomplishments". The Conversation. Retrieved 10 May 2020.
+
+Further reading
+
+ Library resources about
+
+Space exploration
+
+* * *
+
+Resources in your library
+
+Resources in other libraries
+
+Launius, R.D.; et al. (2012). "Spaceflight: The Development of Science, Surveillance, and Commerce in Space". Proceedings of the IEEE. 100 (special centennial issue): 1785–1818. doi:10.1109/JPROC.2012.2187143. An overview of the history of space exploration and predictions for the future.
+
+External links
+
+ Wikiquote has quotations related to: Space exploration
+
+ Wikimedia Commons has media related to Space exploration.
+
+Building a Spacefaring Civilization
+
+Skyhooks and Space Elevators
+
+Combination Launch Systems
+
+Chronology of space exploration, astrobiology, exoplanets and news
+
+Space related news
+
+Space Exploration Network
+
+Nasa's website on human space travel
+
+Nasa's website on space exploration technology
+
+"America's Space Program: Exploring a New Frontier", a National Park Service Teaching with Historic Places (TwHP) lesson plan
+
+The Soviet-Russian Spaceflight's History Photoarchive
+
+The 21 Greatest Space Photos Ever – slideshow by Life Magazine
+
+"From Stargazers to Starships", extensive educational web site and course covering spaceflight, astronomy and related physics
+
+We Are The Explorers, NASA Promotional Video (Press Release)
+
+v
+
+t
+
+e
+
+Spaceflight lists and timelines
+
+Timeline of spaceflight
+
+General 
+Space exploration
+outline
+
+timeline
+
+Spaceflight records
+
+Space Race
+Asian Space Race
+
+Rocket and missile technology
+
+Human spaceflight
+
+General 
+Crewed spacecraft
+timeline
+
+Spaceflights
+1961–1970
+
+1971–1980
+
+1981–1990
+
+1991–2000
+
+2001–2010
+
+2011–present
+
+by program
+
+Soviet
+
+Russian
+
+Vostok
+
+Soyuz
+
+Mercury
+
+Gemini
+
+Apollo
+
+Skylab
+
+Shenzhou
+
+Gaganyaan
+
+Spacelab
+
+Artemis
+
+Salyut 
+Expeditions
+
+Spaceflights
+crewed
+
+uncrewed
+
+Spacewalks
+
+Visitors
+
+Mir 
+Expeditions
+
+Spaceflights
+crewed
+
+uncrewed
+
+Spacewalks
+
+Visitors
+
+ISS 
+Expeditions
+
+Spaceflights
+crewed
+
+uncrewed
+
+Spacewalks
+
+Visitors
+
+Deployed
+
+Shuttle 
+Crews
+
+Missions
+timeline
+
+Rollbacks
+
+People 
+Astronauts
+by name
+
+by year of selection
+
+by first flight
+
+Apollo
+
+Gemini
+
+Chinese
+
+European
+
+Cosmonauts
+
+female
+
+Jewish
+
+Muslim
+
+Arab
+
+African-American
+
+Space travelers by name
+
+Space travelers by nationality
+timeline
+
+Dead astronauts
+
+EVA 
+1965–1999
+
+2000–2014
+
+2015–present
+
+Cumulative spacewalk records
+
+Longest spacewalks
+
+Spacewalkers
+
+Solar System exploration 
+Timeline
+
+Interplanetary voyages
+
+Landings on other planets
+rovers
+
+artificial objects
+
+Objects at Lagrangian points
+
+Probes
+active
+
+orbiters
+
+leaving the Solar System
+
+lunar probes
+
+Missions to the Moon
+
+Timeline of satellites
+
+Sample-return mission
+Mars
+
+Earth-orbiting satellites 
+Climate research
+
+Communications satellite firsts
+
+CubeSats
+
+PocketQube
+
+Earth observation satellites
+
+Geosynchronous orbit
+
+GOES
+
+Kosmos
+
+Magnetospheric
+
+NRO
+
+TDRS
+
+USA
+
+Vehicles 
+Orbital launch systems
+Comparison
+
+Sounding rocket list
+
+Spacecraft
+uncrewed
+
+crewed
+
+Upper stages
+
+Sounding rocket
+
+Small-lift launch vehicle
+
+Medium-lift launch vehicle
+
+Heavy-lift launch vehicle
+
+Super heavy-lift launch vehicle
+
+Launches by rocket type 
+Ariane
+
+Atlas
+
+Black Brant
+
+Electron
+
+Falcon 9 and Heavy
+
+H-II and H3
+
+Long March
+
+Proton
+
+PSLV
+
+R-7 (including Semyorka, Molniya, Vostok, Voskhod and Soyuz)
+
+Scout
+
+SLS
+
+Thor and Delta
+
+Titan
+
+Tsyklon
+
+V-2 tests
+
+Zenit
+
+Launches by spaceport 
+Satish Dhawan
+
+Agencies, companies
+
+and facilities 
+Communications satellite companies
+comparison
+
+Private spaceflight companies
+
+Rocket launch sites
+
+Space agencies
+
+Spacecraft manufacturers
+
+Other mission lists
+
+and timelines 
+First orbital launches by country
+
+NASA missions
+Constellation missions
+
+Timeline of private spaceflight
+
+Timeline of longest spaceflights
+
+v
+
+t
+
+e
+
+Colonization, decolonization, and neocolonialism
+
+Earth
+
+Exploration 
+Americas
+
+Africa
+
+Asia
+
+Oceania
+
+Antarctica — World oceans
+
+Colonization 
+Americas
+
+Africa
+
+Asia
+Southeast Asia
+
+Oceania
+
+Antarctica
+
+World oceans
+
+Subterranea
+
+Decolonization 
+Americas
+
+Africa
+
+Asia
+
+Oceania
+
+General
+
+topics
+
+Exploration 
+Maritime history (European)
+
+Age of Discovery
+
+Solar System discovery
+
+Colonization 
+Antiquity — Imperialism
+
+Chartered companies
+
+Interventionism
+
+Colonialism
+chronology
+
+history
+
+empires
+
+detribalization
+
+settler colonialism
+
+wars
+
+Current: Non-Self-Governing
+
+Dependent
+
+Space station
+
+Space militarization
+
+Commercial use of space
+
+Colonial empires
+
+in Modern era 
+Overseas, major: British
+
+Dutch
+
+French
+
+German
+
+Italian
+
+Portuguese
+
+Spanish
+
+Overseas, minor: American
+
+Australian
+
+Austro-Hungarian
+
+Belgian
+
+Couronian (Polish-Lithuanian)
+
+Danish
+
+New Zealand
+
+Norwegian
+
+Swedish
+
+Mostly contiguous: American
+
+Chinese
+
+Japanese
+
+Ottoman
+
+Russian
+
+South African
+
+Decolonization 
+Wars of national liberation — Predecessors of sovereign states
+in Europe
+
+in South America
+
+Independence referendum
+
+Sovereign states formation dates
+
+Postcolonialism 
+Independence
+
+Internal colonialism
+
+Nation-building
+
+Neo-colonialism
+
+Postcolonialism (international relations)
+
+Terra nullius
+
+Indigenous peoples
+
+Uncontacted peoples
+
+Outer space
+
+Exploration 
+Mercury
+
+Venus
+
+Moon
+
+Lagrangian points
+
+Mars
+
+Phobos
+
+Ceres
+
+Asteroids
+
+Outer Solar System: Jupiter
+
+Europa
+
+Callisto
+
+Saturn
+
+Titan
+
+Uranus
+
+Neptune
+
+trans-Neptunian objects
+
+Pluto
+
+Colonization 
+Mercury
+
+Venus
+
+Moon
+
+Lagrangian points
+
+Mars
+
+Phobos
+
+Asteroids
+
+Outer Solar System: Jupiter
+
+Europa
+
+Callisto
+
+Saturn
+
+Titan
+
+Uranus
+
+Neptune
+
+trans-Neptunian objects
+
+Pluto
+
+v
+
+t
+
+e
+
+... in space
+
+Biology 
+Animals (Cats · Dogs · Mice · Non-human primates · Tortoises)
+
+Extraterrestrial
+
+The human body (in spacecraft · exposed)
+
+Hygiene
+
+Locomotion
+
+Medicine
+
+Microorganisms
+
+Neuroscience
+
+Plants
+Astrobotany
+
+Sex
+
+Sleep
+
+Environment 
+Climate
+
+Corrosion
+
+Debris
+
+Dust
+
+Weather
+Weathering
+
+Society 
+Advertising
+
+Alcohol
+
+Archaeology (of Earth · of items in space)
+
+Burial
+
+Christmas
+
+Colonization
+
+Economy (Mining)
+
+Exploration
+
+Law
+
+Military
+
+Music
+
+Religion
+
+Tourism
+
+War
+
+Women
+
+Technology 
+Accidents
+
+Architecture
+
+Food
+
+Human spaceflight
+
+Mining
+
+Power (Batteries · Nuclear power · Solar power for Earth · Solar panels on spacecraft)
+
+Radar
+
+Telescopes
+
+Toilets
+
+Weapons
+
+Writing
+
+See also 
+Near space
+
+Outer space
+
+v
+
+t
+
+e
+
+Exploration of the Solar System
+
+Timeline of Solar System exploration
+
+Exploration of 
+Mercury
+
+Venus
+
+Moon
+
+Mars
+
+Jupiter
+
+Saturn
+
+Uranus
+
+Neptune
+
+Pluto
+
+Artificial objects
+
+On extra-terrestrial surfaces 
+Moon
+
+Venus
+
+Mars
+
+Deep-space missions 
+Heliocentric orbit
+
+Leaving the Solar System
+
+Lists 
+Solar System probes
+
+Missions to comets
+
+Landings on extraterrestrial bodies
+
+Objects at Lagrangian points
+
+Space exploration
+outline
+
+timeline
+
+v
+
+t
+
+e
+
+Public-sector space agencies
+
+Africa 
+ ASAL
+
+ GSSTC
+
+ NARRS
+
+ ESSTI
+
+ NASRDA
+
+ SANSA
+
+Americas
+
+North America 
+ CSA
+
+ AEM
+
+ NASA
+
+USSF
+
+South America 
+ CONAE
+
+ ABE
+
+ AEB
+DCTA
+
+INPE
+
+ITA
+
+ CCE
+
+ABAE
+
+IVIC
+
+Asia
+
+Central Asia 
+ KazCosmos
+
+ TNSA
+
+East Asia 
+ CNSA
+CALT
+
+CAST
+
+CCF
+
+CGWIC
+
+COSTIND
+
+ NSPO
+
+ JAXA
+ISAS
+
+NAL
+
+NASDA
+
+NICT
+
+USEF
+
+ NADA
+
+ KARI
+
+SaTReC
+
+South Asia 
+ SPARRSO
+
+ ISRO
+Antrix Corp
+
+DoS
+
+NRSC
+
+ SUPARCO
+
+Southeast Asia 
+ LAPAN
+
+ MYSA
+
+ PhilSA
+
+ SSTA
+
+ GISTDA
+
+Southwest Asia 
+ MAKA1
+
+ IAIO
+ISA
+
+SAHA
+
+ ISA
+NCSR
+
+ GORS
+
+ TÜBİTAK UZAY
+
+ UAESA
+
+Europe 
+ ALR
+
+ ArmCosmos
+
+ MAKA1
+
+ BSA1
+
+ BelSPo
+
+ SRTI
+
+ CSO
+
+ DTU Space
+
+ ECSS
+
+ESA
+
+EUMETSAT
+
+EUSC
+
+ CNES
+
+ DLR
+
+ HSC
+
+ HSO
+
+ ASI
+
+ Luxinnovation
+
+ SRON
+
+ NSC
+
+ PSA
+
+ ROSA
+
+ RKA1
+SRI1
+
+VKO
+
+ SSP
+
+ INTA
+
+ SNSA
+
+ SSO
+
+ TÜBİTAK UZAY
+
+ UKSA
+
+ SSAU1
+
+Oceania 
+ ASA
+
+CSIRO
+
+ NZSA
+
+World 
+APSCO
+
+COSPAR
+
+IAA
+
+INTELSAT
+
+Interkosmos
+
+Intersputnik
+
+ UNCOPUOS
+
+UNOOSA
+
+See also: Timeline of first orbital launches by country
+
+1 Preceded by the Soviet space program
+
+v
+
+t
+
+e
+
+Solar System
+
+Sun
+
+Mercury
+
+Venus
+
+Earth
+
+Mars
+
+Ceres
+
+Jupiter
+
+Saturn
+
+Uranus
+
+Neptune
+
+Pluto
+
+Haumea
+
+Makemake
+
+Eris
+
+Planets 
+Terrestrials
+Mercury
+
+Venus
+
+Earth
+
+Mars
+
+Giants
+Jupiter
+
+Saturn
+
+Uranus
+
+Neptune
+
+Dwarfs
+Ceres
+
+Pluto
+
+Haumea
+
+Makemake
+
+Eris
+
+Rings 
+Jovian
+
+Saturnian (Rhean)
+
+Charikloan
+
+Chironean
+
+Uranian
+
+Neptunian
+
+Haumean
+
+Moons 
+Earth
+Moon
+
+other near-Earth objects
+
+Mars
+Phobos
+
+Deimos
+
+Jupiter
+Ganymede
+
+Callisto
+
+Io
+
+Europa
+
+all 79
+
+Saturn
+Titan
+
+Rhea
+
+Iapetus
+
+Dione
+
+Tethys
+
+Enceladus
+
+Mimas
+
+Hyperion
+
+Phoebe
+
+all 82
+
+Uranus
+Titania
+
+Oberon
+
+Umbriel
+
+Ariel
+
+Miranda
+
+all 27
+
+Neptune
+Triton
+
+Proteus
+
+Nereid
+
+all 14
+
+Pluto
+Charon
+
+Nix
+
+Hydra
+
+Kerberos
+
+Styx
+
+Eris
+Dysnomia
+
+Haumean
+Hiʻiaka
+
+Namaka
+
+Makemake
+S/2015 (136472) 1
+
+Exploration
+
+(outline) 
+Colonization
+
+Discovery
+astronomy
+
+historical models
+
+timeline
+
+Human spaceflight
+space stations
+
+list
+
+Space probes
+timeline
+
+list
+
+Mercury
+
+Venus
+
+Moon
+mining
+
+Mars
+
+Ceres
+
+Asteroids
+mining
+
+Comets
+
+Jupiter
+
+Saturn
+
+Uranus
+
+Neptune
+
+Pluto
+
+Deep space
+
+Hypothetical
+
+objects 
+Fifth giant
+
+Nemesis
+
+Phaeton
+
+Planet Nine
+
+Planet V
+
+Planet X
+
+Subsatellites
+
+Theia
+
+Tyche
+
+Vulcan
+
+Vulcanoids
+
+Lists 
+Comets
+
+Dwarf planets (possible)
+
+Gravitationally rounded objects
+
+Minor planets
+
+Natural satellites
+
+Solar System models
+
+Solar System objects
+by size
+
+by discovery date
+
+Small
+
+Solar
+
+System
+
+bodies 
+Comets
+
+Damocloids
+
+Meteoroids
+
+Minor planets
+Names and meanings
+
+moons
+
+Planetesimal
+
+Mercury-crossers
+
+Venus-crossers
+
+Venus trojans
+
+Near-Earth objects
+
+Earth-crossers
+
+Earth trojans
+
+Mars-crossers
+
+Mars trojans
+
+Asteroid belt
+
+Asteroids
+Ceres
+
+Pallas
+
+Juno
+
+Vesta
+
+active
+
+first 1000
+
+families
+
+exceptional
+
+Kirkwood gap
+
+Jupiter-crossers
+
+Jupiter trojans
+
+Centaurs
+
+Saturn-crossers
+
+Uranus-crossers
+
+Uranus trojans
+
+Neptune-crossers
+
+Neptune trojans
+
+Cis-Neptunian objects
+
+Trans-Neptunian objects
+
+Kuiper belt
+Cubewanos
+
+Plutinos
+
+Detached objects
+
+Hills cloud
+
+Oort cloud
+
+Scattered disc
+
+Sednoids
+
+Formation
+
+and
+
+evolution 
+Accretion
+
+Accretion disk
+Excretion disk
+
+Circumplanetary disk
+
+Circumstellar disc
+
+Circumstellar envelope
+
+Coatlicue
+
+Cosmic dust
+
+Debris disk
+
+Detached Objects
+
+Disrupted planet
+
+EXCEDE
+
+Exozodiacal dust
+
+Extraterrestrial materials
+
+Extraterrestrial sample curation
+
+Giant-impact hypothesis
+
+Gravitational collapse
+
+Hills Cloud
+
+Interplanetary dust cloud
+
+Interplanetary medium
+
+Interplanetary space
+
+Interstellar cloud
+
+Interstellar dust
+
+Interstellar medium
+
+Interstellar space
+
+Kuiper belt
+
+List of interstellar and circumstellar molecules
+
+Merging stars
+
+Molecular cloud
+
+Nebular hypothesis
+
+Oort cloud
+
+Outer space
+
+Planetary migration
+
+Planetary system
+
+Planetesimal
+
+Planet formation
+
+Protoplanetary disk
+
+Ring system
+
+Rubble pile
+
+Sample-return mission
+
+Scattered disc
+
+Star formation
+
+Outline of the Solar System
+
+ Solar System portal
+
+ Astronomy portal
+
+ Earth Sciences portal
+
+Solar System → Local Interstellar Cloud → Local Bubble → Gould Belt → Orion Arm → Milky Way → Milky Way subgroup → Local Group → Local Sheet → Virgo Supercluster → Laniakea Supercluster → Observable universe → Universe
+
+Each arrow (→) may be read as "within" or "part of".
+
+v
+
+t
+
+e
+
+Spaceflight
+
+General 
+Astrodynamics
+
+History
+Timeline
+
+Space Race
+
+Asian Space Race
+
+Records
+
+Accidents and incidents
+
+Space policy
+Australia
+
+China
+
+European Union
+
+India
+
+Japan
+
+Russia
+
+Soviet Union
+
+United States
+
+Space law
+Outer Space Treaty
+
+Rescue Agreement
+
+Space Liability Convention
+
+Registration Convention
+
+Moon Treaty
+
+Space warfare
+Space force
+
+Militarisation of space
+
+Private spaceflight
+
+Applications 
+Astronomy
+
+Earth observation
+Archaeology
+
+Imagery and mapping
+
+Reconnaissance
+
+Weather and environment monitoring
+
+Communications satellite
+Internet
+
+Radio
+
+Telephone
+
+Television
+
+Satellite navigation
+
+Commercial use of space
+
+Space launch market competition
+
+Space architecture
+
+Space exploration
+
+Space research
+
+Space technology
+
+Space weather
+
+Human spaceflight
+
+General 
+Astronaut
+commercial
+
+Life-support system
+Animals in space
+
+Bioastronautics
+
+Space suit
+
+Extravehicular activity
+
+Weightlessness
+
+Space toilet
+
+Space tourism
+
+Space colonization
+
+Space diving
+
+Programs 
+Vostok
+
+Mercury
+
+Voskhod
+
+Gemini
+
+Soyuz
+
+Apollo
+Skylab
+
+Apollo–Soyuz
+
+Space Shuttle
+
+Mir
+Shuttle–Mir
+
+International Space Station
+
+Shenzhou
+
+Tiangong
+
+Artemis
+
+Health issues 
+Effect of spaceflight on the human body
+Space adaptation syndrome
+
+Health threat from cosmic rays
+
+Space psychology
+Psychological and sociological effects
+
+Space and survival
+
+Space medicine
+
+Space nursing
+
+Spacecraft 
+Launch vehicle
+
+Rocket
+
+Space capsule
+Orbital module
+
+Reentry capsule
+
+Service module
+
+Spaceplane
+
+Robotic spacecraft
+Satellite
+
+Space probe
+
+Lander
+
+Rover
+
+Self-replicating spacecraft
+
+Space telescope
+
+Spacecraft propulsion
+Rocket engine
+
+Electric propulsion
+
+Solar sail
+
+Gravity assist
+
+Destinations 
+Sub-orbital
+
+Orbital
+Geocentric
+
+Geosynchronous
+
+Interplanetary
+
+Interstellar
+
+Intergalactic
+
+Space launch 
+Direct ascent
+
+Escape velocity
+
+Expendable and reusable launch systems
+
+Launch pad
+
+Non-rocket spacelaunch
+
+Spaceport
+
+Ground segment 
+Flight controller
+
+Ground station
+
+Pass
+
+Mission control center
+
+Space agencies 
+ CoNAE
+
+ ASA
+
+ AEB
+
+ CSA
+
+ CNSA
+
+ ESA
+
+ CNES
+
+ DLR
+
+ ISRO
+
+ LAPAN
+
+ ISA
+
+ ISA
+
+ ASI
+
+ AEM
+
+ JAXA
+
+ NADA
+
+ KARI
+
+ SUPARCO
+
+ Roscosmos
+
+ SNSA
+
+ SSAU
+
+ UKSA
+
+ NASA/USSF
+
+ Category
+
+ Portal
+
+ WikiProject
+
+v
+
+t
+
+e
+
+Space missions by destination
+
+Planets 
+Mercury
+
+Venus
+
+Mars
+
+Outer planets
+Jupiter
+
+Saturn
+
+Uranus
+
+Neptune
+
+Others 
+The Moon
+lunar probes
+
+Minor planets
+
+Comets
+
+Orbiters 
+Extraterrestrial orbiters
+
+Mars orbiters
+
+Objects in heliocentric orbit
+
+Authority control 
+GND: 4117629-7
+
+LCCN: sh85096159
+
+NDL: 00574081

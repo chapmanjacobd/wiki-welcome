@@ -1,0 +1,90 @@
+Lingulata
+
+Temporal range: Cambrian–Recent 
+PreꞒ
+
+Ꞓ
+
+O
+
+S
+
+D
+
+C
+
+P
+
+T
+
+J
+
+K
+
+Pg
+
+N
+
+Lingula anatina from Stradbroke Island, Australia.
+
+Scientific classification 
+
+Kingdom:
+ Animalia
+
+Clade:
+ Lophophorata
+
+Phylum:
+ Brachiopoda
+
+Subphylum:
+ Linguliformea
+
+Class:
+ Lingulata
+
+Orders
+
+Lingulida Waagen, 1885
+
+†Acrotretida Kuhn, 1949
+
+†Siphonotretida Kuhn, 1949
+
+Lingulata is a class of brachiopods, among the oldest of all brachiopods having existed since the Cambrian period (541 million years ago). They are also among the most morphologically conservative of the brachiopods, having lasted from their earliest appearance to the present with very little change in shape. Shells of living specimens found today in the waters around Japan are almost identical to ancient Cambrian fossils.
+
+The Lingulata have tongue-shaped shells (hence the name Lingulata, from the Latin word for "tongue") with a long fleshy stalk, or pedicle, with which the animal burrows into sandy or muddy sediments. They inhabit vertical burrows in these soft sediments with the anterior end facing up and slightly exposed at the sediment surface. The cilia of the lophophore generate a feeding and respiratory current through the lophophore and mantle cavity. The gut is complete and J-shaped.
+
+Lingulata shells are composed of a combination of calcium phosphate, protein and chitin. This is unlike most other shelled marine animals, whose shells are made of calcium carbonate. The Lingulata are inarticulate brachiopods, so named for the simplicity of their hinge mechanism. This mechanism lacks teeth and is held together only by a complex musculature. Both valves are roughly symmetrical.
+
+The genus Lingula (Bruguiere, 1797) is the oldest known animal genus that still contains extant species. It is primarily an Indo-Pacific genus that is harvested for human consumption in Japan and Australia.
+
+References
+
+Introduction to the Lingulata
+
+Proof that Lingula (Brachiopoda) is not a living-fossil, and emended diagnoses of the Family Lingulidae A paper that argues that genus Lingula is not as old as most think. By Christian C. Emig.
+
+Taxon identifiers 
+Wikidata: Q2467382
+
+Wikispecies: Lingulata
+
+EoL: 2980013
+
+Fossilworks: 26323
+
+GBIF: 209
+
+iNaturalist: 133972
+
+IRMNG: 1100
+
+ITIS: 914197
+
+NCBI: 115361
+
+NZOR: f2f3108e-d927-4359-ab25-c76fba1285dd
+
+WoRMS: 235154

@@ -1,0 +1,647 @@
+"Type of white blood cell
+
+For the ecological classification, see Macrophage (ecology).
+
+Macrophage
+
+A macrophage stretching its "arms" (filopodia) to engulf two particles, possibly pathogens, in a mouse. Trypan blue exclusion staining.
+
+Details
+
+Pronunciation /ˈmakrə(ʊ)feɪdʒ/
+
+System Immune system
+
+Function Phagocytosis
+
+Identifiers
+
+Latin Macrophagocytus
+
+Acronym(s) Mφ, MΦ
+
+MeSH D008264
+
+TH H2.00.03.0.01007
+
+FMA 63261
+
+Anatomical terms of microanatomy
+
+Macrophages (abbreviated as Mφ, MΦ or MP) (Greek: large eaters, from Greek μακρός (makrós) = large, φαγεῖν (phagein) = to eat) are a type of white blood cell of the immune system that engulfs and digests cellular debris, foreign substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy body cells on its surface in a process called phagocytosis.
+
+These large phagocytes are found in essentially all tissues, where they patrol for potential pathogens by amoeboid movement. They take various forms (with various names) throughout the body (e.g., histiocytes, Kupffer cells, alveolar macrophages, microglia, and others), but all are part of the mononuclear phagocyte system. Besides phagocytosis, they play a critical role in nonspecific defense (innate immunity) and also help initiate specific defense mechanisms (adaptive immunity) by recruiting other immune cells such as lymphocytes. For example, they are important as antigen presenters to T cells. In humans, dysfunctional macrophages cause severe diseases such as chronic granulomatous disease that result in frequent infections.
+
+Beyond increasing inflammation and stimulating the immune system, macrophages also play an important anti-inflammatory role and can decrease immune reactions through the release of cytokines. Macrophages that encourage inflammation are called M1 macrophages, whereas those that decrease inflammation and encourage tissue repair are called M2 macrophages. This difference is reflected in their metabolism; M1 macrophages have the unique ability to metabolize arginine to the "killer" molecule nitric oxide, whereas rodent M2 macrophages have the unique ability to metabolize arginine to the "repair" molecule ornithine. However, this dichotomy has been recently questioned as further complexity has been discovered.
+
+Human macrophages are about 21 micrometres (0.00083 in) in diameter and are produced by the differentiation of monocytes in tissues. They can be identified using flow cytometry or immunohistochemical staining by their specific expression of proteins such as CD14, CD40, CD11b, CD64, F4/80 (mice)/EMR1 (human), lysozyme M, MAC-1/MAC-3 and CD68.
+
+Macrophages were first discovered by Élie Metchnikoff, a Russian zoologist, in 1884.
+
+Contents
+
+1 Structure
+
+1.1 Types
+
+2 Development
+
+3 Function
+
+3.1 Phagocytosis
+
+3.2 Role in adaptive immunity
+
+3.2.1 Macrophage subtypes
+
+3.3 Role in muscle regeneration
+
+3.4 Role in wound healing
+
+3.5 Role in limb regeneration
+
+3.6 Role in iron homeostasis
+
+3.7 Role in pigment retainment
+
+3.8 Role in tissue homeostasis
+
+4 Clinical significance
+
+4.1 As a host for intracellular pathogens
+
+4.1.1 Tuberculosis
+
+4.1.2 Leishmaniasis
+
+4.1.3 Chikungunya
+
+4.1.4 Others
+
+4.2 Heart disease
+
+4.3 HIV infection
+
+4.4 Cancer
+
+4.5 Cancer therapy
+
+4.6 Obesity
+
+5 Intestinal macrophages
+
+5.1 Role in disease
+
+6 Media
+
+7 History
+
+8 See also
+
+9 References
+
+10 External links
+
+Structure
+
+Types
+
+Main article: Mononuclear phagocyte system
+
+Drawing of a macrophage when fixed and stained by giemsa dye
+
+A majority of macrophages are stationed at strategic points where microbial invasion or accumulation of foreign particles is likely to occur. These cells together as a group are known as the mononuclear phagocyte system and were previously known as the reticuloendothelial system. Each type of macrophage, determined by its location, has a specific name:
+
+ Cell Name Anatomical Location
+
+Adipose tissue macrophages Adipose tissue (fat)
+
+Monocytes Bone marrow/blood
+
+Kupffer cells Liver
+
+Sinus histiocytes Lymph nodes
+
+Alveolar macrophages (dust cells) Pulmonary alveoli of lungs
+
+Tissue macrophages (histiocytes) leading to giant cells Connective tissue
+
+Microglia Central nervous system
+
+Hofbauer cells Placenta
+
+Intraglomerular mesangial cells Kidney
+
+Osteoclasts Bone
+
+Epithelioid cells Granulomas
+
+Red pulp macrophages (sinusoidal lining cells) Red pulp of spleen
+
+Peritoneal macrophages Peritoneal cavity
+
+LysoMac Peyer's patch
+
+Investigations concerning Kupffer cells are hampered because in humans, Kupffer cells are only accessible for immunohistochemical analysis from biopsies or autopsies. From rats and mice, they are difficult to isolate, and after purification, only approximately 5 million cells can be obtained from one mouse.
+
+Macrophages can express paracrine functions within organs that are specific to the function of that organ. In the testis, for example, macrophages have been shown to be able to interact with Leydig cells by secreting 25-hydroxycholesterol, an oxysterol that can be converted to testosterone by neighbouring Leydig cells. Also, testicular macrophages may participate in creating an immune privileged environment in the testis, and in mediating infertility during inflammation of the testis.
+
+Cardiac resident macrophages participate in electrical conduction via gap junction communication with cardiac myocytes.
+
+Macrophages can be classified on basis of the fundamental function and activation. According to this grouping there are classically-activated (M1) macrophages, wound-healing macrophages (also known as alternatively-activated (M2) macrophages), and regulatory macrophages (Mregs).
+
+Development
+
+Macrophages that reside in adult healthy tissues either derive from circulating monocytes or are established before birth and then maintained during adult life independently of monocytes. By contrast, most of the macrophages that accumulate at diseased sites typically derive from circulating monocytes. When a monocyte enters damaged tissue through the endothelium of a blood vessel, a process known as leukocyte extravasation, it undergoes a series of changes to become a macrophage. Monocytes are attracted to a damaged site by chemical substances through chemotaxis, triggered by a range of stimuli including damaged cells, pathogens and cytokines released by macrophages already at the site. At some sites such as the testis, macrophages have been shown to populate the organ through proliferation. Unlike short-lived neutrophils, macrophages survive longer in the body, up to several months.
+
+Function
+
+Steps of a macrophage ingesting a pathogen:
+
+a. Ingestion through phagocytosis, a phagosome is formed
+
+b. The fusion of lysosomes with the phagosome creates a phagolysosome; the pathogen is broken down by enzymes
+
+c. Waste material is expelled or assimilated (the latter not pictured)
+
+Parts:
+
+1. Pathogens
+
+2. Phagosome
+
+3. Lysosomes
+
+4. Waste material
+
+5. Cytoplasm
+
+6. Cell membrane
+
+Phagocytosis
+
+Main article: Phagocytosis
+
+Macrophages are professional phagocytes and are highly specialized in removal of dying or dead cells and cellular debris. This role is important in chronic inflammation, as the early stages of inflammation are dominated by neutrophils, which are ingested by macrophages if they come of age (see CD31 for a description of this process).
+
+The neutrophils are at first attracted to a site, where they perform their function and die, before they are phagocytized by the macrophages. When at the site, the first wave of neutrophils, after the process of aging and after the first 48 hours, stimulate the appearance of the macrophages whereby these macrophages will then ingest the aged neutrophils.
+
+The removal of dying cells is, to a greater extent, handled by fixed macrophages, which will stay at strategic locations such as the lungs, liver, neural tissue, bone, spleen and connective tissue, ingesting foreign materials such as pathogens and recruiting additional macrophages if needed.
+
+When a macrophage ingests a pathogen, the pathogen becomes trapped in a phagosome, which then fuses with a lysosome. Within the phagolysosome, enzymes and toxic peroxides digest the pathogen. However, some bacteria, such as Mycobacterium tuberculosis, have become resistant to these methods of digestion. Typhoidal Salmonellae induce their own phagocytosis by host macrophages in vivo, and inhibit digestion by lysosomal action, thereby using macrophages for their own replication and causing macrophage apoptosis. Macrophages can digest more than 100 bacteria before they finally die due to their own digestive compounds.
+
+Role in adaptive immunity
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2016) (Learn how and when to remove this template message)
+
+Macrophages are versatile cells that play many roles. As scavengers, they rid the body of worn-out cells and other debris. Along with dendritic cells, they are foremost among the cells that present antigens, a crucial role in initiating an immune response. As secretory cells, monocytes and macrophages are vital to the regulation of immune responses and the development of inflammation; they produce a wide array of powerful chemical substances (monokines) including enzymes, complement proteins, and regulatory factors such as interleukin-1. At the same time, they carry receptors for lymphokines that allow them to be "activated" into single-minded pursuit of microbes and tumour cells.
+
+After digesting a pathogen, a macrophage will present the antigen (a molecule, most often a protein found on the surface of the pathogen and used by the immune system for identification) of the pathogen to the corresponding helper T cell. The presentation is done by integrating it into the cell membrane and displaying it attached to an MHC class II molecule (MHCII), indicating to other white blood cells that the macrophage is not a pathogen, despite having antigens on its surface.
+
+Eventually, the antigen presentation results in the production of antibodies that attach to the antigens of pathogens, making them easier for macrophages to adhere to with their cell membrane and phagocytose. In some cases, pathogens are very resistant to adhesion by the macrophages.
+
+The antigen presentation on the surface of infected macrophages (in the context of MHC class II) in a lymph node stimulates TH1 (type 1 helper T cells) to proliferate (mainly due to IL-12 secretion from the macrophage). When a B-cell in the lymph node recognizes the same unprocessed surface antigen on the bacterium with its surface bound antibody, the antigen is endocytosed and processed. The processed antigen is then presented in MHCII on the surface of the B-cell. T cells that express the T cell receptor which recognizes the antigen-MHCII complex (with co-stimulatory factors- CD40 and CD40L) cause the B-cell to produce antibodies that help opsonisation of the antigen so that the bacteria can be better cleared by phagocytes.
+
+Macrophages provide yet another line of defense against tumor cells and somatic cells infected with fungus or parasites. Once a T cell has recognized its particular antigen on the surface of an aberrant cell, the T cell becomes an activated effector cell, producing chemical mediators known as lymphokines that stimulate macrophages into a more aggressive form.
+
+Macrophage subtypes
+
+There are several activated forms of macrophages. In spite of a spectrum of ways to activate macrophages, there are two main groups designated M1 and M2. M1 macrophages: as mentioned earlier (previously referred to as classically activated macrophages), M1 "killer" macrophages are activated by LPS and IFN-gamma, and secrete high levels of IL-12 and low levels of IL-10. M1 macrophages have pro-inflammatory, bactericidal, and phagocytic functions. In contrast, the M2 "repair" designation (also referred to as alternatively activated macrophages) broadly refers to macrophages that function in constructive processes like wound healing and tissue repair, and those that turn off damaging immune system activation by producing anti-inflammatory cytokines like IL-10. M2 is the phenotype of resident tissue macrophages, and can be further elevated by IL-4. M2 macrophages produce high levels of IL-10, TGF-beta and low levels of IL-12. Tumor-associated macrophages are mainly of the M2 phenotype, and seem to actively promote tumor growth.
+
+Macrophages exist in a variety of phenotypes which are determined by the role they play in wound maturation. Phenotypes can be predominantly separated into two major categories; M1 and M2. M1 macrophages are the dominating phenotype observed in the early stages of inflammation and are activated by four key mediators: interferon-γ (IFN-γ), tumor necrosis factor (TNF), and damage associated molecular patterns (DAMPs). These mediator molecules create a pro-inflammatory response that in return produce pro-inflammatory cytokines like Interleukin-6 and TNF. Unlike M1 macrophages, M2 macrophages secrete an anti-inflammatory response via the addition of Interleukin-4 or Interleukin-13. They also play a role in wound healing and are needed for revascularization and reepithelialization. M2 macrophages are divided into four major types based on their roles: M2a, M2b, M2c, and M2d. How M2 phenotypes are determined is still up for discussion but studies have shown that their environment allows them to adjust to whichever phenotype is most appropriate to efficiently heal the wound.
+
+M2 macrophages are needed for vascular stability. They produce vascular epithelial growth factor-A and TGF-β1. There is a phenotype shift from M1 to M2 macrophages in acute wounds, however this shift is impaired for chronic wounds. This dysregulation results in insufficient M2 macrophages and its corresponding growth factors that aid in wound repair. With a lack of these growth factors/anti-inflammatory cytokines and an overabundance of pro-inflammatory cytokines from M1 macrophages chronic wounds are unable to heal in a timely manner. Normally, after neutrophils eat debris/pathogens they perform apoptosis and are removed. At this point, inflammation is not needed and M1 undergoes a switch to M2 (anti-inflammatory). However, dysregulation occurs as the M1 macrophages are unable/do not phagocytose neutrophils that have undergone apoptosis leading to increased macrophage migration and inflammation.
+
+Both M1 and M2 macrophages play a role in promotion of atherosclerosis. M1 macrophages promote atherosclerosis by inflammation. M2 macrophages can remove cholesterol from blood vessels, but when the cholesterol is oxidized, the M2 macrophages become apoptotic foam cells contributing to the atheromatous plaque of atherosclerosis.
+
+Role in muscle regeneration
+
+The first step to understanding the importance of macrophages in muscle repair, growth, and regeneration is that there are two "waves" of macrophages with the onset of damageable muscle use – subpopulations that do and do not directly have an influence on repairing muscle. The initial wave is a phagocytic population that comes along during periods of increased muscle use that are sufficient to cause muscle membrane lysis and membrane inflammation, which can enter and degrade the contents of injured muscle fibers. These early-invading, phagocytic macrophages reach their highest concentration about 24 hours following the onset of some form of muscle cell injury or reloading. Their concentration rapidly declines after 48 hours. The second group is the non-phagocytic types that are distributed near regenerative fibers. These peak between two and four days and remain elevated for several days during the hopeful muscle rebuilding. The first subpopulation has no direct benefit to repairing muscle, while the second non-phagocytic group does.
+
+It is thought that macrophages release soluble substances that influence the proliferation, differentiation, growth, repair, and regeneration of muscle, but at this time the factor that is produced to mediate these effects is unknown. It is known that macrophages' involvement in promoting tissue repair is not muscle specific; they accumulate in numerous tissues during the healing process phase following injury.
+
+Role in wound healing
+
+Macrophages are essential for wound healing. They replace polymorphonuclear neutrophils as the predominant cells in the wound by day two after injury. Attracted to the wound site by growth factors released by platelets and other cells, monocytes from the bloodstream enter the area through blood vessel walls. Numbers of monocytes in the wound peak one to one and a half days after the injury occurs. Once they are in the wound site, monocytes mature into macrophages. The spleen contains half the body's monocytes in reserve ready to be deployed to injured tissue.
+
+The macrophage's main role is to phagocytize bacteria and damaged tissue, and they also debride damaged tissue by releasing proteases. Macrophages also secrete a number of factors such as growth factors and other cytokines, especially during the third and fourth post-wound days. These factors attract cells involved in the proliferation stage of healing to the area. Macrophages may also restrain the contraction phase. Macrophages are stimulated by the low oxygen content of their surroundings to produce factors that induce and speed angiogenesis and they also stimulate cells that re-epithelialize the wound, create granulation tissue, and lay down a new extracellular matrix. By secreting these factors, macrophages contribute to pushing the wound healing process into the next phase.
+
+Role in limb regeneration
+
+Scientists have elucidated that as well as eating up material debris, macrophages are involved in the typical limb regeneration in the salamander. They found that removing the macrophages from a salamander resulted in failure of limb regeneration and a scarring response.
+
+Role in iron homeostasis
+
+Main article: Human iron metabolism
+
+As described above, macrophages play a key role in removing dying or dead cells and cellular debris. Erythrocytes have a lifespan on average of 120 days and so are constantly being destroyed by macrophages in the spleen and liver. Macrophages will also engulf macromolecules, and so play a key role in the pharmacokinetics of parenteral irons.
+
+The iron that is released from the haemoglobin is either stored internally in ferritin or is released into the circulation via ferroportin. In cases where systemic iron levels are raised, or where inflammation is present, raised levels of hepcidin act on macrophage ferroportin channels, leading to iron remaining within the macrophages.
+
+Role in pigment retainment
+
+Melanophage
+
+Melanophages are a subset of tissue-resident macrophages able to absorb pigment, either native to the organism or exogenous (such as tattoos), from extracellular space. In contrast to dendritic juncional melanocytes, which synthesize melanosomes and contain various stages of their development, the melanophages only accumulate phagocytosed melanin in lysosome-like phagosomes. This occurs repeatedly as the pigment from dead dermal macrophages is phagocytosed by their successors, preserving the tattoo in the same place.
+
+Role in tissue homeostasis
+
+Every tissue harbors its own specialized population of resident macrophages, which entertain reciprocal interconnections with the stroma and functional tissue. These resident macrophages are sessile (non-migratory), provide essential growth factors to support the physiological function of the tissue (e.g. macrophage-neuronal crosstalk in the guts), and can actively protect the tissue from inflammatory damage.
+
+Clinical significance
+
+Due to their role in phagocytosis, macrophages are involved in many diseases of the immune system. For example, they participate in the formation of granulomas, inflammatory lesions that may be caused by a large number of diseases. Some disorders, mostly rare, of ineffective phagocytosis and macrophage function have been described, for example.
+
+As a host for intracellular pathogens
+
+In their role as a phagocytic immune cell macrophages are responsible for engulfing pathogens to destroy them. Some pathogens subvert this process and instead live inside the macrophage. This provides an environment in which the pathogen is hidden from the immune system and allows it to replicate.
+
+Diseases with this type of behaviour include tuberculosis (caused by Mycobacterium tuberculosis) and leishmaniasis (caused by Leishmania species).
+
+In order to minimize the possibility of becoming the host of an intracellular bacteria, macrophages have evolved defense mechanisms such as induction of nitric oxide and reactive oxygen intermediates, which are toxic to microbes. Macrophages have also evolved the ability to restrict the microbe's nutrient supply and induce autophagy.
+
+Tuberculosis
+
+Once engulfed by a macrophage, the causative agent of tuberculosis, Mycobacterium tuberculosis, avoids cellular defenses and uses the cell to replicate.
+
+Leishmaniasis
+
+Upon phagocytosis by a macrophage, the Leishmania parasite finds itself in a phagocytic vacuole. Under normal circumstances, this phagocytic vacuole would develop into a lysosome and its contents would be digested. Leishmania alter this process and avoid being destroyed; instead, they make a home inside the vacuole.
+
+Chikungunya
+
+Infection of macrophages in joints is associated with local inflammation during and after the acute phase of Chikungunya (caused by CHIKV or Chikungunya virus).
+
+Others
+
+Adenovirus (most common cause of pink eye) can remain latent in a host macrophage, with continued viral shedding 6–18 months after initial infection.
+
+Brucella spp. can remain latent in a macrophage via inhibition of phagosome–lysosome fusion; causes brucellosis (undulant fever).
+
+Legionella pneumophila, the causative agent of Legionnaires' disease, also establishes residence within macrophages.
+
+Heart disease
+
+Macrophages are the predominant cells involved in creating the progressive plaque lesions of atherosclerosis.
+
+Focal recruitment of macrophages occurs after the onset of acute myocardial infarction. These macrophages function to remove debris, apoptotic cells and to prepare for tissue regeneration.
+
+HIV infection
+
+Macrophages also play a role in human immunodeficiency virus (HIV) infection. Like T cells, macrophages can be infected with HIV, and even become a reservoir of ongoing virus replication throughout the body. HIV can enter the macrophage through binding of gp120 to CD4 and second membrane receptor, CCR5 (a chemokine receptor). Both circulating monocytes and macrophages serve as a reservoir for the virus. Macrophages are better able to resist infection by HIV-1 than CD4+ T cells, although susceptibility to HIV infection differs among macrophage subtypes.
+
+Cancer
+
+Macrophages can contribute to tumor growth and progression by promoting tumor cell proliferation and invasion, fostering tumor angiogenesis and suppressing antitumor immune cells. Attracted to oxygen-starved (hypoxic) and necrotic tumor cells they promote chronic inflammation. Inflammatory compounds such as tumor necrosis factor (TNF)-alpha released by the macrophages activate the gene switch nuclear factor-kappa B. NF-κB then enters the nucleus of a tumor cell and turns on production of proteins that stop apoptosis and promote cell proliferation and inflammation. Moreover, macrophages serve as a source for many pro-angiogenic factors including vascular endothelial factor (VEGF), tumor necrosis factor-alpha (TNF-alpha), Macrophage colony-stimulating factor (M-CSF/CSF1) and IL-1 and IL-6 contributing further to the tumor growth. Macrophages have been shown to infiltrate a number of tumors. Their number correlates with poor prognosis in certain cancers including cancers of breast, cervix, bladder, brain and prostate. Tumor-associated macrophages (TAMs) are thought to acquire an M2 phenotype, contributing to tumor growth and progression. Some tumors can also produce factors, including M-CSF/CSF1, MCP-1/CCL2 and Angiotensin II, that trigger the amplification and mobilization of macrophages in tumors. Research in various study models suggests that macrophages can sometimes acquire anti-tumor functions. For example, macrophages may have cytotoxic activity to kill tumor cells directly; also the co-operation of T-cells and macrophages is important to suppress tumors. This co-operation involves not only the direct contact of T-cell and macrophage, with antigen presentation, but also includes the secretion of adequate combinations of cytokines, which enhance T-cell antitumor activity. Recent study findings suggest that by forcing IFN-α expression in tumor-infiltrating macrophages, it is possible to blunt their innate protumoral activity and reprogram the tumor microenvironment toward more effective dendritic cell activation and immune effector cell cytotoxicity. Additionally, subcapsular sinus macrophages in tumor-draining lymph nodes can suppress cancer progression by containing the spread of tumor-derived materials.
+
+Cancer therapy
+
+Experimental studies indicate that macrophages can affect all therapeutic modalities, including surgery, chemotherapy, radiotherapy, immunotherapy and targeted therapy. Macrophages can influence treatment outcomes both positively and negatively. Macrophages can be protective in different ways: they can remove dead tumor cells (in a process called phagocytosis) following treatments that kill these cells; they can serve as drug depots for some anticancer drugs; they can also be activated by some therapies to promote antitumor immunity. Macrophages can also be deleterious in several ways: for example they can suppress various chemotherapies, radiotherapies and immunotherapies. Because macrophages can regulate tumor progression, therapeutic strategies to reduce the number of these cells, or to manipulate their phenotypes, are currently being tested in cancer patients. However, macrophages are also involved in antibody mediated cytotoxicity (ADCC)and this mechanism has been proposed to be important for certain cancer immunotherapy antibodies.
+
+Obesity
+
+It has been observed that increased number of pro-inflammatory macrophages within obese adipose tissue contributes to obesity complications including insulin resistance and diabetes type 2.
+
+Within the fat (adipose) tissue of CCR2 deficient mice, there is an increased number of eosinophils, greater alternative macrophage activation, and a propensity towards type 2 cytokine expression. Furthermore, this effect was exaggerated when the mice became obese from a high fat diet. This is partially caused by a phenotype switch of macrophages induced by necrosis of fat cells (adipocytes). In an obese individual some adipocytes burst and undergo necrotic death, which causes the residential M2 macrophages to switch to M1 phenotype. This is one of the causes of a low-grade systemic chronic inflammatory state associated with obesity.
+
+Intestinal macrophages
+
+Though very similar in structure to tissue macrophages, intestinal macrophages have evolved specific characteristics and functions given their natural environment, which is in the digestive tract. Macrophages and intestinal macrophages have high plasticity causing their phenotype to be altered by their environments. Like macrophages, intestinal macrophages are differentiated monocytes, though intestinal macrophages have to coexist with the microbiome in the intestines. This is a challenge considering the bacteria found in the gut are not recognized as "self" and could be potential targets for phagocytosis by the macrophage.
+
+To prevent the destruction of the gut bacteria, intestinal macrophages have developed key differences compared to other macrophages. Primarily, intestinal macrophages do not induce inflammatory responses. Whereas tissue macrophages release various inflammatory cytokines, such as IL-1, IL-6 and TNF-α, intestinal macrophages do not produce or secrete inflammatory cytokines. This change is directly caused by the intestinal macrophages environment. Surrounding intestinal epithelial cells release TGF-β, which induces the change from proinflammatory macrophage to noninflammatory macrophage.
+
+Even though the inflammatory response is downregulated in intestinal macrophages, phagocytosis is still carried out. There is no drop off in phagocytosis efficiency as intestinal macrophages are able to effectively phagocytize the bacteria,S. typhimurium and E. coli, but intestinal macrophages still do not release cytokines, even after phagocytosis. Also, intestinal macrophages do not express lipoplysaccharide (LPS), IgA, or IgG receptors. The lack of LPS receptors is important for the gut as the intestinal macrophages do not detect the microbe-associated molecular patterns (MAMPS/PAMPS) of the intestinal microbiome. Nor do they express IL-2 and IL-3 growth factor receptors.
+
+Role in disease
+
+Intestinal macrophages have been shown to play a role in inflammatory bowel disease (IBD), such as Crohn's disease (CD) and ulcerative colitis (UC). In a healthy gut, intestinal macrophages limit the inflammatory response in the gut, but in a disease-state, intestinal macrophage numbers and diversity are altered. This leads to inflammation of the gut and disease symptoms of IBD. Intestinal macrophages are critical in maintaining gut homeostasis. The presence of inflammation or pathogen alters this homeostasis, and concurrently alters the intestinal macrophages. There has yet to be a determined mechanism for the alteration of the intestinal macrophages by recruitment of new monocytes or changes in the already present intestinal macrophages.
+
+Media
+
+\t\t
+\t\t\tPlay media
+
+\t\t\t
+An active J774 macrophage is seen taking up four
+
+conidia in a co-operative manner. The J774 cells were treated with 5 ng/ml interferon-γ one night before filming with conidia. Observations were made every 30s over a 2.5hr period.
+
+\t\t\t
+
+\t\t
+
+\t\t
+\t\t\tPlay media
+
+\t\t\t
+Two highly active alveolar macrophages can be seen ingesting conidia. Time lapse is 30s per frame over 2.5hr.
+
+\t\t\t
+
+\t\t
+
+History
+
+ This section needs expansion. You can help by adding to it. (March 2018)
+
+See also
+
+Dendritic cell
+
+Histiocyte
+
+References
+
+^ Kress, H; Stelzer, EH; Holzer, D; Buss, F; Griffiths, G; Rohrbach, A (10 July 2007). "Filopodia act as phagocytic tentacles and pull with discrete steps and a load-dependent velocity". Proceedings of the National Academy of Sciences of the United States of America. 104 (28): 11633–8. Bibcode:2007PNAS..10411633K. doi:10.1073/pnas.0702449104. PMC 1913848. PMID 17620618.
+
+^ "Regenerative Medicine Partnership in Education". Archived from the original on 25 April 2015. Retrieved 7 May 2015.
+
+^ Ovchinnikov DA (September 2008). "Macrophages in the embryo and beyond: much more than just giant phagocytes". Genesis. 46 (9): 447–62. doi:10.1002/dvg.20417. PMID 18781633. Macrophages are present essentially in all tissues, beginning with embryonic development and, in addition to their role in host defense and in the clearance of apoptotic cells, are being increasingly recognized for their trophic function and role in regeneration.
+
+^ Mills CD (2012). "M1 and M2 Macrophages: Oracles of Health and Disease". Critical Reviews in Immunology. 32 (6): 463–88. doi:10.1615/CritRevImmunol.v32.i6.10. PMID 23428224.
+
+^ Krombach F, Münzing S, Allmeling AM, Gerlach JT, Behr J, Dörger M (September 1997). "Cell size of alveolar macrophages: an interspecies comparison". Environmental Health Perspectives. 105 Suppl 5 (Suppl 5): 1261–3. doi:10.2307/3433544. JSTOR 3433544. PMC 1470168. PMID 9400735.
+
+^ Khazen W, M'bika JP, Tomkiewicz C, Benelli C, Chany C, Achour A, Forest C (October 2005). "Expression of macrophage-selective markers in human and rodent adipocytes". FEBS Letters. 579 (25): 5631–4. doi:10.1016/j.febslet.2005.09.032. PMID 16213494.
+
+^ Semyon Zalkind (2001). Ilya Mechnikov: His Life and Work. Honolulu, Hawaii: University Press of the Pacific. pp. 78, 210. ISBN 978-0-89875-622-7.
+
+^ Lote, Christopher J. Principles of Renal Physiology, 5th edition. Springer. p. 37.
+
+^ Bonnardel J, Da Silva C, Henri S, Tamoutounour S, Chasson L, Montañana-Sanchis F, Gorvel JP, Lelouard H (May 2015). "Innate and adaptive immune functions of peyer's patch monocyte-derived cells". Cell Reports. 11 (5): 770–84. doi:10.1016/j.celrep.2015.03.067. PMID 25921539.
+
+^ Nes WD, Lukyanenko YO, Jia ZH, Quideau S, Howald WN, Pratum TK, West RR, Hutson JC (March 2000). "Identification of the lipophilic factor produced by macrophages that stimulates steroidogenesis". Endocrinology. 141 (3): 953–8. doi:10.1210/endo.141.3.7350. PMID 10698170. Retrieved 15 June 2019.CS1 maint: multiple names: authors list (link)
+
+^ Hulsmans M, Clauss S, Xiao L, Aguirre AD, King KR, Hanley A, Hucker WJ, Wülfers EM, Seemann G, Courties G, Iwamoto Y, Sun Y, Savol AJ, Sager HB, Lavine KJ, Fishbein GA, Capen DE, Da Silva N, Miquerol L, Wakimoto H, Seidman CE, Seidman JG, Sadreyev RI, Naxerova K, Mitchell RN, Brown D, Libby P, Weissleder R, Swirski FK, Kohl P, Vinegoni C, Milan DJ, Ellinor PT, Nahrendorf M (April 2017). "Macrophages Facilitate Electrical Conduction in the Heart". Cell. 169 (3): 510–522.e20. doi:10.1016/j.cell.2017.03.050. PMC 5474950. PMID 28431249.
+
+^ a b Mosser DM, Edwards JP (December 2008). "Exploring the full spectrum of macrophage activation". Nature Reviews. Immunology. 8 (12): 958–69. doi:10.1038/nri2448. PMC 2724991. PMID 19029990.
+
+^ Perdiguero EG, Geissmann F (January 2016). "The development and maintenance of resident macrophages". Nature Immunology. 17 (1): 2–8. doi:10.1038/ni.3341. PMC 4950995. PMID 26681456.
+
+^ Ginhoux F, Guilliams M (March 2016). "Tissue-Resident Macrophage Ontogeny and Homeostasis". Immunity. 44 (3): 439–449. doi:10.1016/j.immuni.2016.02.024. PMID 26982352.
+
+^ Pittet MJ, Nahrendorf M, Swirski FK (June 2014). "The journey from stem cell to macrophage". Annals of the New York Academy of Sciences. 1319 (1): 1–18. Bibcode:2014NYASA1319....1P. doi:10.1111/nyas.12393. PMC 4074243. PMID 24673186.
+
+^ a b c Sabine A. Eming1, Thomas Krieg and Jeffrey M. Davidson (2007). "Inflammation in Wound Repair: Molecular and Cellular Mechanisms" (PDF). come.mx. Archived from the original (PDF) on 1 July 2014. Retrieved 17 August 2013. Monocytes/macrophages. Unless stimuli for neutrophil recruitment persist at the wound site, the neutrophil infiltration ceases after few days, and expended neutrophils are themselves phagocytosed by macrophages, which are present at the wound side within 2 days after injury.
+
+^ YashRoy R.C. (2000). "Hijacking of Macrophages by Salmonella (310r) Through 'Types III' Secretion Like Exocytotic Signalling : A Mechanism for Infection of Chicken Ileum". Indian Journal of Poultry Science. 35 (3): 276–281.
+
+^ Chen Y, Zhang X (August 2017). "Pivotal regulators of tissue homeostasis and cancer: macrophages". Experimental Hematology & Oncology. 6: 23. doi:10.1186/s40164-017-0083-4. PMC 5549331. PMID 28804688.
+
+^ Goto H, das Graças Prianti M (2009). "Immunoactivation and immunopathogeny during active visceral leishmaniasis". Revista do Instituto de Medicina Tropical de Sao Paulo. 51 (5): 241–6. doi:10.1590/s0036-46652009000500002. PMID 19893975.
+
+^ Velasco-Velázquez MA, Barrera D, González-Arenas A, Rosales C, Agramonte-Hevia J (September 2003). "Macrophage--Mycobacterium tuberculosis interactions: role of complement receptor 3". Microbial Pathogenesis. 35 (3): 125–31. doi:10.1016/s0882-4010(03)00099-8. PMID 12927520.
+
+^ Matzaraki V, Kumar V, Wijmenga C, Zhernakova A (April 2017). "The MHC locus and genetic susceptibility to autoimmune and infectious diseases". Genome Biology. 18 (1): 76. doi:10.1186/s13059-017-1207-1. PMC 5406920. PMID 28449694.
+
+^ a b Vlahopoulos SA (August 2017). "Aberrant control of NF-κB in cancer permits transcriptional and phenotypic plasticity, to curtail dependence on host tissue: molecular mode". Cancer Biology & Medicine. 14 (3): 254–270. doi:10.20892/j.issn.2095-3941.2017.0029. PMC 5570602. PMID 28884042.
+
+^ "The lymphocyte story". New Scientist (1605). Retrieved 13 September 2007.
+
+^ a b c d Hesketh M, Sahin KB, West ZE, Murray RZ (July 2017). "Macrophage Phenotypes Regulate Scar Formation and Chronic Wound Healing". International Journal of Molecular Sciences. 18 (7): 1545. doi:10.3390/ijms18071545. PMC 5536033. PMID 28714933.
+
+^ Galdiero MR, Garlanda C, Jaillon S, Marone G, Mantovani A (July 2013). "Tumor associated macrophages and neutrophils in tumor progression". Journal of Cellular Physiology. 228 (7): 1404–12. doi:10.1002/jcp.24260. PMID 23065796.
+
+^ Hotamisligil GS (April 2010). "Endoplasmic reticulum stress and atherosclerosis". Nature Medicine. 16 (4): 396–9. doi:10.1038/nm0410-396. PMC 2897068. PMID 20376052.
+
+^ Oh J, Riek AE, Weng S, Petty M, Kim D, Colonna M, Cella M, Bernal-Mizrachi C (April 2012). "Endoplasmic reticulum stress controls M2 macrophage differentiation and foam cell formation". The Journal of Biological Chemistry. 287 (15): 11629–41. doi:10.1074/jbc.M111.338673. PMC 3320912. PMID 22356914.
+
+^ Krippendorf BB, Riley DA (January 1993). "Distinguishing unloading- versus reloading-induced changes in rat soleus muscle". Muscle & Nerve. 16 (1): 99–108. doi:10.1002/mus.880160116. PMID 8423838.
+
+^ a b c St Pierre BA, Tidball JG (July 1994). "Differential response of macrophage subpopulations to soleus muscle reloading after rat hindlimb suspension". Journal of Applied Physiology. 77 (1): 290–7. doi:10.1152/jappl.1994.77.1.290. PMID 7961247.
+
+^ Tidball JG, Berchenko E, Frenette J (April 1999). "Macrophage invasion does not contribute to muscle membrane injury during inflammation". Journal of Leukocyte Biology. 65 (4): 492–8. doi:10.1002/jlb.65.4.492. PMID 10204578.
+
+^ a b Schiaffino S, Partridge T (2008). Skeletal Muscle Repair and Regeneration. Advances in Muscle Research. 3.
+
+^ Bréchot N, Gomez E, Bignon M, Khallou-Laschet J, Dussiot M, Cazes A, Alanio-Bréchot C, Durand M, Philippe J, Silvestre JS, Van Rooijen N, Corvol P, Nicoletti A, Chazaud B, Germain S (2008). "Modulation of macrophage activation state protects tissue from necrosis during critical limb ischemia in thrombospondin-1-deficient mice". PLOS ONE. 3 (12): e3950. Bibcode:2008PLoSO...3.3950B. doi:10.1371/journal.pone.0003950. PMC 2597179. PMID 19079608.
+
+^ a b de la Torre J., Sholar A. (2006). Wound healing: Chronic wounds. Emedicine.com. Accessed 20 January 2008.
+
+^ Expert Reviews in Molecular Medicine. (2003). The phases of cutaneous wound healing Archived 17 December 2008 at the Wayback Machine. 5: 1. Cambridge University Press. Accessed 20 January 2008.
+
+^ Lorenz H.P. and Longaker M.T. (2003). Wounds: Biology, Pathology, and Management Archived 31 October 2005 at the Wayback Machine. Stanford University Medical Center. Accessed 20 January 2008.
+
+^ Swirski FK, Nahrendorf M, Etzrodt M, Wildgruber M, Cortez-Retamozo V, Panizzi P, Figueiredo JL, Kohler RH, Chudnovskiy A, Waterman P, Aikawa E, Mempel TR, Libby P, Weissleder R, Pittet MJ (July 2009). "Identification of splenic reservoir monocytes and their deployment to inflammatory sites". Science. 325 (5940): 612–6. Bibcode:2009Sci...325..612S. doi:10.1126/science.1175202. PMC 2803111. PMID 19644120.
+
+^ Jia T, Pamer EG (July 2009). "Immunology. Dispensable but not irrelevant". Science. 325 (5940): 549–50. Bibcode:2009Sci...325..549J. doi:10.1126/science.1178329. PMC 2917045. PMID 19644100.
+
+^ Deodhar AK, Rana RE (1997). "Surgical physiology of wound healing: a review". Journal of Postgraduate Medicine. 43 (2): 52–6. PMID 10740722.
+
+^ Rosenberg L., de la Torre J. (2006). Wound Healing, Growth Factors. Emedicine.com. Accessed 20 January 2008.
+
+^ Newton PM, Watson JA, Wolowacz RG, Wood EJ (August 2004). "Macrophages restrain contraction of an in vitro wound healing model". Inflammation. 28 (4): 207–14. doi:10.1023/B:IFLA.0000049045.41784.59. PMID 15673162.
+
+^ Greenhalgh DG (September 1998). "The role of apoptosis in wound healing". The International Journal of Biochemistry & Cell Biology. 30 (9): 1019–30. doi:10.1016/S1357-2725(98)00058-2. PMID 9785465.
+
+^ Stashak TS, Farstvedt E, Othic A (June 2004). "Update on wound dressings: Indications and best use". Clinical Techniques in Equine Practice. 3 (2): 148–163. doi:10.1053/j.ctep.2004.08.006.
+
+^ a b Souppouris A (23 May 2013). "Scientists identify cell that could hold the secret to limb regeneration". the verge.com. Researchers have identified a cell that aids limb regrowth in Salamanders. Macrophages are a type of repairing cell that devour dead cells and pathogens, and trigger other immune cells to respond to pathogens.
+
+^ a b Godwin JW, Pinto AR, Rosenthal NA (June 2013). "Macrophages are required for adult salamander limb regeneration". Proceedings of the National Academy of Sciences of the United States of America. 110 (23): 9415–20. Bibcode:2013PNAS..110.9415G. doi:10.1073/pnas.1300290110. PMC 3677454. PMID 23690624.
+
+^ Mishima Y (October 1967). "Lysosomes in malanin phagocytosis and synthesis". Nature. 216 (5110): 67. Bibcode:1967Natur.216...67M. doi:10.1038/216067a0. PMID 6050674.
+
+^ Mishima, Yutaka (January 1966). "Cellular and Subcellular Differentiation of Melanin Phagocytosis and Synthesis by Lysosomal and Melanosomal Activity**From the Departments of Dermatology, Wayne State University School of Medicine, Detroit General Hospital, Detroit, Michigan, and Veterans Administration Hospital, Dearborn, Michigan". Journal of Investigative Dermatology. 46 (1): 70–75. doi:10.1038/jid.1966.11. ISSN 0022-202X. PMID 5905254.
+
+^ Baranska A, Shawket A, Jouve M, Baratin M, Malosse C, Voluzan O, Vu Manh TP, Fiore F, Bajénoff M, Benaroch P, Dalod M, Malissen M, Henri S, Malissen B (April 2018). "Unveiling skin macrophage dynamics explains both tattoo persistence and strenuous removal". The Journal of Experimental Medicine. 215 (4): 1115–1133. doi:10.1084/jem.20171608. PMC 5881467. PMID 29511065.
+
+^ Okabe Y, Medzhitov R (May 2014). "Tissue-specific signals control reversible program of localization and functional polarization of macrophages". Cell. 157 (4): 832–44. doi:10.1016/j.cell.2014.04.016. PMC 4137874. PMID 24792964.
+
+^ Gosselin D, Link VM, Romanoski CE, Fonseca GJ, Eichenfield DZ, Spann NJ, Stender JD, Chun HB, Garner H, Geissmann F, Glass CK (December 2014). "Environment drives selection and function of enhancers controlling tissue-specific macrophage identities". Cell. 159 (6): 1327–40. doi:10.1016/j.cell.2014.11.023. PMC 4364385. PMID 25480297.
+
+^ Muller PA, Koscsó B, Rajani GM, Stevanovic K, Berres ML, Hashimoto D, Mortha A, Leboeuf M, Li XM, Mucida D, Stanley ER, Dahan S, Margolis KG, Gershon MD, Merad M, Bogunovic M (July 2014). "Crosstalk between muscularis macrophages and enteric neurons regulates gastrointestinal motility". Cell. 158 (2): 300–313. doi:10.1016/j.cell.2014.04.050. PMC 4149228. PMID 25036630.
+
+^ Uderhardt S, Martins AJ, Tsang JS, Lämmermann T, Germain RN (April 2019). "Resident Macrophages Cloak Tissue Microlesions to Prevent Neutrophil-Driven Inflammatory Damage". Cell. 177 (3): 541–555.e17. doi:10.1016/j.cell.2019.02.028. PMC 6474841. PMID 30955887.
+
+^ Wolf AJ, Underhill DM (2014). "Macrophages: Biology and Role in the Pathology of Diseases". Phagocytosis. Springer New York. pp. 91–109. doi:10.1007/978-1-4939-1311-4_5. ISBN 9781493913107.
+
+^ Weiss G, Schaible UE (March 2015). "Macrophage defense mechanisms against intracellular bacteria". Immunological Reviews. 264 (1): 182–203. doi:10.1111/imr.12266. PMC 4368383. PMID 25703560.
+
+^ Ryan KJ, Ray CG, eds. (2004). Sherris Medical Microbiology (4th ed.). McGraw Hill. ISBN 978-0-8385-8529-0.
+
+^ Dupuis-Maguiraga L, Noret M, Brun S, Le Grand R, Gras G, Roques P (2012). "Chikungunya disease: infection-associated markers from the acute to the chronic phase of arbovirus-induced arthralgia". PLoS Neglected Tropical Diseases. 6 (3): e1446. doi:10.1371/journal.pntd.0001446. PMC 3313943. PMID 22479654.
+
+^ Lucas AD, Greaves DR (November 2001). "Atherosclerosis: role of chemokines and macrophages". Expert Reviews in Molecular Medicine. 3 (25): 1–18. doi:10.1017/S1462399401003696. PMID 14585150.
+
+^ Frantz S, Nahrendorf M (May 2014). "Cardiac macrophages and their role in ischaemic heart disease". Cardiovascular Research. 102 (2): 240–8. doi:10.1093/cvr/cvu025. PMC 3989449. PMID 24501331.
+
+^ Bol SM, Cobos-Jiménez V, Kootstra NA, van't Wout AB (February 2011). "Macrophage". Future Virology. 6 (2): 187–208. doi:10.2217/fvl.10.93.
+
+^ Koppensteiner H, Brack-Werner R, Schindler M (October 2012). "Macrophages and their relevance in Human Immunodeficiency Virus Type I infection". Retrovirology. 9 (1): 82. doi:10.1186/1742-4690-9-82. PMC 3484033. PMID 23035819.
+
+^ Qian BZ, Pollard JW (April 2010). "Macrophage diversity enhances tumor progression and metastasis". Cell. 141 (1): 39–51. doi:10.1016/j.cell.2010.03.014. PMC 4994190. PMID 20371344.
+
+^ a b c Engblom C, Pfirschke C, Pittet MJ (July 2016). "The role of myeloid cells in cancer therapies". Nature Reviews. Cancer. 16 (7): 447–62. doi:10.1038/nrc.2016.54. PMID 27339708.
+
+^ Stix G (July 2007). "A malignant flame. Understanding chronic inflammation, which contributes to heart disease, Alzheimer's and a variety of other ailments, may be a key to unlocking the mysteries of cancer". Scientific American. 297 (1): 60–7. Bibcode:2007SciAm.297a..60S. doi:10.1038/scientificamerican0707-60. PMID 17695843.
+
+^ Lin EY, Li JF, Gnatovskiy L, Deng Y, Zhu L, Grzesik DA, Qian H, Xue XN, Pollard JW (December 2006). "Macrophages regulate the angiogenic switch in a mouse model of breast cancer". Cancer Research. 66 (23): 11238–46. doi:10.1158/0008-5472.can-06-1278. PMID 17114237.
+
+^ Bingle L, Brown NJ, Lewis CE. The role of tumour-associated macrophages in tumour progression: implications for new anticancer therapies. J Pathol 2002; 196:254–65.
+
+^ de Groot, Amber E. (July 2018). "In vitro human tumor-associated macrophage model implicates macrophage proliferation as a mechanism for maintaining tumor-associated macrophage populations". Cancer Research. 78 (13 Supplement): 4060. doi:10.1158/1538-7445.AM2018-4060.
+
+^ Lin EY, Nguyen AV, Russell RG, Pollard JW (March 2001). "Colony-stimulating factor 1 promotes progression of mammary tumors to malignancy". The Journal of Experimental Medicine. 193 (6): 727–40. doi:10.1084/jem.193.6.727. PMC 2193412. PMID 11257139.
+
+^ Qian BZ, Li J, Zhang H, Kitamura T, Zhang J, Campion LR, Kaiser EA, Snyder LA, Pollard JW (June 2011). "CCL2 recruits inflammatory monocytes to facilitate breast-tumour metastasis". Nature. 475 (7355): 222–5. doi:10.1038/nature10138. PMC 3208506. PMID 21654748.
+
+^ Cortez-Retamozo V, Etzrodt M, Newton A, Ryan R, Pucci F, Sio SW, Kuswanto W, Rauch PJ, Chudnovskiy A, Iwamoto Y, Kohler R, Marinelli B, Gorbatov R, Wojtkiewicz G, Panizzi P, Mino-Kenudson M, Forghani R, Figueiredo JL, Chen JW, Xavier R, Swirski FK, Nahrendorf M, Weissleder R, Pittet MJ (February 2013). "Angiotensin II drives the production of tumor-promoting macrophages". Immunity. 38 (2): 296–308. doi:10.1016/j.immuni.2012.10.015. PMC 3582771. PMID 23333075.
+
+^ Hibbs JB, Taintor RR, Vavrin Z (January 1987). "Macrophage cytotoxicity: role for L-arginine deiminase and imino nitrogen oxidation to nitrite". Science. 235 (4787): 473–6. Bibcode:1987Sci...235..473H. doi:10.1126/science.2432665. PMID 2432665.
+
+^ Escobar G, Moi D, Ranghetti A, Ozkal-Baydin P, Squadrito ML, Kajaste-Rudnitski A, Bondanza A, Gentner B, De Palma M, Mazzieri R, Naldini L (January 2014). "Genetic engineering of hematopoiesis for targeted IFN-α delivery inhibits breast cancer progression". Science Translational Medicine. 6 (217): 217ra3. doi:10.1126/scitranslmed.3006353. PMID 24382895.
+
+^ Pucci F, Garris C, Lai CP, Newton A, Pfirschke C, Engblom C, Alvarez D, Sprachman M, Evavold C, Magnuson A, von Andrian UH, Glatz K, Breakefield XO, Mempel TR, Weissleder R, Pittet MJ (April 2016). "SCS macrophages suppress melanoma by restricting tumor-derived vesicle-B cell interactions". Science. 352 (6282): 242–6. Bibcode:2016Sci...352..242P. doi:10.1126/science.aaf1328. PMC 4960636. PMID 26989197.
+
+^ Mantovani A, Allavena P (April 2015). "The interaction of anticancer therapies with tumor-associated macrophages". The Journal of Experimental Medicine. 212 (4): 435–45. doi:10.1084/jem.20150295. PMC 4387285. PMID 25753580.
+
+^ De Palma M, Lewis CE (March 2013). "Macrophage regulation of tumor responses to anticancer therapies". Cancer Cell. 23 (3): 277–86. doi:10.1016/j.ccr.2013.02.013. PMID 23518347.
+
+^ Miller MA, Zheng YR, Gadde S, Pfirschke C, Zope H, Engblom C, Kohler RH, Iwamoto Y, Yang KS, Askevold B, Kolishetti N, Pittet M, Lippard SJ, Farokhzad OC, Weissleder R (October 2015). "Tumour-associated macrophages act as a slow-release reservoir of nano-therapeutic Pt(IV) pro-drug". Nature Communications. 6: 8692. Bibcode:2015NatCo...6.8692M. doi:10.1038/ncomms9692. PMC 4711745. PMID 26503691.
+
+^ Klug F, Prakash H, Huber PE, Seibel T, Bender N, Halama N, Pfirschke C, Voss RH, Timke C, Umansky L, Klapproth K, Schäkel K, Garbi N, Jäger D, Weitz J, Schmitz-Winnenthal H, Hämmerling GJ, Beckhove P (November 2013). "Low-dose irradiation programs macrophage differentiation to an iNOS⁺/M1 phenotype that orchestrates effective T cell immunotherapy". Cancer Cell. 24 (5): 589–602. doi:10.1016/j.ccr.2013.09.014. PMID 24209604.
+
+^ Ruffell B, Chang-Strachan D, Chan V, Rosenbusch A, Ho CM, Pryer N, Daniel D, Hwang ES, Rugo HS, Coussens LM (November 2014). "Macrophage IL-10 blocks CD8+ T cell-dependent responses to chemotherapy by suppressing IL-12 expression in intratumoral dendritic cells". Cancer Cell. 26 (5): 623–37. doi:10.1016/j.ccell.2014.09.006. PMC 4254570. PMID 25446896.
+
+^ DeNardo DG, Brennan DJ, Rexhepaj E, Ruffell B, Shiao SL, Madden SF, Gallagher WM, Wadhwani N, Keil SD, Junaid SA, Rugo HS, Hwang ES, Jirström K, West BL, Coussens LM (June 2011). "Leukocyte complexity predicts breast cancer survival and functionally regulates response to chemotherapy". Cancer Discovery. 1 (1): 54–67. doi:10.1158/2159-8274.CD-10-0028. PMC 3203524. PMID 22039576.
+
+^ Shiao SL, Ruffell B, DeNardo DG, Faddegon BA, Park CC, Coussens LM (May 2015). "TH2-Polarized CD4(+) T Cells and Macrophages Limit Efficacy of Radiotherapy". Cancer Immunology Research. 3 (5): 518–25. doi:10.1158/2326-6066.CIR-14-0232. PMC 4420686. PMID 25716473.
+
+^ Kozin SV, Kamoun WS, Huang Y, Dawson MR, Jain RK, Duda DG (July 2010). "Recruitment of myeloid but not endothelial precursor cells facilitates tumor regrowth after local irradiation". Cancer Research. 70 (14): 5679–85. doi:10.1158/0008-5472.CAN-09-4446. PMC 2918387. PMID 20631066.
+
+^ Arlauckas SP, Garris CS, Kohler RH, Kitaoka M, Cuccarese MF, Yang KS, Miller MA, Carlson JC, Freeman GJ, Anthony RM, Weissleder R, Pittet MJ (May 2017). "In vivo imaging reveals a tumor-associated macrophage-mediated resistance pathway in anti-PD-1 therapy". Science Translational Medicine. 9 (389): eaal3604. doi:10.1126/scitranslmed.aal3604. PMC 5734617. PMID 28490665.
+
+^ Zhu Y, Knolhoff BL, Meyer MA, Nywening TM, West BL, Luo J, Wang-Gillam A, Goedegebuure SP, Linehan DC, DeNardo DG (September 2014). "CSF1/CSF1R blockade reprograms tumor-infiltrating macrophages and improves response to T-cell checkpoint immunotherapy in pancreatic cancer models". Cancer Research. 74 (18): 5057–69. doi:10.1158/0008-5472.CAN-13-3723. PMC 4182950. PMID 25082815.
+
+^ Ries CH, Cannarile MA, Hoves S, Benz J, Wartha K, Runza V, Rey-Giraud F, Pradel LP, Feuerhake F, Klaman I, Jones T, Jucknischke U, Scheiblich S, Kaluza K, Gorr IH, Walz A, Abiraj K, Cassier PA, Sica A, Gomez-Roca C, de Visser KE, Italiano A, Le Tourneau C, Delord JP, Levitsky H, Blay JY, Rüttinger D (June 2014). "Targeting tumor-associated macrophages with anti-CSF-1R antibody reveals a strategy for cancer therapy". Cancer Cell. 25 (6): 846–59. doi:10.1016/j.ccr.2014.05.016. PMID 24898549.
+
+^ Ruffell B, Coussens LM (April 2015). "Macrophages and therapeutic resistance in cancer". Cancer Cell. 27 (4): 462–72. doi:10.1016/j.ccell.2015.02.015. PMC 4400235. PMID 25858805.
+
+^ Sharma N, Vacher J, Allison JP (May 2019). "TLR1/2 ligand enhances antitumor efficacy of CTLA-4 blockade by increasing intratumoral Treg depletion". Proceedings of the National Academy of Sciences of the United States of America. 116 (21): 10453–10462. doi:10.1073/pnas.1819004116. PMC 6534983. PMID 31076558.
+
+^ Weisberg SP, McCann D, Desai M, Rosenbaum M, Leibel RL, Ferrante AW. Obesity is associated with macrophage accumulation in adipose tissue" Journal of Clinical Investigation 2003; 112:1796–808.
+
+^ Bolus WR, Gutierrez DA, Kennedy AJ, Anderson-Baucum EK, Hasty AH (October 2015). "CCR2 deficiency leads to increased eosinophils, alternative macrophage activation, and type 2 cytokine expression in adipose tissue". Journal of Leukocyte Biology. 98 (4): 467–77. doi:10.1189/jlb.3HI0115-018R. PMC 4763864. PMID 25934927.
+
+^ Boutens L, Stienstra R (May 2016). "Adipose tissue macrophages: going off track during obesity". Diabetologia. 59 (5): 879–94. doi:10.1007/s00125-016-3904-9. PMC 4826424. PMID 26940592.
+
+^ Cinti S, Mitchell G, Barbatelli G, Murano I, Ceresi E, Faloia E, Wang S, Fortier M, Greenberg AS, Obin MS (November 2005). "Adipocyte death defines macrophage localization and function in adipose tissue of obese mice and humans". Journal of Lipid Research. 46 (11): 2347–55. doi:10.1194/jlr.M500294-JLR200. PMID 16150820.
+
+^ Kühl AA, Erben U, Kredel LI, Siegmund B (7 December 2015). "Diversity of Intestinal Macrophages in Inflammatory Bowel Diseases". Frontiers in Immunology. 6: 613. doi:10.3389/fimmu.2015.00613. PMC 4670857. PMID 26697009.
+
+^ a b c Smythies LE, Sellers M, Clements RH, Mosteller-Barnum M, Meng G, Benjamin WH, Orenstein JM, Smith PD (January 2005). "Human intestinal macrophages display profound inflammatory anergy despite avid phagocytic and bacteriocidal activity". The Journal of Clinical Investigation. 115 (1): 66–75. doi:10.1172/JCI19229. PMC 539188. PMID 15630445.
+
+^ a b Mowat, Allen Mci (2011). "Mucosal macrophages in intestinal homeostasis and inflammation". Journal of Innate Immunity. 6: 550–564 – via Proquest.
+
+^ Bain CC, Mowat AM (July 2014). "Macrophages in intestinal homeostasis and inflammation". Immunological Reviews. 260 (1): 102–17. doi:10.1111/imr.12192. PMC 4141699. PMID 24942685.
+
+External links
+
+ Wikimedia Commons has media related to Macrophages.
+
+HIV and the Macrophage A book on the role of macrophages in AIDS pathogenesis
+
+The role of macrophages in HIV pathogenesis
+
+Macrophages News Macrophages News provided by insciences organisation
+
+www.macrophages.com The Macrophage Community Website
+
+‹ The template below (Myeloid blood cells and plasma) is being considered for merging. See templates for discussion to help reach a consensus. ›
+
+v
+
+t
+
+e
+
+Myeloid blood cells and plasma
+
+Myeloid
+
+Granulocytes 
+CFU-G
+
+Band cell
+
+Neutrophil
+
+Basophil
+CFU-Baso
+
+Eosinophil
+CFU-Eos
+
+Mast cell
+CFU-Mast
+
+Monocytes
+
+Macrophages 
+Histiocytes
+
+Kupffer cells
+
+Alveolar macrophage
+
+Microglia
+
+Osteoclasts
+
+Epithelioid cells
+
+Peritoneal macrophage
+
+giant cells
+Langhans giant cells, Foreign-body giant cell
+
+Touton giant cells
+
+Other 
+Antigen-presenting cells
+Dendritic cells
+
+Langerhans cell
+
+CFU-DL
+
+CFU-M
+MPS
+
+Platelets 
+CFU-Meg
+
+Megakaryoblast
+
+Promegakaryocyte
+
+Megakaryocyte
+
+Red blood cells 
+Reticulocyte
+
+Normoblast
+
+CFU-E
+
+Other 
+Precursor cells
+CFU-GM
+
+Megakaryocyte–erythroid progenitor cell
+
+CFU-GEMM
+
+Myelomonocyte
+
+Other 
+Plasma
+
+Hematopoietic system
+Hematopoietic stem cell
+
+Authority control 
+NDL: 00561229
+
+TH: H2.00.03.0.01007

@@ -1,0 +1,674 @@
+"Computer architecture
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "32-bit computing" – news · newspapers · books · scholar · JSTOR (October 2009) (Learn how and when to remove this template message)
+
+Computer architecture bit widths
+
+Bit
+
+1
+
+4
+
+8
+
+12
+
+16
+
+18
+
+24
+
+26
+
+28
+
+30
+
+31
+
+32
+
+36
+
+45
+
+48
+
+60
+
+64
+
+128
+
+256
+
+512
+
+bit slicing
+
+Application
+
+8
+
+16
+
+32
+
+64
+
+Binary floating-point precision
+
+16
+
+32
+
+40
+
+64
+
+80
+
+128
+
+256
+
+×½
+
+×1
+
+×2
+
+×4
+
+×8
+
+Decimal floating-point precision
+
+32
+
+64
+
+128
+
+v
+
+t
+
+e
+
+In computer architecture, 32-bit integers, memory addresses, or other data units are those that are 32 bits (4 octets) wide. Also, 32-bit CPU and ALU architectures are those that are based on registers, address buses, or data buses of that size. 32-bit microcomputers are computers in which 32-bit microprocessors are the norm.
+
+Contents
+
+1 Range for storing integers
+
+2 Technical history
+
+3 Architectures
+
+4 Applications
+
+5 Images
+
+6 File formats
+
+7 See also
+
+8 References
+
+9 External links
+
+Range for storing integers
+
+A 32-bit register can store 232 different values. The range of integer values that can be stored in 32 bits depends on the integer representation used. With the two most common representations, the range is 0 through 4,294,967,295 (232 − 1) for representation as an (unsigned) binary number, and −2,147,483,648 (−231) through 2,147,483,647 (231 − 1) for representation as two's complement.
+
+One important consequence is that a processor with 32-bit memory addresses can directly access at most 4 GiB of byte-addressable memory (though in practice the limit may be lower).
+
+Technical history
+
+The world's first stored program electronic computer, the Manchester Baby, used a 32-bit architecture in 1948, although it was only a proof of concept and had little practical capacity. It held only 32 32-bit words of RAM on a Williams tube, and had no addition operation, only subtraction.
+
+Memory, as well as other digital circuits and wiring, was expensive during the first decades of 32-bit architectures (the 1960s to the 1980s). Older 32-bit processor families (or simpler, cheaper variants thereof) could therefore have many compromises and limitations in order to cut costs. This could be a 16-bit ALU, for instance, or external (or internal) buses narrower than 32 bits, limiting memory size or demanding more cycles for instruction fetch, execution or write back.
+
+Despite this, such processors could be labeled "32-bit", since they still had 32-bit registers and instructions able to manipulate 32-bit quantities. For example, the IBM System/360 Model 30 had an 8-bit ALU, 8-bit internal data paths, and an 8-bit path to memory, and the original Motorola 68000 had a 16-bit data ALU and a 16-bit external data bus, but had 32-bit registers and a 32-bit based instruction set. The 68000 design was sometimes referred to as "16/32-bit".
+
+However, the opposite is often true for newer 32-bit designs. For example, the Pentium Pro processor is a 32-bit machine, with 32-bit registers and instructions that manipulate 32-bit quantities, but the external address bus is 36 bits wide, giving a larger address space than 4 GB, and the external data bus is 64 bits wide, primarily in order to permit a more efficient prefetch of instructions and data.
+
+Architectures
+
+Prominent 32-bit instruction set architectures used in general-purpose computing include the IBM System/360 and IBM System/370 (which had 24-bit addressing) and the System/370-XA, ESA/370, and ESA/390 (which had 31-bit addressing), the DEC VAX, the NS320xx, the Motorola 68000 family (the first two models of which had 24-bit addressing), the Intel IA-32 32-bit version of the x86 architecture, and the 32-bit versions of the ARM, SPARC, MIPS, PowerPC and PA-RISC architectures. 32-bit instruction set architectures used for embedded computing include the 68000 family and ColdFire, x86, ARM, MIPS, PowerPC, and Infineon TriCore architectures.
+
+Applications
+
+On the x86 architecture, a 32-bit application normally means software that typically (not necessarily) uses the 32-bit linear address space (or flat memory model) possible with the 80386 and later chips. In this context, the term came about because DOS, Microsoft Windows and OS/2 were originally written for the 8088/8086 or 80286, 16-bit microprocessors with a segmented address space where programs had to switch between segments to reach more than 64 kilobytes of code or data. As this is quite time-consuming in comparison to other machine operations, the performance may suffer. Furthermore, programming with segments tend to become complicated; special far and near keywords or memory models had to be used (with care), not only in assembly language but also in high level languages such as Pascal, compiled BASIC, Fortran, C, etc.
+
+The 80386 and its successors fully support the 16-bit segments of the 80286 but also segments for 32-bit address offsets (using the new 32-bit width of the main registers). If the base address of all 32-bit segments is set to 0, and segment registers are not used explicitly, the segmentation can be forgotten and the processor appears as having a simple linear 32-bit address space. Operating systems like Windows or OS/2 provide the possibility to run 16-bit (segmented) programs as well as 32-bit programs. The former possibility exists for backward compatibility and the latter is usually meant to be used for new software development.
+
+Images
+
+In digital images/pictures, 32-bit usually refers to RGBA color space; that is, 24-bit truecolor images with an additional 8-bit alpha channel. Other image formats also specify 32 bits per pixel, such as RGBE.
+
+In digital images, 32-bit sometimes refers to high-dynamic-range imaging (HDR) formats that use 32 bits per channel, a total of 96 bits per pixel. 32-bit-per-channel images are used to represent values brighter than what sRGB color space allows (brighter than white); these values can then be used to more accurately retain bright highlights when either lowering the exposure of the image or when it is seen through a dark filter or dull reflection.
+
+For example, a reflection in an oil slick is only a fraction of that seen in a mirror surface. HDR imagery allows for the reflection of highlights that can still be seen as bright white areas, instead of dull grey shapes.
+
+File formats
+
+A 32-bit file format is a binary file format for which each elementary information is defined on 32 bits (or 4 bytes). An example of such a format is the Enhanced Metafile Format.
+
+See also
+
+16-bit
+
+64-bit
+
+History of video games (32-bit era)
+
+Word (data type)
+
+Physical Address Extension (PAE)
+
+References
+
+^ Patterson, David; Ditzel, David (2000). Readings in Computer Architecture. San Diego: Academic Press. p. 136. ISBN 9781558605398.
+
+^ IBM System/360 Model 30 Functional Characteristics (PDF). IBM. August 1971. pp. 8, 9. GA24-3231-7.
+
+^ "68000 users manual" (PDF).
+
+^ Gwennap, Linley (16 February 1995). "Intel's P6 Uses Decoupled Superscalar Design" (PDF). Microprocessor Report. Retrieved 3 December 2012.
+
+^ "ARM architecture overview" (PDF).
+
+^ There were also variants of UNIX for the 80286.
+
+This article is based on material taken from the Free On-line Dictionary of Computing prior to 1 November 2008 and incorporated under the "relicensing" terms of the GFDL, version 1.3 or later.
+
+External links
+
+HOW Stuff Works "How Bits and Bytes work"
+
+Ken Colburn on LockerGnome.com: 32-Bit Vs. 64-Bit Windows
+
+v
+
+t
+
+e
+
+Processor technologies
+
+Models 
+Turing machine
+Universal
+
+Post–Turing
+
+Quantum
+
+Belt machine
+
+Stack machine
+
+Finite-state machine
+with datapath
+
+Hierarchical
+
+Queue automaton
+
+Register machines
+Counter
+
+Pointer
+
+Random-access
+
+Random-access stored program
+
+Architecture 
+Microarchitecture
+
+Von Neumann
+
+Harvard
+modified
+
+Dataflow
+
+Transport-triggered
+
+Cellular
+
+Endianness
+
+Memory access
+NUMA
+
+HUMA
+
+Load/store
+
+Register/memory
+
+Cache hierarchy
+
+Memory hierarchy
+Virtual memory
+
+Secondary storage
+
+Heterogeneous
+
+Fabric
+
+Multiprocessing
+
+Cognitive
+
+Neuromorphic
+
+Instruction set
+
+architectures
+
+Types 
+CISC
+
+RISC
+
+Application-specific
+
+EDGE
+TRIPS
+
+VLIW
+EPIC
+
+MISC
+
+OISC
+
+NISC
+
+ZISC
+
+Comparison
+Addressing modes
+
+Instruction sets 
+x86
+
+ARM
+
+MIPS
+
+Power ISA
+
+SPARC
+
+Itanium
+
+Unicore
+
+MicroBlaze
+
+RISC-V
+
+LMC
+
+Others
+
+Execution
+
+Instruction pipelining 
+Pipeline stall
+
+Operand forwarding
+
+Classic RISC pipeline
+
+Hazards 
+Data dependency
+
+Structural
+
+Control
+
+False sharing
+
+Out-of-order 
+Tomasulo algorithm
+Reservation station
+
+Re-order buffer
+
+Register renaming
+
+Speculative 
+Branch prediction
+
+Memory dependence prediction
+
+Parallelism
+
+Level 
+Bit
+Bit-serial
+
+Word
+
+Instruction
+
+Pipelining
+Scalar
+
+Superscalar
+
+Task
+Thread
+
+Process
+
+Data
+Vector
+
+Memory
+
+Distributed
+
+Multithreading 
+Temporal
+
+Simultaneous
+Hyperthreading
+
+Speculative
+
+Preemptive
+
+Cooperative
+
+Flynn's taxonomy 
+SISD
+
+SIMD
+SWAR
+
+SIMT
+
+MISD
+
+MIMD
+SPMD
+
+Processor
+
+performance 
+Transistor count
+
+Instructions per cycle (IPC)
+Cycles per instruction (CPI)
+
+Instructions per second (IPS)
+
+Floating-point operations per second (FLOPS)
+
+Transactions per second (TPS)
+
+Synaptic updates per second (SUPS)
+
+Performance per watt (PPW)
+
+Cache performance metrics
+
+Computer performance by orders of magnitude
+
+Types 
+Central processing unit (CPU)
+
+Graphics processing unit (GPU)
+GPGPU
+
+Vector
+
+Barrel
+
+Stream
+
+Coprocessor
+
+ASIC
+
+FPGA
+
+CPLD
+
+Multi-chip module (MCM)
+
+System in package (SiP)
+
+By application 
+Microprocessor
+
+Microcontroller
+
+Mobile
+
+Notebook
+
+Ultra-low-voltage
+
+ASIP
+
+Systems
+
+on chip 
+System on a chip (SoC)
+
+Multiprocessor (MPSoC)
+
+Programmable (PSoC)
+
+Network on a chip (NoC)
+
+Hardware
+
+accelerators 
+AI accelerator
+
+Vision processing unit (VPU)
+
+Physics processing unit (PPU)
+
+Digital signal processor (DSP)
+
+Tensor processing unit (TPU)
+
+Secure cryptoprocessor
+
+Network processor
+
+Baseband processor
+
+Word size 
+1-bit
+
+4-bit
+
+8-bit
+
+12-bit
+
+15-bit
+
+16-bit
+
+24-bit
+
+32-bit
+
+48-bit
+
+64-bit
+
+128-bit
+
+256-bit
+
+512-bit
+
+bit slicing
+
+others
+variable
+
+Core count 
+Single-core
+
+Multi-core
+
+Manycore
+
+Heterogeneous architecture
+
+Components 
+Core
+
+Cache
+CPU cache
+
+replacement policies
+
+coherence
+
+Bus
+
+Clock rate
+
+Clock signal
+
+FIFO
+
+Functional units 
+Arithmetic logic unit (ALU)
+
+Address generation unit (AGU)
+
+Floating-point unit (FPU)
+
+Memory management unit (MMU)
+Load–store unit
+
+Translation lookaside buffer (TLB)
+
+Integrated memory controller (IMC)
+
+Logic 
+Combinational
+
+Sequential
+
+Glue
+
+Logic gate
+Quantum
+
+Array
+
+Registers 
+Processor register
+
+Status register
+
+Stack register
+
+Register file
+
+Memory buffer
+
+Program counter
+
+Control unit 
+Instruction unit
+
+Data buffer
+
+Write buffer
+
+Microcode ROM
+
+Counter
+
+Datapath 
+Multiplexer
+
+Demultiplexer
+
+Adder
+
+Multiplier
+CPU
+
+Binary decoder
+Address decoder
+
+Sum addressed decoder
+
+Barrel shifter
+
+Circuitry 
+Integrated circuit
+3D
+
+Mixed-signal
+
+Power management
+
+Boolean
+
+Digital
+
+Analog
+
+Quantum
+
+Switch
+
+Power
+
+management 
+PMU
+
+APM
+
+ACPI
+
+Dynamic frequency scaling
+
+Dynamic voltage scaling
+
+Clock gating
+
+Performance per watt (PPW)
+
+Race to sleep
+
+Related 
+History of general-purpose CPUs
+
+Microprocessor chronology
+
+Processor design
+
+Digital electronics
+
+Hardware security module
+
+Semiconductor device fabrication
+
+Tick–tock model

@@ -1,0 +1,701 @@
+"English alphabet
+
+An English pangram displaying all the characters in context, in Dax Regular typeface.
+
+Type Logographic (non-phonetic ideographic) and alphabetic
+
+Languages 
+English
+
+Written English
+
+Time period
+
+c.1500 to present
+
+Parent systems
+
+(Proto-writing)Egyptian hieroglyphsProto-Sinaitic alphabetPhoenician alphabetGreek alphabetOld Italic scriptLatin alphabetEnglish alphabet
+
+Child systems
+
+ISO basic Latin alphabet
+
+Cherokee syllabary (in part)
+
+Scots alphabet
+
+Osage alphabet
+
+Saanich writing system
+
+Numerous other Latin-based orthographies
+
+Direction Left-to-right
+
+ISO 15924 Latn, 215
+
+Unicode alias
+
+Latin
+
+Unicode range
+
+U+0000 to U+007E Basic Latin and punctuation
+
+This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters. For an introductory guide on IPA symbols, see Help:IPA.
+
+The modern English alphabet is a Latin alphabet consisting of 26 letters, each having an upper- and lower-case form. It originated around the 7th century from the Latin script. Since then, letters have been added or removed to give the current Modern English alphabet of 26 letters (this eventually becoming the ISO basic Latin alphabet). The word alphabet is a compound of first two letters of the Greek alphabet, alpha and beta.
+
+A a
+
+B b
+
+C c
+
+D d
+
+E e
+
+F f
+
+G g
+
+H h
+
+I i
+
+J j
+
+K k
+
+L l
+
+M m
+
+N n
+
+O o
+
+P p
+
+Q q
+
+R r
+
+S s
+
+T t
+
+U u
+
+V v
+
+W w
+
+X x
+
+Y y
+
+Z z
+
+The exact shape of printed letters varies depending on the typeface (and font), and the shape of handwritten letters can differ significantly from the standard printed form (and between individuals), especially when written in cursive style.
+
+Written English has a number of digraphs and some longer multigraphs, and is the only major modern European language that requires no diacritics for native words. A diaeresis may be used to distinguish two vowels with separate pronunciation from a double vowel, such as "coöperation". Very occasionally, a grave may be used to indicate that a normally silent vowel is pronounced (as in learnèd). 
+
+Contents
+
+1 Letter names
+
+1.1 Modern letters
+
+1.1.1 Etymology
+
+1.2 Ampersand
+
+1.3 Archaic letters
+
+2 Diacritics
+
+2.1 Loanwords
+
+2.2 Native English words
+
+3 Punctuation marks within words
+
+3.1 Apostrophe
+
+3.2 Hyphen
+
+4 Frequencies
+
+5 Phonology
+
+6 History
+
+6.1 Old English
+
+6.2 Modern English
+
+6.3 Ligatures in recent usage
+
+7 Proposed reforms
+
+8 See also
+
+9 Notes and references
+
+9.1 Notes
+
+9.2 References
+
+9.3 Further reading
+
+Letter names
+
+Modern letters
+
+English alphabet
+
+A Received Pronunciation British English speaker reciting the English alphabet
+
+* * *
+
+Problems playing this file? See media help.
+
+The names of the letters are sometimes spelled out. Some compound words (e.g., tee-shirt, deejay, emcee, okay, etc.), derived forms (e.g., exed out, effing, to eff and blind, aitchless, etc.) and objects named after letters (e.g., em in printing and wye in railroading) may be written with the letter names. The spellings listed below are from the Oxford English Dictionary. Plurals of consonant names are formed by adding -s (e.g., bees, efs, ems) or -es in the cases of aitch, ess, and ex (i.e., aitches, esses, exes). Plurals of vowel names add -es (i.e., aes, ees, ies, oes, ues), but these are rare. Most commonly, the letter (generally in capitalized form) and not its name is used, in which case plural just adds -s.
+
+LetterNameName pronunciation
+Frequency
+
+Modern English
+Latin
+Modern English
+Latin
+Old French
+Middle English
+
+A a
+ ā /ˈeɪ/, /ˈæ/
+ /aː/
+ /aː/
+ /aː/
+ 8.17%
+
+B bee
+ bē /ˈbiː/
+ /beː/
+ /beː/
+ /beː/
+ 1.49%
+
+C cee
+ cē /ˈsiː/
+ /keː/
+ /tʃeː/ > /tseː/ > /seː/
+ /seː/
+ 2.78%
+
+D dee
+ dē /ˈdiː/
+ /deː/
+ /deː/
+ /deː/
+ 4.25%
+
+E e
+ ē /ˈiː/
+ /eː/
+ /eː/
+ /eː/
+ 12.70%
+
+F ef
+ ef /ˈɛf/
+ /ɛf/
+ /ɛf/
+ /ɛf/
+ 2.23%
+
+eff as a verb
+
+G gee
+ gē /ˈdʒiː/
+ /ɡeː/
+ /dʒeː/
+ /dʒeː/
+ 2.02%
+
+H aitch
+ hā /ˈeɪtʃ/
+ /haː/ > /ˈaha/ > /ˈakːa/
+ /ˈaːtʃə/
+ /aːtʃ/
+ 6.09%
+
+haitch /ˈheɪtʃ/
+
+I i
+ ī /ˈaɪ/
+ /iː/
+ /iː/
+ /iː/
+ 6.97%
+
+J jay
+ – /ˈdʒeɪ/
+ –
+ –
+ 
+ 0.15%
+
+jy /ˈdʒaɪ/
+
+K kay
+ kā /ˈkeɪ/
+ /kaː/
+ /kaː/
+ /kaː/
+ 0.77%
+
+L el
+ el /ˈɛl/
+ /ɛl/
+ /ɛl/
+ /ɛl/
+ 4.03%
+
+ell as a verb
+
+M em
+ em /ˈɛm/
+ /ɛm/
+ /ɛm/
+ /ɛm/
+ 2.41%
+
+N en
+ en /ˈɛn/
+ /ɛn/
+ /ɛn/
+ /ɛn/
+ 6.75%
+
+O o
+ ō /ˈoʊ/
+ /oː/
+ /oː/
+ /oː/
+ 7.51%
+
+P pee
+ pē /ˈpiː/
+ /peː/
+ /peː/
+ /peː/
+ 1.93%
+
+Q cue
+ qū /ˈkjuː/
+ /kuː/
+ /kyː/
+ /kiw/
+ 0.10%
+
+R ar
+ er /ˈɑːr/
+ /ɛr/
+ /ɛr/
+ /ɛr/ > /ar/
+ 5.99%
+
+or /ˈɔːr/
+
+S ess
+ es /ˈɛs/
+ /ɛs/
+ /ɛs/
+ /ɛs/
+ 6.33%
+
+es- in compounds
+
+T tee
+ tē /ˈtiː/
+ /teː/
+ /teː/
+ /teː/
+ 9.06%
+
+U u
+ ū /ˈjuː/
+ /uː/
+ /yː/
+ /iw/
+ 2.76%
+
+V vee
+ – /ˈviː/
+ –
+ –
+ –
+ 0.98%
+
+W double-u
+ – /ˈdʌbəl.juː/
+ –
+ –
+ –
+ 2.36%
+
+X ex
+ ex /ˈɛks/
+ /ɛks/
+ /iks/
+ /ɛks/
+ 0.15%
+
+ix
+ /ɪks/
+
+Y
+ wye
+ hȳ
+ /ˈwaɪ/
+ /hyː/
+ ui, gui ?
+ /wiː/ ?
+ 1.97%
+
+/iː/
+
+ī graeca
+ /iː ˈɡraɪka/
+ /iː ɡrɛːk/
+
+Z zed
+ zēta /ˈzɛd/
+ /ˈzeːta/
+ /ˈzɛːdə/
+ /zɛd/
+ 0.07%
+
+zee /ˈziː/
+
+Etymology
+
+The names of the letters are for the most part direct descendants, via French, of the Latin (and Etruscan) names. (See Latin alphabet: Origins.)
+
+The regular phonological developments (in rough chronological order) are:
+
+palatalization before front vowels of Latin /k/ successively to /tʃ/, /ts/, and finally to Middle French /s/. Affects C.
+
+palatalization before front vowels of Latin /ɡ/ to Proto-Romance and Middle French /dʒ/. Affects G.
+
+fronting of Latin /uː/ to Middle French /yː/, becoming Middle English /iw/ and then Modern English /juː/. Affects Q, U.
+
+the inconsistent lowering of Middle English /ɛr/ to /ar/. Affects R.
+
+the Great Vowel Shift, shifting all Middle English long vowels. Affects A, B, C, D, E, G, H, I, K, O, P, T, and presumably Y.
+
+The novel forms are aitch, a regular development of Medieval Latin acca; jay, a new letter presumably vocalized like neighboring kay to avoid confusion with established gee (the other name, jy, was taken from French); vee, a new letter named by analogy with the majority; double-u, a new letter, self-explanatory (the name of Latin V was ū); wye, of obscure origin but with an antecedent in Old French wi; izzard, from the Romance phrase i zed or i zeto "and Z" said when reciting the alphabet; and zee, an American levelling of zed by analogy with other consonants.
+
+Some groups of letters, such as pee and bee, or em and en, are easily confused in speech, especially when heard over the telephone or a radio communications link. Spelling alphabets such as the ICAO spelling alphabet, used by aircraft pilots, police and others, are designed to eliminate this potential confusion by giving each letter a name that sounds quite different from any other.
+
+Ampersand
+
+The ampersand (&) has sometimes appeared at the end of the English alphabet, as in Byrhtferð's list of letters in 1011. & was regarded as the 27th letter of the English alphabet, as taught to children in the US and elsewhere. An example may be seen in M. B. Moore's 1863 book The Dixie Primer, for the Little Folks. Historically, the figure is a ligature for the letters Et. In English and many other languages it is used to represent the word and and occasionally the Latin word et, as in the abbreviation &c (et cetera).
+
+Archaic letters
+
+Old and Middle English had a number of non-Latin letters that have since dropped out of use. These either took the names of the equivalent runes, since there were no Latin names to adopt, or (thorn, wyn) were runes themselves. 
+
+Æ æ ash /ˈæʃ/, used for the vowel /æ/, which disappeared from the language and then reformed
+
+Ð ð edh or eth /ˈɛð/, used for the consonants /ð/ and /θ/
+
+Œ œ ethel /ˈɛðəl/, used for the vowel /œ/, which disappeared from the language quite early
+
+Þ þ thorn /ˈθɔːrn/, used for the consonants /ð/ and /θ/
+
+Ƿ ƿ wyn or wynn /ˈwɪn/, used for the consonant /w/ (the letter 'w' had not yet been invented)
+
+Ȝ ȝ yogh /ˈjɒɡ/ or /ˈjɒx/, used for various sounds derived from /ɡ/, such as /j/ and /x/.
+
+Diacritics
+
+Main article: English terms with diacritical marks
+
+The most common diacritic marks seen in English publications are the acute (é), grave (è), circumflex (â, î or ô), tilde (ñ), umlaut and diaeresis (ü or ï – the same symbol is used for two different purposes), and cedilla (ç).
+
+Loanwords
+
+Diacritic marks mainly appear in loanwords such as naïve and façade. Informal English writing tends to omit diacritics because of their absence from the keyboard, while professional copywriters and typesetters tend to include them.
+
+As such words become naturalised in English, there is a tendency to drop the diacritics, as has happened with many older borrowings from French, such as hôtel. Words that are still perceived as foreign tend to retain them; for example, the only spelling of soupçon found in English dictionaries (the OED and others) uses the diacritic. However, diacritics are likely to be retained even in naturalised words where they would otherwise be confused with a common native English word (for example, résumé rather than resume). Rarely, they may even be added to a loanword for this reason (as in maté, from Spanish yerba mate but following the pattern of café, from French, to distinguish from mate).
+
+Native English words
+
+Occasionally, especially in older writing, diacritics are used to indicate the syllables of a word: cursed (verb) is pronounced with one syllable, while cursèd (adjective) is pronounced with two. For this, è is used widely in poetry, e.g. in Shakespeare's sonnets. J.R.R. Tolkien uses ë, as in O wingëd crown.
+
+Similarly, while in chicken coop the letters -oo- represent a single vowel sound (a digraph), they less often represent two which may be marked with a diaresis as in zoölogist and coöperation. This use of the diaeresis is rare but found in some well-known publications, such as MIT Technology Review and The New Yorker.
+
+In general, these devices are not used even where they would serve to alleviate some degree of confusion.
+
+Punctuation marks within words
+
+Apostrophe
+
+The apostrophe (ʼ) is not considered part of the English alphabet nor used as a diacritic even in loanwords. But it is used for two important purposes in written English: to mark the "possessive" and to mark contracted words. Current standards require its use for both purposes. Therefore, apostrophes are necessary to spell many words even in isolation, unlike most punctuation marks, which are concerned with indicating sentence structure and other relationships among multiple words.
+
+It distinguishes (from the otherwise identical regular plural inflection -s) the English possessive morpheme 's (apostrophe alone after a regular plural affix, giving -s' as the standard mark for plural + possessive). Practice settled in the 18th century; before then, practices varied but typically all three endings were written -s (but without cumulation). This meant that only regular nouns bearing neither could be confidently identified, and plural and possessive could be potentially confused (e.g., "the Apostles words"; "those things over there are my husbands")—which undermines the logic of "marked" forms.
+
+Most common contractions have near-homographs from which they are distinguished in writing only by an apostrophe, for example it's (it is or it has), we're (we are), or she'd (she would or she had).
+
+Hyphen
+
+Hyphens are often used in English compound words. Writing compound words may be hyphenated, open or closed, so specifics are guided by stylistic policy. Some writers may use a slash in certain instances.
+
+Frequencies
+
+Main article: Letter frequency
+
+The letter most commonly used in English is E. The least used letter is Z. The frequencies shown in the table may differ in practice according to the type of text.
+
+Phonology
+
+Main article: English phonology
+
+The letters A, E, I, O, and U are considered vowel letters, since (except when silent) they represent vowels, although I and U represent consonants in words such as "onion" and "quail" respectively.
+
+The letter Y sometimes represents a consonant (as in "young") and sometimes a vowel (as in "myth"). Very rarely, W may represent a vowel (as in "cwm")—a Welsh loanword. 
+
+The consonant sounds represented by the letters W and Y in English (/w/ and /j/ as in yes /jɛs/ and went /wɛnt/) are referred to as semi-vowels (or glides) by linguists, however this is a description that applies to the sounds represented by the letters and not to the letters themselves. 
+
+The remaining letters are considered consonant letters, since when not silent they generally represent consonants.
+
+History
+
+See also: History of the Latin alphabet and English orthography
+
+Old English
+
+Main article: Old English Latin alphabet
+
+The English language itself was first written in the Anglo-Saxon futhorc runic alphabet, in use from the 5th century. This alphabet was brought to what is now England, along with the proto-form of the language itself, by Anglo-Saxon settlers. Very few examples of this form of written Old English have survived, mostly as short inscriptions or fragments.
+
+The Latin script, introduced by Christian missionaries, began to replace the Anglo-Saxon futhorc from about the 7th century, although the two continued in parallel for some time. As such, the Old English alphabet began to employ parts of the Roman alphabet in its construction. Futhorc influenced the emerging English alphabet by providing it with the letters thorn (Þ þ) and wynn (Ƿ ƿ). The letter eth (Ð ð) was later devised as a modification of dee (D d), and finally yogh (Ȝ ȝ) was created by Norman scribes from the insular g in Old English and Irish, and used alongside their Carolingian g.
+
+The a-e ligature ash (Æ æ) was adopted as a letter in its own right, named after a futhorc rune æsc. In very early Old English the o-e ligature ethel (Œ œ) also appeared as a distinct letter, likewise named after a rune, œðel. Additionally, the v-v or u-u ligature double-u (W w) was in use.
+
+In the year 1011, a monk named Byrhtferð recorded the traditional order of the Old English alphabet. He listed the 24 letters of the Latin alphabet first (including ampersand), then 5 additional English letters, starting with the Tironian note ond (⁊), an insular symbol for and:
+
+A B C D E F G H I K L M N O P Q R S T V X Y Z & ⁊ Ƿ Þ Ð Æ
+
+Modern English
+
+In the orthography of Modern English, thorn (þ), eth (ð), wynn (ƿ), yogh (ȝ), ash (æ), and œ are obsolete. Latin borrowings reintroduced homographs of æ and œ into Middle English and Early Modern English, though they are largely obsolete (see "Ligatures in recent usage" below), and where they are used they are not considered to be separate letters (e.g. for collation purposes), but rather ligatures. Thorn and eth were both replaced by th, though thorn continued in existence for some time, its lowercase form gradually becoming graphically indistinguishable from the minuscule y in most handwriting. Y for th can still be seen in pseudo-archaisms such as "Ye Olde Booke Shoppe". The letters þ and ð are still used in present-day Icelandic, while ð is still used in present-day Faroese. Wynn disappeared from English around the 14th century when it was supplanted by uu, which ultimately developed into the modern w. Yogh disappeared around the 15th century and was typically replaced by gh.
+
+The letters u and j, as distinct from v and i, were introduced in the 16th century, and w assumed the status of an independent letter. The variant lowercase form long s (ſ) lasted into early modern English, and was used in non-final position up to the early 19th century. Today, the English alphabet is considered to consist of the following 26 letters:
+
+A a
+
+B b
+
+C c
+
+D d
+
+E e
+
+F f
+
+G g
+
+H h
+
+I i
+
+J j
+
+K k
+
+L l
+
+M m
+
+N n
+
+O o
+
+P p
+
+Q q
+
+R r
+
+S s
+
+T t
+
+U u
+
+V v
+
+W w
+
+X x
+
+Y y
+
+Z z
+
+Written English has a number of digraphs, but they are not considered separate letters of the alphabet:
+
+ch
+
+ci
+
+ck
+
+gh
+
+ng
+
+ph
+
+qu
+
+rh
+
+sc
+
+sh
+
+th
+
+ti
+
+wh
+
+wr
+
+zh
+
+Ligatures in recent usage
+
+Outside of professional papers on specific subjects that traditionally use ligatures in loanwords, ligatures are seldom used in modern English.
+The ligatures æ and œ were until the 19th century (slightly later in American English) used in formal writing for certain words of Greek or Latin origin, such as encyclopædia and cœlom, although such ligatures were not used in either classical Latin or ancient Greek. These are now usually rendered as "ae" and "oe" in all types of writing, although in American English, a lone e has mostly supplanted both (for example, encyclopedia for encyclopaedia, and maneuver for manoeuvre).
+
+Some fonts for typesetting English contain commonly used ligatures, such as for ⟨tt⟩, ⟨fi⟩, ⟨fl⟩, ⟨ffi⟩, and ⟨ffl⟩. These are not independent letters, but rather allographs.
+
+Proposed reforms
+
+Alternative scripts have been proposed for written English—mostly extending or replacing the basic English alphabet—such as the Deseret alphabet, the Shavian alphabet, Gregg shorthand, etc.
+
+See also
+
+Alphabet song
+
+NATO phonetic alphabet
+
+English orthography
+
+English-language spelling reform
+
+American manual alphabet
+
+Two-handed manual alphabets
+
+English Braille
+
+American Braille
+
+New York Point
+
+Chinese respelling of the English alphabet
+
+Burmese respelling of the English alphabet
+
+Notes and references
+
+Notes
+
+^ As an example, this article contains a diaeresis in "coöperate", a cedilla in "façades" and a circumflex in the word "crêpe": Grafton, Anthony (2006-10-23), "The Nutty Professors: The History of Academic Dharisma", The New Yorker (Books section), retrieved 2019-06-17
+
+^ often in Hiberno-English, due to the letter's pronunciation in the Irish language
+
+^ mostly in Hiberno-English, sometimes in Australian English, usually in Indian English and also used in Malaysian English
+
+^ The letter J did not occur in Old French or Middle English. The Modern French name is ji /ʒi/, corresponding to Modern English jy (rhyming with i), which in most areas was later replaced with jay (rhyming with kay).
+
+^ in Scottish English
+
+^ One of the few letter names not spelled with the letter in question. The spelling qu ~ que is obsolete, being attested from the 16th century.
+
+^ in Hiberno-English
+
+^ in compounds such as es-hook
+
+^ Especially in American English, the /l/ is often not pronounced in informal speech. (Merriam Webster's Collegiate Dictionary, 10th ed). Common colloquial pronunciations are /ˈdʌbəjuː/, /ˈdʌbəjə/, and /ˈdʌbjə/ (as in the nickname "Dubya"), especially in terms like www.
+
+^ in British English, Hiberno-English and Commonwealth English
+
+^ in American English
+
+^ Linguistic analyses vary on how best to characterise the English possessive morpheme -'s: a noun case inflectional suffix distinct to possession, a genitive case inflectional suffix equivalent to prepositional periphrastic of X (or rarely for X), an edge inflection that uniquely attaches to a noun phrase's final (rather than head) word, or an enclitic postposition.
+
+References
+
+'^ "The New Yorkers Odd Mark—The Diaeresis"
+
+^ a b Michael Everson, Evertype, Baldur Sigurðsson, Íslensk Málstöð, On the Status of the Latin Letter Þorn and of its Sorting Order
+
+^ "The Dixie Primer, for the Little Folks". Branson, Farrar & Co., Raleigh NC.
+
+^ Strizver, Ilene, "Accents & Accented Characters", Fontology, Monotype Imaging, retrieved 2019-06-17
+
+^ Modern Humanities Research Association (2013), MHRA Style Guide: A Handbook for Authors and Editors (pdf) (3rd ed.), London, Section 2.2, ISBN 978-1-78188-009-8, retrieved 2019-06-17.
+
+^ Kingsley Amis quoted in Jane Fyne, "Little Things that Matter," Courier Mail (2007-04-26) Retrieved 2013-04-07.
+
+^ Beker, Henry; Piper, Fred (1982). Cipher Systems: The Protection of Communications. Wiley-Interscience. p. 397. Table also available from
+Lewand, Robert (2000). Cryptological Mathematics. Mathematical Association of America. p. 36. ISBN 978-0883857199. and "Archived copy". Archived from the original on 2008-07-08. Retrieved 2008-06-25.CS1 maint: archived copy as title (link)
+
+^ Shaw, Phillip (May 2013). "Adapting the Roman alphabet for Writing Old English: Evidence from Coin Epigraphy and Single-Sheet Characters". 21: 115–139 – via Ebscohost. Cite journal requires |journal= (help)
+
+^ "Digraphs (Phonics on the Web)". phonicsontheweb.com. Archived from the original on 2016-04-13. Retrieved 2016-04-07.
+
+Further reading
+
+Michael Rosen (2015). Alphabetical: How Every Letter Tells a Story. Counterpoint. ISBN 978-1619027022.
+
+Upward, Christopher; Davidson, George (2011), The History of English Spelling, Oxford: Wiley-Blackwell, ISBN 978-1-4051-9024-4, LCCN 2011008794.
+
+v
+
+t
+
+e
+
+Description of the English language
+
+Grammar
+
+Phonology
+
+Stress and reduced vowels
+
+Orthography
+
+Spelling reform
+
+Alphabet
+
+Braille
+
+Dialects
+
+Language history
+
+Phonological history

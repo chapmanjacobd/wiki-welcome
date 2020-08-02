@@ -1,0 +1,319 @@
+"This article is about the mathematician and logician. For the president of the University of Georgia, U.S.A, see Alonzo S. Church.
+
+American mathematician
+
+Alonzo Church
+
+Alonzo Church (1903–1995)
+
+Born (1903-06-14)June 14, 1903
+
+Washington, D.C., US
+
+Died August 11, 1995(1995-08-11) (aged 92)
+
+Hudson, Ohio, US
+
+Nationality American
+
+Alma mater Princeton University
+
+Known for Lambda calculus
+
+Simply typed lambda calculus
+
+Church encoding
+
+Church's theorem
+
+Church–Kleene ordinal
+
+Church–Turing thesis
+
+Frege–Church ontology
+
+Church–Rosser theorem
+
+Intensional logic
+
+Scientific career
+
+Fields Mathematics, logic
+
+Institutions Princeton University (1929–67)
+
+UCLA (1967–95)
+
+Thesis Alternatives to Zermelo's Assumption (1927)
+
+Doctoral advisor Oswald Veblen
+
+Doctoral students C. Anthony Anderson 1977
+
+Peter Andrews 1964
+
+Bijan Arbab 1988
+
+George Alfred Barnard 1936
+
+James Bennett 1962
+
+William W. Boone 1952
+
+Enrique Bustamente-Llaca 1944
+
+Edward Chapin 1970
+
+Donald Collins 1967
+
+Aubert Daigneault 1959
+
+Martin Davis 1950
+
+William Easton 1964
+
+Alfred Foster 1930
+
+James Guard 1961
+
+Leon Henkin 1947
+
+Gustav Hensel 1963
+
+David Kaplan
+
+John George Kemeny 1949
+
+Stephen Cole Kleene 1934
+
+Simon B. Kochen 1959
+
+Maurice L'Abbé 1951
+
+Isaac (Richard) Malitz 1976
+
+Gary R. Mar 1985
+
+Gerald Massey 1964
+
+Michael O. Rabin 1957
+
+Nicholas Rescher 1951
+
+Wayne Richter 1963
+
+Robert Ritchie 1960
+
+Joel Robbin 1965
+
+Hartley Rogers, Jr 1952
+
+J. Barkley Rosser 1934
+
+Dana Scott 1958
+
+Norman Shapiro 1955
+
+Raymond Smullyan 1959
+
+Alan Turing 1938
+
+Robert Winder 1962
+
+Alonzo Church (June 14, 1903 – August 11, 1995) was an American mathematician and logician who made major contributions to mathematical logic and the foundations of theoretical computer science. He is best known for the lambda calculus, Church–Turing thesis, proving the unsolvability of the Entscheidungsproblem, Frege–Church ontology, and the Church–Rosser theorem. He also worked on philosophy of language (see e.g. Church 1970).
+
+Contents
+
+1 Life
+
+2 Mathematical work
+
+3 Philosophical work
+
+4 Students
+
+5 Books
+
+6 See also
+
+7 Notes
+
+8 References
+
+9 External links
+
+Life
+
+Alonzo Church was born on June 14, 1903, in Washington, D.C., where his father, Samuel Robbins Church, was the judge of the Municipal Court for the District of Columbia. The family later moved to Virginia after his father lost this position because of failing eyesight. With help from his uncle, also named Alonzo Church, the son attended the private Ridgefield School for Boys in Ridgefield, Connecticut. After graduating from Ridgefield in 1920, Church attended Princeton University, where he was an exceptional student. He published his first paper on Lorentz transformations and graduated in 1924 with a degree in mathematics. He stayed at Princeton for graduate work, earning a Ph.D. in mathematics in three years under Oswald Veblen.
+
+He married Mary Julia Kuczinski in 1925. The couple had three children, Alonzo Church, Jr. (1929), Mary Ann (1933) and Mildred (1938).
+
+After receiving his Ph.D., he taught briefly as an instructor at the University of Chicago. He received a two-year National Research Fellowship that enabled him to attend Harvard University in 1927–1928, and the University of Göttingen and University of Amsterdam the following year.
+
+He taught philosophy and mathematics at Princeton for nearly four decades, 1929–1967. He taught at the University of California, Los Angeles, 1967–1990. He was a Plenary Speaker at the ICM in 1962 in Stockholm.
+
+He received honorary Doctor of Science degrees from Case Western Reserve University in 1969, Princeton University in 1985, and the University at Buffalo, The State University of New York in 1990 in connection with an international symposium in his honor organized by John Corcoran.
+
+A deeply religious person, Church was a lifelong member of the Presbyterian church. He died in 1995 and was buried in Princeton Cemetery.
+
+Mathematical work
+
+Church is known for the following significant accomplishments:
+
+His proof that the Entscheidungsproblem, which asks for a decision procedure to determine the truth of arbitrary propositions in a first-order mathematical theory, is undecidable. This is known as Church's theorem.
+
+His proof that Peano arithmetic is undecidable.
+
+His articulation of what has come to be known as the Church–Turing thesis.
+
+He was the founding editor of the Journal of Symbolic Logic, editing its reviews section until 1979.
+
+His creation of the lambda calculus.
+
+The lambda calculus emerged in his 1936 paper showing the unsolvability of the Entscheidungsproblem. This result preceded Alan Turing's work on the halting problem, which also demonstrated the existence of a problem unsolvable by mechanical means. Church and Turing then showed that the lambda calculus and the Turing machine used in Turing's halting problem were equivalent in capabilities, and subsequently demonstrated a variety of alternative "mechanical processes for computation." This resulted in the Church–Turing thesis.
+
+The efforts for automatically generating a controller implementation from specifications originates from his ideas.
+
+The lambda calculus influenced the design of the LISP programming language and functional programming languages in general. The Church encoding is named in his honor.
+
+In his honor the Alonzo Church Award for Outstanding Contributions to Logic and Computation was established in 2015 by the Association for Computing Machinery Special Interest Group for Logic and Computation (ACM SIGLOG), the European Association for Theoretical Computer Science (EATCS), the European Association for Computer Science Logic (EACSL), and the Kurt Gödel Society (KGS). The award
+is for an outstanding contribution to the field published within the past 25 years and must not yet have received recognition via another major award, such as the Turing Award, the Paris Kanellakis Award, or the Gödel Prize.
+
+Philosophical work
+
+Church’s elaboration of a methodology involving the logistic method, his philosophical criticisms of nominalism and his defense of realism, his argumentation leading to conclusions about the theory of meaning, and the detailed construction of the Fregean and Russellian intensional logics, are more than sufficient to place him high up among the most important philosophers of this century.
+
+— C. Anthony Anderson
+
+Students
+
+Many of Church's doctoral students have led distinguished careers, including C. Anthony Anderson, Peter B. Andrews, George A. Barnard, David Berlinski, William W. Boone, Martin Davis, Alfred L. Foster, Leon Henkin, John G. Kemeny, Stephen C. Kleene, Simon B. Kochen, Maurice L'Abbé, Isaac Malitz, Gary R. Mar, Michael O. Rabin, Nicholas Rescher, Hartley Rogers, Jr., J. Barkley Rosser, Dana Scott, Raymond Smullyan, and Alan Turing. A more complete list of Church's students is available via Mathematics Genealogy Project.
+
+Books
+
+Alonzo Church, Introduction to Mathematical Logic (ISBN 978-0-691-02906-1)
+
+Alonzo Church, The Calculi of Lambda-Conversion (ISBN 978-0-691-08394-0)
+
+Alonzo Church, A Bibliography of Symbolic Logic, 1666–1935 (ISBN 978-0-8218-0084-3)
+
+C. Anthony Anderson and Michael Zelëny, (eds.), Logic, Meaning and Computation: Essays in Memory of Alonzo Church (ISBN 978-1-4020-0141-3)
+
+See also
+
+Biography portal
+
+Philosophy portal
+
+Church–Turing–Deutsch principle
+
+Higher-order logic
+
+List of pioneers in computer science
+
+Modern Platonism
+
+Universal set
+
+Notes
+
+^ Bowen, Jonathan P. (2019). "The Impact of Alan Turing: Formal Methods and Beyond". In Bowen, Jonathan P.; Liu, Zhiming; Zhang, Zili (eds.). Engineering Trustworthy Software Systems. SETSS 2018. Lecture Notes in Computer Science. 11430. Cham: Springer. pp. 202–235. doi:10.1007/978-3-030-17601-3_5.
+
+^ The Ridgefield School for Boys, also known as the Ridgefield School, was a private school that existed from 1907 to 1938. See The Ridgefield School.
+
+^ "An early history of computing at Princeton". Princeton Alumni Weekly. 2012-04-04. Retrieved 2020-04-19.
+
+^ Church, Alonzo. "Logic, arithmetic and automata." Archived 2013-12-28 at the Wayback Machine In Proceedings of the International Congress of Mathematicians, pp. 23–35. 1962.
+
+^ "Honorary degrees awarded by Case Western Reserve University". Archived from the original on 2013-10-01. Retrieved 2012-06-01.
+
+^ Honorary degrees awarded by Princeton University Archived 2016-02-07 at the Wayback Machine
+
+^ Finding Aid for The Honorary Degree Conferral of Doctor of Science to Alonzo Church, 1990
+
+^ "Introduction Alonzo Church: Life and Work" (PDF). p. 4. Archived from the original (PDF) on 1 September 2012. Retrieved 6 June 2012. A deeply religious person, he was a lifelong member of the Presbyterian church.
+
+^ Church, A. (1936). "An unsolvable problem of elementary number theory". American Journal of Mathematics. 58 (2): 345–363. doi:10.2307/2371045. JSTOR 2371045.
+
+^ Just Formal Enough? Automated Analysis of EARS Requirements
+
+^ Alonzo Church Award
+
+^ https://siglog.acm.org/alonzo-church-award-for-outstanding-contributions-to-logic-and-computation-2019/
+
+^ (Anderson 1998)
+
+^ "Mathematics Genealogy Project". Archived from the original on 4 August 2010. Retrieved 12 August 2010.
+
+^ Henkin, Leon (1957). "Review: Introduction to Mathematical Logic by Alonzo Church" (PDF). Bull. Amer. Math. Soc. 63 (5): 320–323. doi:10.1090/s0002-9904-1957-10129-3.
+
+^ Frink Jr., Orrin (1944). "Review: The Calculi of Lambda-Conversion by Alonzo Church" (PDF). Bull. Amer. Math. Soc. 50 (3): 169–172. doi:10.1090/s0002-9904-1944-08090-7.
+
+References
+
+Enderton, Herbert B., Alonzo Church: Life and Work. Introduction to the Collected Works of Alonzo Church, MIT Press, not yet published.
+
+Enderton, Herbert B., In memoriam: Alonzo Church, The Bulletin of Symbolic Logic, vol. 1, no. 4 (Dec. 1995), pp. 486–488.
+
+Wade, Nicholas, Alonzo Church, 92, Theorist of the Limits of Mathematics (obituary), The New York Times, September 5, 1995, p. B6.
+
+Hodges, Wilfred, Obituary: Alonzo Church, The Independent (London), September 14, 1995.
+
+Alonzo Church interviewed by William Aspray on 17 May 1984. The Princeton Mathematics Community in the 1930s: An Oral-History Project, transcript number 5.
+
+Rota, Gian-Carlo, Fine Hall in its golden age: Remembrances of Princeton in the early fifties. In A Century of Mathematics in America, Part II, edited by Peter Duren, AMS History of Mathematics, vol 2, American Mathematical Society, 1989, pp. 223–226. Also available here.
+
+Church, A. (1950). "On Carnap's Analysis of Statements of Assertion and Belief". The Journal of Symbolic Logic. 10 (5): 97–99. doi:10.2307/3326684. JSTOR 3326684.
+
+Anderson, C. Anthony (1998). "Alonzo Church's contributions to philosophy and Intensional Logic". The Bulletin of Symbolic Logic. 4 (2): 129–171. CiteSeerX 10.1.1.26.7389. doi:10.2307/421020. JSTOR 421020.CS1 maint: ref=harv (link)
+
+External links
+
+O'Connor, John J.; Robertson, Edmund F., "Alonzo Church", MacTutor History of Mathematics archive, University of St Andrews.
+
+Princeton University Library, Manuscripts Division, The Alonzo Church Papers, 1924–1995: finding aid.
+
+A bibliography of Church's reviews for The Journal of Symbolic Logic, with a link to each
+
+Alonzo Church at Find a Grave
+
+Alonzo Church, 92, Theorist Of the Limits of Mathematics New York Times obituary
+
+OBITUARY: Alonzo Church from The Independent
+
+In memoriam: Alonzo Church (1903–1995) by Irving H. Anellis, Modern Logic Vol. 5, No. 4 (1995).
+
+In memoriam: Alonzo Church 1903–1995 by H. B. Enderton, The Bulletin of Symbolic Logic Vol. 1, No.5 (1995).
+
+Authority control 
+ACM DL: 81309513577
+
+BNF: cb14575590d (data)
+
+DBLP: 96/6427
+
+GND: 119430223
+
+ISNI: 0000 0001 1003 8502
+
+LCCN: n83152979
+
+MGP: 8011
+
+NKC: mzk2006354081
+
+NLA: 50043018
+
+NTA: 067508219
+
+SELIBR: 301551
+
+SNAC: w6320nsm
+
+SUDOC: 060369604
+
+Trove: 1522538
+
+VIAF: 109830754
+
+ WorldCat Identities: lccn-n83152979

@@ -1,0 +1,350 @@
+"Not to be confused with Aggregate (composite) or Aggregate (geology).
+
+Limestone quarry.
+
+10 mm graded crushed basalt rock or aggregate, for use in concrete, called "blue metal" in Australia.
+
+20 mm graded aggregate.
+
+A gravel and sand extraction facility in Međimurje County, Croatia.
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Construction aggregate" – news · newspapers · books · scholar · JSTOR (January 2017) (Learn how and when to remove this template message)
+
+Construction aggregate, or simply aggregate, is a broad category of coarse- to medium-grained particulate material used in construction, including sand, gravel, crushed stone, slag, recycled concrete and geosynthetic aggregates. Aggregates are the most mined materials in the world. Aggregates are a component of composite materials such as concrete and asphalt concrete; the aggregate serves as reinforcement to add strength to the overall composite material. Due to the relatively high hydraulic conductivity value as compared to most soils, aggregates are widely used in drainage applications such as foundation and French drains, septic drain fields, retaining wall drains, and roadside edge drains. Aggregates are also used as base material under foundations, roads, and railroads. In other words, aggregates are used as a stable foundation or road/rail base with predictable, uniform properties (e.g. to help prevent differential settling under the road or building), or as a low-cost extender that binds with more expensive cement or asphalt to form concrete.
+
+Preferred bituminous aggregate sizes for road construction are given in EN 13043 as d/D (where the range shows the smallest and largest square mesh grating that the particles can pass). The same classification sizing is used for larger armour stone sizes in EN 13383, EN 12620 for concrete aggregate, EN 13242 for base layers of road construction and EN 13450 for railway ballast.
+
+The American Society for Testing and Materials publishes an exhaustive listing of specifications including ASTM D 692 and ASTM D 1073 for various construction aggregate products, which, by their individual design, are suitable for specific construction purposes. These products include specific types of coarse and fine aggregate designed for such uses as additives to asphalt and concrete mixes, as well as other construction uses. State transportation departments further refine aggregate material specifications in order to tailor aggregate use to the needs and available supply in their particular locations.
+
+Sources for these basic materials can be grouped into three main areas: Mining of mineral aggregate deposits, including sand, gravel, and stone; use of waste slag from the manufacture of iron and steel; and recycling of concrete, which is itself chiefly manufactured from mineral aggregates. In addition, there are some (minor) materials that are used as specialty lightweight aggregates: clay, pumice, perlite, and vermiculite.
+
+Contents
+
+1 History
+
+2 Modern production
+
+3 Recycled materials for aggregates
+
+3.1 Recycled aggregate production in the UK
+
+4 See also
+
+5 References
+
+5.1 Citations
+
+5.2 Sources
+
+History
+
+People have used sand and stone for foundations for thousands of years. Significant refinement of the production and use of aggregate occurred during the Roman Empire, which used aggregate to build its vast network of roads and aqueducts. The invention of concrete, which was essential to architecture utilizing arches, created an immediate, permanent demand for construction aggregates.
+
+Vitruvius writes in De architectura:
+
+Economy denotes the proper management of materials and of site, as well as a thrifty balancing of cost and common sense in the construction of works. This will be observed if, in the first place, the architect does not demand things which cannot be found or made ready without great expense. For example: it is not everywhere that there is plenty of pit-sand, rubble, fir, clear fir, and marble... Where there is no pit sand, we must use the kinds washed up by rivers or by the sea... and other problems we must solve in similar ways.
+
+Modern production
+
+The advent of modern blasting methods enabled the development of quarries, which are now used throughout the world, wherever competent bedrock deposits of aggregate quality exist. In many places, good limestone, granite, marble or other quality stone bedrock deposits do not exist. In these areas, natural sand and gravel are mined for use as aggregate. Where neither stone, nor sand and gravel, are available, construction demand is usually satisfied by shipping in aggregate by rail, barge or truck. Additionally, demand for aggregates can be partially satisfied through the use of slag and recycled concrete. However, the available tonnages and lesser quality of these materials prevent them from being a viable replacement for mined aggregates on a large scale.
+
+Over 1 million tons annually are mined from this quarry near San Francisco.
+
+Large stone quarry and sand and gravel operations exist near virtually all population centers due to the high cost of transportation relative to the low value of the product. Trucking aggregate more than 40 kilometers is typically uneconomical. These are capital-intensive operations, utilizing large earth-moving equipment, belt conveyors, and machines specifically designed for crushing and separating various sizes of aggregate, to create distinct product stockpiles.
+
+According to the USGS, 2006 U.S. crushed stone production was 1.72 billion tonnes valued at $13.8 billion (compared to 1.69 billion tonnes valued at $12.1 billion in 2005), of which limestone was 1,080 million tonnes valued at $8.19 billion from 1,896 quarries, granite was 268 million tonnes valued at $2.59 billion from 378 quarries, traprock was 148 million tonnes valued at $1.04 billion from 355 quarries, and the balance other kinds of stone from 729 quarries. Limestone and granite are also produced in large amounts as dimension stone. The great majority of crushed stone is moved by heavy truck from the quarry/plant to the first point of sale or use. According to the USGS, 2006 U.S. sand and gravel production was 1.32 billion tonnes valued at $8.54 billion (compared to 1.27 billion tonnes valued at $7.46 billion in 2005), of which 264 million tonnes valued at $1.92 billion was used as concrete aggregates. The great majority of this was again moved by truck, instead of by electric train.
+
+Currently, total U.S. aggregate demand by final market sector was 30%–35% for non-residential building (offices, hotels, stores, manufacturing plants, government and institutional buildings, and others), 25% for highways, and 25% for housing.
+
+Recycled materials for aggregates
+
+The largest-volume of recycled material used as construction aggregate is blast furnace and steel furnace slag. Blast furnace slag is either air-cooled (slow cooling in the open) or granulated (formed by quenching molten slag in water to form sand-sized glass-like particles). If the granulated blast furnace slag accesses free lime during hydration, it develops strong hydraulic cementitious properties and can partly substitute for portland cement in concrete. Steel furnace slag is also air-cooled. In 2006, according to the USGS, air-cooled blast furnace slag sold or used in the U.S. was 7.3 million tonnes valued at $49 million, granulated blast furnace slag sold or used in the U.S. was 4.2 million tonnes valued at $318 million, and steel furnace slag sold or used in the U.S. was 8.7 million tonnes valued at $40 million. Air-cooled blast furnace slag sales in 2006 were for use in road bases and surfaces (41%), asphaltic concrete (13%), ready-mixed concrete (16%), and the balance for other uses. Granulated blast furnace slag sales in 2006 were for use in cementitious materials (94%), and the balance for other uses. Steel furnace slag sales in 2006 were for use in road bases and surfaces (51%), asphaltic concrete (12%), for fill (18%), and the balance for other uses.
+
+Glass aggregate, a mix of colors crushed to a small size, is substituted for many construction and utility projects in place of pea gravel or crushed rock, often saving municipalities like the City of Tumwater, Washington Public Works, thousands of dollars (depending on the size of the project). Glass aggregate is not sharp to handle. In many cases, the state Department of Transportation has specifications for use, size and percentage of quantity for use. Common applications are as pipe bedding—placed around sewer, storm water or drinking water pipes to transfer weight from the surface and protect the pipe. Another common use would be as fill to bring the level of a concrete floor even with a foundation. Use of glass aggregate helps close the loop in glass recycling in many places where glass cannot be smelted into new glass.
+
+Aggregates themselves can be recycled as aggregates. Unlike deposits of sand and gravel or stone suitable for crushing into aggregate, which can be anywhere and may require overburden removal and/or blasting, "deposits" of recyclable aggregate tend to be concentrated near urban areas, and production from them cannot be raised or lowered to meet demand for aggregates. Supply of recycled aggregate depends on physical decay of structures and their demolition. The recycling plant can be fixed or mobile; the smaller capacity mobile plant works best for asphalt-aggregate recycling. The material being recycled is usually highly variable in quality and properties.
+
+Many aggregate products of various types are recycled for other industrial purposes with economic and environmental benefits to the local and surrounding area. Contractors save on disposal costs and less aggregate is buried or piled and abandoned. In Bay City, Michigan, for example, a recycle program exists for unused products such as mixed concrete, block, brick, gravel, pea stone, and other used materials. The material is crushed to provide subbase for roads and driveways, among other purposes.
+
+According to the USGS in 2006, 2.9 million tonnes of Portland cement concrete (including aggregate) worth $21.9 million was recycled, and 1.6 million tonnes of asphalt concrete (including aggregate) worth $11.8 million was recycled, both by crushed stone operations. Much more of both materials are recycled by construction and demolition firms not in the USGS survey. For sand and gravel, the USGS survey for 2006 showed that 4.7 million tonnes of cement concrete valued at $32.0 million was recycled, and 6.17 million tonnes of asphalt concrete valued at $45.1 million was recycled. Again, more of both materials are recycled by construction and demolition firms not in this USGS survey. The Construction Materials Recycling Association indicates that there are 325 million tonnes of recoverable construction and demolition materials produced annually.
+
+Many geosynthetic aggregates are also made from recycled materials. Being polymer based, recyclable plastics can be reused in the production of these new age of aggregates. For example, Ring Industrial Group's EZflow product lines are produced with geosynthetic aggregate pieces that are more than 99.9% recycled polystyrene. This polystyrene, that would have otherwise been destined for a landfill, is instead gathered, melted, mixed, reformulated and expanded to create low density aggregates that maintain high strength properties while under compressive loads. Such geosynthetic aggregates replace conventional gravel while simultaneously increasing porosity, increasing hydraulic conductivity and eliminating the fine dust "fines" inherent to gravel aggregates which otherwise serve to clog and disrupt the operation of many drainage applications.
+
+Recycled aggregate production in the UK
+
+Recycled aggregate in the UK is defined as aggregate resulting from the processing of inorganic material previously used in construction. To ensure the aggregate is inert, it is manufactured from material tested and characterised under European Waste Codes.
+
+In 2008, 210 million tonnes of aggregate were produced in the UK of which 67 million tonnes was recycled product, according to the Quarry Products Association. The Waste and Resource Action Programme has produced a Quality Protocol for the regulated production of recycled aggregates. The recycled aggregate is delivered with documentation that states it has been produced using a quality assured system for the manufacturing process to ensure an aggregate that conforms to the relevant European standards.
+
+See also
+
+Aggregate (composite), Aggregate base
+
+Aggregate industry in the United States
+
+Alkali-aggregate reaction
+
+Alkali–silica reaction
+
+Pozzolanic reaction
+
+Concrete
+
+Crushed stone
+
+Dimension stone – stone recycling and reuse
+
+Marble
+
+Road metal
+
+Saturated-surface-dry
+
+Hoggin
+
+References
+
+Citations
+
+^ Robinson, Roberta (June 2001). "Who's Minding the San Rafael Rock Quarry?" (PDF). Marin County Civil Grand Jury. Archived (PDF) from the original on 2017-01-20. Retrieved 2008-01-03.
+
+^ Bridge, Tyee (13 September 2017). "Sand? Mine!". Hakai Magazine. Archived from the original on 23 September 2017. Retrieved 22 September 2017.
+
+^ Nelson, T.I.; W.P. Bolen (June 2008). "Construction Aggregates". Mining Engineering. 60: 25–26.
+
+^ "Concrete with Waste Glass as Aggregate" (PDF). ASCE. Archived (PDF) from the original on 2012-03-30. Retrieved 2011-09-20.
+
+^ "EZflow by Infiltrator Systems". Ezflowlp.com. Archived from the original on 2009-03-06. Retrieved 2009-06-08.
+
+^ http://www.grdp.org/static/documents/EWC_31-03-09_CH.pdf
+
+^ "MPA – Mineral Products Association – Products". qpa.org. Archived from the original on 2009-05-05. Retrieved 2009-06-08.
+
+^ "Construction Sector Waste & Resources Action Programme". WRAP. Archived from the original on 2009-04-17. Retrieved 2009-06-08.
+
+^ "Quality Protocol for Aggregates". Aggregain.org.uk. Archived from the original on 2009-04-17. Retrieved 2009-06-08.
+
+^ "European Standards". Aggregain.org.uk. 2004-06-01. Archived from the original on 2009-01-06. Retrieved 2009-06-08.
+
+Sources
+
+UEPG – The European Aggregates Association
+
+Samscreen International
+
+The National Stone, Sand & Gravel Association
+
+Pit and Quarry University/
+
+"Rock to Road" (Industry publication - Canada)
+
+The American Society for Testing Materials
+
+Gravel Watch Ontario
+
+Oregon Concrete & Aggregate Producers Association
+
+Portland Cement Association
+
+Pavement Interactive article on Aggregates
+
+2006 USGS Minerals Yearbook: Stone, Crushed
+
+2005 USGS Minerals Yearbook: Stone, Crushed
+
+2006 USGS Minerals Yearbook: Construction Sand and Gravel
+
+2005 USGS Minerals Yearbook: Construction Sand and Gravel
+
+Construction Aggregate, in June 2007 Mining Engineering (private membership)
+
+2006 USGS Minerals Yearbook: Iron & Steel Slag
+
+Aggregates from Natural and Recycled Sources-Economic Assessments
+
+Construction Materials Recycling Association
+
+MN DNR Aggregate Resource Mapping Program – Division of Lands and Minerals
+
+Quarrying in Depth Recycling
+
+Recycling Tonnages and Primary aggregate production figures
+
+Alberta Sand and Gravel Association (Canada)
+
+v
+
+t
+
+e
+
+Concrete
+
+History 
+Ancient Roman architecture
+
+Roman architectural revolution
+
+Roman concrete
+
+Roman engineering
+
+Roman technology
+
+Composition 
+Cement
+
+Portland cement
+
+Water
+
+Water–cement ratio
+
+Aggregate
+
+Reinforcement
+
+Fly ash
+
+Ground granulated blast furnace slag
+
+Silica fume
+
+Metakaolin
+
+Production 
+Plant
+
+Concrete mixer
+
+Volumetric mixer
+
+Reversing drum mixer
+
+Slump test
+
+Flow table test
+
+Curing
+
+Concrete cover
+
+Cover meter
+
+Rebar
+
+Construction 
+Precast
+
+Cast in place
+
+Formwork
+
+Climbing formwork
+
+Slip forming
+
+Screed
+
+Power screed
+
+Finisher
+
+Power trowel
+
+Pump
+
+Float
+
+Sealer
+
+Science 
+Properties
+
+Degradation
+
+Environmental impact
+
+Recycling
+
+Segregation in concrete
+
+Alkali–silica reaction
+
+Types 
+Energetically modified cement
+
+Fiber-reinforced
+
+Filigree
+
+Foam
+
+Lunarcrete
+
+Mass concrete
+
+Nanoconcrete
+
+Pervious
+
+Polished
+
+Polymer concrete
+
+Pre-stressed
+
+Ready-mix
+
+Reinforced
+
+Roller-compacting
+
+Ronsdale (natural) cement
+
+Self-consolidating
+
+Self-leveling
+
+Translucent concrete
+
+Applications 
+Slab (waffle, hollow-core, voided biaxial, slab on grade)
+
+Concrete masonry unit
+
+Step barrier
+
+Roads
+
+Columns
+
+Structures
+
+Organizations 
+American Concrete Institute
+
+Institution of Structural Engineers
+
+Indian Concrete Institute
+
+Nanocem
+
+Portland Cement Association
+
+International Federation for Structural Concrete
+
+Standards 
+Eurocode 2
+
+EN 197-1
+
+EN 206-1
+
+EN 10080
+
+ Book:Concrete
+
+ Category:Concrete

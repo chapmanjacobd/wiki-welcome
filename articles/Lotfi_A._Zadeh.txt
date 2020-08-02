@@ -1,0 +1,985 @@
+"Electrical engineer and computer scientist
+
+Lotfi A. Zadeh
+
+(5 November 2005)
+
+Born Lotfi Aliasker Zadeh
+
+(1921-02-04)February 4, 1921
+
+Baku, Azerbaijan SSR
+
+Died September 6, 2017(2017-09-06) (aged 96)
+
+Berkeley, California, US
+
+Alma mater University of Tehran
+
+MIT
+
+Columbia University
+
+Known for Founder of fuzzy mathematics,
+
+fuzzy set theory, and fuzzy logic, Z numbers, Z-transform
+
+Awards Eringen Medal (1976)
+
+IEEE Hamming Medal (1992)
+
+Rufus Oldenburger Medal (1993)
+
+IEEE Medal of Honor (1995)
+
+2012 BBVA Foundation Frontiers of Knowledge Award
+
+Honorary Doctorate of Tehran University (2016)
+
+ACM Fellow
+
+IEEE Fellow
+
+AAAS Fellow
+
+AAAI Fellow
+
+Member of the National Academy of Engineering
+
+Founding Member of Eurasian Academy
+
+Scientific career
+
+Fields Math, Electrical Engineering, AI
+
+Institutions UC-Berkeley
+
+Thesis Frequency analysis of variable networks (1949)
+
+Doctoral advisor John R. Ragazzini
+
+Doctoral students Joseph Goguen
+
+Lotfi Aliasker Zadeh (/ˈzɑːdeɪ/; Azerbaijani: Lütfi Rəhim oğlu Ələsgərzadə; Persian: لطفی علی‌عسگرزاده‎; February 4, 1921 – September 6, 2017) was a mathematician, computer scientist, electrical engineer, artificial intelligence researcher and professor emeritus of computer science at the University of California, Berkeley. 
+
+Zadeh was best known for proposing fuzzy mathematics consisting of these fuzzy-related concepts: fuzzy sets, fuzzy logic, fuzzy algorithms, fuzzy semantics, fuzzy languages, fuzzy control, fuzzy systems, fuzzy probabilities, fuzzy events, and fuzzy information.
+
+Zadeh was a founding member of the Eurasian Academy.
+
+Contents
+
+1 Life and career
+
+2 Personal life and beliefs
+
+3 Work
+
+3.1 Fuzzy sets and systems
+
+3.2 Other contributions
+
+4 Selected publications
+
+5 Awards and honors
+
+6 Legacy
+
+7 See also
+
+8 References
+
+9 External links
+
+Life and career
+
+Zadeh was born in Baku, Azerbaijan SSR, as Lotfi Aliaskerzadeh, to Rahim Aleskerzade, an Iranian Azerbaijani journalist from Ardabil on assignment from Iran, and Fanya Korenman, a Russian Jewish pediatrician from Odessa and an Iranian citizen. The Soviet government at this time courted foreign correspondents, and the family lived well while in Baku. Zadeh attended elementary school for three years there, which he said "had a significant and long-lasting influence on my thinking and my way of looking at things."
+
+In 1931, when Zadeh was ten years old, his family moved to Tehran in Iran, his father's homeland. Zadeh was enrolled in Alborz College, which was a Presbyterian missionary school, where he was educated for the next eight years, and where he met his future wife, Fay. Zadeh says that he was "deeply influenced" by the "extremely decent, fine, honest and helpful" missionaries from the United States who ran the college. "To me they represented the best that you could find in the United States – people from the Midwest with strong roots. They were really 'Good Samaritans' – willing to give of themselves for the benefit of others. So this kind of attitude influenced me deeply. It also instilled in me a deep desire to live in the United States." During this time, Zadeh was awarded several patents.
+
+Despite being more fluent in Russian than in Persian, Zadeh sat for the national university exams and placed third in the entire country. As a student, he ranked first in his class in his first two years. In 1942, he graduated from the University of Tehran with a degree in electrical engineering, one of only three students in that field to graduate that year, due to the turmoil created by World War II, when the United States, Britain and the Soviet Union invaded Iran, whose ruler, Reza Shah, was pro-German. Over 30,000 American soldiers were based there, and Zadeh worked with his father, who did business with them as a contractor for hardware and building materials.
+
+In 1943, Zadeh decided to emigrate to the United States, and traveled to Philadelphia by way of Cairo after months of delay waiting for the proper papers or for the right ship to appear. He arrived in mid-1944, and entered the Massachusetts Institute of Technology (MIT) as a graduate student later that year. While in the United States, he changed his name to Lotfi Asker Zadeh.
+
+He received an MS degree in electrical engineering from MIT in 1946, and then applied to Columbia University, as his parents had settled in New York City. Columbia admitted him as a doctoral student, and offered him an instructorship as well. He received his Ph.D. in electrical engineering from Columbia in 1949, and became an assistant professor the next year.
+
+Zadeh taught for ten years at Columbia, was promoted to Full Professor in 1957, and taught at the University of California, Berkeley from 1959 on. He published his seminal work on fuzzy sets in 1965, in which he detailed the mathematics of fuzzy set theory. In 1973 he proposed his theory of fuzzy logic.
+
+Personal life and beliefs
+
+ Zadeh was called "quick to shrug off nationalism, insisting there are much deeper issues in life", and was quoted as saying in an interview: "The question really isn't whether I'm American, Russian, Iranian, Azerbaijani, or anything else. I've been shaped by all these people and cultures and I feel quite comfortable among all of them." He noted in the same interview: "Obstinacy and tenacity. Not being afraid to get embroiled in controversy. That's very much a Turkish tradition. That's part of my character, too. I can be very stubborn. That's probably been beneficial for the development of Fuzzy Logic." He described himself as "an American, mathematically oriented, electrical engineer of Iranian descent, born in Russia."
+
+Zadeh was married to Fay Zadeh and had two children, Stella Zadeh and Norman Zada.
+
+Zadeh died in his home in Berkeley, California, on September 6, 2017, at the age of 96. He is buried in the first Alley of Honor in Baku, Azerbaijan, the city in which he was born. His funeral was well attended by "highly respected people", including the president of Azerbaijan. A month previous to his death, the University of Tehran had released an erroneous report that Zadeh had died, but withdrew it several days later.
+
+Work
+
+According to Google Scholar, as of October 2019, Zadeh's work has been cited about 230,000 times in scholarly works, with the 1965 Fuzzy sets paper receiving more than 100,000 citations.
+
+Fuzzy sets and systems
+
+Zadeh, in his theory of fuzzy sets, proposed using a membership function (with a range covering the interval ) operating on the domain of all possible values. He proposed new operations for the calculus of logic and showed that fuzzy logic was a generalisation of classical and Boolean logic. He also proposed fuzzy numbers as a special case of fuzzy sets, as well as the corresponding rules for consistent mathematical operations (fuzzy arithmetic).
+
+Other contributions
+
+Zadeh is also credited, along with John R. Ragazzini, in 1952, with having pioneered the development of the z-transform method in discrete time signal processing and analysis. These methods are now standard in digital signal processing, digital control, and other discrete-time systems used in industry and research. He was an editor of the International Journal of Computational Cognition.
+
+Zadeh's most recent work included computing with words and perceptions. His recent papers include From Search Engines to Question-Answering Systems—The Role of Fuzzy Logic, Progress in Informatics, No. 1, 1–3, 2005; and Toward a Generalized Theory of Uncertainty (GTU)—An Outline, Information Sciences, Elsevier, Vol. 172, 1–40, 2005.
+
+Selected publications
+
+1965. "Fuzzy sets". Information and Control. 1965; 8: 338–353.
+
+1965. "Fuzzy sets and systems". In: Fox J, editor. System Theory. Brooklyn, NY: Polytechnic Press, 1965: 29–39.
+
+1972. "A fuzzy-set-theoretical interpretation of linguistic hedges". Journal of Cybernetics 1972; 2: 4–34.
+
+1973. "Outline of a new approach to the analysis of complex systems and decision processes". IEEE Trans. Systems, Man and Cybernetics, 1973; 3: 28–44.
+
+1974. "Fuzzy logic and its application to approximate reasoning". In: Information Processing 74, Proc. IFIP Congr. 1974 (3), pp. 591–594.
+
+1975. "Fuzzy logic and approximate reasoning". Synthese, 1975; 30: 407–428.
+
+1975. "Calculus of fuzzy restrictions". In: Zadeh LA, Fu KS, Tanaka K, Shimura M, editors. Fuzzy Sets and their Applications to Cognitive and Decision Processes. New York: Academic Press, 1975: 1–39.
+
+1975. "The concept of a linguistic variable and its application to approximate reasoning", I-III, Information Sciences 8 (1975) 199–251, 301–357; 9 (1976) 43–80.
+
+2002. "From computing with numbers to computing with words — from manipulation of measurements to manipulation of perceptions". International Journal of Applied Math and Computer Science, pp. 307–324, vol. 12, no. 3, 2002.
+
+2012. Computing With Words. Principal Concepts and Ideas. Berlin: Springer, 2012.
+
+A complete list of publications is available here.
+
+Awards and honors
+
+Grave of Lotfi A. Zadeh in Baku.
+
+Zadeh was a Fellow of the Institute of Electrical and Electronics Engineers, the American Academy of Arts and Sciences, the Association for Computing Machinery, the Association for the Advancement of Artificial Intelligence and the International Fuzzy Systems Association, and a member of the National Academy of Engineering. He was also a member of the Academies of Science of Azerbaijan, Bulgaria, Finland, Korea and Poland, and of the International Academy of Systems Studies in Moscow. He received 24 honorary doctorates.
+
+Awards received by Zadeh include, among many others:
+
+IEEE Education Medal; 1973
+
+Eringen Medal; 1976
+
+IEEE Richard W. Hamming Medal, for "seminal contributions to information science and systems, including the conceptualization of fuzzy sets"; 1992
+
+American Society of Mechanical Engineers Rufus Oldenburger Medal; 1993.
+
+Honorary Professorship from the Azerbaijan State Oil Academy; 1993
+
+IEEE Medal of Honor, for "pioneering development of fuzzy logic and its many diverse applications"; 1995
+
+American Automatic Control Council's Richard E. Bellman Control Heritage Award; 1998.
+
+ACM Allen Newell Award; 2001
+
+Outstanding Contribution Award, Web Intelligence Consortium (WIC), Halifax, Canada, 2003.
+
+Wall of Fame, Heinz Nixdorf MuseumsForum (HNF), Paderborn, Germany, 2004.
+
+V. Kaufmann Prize and Gold Medal, International Association for Fuzzy-Set Management and Economy (SIGEF), Barcelona, Spain, Nov. 15, 2004.
+
+J. Keith Brimacombe IPMM Award in recognition of his development of fuzzy set theory and fuzzy logic, 2005.
+
+Benjamin Franklin Medal in Electrical Engineering from The Franklin Institute in Philadelphia, for inventing and developing the field of "fuzzy logic"; 2009
+
+Induction into the IEEE Intelligent Systems' AI's Hall of Fame, 2011, "for his work on soft computing, fuzzy logic, and neural-net theory".
+
+BBVA Foundation Frontiers of Knowledge Award in the category of Information and Communication Technologies (ICT), Spain, 2012.
+
+Honorary Doctor of the Obuda University (Budapest, Hungary)
+
+Golden Goose Award, for Fuzzy Logic; 2017
+
+Legacy
+
+In 2014, the IEEE Systems, Man, and Cybernetics Society established the "Lotfi A. Zadeh Pioneer Award", which is given "To honor a person or persons with outstanding and pioneering contributions to academic and/or industrial research in systems science and engineering, human-machine systems, and/or cybernetics." The award is funding from a $100,000 donation from Zadeh's son, Norm Zadeh, which is administered by the IEEE. Nominees must have "pioneered and developed innovative research, executed in either academe or industry, and has resulted in major scientific advances that are widely recognized in systems science and engineering, human-machine systems, and/or cybernetics. Contributions must have been made at least 15 years prior to the award date."
+
+In February 2019, ADA University in Baku, Azerbaijan presented the first "Lotfi Zadeh Scholarships", which honor the academic success of undergraduate students in the university's School of IT and Engineering. Winners of the scholarship receive a complete tuition waiver for the semester or semester-equivalent in which they achieved a 4.0 average.
+
+See also
+
+Concept of Stratification
+
+References
+
+Notes
+
+^ a b c Staff (September 7, 2017) "Lotfi Zadeh has passed away" EECS at UC Berkeley: News
+
+^ a b c Associated Press (September 8, 2017) "Lotfi Zadeh dead: Computing revolutionary and founder of fuzzy logic dies aged 96" International Business Times
+
+^ a b c Metz, Cade (September 11, 2017) "Lotfi Zadeh: Father of Mathematical Fuzzy Logic, Dies at 96" The New York Times
+
+^ a b "Granting honorary doctorate from Tehran University to professor Lotfizadeh". Official website of University of Tehran (UT) (in Persian). Tehran, Iran. March 9, 2016. Retrieved 1 July 2017.
+
+^ a b Dr. Lotfi A. Zadeh was elected in 1973 as a member of National Academy of Engineering in Computer Science & Engineering and Electronics, Communication & Information Systems Engineering.
+
+^ Diasporla İş üzrə Dövlət Komitəsi
+
+^ a b "Lotfi A. Zadeh" faculty page from College of Engineering, Electrical Engineering and Computer Science, University of California at Berkeley
+
+^ Zadeh, L. A. (1965). "Fuzzy sets". Information and Control. 8 (3): 338–353. doi:10.1016/S0019-9958(65)90241-X.
+
+^ Zadeh, L. A. (1996). "Fuzzy logic = computing with words". IEEE Transactions on Fuzzy Systems. 4 (2): 103–111. doi:10.1109/91.493904.
+
+^ Zadeh, L. A. (1968). "Fuzzy algorithms". Information and Control. 12 (2): 94–102. doi:10.1016/S0019-9958(68)90211-8.
+
+^ Zadeh, L. A. (1971). "Quantitative fuzzy semantics". Information Sciences. 3 (2): 159–176. doi:10.1016/S0020-0255(71)80004-X.
+
+^ Lee, E. T.; Zadeh, L. A. (1969). "Note on fuzzy languages". Information Sciences. 1 (4): 421–434. doi:10.1016/0020-0255(69)90025-5.
+
+^ Zadeh, L. A. (1972). "A Rationale for Fuzzy Control". Journal of Dynamic Systems, Measurement, and Control. 94: 3. doi:10.1115/1.3426540.
+
+^ Zadeh, L. (1969). "Toward a theory of fuzzy systems" (PDF). Retrieved 2014. Check date values in: |accessdate= (help)
+
+^ a b Zadeh, L. A. (1984). "Fuzzy probabilities". Information Processing & Management. 20 (3): 363–372. doi:10.1016/0306-4573(84)90067-0.
+
+^ Zadeh, L. A. (1997). "Toward a theory of fuzzy information granulation and its centrality in human reasoning and fuzzy logic". Fuzzy Sets and Systems. 90 (2): 111–127. doi:10.1016/S0165-0114(97)00077-8.
+
+^ Eurasian Academy Official Site
+
+^ At this time, the Azerbaijan SSR was an independent republic, created by the Red Army. It would become part of the Transcaucasian Socialist Federative Soviet Republic in March 1922, and then part of the Soviet Union in December 1922.
+
+^ a b McNeil & Freiberger, p.17
+
+^ Zadeh, Lotfi A (2015-05-21). "Fuzzy logic—a personal perspective". Fuzzy Sets and Systems. 281: 4–20. doi:10.1016/j.fss.2015.05.009.
+
+^ "Jews in Computer & Information Science" on the JINFO.org website
+
+^ Анвар Унугви "Жанет Селимова" Archived 2014-07-14 at the Wayback Machine (Mamoirs of Lotfi A. Zadeh's cousin in Baku, theatrical director, professor Zhanet Selimova).
+
+^ a b c Gale, Thomson. Lotfi Asker Zadeh Biography World of Computer Science
+
+^ a b c d e McNeil & Freiberger, p.18
+
+^ a b Blair, Betty. Interview with Lotfi Zadeh (December 1999) in "Famous People: Then and Now Lotfi Zadeh, Creator of Fuzzy Logic (1921– )" Azerbaijan International (7.4) (Winter 1999)
+
+^ a b c d e McNeil & Freiberger, p.19
+
+^ Blair, Betty. "Short Biographical Sketch". Azerbaijan International, Vol. 2:4 (Winter 1994), p. 49.
+
+^ Blair, Betty. "Interview with Lotfi Zadeh, Creator of Fuzzy Logic". Azerbaijan International, Vol. 2:4 (Winter 1994), pp. 46 ff.
+
+^ Brewer, Jared and Shakeel, Azwar (September 17, 2017) "UC Berkeley professor, creator of ‘fuzzy logic’ Lotfi Zadeh dies at 96" The Daily Californian
+
+^ Staff (August 12, 2017) "Tehran University withdraws report on death of researcher" Press-TV
+
+^ Lotfi A. Zadeh profile page on Google Scholar (accessed October 19, 2019).
+
+^ McNeil & Freiberger, passim
+
+^ "IEEE James H. Mulligan, Jr. Education Medal Recipients" (PDF). IEEE. Retrieved September 3, 2011.
+
+^ "IEEE Richard W. Hamming Medal Recipients" (PDF). IEEE. Retrieved May 29, 2011.
+
+^ "Rufus Oldenburger Medal". American Society of Mechanical Engineers. Retrieved February 12, 2013.
+
+^ "IEEE Medal of Honor Recipients" (PDF). IEEE. Archived from the original (PDF) on 2015-04-22. Retrieved September 3, 2011.
+
+^ "Richard E. Bellman Control Heritage Award". American Automatic Control Council. Retrieved February 10, 2013.
+
+^ "AI's Hall of Fame" (PDF). IEEE Intelligent Systems. 26 (4): 5–15. 2011. doi:10.1109/MIS.2011.64.
+
+^ "IEEE Computer Society Magazine Honors Artificial Intelligence Leaders". DigitalJournal.com. August 24, 2011. Retrieved September 18, 2011. Press release source: PRWeb (Vocus).
+
+^ "2017: Fuzzy Logic, Clear Impact". The Golden Goose Award. Retrieved 2019-12-13.
+
+^ "Lotfi A. Zadeh Pioneer Award" IEEE Systems, Man, and Cybernetics Society website
+
+^ Staff (25 February 2019) "Presentation of Inaugural Lotfi Zadeh Scholarships" ADA University website
+
+Bibliography
+
+McNeil, Daniel and Freiberger, Paul. Fuzzy Logic: The discovery of a revolutionary computer technology – and how it is changing our world. New York: Simon & Schuster, 1993. ISBN 0-671-73843-7
+
+Further reading
+
+Fuzzy Sets and Systems. The main journal of the field which contains many contributions by its founder.
+
+Seising, Rudolf. The Fuzzification of Systems: The Genesis of Fuzzy Set Theory and Its Initial Applications – Developments up to the 1970s (Studies in Fuzziness and Soft Computing, Vol. 216) Berlin, New York, : Springer 2007.
+
+Zadeh, Fay. "My Life and Travels with the Father of Fuzzy Logic". 1998, TSI Press, Albuquerque, NM.
+
+Zadeh, Lofti A. "Lotfi Visions", two-part interview with Jack J. Woehr, Dr. Dobb's Journal, July, 1994 (part 1) and August, 1994 (part 2).
+
+External links
+
+ Wikimedia Commons has media related to Lotfi Zadeh.
+
+ Wikiquote has quotations related to: Lotfi A. Zadeh
+
+Lotfi Zadeh (interview): Reflections on the Beginnings of "Fuzzy Logic"  in Azerbaijan International, Vol. 2:4 (1994), pp. 46–47.
+
+Lotfi Zadeh, Berkeley Commencement Speech: "Commercialism and Human Values: When You Can't Stop for Lunch," in Azerbaijan International, Vol. 6:1 (Spring 1998), p. 65.
+
+"Famous People: Then and Now, Lotfi Zadeh (reflecting on his childhood) in Azerbaijan International, Vol. 7:4 (Winter 1999), pp. 28–29.
+
+"Lotfi Zadeh: Short Biographical Sketch". Azerbaijan International, Vol. 2:4 (Winter 1994), p. 49.
+
+CS.Berkeley.edu, Academic profile – Berkeley, University of California.
+
+Univagora.ro, Honorary Chair and Keynote Speaker, ICCCC 2008, A conference dedicated to the Centenary of John Bardeen.
+
+1965 seminal work on CS.Berkeley.edu, Fuzzy Sets
+
+, Zadeh's Google Scholar Citations
+
+Lotfi A. Zadeh at the AI Genealogy Project.
+
+Awards and honors for Lotfi A. Zadeh
+
+v
+
+t
+
+e
+
+IEEE James H. Mulligan Jr. Education Medal
+
+1956–1975 
+Frederick Terman (1956)
+
+William Littell Everitt (1957)
+
+J. F. Calvert (1958)
+
+Gordon S. Brown (1959)
+
+Ernst Weber (1960)
+
+George F. Corcoran (1961)
+
+Ernst Guillemin (1962)
+
+William Gould Dow (1963)
+
+B. R. Teare Jr. (1964)
+
+Hugh H. Skilling (1965)
+
+William H. Huggins (1966)
+
+John Roy Whinnery (1967)
+
+Edward C. Jordan (1968)
+
+Donald Pederson (1969)
+
+Jacob Millman (1970)
+
+Franz Ollendorff (1971)
+
+Mac Van Valkenburg (1972)
+
+Lotfi A. Zadeh (1973)
+
+John G. Truxal (1974)
+
+Charles A. Desoer (1975)
+
+1976–2000 
+John G. Linvill (1976)
+
+Robert Fano (1977)
+
+Harold A. Peterson (1978)
+
+John R. Ragazzini (1979)
+
+Aldert van der Ziel (1980)
+
+Ernest S. Kuh (1981)
+
+King-Sun Fu (1982)
+
+Mischa Schwartz (1983)
+
+Athanasios Papoulis (1984)
+
+James F. Gibbons (1985)
+
+Richard B. Adler (1986)
+
+Joseph W. Goodman (1987)
+
+Alan V. Oppenheim (1988)
+
+Ben G. Streetman (1989)
+
+James D. Meindl (1990)
+
+Hermann A. Haus (1991)
+
+Ronald W. Schafer (1992)
+
+Ronald A. Rohrer (1993)
+
+Chung Laung Liu (1994)
+
+Thomas Kailath (1995)
+
+Adel Sedra (1996)
+
+David A. Hodges (1997)
+
+Stephen W. Director (1998)
+
+Andries van Dam (1999)
+
+David Patterson (2000)
+
+2001–present 
+Brian Anderson (2001)
+
+Petar V. Kokotovic (2002)
+
+Yasuharu Suematsu (2003)
+
+Paul R. Gray (2004)
+
+Vincent Poor (2005)
+
+Sanjit K. Mitra (2006)
+
+Andrew S. Tanenbaum (2007)
+
+Joseph Bordogna (2008)
+
+Jose B. Cruz Jr. (2009)
+
+Randy Katz (2010)
+
+Raj Mittra (2011)
+
+Fawwaz T. Ulaby (2012)
+
+J. David Irwin (2013)
+
+John G. Proakis (2014)
+
+Richard Baraniuk (2015)
+
+Simon Haykin (2016)
+
+Stephen P. Boyd (2017)
+
+Delores M. Etter (2018)
+
+John G. Webster (2019)
+
+v
+
+t
+
+e
+
+IEEE Richard W. Hamming Medal
+
+1988–2000 
+Richard Hamming (1988)
+
+Irving S. Reed (1989)
+
+Dennis Ritchie / Ken Thompson (1990)
+
+Elwyn Berlekamp (1991)
+
+Lotfi A. Zadeh (1992)
+
+Jorma Rissanen (1993)
+
+Gottfried Ungerboeck (1994)
+
+Jacob Ziv (1995)
+
+Mark Semenovich Pinsker (1996)
+
+Thomas M. Cover (1997)
+
+David D. Clark (1998)
+
+David A. Huffman (1999)
+
+Solomon W. Golomb (2000)
+
+2001–present 
+Alexander G. Fraser (2001)
+
+Peter Elias (2002)
+
+Claude Berrou / Alain Glavieux (2003)
+
+Jack K. Wolf (2004)
+
+Neil Sloane (2005)
+
+Vladimir Levenshtein (2006)
+
+Abraham Lempel (2007)
+
+Sergio Verdú (2008)
+
+Peter Franaszek (2009)
+
+Whitfield Diffie / Martin Hellman / Ralph Merkle (2010)
+
+Toby Berger (2011)
+
+Michael Luby / Amin Shokrollahi (2012)
+
+Robert Calderbank (2013)
+
+Thomas Richardson / Rüdiger Urbanke (2014)
+
+Imre Csiszár (2015)
+
+Abbas El Gamal (2016)
+
+Shlomo Shamai (2017)
+
+Erdal Arıkan (2018)
+
+David Tse (2019)
+
+Cynthia Dwork (2020)
+
+v
+
+t
+
+e
+
+IEEE Medal of Honor
+
+1917–1925 
+Edwin H. Armstrong (1917)
+
+Ernst Alexanderson (1919)
+
+Guglielmo Marconi (1920)
+
+Reginald A. Fessenden (1921)
+
+Lee De Forest (1922)
+
+John Stone Stone (1923)
+
+Michael I. Pupin (1924)
+
+1926–1950 
+Greenleaf W. Pickard (1926)
+
+Louis W. Austin (1927)
+
+Jonathan Zenneck (1928)
+
+George W. Pierce (1929)
+
+Peder Oluf Pedersen (1930)
+
+Gustave A. Ferrie (1931)
+
+Arthur Edwin Kennelly (1932)
+
+John Ambrose Fleming (1933)
+
+Stanford C. Hooper (1934)
+
+Balthasar van der Pol (1935)
+
+George Ashley Campbell (1936)
+
+Melville Eastham (1937)
+
+John H. Dellinger (1938)
+
+Albert G. Lee (1939)
+
+Lloyd Espenschied (1940)
+
+Alfred N. Goldsmith (1941)
+
+Albert H. Taylor (1942)
+
+William Wilson (1943)
+
+Haraden Pratt (1944)
+
+Harold H. Beverage (1945)
+
+Ralph Hartley (1946)
+
+Lawrence C. F. Horle (1948)
+
+Ralph Bown (1949)
+
+Frederick Terman (1950)
+
+1951–1975 
+Vladimir Zworykin (1951)
+
+Walter Ransom Gail Baker (1952)
+
+John Milton Miller (1953)
+
+William Littell Everitt (1954)
+
+Harald T. Friis (1955)
+
+John V. L. Hogan (1956)
+
+Julius Adams Stratton (1957)
+
+Albert Hull (1958)
+
+Emory Leon Chaffee (1959)
+
+Harry Nyquist (1960)
+
+Ernst Guillemin (1961)
+
+Edward Victor Appleton (1962)
+
+George C. Southworth and John Hays Hammond Jr. (1963)
+
+Harold A. Wheeler (1964)
+
+No award (1965)
+
+Claude Elwood Shannon (1966)
+
+Charles H. Townes (1967)
+
+Gordon K. Teal (1968)
+
+Edward Ginzton (1969)
+
+Dennis Gabor (1970)
+
+John Bardeen (1971)
+
+Jay W. Forester (1972)
+
+Rudolf Kompfner (1973)
+
+Rudolf Kalman (1974)
+
+John Robinson Pierce (1975)
+
+1976–2000 
+No award (1976)
+
+H. Earle Vaughan (1977)
+
+Robert Noyce (1978)
+
+Richard Bellman (1979)
+
+William Shockley (1980)
+
+Sidney Darlington (1981)
+
+John Tukey (1982)
+
+Nicolaas Bloembergen (1983)
+
+Norman F. Ramsey (1984)
+
+John Roy Whinnery (1985)
+
+Jack Kilby (1986)
+
+Paul Lauterbur (1987)
+
+Calvin Quate (1988)
+
+C. Kumar Patel (1989)
+
+Robert G. Gallager (1990)
+
+Leo Esaki (1991)
+
+Amos E. Joel, Jr. (1992)
+
+Karl Johan Åström (1993)
+
+Alfred Y. Cho (1994)
+
+Lotfi A. Zadeh (1995)
+
+Robert Metcalfe (1996)
+
+George H. Heilmeier (1997)
+
+Donald Pederson (1998)
+
+Charles Concordia (1999)
+
+Andrew Grove (2000)
+
+2001–present 
+Herwig Kogelnik (2001)
+
+Herbert Kroemer (2002)
+
+Nick Holonyak\t(2003)
+
+Tadahiro Sekimoto (2004)
+
+ James Flanagan (2005)
+
+James D. Meindl (2006)
+
+Thomas Kailath (2007)
+
+Gordon Moore (2008)
+
+Robert H. Dennard (2009)
+
+Andrew Viterbi (2010)
+
+Morris Chang (2011)
+
+John L. Hennessy (2012)
+
+Irwin M. Jacobs (2013)
+
+B. Jayant Baliga (2014)
+
+Mildred Dresselhaus (2015)
+
+G. David Forney, Jr. (2016)
+
+Kornelis (Kees) A. Schouhamer Immink (2017)
+
+v
+
+t
+
+e
+
+AACC Richard E. Bellman Control Heritage Award
+
+1979–2000 
+Hendrik Wade Bode (1979)
+
+Nathaniel B. Nichols (1980)
+
+Charles Stark Draper (1981)
+
+Irving Lefkowitz (1982)
+
+John V. Breakwell (1983)
+
+Richard E. Bellman (1984)
+
+Harold Chestnut (1985)
+
+John Zaborszky (1986)
+
+John C. Lozier (1987)
+
+Walter R. Evans (1988)
+
+Roger W. Brockett (1989)
+
+Arthur E. Bryson (1990)
+
+John G. Truxal (1991)
+
+Rutherford Aris (1992)
+
+Eliahu I. Jury (1993)
+
+Jose B. Cruz Jr. (1994)
+
+Michael Athans (1995)
+
+Elmer G. Gilbert (1996)
+
+Rudolf E. Kalman (1997)
+
+Lotfi A. Zadeh (1998)
+
+Yu-Chi Ho (1999)
+
+W. Harmon Ray (2000)
+
+2001–present 
+A. V. Balakrishnan (2001)
+
+Petar V. Kokotovic (2002)
+
+Kumpati S. Narendra (2003)
+
+Harold J. Kushner (2004)
+
+Gene F. Franklin (2005)
+
+Tamer Başar (2006)
+
+Sanjoy K. Mitter (2007)
+
+Pravin Varaiya (2008)
+
+George Leitmann (2009)
+
+Dragoslav D. Šiljak (2010)
+
+Manfred Morari (2011)
+
+Arthur J. Krener (2012)
+
+A. Stephen Morse (2013)
+
+Dimitri Bertsekas (2014)
+
+Thomas F. Edgar (2015)
+
+Jason L. Speyer (2016)
+
+John S. Baras (2017)
+
+Masayoshi Tomizuka (2018)
+
+Irena Lasiecka (2019)
+
+Authority control 
+ACM DL: 81375596015
+
+BNE: XX1483741
+
+BNF: cb12342587j (data)
+
+DBLP: z/LAZadeh
+
+GND: 128821760
+
+ISNI: 0000 0001 0905 6957
+
+LCCN: n79017973
+
+MGP: 32837
+
+NDL: 00461696
+
+NKC: stk2008441993
+
+NTA: 067905293
+
+SELIBR: 405496
+
+SNAC: w6ff7cb1
+
+SUDOC: 078161274
+
+VIAF: 59157256
+
+ WorldCat Identities: lccn-n79017973
+
+v
+
+t
+
+e
+
+Mathematics in Iran
+
+Mathematicians
+
+Before 20th Century 
+Abu al-Wafa' Buzjani
+
+Jamshīd al-Kāshī (al-Kashi's theorem)
+
+Omar Khayyam (Khayyam-Pascal's triangle, Khayyam-Saccheri quadrilateral, Khayyam's Solution of Cubic Equations)
+
+Al-Mahani
+
+Muhammad Baqir Yazdi
+
+Nizam al-Din al-Nisapuri
+
+Al-Nayrizi
+
+Kushyar Gilani
+
+Ayn al-Quzat Hamadani
+
+Al-Isfahani
+
+Al-Isfizari
+
+Muhammad ibn Musa al-Khwarizmi (Al-jabr)
+
+Najm al-Din al-Qazwini al-Katibi
+
+Nasir al-Din al-Tusi
+
+Al-Biruni
+
+Modern 
+Maryam Mirzakhani
+
+Caucher Birkar
+
+Sara Zahedi
+
+Farideh Firoozbakht (Firoozbakht's conjecture)
+
+S. L. Hakimi (Havel–Hakimi algorithm)
+
+Siamak Yassemi
+
+Freydoon Shahidi (Langlands–Shahidi method)
+
+Hamid Naderi Yeganeh (A Bird in Flight, Boat)
+
+Esmail Babolian
+
+Ramin Takloo-Bighash
+
+Lotfi A. Zadeh (Fuzzy mathematics, Fuzzy set, Fuzzy logic)
+
+Ebadollah S. Mahmoodian
+
+Reza Sarhangi (The Bridges Organization)
+
+Siavash Shahshahani
+
+Gholamhossein Mosaheb
+
+Amin Shokrollahi
+
+Reza Sadeghi
+
+Mohammad Mehdi Zahedi
+
+Mohsen Hashtroodi
+
+Hossein Zakeri
+
+Ali Abkar
+
+Amir Ali Ahmadi
+
+Prize Recipients
+
+Fields Medal 
+Maryam Mirzakhani (2014)
+
+Caucher Birkar (2018)
+
+EMS Prize 
+Sara Zahedi (2016)
+
+Satter Prize 
+Maryam Mirzakhani (2013)
+
+Organizations 
+Iranian Mathematical Society
+
+Institutions 
+Institute for Research in Fundamental Sciences

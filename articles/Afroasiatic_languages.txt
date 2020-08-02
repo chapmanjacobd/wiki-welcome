@@ -1,0 +1,1677 @@
+"Large language family of Africa and West Asia
+
+"Afro-Asiatic" redirects here. For other uses, see Afro-Asiatic (disambiguation).
+
+Afroasiatic
+
+Geographic
+
+distribution Malta, Horn of Africa, North Africa, Sahel, West Asia
+
+Linguistic classification One of the world's primary language families
+
+Proto-language Proto-Afroasiatic
+
+Subdivisions 
+Berber
+
+Chadic
+
+Cushitic
+
+Egyptian
+
+Omotic
+
+Semitic
+
+ISO 639-2 / 5 afa
+
+Glottolog afro1255
+
+Distribution of the Afro-Asiatic languages
+
+Afroasiatic (Afro-Asiatic), also known as Afrasian and in older sources as Hamito-Semitic or Semito-Hamitic, is a large language family of about 300 languages that are spoken predominantly in West Asia, North Africa, the Horn of Africa and parts of the Sahel.
+
+Afroasiatic languages have over 495 million native speakers, the fourth largest number of any language family (after Indo-European, Sino-Tibetan and Niger–Congo). The phylum has six branches: Berber, Chadic, Cushitic, Egyptian, Omotic and Semitic. By far the most widely spoken Afroasiatic language or dialect continuum is Arabic. A de facto group of distinct language varieties within the Semitic branch, the languages that evolved from Proto-Arabic have around 313 million native speakers, concentrated primarily in West Asia and North Africa. 
+
+In addition to languages spoken today, Afroasiatic includes several important ancient languages, such as Ancient Egyptian, which forms a distinct branch of the family, and Akkadian, Biblical Hebrew and Old Aramaic, all of which are from the Semitic branch. The original homeland of the Afroasiatic family, and when the parent language (i.e. Proto-Afroasiatic) was spoken, are yet to be agreed upon by historical linguists. Proposed locations include the Horn of Africa, North Africa, the Eastern Sahara and the Levant.
+
+Contents
+
+1 Etymology
+
+2 Distribution and branches
+
+3 Demographics
+
+4 Classification history
+
+4.1 Subgrouping
+
+5 Position among the world's languages
+
+6 Date of Afroasiatic
+
+7 Afroasiatic Urheimat
+
+8 Similarities in grammar and syntax
+
+9 Shared vocabulary
+
+9.1 Etymological bibliography
+
+10 See also
+
+11 References
+
+11.1 Citations
+
+11.2 General references
+
+12 External links
+
+Etymology
+
+In the early 19th century, linguists grouped the Berber, Cushitic and Egyptian languages within a "Hamitic" phylum, in acknowledgement of these languages' genetic relation with each other and with those in the Semitic phylum. The terms "Hamitic" and "Semitic" were etymologically derived from the Book of Genesis, which describes various Biblical tribes descended from Ham and Shem, two sons of Noah. By the 1860s, the main constituent elements within the broader Afroasiatic family had been worked out.
+
+Friedrich Müller introduced the name "Hamito-Semitic" for the entire language family in his Grundriss der Sprachwissenschaft (1876). Maurice Delafosse (1914) later coined the term "Afroasiatic" (often now spelled "Afro-Asiatic"). However, it did not come into general use until Joseph Greenberg (1950) formally proposed its adoption. In doing so, Greenberg sought to emphasize the fact that 'Hamitic' was not a valid group and that language cladistics did not reflect race.
+
+Individual scholars have also called the family "Erythraean" (Tucker 1966) and "Lisramic" (Hodge 1972). In lieu of "Hamito-Semitic", the Russian linguist Igor Diakonoff later suggested the term "Afrasian", meaning "half African, half Asiatic", in reference to the geographic distribution of the family's constituent languages.
+
+The term "Hamito-Semitic" remains in use in the academic traditions of some European countries, as well as in the official census of the government of India.
+
+Distribution and branches
+
+Interrelations between branches of Afroasiatic (Lipiński 2001)
+
+Some linguists' proposals for grouping within Afroasiatic
+
+Scholars generally treat the Afroasiatic language family as including the following branches:
+
+Berber
+
+Chadic
+
+Cushitic
+
+Egyptian
+
+Omotic
+
+Semitic
+
+Although there is general agreement on these six families, linguists who study Afroasiatic raise some points of disagreement, in particular:
+
+The Omotic language branch is the most controversial member of Afroasiatic, because the grammatical formatives to which most linguists have given the greatest weight in classifying languages in the family "are either absent or distinctly wobbly" (Hayward 1995). Greenberg (1963) and others considered it a subgroup of Cushitic, whereas others have raised doubts about its being part of Afroasiatic at all (e.g. Theil 2006).
+
+The Afroasiatic identity of Ongota is also broadly questioned, as is its position within Afroasiatic among those who accept it, due to the "mixed" appearance of the language and a paucity of research and data. Harold Fleming (2006) proposes that Ongota constitutes a separate branch of Afroasiatic. Bonny Sands (2009) finds the proposal by Savà and Tosco (2003) the most convincing: namely that Ongota is an East Cushitic language with a Nilo-Saharan substratum. In other words, it would appear that the Ongota people once spoke a Nilo-Saharan language but then shifted to speaking a Cushitic language but retained some characteristics of their earlier Nilo-Saharan language.
+
+Beja, sometimes listed as a separate branch of Afroasiatic, is more often included in the Cushitic branch, which has a substantial degree of internal diversity.
+
+There is no consensus on the interrelationships of the five non-Omotic branches of Afroasiatic (see § Subgrouping below). This situation is not unusual, even among long-established language families: scholars also frequently disagree on the internal classification of the Indo-European languages, for instance.
+
+The extinct Meroitic language has been proposed (Bruce Trigger, 1964, 1977) as an unclassified Afroasiatic language, because it shares the phonotactics characteristic of the family, but there is not enough evidence to secure a classification (Fritz Hintze, 1974, 1979).
+
+The classification of Kujargé within Afroasiatic is not agreed upon. Blench (2008) notes that much of the basic vocabulary looks Cushitic, and speculates that Kujarge could even be a conservative language transitional between Chadic and Cushitic.
+
+Demographics
+
+Arabic, the most widely-spoken Afroasiatic language, has over 300 million native speakers. Other widely-spoken Afroasiatic languages include:
+
+Hausa (Chadic), the dominant language of northern Nigeria and southern Niger, spoken as a first language by over 40 million people and used as a lingua franca by another 20 million across West Africa and the Sahel.
+
+Oromo (Cushitic), spoken in Ethiopia and Kenya by around 34 million people
+
+Amharic (Semitic), spoken in Ethiopia, with over 25 million native speakers in addition to millions of other Ethiopians speaking it as a second language.
+
+Somali (Cushitic), spoken by 16 million people in Somalia, Djibouti, eastern Ethiopia and northeastern Kenya.
+
+Afar (Cushitic), spoken by around 7.5 million people in Ethiopia, Djibouti, and Eritrea.
+
+Shilha (Berber), spoken by around 7 million people in Morocco.
+
+ Tigrinya (Semitic), spoken by around 6.9 million people in Eritrea and Ethiopia
+
+Kabyle (Berber), spoken by around 5.6 million people in Algeria.
+
+Hebrew (Semitic), spoken by around 9 million people (5 million native first-language speakers and 4 million second-language speakers) in Israel and the Jewish diaspora; premodern Hebrew is the liturgical language of Judaism and of the Samaritan people.
+
+Central Atlas Tamazight (Berber), spoken by around 4.6 million people in Morocco.
+
+Riffian (Berber), spoken by around 4.2 million people in Morocco.
+
+Gurage languages (Semitic), a group of languages spoken by more than 2 million people in Ethiopia.
+
+Maltese (Semitic), spoken by around half a million people in Malta and the Maltese diaspora. It descended from Classical Arabic independently from modern Arabic dialects, features Romance superstrates and has been written in the Latin script since at least the 14th century.
+
+Assyrian Neo-Aramaic (Semitic), a variety of modern Aramaic, spoken by more than 500,000 people in the Assyrian diaspora.
+
+Classification history
+
+In the 9th century, the Hebrew grammarian Judah ibn Quraysh of Tiaret in Algeria was the first to link two branches of Afroasiatic together; he perceived a relationship between Berber and Semitic. He knew of Semitic through his study of Arabic, Hebrew, and Aramaic. In the course of the 19th century, Europeans also began suggesting such relationships. In 1844, Theodor Benfey suggested a language family consisting of Semitic, Berber, and Cushitic (calling the latter "Ethiopic"). In the same year, T.N. Newman suggested a relationship between Semitic and Hausa, but this would long remain a topic of dispute and uncertainty.
+
+Friedrich Müller named the traditional Hamito-Semitic family in 1876 in his Grundriss der Sprachwissenschaft ("Outline of Linguistics"), and defined it as consisting of a Semitic group plus a "Hamitic" group containing Egyptian, Berber, and Cushitic; he excluded the Chadic group. It was the Egyptologist Karl Richard Lepsius (1810–1884) who restricted Hamitic to the non-Semitic languages in Africa, which are characterized by a grammatical gender system. This "Hamitic language group" was proposed to unite various, mainly North-African, languages, including the Ancient Egyptian language, the Berber languages, the Cushitic languages, the Beja language, and the Chadic languages. Unlike Müller, Lepsius considered that Hausa and Nama were part of the Hamitic group. These classifications relied in part on non-linguistic anthropological and racial arguments. Both authors used the skin-color, mode of subsistence, and other characteristics of native speakers as part of their arguments that particular languages should be grouped together.
+
+Distribution of the Afroasiatic/Hamito-Semitic languages in Africa
+
+In 1912, Carl Meinhof published Die Sprachen der Hamiten ("The Languages of the Hamites"), in which he expanded Lepsius's model, adding the Fula, Maasai, Bari, Nandi, Sandawe and Hadza languages to the Hamitic group. Meinhof's model was widely supported into the 1940s. Meinhof's system of classification of the Hamitic languages was based on a belief that "speakers of Hamitic became largely coterminous with cattle herding peoples with essentially Caucasian origins, intrinsically different from and superior to the 'Negroes of Africa'." However, in the case of the so-called Nilo-Hamitic languages (a concept he introduced), it was based on the typological feature of gender and a "fallacious theory of language mixture." Meinhof did this although earlier work by scholars such as Lepsius and Johnston had substantiated that the languages which he would later dub "Nilo-Hamitic" were in fact Nilotic languages, with numerous similarities in vocabulary to other Nilotic languages.
+
+Leo Reinisch (1909) had already proposed linking Cushitic and Chadic, while urging their more distant affinity with Egyptian and Semitic. However, his suggestion found little acceptance. Marcel Cohen (1924) rejected the idea of a distinct "Hamitic" subgroup, and included Hausa (a Chadic language) in his comparative Hamito-Semitic vocabulary. Finally, Joseph Greenberg's 1950 work led to the widespread rejection of "Hamitic" as a language category by linguists. Greenberg refuted Meinhof's linguistic theories, and rejected the use of racial and social evidence. In dismissing the notion of a separate "Nilo-Hamitic" language category in particular, Greenberg was "returning to a view widely held a half century earlier." He consequently rejoined Meinhof's so-called Nilo-Hamitic languages with their appropriate Nilotic siblings. He also added (and sub-classified) the Chadic languages, and proposed the new name Afroasiatic for the family. Almost all scholars have accepted this classification as the new and continued consensus.
+
+Greenberg's model was fully developed in his book The Languages of Africa (1963), in which he reassigned most of Meinhof's additions to Hamitic to other language families, notably Nilo-Saharan. Following Isaac Schapera and rejecting Meinhof, he classified the Khoekhoe language as a member of the Khoisan languages, a grouping that has since proven inaccurate and excessively motivated on the presence of click sounds. To Khoisan he also added the Tanzanian Hadza and Sandawe, though this view has been discredited as linguists working on these languages consider them to be linguistic isolates. Despite this, Greenberg's classification remains a starting point for modern work of many languages spoken in Africa, and the Hamitic category (and its extension to Nilo-Hamitic) has no part in this.
+
+Since the three traditional branches of the Hamitic languages (Berber, Cushitic and Egyptian) have not been shown to form an exclusive (monophyletic) phylogenetic unit of their own, separate from other Afroasiatic languages, linguists no longer use the term in this sense. Each of these branches is instead now regarded as an independent subgroup of the larger Afroasiatic family.
+
+In 1969, Harold Fleming proposed that what had previously been known as Western Cushitic is an independent branch of Afroasiatic, suggesting for it the new name Omotic. This proposal and name have met with widespread acceptance.
+
+Based on typological differences with the other Cushitic languages, Robert Hetzron proposed that Beja has to be removed from Cushitic, thus forming an independent branch of Afroasiatic. Most scholars, however, reject this proposal, and continue to group Beja as the sole member of a Northern branch within Cushitic.
+
+Glottolog does not accept that the inclusion or even unity of Omotic has been established, nor that of Ongota or the unclassified Kujarge. It therefore splits off the following groups as small families: South Omotic, Mao, Dizoid, Gonga–Gimojan (North Omotic apart from the preceding), Ongota, Kujarge.
+
+Subgrouping
+
+Proposed Afroasiatic sub-divisions
+Greenberg (1963)Newman (1980)Fleming (post-1981)Ehret (1995)
+
+Semitic
+
+Egyptian
+
+Berber
+
+Cushitic
+Northern Cushitic
+
+(equals Beja)
+
+Central Cushitic
+
+Eastern Cushitic
+
+Western Cushitic
+
+(equals Omotic)
+
+Southern Cushitic
+
+Chadic
+
+Berber–Chadic
+
+Egypto-Semitic
+
+Cushitic
+
+(excludes Omotic)
+
+Omotic
+
+Erythraean
+Cushitic
+
+Ongota
+
+Non-Ethiopian
+Chadic
+
+Berber
+
+Egyptian
+
+Semitic
+
+Beja
+
+Omotic
+North Omotic
+
+South Omotic
+
+Erythrean
+Cushitic
+Beja
+
+Agaw
+
+East–South Cushitic
+Eastern Cushitic
+
+Southern Cushitic
+
+North Erythrean
+Chadic
+
+Boreafrasian
+Egyptian
+
+Berber
+
+Semitic
+
+Orel & Stobova (1995)Diakonoff (1996)Bender (1997)Militarev (2000)
+
+Berber–Semitic
+
+Chadic–Egyptian
+
+Omotic
+
+Beja
+
+Agaw
+
+Sidamic
+
+East Lowlands
+
+Rift
+
+East–West Afrasian
+Berber
+
+Cushitic
+
+Semitic
+
+North–South Afrasian
+Chadic
+
+Egyptian
+
+(excludes Omotic)
+
+Omotic
+
+Chadic
+
+Macro-Cushitic
+Berber
+
+Cushitic
+
+Semitic
+
+North Afrasian
+African North Afrasian
+Chado-Berber
+
+Egyptian
+
+Semitic
+
+South Afrasian
+Omotic
+
+Cushitic
+
+Little agreement exists on the subgrouping of the five or six branches of Afroasiatic: Semitic, Egyptian, Berber, Chadic, Cushitic, and Omotic. However, Christopher Ehret (1979), Harold Fleming (1981), and Joseph Greenberg (1981) all agree that the Omotic branch split from the rest first.
+
+Otherwise:
+
+Paul Newman (1980) groups Berber with Chadic and Egyptian with Semitic, while questioning the inclusion of Omotic in Afroasiatic. Rolf Theil (2006) concurs with the exclusion of Omotic, but does not otherwise address the structure of the family.
+
+Harold Fleming (1981) divides non-Omotic Afroasiatic, or "Erythraean", into three groups, Cushitic, Semitic, and Chadic-Berber-Egyptian. He later added Semitic and Beja to Chadic-Berber-Egyptian and tentatively proposed Ongota as a new third branch of Erythraean. He thus divided Afroasiatic into two major branches, Omotic and Erythraean, with Erythraean consisting of three sub-branches, Cushitic, Chadic-Berber-Egyptian-Semitic-Beja, and Ongota.
+
+Like Harold Fleming, Christopher Ehret (1995: 490) divides Afroasiatic into two branches, Omotic and Erythrean. He divides Omotic into two branches, North Omotic and South Omotic. He divides Erythrean into Cushitic, comprising Beja, Agaw, and East-South Cushitic, and North Erythrean, comprising Chadic and "Boreafrasian." According to his classification, Boreafrasian consists of Egyptian, Berber, and Semitic.
+
+Vladimir Orel and Olga Stolbova (1995) group Berber with Semitic and Chadic with Egyptian. They split up Cushitic into five or more independent branches of Afroasiatic, viewing Cushitic as a Sprachbund rather than a language family.
+
+Igor M. Diakonoff (1996) subdivides Afroasiatic in two, grouping Berber, Cushitic, and Semitic together as East-West Afrasian (ESA), and Chadic with Egyptian as North-South Afrasian (NSA). He excludes Omotic from Afroasiatic.
+
+Lionel Bender (1997) groups Berber, Cushitic, and Semitic together as "Macro-Cushitic". He regards Chadic and Omotic as the branches of Afroasiatic most remote from the others.
+
+Alexander Militarev (2000), on the basis of lexicostatistics, groups Berber with Chadic and both more distantly with Semitic, as against Cushitic and Omotic. He places Ongota in South Omotic.
+
+Position among the world's languages
+
+Afroasiatic is one of the four major language families spoken in Africa identified by Joseph Greenberg in his book The Languages of Africa (1963). It is one of the few whose speech area is transcontinental, with languages from Afroasiatic's Semitic branch also spoken in the Middle East and Europe.
+
+There are no generally accepted relations between Afroasiatic and any other language family. However, several proposals grouping Afroasiatic with one or more other language families have been made. The best-known of these are the following:
+
+Hermann Möller (1906) argued for a relation between Semitic and the Indo-European languages. This proposal was accepted by a few linguists (e.g. Holger Pedersen and Louis Hjelmslev). (For a fuller account, see Indo-Semitic languages.) However, the theory has little currency today, although most linguists do not deny the existence of grammatical similarities between both families (such as grammatical gender, noun-adjective agreement, three-way number distinction, and vowel alternation as a means of derivation).
+
+Apparently influenced by Möller (a colleague of his at the University of Copenhagen), Holger Pedersen included Hamito-Semitic (the term replaced by Afroasiatic) in his proposed Nostratic macro-family (cf. Pedersen 1931:336–338), also included the Indo-European, Uralic, Altaic, Yukaghir languages, and Dravidian languages. This inclusion was retained by subsequent Nostraticists, starting with Vladislav Illich-Svitych and Aharon Dolgopolsky.
+
+Joseph Greenberg (2000–2002) did not reject a relationship of Afroasiatic to these other languages, but he considered it more distantly related to them than they were to each other, grouping instead these other languages in a separate macro-family, which he called Eurasiatic, and to which he added Chukotian, Gilyak, Korean, Japanese-Ryukyuan, Eskimo–Aleut, and Ainu.
+
+Most recently, Sergei Starostin's school has accepted Eurasiatic as a subgroup of Nostratic, with Afroasiatic, Dravidian and Kartvelian in Nostratic outside of Eurasiatic. The even larger Borean super-family contains Nostratic as well as Dené-Caucasian and Austric.
+
+Date of Afroasiatic
+
+Speech sample in the Semitic Neo-Aramaic language, a descendant of Old Aramaic
+
+The earliest written evidence of an Afroasiatic language is an Ancient Egyptian inscription dated to c. 3400 BC (5,400 years ago). Symbols on Gerzean (Naqada II) pottery resembling Egyptian hieroglyphs date back to c. 4000 BC, suggesting an earlier possible dating. This gives us a minimum date for the age of Afroasiatic. However, Ancient Egyptian is highly divergent from Proto-Afroasiatic (Trombetti 1905: 1–2), and considerable time must have elapsed in between them. Estimates of the date at which the Proto-Afroasiatic language was spoken vary widely. They fall within a range between approximately 7,500 BC (9,500 years ago), and approximately 16,000 BC (18,000 years ago). According to Igor M. Diakonoff (1988: 33n), Proto-Afroasiatic was spoken c. 10,000 BC. Christopher Ehret (2002: 35–36) asserts that Proto-Afroasiatic was spoken c. 11,000 BC at the latest, and possibly as early as c. 16,000 BC. These dates are older than those associated with other proto-languages.
+
+Afroasiatic Urheimat
+
+Main article: Afroasiatic Urheimat
+
+Map showing one of the proposed Afroasiatic Urheimat (Eastern Sahara theory.)
+
+The term Afroasiatic Urheimat (Urheimat meaning "original homeland" in German) refers to the hypothetical place where Proto-Afroasiatic language speakers lived in a single linguistic community, or complex of communities, before this original language dispersed geographically and divided into distinct languages. Afroasiatic languages are today primarily spoken in West Asia, North Africa, the Horn of Africa, and parts of the Sahel. Their distribution seems to have been influenced by the Sahara pump operating over the last 10,000 years.
+
+There is no agreement when or where the original homeland of this language family existed. The main theories of Urheimat are the Levant/Fertile Crescent, the Eastern Sahara, North Africa and the Horn of Africa.
+
+Similarities in grammar and syntax
+
+Verbal paradigms in several Afroasiatic languages:
+↓ Number
+Language →
+ArabicKabyleSomaliBejaHausa
+
+Verb →
+ katab afeg naw 
+
+Meaning →
+ write fly come fail drink
+
+singular 1 ʼaktubu ttafgeɣ
+ imaadaa anáw ina shan
+
+2f taktubīna tettafgeḍ
+ timaadaa
+ tináwi kina shan
+
+2m taktubu tináwa kana shan
+
+3f tettafeg
+ tináw tana shan
+
+3m yaktubu yettafeg
+ yimaadaa ináw yana shan
+
+dual 2 taktubāni 
+
+3f
+
+3m yaktubāni
+
+plural 1 naktubu nettafeg
+ nimaadnaa nínaw muna shan
+
+2m taktubūna tettafgem
+ timaadaan tínawna kuna shan
+
+2f taktubna tettafgemt
+
+3m yaktubūna ttafgen
+ yimaadaan ínawna suna shan
+
+3f yaktubna ttafgent
+
+Widespread (though not universal) features of the Afroasiatic languages include:
+
+A set of emphatic consonants, variously realized as glottalized, pharyngealized, or implosive.
+
+VSO typology with SVO tendencies.
+
+A two-gender system in the singular, with the feminine marked by the sound /t/.
+
+All Afroasiatic subfamilies show evidence of a causative affix s.
+
+Semitic, Berber, Cushitic (including Beja), and Chadic support possessive suffixes.
+
+Nisba derivation in -j (earlier Egyptian) or -ī (Semitic)
+
+Morphology in which words inflect by changes within the root (vowel changes or gemination) as well as with prefixes and suffixes.
+
+One of the most remarkable shared features among the Afroasiatic languages is the prefixing verb conjugation (see the table at the start of this section), with a distinctive pattern of prefixes beginning with /ʔ t n y/, and in particular a pattern whereby third-singular masculine /y-/ is opposed to third-singular feminine and second-singular /t-/.
+
+According to Ehret (1996), tonal languages appear in the Omotic and Chadic branches of Afroasiatic, as well as in certain Cushitic languages. The Semitic, Berber and Egyptian branches generally do not use tones phonemically.
+
+Shared vocabulary
+
+Speech sample in Shilha (Berber branch)
+
+Speech sample in Somali (Cushitic branch)
+
+Speech sample in Literary Arabic (Semitic branch)
+
+The following are some examples of Afroasiatic cognates, including ten pronouns, three nouns, and three verbs.
+
+Source: Christopher Ehret, Reconstructing Proto-Afroasiatic (Berkeley: University of California Press, 1995).
+
+Note: Ehret does not make use of Berber in his etymologies, stating (1995: 12): "the kind of extensive reconstruction of proto-Berber lexicon that might help in sorting through alternative possible etymologies is not yet available." The Berber cognates here are taken from previous version of table in this article and need to be completed and referenced.
+
+Abbreviations: NOm = 'North Omotic', SOm = 'South Omotic'. MSA = 'Modern South Arabian', PSC = 'Proto-Southern Cushitic', PSom-II = 'Proto-Somali, stage 2'. masc. = 'masculine', fem. = 'feminine', sing. = 'singular', pl. = 'plural'. 1s. = 'first person singular', 2s. = 'second person singular'.
+
+Symbols: Following Ehret (1995: 70), a caron ˇ over a vowel indicates rising tone, and a circumflex ^ over a vowel indicates falling tone. V indicates a vowel of unknown quality. Ɂ indicates a glottal stop. * indicates reconstructed forms based on comparison of related languages.
+
+Proto-AfroasiaticOmoticCushiticChadicEgyptianSemiticBerber
+
+*Ɂân- / *Ɂîn- or *ân- / *în- ‘I’ (independent pronoun) *in- ‘I’ (Maji (NOm)) *Ɂâni ‘I’ *nV ‘I’ ink, *ʲānak 'I' *Ɂn ‘I’ nek / nec ‘I, me’
+
+*i or *yi ‘me, my’ (bound) i ‘I, me, my’ (Ari (SOm)) *i or *yi ‘my’ *i ‘me, my’ (bound) -i, *-aʲ (1s. suffix) *-i ‘me, my’ inu / nnu / iw ‘my’
+
+*Ɂǎnn- / *Ɂǐnn- or *ǎnn- / *ǐnn- ‘we’ *nona / *nuna / *nina (NOm) *Ɂǎnn- / *Ɂǐnn- ‘we’ — inn, *ʲānan ‘we’ *Ɂnn ‘we’ nekni / necnin / neccin ‘we’
+
+*Ɂânt- / *Ɂînt- or *ânt- / *înt- ‘you’ (sing.) *int- ‘you’ (sing.) *Ɂânt- ‘you’ (sing.) — nt-, *ʲānt- ‘you’ (sing.) *Ɂnt ‘you’ (sing.) netta "he" (keyy / cek "you" (masc. sing.))
+
+*ku, *ka ‘you’ (masc. sing., bound) — *ku ‘your’ (masc. sing.) (PSC) *ka, *ku (masc. sing.) -k (2s. masc. suffix) -ka (2s. masc. suffix) (Arabic) inek / nnek / -k "your" (masc. sing.)
+
+*ki ‘you’ (fem. sing., bound) — *ki ‘your’ (fem. sing.) *ki ‘you’ (fem. sing.) -ṯ (fem. sing. suffix, < *ki) -ki (2s. fem. sing. suffix) (Arabic) -m / nnem / inem "your" (fem. sing.)
+
+*kūna ‘you’ (plural, bound) — *kuna ‘your’ (pl.) (PSC) *kun ‘you’ (pl.) -ṯn, *-ṯin ‘you’ (pl.) *-kn ‘you, your’ (fem. pl.) -kent, kennint "you" (fem. pl.)
+
+*si, *isi ‘he, she, it’ *is- ‘he’ *Ɂusu ‘he’, *Ɂisi ‘she’ *sV ‘he’ sw, *suw ‘he, him’, sy, *siʲ ‘she, her’ *-šɁ ‘he’, *-sɁ ‘she’ (MSA) -s / nnes / ines "his/her/its"
+
+*ma, *mi ‘what?’ *ma- ‘what?’ (NOm) *ma, *mi (interr. root) *mi, *ma ‘what?’ m ‘what?’, ‘who?’ mā (Arabic, Hebrew) / mu? (Assyrian) ‘what?’ ma? / mayen? / min? "what?"
+
+*wa, *wi ‘what?’ *w- ‘what?’ *wä / *wɨ ‘what?’ (Agaw) *wa ‘who?’ wy ‘how ...!’ mamek? / mamec? / amek? "how?
+
+*dîm- / *dâm- ‘blood’ *dam- ‘blood’ (Gonga) *dîm- / *dâm- ‘red’ *d-m- ‘blood’ (West Chadic) i-dm-i ‘red linen’ *dm / dǝma (Assyrian) / dom (Hebrew) ‘blood’ idammen "bloods"
+
+*îts ‘brother’ *itsim- ‘brother’ *itsan or *isan ‘brother’ *sin ‘brother’ sn, *san ‘brother’ aẖ (Hebrew) "brother" uma / gʷma "brother"
+
+*sǔm / *sǐm- ‘name’ *sum(ts)- ‘name’ (NOm) *sǔm / *sǐm- ‘name’ *ṣǝm ‘name’ smi ‘to report, announce’ *ism (Arabic) / shǝma (Assyrian) ‘name’ isen / isem "name"
+
+*-lisʼ- ‘to lick’ litsʼ- ‘to lick’ (Dime (SOm)) — *alǝsi ‘tongue’ ns, *nīs ‘tongue’ *lsn ‘tongue’ iles "tongue"
+
+*-maaw- ‘to die’ — *-umaaw- / *-am-w(t)- ‘to die’ (PSom-II) *mǝtǝ ‘to die’ mwt ‘to die’ *mwt / mawta (Assyrian) ‘to die’ mmet "to die"
+
+*-bǐn- ‘to build, to create; house’ bin- ‘to build, create’ (Dime (SOm)) *mǐn- / *mǎn- ‘house’; man- ‘to create’ (Beja) *bn ‘to build’; *bǝn- ‘house’ — *bnn / bani (Assyrian) / bana (Hebrew) ‘to build’ *bn(?) (esk "to build")
+
+There are two etymological dictionaries of Afroasiatic, one by Christopher Ehret, and one by Vladimir Orel and Olga Stolbova. The two dictionaries disagree on almost everything. The following table contains the thirty roots or so (out of thousands) that represent a fragile consensus of present research:
+
+NumberProto-Afroasiatic FormMeaningBerberChadicCushiticEgyptianOmoticSemitic
+
+1 *ʔab father ✔ ✔ ✔ ✔
+
+2 (ʔa-)bVr bull ✔ ✔ ✔ ✔
+
+3 (ʔa-)dVm red, blood ✔ ✔ ✔ ✔
+ ✔
+
+4 *(ʔa-)dVm land, field, soil ✔ ✔
+
+5 ʔa-pay- mouth ✔ ✔ ✔
+
+6 ʔigar/ *ḳʷar- house, enclosure ✔ ✔ ✔ ✔
+ ✔
+
+7 *ʔil- eye ✔ ✔ ✔ ✔
+ 
+8 (ʔi-)sim- name ✔ ✔ ✔
+ ✔
+
+9 *ʕayn- eye ✔ ✔
+
+10 *baʔ- go ✔ ✔ ✔
+
+11 *bar- son ✔ ✔ ✔
+
+12 *gamm- mane, beard ✔ ✔ ✔
+
+13 *gVn cheek, chin ✔ ✔
+
+14 *gʷarʕ- throat ✔ ✔ ✔
+
+15 *gʷinaʕ- hand ✔ ✔ 
+
+16 *kVn- co-wife ✔ ✔ ✔
+
+17 *kʷaly kidney ✔ ✔ ✔ ✔
+
+18 *ḳa(wa)l-/ *qʷar- to say, call ✔ ✔
+
+19 *ḳas- bone ✔ ✔ ✔ 
+
+20 *libb heart ✔ ✔ ✔
+
+21 *lis- tongue ✔ ✔ ✔
+
+22 *maʔ- water ✔ ✔ ✔ ✔
+
+23 *mawVt- to die ✔ ✔ ✔ ✔
+
+24 *sin- tooth ✔ ✔ ✔
+
+25 *siwan- know ✔ ✔ ✔ 
+
+26 *inn- I, we ✔ ✔ ✔ ✔
+
+27 *-k- thou ✔ ✔ ✔ ✔
+
+28 *zwr seed ✔ ✔
+
+29 *ŝVr root ✔ ✔
+
+30 *šun to sleep, dream ✔ ✔
+
+Etymological bibliography
+
+Some of the main sources for Afroasiatic etymologies include:
+
+Cohen, Marcel. 1947. Essai comparatif sur le vocabulaire et la phonétique du chamito-sémitique. Paris: Champion.
+
+Diakonoff, Igor M. et al. 1993–1997. "Historical-comparative vocabulary of Afrasian", St. Petersburg Journal of African Studies 2–6.
+
+Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (= University of California Publications in Linguistics 126). Berkeley and Los Angeles: University of California Press.
+
+Orel, Vladimir E. and Olga V. Stolbova. 1995. Hamito-Semitic Etymological Dictionary: Materials for a Reconstruction. Leiden: Brill. ISBN 90-04-10051-2.
+
+See also
+
+Borean languages
+
+Indo-European languages
+
+Indo-Semitic languages
+
+Languages of Africa
+
+Languages of Asia
+
+Languages of Europe
+
+Nostratic languages
+
+Proto-Afroasiatic language
+
+References
+
+Citations
+
+^ a b c Sands, Bonny (2009). "Africa's Linguistic Diversity". Language and Linguistics Compass. 3 (2): 559–580. doi:10.1111/j.1749-818x.2008.00124.x.
+
+^ Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). "Afro-Asiatic". Glottolog 3.0. Jena, Germany: Max Planck Institute for the Science of Human History.
+
+^ Katzner, Kenneth (2002). The Languages of the World. Routledge. p. 27. ISBN 978-1134532889. Retrieved 20 December 2017.
+
+^ Robert Hetzron, "Afroasiatic Languages" in Bernard Comrie, The World's Major Languages, 2009, ISBN 113426156X, p. 545
+
+^ "Browse by Language Family". ethnologue.com. Retrieved 14 April 2018.
+
+^ "Summary by language family". ethnologue.com. Ethnologue. Retrieved 14 April 2018.
+
+^ "Arabic". ethnologue.com. Ethnologue. Retrieved 14 April 2018.
+
+^ a b c Merritt, Ruhlen (1991). A Guide to the World's Languages: Classification. Stanford University Press. pp. 76 & 87. ISBN 978-0804718943.
+
+^ Gregersen, Edgar A. (1977). Language in Africa: An Introductory Survey. Taylor & Francis. p. 116. ISBN 978-0677043807. Retrieved 1 September 2016.
+
+^ a b Lipiński, Edward (2001). Semitic Languages: Outline of a Comparative Grammar. Peeters Publishers. pp. 21–22. ISBN 978-90-429-0815-4.
+
+^ Gerrit Dimmendaal (2008) 'Language Ecology and Linguistic Diversity on the African Continent', Language and Linguistics Compass
+
+^ The New Encyclopædia Britannica, Volume 8; Volume 22. Encyclopædia Britannica. 1998. pp. 722. ISBN 978-0-85229-633-2.
+
+^ "Harrassowitz Verlag – The Harrassowitz Publishing House". harrassowitz-verlag.de. Archived from the original on 29 June 2017. Retrieved 14 April 2018.
+
+^ Trigger, Bruce G., ‘Meroitic and Eastern Sudanic: A Linguistic Relationship?’, Kush 12, 1964, 188–194.
+
+^ Trigger, Bruce, G.,‘The Classification of Meroitic: Geographical Considerations’, Schriften zur Geschichte und Kultur des Alten Orients 13, 1977, 421–435.
+
+^ Hintze, Fritz, ‘Some Problems of Meroitic Philology’, Abdel Gadir Mahmoud Abdalla (ed.), Studies of the Ancient Languages of the Sudan, Sudanese Studies 3, Khartoum University Press, Khartoum, 1974, 73–78.
+
+^ Hintze, Fritz ‘Beiträge zur meroitische Grammatik.’ Meroitica 3, Berlin, 1979, 1–214.
+
+^ Roger Blench, 2008. 'Links between Cushitic, Omotic, Chadic and the position of Kujarge'. (ms)
+
+^ "Hausa". ethnologue.com. Retrieved 14 April 2018.
+
+^ "Amharic". Ethnologue. Retrieved 16 August 2018.
+
+^ "Somali". Ethnologue. Retrieved 16 August 2018.
+
+^ "Afar". Ethnologue. Retrieved 16 August 2018.
+
+^ "Tachelhit". Ethnologue. Retrieved 16 August 2018.
+
+^ "Tigrigna". Ethnologue. Retrieved 16 August 2018.
+
+^ "Kabyle". Ethnologue. Retrieved 16 August 2018.
+
+^ Dekel, Nurit (2014). Colloquial Israeli Hebrew: A Corpus-based Survey. De Gruyter. ISBN 978-3-11-037725-5.CS1 maint: ref=harv (link)
+
+^ "Tamazight, Central Atlas". Ethnologue. Retrieved 18 October 2017.
+
+^ "Tarifit". Ethnologue. Retrieved 16 August 2018.
+
+^ "one Gurage language". Ethnologue. Retrieved 28 September 2018.
+
+^ Lıngwa u lıngwıstıka. Borg, Karl. Valletta, Malta: Klabb Kotba Maltin. 1998. ISBN 99909-75-42-6. OCLC 82586980.CS1 maint: others (link)
+
+^ 
+"Assyrian Neo-Aramaic". Ethnologue. Retrieved 19 June 2019.
+
+^ a b Merritt Ruhlen, A Guide to the World's Languages: Classification, Stanford University Press, 1991, pp. 80–1
+
+^ Kevin Shillington, Encyclopedia of African History, CRC Press, 2005, p.797
+
+^ Merritt Ruhlen, A Guide to the World's Languages, (Stanford University Press: 1991), p.109
+
+^ Sands, Bonnie (2009). "Africa's linguistic diversity". Language and Linguistics Compass. 3 (2): 559–580. doi:10.1111/j.1749-818X.2008.00124.x.
+
+^ Sands, Bonny E. (1998) 'Eastern and Southern African Khoisan: evaluating claims of distant linguistic relationships.' Quellen zur Khoisan-Forschung 14. Köln: Köppe.
+
+^ a b Ruhlen, p.117
+
+^ Everett Welmers, William (1974). African Language Structures. University of California Press. p. 16. ISBN 978-0520022102.
+
+^ Hetzron, Robert (1980). "The limits of Cushitic". Sprache und Geschichte in Afrika. 2: 7–126.CS1 maint: ref=harv (link)
+
+^ Appleyard, David (2012). "Cushitic". In Edzard, Lutz (ed.). Semitic and Afroasiatic: Challenges and Opportunities. Wiesbaden: Harrassowitz Verlag. pp. 199–295. ISBN 9783447066952.CS1 maint: ref=harv (link)
+
+^ Güldemann, Tom (2018). "Historical linguistics and genealogical language classification in Africa". In Güldemann, Tom (ed.). The Languages and Linguistics of Africa. The World of Linguistics, Volume 11. Berlin: De Mouton Gruyter. pp. 58–444.
+
+^ "Is Omotic Afroasiatic? (In Norwegian)" (PDF). uio.no. Retrieved 14 April 2018.
+
+^ "Earliest Egyptian Glyphs – Archaeology Magazine Archive". www.archaeology.org. Retrieved 14 April 2018.
+
+^ Wichmann, Søren; Grant, Anthony (2012). Quantitative Approaches to Linguistic Diversity: Commemorating the Centenary of the Birth of Morris Swadesh. p. 73. ISBN 978-9027202659.
+
+^ John A. Hall, I. C. Jarvie (2005). Transition to Modernity: Essays on Power, Wealth and Belief. p. 27. ISBN 9780521022279.
+
+^ "Afro-Asiatic languages". Encyclopedia Britannica. Retrieved 2 September 2018.
+
+^ Blench R (2006) Archaeology, Language, and the African Past, Rowman Altamira, ISBN 0-7591-0466-2, ISBN 978-0-7591-0466-2, https://books.google.com/books?id=esFy3Po57A8C
+
+^ Ehret, Christopher; Keita, S. O. Y.; Newman, Paul (2004). "The Origins of Afroasiatic". Science. 306 (5702): 1680.3–1680. doi:10.1126/science.306.5702.1680c. PMID 15576591.
+
+^ Bernal M (1987) Black Athena: the Afroasiatic roots of classical civilization, Rutgers University Press, ISBN 0-8135-3655-3, ISBN 978-0-8135-3655-2. https://books.google.com/books?id=yFLm_M_OdK4C
+
+^ Bender ML (1997), Upside Down Afrasian, Afrikanistische Arbeitspapiere 50, pp. 19–34
+
+^ Militarev A (2005) Once more about glottochronology and comparative method: the Omotic-Afrasian case, Аспекты компаративистики – 1 (Aspects of comparative linguistics – 1). FS S. Starostin. Orientalia et Classica II (Moscow), p. 339-408.
+
+^ Carsten Peust, "On the subgrouping of Afroasiatic" Archived 9 September 2016 at the Wayback Machine, LingAeg 20 (2012), 221–251 (p. 243).
+
+^ Ratcliffe, Robert R. (2012). "On calculating the reliability of the comparative method at long and medium distances: Afroasiatic comparative lexica as a test case". Journal of Historical Linguistics. 2 (2).
+
+General references
+
+See also: § Etymological bibliography
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (September 2016) (Learn how and when to remove this template message)
+
+Anthony, David. 2007. The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World. Princeton: Princeton University Press.
+
+Barnett, William and John Hoopes (editors). 1995. The Emergence of Pottery. Washington, DC: Smithsonian Institution Press. ISBN 1-56098-517-8
+
+Bender, Lionel et al. 2003. Selected Comparative-Historical Afro-Asiatic Studies in Memory of Igor M. Diakonoff. LINCOM.
+
+Bomhard, Alan R. 1996. Indo-European and the Nostratic Hypothesis. Signum.
+
+Diakonoff, Igor M. 1988. Afrasian Languages. Moscow: Nauka.
+
+Diakonoff, Igor M. 1996. "Some reflections on the Afrasian linguistic macrofamily." Journal of Near Eastern Studies 55, 293.
+
+Diakonoff, Igor M. 1998. "The earliest Semitic society: Linguistic data." Journal of Semitic Studies 43, 209.
+
+Dimmendaal, Gerrit, and Erhard Voeltz. 2007. "Africa". In Christopher Moseley, ed., Encyclopedia of the world's endangered languages.
+
+Ehret, Christopher. 1995. Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary. Berkeley and Los Angeles: University of California Press.
+
+Ehret, Christopher. 1997. Abstract of "The lessons of deep-time historical-comparative reconstruction in Afroasiatic: reflections on Reconstructing Proto-Afroasiatic: Vowels, Tone, Consonants, and Vocabulary (U.C. Press, 1995)", paper delivered at the Twenty-fifth Annual Meeting of the North American Conference on Afro-Asiatic Linguistics, held in Miami, Florida, on 21–23 March 1997.
+
+Finnegan, Ruth H. 1970. "Afro-Asiatic languages West Africa". Oral Literature in Africa, pg 558.
+
+Fleming, Harold C. 2006. Ongota: A Decisive Language in African Prehistory. Wiesbaden: Otto Harrassowitz.
+
+Greenberg, Joseph H. 1950. "Studies in African linguistic classification: IV. Hamito-Semitic." Southwestern Journal of Anthropology 6, 47–63.
+
+Greenberg, Joseph H. 1955. Studies in African Linguistic Classification. New Haven: Compass Publishing Company. (Photo-offset reprint of the SJA articles with minor corrections.)
+
+Greenberg, Joseph H. 1963. The Languages of Africa. Bloomington: Indiana University. (Heavily revised version of Greenberg 1955.)
+
+Greenberg, Joseph H. 1966. The Languages of Africa (2nd ed. with additions and corrections). Bloomington: Indiana University.
+
+Greenberg, Joseph H. 1981. "African linguistic classification." General History of Africa, Volume 1: Methodology and African Prehistory, edited by Joseph Ki-Zerbo, 292–308. Berkeley and Los Angeles: University of California Press.
+
+Greenberg, Joseph H. 2000–2002. Indo-European and Its Closest Relatives: The Eurasiatic Language Family, Volume 1: Grammar, Volume 2: Lexicon. Stanford: Stanford University Press.
+
+Hayward, R. J. 1995. "The challenge of Omotic: an inaugural lecture delivered on 17 February 1994". London: School of Oriental and African Studies, University of London.
+
+Heine, Bernd and Derek Nurse. 2000. African Languages, Chapter 4. Cambridge University Press.
+
+Hodge, Carleton T. (editor). 1971. Afroasiatic: A Survey. The Hague – Paris: Mouton.
+
+Hodge, Carleton T. 1991. "Indo-European and Afro-Asiatic." In Sydney M. Lamb and E. Douglas Mitchell (editors), Sprung from Some Common Source: Investigations into the Prehistory of Languages, Stanford, California: Stanford University Press, 141–165.
+
+Huehnergard, John. 2004. "Afro-Asiatic." In R.D. Woodard (editor), The Cambridge Encyclopedia of the World’s Ancient Languages, Cambridge – New York, 2004, 138–159.
+
+Militarev, Alexander. "Towards the genetic affiliation of Ongota, a nearly-extinct language of Ethiopia," 60 pp. In Orientalia et Classica: Papers of the Institute of Oriental and Classical Studies, Issue 5. Moscow. (Forthcoming.)
+
+Newman, Paul. 1980. The Classification of Chadic within Afroasiatic. Leiden: Universitaire Pers Leiden.
+
+Ruhlen, Merritt. 1991. A Guide to the World's Languages. Stanford, California: Stanford University Press.
+
+Sands, Bonny. 2009. "Africa’s linguistic diversity". In Language and Linguistics Compass 3.2, 559–580.
+
+Theil, R. 2006. Is Omotic Afro-Asiatic? Proceedings from the David Dwyer retirement symposium, Michigan State University, East Lansing, 21 October 2006.
+
+Trombetti, Alfredo. 1905. L'Unità d'origine del linguaggio. Bologna: Luigi Beltrami.
+
+Zuckermann, Ghil'ad 2003. Language Contact and Lexical Enrichment in Israeli Hebrew, Palgrave Macmillan.
+
+External links
+
+Afro-Asiatic at the Linguist List MultiTree Project (not functional as of 2014): Genealogical trees attributed to Delafosse 1914, Greenberg 1950–1955, Greenberg 1963, Fleming 1976, Hodge 1976, Orel & Stolbova 1995, Diakonoff 1996–1998, Ehret 1995–2000, Hayward 2000, Militarev 2005, Blench 2006, and Fleming 2006
+
+Afro-Asiatic and Semitic genealogical trees, presented by Alexander Militarev at his talk "Genealogical classification of Afro-Asiatic languages according to the latest data" at the conference on the 70th anniversary of V.M. Illich-Svitych, Moscow, 2004; short annotations of the talks given there (in Russian)
+
+The prehistory of a dispersal: the Proto-Afrasian (Afroasiatic) farming lexicon, by Alexander Militarev in "Examining the Farming/Language Dispersal Hypothesis", eds. P. Bellwood & C. Renfrew. (McDonald Institute Monographs.) Cambridge: McDonald Institute for Archaeological Research, 2002, p. 135–50.
+
+Once More About Glottochronology And The Comparative Method: The Omotic-Afrasian case, by Alexander Militarev in "Aspects of Comparative Linguistics", v. 1. Moscow: RSUH Publishers, 2005, pp. 339–408.
+
+Root Extension And Root Formation In Semitic And Afrasian, by Alexander Militarev in "Proceedings of the Barcelona Symposium on comparative Semitic", 19-20/11/2004. Aula Orientalis 23/1-2, 2005, pp. 83–129.
+
+Akkadian-Egyptian lexical matches, by Alexander Militarev in "Papers on Semitic and Afroasiatic Linguistics in Honor of Gene B. Gragg." Ed. by Cynthia L. Miller. Studies in Ancient Oriental Civilization 60. Chicago: The Oriental Institute, 2007, p. 139–145.
+
+A comparison of Orel-Stolbova's and Ehret's Afro-Asiatic reconstructions
+
+"Is Omotic Afro-Asiatic?" by Rolf Theil (2006)
+
+NACAL The North American Conference on Afroasiatic Linguistics, now in its 35th year
+
+Afro-Asiatic webpage of Roger Blench (with family tree).
+
+v
+
+t
+
+e
+
+Major Afroasiatic languages
+
+Berber 
+Kabyle
+
+Riffian
+
+Shawiya
+
+Shilha
+
+Tuareg
+
+Chadic 
+Hausa
+
+Cushitic 
+Afar
+
+Beja
+
+Oromo
+
+Somali
+
+Egyptian 
+Ancient Egyptian
+
+Coptic
+
+Omotic 
+Wolaytta
+
+North Semitic 
+Akkadian
+
+Arabic (Varieties of Arabic)
+
+Aramaic (Assyrian Neo-Aramaic)
+
+Hebrew
+
+Phoenician
+
+Ethiopic 
+Ethiopic languages
+
+Amharic
+
+Tigrinya
+
+Tigre
+
+Geʽez
+
+Gurage
+
+Italics indicate extinct languages
+
+v
+
+t
+
+e
+
+Primary language families
+
+Africa 
+Afroasiatic
+
+Austronesian
+
+Khoe–Kwadi
+
+Kx'a
+
+Niger–Congo
+
+Nilo-Saharan?
+
+Tuu
+
+Mande?
+
+Songhay?
+
+Ijaw?
+
+Ubangian?
+
+Kadu?
+
+Isolates 
+Bangime
+
+Hadza
+
+Jalaa
+
+Sandawe
+
+Laal?
+
+Shabo?
+
+Europe
+
+and Asia 
+Afroasiatic
+
+Ainu
+
+Austroasiatic
+
+Austronesian
+
+Chukotko-Kamchatkan
+
+Dravidian
+
+Eskimo–Aleut
+
+Great Andamanese
+
+Hmong–Mien
+
+Hurro-Urartian
+
+Indo-European
+
+Japonic
+
+Kartvelian
+
+Koreanic
+
+Kra–Dai
+
+Mongolic
+
+Nivkh
+
+Northeast Caucasian
+
+Northwest Caucasian
+
+Ongan
+
+Sino-Tibetan
+
+Tungusic
+
+Turkic
+
+Tyrsenian
+
+Uralic
+
+Yeniseian
+
+Yukaghir
+
+Digaro?
+
+Hrusish?
+
+Kho-Bwa?
+
+Miju?
+
+Siangic?
+
+Isolates 
+Basque
+
+Burushaski
+
+Elamite
+
+Hattic
+
+Kusunda
+
+Nihali
+
+Sumerian
+
+New Guinea
+
+and the Pacific 
+Arai–Samaia
+
+Austronesian
+
+Binanderean–Goilalan
+
+Border
+
+Bulaka River
+
+Central Solomons
+
+Chimbu–Wahgi
+
+Doso–Turumsa
+
+East Geelvink Bay
+
+East New Britain
+
+East Strickland
+
+Eleman
+
+Engan
+
+Fas
+
+Kaure–Kosare
+
+Kiwaian
+
+Kutubuan
+
+Kwomtari
+
+Lakes Plain
+
+Lower Mamberamo
+
+Lower Sepik
+
+Madang
+
+Mairasi
+
+North Bougainville
+
+Pauwasi
+
+Ramu
+
+Senagi
+
+Sentani
+
+Sepik
+
+Skou
+
+South Bougainville
+
+Teberan
+
+Tor–Kwerba–Nimboran
+
+Torricelli
+
+Trans-Fly
+
+Trans–New Guinea
+
+Turama–Kikorian
+
+Upper Yuat
+
+West Papuan
+
+Yam
+
+Yawa
+
+Yuat
+
+Northwest Papuan?
+
+Papuan Gulf?
+
+Isolates 
+Abinomn
+
+Abun
+
+Anêm?
+
+Ata?
+
+Kol
+
+Kuot
+
+Maybrat
+
+Mpur
+
+Porome
+
+Taiap?
+
+Pawaia
+
+Porome
+
+Sulka?
+
+Tambora
+
+Wiru
+
+Australia 
+Arnhem/Macro-Gunwinyguan?
+
+Bunuban
+
+Darwin Region?
+
+Eastern Daly
+
+Eastern Tasmanian
+
+Garawan
+
+Iwaidjan
+
+Jarrakan
+
+Marrku–Wurrugu?
+
+Mirndi
+
+Northern Tasmanian
+
+Northeastern Tasmanian
+
+Nyulnyulan
+
+Pama–Nyungan
+
+Southern Daly?
+
+Tangkic
+
+Wagaydyic
+
+Western Daly
+
+Western Tasmanian
+
+Worrorran
+
+Yangmanic (incl. Wagiman)?
+
+Isolates 
+Giimbiyu
+
+Malak-Malak (Northern Daly?)
+
+Tiwi
+
+North
+
+America 
+Algic
+
+Alsea
+
+Caddoan
+
+Chimakuan
+
+Chinookan
+
+Chumashan
+
+Comecrudan
+
+Coosan
+
+Eskimo–Aleut
+
+Iroquoian
+
+Kalapuyan
+
+Keresan
+
+Maiduan
+
+Muskogean
+
+Na-Dene
+
+Palaihnihan
+
+Plateau Penutian
+
+Pomoan
+
+Salishan
+
+Shastan
+
+Siouan
+
+Tanoan
+
+Tsimshianic
+
+Utian
+
+Uto-Aztecan
+
+Wakashan
+
+Wintuan
+
+Yukian
+
+Yuman–Cochimí
+
+Isolates 
+Chimariko
+
+Esselen
+
+Haida
+
+Karuk
+
+Kutenai
+
+Seri
+
+Siuslaw
+
+Takelma
+
+Timucua
+
+Waikuri
+
+Washo
+
+Yana
+
+Yokuts
+
+Yuchi
+
+Zuni
+
+Mesoamerica 
+Chibchan
+
+Jicaquean
+
+Lencan
+
+Mayan
+
+Misumalpan
+
+Mixe–Zoque
+
+Oto-Manguean
+
+Tequistlatecan
+
+Totonacan
+
+Uto-Aztecan
+
+Xincan
+
+Isolates 
+Cuitlatec
+
+Huave
+
+Tarascan/Purépecha
+
+South
+
+America 
+Andoque–Urequena
+
+Arauan
+
+Araucanian
+
+Arawakan
+
+Arutani–Sape
+
+Aymaran
+
+Barbacoan
+
+Boran
+
+Cahuapanan
+
+Cariban
+
+Catacaoan
+
+Chapacuran
+
+Charruan
+
+Chibchan
+
+Choco
+
+Chonan
+
+Guaicuruan
+
+Guajiboan
+
+Harákmbut–Katukinan
+
+Jirajaran
+
+Jivaroan
+
+Katembri–Taruma
+
+Mascoian
+
+Matacoan
+
+Nadahup
+
+Nambikwaran
+
+Otomákoan
+
+Pano-Tacanan
+
+Peba–Yaguan
+
+Quechuan
+
+Piaroa–Saliban
+
+Ticuna–Yuri
+
+Timotean
+
+Tiniguan
+
+Tucanoan
+
+Tupian
+
+Uru–Chipaya
+
+Witotoan
+
+Yanomaman
+
+Zamucoan
+
+Zaparoan
+
+Bora–Witoto languages?
+
+Chimuan?
+
+Esmeralda–Yaruro?
+
+Hibito–Cholón?
+
+Lule–Vilela?
+
+Macro-Jê?
+
+Tequiraca–Canichana?
+
+Isolates
+
+(extant in 2000) 
+Aikanã?
+
+Alacalufan
+
+Camsá
+
+Candoshi
+
+Chimane
+
+Chiquitano
+
+Cofán?
+
+Fulniô
+
+Guató
+
+Hodï/Joti
+
+Irantxe?
+
+Itonama
+
+Kunza
+
+Leco
+
+Maku-Auari of Roraima
+
+Movima
+
+Mura-Pirahã
+
+Nukak?
+
+Puinave
+
+Huaorani/Waorani
+
+Trumai
+
+Urarina
+
+Warao
+
+Yamana
+
+Yuracaré
+
+Sign languages 
+Arab
+
+BANZSL
+
+Chinese
+
+Francosign
+
+Germanosign
+
+Indo-Pakistani
+
+Japanese
+
+Original Thai
+
+Swedish
+
+Tanzanian?
+
+Isolates 
+See list of sign languages
+
+See also 
+Language isolates
+
+Unclassified languages
+
+Creoles
+
+Pidgins
+
+Mixed languages
+
+Artificial languages
+
+Families in italics have no living members.
+
+Families with more than 30 languages are in bold.
+
+v
+
+t
+
+e
+
+Language families of Eurasia
+
+Europe 
+Indo-European
+
+Uralic
+
+Basque
+
+Iberian
+
+Tartessian
+
+Paleo-Corsican
+
+Paleo-Sardinian
+
+Camunic
+
+Elymian
+
+Ligurian
+
+North Picene
+
+Sicani
+
+Tyrsenian
+
+Eteocretan
+
+Eteocypriot
+
+Minoan
+
+West Asia 
+Afroasiatic
+
+Hurro-Urartian
+
+Hattic
+
+Kassite ?
+
+Kaskian ?
+
+Philistine ?
+
+Sumerian
+
+Proto-Euphratean ?
+
+Elamite
+
+Caucasian 
+Kartvelian
+
+Northeast Caucasian
+
+Northwest Caucasian
+
+South Asia 
+Indo-European
+
+Dravidian
+
+Nihali
+
+Burushaski
+
+Kusunda
+
+Harappan ?
+
+East Asia 
+Austroasiatic
+
+Sino-Tibetan
+
+Hmong–Mien
+
+Kra–Dai
+
+Austronesian
+
+Japonic
+
+Indian Ocean rim 
+Great Andamanese
+
+Ongan
+
+Kenaboi
+
+Enggano
+
+North Asia
+
+Altaic ? 
+Turkic
+
+Mongolic
+
+Tungusic
+
+Koreanic ?
+
+Japonic ?
+
+"Paleosiberian" 
+Koreanic
+
+Ainu
+
+Nivkh
+
+Chukotko-Kamchatkan
+
+Yukaghir
+
+Yeniseian
+
+Other North Asia 
+Uralic
+
+Ruanruan ?
+
+Eskimo–Aleut
+
+Proposed groupings 
+Alarodian
+
+Altaic
+
+Borean
+Nostratic
+
+Dené–Caucasian
+
+Eurasiatic
+
+Dené–Yeniseian
+
+Dravido-Korean
+
+Elamo-Dravidian
+
+Ibero-Caucasian
+
+Indo-Hittite
+
+Indo-Pacific
+
+Indo-Semitic
+
+Indo-Uralic
+
+Pontic
+
+Karasuk
+
+Turanian
+
+Eskimo–Uralic
+
+Ural–Altaic
+
+Uralic–Yukaghir
+
+Uralo-Siberian
+
+Arunachal 
+Greater Siangic
+Siangic
+
+Digaro
+
+Miju
+
+Hrusish
+
+Kho-Bwa
+
+Southeast Asia 
+Andamanese
+
+Austric
+
+Austro-Tai
+
+Austronesian–Ongan
+
+Sino-Austronesian
+
+Substrata 
+Atlantic
+
+Pre-Celtic
+
+Pre-Germanic
+
+Pre-Goidelic
+
+Pre-Greek
+
+Vasconic
+
+Pre-Vedic
+
+Pre-Finno-Ugric
+
+Authority control 
+BNF: cb11947334h (data)
+
+GND: 4110088-8
+
+LCCN: sh85002020
+
+NLI: 000640847
+
+SUDOC: 027430200

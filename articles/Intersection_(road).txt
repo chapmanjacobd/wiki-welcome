@@ -1,0 +1,660 @@
+"A road junction where two or more roads either meet or cross at grade
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (November 2011) (Learn how and when to remove this template message)
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Intersection" road – news · newspapers · books · scholar · JSTOR (January 2008) (Learn how and when to remove this template message)
+
+It has been suggested that this article be merged with Road junction. (Discuss) Proposed since May 2019.
+
+(Learn how and when to remove this template message)
+
+This article primarily reflects practice in jurisdictions where vehicles are driven on the right. If not otherwise specified, "right" and "left" can be reversed to reflect jurisdictions where vehicles are driven on the left.
+
+Intersection at Tverskaya Zastava Square in Moscow, Russia
+
+The intersection between Ayala Avenue and Makati Avenue in Makati City, the Philippines
+
+An intersection in rural road
+
+An intersection is an at-grade junction where two or more roads or streets meet or cross. Intersections may be classified by number of road segments, traffic controls or lane design. In general, there are two types of intersections including signalized and unsignalized intersections.
+
+Contents
+
+1 Types
+
+1.1 Road segments
+
+1.2 Traffic controls
+
+1.3 Lane design
+
+2 Turns
+
+2.1 Turn lanes
+
+2.2 Turn signals
+
+2.3 Lane management
+
+3 Vulnerable road users
+
+3.1 Pedestrians
+
+3.2 Cyclists and motorcyclists
+
+4 Safety
+
+5 At grade railways
+
+6 See also
+
+7 References
+
+8 External links
+
+Types
+
+Road segments
+
+One way to classify intersections is by the number of road segments (arms) that are involved.
+
+A three-way intersection is a junction between three road segments (arms): a T junction when two arms form one road, or a Y junction, the latter also known as a fork if approached from the stem of the Y.
+
+A four-way intersection, or crossroads, usually involves a crossing over of two streets or roads. In areas where there are blocks and in some other cases, the crossing streets or roads are perpendicular to each other. However, two roads may cross at a different angle. In a few cases, the junction of two road segments may be offset from each when reaching an intersection, even though both ends may be considered the same street.
+
+Six-way intersections usually involve a crossing of three streets at one junction; for example, a crossing of two perpendicular streets and a diagonal street is a rather common type of 6-way intersection.
+
+Five, seven or more approaches to a single intersection, such as at Seven Dials, London, are not common.
+
+Intersection along the Veterans Memorial Parkway, an at-grade limited-access road in London, Ontario.
+
+Traffic controls
+
+Another way of classifying intersections is by traffic control technology:
+
+Uncontrolled intersections, without signs or signals (or sometimes with a warning sign). Priority (right-of-way) rules may vary by country: on a 4-way intersection traffic from the right often has priority; on a 3-way intersection either traffic from the right has priority again, or traffic on the continuing road. For traffic coming from the same or opposite direction, that which goes straight has priority over that which turns off.
+
+Yield-controlled intersections may or may not have specific "YIELD" signs (known as "GIVE WAY" signs in some countries).
+
+Stop-controlled intersections have one or more "STOP" signs. Two-way stops are common, while some countries also employ four-way stops.
+
+Signal-controlled intersections depend on traffic signals, usually electric, which indicate which traffic is allowed to proceed at any particular time.
+
+Lane design
+
+A traffic circle is a type of intersection at which traffic streams are directed around a circle. Types of traffic circles include roundabouts, "mini-roundabouts", "rotaries", "STOP"-controlled circles, and signal-controlled circles. Some people consider roundabouts to be a distinct type of intersection from traffic circles (with the distinction based on certain differences in size and engineering).
+
+A box junction can be added to an intersection, generally prohibiting entry to the intersection unless the exit is clear.
+
+Some (unconventional or alternative) intersections employ indirect left turns to increase capacity and reduce delays. The Michigan left combines a right turn and a U-turn. Jughandle lefts diverge to the right, then curve to the left, converting a left turn to a crossing maneuver, similar to throughabouts. These techniques are generally used in conjunction with signal-controlled intersections, although they may also be used at stop-controlled intersections.
+
+Other designs include advanced stop lines, parallel-flow and continuous-flow intersections, hook turns, quadrants, seagull intersections, slip lanes, staggered junctions, superstreets, Texas Ts, Texas U-turns and turnarounds.
+
+A roundabout and its variants like turbo roundabouts, bowties and distributing circles like traffic circles and right-in/right-out (RIRO) intersections.
+
+Turns
+
+At intersections, turns are usually allowed, but are often regulated to avoid interference with other traffic. Certain turns may be not allowed or may be limited by regulatory signs or signals, particularly those that cross oncoming traffic. Alternative designs often attempt to reduce or eliminate such potential conflicts.
+
+Turn lanes
+
+At intersections with large proportions of turning traffic, turn lanes (also known as turn bays) may be provided. For example, in the intersection shown in the diagram, left turn lanes are present in the right-left street.
+
+Turn lanes allow vehicles to cross oncoming traffic (i.e., a left turn in right-side driving countries, or a right turn in left-side driving countries), or to exit a road without crossing traffic (i.e., a right turn in right-side driving countries, or a left turn in left-side driving countries). Absence of a turn lane does not normally indicate a prohibition of turns in that direction. Instead, traffic control signs are used to prohibit specific turns.
+
+Turn lanes can increase the capacity of an intersection or improve safety. Turn lanes can have a dramatic effect on the safety of a junction. In rural areas, crash frequency can be reduced by up to 48% if left turn lanes are provided on both main-road approaches at stop-controlled intersections. At signalized intersections, crashes can be reduced by 33%. Results are slightly lower in urban areas.
+
+Turn lanes are marked with an arrow bending into the direction of the turn which is to be made from that lane. Multi-headed arrows indicate that vehicle drivers may travel in any one of the directions pointed to by an arrow.
+
+Turn signals
+
+Traffic signals facing vehicles in turn lanes often have arrow-shaped indications. Green arrows indicate protected turn phases, when vehicles may turn unhindered by oncoming traffic. Red arrows may be displayed to prohibit turns in that direction. Red arrows may be displayed along with a circular green indication to show that turns in the direction of the arrow are prohibited, but other movements are allowed. In some jurisdictions, a red arrow prohibits a turn on red.
+
+Disadvantages to turn lanes include increased pavement area, with associated increases in construction and maintenance costs, as well as increased amounts of stormwater runoff. They also increase the distance over which pedestrians crossing the street are exposed to vehicle traffic. If a turn lane has a separate signal phase, it often increases the delay experienced by oncoming through traffic. Without a separate phase, left crossing traffic does not get the full safety benefit of the turn lane.
+
+Lane management
+
+Alternative intersection configurations, formerly called unconventional intersections, can manage turning traffic to increase safety and intersection throughput. These include the Michigan left/Superstreet (RCUT/MUT) and continuous flow intersection (CFI/DLT), to improve traffic flow, and also interchange types like Diverging diamond interchange (DDI/DCD) design as part of the Federal Highway Administration's Every Day Counts initiative which started in 2012.
+
+ Diagram of an example intersection of two-way streets as seen from above (traffic flows on the right side of the road). The east-west street has left turn lanes from both directions, but the north-south street does not have left turn lanes at this intersection. The east-west street traffic lights also have green left turn arrows to show when unhindered left turns can be made. Some possible markings for crosswalks are shown as examples.
+
+Vulnerable road users
+
+Pedestrians
+
+Times Square is the hub of the Broadway theater district and a major cultural venue in Midtown Manhattan, New York City. The pedestrian intersection also has one of the highest annual attendance rates of any tourist attraction in the world, estimated at 60 million.
+
+Intersections generally must manage pedestrian as well as vehicle traffic. Pedestrian aids include crosswalks, pedestrian-directed traffic signals ("walk light") and over/underpasses. Traffic signals can be time consuming to navigate, especially if programmed to prioritise vehicle flow over pedestrians, while over and underpasses which rely on stairs are inaccessible to those who can't climb them. Walk lights may be accompanied by audio signals to aid the visually impaired. Medians can offer pedestrian islands, allowing pedestrians to divide their crossings into a separate segment for each traffic direction, possibly with a separate signal for each.
+
+Some intersections display red lights in all directions for a period of time. Known as a pedestrian scramble, this type of vehicle all-way stop allows pedestrians to cross safely in any direction, including diagonally. All green for non motorists is known from the crossing at Shibuya Station, Tokyo.
+
+Cyclists and motorcyclists
+
+Poor visibility at junctions can lead to drivers colliding with cyclists and motorcyclists. Some junctions use Advanced stop lines which allow cyclists to filter to the front of a traffic queue which makes them more visible to drivers.
+
+Safety
+
+A European study found that in Germany and Denmark, the most important crash scenario involving vulnerable road users was:
+
+motor vehicle turning right/left while cyclist going straight;
+
+motor vehicle turning right/left while pedestrian crossing the intersection approach.
+
+At grade railways
+
+In the case of railways or rail tracks the term at grade applies to a rail line that is not on an embankment nor in an open cut. As such, it crosses streets and roads without going under or over them. This requires crossings. At-grade railways may run along the median of a highway. The opposite is grade-separated. There may have overpasses or underpasses.
+
+See also
+
+Gore (road)
+
+Grade separation
+
+Interchange (road) – Road junction, typically using grade separation
+
+Junction (road)
+
+Junction (traffic)
+
+Roundabout
+
+Street
+
+Streetcorner
+
+References
+
+^ Ali Sahraei, Mohammad; Akbari, Elnaz (2020-03-19). "Review and evaluation of methods for estimating delay at priority junctions". Australian Journal of Civil Engineering: 1–14. doi:10.1080/14488353.2020.1743591. ISSN 1448-8353.
+
+^ Steyn, Hermanus. (2014). Displaced Left-turn Intersection Informational Guide. Washington, D.C.: U.S. Department of Transportation, Federal Highway Administration.
+
+^ "Manual on Uniform Traffic Control Devices (MUTCD), Part 1" (PDF). U.S. DOT, Federal Highway Administration. December 11, 2009. Retrieved November 28, 2011.
+
+^ "Traffic Signals Brochure - How is it Determined if a Traffic Signal is Needed?". Maryland State Highway Administration.
+
+^ D.W. Harwood, et al., Safety Effectiveness of Intersection Left- and Right-Turn Lanes, Federal Highway Administration Office of Safety Research and Development, 2002, 
+
+^ New York State Driver's Manual, Chapter 4.
+
+^ Badger, Emily. "Could These Crazy Intersections Make Us Safer?". The Atlantic Cities. Atlantic Media Company. Retrieved 29 January 2013.
+
+^ https://rosap.ntl.bts.gov/view/dot/29474/dot_29474_DS1.pdf?download-document-submit=Download
+
+^ Rachel Sugar (December 19, 2016). "More tourists visited NYC in 2016 than ever before". Vox Media. Retrieved April 24, 2018.
+
+^ "Saturday afternoon at Shibuya Crossing, Tokyo". April 21, 2007.
+
+^ https://www.indev-project.eu/InDeV/EN/Documents/pdf/Final-report.pdf?__blob=publicationFile&v=2
+
+External links
+
+Traffic flow measured on 30 different 4-way junctions, by euverus, December 4, 2017
+
+ Wikimedia Commons has media related to Road junctions.
+
+v
+
+t
+
+e
+
+Streets and roadways
+
+Types of road
+
+Limited-access 
+Bike freeway
+
+Freeway / Motorway
+
+Dual carriageway / Divided highway / Expressway
+
+Elevated highway
+
+By country 
+Australia
+
+Brazil
+
+Canada
+
+China
+
+Croatia
+
+Czech Republic
+
+Germany
+
+Greece
+
+Hong Kong
+
+India
+
+Ireland
+
+Italy
+
+Pakistan
+
+Portugal
+
+Spain
+
+Taiwan
+
+United Kingdom
+
+United States
+
+Main roads 
+Arterial road
+
+Collector road
+
+County highway
+
+Express-collector setup
+
+Farm-to-market road
+
+Highway
+
+Link road
+
+Two-lane expressway
+
+2+1 road
+
+2+2 road
+
+Parkway
+
+Ring road
+
+Super two
+
+Trunk road
+
+Highway systems by country
+
+Local roads 
+Alley
+
+Backroad
+
+Bicycle boulevard
+
+Boulevard
+
+Country lane
+
+Dead end
+
+Driveway
+
+Frontage road
+
+Green lane
+
+Main street
+
+Primitive road
+
+Road
+
+Side road
+
+Single carriageway
+
+Single-track road
+
+Street
+
+Sunken lane
+
+Other terms 
+Channelization
+
+Concurrency
+
+Detour
+
+Hierarchy of roads
+
+Private highway
+
+Route number
+Special route
+
+Business route
+
+Street hierarchy
+
+Toll road
+
+Road junctions
+
+Interchanges
+
+(grade-separated)
+
+Cloverleaf
+
+Diamond
+
+Free-flow
+
+Directional T
+
+Diverging diamond
+
+Parclo
+
+Raindrop
+
+Roundabout
+
+Single-point urban (SPUI)
+
+Stack
+
+Three-level diamond
+
+Trumpet
+
+Intersections
+
+(at-grade)
+
+3-way junction
+
+Bowtie
+
+Box junction
+
+Continuous flow
+
+Hook turn
+
+Jughandle
+
+Michigan left
+
+Offset T-intersection
+
+Protected intersection
+
+Quadrant roadway
+
+Right-in/right-out (RIRO)
+
+Roundabout
+
+Seagull intersection
+
+Split intersection
+
+Superstreet
+
+Texas U-turn
+
+Traffic circle
+
+Turnaround
+
+Surfaces 
+Asphalt concrete
+
+Bioasphalt
+
+Brick
+
+Chipseal
+
+Cobblestone
+
+Concrete
+Reinforced concrete
+
+Corduroy
+
+Crocodile cracking
+
+Crushed stone
+
+Diamond grinding of pavement
+
+Dirt
+
+Full depth recycling
+
+Glassphalt
+
+Gravel
+
+Ice
+
+Macadam
+
+Pavement milling
+
+Permeable
+
+Plank
+
+Rubberized asphalt
+
+Sealcoat
+
+Sett
+
+Stamped asphalt
+
+Tarmac
+
+Texture
+
+Road safety factors
+
+Road and environment 
+Aquaplaning
+
+Black ice
+
+Bleeding
+
+Crosswind
+
+Dead Man's Curve
+
+Expansion joint
+
+Fog
+
+Ford
+
+Hairpin turn
+
+Level crossing
+
+Manhole cover
+
+Oil spill
+
+Oversize load
+
+Pothole
+
+Road debris
+
+Road slipperiness
+
+Road train
+
+Roadkill
+
+Rockfall
+
+Rut
+
+Speed bump
+
+Storm drain
+
+Washboarding
+
+Washout
+
+Whiteout
+
+Snowsquall
+
+Human factors 
+Driver's education
+
+Driving under the influence
+
+Road rage
+
+Single-vehicle crash
+
+Sleep-deprived driving
+
+Vehicles 
+Automotive safety
+
+Seat belts
+
+Risk compensation (road transport)
+
+Underride guard
+
+Space and time allocation 
+Barrier transfer machine
+
+Bicycle lane
+
+Climbing lane
+
+Complete streets
+
+Contraflow lane
+
+Contraflow lane reversal
+
+High-occupancy toll lane
+
+High-occupancy vehicle lane
+
+Lane
+
+Living street
+
+Managed lane
+
+Median / Central reservation
+
+Motorcycle lane
+
+Passing lane
+
+Pedestrian crossing
+
+Pedestrian zone
+
+Refuge island
+
+Reversible lane
+
+Road diet
+
+Road verge
+
+Runaway truck ramp
+
+Shared space
+
+Sidewalk / Pavement
+
+Shoulder
+
+Street running railway
+
+Traffic calming
+
+Traffic directionality
+
+Traffic island
+
+Traffic lanes
+
+Traffic signal preemption
+
+Unused highway
+
+Wide outside lane
+
+Woonerf
+
+Demarcation 
+Bollard
+
+Botts' dots
+
+Cable barrier
+
+Cat's eye (road)
+
+Concrete step barrier
+
+Constant-slope barrier
+
+Curb
+
+F-Shape barrier
+
+Guard rail
+
+Jersey barrier
+
+Kassel kerb
+
+Noise barrier
+
+Raised pavement marker
+
+Road surface marking
+
+Rumble strip
+
+Traffic barrier
+
+Traffic cone
+
+Structures 
+Bridge
+
+Causeway
+
+Overpass / Flyover
+
+Underpass / Tunnel
+
+Performance indicators 
+Pavement Condition Index
+
+International Roughness Index
+
+Present Serviceability Index
+
+Pavement performance modeling
+
+Glossary of road transport terms
+
+Road types by features

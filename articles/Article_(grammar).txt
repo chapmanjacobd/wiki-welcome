@@ -1,0 +1,1235 @@
+"For grammatical articles in English, see English articles.
+
+"Definite article" redirects here. For the Eddie Izzard comedy DVD, see Definite Article.
+
+word used with a noun to indicate the type of reference being made by the noun
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Article" grammar – news · newspapers · books · scholar · JSTOR (July 2008) (Learn how and when to remove this template message)
+
+An article (with the linguistic glossing abbreviation ART) is a word that is used with a noun (as a standalone word or a prefix or suffix) to specify grammatical definiteness of the noun, and in some languages extending to volume or numerical scope.
+
+The articles in English grammar are the and a/an, and in certain contexts some. "An" and "a" are modern forms of the Old English "an", which in Anglian dialects was the number "one" (compare "on" in Saxon dialects) and survived into Modern Scots as the number "owan". Both "on" (respelled "one" by the Norman language) and "an" survived into Modern English, with "one" used as the number and "an" ("a", before nouns that begin with a consonant sound) as an indefinite article.
+
+In English grammar, articles are frequently considered part of a broader category called determiners, which contains articles, demonstratives (such as "this" and "that"), possessive determiners (such as "my" and "his"), and quantifiers (such as "all" and "few"). Articles and other determiners are also sometimes counted as a type of adjective, since they describe the words that they precede.
+
+In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, definite or indefinite, as an attribute (similar to the way many languages express every noun with a certain grammatical number—singular or plural—or a grammatical gender). Articles are among the most common words in many languages; in English, for example, the most frequent word is the.
+
+Articles are usually categorized as either definite or indefinite. A few languages with well-developed systems of articles may distinguish additional subtypes. Within each type, languages may have various forms of each article, due to conforming to grammatical attributes such as gender, number, or case. Articles may also be modified as influenced by adjacent sounds or words as in elision (e.g., French "le" becoming "l'" before a vowel), epenthesis (e.g., English "a" becoming "an" before a vowel), or contraction (e.g. Irish "i + na" becoming "sna").
+
+Contents
+
+1 Definite article
+
+2 Indefinite article
+
+3 Proper article
+
+4 Partitive article
+
+5 Negative article
+
+6 Zero article
+
+7 Variation among languages
+
+7.1 Tables
+
+7.2 Tokelauan
+
+8 Evolution
+
+8.1 Definite articles
+
+8.2 Indefinite articles
+
+9 See also
+
+10 References
+
+11 External links
+
+Definite article
+
+The definite article, the, is used to refer to a particular member of a group or class. It may be something that the speaker has already mentioned or it may be something uniquely specified. The is the only definite article in English, for both singular and plural nouns.
+
+The children know the fastest way home.
+
+The sentence above refers to specific children and a specific way home; it contrasts with the much more general observation that:
+
+Children know the fastest ways home.
+
+The latter sentence refers to children in general and their specific ways home. Likewise,
+
+Give me the book.
+
+refers to a specific book whose identity is known or obvious to the listener; it has a markedly different meaning from 
+
+Give me a book.
+
+which uses an indefinite article, which does not specify what book is to be given.
+
+The definite article can also be used in English to indicate a specific class among other classes:
+
+The cabbage white butterfly lays its eggs on members of the Brassica genus.
+
+However, recent developments show that definite articles are morphological elements linked to certain noun types due to lexicalization. Under this point of view, definiteness does not play a role in the selection of a definite article more than the lexical entry attached to the article.
+
+Indefinite article
+
+An indefinite article indicates that its noun is not a particular one identifiable to the listener. It may be something that the speaker is mentioning for the first time, or the speaker may be making a general statement about any such thing. a/an are the indefinite articles used in English. The form an is used before words that begin with a vowel sound (even if spelled with an initial consonant, as in an hour), and a before words that begin with a consonant sound (even if spelled with a vowel, as in a European).
+
+She had a house so large that an elephant would get lost without a map.
+
+Before some words beginning with a pronounced (not silent) h in an unstressed first syllable, such as historic(al), hallucination, hilarious, horrendous, and horrific, some (especially older) British writers prefer to use an over a (an historical event, etc.). An is also preferred before hotel by some writers of British English (probably reflecting the relatively recent adoption of the word from French, in which the h is not pronounced). The use of "an" before words beginning with an unstressed "h" is more common generally in British English than in American. American writers normally use a in all these cases, although there are occasional uses of an historic(al) in American English. According to the New Oxford Dictionary of English, such use is increasingly rare in British English too. Unlike British English, American English typically uses an before herb, since the h in this word is silent for most Americans. The correct usage in respect of the term "hereditary peer" was the subject of an amendment debated in the UK Parliament.
+
+The word some can be viewed as functionally a plural of a/an in that, for example, "an apple" never means more than one apple but "give me some apples" indicates more than one is desired but without specifying a quantity. In this view it is functionally homologous to the Spanish plural indefinite article unos/unas; un/una ("one") is completely indistinguishable from the unit number, except where it has a plural form (unos/unas). Thus Dame una manzana" ("Give me an apple") but "Dame unas manzanas" ("Give me some apples"). The indefiniteness of some or unos can sometimes be semiquantitatively narrowed, as in "There are some apples there, but not many."
+
+Some also serves as a singular indefinite article, as in "There is some person on the porch".
+
+Proper article
+
+A proper article indicates that its noun is proper, and refers to a unique entity. It may be the name of a person, the name of a place, the name of a planet, etc. The Maori language has the proper article a, which is used for personal nouns; so, "a Pita" means "Peter". In Maori, when the personal nouns have the definite or indefinite article as an important part of it, both articles are present; for example, the phrase "a Te Rauparaha", which contains both the proper article a and the definite article Te refers to the person name Te Rauparaha.
+
+The definite article is sometimes also used with proper names, which are already specified by definition (there is just one of them). For example: the Amazon, the Hebrides. In these cases, the definite article may be considered superfluous. Its presence can be accounted for by the assumption that they are shorthand for a longer phrase in which the name is a specifier, i.e. the Amazon River, the Hebridean Islands. Where the nouns in such longer phrases cannot be omitted, the definite article is universally kept: the United States, the People's Republic of China. This distinction can sometimes become a political matter: the former usage the Ukraine stressed the word's Russian meaning of "borderlands"; as Ukraine became a fully independent state following the collapse of the Soviet Union, it requested that formal mentions of its name omit the article. Similar shifts in usage have occurred in the names of Sudan and both Congo (Brazzaville) and Congo (Kinshasa); a move in the other direction occurred with The Gambia. In certain languages, such as French and Italian, definite articles are used with all or most names of countries: la France/le Canada/l'Allemagne, l'Italia/la Spagna/il Brasile.
+
+If a name  a definite article, e.g. the Kremlin, it cannot idiomatically be used without it: we cannot say Boris Yeltsin is in Kremlin.
+
+— R. W. Burchfield
+
+Some languages also use definite articles with personal names. For example, such use is standard in Portuguese (a Maria, literally: "the Maria"), in Greek (η Μαρία, ο Γιώργος, ο Δούναβης, η Παρασκευή) and in Catalan (la Núria, el/en Oriol). It can also occur colloquially or dialectally in Spanish, German, French, Italian and other languages. In Hungary, the use of definite articles with personal names is considered to be a Germanism.
+
+Rarely, this usage can appear in American English for particular nicknames. One prominent example occurs in the case of United States President Donald Trump, who is also somtimes informally called "The Donald" in speech and in print media. Another is President Ronald Reagan's most common nickname, "The Gipper", which is still used today in reference to him.
+
+Partitive article
+
+A partitive article is a type of article, sometimes viewed as a type of indefinite article, used with a mass noun such as water, to indicate a non-specific quantity of it. Partitive articles are a class of determiner; they are used in French and Italian in addition to definite and indefinite articles. (In Finnish and Estonian, the partitive is indicated by inflection.) The nearest equivalent in English is some, although it is classified as a determiner, and English uses it less than French uses de. 
+
+French: Veux-tu du café ?
+
+Do you want (some) coffee?
+
+For more information, see the article on the French partitive article.
+
+Haida has a partitive article (suffixed -gyaa) referring to "part of something or... to one or more objects of a given group or category," e.g., tluugyaa uu hal tlaahlaang "he is making a boat (a member of the category of boats)."
+
+Negative article
+
+A negative article specifies none of its noun, and can thus be regarded as neither definite nor indefinite. On the other hand, some consider such a word to be a simple determiner rather than an article. In English, this function is fulfilled by no, which can appear before a singular or plural noun: 
+
+No man has been on this island.
+
+No dogs are allowed here.
+
+No one is in the room.
+
+In German, the negative article is, among other variations, kein, in opposition to the indefinite article ein.
+
+Ein Hund – a dog
+
+Kein Hund – no dog
+
+The equivalent in Dutch is geen:
+
+een hond – a dog
+
+geen hond – no dog
+
+Zero article
+
+See also: Zero article in English
+
+The zero article is the absence of an article. In languages having a definite article, the lack of an article specifically indicates that the noun is indefinite. Linguists interested in X-bar theory causally link zero articles to nouns lacking a determiner. In English, the zero article rather than the indefinite is used with plurals and mass nouns, although the word "some" can be used as an indefinite plural article.
+
+Visitors end up walking in mud.
+
+Variation among languages
+
+Articles in languages in and around Europe indefinite and definite articles
+
+only definite articles
+
+indefinite and suffixed definite articles
+
+only suffixed definite articles
+
+no articles
+
+Note that although the Saami languages spoken in northern parts of Norway and Sweden lack articles, Norwegian and Swedish are the majority languages in this area. Although the Irish, Scottish Gaelic and Welsh languages lack indefinite articles they too are minority languages in Ireland, Scotland and southern Wales, respectively, with English being the main spoken language.
+
+Articles are found in many Indo-European languages, Semitic languages (only the definite article), and Polynesian languages; however, are formally absent from many of the world's major languages including: Chinese, Japanese, Korean, Mongolian, many Turkic languages (incl. Tatar, Bashkir, Tuvan and Chuvash), many Uralic languages (incl. Finnic and Saami languages), Indonesian, Hindi-Urdu, Punjabi, Tamil, the Baltic languages, the majority of Slavic languages, the Bantu languages (incl. Swahili) and Yoruba. In some languages that do have articles, such as some North Caucasian languages, the use of articles is optional; however, in others like English and German it is mandatory in all cases.
+
+Linguists believe the common ancestor of the Indo-European languages, Proto-Indo-European, did not have articles. Most of the languages in this family do not have definite or indefinite articles: there is no article in Latin or Sanskrit, nor in some modern Indo-European languages, such as the families of Slavic languages (except for Bulgarian and Macedonian, which are rather distinctive among the Slavic languages in their grammar), Baltic languages and many Indo-Aryan languages. Although Classical Greek had a definite article (which has survived into Modern Greek and which bears strong functional resemblance to the German definite article, which it is related to), the earlier Homeric Greek used this article largely as a pronoun or demonstrative, whereas the earliest known form of Greek known as Mycenaean Greek did not have any articles. Articles developed independently in several language families.
+
+Not all languages have both definite and indefinite articles, and some languages have different types of definite and indefinite articles to distinguish finer shades of meaning: for example, French and Italian have a partitive article used for indefinite mass nouns, whereas Colognian has two distinct sets of definite articles indicating focus and uniqueness, and Macedonian uses definite articles in a demonstrative sense, with a tripartite distinction (proximal, medial, distal) based on distance from the speaker or interlocutor. The words this and that (and their plurals, these and those) can be understood in English as, ultimately, forms of the definite article the (whose declension in Old English included thaes, an ancestral form of this/that and these/those).
+
+In many languages, the form of the article may vary according to the gender, number, or case of its noun. In some languages the article may be the only indication of the case. Many languages do not use articles at all, and may use other ways of indicating old versus new information, such as topic–comment constructions.
+
+Tables
+
+Variations of articles in definiteness and inflection among major languages
+
+Definite
+Indefinite
+Gendered
+Numbered
+Case-inflected
+
+Afrikaans
+ Yes
+ Yes
+ No
+ No
+ No
+
+Albanian
+ Yes, as suffixes
+ Yes
+ Yes
+ No
+ Yes
+
+Arabic
+ Yes, as prefixes
+ Yes, as suffixes
+ No
+ No
+ No
+
+Basque
+ Yes, as suffixes
+ Yes
+ No
+ Yes
+ Yes
+
+Belarusian
+ No
+ No
+ No
+ No
+ No
+
+Bengali
+ Yes, as suffixes
+ Yes
+ No
+ Yes
+ No
+
+Bulgarian
+ Yes, as suffixes
+ No
+ Yes
+ Yes
+ Only masculine singular
+
+Catalan
+ Yes
+ Yes
+ Yes
+ Yes
+ No
+
+Chinese
+ No
+ No
+ No
+ No
+ No
+
+Czech
+ No
+ No
+ No
+ No
+ No
+
+Definite
+Indefinite
+Gendered
+Numbered
+Case-inflected
+
+Danish
+ Yes, before adjectives and/or as suffixes
+ Yes
+ Yes
+ Yes (if definite)
+ No
+
+Dutch
+ Yes
+ Yes
+ Yes (if definite)
+ Yes (if definite)
+ No
+
+English
+ Yes
+ Yes
+ No
+ No
+ No
+
+Esperanto
+ Yes
+ No
+ No
+ No
+ No
+
+Estonian
+ No
+ No
+ No
+ No
+ No
+
+Finnish
+ No
+ No
+ No
+ No
+ No
+
+French
+ Yes
+ Yes
+ Yes
+ Yes
+ No
+
+Georgian
+ No
+ No
+ No
+ No
+ No
+
+German
+ Yes
+ Yes
+ Yes
+ Yes (if definite)
+ Yes
+
+Greek
+ Yes
+ Yes
+ Yes
+ Yes (if definite)
+ Yes
+
+Guarani
+ Yes
+ No
+ No
+ Yes
+ No
+
+Definite
+Indefinite
+Gendered
+Numbered
+Case-inflected
+
+Hawaiian
+ Yes
+ Yes
+ No
+ Yes (if definite)
+ No
+
+Hebrew
+ Yes, as prefixes
+ No
+ No
+ No
+ No
+
+Hungarian
+ Yes
+ Yes
+ No
+ No
+ No
+
+Icelandic
+ Yes, as suffixes
+ No
+ Yes
+ Yes
+ Yes
+
+Interlingua
+ Yes
+ Yes
+ No
+ No
+ No
+
+Irish
+ Yes
+ No
+ Yes
+ Yes
+ Yes
+
+Italian
+ Yes
+ Yes
+ Yes
+ Yes
+ No
+
+Japanese
+ No
+ No
+ No
+ No
+ No
+
+Korean
+ No
+ No
+ No
+ No
+ No
+
+Latvian
+ No
+ No
+ No
+ No
+ No
+
+Definite
+Indefinite
+Gendered
+Numbered
+Case-inflected
+
+Lithuanian
+ No
+ No
+ No
+ No
+ No
+
+Macedonian
+ Yes, as suffixes
+ No
+ Yes
+ Yes
+ No
+
+Malay/Indonesian
+ No
+ No
+ No
+ No
+ No
+
+Norwegian
+ Yes, before adjectives and/or as suffixes
+ Yes
+ Yes
+ Yes (if definite)
+ No
+
+Pashto
+ No
+ Yes
+ Yes
+ No
+ Yes
+
+Persian
+ No
+ Yes
+ No
+ No
+ No
+
+Polish
+ No
+ No
+ No
+ No
+ No
+
+Portuguese
+ Yes
+ Yes
+ Yes
+ Yes
+ No
+
+Romanian
+ Yes, as suffixes
+ Yes
+ Yes
+ Yes
+ No
+
+Russian
+ No
+ No
+ No
+ No
+ No
+
+Scottish Gaelic
+ Yes
+ No
+ Yes
+ Yes
+ Yes
+
+Definite
+Indefinite
+Gendered
+Numbered
+Case-inflected
+
+Slovak
+ No
+ No
+ No
+ No
+ No
+
+Slovene
+ No
+ No
+ No
+ No
+ No
+
+Somali
+ Yes, as suffixes
+ No
+ Yes
+ No
+ Yes
+
+Spanish
+ Yes
+ Yes
+ Yes
+ Yes
+ No
+
+Swahili
+ No
+ No
+ No
+ No
+ No
+
+Swedish
+ Yes, before adjectives and/or as suffixes
+ Yes
+ Yes
+ Yes (if definite)
+ No
+
+Tamil
+ No
+ No
+ No
+ No
+ No
+
+Turkish
+ No
+ Yes
+ No
+ No
+ No
+
+Ukrainian
+ No
+ No
+ No
+ No
+ No
+
+Welsh
+ Yes
+ No
+ Causes initial consonant mutation to singular feminine nouns
+ No
+ No
+
+Yiddish
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+
+Definite
+Indefinite
+Gendered
+Numbered
+Case-inflected
+
+The articles used in some languages
+Language
+definite article
+partitive article
+indefinite article
+
+Abkhaz
+ a-
+ 
+ -k
+
+Afrikaans
+ die
+ 
+ 'n
+
+Albanian
+ -a, -ja, -i, -ri, -ni, -u, -t, -in, -un, -n, -rin, -nin, -në, -ën, -s, -së, -ës, -të, -it, -ët (all suffixes)
+ disa
+ një
+
+Arabic
+ al- or el ال‎ (prefix)
+ 
+ -n
+
+Assamese
+ -tû, -ta, -ti, -khôn, -khini, -zôn, -zôni, -dal, -zûpa etc.
+ 
+ êta, êkhôn, êzôn, êzôni, êdal, êzûpa etc.
+
+Bangla
+ -টা, -টি, -গুলো, -রা, -খানা
+ 
+ একটি, একটা, কোন
+
+Breton
+ an, al, ar
+ 
+ un, ul, ur
+
+Bulgarian
+ -та, -то, -ът, -ят, -те (all suffixes)
+ 
+ един/някакъв,
+
+една/някаква,
+
+едно/някакво,
+
+едни/някакви
+
+Catalan
+ el, la, l', els, les
+
+ses, lo, los, es, sa
+ 
+ un, una
+
+uns, unes
+
+Cornish
+ an
+ 
+Danish
+ Singular: -en, -n -et, -t (all suffixes)
+Plural: -ene, -ne (all suffixes)
+
+ en, et
+
+Dutch
+ de, het ('t); archaic since 1945/46 but still used in names and idioms: des, der, den
+ 
+ een ('n)
+
+English
+ the
+ 
+ a, an
+
+Esperanto
+ la
+ 
+Finnish (colloquial)
+ se
+ 
+ yks(i)
+
+French
+ le, la, l', les
+
+ du, de, d', de la, des,
+
+de l'
+
+ un, une, des
+
+German
+ der, die, das
+
+des, dem, den
+ 
+ ein, eine, einer, eines
+
+einem, einen
+
+Greek
+ ο, η, το
+
+οι, οι, τα
+ 
+ ένας, μια, ένα
+
+Hawaiian
+ ka, ke
+
+nā
+ 
+ he
+
+Hebrew
+ ha- ה (prefix)
+ 
+Hungarian
+ a, az
+ 
+ egy
+
+Icelandic
+ -(i)nn, -(i)n, -(i)ð, -(i)na, -num, -(i)nni, -nu, -(i)ns, -(i)nnar, -nir, -nar, -(u)num, -nna (all suffixes)
+ 
+Interlingua
+ le
+ 
+ un
+
+Irish
+ an, na, a' (used colloquially)
+ 
+Italian
+ il, lo, la, l'
+
+i, gli, le
+ del, dello, della, dell'
+
+dei, degli, degl' , delle
+ un', uno, una, un
+
+Khasi
+ u, ka, i
+
+ki
+ 
+Kurdish
+ -eke
+
+-ekan
+ hendê, birrê
+ -êk
+
+-anêk
+
+Latin
+ 
+Luxembourgish
+ den, déi (d'), dat (d')
+
+dem, der
+ däers/es, däer/er
+ en, eng
+
+engem, enger
+
+Macedonian
+ -от -ов -он -та -ва -на -то -во -но
+
+-те -ве -не -та -ва -на (all suffixes)
+ неколку
+ еден една едно
+
+едни
+
+Manx
+ y, yn, 'n, ny
+ 
+Maltese
+ (i)l-, (i)ċ-, (i)d-, (i)n-, (i)r-, (i)s-, (i)t-, (i)x-, (i)z-, (i)ż- (all prefixes)
+ 
+Norwegian (Bokmål)
+ Singular: -en, -et, -a (all suffixes)
+Plural: -ene, -a (all suffixes)
+
+ en, et, ei
+
+Norwegian (Nynorsk)
+ Singular: -en, -et, -a (all suffixes)
+Plural: -ane, -ene, -a (all suffixes)
+
+ ein, eit, ei
+
+Papiamento
+ e
+ 
+ un
+
+Pashto
+ 
+ yaow, yaowə, yaowa, yaowey
+
+يو, يوهٔ, يوه, يوې
+
+Persian
+ 
+ yek (1)
+
+Portuguese
+ o, a
+
+os, as
+ 
+ um, uma
+
+uns, umas
+
+Quenya
+ i, in, 'n
+ 
+Romanian
+ -(u)l, -le, -(u)a
+
+-(u)lui, -i, -lor (all suffixes)
+ 
+ un, o
+
+unui, unei
+
+niște, unor
+
+Scots
+ the
+ 
+ a
+
+Scottish Gaelic
+ an, am, a', na, nam, nan
+ 
+Sindarin
+ i, in, -in, -n, en
+ 
+Spanish
+ el, la, lo,
+
+los, las
+ 
+ un, una
+
+unos, unas
+
+Swedish
+ Singular: -en, -n, -et, -t (all suffixes)
+Plural: -na, -a, -en (all suffixes)
+
+ en, ett
+
+Welsh
+ y, yr, -'r
+ 
+Yiddish
+ דער (der), די (di), דאָס (dos), דעם (dem)
+ 
+ אַ (a), אַן (an)
+
+^ a b c Grammatically speaking Finnish has no articles, but the words se (it) and yks(i) (one) are used in colloquial Finnish in the same fashion as the and a/an in English and are, for all intents and purposes, treated like articles when used in this manner.
+
+The following examples show articles which are always suffixed to the noun:
+
+Albanian: zog, a bird; zogu, the bird
+
+Aramaic: שלם (shalam), peace; שלמא (shalma), the peace
+Note: Aramaic is written from right to left, so an Aleph is added to the end of the word. ם becomes מ when it is not the final letter.
+
+Assamese: "কিতাপ (kitap)", book; "কিতাপখন (kitapkhôn)" : "The book"
+
+Bengali: "Bôi", book; "Bôiti/Bôita/Bôikhana" : "The Book"
+
+Bulgarian: стол stol, chair; столът stolǎt, the chair (subject); стола stola, the chair (object)
+
+Icelandic: hestur, horse; hesturinn, the horse
+
+Macedonian: стол stol, chair; столот stolot, the chair; столов stolov, this chair; столон stolon, that chair
+
+Persian: sib, apple. (The Persian language does not have definite articles. It has one indefinite article 'yek' that means one. In Persian if a noun is not indefinite, it is a definite noun. "Sib e' man، means my apple. Here 'e' is like 'of' in English; an so literally "Sib e man" means the apple of mine.)
+
+Romanian: drum, road; drumul, the road (the article is just "l", "u" is a "connection vowel" Romanian: vocală de legătură)
+
+Swedish and Norwegian: hus, house; huset, the house; if there is an adjective: det gamle (N)/gamla (S) huset, the old house
+
+Danish: hus, house; huset, the house; if there is an adjective: det gamle hus, the old house
+
+Examples of prefixed definite articles: 
+
+Hebrew: ילד‎, transcribed as yeled, a boy; הילד, transcribed as hayeled, the boy
+
+Maltese: ktieb, a book; il-ktieb‎, the book; Maltese: għotja, a donation; l-għotja‎, the donation; Maltese: ċavetta, a key; iċ-ċavetta‎, the key; Maltese: dar, a house; id-dar‎, the house; Maltese: nemla, an ant; in-nemla‎, the ant; Maltese: ras, a head; ir-ras‎, the head; Maltese: sodda, a bed; is-sodda‎, the bed; Maltese: tuffieħa, an apple; it-tuffieħa‎, the apple; Maltese: xahar, a month; ix-xahar‎, the month; Maltese: zunnarija, a carrot; iz-zunnarija‎, the carrot; Maltese: żmien, a time; iż-żmien‎, the time
+
+A different way, limited to the definite article, is used by Latvian and Lithuanian. 
+The noun does not change but the adjective can be defined or undefined. In Latvian: galds, a table / the table; balts galds, a white table; baltais galds, the white table. In Lithuanian: stalas, a table / the table; baltas stalas, a white table; baltasis stalas, the white table.
+
+Languages in the above table written in italics are constructed languages and are not natural, that is to say that they have been purposefully invented by an individual (or group of individuals) with some purpose in mind. They do, however, all belong to language families themselves. Esperanto is derived from European languages and therefore all of its roots are found in Proto-Indo-European and cognates can be found in real-world languages like French, German, Italian and English. Interlingua is also based on European languages but with its main source being that of Italic descendant languages: English, French, Spanish, Italian and Portuguese, with German and Russian being secondary sources, with words from further afield (but internationally known and often borrowed) contributing to the language's vocabulary (such as words taken from Japanese, Arabic and Finnish). The result is a supposedly easy-to-learn language for the world. As well as these "auxiliary" languages the list contains two more: Quenya and Sindarin; these two languages were created by Professor Tolkien and used in his fictional works. They are not based on any real-world language family (as are Esperanto and Interlingua), but do share a common history with roots in Common Eldarin.
+
+Tokelauan
+
+When using a definite article in Tokelauan language, unlike in some languages like English, if the speaker is speaking of an item, they need not to have referred to it previously as long as the item is specific. This is also true when it comes to the reference of a specific person. So, although the definite article used to describe a noun in the Tokelauan language is te, it can also translate to the indefinite article in languages that requires the item being spoken of to have been referenced prior. When translating to English, te could translate to the English definite article the, or it could also translate to the English indefinite article a. An example of how the definite article te can be used as an interchangeable definite or indefinite article in the Tokelauan language would be the sentence “Kua hau te tino”. In the English language, this could be translated as “A man has arrived” or “The man has arrived” where using te as the article in this sentence can represent any man or a particular man. The word he, which is the indefinite article in Tokelauan, is used to describe ‘any such item’. The word he is used in negative statements because that is where it is most often found, alongside its great use in interrogative statements. Though this is something to make note of, he is not used in just in negative statements and questions alone. Although these two types of statements are where he occurs the most, it is also used in other statements as well. An example of the use of he as an indefinite article is “Vili ake oi k'aumai he toki ”, where ‘he toki ’ mean ‘an axe’. The use of he and te in Tokelauan are reserved for when describing a singular noun. However, when describing a plural noun, different articles are used. For plural definite nouns, rather than te, the article nā is used. ‘Vili ake oi k'aumai nā nofoa’ in Tokelauan would translate to “Do run and bring me the chairs” in English. There are some special cases in which instead of using nā, plural definite nouns have no article before them. The absence of an article is represented by 0. One way that it is usually used is if a large amount or a specific class of things are being described. Occasionally, such as if one was describing an entire class of things in a nonspecific fashion, the singular definite noun te would is used. In English, ‘Ko te povi e kai mutia’ means “Cows eat grass”. Because this is a general statement about cows, te is used instead of nā. The ko serves as a preposition to the “te” The article ni is used for describing a plural indefinite noun. ‘E i ei ni tuhi?’ translates to “Are there any books?”
+
+Evolution
+
+Articles have developed independently in many different language families across the globe. Generally, articles develop over time usually by specialization of certain adjectives or determiners, and their development is often a sign of languages becoming more analytic instead of synthetic, perhaps combined with the loss of inflection as in English, Romance languages, Bulgarian, Macedonian and Torlakian.
+
+Joseph Greenberg in
+Universals of Human Language
+describes "the cycle of the definite article": Definite articles (Stage I) evolve from demonstratives, and in turn can become generic articles (Stage II) that may be used in both definite and indefinite contexts, and later merely noun markers (Stage III) that are part of nouns other than proper names and more recent borrowings. Eventually articles may evolve anew from demonstratives.
+
+Definite articles
+
+Definite articles typically arise from demonstratives meaning that. For example, the definite articles in most Romance languages—e.g., el, il, le, la, lo — derive from the Latin demonstratives ille (masculine), illa (feminine) and illud (neuter).
+
+The English definite article the, written þe in Middle English, derives from an Old English demonstrative, which, according to gender, was written se (masculine), seo (feminine) (þe and þeo in the Northumbrian dialect), or þæt (neuter). The neuter form þæt also gave rise to the modern demonstrative that. The ye occasionally seen in pseudo-archaic usage such as "Ye Olde Englishe Tea Shoppe" is actually a form of þe, where the letter thorn (þ) came to be written as a y.
+
+Multiple demonstratives can give rise to multiple definite articles. Macedonian, for example, in which the articles are suffixed, has столот (stolot), the chair; столов (stolov), this chair; and столон (stolon), that chair. These derive from the Proto-Slavic demonstratives *tъ "this, that", *ovъ "this here" and *onъ "that over there, yonder" respectively. Colognian prepositions articles such as in dat Auto, or et Auto, the car; the first being specifically selected, focused, newly introduced, while the latter is not selected, unfocused, already known, general, or generic.
+
+Standard Basque distinguishes between proximal and distal definite articles in the plural (dialectally, a proximal singular and an additional medial grade may also be present). The Basque distal form (with infix -a-, etymologically a suffixed and phonetically reduced form of the distal demonstrative har-/hai-) functions as the default definite article, whereas the proximal form (with infix -o-, derived from the proximal demonstrative hau-/hon-) is marked and indicates some kind of (spatial or otherwise) close relationship between the speaker and the referent (e.g., it may imply that the speaker is included in the referent): etxeak ("the houses") vs. etxeok ("these houses "), euskaldunak ("the Basque speakers") vs. euskaldunok ("we, the Basque speakers").
+
+Speakers of Assyrian Neo-Aramaic, a modern Aramaic language that lacks a definite article, may at times use demonstratives aha and aya (feminine) or awa (masculine) – which translate to "this" and "that", respectively – to give the sense of "the".
+
+Indefinite articles
+
+Indefinite articles typically arise from adjectives meaning one. For example, the indefinite articles in the Romance languages—e.g., un, una, une—derive from the Latin adjective unus. Partitive articles, however, derive from Vulgar Latin de illo, meaning (some) of the.
+
+The English indefinite article an is derived from the same root as one. The -n came to be dropped before consonants, giving rise to the shortened form a. The existence of both forms has led to many cases of juncture loss, for example transforming the original a napron into the modern an apron.
+
+The Persian indefinite article is yek, meaning one.
+
+See also
+
+English articles
+
+Al- (definite article in Arabic)
+
+Definiteness
+
+Definite description
+
+False title
+
+References
+
+^ "What Is a Determiner?". YourDictionary.
+
+^ "Using Articles—A, An, The | Scribendi.com". Scribendi.
+
+^ "The 500 Most Commonly Used Words in the English Language". World English. Archived from the original on 13 January 2007. Retrieved 2007-01-14.
+
+^ "Definite article". Cambridge Dictionary. Retrieved 10 July 2018.
+
+^ Recasens, Taulé and Martí https://www.researchgate.net/publication/228748115_First-mention_definites_more_than_exceptional_cases
+
+^ Diaz Collazos, Ana Maria. 2016. Definite and indefinite articles in Nikkei Spanish. In González-Rivera, Melvin, & Sessarego, Sandro. New Perspectives on Hispanic Contact Linguistics in the Americas. Madrid/Frankfurt: Iberoamericana-Vervuert
+
+^ a b New Oxford Dictionary of English, 1999, usage note for an: "There is still some divergence of opinion over the form of the indefinite article to use preceding certain words beginning with h- when the first syllable is unstressed: ‘a historical document’ or ‘an historical document’; ‘a hotel’ or ‘an hotel’. The form depends on whether the initial h is sounded or not: an was common in the 18th and 19th centuries, because the initial h was commonly not pronounced for these words. In standard modern English the norm is for the h to be pronounced in words like hotel and historical, and therefore the indefinite article a is used; however, the older form, with the silent h and the indefinite article an, is still encountered, especially among older speakers."
+
+^ a b Brown Corpus and Lancaster-Oslo-Bergen Corpus, quoted in Peters (2004: 1)
+
+^ Algeo, p. 49.
+
+^ https://publications.parliament.uk/pa/ld199899/ldhansrd/vo990427/text/90427-43.htm
+
+^ Burchfield, R. W. (1996). The New Fowler's Modern English Usage (3rd ed.). p. 512. ISBN 978-0199690367.
+
+^ a b Argetsinger, Amy (1 September 2015). "Why does everyone call Donald Trump 'The Donald'? It's an interesting story". Washington Post. Retrieved 3 October 2017.
+
+^ Lawrence, Erma (1977). Haida dictionary. Fairbanks: Alaska Native Language Center. p. 64.CS1 maint: ref=harv (link)
+
+^ Master, Peter (1997). "The English article system: Acquisition, function, and pedagogy". System. 25 (2): 215–232. doi:10.1016/S0346-251X(97)00010-9.
+
+^ a b c d e f g h i j k l m n o p q Simona, Ropati (1986). Tokelau Dictionary. New Zealand: Office of Tokelau Affairs. p. Introduction.
+
+^ Greenberg, Joseph (2005-03-17). Genetic Linguistics:Essays on Theory and Method. ISBN 9780199257713.
+
+^ Solomon, Zomaya S. (1997). Functional and other exotic sentences in Assyrian Aramaic, Journal of Assyrian Academic Studies, XI/2:44-69.
+
+External links
+
+ Wikisource has the text of the 1921 Collier's Encyclopedia article Article.
+
+"The Definite Article, 'The': The Most Frequently Used Word in World's Englishes"
+
+Ing, John (September 17, 2019). "How to Use Articles Correctly in English (A, An & The)". Retrieved May 3, 2020.
+
+v
+
+t
+
+e
+
+Lexical categories and their features
+
+Noun 
+Abstract/Concrete
+
+Adjectival
+
+Agent
+
+Animacy
+
+Collective
+
+Countable
+
+Initial-stress-derived
+
+Mass
+
+Noun adjunct
+
+Proper
+
+Relational
+
+Strong / Weak
+
+Verbal / Deverbal
+
+Verb
+
+Forms 
+Attributive
+
+Converb
+
+Finite / Nonfinite
+
+Gerund
+
+Gerundive
+
+Infinitive
+
+Participle
+
+Supine
+
+Verbal noun
+
+Types 
+Ambitransitive
+
+Andative/Venitive
+
+Anticausative
+
+Autocausative
+
+Auxiliary
+
+Captative
+
+Catenative
+
+Compound
+
+Copular
+
+Defective
+
+Denominal
+
+Deponent
+
+Ditransitive
+
+Dynamic
+
+ECM
+
+Frequentative
+
+Impersonal
+
+Inchoative
+
+Intransitive
+
+Labile
+
+Lexical
+
+Light
+
+Modal
+
+Negative
+
+Performative
+
+Phrasal
+
+Predicative
+
+Preterite-present
+
+Reflexive
+
+Regularity
+
+Separable
+
+Stative
+
+Stretched
+
+Strong
+
+Transitive
+
+Unaccusative
+
+Unergative
+
+Weak
+
+Adjective 
+Collateral
+
+Demonstrative
+
+Nominalized
+
+Possessive
+
+Postpositive
+
+Adverb 
+Genitive
+
+Conjunctive
+
+Flat
+
+Interrogative
+
+Locative
+
+Prepositional
+
+Pronominal
+
+Relative
+
+Pronoun 
+Demonstrative
+
+Disjunctive
+
+Distributive
+
+Donkey
+
+Dummy
+
+Formal/Informal
+
+Gender-neutral / Gender-specific
+
+Inclusive/Exclusive
+
+Indefinite
+
+Intensive
+
+Interrogative
+
+Personal
+
+Possessive
+
+Reciprocal
+
+Reflexive
+
+Relative
+
+Resumptive
+
+Strong/Weak
+
+Subject / Object / Prepositional
+
+Adposition 
+Casally modulated
+
+Inflected
+
+Stranded
+
+Determiner 
+Article
+
+Demonstrative
+
+Interrogative
+
+Possessive
+
+Quantifier
+
+Particle 
+Discourse
+
+Interrogative
+
+Modal
+
+Noun
+
+Possessive
+
+Other 
+Classifier (Measure word)
+
+Complementizer
+
+Conjunction
+
+Copula
+
+Coverb
+
+Expletive
+
+Interjection (Onomatopoeia)
+
+Preverb
+
+Procedure word
+
+Pro-form (Pro-verb / Pro-sentence)
+
+Prop-word
+
+Yes and no
+
+Authority control 
+GND: 4003090-8
+
+NDL: 00577103

@@ -1,0 +1,651 @@
+"English physicist
+
+Edward Victor Appleton
+
+Born (1892-09-06)6 September 1892
+
+Bradford, West Riding of Yorkshire, England
+
+Died 21 April 1965(1965-04-21) (aged 72)
+
+Edinburgh, Scotland
+
+Nationality English
+
+Alma mater St John's College, Cambridge
+
+Known for Ionospheric Physics
+
+Appleton layer
+
+Demonstrating existence of Kennelly–Heaviside layer
+
+Awards Nobel Prize in Physics (1947)
+
+Fellow of the Royal Society (1927)
+
+Hughes Medal (1933)
+
+Faraday Medal (1946)
+
+Chree Medal (1947)
+
+Royal Medal (1950)
+
+Albert Medal (1950)
+
+IEEE Medal of Honor (1962)
+
+Scientific career
+
+Fields Physics
+
+Institutions Bradford College
+
+King's College London
+
+University of Cambridge
+
+University of Edinburgh
+
+Cavendish Laboratory
+
+Academic advisors J. J. Thomson
+
+Ernest Rutherford
+
+Notable students J. A. Ratcliffe
+
+Charles Oatley
+
+The grave of Sir Edward Victor Appleton, Morningside Cemetery, Edinburgh
+
+Sir Edward Victor Appleton GBE KCB FRS (6 September 1892 – 21 April 1965) was an English physicist, Nobel Prize winner (1947) and pioneer in radiophysics. He studied, and was also employed as a lab technician, at Bradford College from 1909 to 1911.
+
+He won the Nobel Prize in Physics in 1947 for his seminal work proving the existence of the ionosphere during experiments carried out in 1924.
+
+Contents
+
+1 Biography
+
+2 Works
+
+3 Honours and awards
+
+4 Artistic recognition
+
+5 See also
+
+6 References
+
+7 External links
+
+Biography
+
+Appleton was born in Bradford, West Riding of Yorkshire, the son of Peter Appleton, a warehouseman, and Mary Wilcock, and was educated at Hanson Grammar School.
+
+In 1911, aged 18, he was awarded a scholarship to attend St John’s College, Cambridge, where he graduated with First Class Honours in Natural Science with Physics in 1913. 
+
+During the First World War he joined the West Riding Regiment, and later transferred to the Royal Engineers. After returning from active service in the First World War, Appleton became assistant demonstrator in experimental physics at the Cavendish Laboratory in 1920. In 1922 he was initiated into Freemasonry. He was professor of physics at King's College London (1924–36) and professor of natural philosophy at the University of Cambridge (1936–39). From 1939 to 1949 he was secretary of the Department of Scientific and Industrial Research. Knighted in 1941, he received the 1947 Nobel Prize in Physics for his contributions to the knowledge of the ionosphere, which led to the development of radar.
+
+From 1949 until his death in 1965, Appleton was Principal and Vice-Chancellor of the University of Edinburgh. In 1956, the BBC invited him to deliver the annual Reith Lectures. Across a series of six radio broadcasts, titled Science and the Nation, he explored the many facets of scientific activity in Britain at the time.
+
+Sir Edward is buried in Edinburgh's Morningside Cemetery with his wife Helen Lennie (d. 1983). The grave lies towards the extreme western side near the new housing to the north-west.
+
+Works
+
+Appleton had observed that the strength of the radio signal from a transmitter on a frequency such as the medium wave band and over a path of a hundred miles or so was constant during the day but that it varied during the night. This led him to believe that it was possible that two radio signals were being received. One was travelling along the ground, and another was reflected by a layer in the upper atmosphere. The fading or variation in strength of the overall radio signal received resulted from the interference pattern of the two signals.
+
+The existence of a reflecting atmospheric layer was not in itself a completely new idea. Balfour Stewart had suggested the idea in the late 19th century to explain rhythmic changes in the earth’s magnetic field. More recently, in 1902, Oliver Heaviside and Arthur E. Kennelly had suggested such a electromagnetic-reflecting stratum, now called the Kennelly-Heaviside layer, may explain the success Marconi had in transmitting his signals across the Atlantic. Calculations had shown that natural bending of the radio waves was not sufficient to stop them from simply “shooting off” into empty space before they reached the receiver.
+
+Appleton thought the best place to look for evidence of the ionosphere was in the variations he believed it was causing around sunset in radio signal receptions. It was sensible to suggest these variations were due to the interference of two waves but an extra step to show that the second wave causing the interference (the first being the ground wave) was coming down from the ionosphere. The experiment he designed had two methods to show ionospheric influence and both allowed the height of the lower boundary of reflection (thus the lower boundary of the reflecting layer) to be determined. The first method was called frequency modulation and the second was to calculate the angle of arrival of the reflected signal at the receiving aerial.
+
+The frequency modulation method exploits the fact that there is a path difference between the ground wave and the reflected wave, meaning they travel different distances from sender to receiver.
+
+Let the distance AC travelled by the ground wave be h and the distance ABC travelled by the reflected wave h’. The path difference is:
+
+The wavelength of the transmitted signal is λ. The number of wavelengths difference between the paths h and h’ is:
+
+If N is an integer number, then constructive interference will occur, this means a maximum signal will be achieved at the receiving end. If N is an odd integer number of half wavelengths, then destructive interference will occur and a minimum signal will be received. Let us assume we are receiving a maximum signal for a given wavelength λ. If we start to change λ, this is the process called frequency modulation, N will no longer be a whole number and destructive interference will start to occur, meaning the signal will start to fade. Now we keep changing λ until a maximum signal is once again received. The means that for our new value λ’, our new value N’ is also an integer number. If we have lengthened λ then we know that N’ is one less than N. Thus:
+
+Rearranging for D gives:
+
+As we know λ and λ’, we can calculate D. Using the approximation that ABC is an isosceles triangle, we can use our value of D to calculate the height of the reflecting layer. This method is a slightly simplified version of the method used by Appleton and his colleagues to work out a first value for the height of the ionosphere in 1924. In their experiment, they used the BBC broadcasting station in Bournemouth to vary the wavelengths of its emissions after the evening programmes had finished. They installed a receiving station in Oxford to monitor the interference effects. The receiving station had to be in Oxford as there was no suitable emitter at the right distance of about 62 miles (100 km) from Cambridge in those days.
+
+This frequency modulation method revealed that the point from which waves were being reflected was approximately 56 miles (90 km). However, it did not establish that the waves were reflected from above, indeed they may have been coming from hills somewhere between Oxford and Bournemouth. The second method, which involved finding the angle of incidence of the reflected waves at the receiver, showed for sure that they were coming from above. Triangulations from this angle gave results for the height of reflection compatible with the frequency modulation method. We will not go into this method in detail because it involves fairly complex calculations using Maxwell’s electromagnetic theory.
+
+Far from being conclusive, the success of the Oxford-Bournemouth experiment revealed a vast new field of study to be explored. It showed that there was indeed a reflecting layer high above the earth but it also posed many new questions. What was the constitution of this layer, how did it reflect the waves, was it the same all over the earth, why did its effects change so dramatically between day and night, did it change throughout the year? Appleton would spend the rest of his life answering these questions. He developed a magneto-ionic theory based on the previous work of Lorentz and Maxwell to model the workings of this part of the atmosphere. Using this theory and further experiments, he showed that the so-called Kennelly-Heaviside layer was heavily ionised and thus conducting. This led to the term ionosphere. He showed free electrons to be the ionising agents. He discovered that the layer could be penetrated by waves above a certain frequency and that this critical frequency could be used to calculate the electron density in the layer. However these penetrating waves would also be reflected back, but from a much higher layer. This showed the ionosphere had a much more complex structure than first anticipated. The lower level was labelled E – Layer, reflected longer wavelengths and was found to be at approximately 78 miles (125 km). The high level, which had much higher electron density, was labelled F – Layer and could reflect much shorter wavelengths that penetrated the lower layer. It is situated 186 – 248 miles (300 – 400 km) above the earth’s surface. It is this which is often referred to as the Appleton Layer as is responsible for enabling most long range short wave telecommunication.
+
+The magneto-ionic theory also allowed Appleton to explain the origin of the mysterious fadings heard on the radio around sunset. During the day, the light from the sun causes the molecules in the air to become ionised even at fairly low altitudes. At these low altitudes, the density of the air is great and thus the electron density of ionised air is very large. Due to this heavy ionisation, there is strong absorption of electromagnetic waves caused by ‘electron friction’. Thus in transmissions over any distance, there will be no reflections as any waves apart from the one at ground level will be absorbed rather than reflected. However, when the sun sets, the molecules slowly start to recombine with their electrons and the free electron density levels drop. This means absorption rates diminish and waves can be reflected with sufficient strengths to be noticed, leading to the interference phenomena we have mentioned. For these interference patterns to occur though, there must not simply be the presence of a reflected wave but a change in the reflected wave. Otherwise the interference is constant and fadings would not be heard. The received signal would simply be louder or softer than during the day. This suggests the height at which reflection happens must slowly change as the sun sets. Appleton found in fact that it increased as the sun set and then decreased as the sun rose until the reflected wave was too weak to record. This variation is compatible with the theory that ionisation is due to the sun’s influence. At sunset, the intensity of the sun’s radiation will be much less at the surface of the earth than it is high up in the atmosphere. This means ionic recombination will progress slowly from lower altitudes to higher ones and therefore the height at which waves are reflected slowly increases as the sun sets.
+
+The basic idea behind Appleton’s work is so simple that it is hard to understand at first how he devoted almost all of his scientific career to its study. However, in the last couple of paragraphs some of the complexities of the subject have been introduced. Like many other fields, it is one that grows in intricacy the more it is studied. By the end of his life, ionospheric observatories had been set up all over the world to provide a global map of the reflecting layers. Links were found to the 11 year sunspot cycle and the Aurora Borealis, the magnetic storms that occur in high latitudes. This became particularly relevant during the Second World War when the storms would lead to radio blackouts. Thanks to Appleton’s research, the periods when these would occur could be predicted and communication could be switched to wavelengths that would be least affected. Radar, another crucial wartime innovation, was one that came about thanks to Appleton’s work. On a very general level, his research consisted in determining the distance of reflecting objects from radio signal transmitters. This is exactly the idea of radar and the flashing dots that appear on the screen (a cathode ray tube) scanned by the circulating ‘searcher’ bar. This system was developed partly by Appleton as a new method, called the pulse method, to make ionospheric measurements. It was later adapted by Robert Watson-Watt to detect aeroplanes. Nowadays, ionospheric data is important when communications with satellites are considered. The correct frequencies for these signals must be selected so that they actually reach the satellites without being reflected or deviated before.
+
+In 1974 the Radio and Space Research Station was renamed the Appleton Laboratory in honour of the man who had done so much to establish the UK as a leading force in ionospheric research, and had been involved with the station first as a researcher and then as secretary of its parent body, the Department of Scientific and Industrial Research.
+
+Honours and awards
+
+Appleton was awarded the following:
+
+Fellow of the Royal Society (1927)
+
+Foreign Honorary Member of the American Academy of Arts and Sciences (1936)
+
+Nobel Prize in Physics (1947)
+
+Faraday Medal
+
+Hughes Medal
+
+Royal Medal
+
+Chree Medal
+
+In addition the following are named in his honour:
+
+Rutherford Appleton Laboratory
+
+Appleton Medal and Prize
+
+Appleton Suite at Bradford Register Offices
+
+Appleton Tower at the University of Edinburgh
+
+Appleton Science Building at Bradford College
+
+Appleton Academy, a school in the Wyke area of the City of Bradford
+
+Appleton crater on the Moon is named in his honour.
+
+Appleton Layer, which is the higher atmospheric ionised layer above the E-layer
+
+Annual Appleton Lecture at the Institution of Engineering and Technology
+
+Artistic recognition
+
+Appleton's portrait, by William Hutchison hangs in Old College, University of Edinburgh.
+
+See also
+
+Journal of Atmospheric and Terrestrial Physics, founded by Appleton
+
+References
+
+^ Appleton, E. V. (1946). "Two Anomalies in the Ionosphere". Nature. 157 (3995): 691. Bibcode:1946Natur.157..691A. doi:10.1038/157691a0.
+
+^ a b Appleton, EV (1932). "Wireless Studies of the Ionosphere". Journal of the Institution of Electrical Engineers. 71 (430): 642–650. doi:10.1049/jiee-1.1932.0144.
+
+^ a b c Ratcliffe, J. A. (1966). "Edward Victor Appleton 1892–1965". Biographical Memoirs of Fellows of the Royal Society. 12: 1–19. doi:10.1098/rsbm.1966.0001.
+
+^ "Sir Edward Appleton (1892–1965)".
+
+^ "Sir Edward Appleton". Physics Today. 18 (9): 113. 1965. doi:10.1063/1.3047706.
+
+^ http://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp1.pdf
+
+^ "Archived copy" (PDF). Archived from the original (PDF) on 24 December 2018. Retrieved 2 January 2019.CS1 maint: archived copy as title (link)
+
+^ Lister, Derek A J (2004). Bradford's Own. Sutton. ISBN 0-7509-3826-9.
+
+^ University of Edinburgh
+
+^ IEEE Global History Network (2011). "Edward V. Appleton". IEEE History Center. Retrieved 14 July 2011.
+
+^ "Book of Members, 1780–2010: Chapter A" (PDF). American Academy of Arts and Sciences. Retrieved 19 April 2011.
+
+Appleton, EV; Ratcliffe, JA (1929). The Physical Principles of Wireless. Methuen.
+
+IET Appleton lectures
+
+Edward Victor Appleton on Nobelprize.org with the Nobel Lecture, December 12, 1947 The Ionosphere (Citation: Nobel Prize in Physics: 1947, "for his investigations of the physics of the upper atmosphere especially for the discovery of the so-called Appleton layer."
+
+"Sir Edward Victor Appleton (1892–1965): Appleton was an English physicist and Nobel prize winner who discovered the ionosphere." Historic Figures, bbc.co.uk. Accessed 21 October 2007. (Photograph of Appleton c. 1935 ©). 
+
+Science and the Nation The BBC Reith Lectures, 1956, by Edward Appleton
+
+Davis, Chris. "Treasure in the Basement". Backstage Science. Brady Haran.
+
+External links
+
+Newspaper clippings about Edward Victor Appleton in the 20th Century Press Archives of the ZBW
+
+Academic offices
+
+Preceded by
+
+Sir John Fraser
+ Principals of Edinburgh University
+
+1948–1965
+ Succeeded by
+
+Michael Swann
+
+v
+
+t
+
+e
+
+Laureates of the Nobel Prize in Physics
+
+1901–1925 
+1901: Röntgen
+
+1902: Lorentz / Zeeman
+
+1903: Becquerel / P. Curie / M. Curie
+
+1904: Rayleigh
+
+1905: Lenard
+
+1906: J. J. Thomson
+
+1907: Michelson
+
+1908: Lippmann
+
+1909: Marconi / Braun
+
+1910: Van der Waals
+
+1911: Wien
+
+1912: Dalén
+
+1913: Kamerlingh Onnes
+
+1914: Laue
+
+1915: W. L. Bragg / W. H. Bragg
+
+1916
+
+1917: Barkla
+
+1918: Planck
+
+1919: Stark
+
+1920: Guillaume
+
+1921: Einstein
+
+1922: N. Bohr
+
+1923: Millikan
+
+1924: M. Siegbahn
+
+1925: Franck / Hertz
+
+1926–1950 
+1926: Perrin
+
+1927: Compton / C. Wilson
+
+1928: O. Richardson
+
+1929: De Broglie
+
+1930: Raman
+
+1931
+
+1932: Heisenberg
+
+1933: Schrödinger / Dirac
+
+1934
+
+1935: Chadwick
+
+1936: Hess / C. D. Anderson
+
+1937: Davisson / G. P. Thomson
+
+1938: Fermi
+
+1939: Lawrence
+
+1940
+
+1941
+
+1942
+
+1943: Stern
+
+1944: Rabi
+
+1945: Pauli
+
+1946: Bridgman
+
+1947: Appleton
+
+1948: Blackett
+
+1949: Yukawa
+
+1950: Powell
+
+1951–1975 
+1951: Cockcroft / Walton
+
+1952: Bloch / Purcell
+
+1953: Zernike
+
+1954: Born / Bothe
+
+1955: Lamb / Kusch
+
+1956: Shockley / Bardeen / Brattain
+
+1957: C. N. Yang / T. D. Lee
+
+1958: Cherenkov / Frank / Tamm
+
+1959: Segrè / Chamberlain
+
+1960: Glaser
+
+1961: Hofstadter / Mössbauer
+
+1962: Landau
+
+1963: Wigner / Goeppert Mayer / Jensen
+
+1964: Townes / Basov / Prokhorov
+
+1965: Tomonaga / Schwinger / Feynman
+
+1966: Kastler
+
+1967: Bethe
+
+1968: Alvarez
+
+1969: Gell-Mann
+
+1970: Alfvén / Néel
+
+1971: Gabor
+
+1972: Bardeen / Cooper / Schrieffer
+
+1973: Esaki / Giaever / Josephson
+
+1974: Ryle / Hewish
+
+1975: A. Bohr / Mottelson / Rainwater
+
+1976–2000 
+1976: Richter / Ting
+
+1977: P. W. Anderson / Mott / Van Vleck
+
+1978: Kapitsa / Penzias / R. Wilson
+
+1979: Glashow / Salam / Weinberg
+
+1980: Cronin / Fitch
+
+1981: Bloembergen / Schawlow / K. Siegbahn
+
+1982: K. Wilson
+
+1983: Chandrasekhar / Fowler
+
+1984: Rubbia / Van der Meer
+
+1985: von Klitzing
+
+1986: Ruska / Binnig / Rohrer
+
+1987: Bednorz / Müller
+
+1988: Lederman / Schwartz / Steinberger
+
+1989: Ramsey / Dehmelt / Paul
+
+1990: Friedman / Kendall / R. Taylor
+
+1991: de Gennes
+
+1992: Charpak
+
+1993: Hulse / J. Taylor
+
+1994: Brockhouse / Shull
+
+1995: Perl / Reines
+
+1996: D. Lee / Osheroff / R. Richardson
+
+1997: Chu / Cohen-Tannoudji / Phillips
+
+1998: Laughlin / Störmer / Tsui
+
+1999: 't Hooft / Veltman
+
+2000: Alferov / Kroemer / Kilby
+
+2001–
+
+present 
+2001: Cornell / Ketterle / Wieman
+
+2002: Davis / Koshiba / Giacconi
+
+2003: Abrikosov / Ginzburg / Leggett
+
+2004: Gross / Politzer / Wilczek
+
+2005: Glauber / Hall / Hänsch
+
+2006: Mather / Smoot
+
+2007: Fert / Grünberg
+
+2008: Nambu / Kobayashi / Maskawa
+
+2009: Kao / Boyle / Smith
+
+2010: Geim / Novoselov
+
+2011: Perlmutter / Riess / Schmidt
+
+2012: Wineland / Haroche
+
+2013: Englert / Higgs
+
+2014: Akasaki / Amano / Nakamura
+
+2015: Kajita / McDonald
+
+2016: Thouless / Haldane / Kosterlitz
+
+2017: Weiss / Barish / Thorne
+
+2018: Ashkin / Mourou / Strickland
+
+2019: Peebles / Mayor / Queloz
+
+v
+
+t
+
+e
+
+1947 Nobel Prize laureates
+
+Chemistry 
+Robert Robinson (Great Britain)
+
+Literature 
+André Gide (France)
+
+Peace 
+Friends Service Council (Great Britain)
+
+American Friends Service Committee (United States)
+
+Physics 
+Edward Victor Appleton (Great Britain)
+
+Physiology or Medicine 
+Carl Ferdinand Cori (United States)
+
+Gerty Cori (United States)
+
+Bernardo Houssay (Argentina)
+
+Nobel Prize recipients
+
+1990
+
+91
+
+92
+
+93
+
+94
+
+95
+
+96
+
+97
+
+98
+
+99
+
+2000
+
+01
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+v
+
+t
+
+e
+
+IEEE Medal of Honor
+
+1951–1975 
+Vladimir K. Zworykin (1951)
+
+Walter R. G. Baker (1952)
+
+John M. Miller (1953)
+
+William L. Everitt (1954)
+
+Harald T. Friis (1955)
+
+John V. L. Hogan (1956)
+
+Julius Adams Stratton (1957)
+
+Albert W. Hull (1958)
+
+Emory Leon Chaffee (1959)
+
+Harry Nyquist (1960)
+
+Ernst Guillemin (1961)
+
+Edward Victor Appleton (1962)
+
+George C. Southworth (1963)
+
+John Hays Hammond Jr. (1963)
+
+Harold Alden Wheeler (1964)
+
+Claude Shannon (1966)
+
+Charles H. Townes (1967)
+
+Gordon Kidd Teal (1968)
+
+Edward Ginzton (1969)
+
+Dennis Gabor (1970)
+
+John Bardeen (1971)
+
+Jay Wright Forrester (1972)
+
+Rudolf Kompfner (1973)
+
+Rudolf E. Kálmán (1974)
+
+John R. Pierce (1975)
+
+Authority control 
+BNF: cb16449974q (data)
+
+GND: 118645498
+
+ISNI: 0000 0001 0973 8499
+
+LCCN: n83194663
+
+MGP: 112651
+
+NKC: ola2002146922
+
+NLI: 000010967
+
+NTA: 071622004
+
+SNAC: w6qv3p45
+
+SUDOC: 083853308
+
+Trove: 560027
+
+VIAF: 54941774
+
+ WorldCat Identities: lccn-n83194663

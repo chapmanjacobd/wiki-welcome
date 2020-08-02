@@ -1,0 +1,589 @@
+"Order of mammals
+
+For the plant genus, see Proboscidea (plant).
+
+Proboscidea
+
+Temporal range: Middle Paleocene-Holocene 60.0–0 Ma 
+PreꞒ
+
+Ꞓ
+
+O
+
+S
+
+D
+
+C
+
+P
+
+T
+
+J
+
+K
+
+Pg
+
+N
+
+African bush elephant, Loxodonta africana
+
+Scientific classification 
+
+Kingdom:
+ Animalia
+
+Phylum:
+ Chordata
+
+Class:
+ Mammalia
+
+Clade:
+ Tethytheria
+
+Order:
+ Proboscidea
+
+Illiger, 1811
+
+Subclades
+
+†Eritherium
+
+†Moeritherium
+
+†Saloumia
+
+†Plesielephantiformes
+
+Elephantiformes
+
+The Proboscidea (from the Greek προβοσκίς and the Latin proboscis) are a taxonomic order of afrotherian mammals containing one living family (Elephantidae) and several extinct families. This order, first described by J. Illiger in 1811, encompasses the trunked mammals. In addition to their enormous size, later proboscideans are distinguished by tusks and long, muscular trunks; these features were less developed or absent in the smaller early proboscideans. Beginning in the mid-Miocene, most members of this order were very large animals. The largest land mammal today is the African elephant weighing up to 10.4 tonnes with a shoulder height of up to 4 m (13.1 ft). The largest land mammal of all time may have also been a proboscidean: Palaeoloxodon namadicus, which may have weighed up to 22 t (24.3 short tons) with a shoulder height up to 5.2 m (17.1 ft), surpassing several sauropod dinosaurs (in height).
+
+The earliest known proboscidean is Eritherium, followed by Phosphatherium, a small animal about the size of a fox. These both date from late Paleocene deposits of Morocco.
+
+Woolly mammoth and American mastodon
+
+Proboscideans evolved in Africa, where they increased in size and diversity during the Eocene and early Oligocene. Several primitive families from these epochs have been described, including the Numidotheriidae, Moeritheriidae, and Barytheriidae, all found exclusively in Africa. The Anthracobunidae from the Indian subcontinent were also believed to be a family of proboscideans, but were excluded from the Proboscidea by Shoshani and Tassy (2005) and have more recently been assigned to the Perissodactyla. When Africa became connected to Europe and Asia after the shrinking of the Tethys Sea, proboscideans began to migrate into Eurasia, and some families eventually reached the Americas. Proboscideans found in Eurasia in addition to Africa include the Deinotheriidae, which thrived during the Miocene and into the early Quaternary, Stegolophodon, an early genus of the disputed family Stegodontidae; the diverse family of Gomphotheriidae, such as Platybelodon and Amebelodon; and the Mammutidae, or mastodons.
+
+Most families of the Proboscidea are now extinct, including all proboscideans that lived in the Americas, Europe, and northern Asia. Many of these extinctions occurred during or shortly after the last glacial period. Recently extinct species include the last examples of gomphotheres in the Americas, the American mastodon of family Mammutidae in North America, numerous stegodonts once found in Asia, the last of the mammoths throughout the Northern Hemisphere, and several species of dwarf elephants found on various islands scattered around the world.
+
+Classification
+
+Below is the current taxonomy of the proboscidean genera as of 2019.
+
+Proboscidea Illiger, 1811
+†Eritherium Gheerbrant, 2009
+
+†Moeritherium Andrews, 1901
+
+†Saloumia Tabuce et al., 2019
+
+†Plesielephantiformes Shoshani et al., 2001
+†Numidotheriidae Shoshani & Tassy, 1992
+†Phosphatherium Gheerbrant et al., 1996
+
+†Arcanotherium Delmer, 2009
+
+†Daouitherium Gheerbrant & Sudre, 2002
+
+†Numidotherium Mahboubi et al., 1986
+
+†Barytheriidae Andrews, 1906
+†Omanitherium Seiffert et al., 2012
+
+†Barytherium Andrews, 1901
+
+†Deinotheriidae Bonaparte, 1845
+†Chilgatherium Sanders et al., 2004
+
+†Prodeinotherium Ehik, 1930
+
+†Deinotherium Kaup, 1829
+
+Elephantiformes Tassy, 1988
+†Eritreum Shoshani et al., 2006
+
+†Hemimastodon Pilgrim, 1912
+
+†Palaeomastodon Andrews, 1901
+
+†Phiomia Andrews & Beadnell, 1902
+
+Elephantimorpha Tassy & Shoshani, 1997
+†Mammutidae Hay, 1922
+†Losodokodon Rasmussen & Gutierrez, 2009
+
+†Eozygodon Tassy & Pickford, 1983
+
+†Zygolophodon Vacek, 1877
+
+†Sinomammut Mothé et al., 2016
+
+†Mammut Blumenbach, 1799
+
+Elephantida Tassy & Shoshani, 1997
+†Choerolophodontidae Gaziry, 1976
+†Afrochoerodon Pickford, 2001
+
+†Choerolophodon Schlesinger, 1917
+
+†Amebelodontidae Barbour, 1927
+†Afromastodon Pickford, 2003
+
+†Progomphotherium Pickford, 2003
+
+†Eurybelodon Lambert, 2016
+
+†Serbelodon Frick, 1933
+
+†Archaeobelodon Tassy, 1984
+
+†Protanancus Arambourg, 1945
+
+†Amebelodon Barbour, 1927
+
+†Konobelodon Lambert, 1990
+
+†Torynobelodon Barbour, 1929
+
+†Aphanobelodon Wang et al., 2016
+
+†Platybelodon Borissiak, 1928
+
+†Gomphotheriidae Hay, 1922
+†Gomphotherium Burmeister, 1837
+
+†Blancotherium May, 2019
+
+†Gnathabelodon Barbour & Sternberg, 1935
+
+†Eubelodon Barbour, 1914
+
+†Stegomastodon Pohlig, 1912
+
+†Sinomastodon Tobien et al., 1986
+
+†Notiomastodon Cabrera, 1929
+
+†Rhynchotherium Falconer, 1868
+
+†Cuvieronius Osborn, 1923
+
+Elephantoidea Gray, 1821
+†Anancidae Hay, 1922
+†Anancus Aymard, 1855
+
+†Morrillia Osborn, 1924
+
+†Paratetralophodon Tassy, 1983
+
+†Pediolophodon Lambert, 2007
+
+†Tetralophodon Falconer, 1857
+
+†Stegodontidae Osborn, 1918
+†Stegolophodon Schlesinger, 1917
+
+†Stegodon Falconer, 1857
+
+Elephantidae Gray, 1821
+†Stegotetrabelodontinae Aguirre, 1969
+†Stegodibelodon Coppens, 1972
+
+†Stegotetrabelodon Petrocchi, 1941
+
+†Selenotherium Mackaye, Brunet & Tassy, 2005
+
+Elephantinae Gray, 1821
+†Primelephas Maglio, 1970
+
+Loxodonta Anonymous, 1827
+
+†Palaeoloxodon Matsumoto, 1924
+
+†Mammuthus Brookes, 1828
+
+Elephas Linnaeus, 1758
+
+References
+
+^ Illiger, Johann Karl Wilhelm (1811). Prodromus Systematis Mammalium et Avium: Additis Terminis Zoographicis Utriusque Classis, Eorumque Versione Germanica. Berolini: Sumptibus C. Salfeld. p. 62.
+
+^ Larramendi, A. (2016). "Shoulder height, body mass and shape of proboscideans" (PDF). Acta Palaeontologica Polonica. 61. doi:10.4202/app.00136.2014.
+
+^ Gheerbrant, E. (2009). "Paleocene emergence of elephant relatives and the rapid radiation of African ungulates". Proceedings of the National Academy of Sciences. 106 (26): 10717–10721. doi:10.1073/pnas.0900251106. PMC 2705600. PMID 19549873.
+
+^ Gheebrant, Emmanuel (1996). "A Palaeocene proboscidean from Morocco". Nature. 383 (6595): 68–70. doi:10.1038/383068a0.
+
+^ a b Shoshani, Jeheskel; Pascal Tassy (2005). "Advances in proboscidean taxonomy & classification, anatomy & physiology, and ecology & behavior". Quaternary International. 126–128: 5–20. doi:10.1016/j.quaint.2004.04.011.
+
+^ Cooper, L. N.; Seiffert, E. R.; Clementz, M.; Madar, S. I.; Bajpai, S.; Hussain, S. T.; Thewissen, J. G. M. (8 October 2014). "Anthracobunids from the Middle Eocene of India and Pakistan Are Stem Perissodactyls". PLoS ONE. 9 (10): e109232. doi:10.1371/journal.pone.0109232. PMC 4189980. PMID 25295875.CS1 maint: ref=harv (link)
+
+^ Bjorn Kurten, Elaine Anderson (17 May 2005). Pleistocene mammals of North America - Google Books. Google Book Search. ISBN 9780231516969. Retrieved 1 July 2009.
+
+^ Wang, Shi-Qi; Deng, Tao; Ye, Jie; He, Wen; Chen, Shan-Qin (2017). "Morphological and ecological diversity of Amebelodontidae (Proboscidea, Mammalia) revealed by a Miocene fossil accumulation of an upper-tuskless proboscidean". Journal of Systematic Palaeontology. 15 (8): 601–615. doi:10.1080/14772019.2016.1208687.
+
+^ Mothé, Dimila; Ferretti, Marco P.; Avilla, Leonardo S. (12 January 2016). "The Dance of Tusks: Rediscovery of Lower Incisors in the Pan-American Proboscidean Cuvieronius hyodon Revises Incisor Evolution in Elephantimorpha". PLOS ONE. 11: e0147009. doi:10.1371/journal.pone.0147009. PMC 4710528. PMID 26756209.
+
+^ Tabuce, Rodolphe; Sarr, Raphaël; Adnet, Sylvain; Lebrun, Renaud; Lihoreau, Fabrice; Martin, Jeremy; Sambou, Bernard; Thiam, Mustapha; Hautier, Lionel (2019). "Filling a gap in the proboscidean fossil record: a new genus from the Lutetian of Senegal". Journal of Paleontology. doi:10.1017/jpa.2019.98.
+
+Bibliography
+
+Ronald M. Nowak (1999), Walker's Mammals of the World (6th ed.), Baltimore: Johns Hopkins University Press, ISBN 978-0-8018-5789-8, LCCN 98023686
+
+ Wikimedia Commons has media related to Proboscidea.
+
+ Wikispecies has information related to Proboscidea
+
+ The Wikibook Dichotomous Key has a page on the topic of: Proboscidea
+
+ Look up Proboscidea in Wiktionary, the free dictionary.
+
+v
+
+t
+
+e
+
+Extant mammal orders
+
+Kingdom Animalia
+
+Phylum Chordata
+
+Subphylum Vertebrata
+
+(unranked) Amniota
+
+Yinotheria
+
+Australosphenida 
+Monotremata (Platypus and echidnas)
+
+Theria
+
+Metatheria
+
+(Marsupial inclusive)
+
+Ameridelphia 
+Paucituberculata (Shrew opossums)
+
+Didelphimorphia (Opossums)
+
+Australidelphia 
+Microbiotheria (Monito del monte)
+
+Notoryctemorphia (Marsupial moles)
+
+Dasyuromorphia (Quolls and dunnarts)
+
+Peramelemorphia (Bilbies and bandicoots)
+
+Diprotodontia (Kangaroos and relatives)
+
+Eutheria
+
+(Placental inclusive)
+
+Xenarthra 
+Cingulata (Armadillos)
+
+Pilosa (Anteaters and sloths)
+
+Afrotheria 
+Afrosoricida (Tenrecs and golden moles)
+
+Macroscelidea (Elephant shrews)
+
+Tubulidentata (Aardvark)
+
+Hyracoidea (Hyraxes)
+
+Proboscidea (Elephants)
+
+Sirenia (Dugongs and manatees)
+
+Boreoeutheria
+
+Laurasiatheria 
+Eulipotyphla (Hedgehogs, shrews, moles and relatives)
+
+Chiroptera (Bats)
+
+Pholidota (Pangolins)
+
+Carnivora (Dogs, cats and relatives)
+
+Perissodactyla (Horses, rhinoceroses and tapirs)
+
+Artiodactyla (Pigs, camels, hippos, deer, buffalo, gazelles, giraffes, whales and dolphins)
+
+Euarchontoglires 
+Rodentia (Rats, guinea pigs, squirrels, beavers, chinchillas, porcupines, capybaras and relatives)
+
+Lagomorpha (Rabbits and pikas)
+
+Scandentia (Treeshrews)
+
+Dermoptera (Colugos)
+
+Primates (lorises, tarsiers, lemurs, monkeys, apes, humans)
+
+v
+
+t
+
+e
+
+Genera of Order Proboscidea
+
+Kingdom: Animalia
+
+Phylum: Chordata
+
+Class: Mammalia
+
+Superorder: Afrotheria
+
+Clade: Paenungulata
+
+†Basal proboscideans 
+†Eritherium
+
+†Moeritherium
+
+†Saloumia
+
+†Plesielephantiformes
+
+†Numidotheriidae
+
+†Phosphatherium
+
+†Arcanotherium
+
+†Daouitherium
+
+†Numidotherium
+
+†Barytheriidae
+
+†Omanitherium
+
+†Barytherium
+
+†Deinotheriidae
+
+†Chilgatherium
+
+†Prodeinotherium
+
+†Deinotherium
+
+Elephantiformes
+
+†Basal elephantiforms
+
+†Eritreum
+
+†Hemimastodon
+
+†Palaeomastodon
+
+†Phiomia
+
+Elephantimorpha
+
+†Mammutidae
+
+†Losodokodon
+
+†Eozygodon
+
+†Zygolophodon
+
+†Sinomammut
+
+†Mammut
+
+Elephantida
+
+†Choerolophodontidae
+
+†Afrochoerodon
+
+†Choerolophodon
+
+†Amebelodontidae
+
+†Afromastodon
+
+†Progomphotherium
+
+†Eurybelodon
+
+†Serbelodon
+
+†Archaeobelodon
+
+†Protanancus
+
+†Amebelodon
+
+†Konobelodon
+
+†Torynobelodon
+
+†Aphanobelodon
+
+†Platybelodon
+
+†Gomphotheriidae
+
+†Gomphotherium
+
+†Gnathabelodon
+
+†Eubelodon
+
+†Stegomastodon
+
+†Sinomastodon
+
+†Notiomastodon
+
+†Rhynchotherium
+
+†Cuvieronius
+
+†Blancotherium
+
+Elephantoidea
+
+†Anancidae
+
+†Anancus
+
+†Morrillia
+
+†Paratetralophodon
+
+†Pediolophodon
+
+†Tetralophodon
+
+†Stegodontidae
+
+†Stegolophodon
+
+†Stegodon
+
+Elephantidae
+
+†Stegotetrabelodontinae
+
+†Stegodibelodon
+
+†Stegotetrabelodon
+
+†Selenotherium
+
+Elephantinae
+
+(Elephants and Mammoths)
+
+†Primelephas
+
+Loxodonta
+
+†Palaeoloxodon
+
+†Mammuthus
+
+Elephas
+
+v
+
+t
+
+e
+
+Extant Proboscidea species by family
+
+Kingdom Animalia
+
+Phylum Chordata
+
+Class Mammalia
+
+Infraclass Eutheria
+
+Superorder Afrotheria
+
+Elephantidae
+
+(Elephants)
+
+Elephas 
+Asian elephant (Elephas maximus)
+
+Borneo elephant (Elephas maximus borneensis)
+
+Indian elephant (Elephas maximus indicus)
+
+Sri Lankan elephant (Elephas maximus maximus)
+
+Sumatran elephant (Elephas maximus sumatranus)
+
+Loxodonta
+
+(African elephants) 
+African bush elephant (L. africana)
+
+African forest elephant (L. cyclotis)
+
+Category
+
+Taxon identifiers 
+Wikidata: Q26308
+
+Wikispecies: Proboscidea
+
+ADW: Proboscidea
+
+BioLib: 32485
+
+EoL: 1643
+
+EPPO: 1PROBO
+
+Fossilworks: 105150
+
+GBIF: 799
+
+iNaturalist: 72318
+
+IRMNG: 10159
+
+ITIS: 180674
+
+MSW: 11500001
+
+NBN: NHMSYS0000377143
+
+NCBI: 9779
+
+uBio: 4187075
+
+Authority control 
+GND: 4309738-8
+
+LCCN: sh85107115
+
+NDL: 00577242
