@@ -1,5 +1,7 @@
 # wiki-welcome
 
+![](preview.webm)
+
 A welcome banner for your shell which selects a few lines from a random Wikipedia article.
 
 I included some 800 random Level-5 Vital Wikipedia articles so the topics won't be too unimportant.
