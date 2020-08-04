@@ -4,7 +4,7 @@
 
 A welcome banner for your shell which selects a few lines from a random Wikipedia article.
 
-I included some 800 random Level-5 Vital Wikipedia articles so the topics won't be too unimportant.
+I include all [Level-5 Vital Wikipedia articles](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles/Level/5) so the topics won't be unimportant.
 
 ## To install:
 
@@ -34,4 +34,4 @@ shuf -n7 ~/bin/wiki-welcome/articles/$article | cowthink -W 78 -f tux
 This repo uses material from Wikipedia, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>. Respective authorship can be found on the page of each article.
 
 
-PRs are welcome--except for adding more wikipedia articles. I can add all Level-5 Vital articles just fine but it is over 1GB so...
+PRs are welcome. Originally I only had a random 800 articles but following a tip from `@_WaylonWalker` I found that I could include all 32,000 articles if I only include the top 500 words. Originally this would have required 1300MB which is far too big but now it is only 139MB.
