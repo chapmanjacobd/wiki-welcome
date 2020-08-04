@@ -1,0 +1,5 @@
+"Polymer of tubulin that forms part of the cytoskeleton
+
+Microtubule and tubulin metrics
+
+Microtubules are polymers of tubulin that form part of the cytoskeleton and provide structure and shape to eukaryotic cells. Microtubules can grow as long as 50 micrometres and are highly dynamic. The outer diameter of a microtubule is between 23 and 27 nm while the inner diameter is between 11 and 15 nm. They are formed by the polymerization of a dimer of two globular proteins, alpha and beta tubulin into 

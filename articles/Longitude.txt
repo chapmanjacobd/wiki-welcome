@@ -1,0 +1,5 @@
+"For Dava Sobel's book about John Harrison, see Longitude (book). For the adaptation of Sobel's book, see Longitude (TV series). For other uses, see Longitude (disambiguation).
+
+geographic coordinate that specifies the east-west position of a point on the Earth's surface
+
+A graticule on the Earth as a sphere or an ellipsoid. The lines from pole to pole are lines of constant longitude, or meridians. The circles parallel to the Equator are circles of constant latitude, or parallels. The graticule 

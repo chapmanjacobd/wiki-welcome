@@ -1,0 +1,3 @@
+"This article is about electronic speech processing. For speech processing in the human brain, see Language processing in the brain.
+
+Speech processing is the study of speech signals and the processing methods of signals. The signals are usually processed in a digital representation, so speech processing can be regarded as a special case of digital signal processing, applied to speech signals. Aspects of speech processing includes the acquisition, manipulation, storage, transfer and output of sp

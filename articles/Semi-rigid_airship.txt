@@ -1,0 +1,5 @@
+"Lighter-than-air aircraft
+
+Internal structure of semi-rigid airship
+
+A semi-rigid airship is an airship which has a stiff keel or truss supporting the main envelope along its length. The keel may be partially flexible or articulated and may be located inside or outside the main envelope. The outer shape of the airship is maintained by gas pressure, as with the non-rigid "blimp". Semi-rigid dirigibles were built in significant quantity from the late 19th century but in the late 1930s they fell o

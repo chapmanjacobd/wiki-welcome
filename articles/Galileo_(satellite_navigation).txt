@@ -1,0 +1,37 @@
+Global navigation satellite system
+
+Galileo
+
+Country/ies of origin European Union
+
+Operator(s) GSA, ESA
+
+Type Civilian, commercial
+
+Status Initial services
+
+Coverage Global
+
+Accuracy 1 metre (public)
+
+1 cm (encrypted)
+
+Constellation size
+
+Total satellites 30
+
+Satellites in orbit 22 usable, 2 testing only, 2 unavailable, and 2 retired (2/2020)
+
+First launch 2011
+
+Total launches 28
+
+Orbital characteristics
+
+Regime(s) 3 × MEO planes
+
+Orbital height 23,222 km (14,429 mi)
+
+Other details
+
+Cost €10b

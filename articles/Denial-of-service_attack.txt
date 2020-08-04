@@ -1,0 +1,7 @@
+"Cyber attack disrupting service by overloading the provider of the service
+
+"DoS" redirects here. For the family of computer operating systems, see DOS. For the United States federal executive department, see United States Department of State. For other uses, see DOS (disambiguation).
+
+DDoS Stacheldraht attack diagram.
+
+In computing, a denial-of-service attack (DoS attack) is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by

@@ -1,0 +1,50 @@
+"chemistry of marine environments
+
+Total Molar Composition of Seawater (Salinity = 35)
+ComponentConcentration (mol/kg)
+
+H
+
+2O 53.6
+
+Cl−
+
+0.546
+
+Na+
+
+0.469
+
+Mg2+
+
+0.0528
+
+SO2−
+
+4 0.0282
+
+Ca2+
+
+0.0103
+
+K+
+
+0.0102
+
+CT 0.00206
+
+Br−
+
+0.000844
+
+BT (total boron) 0.000416
+
+Sr2+
+
+0.000091
+
+F−
+
+0.000068
+
+Ocean chemistry, also known as marine chemistry, is influenced by plate tectonics and seafloor spreading, turbidity currents, sediments, pH levels, atmospheric constituents, metamorphic activity, 

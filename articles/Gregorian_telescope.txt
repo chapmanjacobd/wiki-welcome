@@ -1,0 +1,3 @@
+Diagram of the lightpath through a Gregorian telescope.
+
+The Gregorian telescope is a type of reflecting telescope designed by Scottish mathematician and astronomer James Gregory in the 17th century, and first built in 1673 by Robert Hooke. James Gregory was a contemporary of Isaac Newton. Both often worked simultaneously on similar projects. Gregory's design was published in 1663 and pre-dates the first practical reflecting telescope, the Newtonian telescope, built by Sir Isaac Newton in 1668. 

@@ -1,0 +1,31 @@
+"Andalusite
+
+Andalusite, Tyrol Austria.
+
+General
+
+Category Nesosilicates
+
+Formula
+
+(repeating unit) Al2SiO5
+
+Strunz classification 9.AF.10
+
+Crystal system Orthorhombic
+
+Crystal class Dipyramidal (mmm)
+
+H-M symbol: (2/m 2/m 2/m)
+
+Space group Pnnm
+
+Unit cell a = 7.7980 Å, b = 7.9031 Å
+
+c = 5.5566 Å; Z = 4
+
+Identification
+
+Color Pink, violet, yellow, green, white, gray; in thin section, colorless to pink or green
+
+Crystal habit As euhedral crystals or columnar aggregates having nearly square cro

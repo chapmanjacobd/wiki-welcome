@@ -1,0 +1,3 @@
+"In computer science, formal specifications are mathematically based techniques whose purpose are to help with the implementation of systems and software. They are used to describe a system, to analyze its behavior, and to aid in its design by verifying key properties of interest through rigorous and effective reasoning tools. These specifications are formal in the sense that they have a syntax, their semantics fall within one domain, and they are able to be used to infer useful information.
+
+Co

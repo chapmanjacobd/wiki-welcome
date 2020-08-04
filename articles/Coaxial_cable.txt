@@ -1,0 +1,13 @@
+"Electrical cable type with concentric inner conductor, insulator, and conducting shield
+
+"Coax" redirects here. For the act of coaxing, see Persuasion.
+
+RG-59 flexible coaxial cable composed of:Outer plastic sheath
+
+Woven copper shield
+
+Inner dielectric insulator
+
+Copper core
+
+Coaxial cable, or coax (pronounced /ˈkoʊ.æks/) is a type of electrical cable consisting of an inner conductor surrounded by a concentric conducting shield, with the two separated by a dielectric (insulating material); 

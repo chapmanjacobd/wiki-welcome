@@ -1,0 +1,65 @@
+Valine
+ 
+Names
+
+IUPAC name
+Valine
+
+Other names
+2-Amino-3-methylbutanoic acid
+
+Identifiers
+
+CAS Number
+
+ 516-06-3 Y
+
+72-18-4 (L-isomer) Y
+
+640-68-6 (D-isomer) Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+ChEBI
+ CHEBI:57762 Y
+
+ChEMBL
+ ChEMBL43068 Y
+
+ChemSpider
+ 6050 Y
+
+DrugBank
+ DB00161 Y
+
+ECHA InfoCard
+ 100.000.703
+
+EC Number
+ 208-220-0
+
+IUPHAR/BPS
+
+ 4794
+
+KEGG
+ D00039 Y
+
+PubChem CID
+
+ 1182
+
+UNII
+ 4CA13A832H Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID40883233
+
+InChI
+
+InChI=1S/C

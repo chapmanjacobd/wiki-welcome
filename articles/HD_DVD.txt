@@ -1,0 +1,33 @@
+"Obsolete optical disc format
+
+HD DVD
+
+Reverse side of a HD DVD
+
+Media type High-density optical disc
+
+Encoding VC-1, H.264, and MPEG-2
+
+Capacity 15 GB (single layer)
+
+30 GB (dual layer)
+
+Read mechanism 405 nm laser:
+
+1× @ 36 Mbit/s & 2× @ 72 Mbit/s
+
+Write mechanism 405 nm laser:
+
+1× @ 36 Mbit/s & 2× @ 72 Mbit/s
+
+Developed by DVD Forum
+
+Toshiba
+
+Usage Data storage, 1080p high-definition video
+
+Extended from DVD-Video
+
+Extended to Blu-ray Disc
+
+Released March 31, 2006; 14 years ago (2006-03-3

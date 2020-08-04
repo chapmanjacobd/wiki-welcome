@@ -1,0 +1,56 @@
+"For other uses, see Aldrin (disambiguation).
+
+Aldrin
+ 
+Names
+
+IUPAC name
+1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene
+
+Other names
+HHDN
+
+octalene
+
+Identifiers
+
+CAS Number
+
+ 309-00-2 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:2564
+
+ChEMBL
+ ChEMBL195953
+
+ChemSpider
+ 10292747 Y
+
+ECHA InfoCard
+ 100.005.652
+
+EC Number
+ 206-215-8
+
+KEGG
+ C07552 Y
+
+PubChem CID
+
+ 2087
+
+RTECS number
+ IO2100000
+
+UNII
+ OZE3CLY605 Y
+
+UN number
+ 2762, 2761
+
+CompTox Dashboard (EPA)

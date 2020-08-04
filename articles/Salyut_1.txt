@@ -1,0 +1,31 @@
+"First space station in Earth orbit
+
+Salyut 1 (DOS-1) Salyut 1 as seen from the departing Soyuz 11
+
+Station statistics
+
+COSPAR ID 1971-032A
+
+SATCAT no. 05160
+
+Call sign Salyut 1
+
+Crew 3
+
+Launch April 19, 1971, 01:40:00 (1971-04-19UTC01:40) UTC
+
+Carrier rocket Proton-K
+
+Launch pad Site 81/24, Baikonur Cosmodrome, Soviet Union
+
+Reentry October 11, 1971 (1971-10-12)
+
+Mission status De-orbited
+
+Mass 18,425 kg (40,620 lb)
+
+Length ~20 m (66 ft)
+
+Diameter ~4 m (13 ft)
+
+Pressurized volume 99 m3 (3,500 c

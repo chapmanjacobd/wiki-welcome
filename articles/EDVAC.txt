@@ -1,0 +1,5 @@
+The EDVAC as installed in Building 328 at the Ballistic Research Laboratory
+
+EDVAC (Electronic Discrete Variable Automatic Computer) was one of the earliest electronic computers. Unlike its predecessor the ENIAC, it was binary rather than decimal, and was designed to be a stored-program computer.
+
+ENIAC inventors John Mauchly and J. Presper Eckert proposed the EDVAC's construction in August 1944. A contract to build the new computer was signed in April 1946 with an initial budget of US$100,000. 

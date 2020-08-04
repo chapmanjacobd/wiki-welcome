@@ -1,0 +1,23 @@
+"Family of lossless compression file formats for image files
+
+Portable Network Graphics 
+
+A PNG image with an 8-bit transparency channel, overlaid onto a checkered background, typically used in graphics software to indicate transparency
+
+Filename extension 
+.png
+
+Internet media type 
+image/png
+
+Type code PNGf
+
+PNG
+
+Uniform Type Identifier (UTI) public.png
+
+Magic number 89 50 4e 47 0d 0a 1a 0a
+
+Developed by PNG Development Group (donated to W3C)
+
+Initial release 1 October 1996; 23 years ago (1996

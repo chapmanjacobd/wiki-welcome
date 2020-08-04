@@ -1,0 +1,59 @@
+"Group of stereoisomers
+
+Methionine
+
+Canonical form of methionine
+
+Names
+
+IUPAC name
+Methionine
+
+Other names
+2-amino-4-(methylthio)butanoic acid
+
+Identifiers
+
+CAS Number
+
+ 59-51-8 Y
+
+63-68-3 (L-isomer) Y
+
+348-67-4 (D-isomer) Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+Abbreviations
+ Met, M
+
+ChEBI
+ CHEBI:16811 Y
+
+ChEMBL
+ ChEMBL42336 N
+
+ChemSpider
+ 853 Y
+
+5907 (L-isomer) Y
+
+ECHA InfoCard
+ 100.000.393
+
+EC Number
+ 200-432-1
+
+KEGG
+ C00073 Y
+
+PubChem CID
+
+ 876
+
+UNII
+ 73JWT2

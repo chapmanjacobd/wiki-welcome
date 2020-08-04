@@ -1,0 +1,31 @@
+"Cosmic Background Explorer Artist's concept of the COBE spacecraft
+
+Names Explorer 66
+
+Mission type CMBR Astronomy
+
+Operator NASA
+
+COSPAR ID 1989-089A
+
+SATCAT no. 20322
+
+Website lambda.gsfc.nasa.gov/product/cobe
+
+Mission duration Final: 4 years, 1 month, 5 days
+
+Spacecraft properties
+
+Manufacturer GSFC
+
+Launch mass 2,270 kg (5,000 lb)
+
+Dry mass 1,408 kg (3,104 lb)
+
+Dimensions 5.49 × 2.44 m (18.0 × 8.0 ft)
+
+Power 542 W
+
+Start of mission
+
+Launch date 18 November 1989, 14:34 (1989-11-18UTC14:34)

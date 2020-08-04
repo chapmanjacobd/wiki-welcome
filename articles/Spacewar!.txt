@@ -1,0 +1,21 @@
+"For other uses, see Spacewar.
+
+1962 space combat video game
+
+Spacewar!
+
+Spacewar! on a PDP-1
+
+Designer(s) Steve Russell
+
+Programmer(s) Steve Russell
+
+Platform(s) PDP-1
+
+Release April 1962
+
+Genre(s) Space combat
+
+Mode(s) Multiplayer
+
+Spacewar! is a space combat video game developed in 1962 by Steve Russell in collaboration with Martin Graetz, Wayne Wiitanen, Bob Saunders, Steve Piner, and others. It was written for the newly installed DEC PDP-1 minicomputer at the Massachusetts Institute of Tech

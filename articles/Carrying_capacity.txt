@@ -1,0 +1,4 @@
+"The maximum population size of the species that the environment can support indefinitely
+
+The carrying capacity of an environment is the maximum population size of a biological species that can be sustained in that specific environment, given the food, habitat, water, and other resources available. 
+In population ecology, carrying capacity is defined as the environment's maximal load, which is different from the concept of population equilibrium, which may be far below an environment's carrying

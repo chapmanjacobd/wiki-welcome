@@ -1,0 +1,43 @@
+"Earthquake that occurred in 1976 in Tangshan, Hebei, China
+
+1976 Tangshan earthquake
+
+唐山大地震
+
+UTC time Doublet earthquake:
+
+A: 1976-07-27 19:42:55
+
+B: 1976-07-28 10:45:36
+
+ISC event
+
+A: 711732
+
+B: 711773
+
+USGS-ANSS
+
+A: ComCat
+
+B: ComCat
+
+Local date 28 July 1976
+
+Local time Peking time:
+
+A: 03:43
+
+B: 18:45
+
+Magnitude
+
+A: 7.6 Mw; 7.6 Ms
+
+B: 7.0 Mw; 7.4 Ms
+
+Depth A: 12.2 km
+
+B: 16.7 km
+
+Epicenter 39°38′N 118°06′E / 39.63°N 118.10°E / 39.63; 118.10 39°43′N 118°26′E / 39.72°N

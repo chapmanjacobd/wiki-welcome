@@ -1,0 +1,19 @@
+"ASCII-compatible variable-width encoding of Unicode, using one to four bytes
+
+UTF-8Standard Unicode Standard
+
+Classification Unicode Transformation Format, extended ASCII, variable-width encoding
+
+Extends US-ASCII
+
+Transforms / Encodes ISO 10646 (Unicode)
+
+Preceded by UTF-1
+
+v
+
+t
+
+e
+
+Use of the main encodings on the web from 2001 to 2012 as recorded by Google, with UTF-8 overtaking all others in 2008 and over 60% of the web in 2012. The ASCII-only figure includes all web pages that only contain

@@ -1,0 +1,21 @@
+"Multi-paradigm (object-oriented) programming language
+
+The correct title of this article is C# (programming language). The substitution of the # is due to technical restrictions.
+
+C#
+
+Paradigm Structured, imperative, object-oriented, event-driven, task-driven, functional, generic, reflective, concurrent
+
+Family C
+
+Designed by Microsoft
+
+Developer Microsoft
+
+First appeared 2000; 20 years ago (2000)
+
+Stable release 8.0
+ / September 23, 2019; 10 months ago (2019-09-23)
+
+Preview release 9.0
+ / May 

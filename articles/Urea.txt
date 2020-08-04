@@ -1,0 +1,57 @@
+Urea
+ 
+Names
+
+Pronunciation
+ urea /jʊəˈriːə/, carbamide /ˈkɑːrbəmaɪd/
+
+Preferred IUPAC name
+Urea
+
+Systematic IUPAC name
+Carbonyl diamide
+
+Other names
+Carbamide
+
+Carbonyldiamide
+
+Carbonyldiamine
+
+Diaminomethanal
+
+Diaminomethanone
+
+Identifiers
+
+CAS Number
+
+ 57-13-6 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Beilstein Reference
+
+ 635724
+
+ChEBI
+ CHEBI:16199 Y
+
+ChEMBL
+ ChEMBL985 Y
+
+ChemSpider
+ 1143 Y
+
+DrugBank
+ DB03904 N
+
+ECHA InfoCard
+ 100.000.286
+
+E number
+ E927b (glazing agents, ...)
+
+Gmel

@@ -1,0 +1,35 @@
+"Tibetan
+
+Type Abugida 
+
+Languages Tibetan, Dzongkha, Ladakhi, Sikkimese, Balti, Sherpa, Yolmo, Tshangla, Sanskrit
+
+Time period
+
+c. 650–present
+
+Parent systems
+
+Proto-Sinaitic scriptPhoenician alphabetAramaic alphabetBrāhmīGuptaTibetan
+
+Child systems
+
+Limbu, Lepcha, ʼPhags-pa
+
+Sister systems
+
+Assamese, Bengali, Tirhuta, Odia
+
+Direction Left-to-right
+
+ISO 15924 Tibt, 330
+
+Unicode alias
+
+Tibetan
+
+Unicode range
+
+U+0F00–U+0FFF
+
+Final Accepted Script Proposal of the First Usable Edition (3.0)

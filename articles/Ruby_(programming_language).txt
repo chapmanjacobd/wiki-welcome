@@ -1,0 +1,21 @@
+"High-level programming language first released in 1995
+
+This article is about the programming language. For other uses, see Ruby (disambiguation).
+
+Not to be confused with Ruby on Rails.
+
+Ruby
+
+Paradigm Multi-paradigm: functional, imperative, object-oriented, reflective
+
+Designed by Yukihiro Matsumoto
+
+Developer Yukihiro Matsumoto, et al.
+
+First appeared 1995; 25 years ago (1995)
+
+Stable release 2.7.1 (March 31, 2020; 3 months ago (2020-03-31)) 
+
+Typing discipline Duck, dynamic, strong
+
+Scope L

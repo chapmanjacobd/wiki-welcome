@@ -1,0 +1,60 @@
+"Amino acid
+
+Not to be confused with Theanine.
+
+Threonine
+ 
+Names
+
+IUPAC name
+Threonine
+
+Other names
+2-Amino-3-hydroxybutanoic acid
+
+Identifiers
+
+CAS Number
+
+ 80-68-2 Y
+
+72-19-5 (L-isomer) N
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+ChEBI
+ CHEBI:57926 Y
+
+ChEMBL
+ ChEMBL291747 Y
+
+ChemSpider
+ 6051 Y
+
+DrugBank
+ DB00156 Y
+
+ECHA InfoCard
+ 100.000.704
+
+EC Number
+ 201-300-6
+
+IUPHAR/BPS
+
+ 4785
+
+PubChem CID
+
+ 6288
+
+UNII
+ 2ZD004190S Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID70893087 DT

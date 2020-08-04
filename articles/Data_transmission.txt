@@ -1,0 +1,5 @@
+"Transfer of data over a point-to-point or point-to-multipoint communication channel
+
+"Data transfer" redirects here. For sharing data between different programs or schemas, see Data exchange.
+
+Data transmission (also data communication or digital communications) is the transfer of data (a digital bitstream or a digitized analog signal) over a point-to-point or point-to-multipoint communication channel. Examples of such channels are copper wires, optical fibers, wireless communication channels, 

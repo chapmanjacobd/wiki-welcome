@@ -1,0 +1,3 @@
+Protein biosynthesis starting with transcription and post-transcriptional modifications in the nucleus. Then the mature mRNA is exported to the cytoplasm where it is translated. The polypeptide chain then folds and is post-translationally modified.
+
+Protein biosynthesis (or protein synthesis) is a core biological process, occurring inside cells, balancing the loss of cellular proteins (via degradation or export) through the production of new proteins. Proteins perform a variety of critical funct

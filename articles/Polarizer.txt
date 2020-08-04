@@ -1,0 +1,7 @@
+"Optical filter device
+
+For the photographic filter, see Polarizing filter (photography).
+
+A polarizing filter cuts down the reflections (top) and made it possible to see the photographer through the glass at roughly Brewster's angle although reflections off the back window of the car are not cut because they are less-strongly polarized, according to the Fresnel equations.
+
+A polarizer or polariser is an optical filter that lets light waves of a specific polarization pass through while blocking 

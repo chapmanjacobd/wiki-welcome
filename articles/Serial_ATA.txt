@@ -1,0 +1,13 @@
+SATA" redirects here. For other uses, see SATA (disambiguation).
+
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (February 2014) (Learn how and when to remove this template message)
+
+Serial ATA (SATA)
+
+Year created 2000
+
+Created by Serial ATA Working Group
+
+Supersedes Parallel ATA (PATA)
+
+Speed 1.5, 3.0

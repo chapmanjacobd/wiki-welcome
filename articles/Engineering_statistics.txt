@@ -1,0 +1,3 @@
+"Analysis of data by combining engineering and statistics
+
+Engineering statistics combines engineering and statistics using scientific methods for analyzing data. Engineering statistics involves data concerning manufacturing processes such as: component dimensions, tolerances, type of material, and fabrication process control. There are many methods used in engineering analysis and they are often displayed as histograms to give a visual of the data as opposed to being just numerical. Examples of

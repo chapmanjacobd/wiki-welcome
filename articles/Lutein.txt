@@ -1,0 +1,51 @@
+Lutein
+ 
+Names
+
+IUPAC name
+β,ε-carotene-3,3'-diol
+
+Other names
+Luteine; trans-lutein; 4-​-​3,5,5-​trimethyl-​cyclohex-​2-​en-​1-​ol
+
+Xanthophyll
+
+Identifiers
+
+CAS Number
+
+ 127-40-2 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:28838 Y
+
+ChEMBL
+ ChEMBL173929 Y
+
+ChemSpider
+ 4444655 Y
+
+ECHA InfoCard
+ 100.004.401
+
+E number
+ E161b (colours)
+
+PubChem CID
+
+ 5281243
+
+UNII
+ X72A60C9MT Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID8046749
+
+InChI
+
+InChI=1S/C40H56O2/c1-29(17-13-19-31(3)21-23-3

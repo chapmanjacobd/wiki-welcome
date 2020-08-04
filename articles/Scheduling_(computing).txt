@@ -1,0 +1,5 @@
+"This article is about scheduling in general. For networks, see Network scheduler. For other uses, see Scheduling (disambiguation).
+
+In computing, scheduling is the method by which work is assigned to resources that complete the work. The work may be virtual computation elements such as threads, processes or data flows, which are in turn scheduled onto hardware resources such as processors, network links or expansion cards.
+
+A scheduler is what carries out the scheduling activity. Schedulers are

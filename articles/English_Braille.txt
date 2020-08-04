@@ -1,0 +1,37 @@
+"English Braille
+
+Grade-2 Braille
+
+British Revised Braille
+
+Type Alphabet (non-linear)
+
+Languages English
+
+Time period
+
+1902
+
+Parent systems
+
+night writingearly brailleFrench BrailleEnglish Braille
+
+Print basis
+
+English alphabet
+
+Child systems
+
+unified international braille
+
+Unified English Braille
+
+Irish Braille
+
+Unicode range
+
+U+2800 to U+283F
+
+Tactile writing system for English
+
+ This article contains Unicode Braille characters. Without proper rendering support, you may see question marks, bo

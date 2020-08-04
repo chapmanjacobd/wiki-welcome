@@ -1,0 +1,30 @@
+"Not to be confused with Actinium.
+
+Family of proteins
+
+Actin
+
+Ribbon diagram of G-actin. ADP bound to actin's active site (multi color sticks near center of figure) as well as a complexed calcium dication (green sphere) are highlighted.
+
+Identifiers
+
+Symbol Actin
+
+Pfam PF00022
+
+InterPro IPR004000
+
+PROSITE PDOC00340
+
+SCOPe 2btf / SUPFAM
+
+Available protein structures:
+
+Pfam
+ structures / ECOD
+
+PDB RCSB PDB; PDBe; PDBj
+
+PDBsum structure summary
+
+Actin is a family of globular multi-functional prote

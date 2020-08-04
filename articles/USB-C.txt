@@ -1,0 +1,26 @@
+"24-pin USB connector system
+
+USB-C 
+Pins of the USB-C connector
+
+Type 
+Digital audio / video / data connector / power
+
+Production history
+
+Designer 
+USB Implementers Forum
+
+Designed 
+11 August 2014 (published)
+
+General specifications
+
+Pins 
+24
+
+USB-C plug (side view)
+
+USB-C (formally known as USB Type-C) is a 24-pin USB connector system with a rotationally symmetrical connector. 
+
+The USB Type-C Specification 1.0 was published by the USB Implementers Forum (USB-IF) and was finalized in August 2

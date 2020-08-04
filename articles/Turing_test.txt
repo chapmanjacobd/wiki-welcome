@@ -1,0 +1,21 @@
+"For other uses, see Turing test (disambiguation).
+
+The "standard interpretation" of the Turing test, in which player C, the interrogator, is given the task of trying to determine which player – A or B – is a computer and which is a human. The interrogator is limited to using the responses to written questions to make the determination.
+
+ Part on a series on
+
+Artificial intelligence
+
+Major goals
+
+Knowledge reasoning
+
+Planning
+
+Machine learning
+
+Natural language processing
+
+Computer vision
+
+R

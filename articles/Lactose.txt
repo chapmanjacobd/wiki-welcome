@@ -1,0 +1,64 @@
+"Chemical compound
+
+Lactose
+ 
+Names
+
+IUPAC name
+β-D-Galactopyranosyl-(1→4)-D-glucose
+
+Other names
+Milk sugar
+
+Lactobiose
+
+4-O-β-D-Galactopyranosyl-D-glucose
+
+Identifiers
+
+CAS Number
+
+ 63-42-3 Y
+
+5965-66-2
+
+3D model (JSmol)
+
+ Interactive image
+
+Beilstein Reference
+
+ 90841
+
+ChEBI
+ CHEBI:36218 Y
+
+ChEMBL
+ ChEMBL417016 Y
+
+ChemSpider
+ 5904 Y
+
+ECHA InfoCard
+ 100.000.509
+
+EC Number
+ 200-559-2
+
+Gmelin Reference
+
+ 342369
+
+KEGG
+ C01970
+
+PubChem CID
+
+ 6134
+
+UNII
+ 3SY5LH9PMK Y
+
+CompTox Dashboard (EPA)
+
+ 

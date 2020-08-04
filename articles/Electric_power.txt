@@ -1,0 +1,7 @@
+"the rate per unit of time at which electrical energy is transferred by an electric circuit
+
+Electric power is transmitted by overhead lines like these, and also through underground high-voltage cables.
+
+Electric power is the rate, per unit time, at which electrical energy is transferred by an electric circuit. The SI unit of power is the watt, one joule per second.
+
+Electric power is usually produced by electric generators, but can also be supplied by sources such as electric batteries. It is u

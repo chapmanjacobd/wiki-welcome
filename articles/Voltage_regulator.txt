@@ -1,0 +1,5 @@
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2019) (Learn how and when to remove this template message)
+
+An integrated circuit voltage regulator
+
+A voltage regulator is a system designed to automatically maintain a constant voltage level. A voltage regulator may use a simple feed-forward design or may include negative feedback. It may us

@@ -1,0 +1,5 @@
+"This article is about an engineering device. For the similarly named concept in computer science, see Finite-state transducer.
+
+A transducer is a device that converts energy from one form to another. Usually a transducer converts a signal in one form of energy to a signal in another.
+
+Transducers are often employed at the boundaries of automation, measurement, and control systems, where electrical signals are converted to and from other physical quantities (energy, force, torque, light, motion,

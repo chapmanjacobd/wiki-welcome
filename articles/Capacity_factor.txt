@@ -1,0 +1,3 @@
+US EIA monthly capacity factors 2011-2013
+
+The net capacity factor is the unitless ratio of an actual electrical energy output over a given period of time to the maximum possible electrical energy output over that period. The capacity factor is defined for any electricity producing installation, such as a fuel consuming power plant or one using renewable energy, such as wind or the sun. The average capacity factor can also be defined for any class of such installations, and can be used to compar

@@ -1,0 +1,7 @@
+"Standardized means of organizing and storing digital images
+
+"Image format" redirects here. For the camera sensor format, see Image sensor format.
+
+This article is about digital image formats used to store photographic and other images. For disk-image file formats, see Disk image. For digital file formats in general, see File format.
+
+Image file formats are standardized means of organizing and storing digital images. An image file format may store data in an uncompressed format, a compressed fo

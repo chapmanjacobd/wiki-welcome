@@ -1,0 +1,17 @@
+"SWAC SWAC. Williams tube memory is in center rear.
+
+Also known as Standards Western Automatic Computer
+
+Manufacturer U.S. National Bureau of Standards (NBS)
+
+Release date 1950; 70 years ago (1950)
+
+Units sold 1
+
+Memory 256 words, with each word being 37 bits (Williams tubes)
+
+SWAC Williams tube memory unit
+
+Memory pattern on SWAC Williams tube CRT
+
+The SWAC (Standards Western Automatic Computer) was an early electronic digital computer built in 1950 by the U.S. National Bureau of Standards (NBS

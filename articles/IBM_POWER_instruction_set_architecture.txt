@@ -1,0 +1,63 @@
+"For the IBM operating system enhancement package, see IBM Power (software). For the processors named POWERn, see IBM POWER microprocessors.
+
+POWER, PowerPC, and Power ISA architectures
+
+NXP (formerly Freescale and Motorola)
+
+PowerPC e series (2006)
+e200
+
+e300
+
+e500
+
+e600
+
+e5500
+
+e6500
+
+Qor series (2008)
+QorIQ
+
+Qorivva
+
+IBM
+
+POWER series (1990)
+POWER1
+
+POWER2
+
+POWER3
+
+POWER4
+
+POWER5
+
+POWER6
+
+POWER7
+
+POWER8
+
+POWER9
+
+POWER10
+
+PowerPC series (1992)
+6xx
+
+4xx
+
+7xx
+
+74xx
+
+970
+
+A2
+
+RS64 (1996)
+
+RAD ser

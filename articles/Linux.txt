@@ -1,0 +1,21 @@
+"This article is about the family of operating systems. For the kernel, see Linux kernel. For other uses, see Linux (disambiguation).
+
+Family of free and open-source software operating systems based on the Linux kernel
+
+Linux Tux the penguin, mascot of Linux
+
+Developer Community
+
+Linus Torvalds
+
+Written in C, Assembly language
+
+OS family Unix-like
+
+Working state Current
+
+Source model Open source
+
+Initial release September 17, 1991; 28 years ago (1991-09-17)
+
+Marketing target Cloud computing, emb

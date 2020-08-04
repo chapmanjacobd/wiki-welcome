@@ -1,0 +1,23 @@
+"Lymph node
+
+Diagram showing major parts of a lymph node.
+
+Lymph nodes form part of the lymphatic system, and are present in most parts of the body, and connected by small lymphatic vessels.
+
+Details
+
+System Lymphatic system, part of the immune system
+
+Identifiers
+
+Latin nodus lymphaticus (singular); nodi lymphatici (plural)
+
+MeSH D008198
+
+TA A13.2.03.001
+
+FMA 5034
+
+Anatomical terminology
+
+A lymph node, or lymph gland is a kidney-shaped organ of the lymphatic system, and the adaptive immune syst

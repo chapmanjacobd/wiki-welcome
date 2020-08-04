@@ -1,0 +1,3 @@
+"This article is about languages that naturally emerge in computer simulations or controlled psychological experiments with humans. For planned or constructed human languages, see constructed language. For formal computer languages, see formal language.
+
+Artificial languages are languages of a typically very limited size which emerge either in computer simulations between artificial agents, robot interactions or controlled psychological experiments with humans. They are different from both const

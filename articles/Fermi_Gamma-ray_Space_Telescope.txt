@@ -1,0 +1,31 @@
+Fermi Gamma-ray Space Telescope
+
+Names Gamma-ray Large Area Space Telescope
+
+Mission type Gamma-ray astronomy
+
+Operator NASA · U.S. Department of Energy
+
+COSPAR ID 2008-029A
+
+SATCAT no. 33053
+
+Website Fermi.GSFC.NASA.gov
+
+Mission duration Planned: 5-10 years
+
+Elapsed: 12 years, 1 month, 15 days
+
+Spacecraft properties
+
+Manufacturer General Dynamics
+
+Launch mass 4,303 kg (9,487 lb)
+
+Dimensions Stowed: 2.8 × 2.5 m (9.2 × 8.2 ft)
+
+Power 1,500 W average
+
+Start of mission
+
+Launch date 11 June 2008,

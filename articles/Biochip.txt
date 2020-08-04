@@ -1,0 +1,3 @@
+Hundreds of gel drops are visible on the biochip.
+
+In molecular biology, biochips are essentially miniaturized laboratories that can perform hundreds or thousands of simultaneous biochemical reactions. Biochips enable researchers to quickly screen large numbers of biological analytes for a variety of purposes, from disease diagnosis to detection of bioterrorism agents. Digital microfluidic biochips have become one of the most promising technologies in many biomedical fields. In a digital microfl

@@ -1,0 +1,4 @@
+"Emulator High-level Language Application Program Interface (EHLLAPI) is an enhanced version of HLLAPI. It was introduced in 1986 by IBM in association with the IBM 3270 PC to provide access from a DOS PC environment to data on an IBM mainframe.
+
+EHLLAPI can be used to determine screen characters, track and send keystrokes, check the host status and perform file transfers. Typically this API was employed for communication with existing mainframe applications without
+the need to modify the applic

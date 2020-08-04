@@ -1,0 +1,3 @@
+GParted is a popular utility used for disk partitioning
+
+Disk partitioning or disk slicing is the creation of one or more regions on secondary storage, so that each region can be managed separately. These regions are called partitions. It is typically the first step of preparing a newly installed disk, before any file system is created. The disk stores the information about the partitions' locations and sizes in an area known as the partition table that the operating system reads before any othe

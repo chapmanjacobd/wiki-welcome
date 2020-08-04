@@ -1,0 +1,9 @@
+"Collection of non-volatile resources used by computer programs, often for software development.
+
+"Software library" redirects here. It is not to be confused with library software.
+
+This article is about a software development concept. For a repository of digital assets, see Digital library.
+
+Illustration of an application which uses libvorbisfile to play an Ogg Vorbis file
+
+In computer science, a library is a collection of non-volatile resources used by computer programs, often for software dev

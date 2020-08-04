@@ -1,0 +1,58 @@
+Program execution
+
+General concepts
+
+Code
+
+Translation
+Compiler
+Compile-time
+
+Optimizing compiler
+
+Intermediate representation (IR)
+
+Execution
+Runtime system
+Runtime
+
+Executable
+
+Interpreter
+
+Virtual machine
+
+Types of code
+
+Source code
+
+Object code
+
+Bytecode
+
+Machine code
+
+Microcode
+
+Compilation strategies
+
+Just-in-time (JIT)
+Tracing just-in-time
+
+Ahead-of-time (AOT)
+
+Transcompilation
+
+Recompilation
+
+Notable runtimes
+
+Android Runtime (ART)
+
+Common Language Runtime (CLR) & Mono
+
+crt0
+
+HHVM
+
+Java 

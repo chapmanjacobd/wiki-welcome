@@ -1,0 +1,3 @@
+GNU Image Manipulation Program (GIMP), version 2.10, a free and open source image editing application
+
+Application software (app for short) is a program or group of programs designed for end users. Examples of an application include a word processor, a spreadsheet, an accounting application, a web browser, an email client, a media player, a file viewer, simulators, a console game or a photo editor. The collective noun application software refers to all applications collectively. This contrasts w

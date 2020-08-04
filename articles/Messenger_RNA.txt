@@ -1,0 +1,7 @@
+"RNA that is read by the ribosome to produce a protein
+
+Not to be confused with Mitochondrial DNA (mtDNA).
+
+The "life cycle" of an mRNA in a eukaryotic cell. RNA is transcribed in the nucleus; after processing, it is transported to the cytoplasm and translated by the ribosome. Finally, the mRNA is degraded.
+
+In molecular biology, messenger RNA (mRNA) is a single-stranded molecule of RNA that corresponds to the genetic sequence of a gene and is read by a ribosome in the process of synthesizing a 

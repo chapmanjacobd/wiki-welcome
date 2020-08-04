@@ -1,0 +1,22 @@
+Visual Basic .NET
+
+Paradigm Structured, imperative, object-oriented, declarative, generic, reflective and event-driven
+
+Designed by Microsoft
+
+Developer Microsoft
+
+First appeared 2001; 19 years ago (2001)
+
+Stable release 2019 (16.0)
+ / July 24, 2019; 12 months ago (2019-07-24)
+
+Typing discipline Static, both strong and weak, both safe and unsafe, nominative
+
+Platform .NET Framework, Mono, .NET Core 3
+
+OS Chiefly Windows
+
+Also on Android, BSD, iOS, Linux, macOS, Solaris and Unix
+
+License Roslyn c

@@ -1,0 +1,7 @@
+Method of exchanging digital messages between people over a network
+
+This screenshot shows the "Inbox" page of an email client; users can see new emails and take actions, such as reading, deleting, saving, or responding to these messages.
+
+The at sign, a part of every SMTP email address
+
+Electronic mail (email or e-mail) is a method of exchanging messages ("mail") between people using electronic devices. Email entered limited use in the 1960s, but users could only send to users of the same compu

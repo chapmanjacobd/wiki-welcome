@@ -1,0 +1,7 @@
+"Data about data
+
+In the 21st century, metadata typically refers to digital forms, but traditional card catalogs contain metadata, with cards holding information about books in a library (author, title, subject, etc.).
+
+Metadata is "data that provides information about other data". In other words, it is "data about data." Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata.
+
+Descriptive m

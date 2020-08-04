@@ -1,0 +1,26 @@
+"Space probe and the second-farthest man-made object from Earth
+
+Voyager 2 Model of the Voyager spacecraft design
+
+Mission type Planetary exploration
+
+Operator NASA / JPL
+
+COSPAR ID 1977-076A
+
+SATCAT no. 10271
+
+Website voyager.jpl.nasa.gov
+
+Mission duration 
+42 years, 11 months, 5 days, 20 hours, 52 minutes elapsed
+
+Planetary mission: 12 years, 1 month, 12 days
+
+Interstellar mission: 30 years, 9 months, 24 days elapsed
+
+Spacecraft properties
+
+Manufacturer Jet Propulsion Laboratory
+
+Launch mass 8

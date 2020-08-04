@@ -1,0 +1,5 @@
+"Computer that uses photons or light waves
+
+Optical or photonic computing uses photons produced by lasers or diodes for computation. For decades, photons have promised to allow a higher bandwidth than the electrons used in conventional computers (see optical fibers).
+
+Most research projects focus on replacing current computer components with optical equivalents, resulting in an optical digital computer system processing binary data. This approach appears to offer the best short-term prospects fo

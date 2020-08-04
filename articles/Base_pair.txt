@@ -1,0 +1,5 @@
+"Unit consisting of two nucleobases bound to each other by hydrogen bonds
+
+Depiction of the adenine–thymine Watson–Crick base pair
+
+A base pair (bp) is a fundamental unit of double-stranded nucleic acids consisting of two nucleobases bound to each other by hydrogen bonds. They form the building blocks of the DNA double helix and contribute to the folded structure of both DNA and RNA. Dictated by specific hydrogen bonding patterns, "Watson–Crick" base pairs (guanine–cytosine and adenine�

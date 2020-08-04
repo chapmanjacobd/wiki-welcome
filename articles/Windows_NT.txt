@@ -1,0 +1,23 @@
+family of operating systems by Microsoft
+
+Windows NT
+
+Developer Microsoft
+
+Written in C, C++, and Assembly language
+
+Working state Current
+
+Source model Closed-source
+
+Source-available (through Shared Source Initiative)
+
+Initial release July 27, 1993; 26 years ago (1993-07-27)
+
+(as Windows NT 3.1)
+
+Latest release Windows 10, version 2004 (10.0.19041.331)
+
+June 18, 2020; 33 days ago (2020-06-18)
+
+Latest preview Windows 10, Insider Dev Channel (10.0.20170.1000) July 15, 2020; 6 days ago (2020-07-1

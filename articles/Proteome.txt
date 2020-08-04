@@ -1,0 +1,11 @@
+"Set of proteins that can be expressed by a genome, cell, tissue, or organism
+
+General schema showing the relationships of the genome, transcriptome, proteome, and metabolome (lipidome).
+
+The proteome is the entire set of proteins that is, or can be, expressed by a genome, cell, tissue, or organism at a certain time. It is the set of expressed proteins in a given type of cell or organism, at a given time, under defined conditions. Proteomics is the study of the proteome.
+
+Contents
+
+1 Systems
+
+2 

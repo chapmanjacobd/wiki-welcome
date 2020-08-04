@@ -1,0 +1,5 @@
+This article is about darknet websites. For the part of the Internet not accessible by traditional web search engines, see Deep web.
+
+Part of the World Wide Web that is only reachable over darknets
+
+The dark web is the World Wide Web content that exists on darknets, overlay networks that use the Internet but require specific software, configurations, or authorization to access. The dark web forms a small part of the deep web, the part of the Web not indexed by web search engines, although someti

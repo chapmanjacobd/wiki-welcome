@@ -1,0 +1,3 @@
+"An expression vector, otherwise known as an expression construct, is usually a plasmid or virus designed for gene expression in cells. The vector is used to introduce a specific gene into a target cell, and can commandeer the cell's mechanism for protein synthesis to produce the protein encoded by the gene. Expression vectors are the basic tools in biotechnology for the production of proteins.
+
+The vector is engineered to contain regulatory sequences that act as enhancer and promoter regions an

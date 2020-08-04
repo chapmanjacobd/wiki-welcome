@@ -1,0 +1,25 @@
+"Home computers produced by Amstrad
+
+Amstrad CPC An Amstrad CPC
+
+Developer Amstrad
+
+Type Personal computer
+
+Release date 1984; 36 years ago (1984)
+
+Discontinued 1990; 30 years ago
+
+Units sold 3 million
+
+Media Compact Cassette, 3 inch floppy disks
+
+Operating system AMSDOS with Locomotive BASIC 1.0 or 1.1; CP/M 2.2 or 3.0
+
+CPU Zilog Z80A @ 4 MHz
+
+Memory 64 or 128 KB, expandable to 576 KB
+
+Input keyboard
+
+The Amstrad CPC (short for Colour Personal Computer) is a series of 8-bit home computers produ

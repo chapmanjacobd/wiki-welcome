@@ -1,0 +1,15 @@
+"Game balance is part of game design can be described as a mathematical-algorithmic model of a game’s numbers, game mechanics and relations between those. Therefore, game balancing consists in adjusting those to create the intended experiences, usually positive ones. Players’ perception and experience are usually the objective of game balancing. 
+
+Contents
+
+1 Overview and development
+
+2 Unique terms and slang
+
+2.1 PvP, PvE and coop games
+
+2.2 Game element
+
+2.3 Game mechanic
+
+2.4 Buff and ner

@@ -1,0 +1,51 @@
+"Class of enzymes to unpack an organism's genes
+
+Structure of E. coli helicase RuvA
+
+DNA helicase
+
+Identifiers
+
+EC number 3.6.4.12
+
+Databases
+
+IntEnz IntEnz view
+
+BRENDA BRENDA entry
+
+ExPASy NiceZyme view
+
+KEGG KEGG entry
+
+MetaCyc metabolic pathway
+
+PRIAM profile
+
+PDB structures RCSB PDB PDBe PDBsum
+
+Search
+
+PMC articles
+
+PubMed articles
+
+NCBI proteins
+
+RNA helicase
+
+Identifiers
+
+EC number 3.6.4.13
+
+Databases
+
+IntEnz IntEnz view
+
+BRENDA BRENDA entry
+
+ExPASy NiceZyme view
+
+KEGG KEGG entry
+
+MetaCy

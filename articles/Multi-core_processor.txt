@@ -1,0 +1,11 @@
+"Microprocessor with more than one processing unit
+
+"Dual Core" redirects here. For the nerdcore duo, see Dual Core (hip hop duo).
+
+Diagram of a generic dual-core processor with CPU-local level-1 caches and a shared, on-die level-2 cache.
+
+An Intel Core 2 Duo E6750 dual-core processor.
+
+An AMD Athlon X2 6400+ dual-core processor.
+
+A multi-core processor is a computer processor integrated circuit with two or more separate processing units, called cores, each of which reads and executes program in

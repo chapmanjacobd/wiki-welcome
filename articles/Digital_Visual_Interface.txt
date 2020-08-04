@@ -1,0 +1,40 @@
+DVI" redirects here. For other uses, see DVI (disambiguation).
+
+Digital Visual Interface (DVI) 
+
+Type 
+Digital computer video connector
+
+Production history
+
+Designer 
+Digital Display Working Group
+
+Designed 
+April 1999
+
+Produced 
+1999–present
+
+Superseded 
+VGA connector
+
+Superseded by 
+DisplayPort, HDMI
+
+General specifications
+
+Hot pluggable 
+Yes
+
+External 
+Yes
+
+Video signal 
+Digital video stream:
+
+Single link: 1920 × 1200 (WUXGA) @ 60 Hz
+
+Dual link: 2560 × 1600 (WQXGA) @ 60 Hz
+
+Analog video 

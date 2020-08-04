@@ -1,0 +1,13 @@
+"Computer processor contained on an integrated-circuit chip
+
+This article is about microprocessors. For central processing units more generally, see Central processing unit.
+
+See also: Processor (disambiguation), System on a chip, Microcontroller, and Digital signal processor
+
+Texas Instruments TMS1000
+
+Intel 4004
+
+Motorola 6800
+
+A microprocessor is a computer processor that incorporates the functions of a central processing unit on a single (or more) integrated circuit (IC) of MOSFET constructi

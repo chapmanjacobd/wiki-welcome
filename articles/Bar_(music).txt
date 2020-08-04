@@ -1,0 +1,5 @@
+Types of bar lines
+
+Fifteen-bar multirest
+
+In musical notation, a bar (or measure) is a segment of time corresponding to a specific number of beats in which each beat is represented by a particular note value and the boundaries of the bar are indicated by vertical bar lines. Dividing music into bars provides regular reference points to pinpoint locations within a musical composition. It also makes written music easier to follow, since each bar of staff symbols can be read and played as a batch.

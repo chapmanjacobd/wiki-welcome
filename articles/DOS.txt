@@ -1,0 +1,7 @@
+"Group of closely related PC-compatible operating systems
+
+This article is about a family of operating systems. For the concept, see Disk Operating System. For the type of cyberattack, see DoS. For other uses, see DOS (disambiguation).
+
+FreeDOS screenshot showing the command-line interface, directory structure and version information
+
+DOS (/dɒs/, /dɔːs/) is a platform-independent acronym for Disk Operating System which later became a common shorthand for disk-based operating systems on IBM PC

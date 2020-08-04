@@ -1,0 +1,25 @@
+"Application protocol for distributed, collaborative, hypermedia information systems
+
+Hypertext Transfer Protocol
+
+International standard RFC 1945 HTTP/1.0 (1996)
+
+RFC 2616 HTTP/1.1 (1999)
+
+RFC 7540 HTTP/2 (2015)
+
+RFC 7541 Header Compression (2, 2015)
+
+RFC 7230 Message Syntax and Routing (1.1, 2014)
+
+RFC 7231 Semantics and Content (1.1, 2014)
+
+RFC 7232 Conditional Requests (1.1, 2014)
+
+RFC 7233 Range Requests (1.1, 2014)
+
+RFC 7234 Caching (1.1, 2014)
+
+RFC 7235 Authentication (1.1, 2014)
+
+Develop

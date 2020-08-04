@@ -1,0 +1,5 @@
+"Acceleration that the Earth imparts to objects on or near its surface
+
+Earth's gravity measured by NASA GRACE mission, showing deviations from the theoretical gravity of an idealized smooth Earth, the so-called Earth ellipsoid. Red shows the areas where gravity is stronger than the smooth, standard value, and blue reveals areas where gravity is weaker. (Animated version.)
+
+The gravity of Earth, denoted by g, is the net acceleration that is imparted to objects due to the combined effect of gravi

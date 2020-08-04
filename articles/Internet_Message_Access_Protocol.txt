@@ -1,0 +1,63 @@
+"Application layer internet protocol for e-mail retrieval and storage
+
+"IMAP" redirects here. It is not to be confused with MAPI, an email client API.
+
+"IMAP" redirects here. For the NASA spacecraft, see Interstellar Mapping and Acceleration Probe. For the antipsychotic, see Fluspirilene.
+
+Internet protocol suite
+
+Application layer
+
+BGP
+
+DHCP
+
+DNS
+
+FTP
+
+HTTP
+
+HTTPS
+
+IMAP
+
+LDAP
+
+MGCP
+
+MQTT
+
+NNTP
+
+NTP
+
+POP
+
+PTP
+
+ONC/RPC
+
+RTP
+
+RTSP
+
+RIP
+
+SIP
+
+SMTP
+
+SNMP
+
+SSH
+
+Telnet
+
+TLS/SSL
+
+XMPP
+
+more...
+
+Transpo

@@ -1,0 +1,28 @@
+"Not to be confused with Ubiquinol.
+
+Ubiquitin family
+
+A diagram of ubiquitin. The seven lysine sidechains are shown in yellow/orange.
+
+Identifiers
+
+Symbol ubiquitin
+
+Pfam PF00240
+
+InterPro IPR000626
+
+PROSITE PDOC00271
+
+SCOPe 1aar / SUPFAM
+
+Available protein structures:
+
+Pfam
+ structures / ECOD
+
+PDB RCSB PDB; PDBe; PDBj
+
+PDBsum structure summary
+
+Ubiquitin is a small (8.6 kDa) regulatory protein found in most tissues of eukaryotic organisms, i.e., it is found ubiquitously. It was discovered in 1

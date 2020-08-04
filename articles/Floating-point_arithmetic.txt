@@ -1,0 +1,7 @@
+"Computer format for representing real numbers
+
+This article is about the method of representing a number. For the album, see Floating Point.
+
+An early electromechanical programmable computer, the Z3, included floating-point arithmetic (replica on display at Deutsches Museum in Munich).
+
+In computing, floating-point arithmetic (FP) is arithmetic using formulaic representation of real numbers as an approximation to support a trade-off between range and precision. For this reason, floating-point c

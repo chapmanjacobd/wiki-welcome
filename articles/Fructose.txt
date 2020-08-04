@@ -1,0 +1,40 @@
+"A simple ketonic monosaccharide found in many plants
+
+d-Fructose
+ 
+d-Fructofuranose
+
+d-Fructose (open-chain form)
+
+Haworth projection of β-d-Fructofuranose
+
+Ball-and-stick model of d-fructose
+
+Names
+
+IUPAC name
+(3S,4R,5R)-1,3,4,5,6-Pentahydroxyhexan-2-one
+
+Other names
+Fruit sugar, levulose, d-fructofuranose, d-fructose, d-arabino-hexulose
+
+Identifiers
+
+CAS Number
+
+ 57-48-7 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:28645 Y
+
+ChEMBL
+ ChEMBL604608 Y
+
+ChemSpider
+ 388775 Y
+
+ECHA InfoCard

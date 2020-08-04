@@ -1,0 +1,41 @@
+"Abugida used to write Thai, Southern Thai and many other languages spoken in Thailand
+
+Thai
+
+Type Abugida 
+
+Languages Standard form:
+
+Thai, Southern Thai
+
+Non-standard form:
+
+Lanna, Isan,
+
+Pattani Malay and others
+
+Creator Ramkhamhaeng the Great
+
+Time period
+
+1283–present
+
+Parent systems
+
+Proto-Sinaitic alphabetPhoenician alphabetAramaic alphabetBrāhmīTamil-BrahmiPallavaKhmerThai
+
+Child systems
+
+Tai Viet
+
+Sister systems
+
+Lao
+
+Direction Left-to-right
+
+ISO 15924 Thai, 352
+
+Unicode alias
+
+Thai

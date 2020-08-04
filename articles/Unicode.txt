@@ -1,0 +1,25 @@
+For what the term "Unicode" means in Microsoft documentation, see UTF-16.
+
+Character encoding standard
+
+Unicode Logo of the Unicode Consortium
+
+Alias(es) Universal Coded Character Set (UCS)
+
+Language(s) International
+
+Standard Unicode Standard
+
+Encoding formats UTF-8, UTF-16, GB18030
+
+Less common: UTF-32, BOCU, SCSU, UTF-7
+
+Preceded by ISO/IEC 8859, various others
+
+v
+
+t
+
+e
+
+ This article contains uncommon Unicode characters. Without proper rendering support, you may see question marks, boxes, or

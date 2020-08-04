@@ -1,0 +1,21 @@
+"Software library that allows to use another library coded in another programming language
+
+In programming and software design, a binding is an application programming interface (API) that provides glue code specifically made to allow a programming language to use a foreign library or operating system service (one that is not native to that language).
+
+Contents
+
+1 Characteristics
+
+2 Runtime environment
+
+2.1 Object models
+
+2.2 Virtual machines
+
+3 Porting
+
+4 See also
+
+5 References
+
+6 External link

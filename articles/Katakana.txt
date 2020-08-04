@@ -1,0 +1,45 @@
+"Japanese syllabary
+
+Katakana
+
+片仮名
+
+カタカナ
+
+Type Syllabary 
+
+Languages Japanese, Okinawan, Ainu, Palauan
+
+Taiwanese Hokkien (formerly)
+
+Time period
+
+~800 AD to the present
+
+Parent systems
+
+Oracle Bone ScriptSeal ScriptClerical ScriptRegular script (Kanji)Man'yōganaKatakana
+
+Sister systems
+
+Hiragana
+
+Direction Left-to-right
+
+ISO 15924 Kana, 411
+
+Unicode alias
+
+Katakana
+
+Unicode range
+
+Katakana:
+
+U+30A0–U+30FF
+
+Katakana Phonetic Extensions:
+
+U+31F0–U+31FF
+
+Enclosed CJK Letters and

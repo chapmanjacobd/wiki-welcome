@@ -1,0 +1,61 @@
+System/
+
+Period
+Series/
+
+Epoch
+Stage/
+
+Age
+Age (Ma)
+
+Quaternary
+ Pleistocene
+ Gelasian
+ younger
+
+Neogene
+ Pliocene
+ Piacenzian
+ 2.58
+ 3.600
+
+Zanclean
+ 3.600
+ 5.333
+
+Miocene
+ Messinian
+ 5.333
+ 7.246
+
+Tortonian
+ 7.246
+ 11.63
+
+Serravallian
+ 11.63
+ 13.82
+
+Langhian
+ 13.82
+ 15.97
+
+Burdigalian
+ 15.97
+ 20.44
+
+Aquitanian
+ 20.44
+ 23.03
+
+Paleogene
+ Oligocene
+ Chattian
+ older
+
+Subdivision of the Neogene Period
+
+according to the ICS, as of 2017.
+
+The Miocene ( /ˈmaɪ.əˌsiːn, ˈmaɪ.oʊ-/ MY-ə-seen, MY-o

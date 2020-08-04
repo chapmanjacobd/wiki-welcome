@@ -1,0 +1,7 @@
+"Sub-field of computer science
+
+This article is about the scientific discipline of computer graphics. For a broader overview, see Computer graphics. For other uses, see Computer graphics (disambiguation).
+
+A modern rendering of the Utah teapot, an iconic model in 3D computer graphics created by Martin Newell in 1975
+
+Computer graphics is a sub-field of computer science which studies methods for digitally synthesizing and manipulating visual content. Although the term often refers to the study of

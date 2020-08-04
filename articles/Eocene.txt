@@ -1,0 +1,70 @@
+"Second epoch of the Paleogene period
+
+System/
+
+Period
+Series/
+
+Epoch
+Stage/
+
+Age
+Age (Ma)
+
+Neogene
+ Miocene
+ Aquitanian
+ younger
+
+Paleogene
+ Oligocene
+ Chattian
+ 23.0
+ 27.8
+
+Rupelian
+ 27.8
+ 33.9
+
+Eocene
+ Priabonian
+ 33.9
+ 37.8
+
+Bartonian
+ 37.8
+ 41.2
+
+Lutetian
+ 41.2
+ 47.8
+
+Ypresian
+ 47.8
+ 56.0
+
+Paleocene
+ Thanetian
+ 56.0
+ 59.2
+
+Selandian
+ 59.2
+ 61.6
+
+Danian
+ 61.6
+ 66.0
+
+Cretaceous
+ Upper/
+
+Late
+ Maastrichtian
+ older
+
+Subdivision of the Paleogene Period
+
+according to the ICS, as of 2019.
+
+The Eoc

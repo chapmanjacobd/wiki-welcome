@@ -1,0 +1,18 @@
+C Programming Language" redirects here. For the book, see The C Programming Language.
+
+general-purpose programming language
+
+C The C Programming Language (often referred to as K&R), the seminal book on C
+
+Paradigm Imperative (procedural), structured
+
+Designed by Dennis Ritchie
+
+Developer Dennis Ritchie & Bell Labs (creators); ANSI X3J11 (ANSI C); ISO/IEC JTC1/SC22/WG14 (ISO C)
+
+First appeared 1972; 48 years ago (1972)
+
+Stable release C18
+ / June 2018; 2 years ago (2018-06)
+
+Typing discipline Sta

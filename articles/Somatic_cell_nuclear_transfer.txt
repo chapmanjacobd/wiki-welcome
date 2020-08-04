@@ -1,0 +1,5 @@
+"Method of creating a cloned embryo by replacing the egg nucleus with a body cell nucleus
+
+Somatic cell nuclear transfer can create clones for both reproductive and therapeutic purposes. The diagram depicts the removal of the donor nucleus for schematic purposes; in practice the whole donor cell is transferred.
+
+In genetics and developmental biology, somatic cell nuclear transfer (SCNT) is a laboratory strategy for creating a viable embryo from a body cell and an egg cell. The technique consists

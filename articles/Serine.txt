@@ -1,0 +1,58 @@
+"Not to be confused with Sarin.
+
+For the French wine grape, see Sérine.
+
+Serine
+ 
+Names
+
+IUPAC name
+Serine
+
+Other names
+2-Amino-3-hydroxypropanoic acid
+
+Identifiers
+
+CAS Number
+
+ 56-45-1 (L-) Y
+
+302-84-1 (DL-) Y
+
+312-84-5 (D-) Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+ChEBI
+ CHEBI:17115 Y
+
+ChEMBL
+ ChEMBL11298 Y
+
+ChemSpider
+ 5736 (L-form) Y
+
+597 Y
+
+DrugBank
+ DB00133 Y
+
+ECHA InfoCard
+ 100.000.250
+
+EC Number
+ 206-130-6
+
+IUPHAR/BPS
+
+ 726
+
+KEGG
+ C00065 (L-)
+
+C00740 (D-)

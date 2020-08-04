@@ -1,0 +1,7 @@
+"Standard to describe protocols for second generation digital cellular networks used by mobile phones
+
+For other uses, see GSM (disambiguation).
+
+The GSM logo is used to identify compatible devices and equipment. The dots symbolize three clients in the home network and one roaming client.
+
+The Global System for Mobile Communications (GSM) is a standard developed by the European Telecommunications Standards Institute (ETSI) to describe the protocols for second-generation (2G) digital cellular net

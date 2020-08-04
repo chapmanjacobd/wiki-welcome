@@ -1,0 +1,30 @@
+"High-level programming language first released in 1980
+
+Ada
+
+Paradigm Multi-paradigm
+
+Family Pascal
+
+Designed by 
+MIL-STD-1815, Ada 83: Jean Ichbiah
+
+Ada 95: Tucker Taft
+
+Ada 2005: Tucker Taft
+
+Ada 2012: Tucker Taft
+
+First appeared February 1980; 40 years ago (1980-02)
+
+Stable release Ada 2012 TC1
+ / February 1, 2016; 4 years ago (2016-02-01)
+
+Preview release Ada 2012 TC1
+ / April 2015; 5 years ago (2015-04)
+
+Typing discipline static, strong, safe, nominative
+
+OS Multi- or cross-platform
+
+Filen

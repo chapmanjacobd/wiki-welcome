@@ -1,0 +1,11 @@
+"Form of sound synthesis
+
+FM synthesis using 2 operators
+
+A 220 Hz carrier tone fc modulated by a 440 Hz modulating tone fm, with various choices of frequency modulation index, β. The time domain signals are illustrated above, and the corresponding spectra are shown below (spectrum amplitudes in dB).
+
+Waveforms for each β
+
+Spectra for each β
+
+Frequency modulation synthesis (or FM synthesis) is a form of sound synthesis whereby the frequency of a waveform is changed by modulating its frequency

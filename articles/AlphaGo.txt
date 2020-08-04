@@ -1,0 +1,7 @@
+"Artificial intelligence that plays Go
+
+AlphaGo logo
+
+AlphaGo is a computer program that plays the board game Go. It was developed by DeepMind Technologies which was later acquired by Google. AlphaGo had three far more powerful successors, called AlphaGo Master, AlphaGo Zero and AlphaZero.
+
+In October 2015, the original AlphaGo became the first computer Go program to beat a human professional Go player without handicap on a full-sized 19×19 board. In March 2016, it beat Lee Sedol in a five-game

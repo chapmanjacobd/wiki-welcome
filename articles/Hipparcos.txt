@@ -1,0 +1,25 @@
+"This article is about the satellite/catalogue. For the Greek astronomer, see Hipparchus. For other uses, see Hipparchus (disambiguation).
+
+Hipparcos Hipparcos satellite in the Large Solar Simulator, ESTEC, February 1988
+
+Mission type Astrometric observatory
+
+Operator ESA
+
+COSPAR ID 1989-062B
+
+SATCAT no. 20169
+
+Website sci.esa.int/hipparcos/
+
+Mission duration 4 years, 1 week
+
+Spacecraft properties
+
+Manufacturer Alenia Spazio
+
+Matra Marconi Space
+
+Launch mass 1,140 kg (2,510 lb) 
+
+Dry mass 635 kg

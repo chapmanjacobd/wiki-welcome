@@ -1,0 +1,3 @@
+Graph of total, average, and marginal product
+
+In economics, a production function gives the technological relation between quantities of physical inputs and quantities of output of goods. The production function is one of the key concepts of mainstream neoclassical theories, used to define marginal product and to distinguish allocative efficiency, a key focus of economics. One important purpose of the production function is to address allocative efficiency in the use of factor inputs in product

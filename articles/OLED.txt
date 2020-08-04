@@ -1,0 +1,9 @@
+"See also: Flexible organic light-emitting diode
+
+Diode which emits light from an organic compound
+
+organic light-emitting diode Prototype OLED lighting panels
+
+Type LED
+
+An organic light-emitting diode (OLED or Organic LED), also known as an organic EL (organic electroluminescent) diode, is a light-emitting diode (LED) in which the emissive electroluminescent layer is a film of organic compound that emits light in response to an electric current. This organic layer is situated between two elect

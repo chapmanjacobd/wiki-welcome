@@ -1,0 +1,61 @@
+Hypothesized risk to human existence
+
+ Part on a series on
+
+Artificial intelligence
+
+Major goals
+
+Knowledge reasoning
+
+Planning
+
+Machine learning
+
+Natural language processing
+
+Computer vision
+
+Robotics
+
+Artificial general intelligence
+
+Approaches
+
+Symbolic
+
+Deep learning
+
+Bayesian networks
+
+Evolutionary algorithms
+
+Philosophy
+
+Ethics
+
+Existential risk
+
+Turing test
+
+Chinese room
+
+Control problem
+
+Friendly AI
+
+History
+
+Timeline
+
+Progress
+
+AI winter
+
+Technology
+
+Applications
+
+Projects
+
+Programming 

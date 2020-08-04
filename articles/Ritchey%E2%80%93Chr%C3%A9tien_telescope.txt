@@ -1,0 +1,3 @@
+A George Ritchey's 24-inch (0.6 m) reflecting telescope, the first RCT to be built, later on, display at the Chabot Space and Science Center in 2004.
+
+A Ritchey-Chrétien telescope (RCT or simply RC) is a specialized variant of the Cassegrain telescope that has a hyperbolic primary mirror and a hyperbolic secondary mirror designed to eliminate off-axis optical errors (coma). The RCT has a wider field of view free of optical errors compared to a more traditional reflecting telescope configuration

@@ -1,0 +1,29 @@
+"1940s-1950s British computer
+
+Electronic delay storage automatic calculator (EDSAC) EDSAC I in June 1948
+
+Developer Maurice Wilkes and his team at the University of Cambridge Mathematical Laboratory
+
+Generation 1
+
+Release date May 6, 1949; 71 years ago (1949-05-06)
+
+Lifespan 1949–1958
+
+Discontinued yes
+
+Units shipped 1
+
+CPU Derated vacuum tubes
+
+Memory 512 18-bit words (Mercury delay lines)
+
+Display Teleprinter
+
+Input five-hole punched tape
+
+Power 11 kW
+
+Successor EDSAC 2 and LEO I
+
+The Elect

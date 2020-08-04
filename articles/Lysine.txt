@@ -1,0 +1,53 @@
+Lysine
+
+L-lysine
+
+Names
+
+IUPAC name
+(2S)-2,6-Diaminohexanoic acid (L-lysine)
+(2R)-2,6-Diaminohexanoic acid (D-lysine)
+
+Other names
+Lysine, D-lysine, L-lysine, LYS, h-Lys-OH
+
+Identifiers
+
+CAS Number
+
+ 70-54-2 DL N
+
+56-87-1 L Y
+
+923-27-3 D Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+Protonated zwitterion: Interactive image
+
+ChEBI
+ CHEBI:25094 Y
+
+ChEMBL
+ ChEMBL28328 Y
+
+ChemSpider
+ 843 Y
+
+5747 L Y
+
+ECHA InfoCard
+ 100.000.673
+
+IUPHAR/BPS
+
+ 724
+
+KEGG
+ C16440 N
+
+PubChem CID

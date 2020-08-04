@@ -1,0 +1,47 @@
+"This article is about the naturally occurring d-form of deoxyribose. For the l-form, see L-deoxyribose.
+
+d-deoxyribose
+ 
+Names
+
+IUPAC name
+2-deoxy-d-ribose
+
+Other names
+2-deoxy-d-erythro-pentose
+
+thyminose
+
+Identifiers
+
+CAS Number
+
+ 533-67-5 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:28816 Y
+
+ChemSpider
+ 4573703 Y
+
+EC Number
+ 208-573-0
+
+PubChem CID
+
+ 5460005
+
+UNII
+ LSW4H01241 Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID60190259
+
+InChI
+
+InChI=1S/C5H10O4/c6-2-1-4(8)5(9)3-7/h2,4-5,7-9H,1,3H2/t4-

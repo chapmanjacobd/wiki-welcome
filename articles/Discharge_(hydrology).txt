@@ -1,0 +1,3 @@
+"In hydrology, discharge is the volumetric flow rate of water that is transported through a given cross-sectional area. It includes any suspended solids (e.g. sediment), dissolved chemicals (e.g. CaCO3(aq)), or biologic material (e.g. diatoms) in addition to the water itself.
+
+Synonyms vary by discipline. For example, a fluvial hydrologist studying natural river systems may define discharge as streamflow, whereas an engineer operating a reservoir system might define discharge as outflow, which i

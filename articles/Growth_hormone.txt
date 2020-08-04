@@ -1,0 +1,45 @@
+HGH" redirects here. For other uses, see HGH (disambiguation).
+
+Growth hormone 1 (pituitary)
+
+Growth hormone
+
+Identifiers
+
+Symbol GH1
+
+NCBI gene 2688
+
+HGNC 4261
+
+OMIM 139250
+
+RefSeq NM_022562
+
+UniProt P01241
+
+Other data
+
+Locus Chr. 17 q22-q24
+
+Growth hormone 2 (placental)
+
+Identifiers
+
+Symbol GH2
+
+NCBI gene 2689
+
+HGNC 4262
+
+OMIM 139240
+
+RefSeq NM_002059
+
+UniProt P01242
+
+Other data
+
+Locus Chr. 17 q22-q24
+
+Growth hormone (GH) or somatotropin, also known as human growth hormones (hGH or HGH) in its

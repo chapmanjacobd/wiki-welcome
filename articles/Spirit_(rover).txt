@@ -1,0 +1,23 @@
+"NASA Mars rover
+
+Spirit The Mars Exploration Rover-2 (MER-2) during testing for mobility and maneuverability
+
+Mission type Rover
+
+Operator NASA
+
+COSPAR ID 2003-027A
+
+SATCAT no. 27827
+
+Website Mars Exploration Rover
+
+Mission duration Planned: 90 Martian solar days (~92 Earth days)
+
+Operational: 2269 days from landing to last contact (2208 sols)
+
+Mobile: 1944 Earth days landing to final embedding (1892 sols)
+
+Total: 2695 days from landing to mission end (2623 sols)
+
+Launch to last contact: 6 year

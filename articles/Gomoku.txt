@@ -1,0 +1,19 @@
+"Board game
+
+Gomoku
+
+Genre(s) Board game
+
+Abstract strategy game
+
+Players 2
+
+Setup time Minimal
+
+Random chance None
+
+Age range 4+
+
+Skill(s) required Strategy, tactics
+
+Gomoku, also called Five in a Row, is an abstract strategy board game. It is traditionally played with Go pieces (black and white stones) on a Go board. It can be played using the 15×15 board or the 19×19 board. Because pieces are typically not moved or removed from the board, Gomoku may also be played as a paper-and-pencil game

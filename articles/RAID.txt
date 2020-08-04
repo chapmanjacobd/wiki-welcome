@@ -1,0 +1,3 @@
+"This article is about the data storage technology. For the police unit, see RAID (French Police unit). For other uses, see Raid (disambiguation).
+
+RAID ("Redundant Array of Inexpensive Disks" or "Redundant Array of Independent Disks") is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both. This was in contrast to the previous concept of highly reliable 

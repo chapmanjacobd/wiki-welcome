@@ -1,0 +1,8 @@
+"Height of a geographic location above a fixed reference point
+
+For broader coverage of this topic, see Vertical position.
+
+For other uses, see Elevation (disambiguation).
+
+The elevation of a geographic location is its height above or below a fixed reference point, most commonly a reference geoid, a mathematical model of the Earth's sea level as an equipotential gravitational surface (see Geodetic datum § Vertical datum).
+The term elevation is mainly used when referring to points on the Earth's

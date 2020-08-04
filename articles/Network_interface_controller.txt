@@ -1,0 +1,8 @@
+Network card" redirects here. For the British Rail discount card, see Network Railcard.
+
+Not to be confused with network interface device.
+
+Network interface controller A 1990s Ethernet network interface controller card that connects to the motherboard via the now-obsolete ISA bus. This combination card features both a BNC connector (left) for use in (now obsolete) 10BASE2 networks and an 8P8C connector (right) for use in 10BASE-T networks.
+
+Connects to Motherboard via one of:
+integrated in chip

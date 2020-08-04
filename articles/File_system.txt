@@ -1,0 +1,29 @@
+"This article is about the way computers organise data stored on media such as disk. For library and office filing systems, see Library classification.
+
+Operating systems
+
+Common features
+
+Process management
+
+Interrupts
+
+Memory management
+
+File system
+
+Device drivers
+
+Networking
+
+Security
+
+I/O
+
+v
+
+t
+
+e
+
+In computing, a file system or filesystem (often abbreviated to fs) controls how data is stored and retrieved. Without a file system, data placed in a storage medium would be one large body of da

@@ -1,0 +1,3 @@
+Example of a textual analysis program being used to study a novel, with Jane Austen's Pride and Prejudice in Voyant Tools
+
+Digital humanities (DH) is an area of scholarly activity at the intersection of computing or digital technologies and the disciplines of the humanities. It includes the systematic use of digital resources in the humanities, as well as the analysis of their application. DH can be defined as new ways of doing scholarship that involve collaborative, transdisciplinary, and compu

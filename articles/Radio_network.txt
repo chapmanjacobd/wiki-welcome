@@ -1,0 +1,3 @@
+"Type of audio-only broadcast network
+
+There are two types of radio network currently in use around the world: the one-to-many (simplex communication) broadcast network commonly used for public information and mass-media entertainment, and the two-way radio (duplex communication) type used more commonly for public safety and public services such as police, fire, taxicabs, and delivery services. Cell phones are able to send and receive simultaneously by using two different frequencies at the same

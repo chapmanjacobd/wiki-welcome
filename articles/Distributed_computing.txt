@@ -1,0 +1,7 @@
+"System whose components are located on different networked computers
+
+"Distributed application" redirects here. For trustless applications, see Decentralized application.
+
+"Distributed Information Processing" redirects here. For the computer company, see DIP Research.
+
+Distributed computing is a field of computer science that studies distributed systems. A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions

@@ -1,0 +1,4 @@
+An embedded system on a plug-in card with processor, memory, power supply, and external interfaces
+
+An embedded system is a computer system—a combination of a computer processor, computer memory, and input/output peripheral devices—that has a dedicated function within a larger mechanical or electrical system. It is embedded as part of a complete device often including electrical or electronic hardware and mechanical parts. 
+Because an embedded system typically controls physical operations of

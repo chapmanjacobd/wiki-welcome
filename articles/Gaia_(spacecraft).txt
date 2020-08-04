@@ -1,0 +1,28 @@
+"European optical space observatory for astrometry; cornerstone mission in the ESA Science Programme
+
+Gaia Artist's impression of the Gaia spacecraft
+
+Mission type Astrometric observatory
+
+Operator ESA
+
+COSPAR ID 2013-074A
+
+SATCAT no. 39479
+
+Website sci.esa.int/gaia/
+
+Mission duration originally planned: 5 years; extended by two to four years
+
+elapsed: 6 years, 7 months and 7 days
+
+Spacecraft properties
+
+Manufacturer 
+EADS Astrium
+
+e2v Technologies
+
+Launch mass 2,029 kg (4,473 lb)
+
+Dry mass 1,39

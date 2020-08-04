@@ -1,0 +1,9 @@
+"Instructions to be executed by a computer
+
+For the TV program, see The Computer Programme.
+
+"hello, world" computer program by Brian Kernighan (1978)
+
+A computer program is a collection of instructions that can be executed by a computer to perform a specific task. 
+
+A computer program is usually written by a computer programmer in a programming language. From the program in its human-readable form of source code, a compiler or assembler can derive machine code—a form consisting of instruction

@@ -1,0 +1,40 @@
+"Augmented reality mobile game based on the Pokémon franchise
+
+Pokémon Go
+
+Developer(s) Niantic
+
+Publisher(s) Niantic
+
+Director(s) Tatsuo Nomura
+
+Artist(s) Dennis Hwang
+
+Yusuke Kozaki
+
+Mieke Hutchins
+
+Composer(s) Junichi Masuda
+
+Series Pokémon
+
+Engine Unity
+
+Platform(s) iOS, Android
+
+Release 
+July 6, 2016
+
+ AU: July 6, 2016
+
+NA: July 6, 2016
+
+EU: July 13, 2016
+
+JP: July 22, 2016
+
+IND: December 14, 2016
+
+Genre(s) Augmented reality, location-based game
+
+Pokémon Go is a 2016 augmented reality (

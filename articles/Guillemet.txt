@@ -1,0 +1,13 @@
+"Sideways double chevron used as a quotation mark in some languages
+
+For the seabird, see guillemot.
+
+« »
+
+Guillemets
+
+In Unicode U+00AB « LEFT-POINTING DOUBLE ANGLE QUOTATION MARK (HTML &#171; · &laquo;)
+
+U+00BB » RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK (HTML &#187; · &raquo;)
+
+Guillemets (/ˈɡɪləmɛt/, also UK: /ˈɡiːmeɪ/, US: /ˌɡiː(j)əˈmeɪ, ˌɡɪləˈmɛt/, French: ) are a pair of punctuation marks in the form of sideways double chevrons, « and », used as quotation mar

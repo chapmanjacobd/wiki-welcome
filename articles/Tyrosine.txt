@@ -1,0 +1,61 @@
+"Amino acid
+
+Tyrosine
+
+L-Tyrosine
+
+L-Tyrosine at physiological pH
+
+Names
+
+IUPAC name
+(S)-Tyrosine
+
+Other names
+L-2-Amino-3-(4-hydroxyphenyl)propanoic acid
+
+Identifiers
+
+CAS Number
+
+ 60-18-4 (L) Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+ChEBI
+ CHEBI:58315 N
+
+ChEMBL
+ ChEMBL925 Y
+
+ChemSpider
+ 5833 Y
+
+DrugBank
+ DB03839 N
+
+ECHA InfoCard
+ 100.000.419
+
+IUPHAR/BPS
+
+ 4791
+
+PubChem CID
+
+ 1153
+
+UNII
+ 42HK56048U N
+
+CompTox Dashboard (EPA)
+
+ DTXSID1023730
+
+InChI
+
+InChI=1S/C9H11N

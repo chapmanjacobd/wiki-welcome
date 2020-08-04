@@ -1,0 +1,61 @@
+"cell wall polymer of plants and green algae
+
+Cellulose
+ 
+Identifiers
+
+CAS Number
+
+ 9004-34-6 Y
+
+ChEMBL
+ ChEMBL2109009 N
+
+ChemSpider
+ None
+
+ECHA InfoCard
+ 100.029.692
+
+EC Number
+ 232-674-9
+
+E number
+ E460 (thickeners, ...)
+
+PubChem CID
+
+ 14055602
+
+UNII
+ SMD1X3XO9M Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID3050492
+
+Properties
+
+Chemical formula
+
+ (C
+
+6H
+
+10O
+
+5)
+
+n 
+
+Molar mass
+ 162.1406 g/mol per glucose unit 
+
+Appearance
+ white powder
+
+Density
+ 1.5 g/cm3
+
+Melting point
+ 260–270 °C; 500–518 °F; 53

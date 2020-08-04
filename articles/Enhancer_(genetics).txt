@@ -1,0 +1,17 @@
+"DNA sequence that binds activators to increase the likelihood of gene transcription
+
+Seen here is a four step diagram depicting the usage of an enhancer. Within this DNA sequence, protein(s) known as transcription factor(s) bind to the enhancer and increase the activity of the promoter. DNA
+
+Enhancer
+
+Promoter
+
+Gene
+
+Transcription Activator Protein
+
+Mediator Protein
+
+RNA Polymerase
+
+In genetics, an enhancer is a short (50–1500 bp) region of DNA that can be bound by proteins (activators) to in

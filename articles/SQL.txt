@@ -1,0 +1,20 @@
+"This article is about the database language. For the IATA code, see San Carlos Airport (California).
+
+"SEQUEL" redirects here. For the topic of the word, see sequel. For other uses, see sequel (disambiguation).
+
+Language for management and use of relational databases
+
+SQL (Structured Query Language)Paradigm Declarative
+
+Family Query language
+
+Designed by Donald D. Chamberlin
+
+Raymond F. Boyce
+
+Developer ISO/IEC
+
+First appeared 1974; 46 years ago (1974)
+
+Stable release SQL:2016
+ / December 2016;

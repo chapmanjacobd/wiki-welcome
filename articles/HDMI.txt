@@ -1,0 +1,38 @@
+"Proprietary interface for transmitting digital audio and video data
+
+HDMI (High-Definition Multimedia Interface) 
+
+Type 
+Digital audio/video/data connector
+
+Production history
+
+Designer 
+
+HDMI Founders (7 companies)
+
+ Hitachi Maxell, Ltd.
+
+Sanyo Electric Co., Ltd.
+
+Koninklijke Philips N.V.
+
+Silicon Image Inc.
+
+Sony Corporation
+
+Technicolor SA
+
+Toshiba Corporation
+
+HDMI Forum (83 companies)
+
+ Allion Labs, Inc.
+
+Alphaholdings Inc. 
+
+Advanced Micro Devices, Inc.
+
+Analog Devices, Inc.
+
+Analogix Sem

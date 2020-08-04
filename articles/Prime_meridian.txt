@@ -1,0 +1,9 @@
+Prime Meridian" redirects here. For the meridian often called the Prime Meridian, see IERS Reference Meridian.
+
+A line of longitude, at which longitude is defined to be 0°
+
+0°
+
+Prime Meridian
+
+A prime meridian is the meridian (a line of longitude) in a geographic coordinate system at which longitude is defined to be 0°. Together, a prime meridian and its anti-meridian (the 180th meridian in a 360°-system) form a great circle. This great circle divides a spheroid into two hemispheres. If one 

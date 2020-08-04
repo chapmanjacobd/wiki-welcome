@@ -1,0 +1,69 @@
+"Programming language
+
+Pascal
+
+Paradigm Imperative
+
+structured
+
+Family Wirth Pascal
+
+Designed by Niklaus Wirth
+
+First appeared 1970; 50 years ago (1970)
+
+Typing discipline Static
+
+strong
+
+safe
+
+Filename extensions .pp, .pas, .inc,
+
+Major implementations
+
+CDC 6000
+
+Embarcadero Delphi
+
+ICL 1900
+
+Pascal-P
+
+PDP-11
+
+PDP-10
+
+IBM System/370
+
+VSI Pascal
+
+Free Pascal
+
+GNU Pascal
+
+Dialects
+
+Delphi
+
+Turbo Pascal
+
+UCSD Pascal
+
+Influenced by
+
+ALGOL W
+
+Simula 67
+
+Influenced
+
+Ada
+
+Component Pascal
+
+Go
+
+Java
+
+M

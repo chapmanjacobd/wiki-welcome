@@ -1,0 +1,25 @@
+"This article is about the prokaryotic antiviral system. For the use in editing genes, see CRISPR gene editing.
+
+Family of DNA sequences found in prokaryotic organisms
+
+Cascade (CRISPR-associated complex for antiviral defense)
+
+CRISPR Cascade protein (cyan) bound to CRISPR RNA (green) and phage DNA (red)
+
+Identifiers
+
+Organism Escherichia coli
+
+Symbol CRISPR
+
+PDB 4QYZ
+
+ Part of a series on
+
+Genetic engineering
+
+Genetically modified organisms
+
+Bacteria • Viruses
+
+Animals (Mammals • Fish • I

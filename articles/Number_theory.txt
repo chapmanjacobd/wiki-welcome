@@ -1,0 +1,9 @@
+"For the book by André Weil, see Number Theory: An Approach through History from Hammurapi to Legendre.
+
+Not to be confused with Numerology.
+
+Branch of mathematics
+
+The distribution of prime numbers is a central point of study in number theory. This Ulam spiral serves to illustrate it, hinting, in particular, at the conditional independence between being prime and being a value of certain quadratic polynomials.
+
+Number theory (or arithmetic or higher arithmetic in older usage) is a branch of pu

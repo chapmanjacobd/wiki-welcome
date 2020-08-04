@@ -1,0 +1,9 @@
+"Paradox revealing a problem with self-reference in logic
+
+Epimenides from "Promptuarii Iconum Insigniorum"
+
+The Epimenides paradox reveals a problem with self-reference in logic. It is named after the Cretan philosopher Epimenides of Knossos (alive circa 600 BC) who is credited with the original statement. A typical description of the problem is given in the book Gödel, Escher, Bach, by Douglas Hofstadter:
+
+Epimenides was a Cretan who made one immortal statement: "All Cretans are liars."
+
+A pa

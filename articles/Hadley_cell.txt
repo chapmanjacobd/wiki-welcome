@@ -1,0 +1,5 @@
+"A global scale tropical atmospheric circulation feature
+
+Vertical velocity at 500 hPa, July average in units of pascals per second. Ascent (negative values) is concentrated close to the solar equator; descent (positive values) is more diffuse.
+
+The Hadley cell, named after George Hadley, is a global scale tropical atmospheric circulation that features air rising near the Equator, flowing poleward at a height of 10 to 15 kilometers above the earth's surface, descending in the subtropics, and the

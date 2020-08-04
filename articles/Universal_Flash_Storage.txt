@@ -1,0 +1,5 @@
+Flash storage specification
+
+This article is missing information about rewrite cycle life. Please expand the article to include this information. Further details may exist on the talk page. (July 2020)
+
+Universal Flash Storage, officially abbreviated as UFS, is a flash storage specification for digital cameras, mobile phones and consumer electronic devices. It aims to bring higher data transfer speed and increased reliability to flash memory storage, while reducing market confusion and removing 

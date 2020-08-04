@@ -1,0 +1,57 @@
+Tetraethyl pyrophosphate
+ 
+Names
+
+IUPAC name
+tetraethyl diphosphate
+
+Identifiers
+
+CAS Number
+
+ 107-49-3 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:82149
+
+ChEMBL
+ ChEMBL293787 Y
+
+ChemSpider
+ 7585 Y
+
+ECHA InfoCard
+ 100.003.179
+
+EC Number
+ 203-495-3
+
+KEGG
+ C19017
+
+PubChem CID
+
+ 7873
+
+RTECS number
+ UX6825000
+
+UNII
+ 28QKT80KX2 N
+
+UN number
+ 3018 2783
+
+CompTox Dashboard (EPA)
+
+ DTXSID3034957
+
+InChI
+
+InChI=1S/C8H20O7P2/c1-5-11-16(9,12-6-2)15-17(10,13-7-3)14-8-4/h5-8H2,1-4H3 Y
+
+Key: IDCBOTIEN

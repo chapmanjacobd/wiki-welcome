@@ -1,0 +1,23 @@
+"Optical disc format used for storing digital video and other digital data
+
+Blu-ray
+
+Reverse side of a Blu-ray. Unlike CD and DVD, the reflection has a blue hue.
+
+Media type High-density optical disc
+
+Encoding Data encoding: CLV or Zoned CAV pits-and-lands with interleaved error correction code
+
+BDMV Video encoding: H.262/MPEG-2 Part 2
+
+H.264/MPEG-4 AVC
+
+VC-1
+
+H.265/HEVC (only Ultra HD Blu-ray)
+
+Capacity 25 GB (single-layer), 50 GB (dual-layer)
+
+100, 128 GB (BDXL)
+
+Up to four layers are possible

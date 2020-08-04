@@ -1,0 +1,5 @@
+The die from an Intel 8742, an 8-bit microcontroller that includes a CPU, 128 bytes of RAM, 2048 bytes of EPROM, and I/O "data" on current chip.
+
+A circuit built on a printed circuit board (PCB).
+
+An electronic circuit is composed of individual electronic components, such as resistors, transistors, capacitors, inductors and diodes, connected by conductive wires or traces through which electric current can flow. To be referred to as electronic, rather than electrical, generally at least one activ

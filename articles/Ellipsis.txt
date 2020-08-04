@@ -1,0 +1,23 @@
+"This article is about the punctuation mark. For the syntactic omission of words, see Ellipsis (linguistics). For other uses, see Ellipsis (disambiguation).
+
+Not to be confused with Ellipse.
+
+Series of dots that indicates omission
+
+...
+
+Ellipsis
+
+In Unicode U+2026 … HORIZONTAL ELLIPSIS (HTML &#8230; · &hellip;, &mldr;)
+
+...
+. . .
+⋯
+⋮
+
+AP format
+Chicago format
+Mid-line ellipsis
+Vertical ellipsis
+
+The ellipsis ..., . . ., or (in Unicode) …, also known informally as dot-dot-dot, is a serie

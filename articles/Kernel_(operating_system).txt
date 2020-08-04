@@ -1,0 +1,7 @@
+"For other uses, see Kernel (disambiguation).
+
+"Kernel (computing)" redirects here. For other uses, see Kernel (disambiguation).
+
+"Kernel (computer science)" redirects here. It is not to be confused with Compute kernel, Kernel method, or Kernel (image processing).
+
+The kernel is a computer program at the core of a computer's operating system with complete control over everything in the system. It is an integral part of any operating system. It is the "portion of the operating system code that is

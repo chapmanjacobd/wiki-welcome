@@ -1,0 +1,25 @@
+"Method of combining multiple signals into one signal over a shared medium
+
+For multiplexing in electronics and signal processing, see Multiplexer.
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (August 2014) (Learn how and when to remove this template message)
+
+Multiplexing
+
+Analog modulation
+
+AM
+
+FM
+
+PM
+
+QAM
+
+SM
+
+SSB
+
+Circuit mode
+
+(constant band

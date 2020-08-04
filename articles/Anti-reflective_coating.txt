@@ -1,0 +1,3 @@
+Uncoated glasses lens (top) versus lens with antireflective coating. Note the tinted reflection from the coated lens.
+
+An antireflective or anti-reflection (AR) coating is a type of optical coating applied to the surface of lenses and other optical elements to reduce reflection. In typical imaging systems, this improves the efficiency since less light is lost due to reflection. In complex systems such as telescopes and microscopes the reduction in reflections also improves the contrast of the im

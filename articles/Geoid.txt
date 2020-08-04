@@ -1,0 +1,39 @@
+"Shape that the ocean surface would take under the influence of the gravity and rotation of Earth alone
+
+Not to be confused with geode.
+
+Not to be confused with GEOID, a geocoding scheme.
+
+Geodesy
+
+Fundamentals
+
+Geodesy
+
+Geodynamics
+
+Geomatics
+
+History
+
+Concepts
+
+Geographical distance
+
+Geoid
+
+Figure of the Earth (Earth radius and Earth's circumference)
+
+Geodetic datum
+
+Geodesic
+
+Geographic coordinate system
+
+Horizontal position representation
+
+Latitude / Longitude
+
+Map projection
+
+Reference elli

@@ -1,0 +1,5 @@
+"Final stage of electricity delivery to individual consumers in a power grid
+
+A 50 kVA pole-mounted distribution transformer
+
+Electric power distribution is the final stage in the delivery of electric power; it carries electricity from the transmission system to individual consumers. Distribution substations connect to the transmission system and lower the transmission voltage to medium voltage ranging between 2 kV and 35 kV with the use of transformers. Primary distribution lines carry this med

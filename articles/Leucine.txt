@@ -1,0 +1,60 @@
+Leucine
+
+L-Leucine
+
+Names
+
+IUPAC name
+Leucine
+
+Other names
+2-Amino-4-methylpentanoic acid
+
+Identifiers
+
+CAS Number
+
+ 61-90-5 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+ChEBI
+ CHEBI:57427 Y
+
+ChEMBL
+ ChEMBL291962 N
+
+ChemSpider
+ 5880 Y
+
+DrugBank
+ DB01746 Y
+
+ECHA InfoCard
+ 100.000.475
+
+IUPHAR/BPS
+
+ 3312
+
+KEGG
+ D00030 Y
+
+PubChem CID
+
+ 6106
+
+UNII
+ GMW67QNF9C Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID9023203
+
+InChI
+
+InChI=1S/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/t5

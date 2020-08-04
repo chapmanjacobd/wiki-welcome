@@ -1,0 +1,7 @@
+computer architecture where code and data share a common bus
+
+See also: Stored-program computer and Universal Turing machine § Stored-program computer
+
+A von Neumann architecture scheme
+
+The von Neumann architecture—also known as the von Neumann model or Princeton architecture—is a computer architecture based on a 1945 description by Hungarian-American mathematician and physicist John von Neumann and others in the First Draft of a Report on the EDVAC. That document describes a design archit

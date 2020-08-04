@@ -1,0 +1,7 @@
+"Computer peripheral that prints text or graphics
+
+HP LaserJet 5 printer
+
+The Game Boy Pocket Printer, a thermal printer released as a peripheral for the Nintendo Game Boy
+
+This is an example of a wide-carriage dot matrix printer, designed for 14-inch (360 mm) wide paper, shown with 8.5-by-14-inch (220 mm × 360 mm) legal paper. Wide carriage printers were often used in the field of businesses, to print accounting records on 11-by-14-inch (280 mm × 360 mm) tractor-feed paper. They were also cal

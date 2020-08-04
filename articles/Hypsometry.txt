@@ -1,0 +1,5 @@
+"Not to be confused with Hypsometric tints.
+
+Hypsometry (from Greek ὕψος, hupsos, "height" and μέτρον, metron, "measure") is the measurement of land elevation (relative to mean sea level). Bathymetry is the underwater equivalent.
+
+On Earth, the elevations can take on either positive or negative (below sea level) values, and are bimodal due to the contrast between the continents and oceans. On other planets within this solar system, elevations are typically unimodal, owing to the lack 

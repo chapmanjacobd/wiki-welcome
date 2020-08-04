@@ -1,0 +1,47 @@
+"Rate at which one currency will be exchanged for another
+
+USD, EUR and Romanian leu
+
+Foreign exchange
+
+Exchange rates
+
+Currency band
+
+Exchange rate
+
+Exchange-rate regime
+
+Exchange-rate flexibility
+
+Dollarization
+
+Fixed exchange rate
+
+Floating exchange rate
+
+Linked exchange rate
+
+Managed float regime
+
+Dual exchange rate
+
+Markets
+
+Foreign exchange market
+
+Futures exchange
+
+Retail foreign exchange trading
+
+Assets
+
+Currency
+
+Currency future
+
+Currency forward
+
+Non-deliverable forward
+
+Foreign exchan

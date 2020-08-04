@@ -1,0 +1,19 @@
+This article is a non-technical introduction to the subject. For the main encyclopedia article, see Design of the FAT file system.
+
+FATDeveloper(s) Microsoft, NCR, SCP, IBM, Compaq, Digital Research, Novell, Caldera
+
+Full name File Allocation Table
+
+Variants 8-bit FAT, FAT12, FAT16, FAT16B, FAT32, ExFAT, FATX, FAT+
+
+Introduced 1977 (1977) with Standalone Disk BASIC-80
+
+Partition identifier MBR/EBR:
+
+FAT12: 0x01 e.a. (Extended Attribute)
+
+FAT16: 0x04 0x06 0x0E e.a.
+
+FAT32: 0x0B 0x0C e.a.
+
+B

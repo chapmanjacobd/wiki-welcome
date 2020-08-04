@@ -1,0 +1,9 @@
+"Method of creating moving pictures
+
+"Animate" redirects here. For other uses, see Animate (disambiguation).
+
+The bouncing ball animation (below) consists of these six frames.
+
+This animation moves at 10 frames per second.
+
+Animation is a method in which figures are manipulated to appear as moving images. In traditional animation, images are drawn or painted by hand on transparent celluloid sheets to be photographed and exhibited on film. Today, most animations are made with computer-generated i

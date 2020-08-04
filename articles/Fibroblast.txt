@@ -1,0 +1,23 @@
+"Fibroblast
+
+NIH/3T3 Fibroblasts in cell culture
+
+Details
+
+Location Connective tissue
+
+Function Extracellular matrix and collagen creation
+
+Identifiers
+
+Latin fibroblastus
+
+MeSH D005347
+
+TH H2.00.03.0.01002
+
+FMA 63877
+
+Anatomical terms of microanatomy
+
+A fibroblast is a type of biological cell that synthesizes the extracellular matrix and collagen, produces the structural framework (stroma) for animal tissues, and plays a critical role in wound healing. Fibroblasts are the most common cells of c

@@ -1,0 +1,9 @@
+"Not to be confused with data cluster or grid computing.
+
+"Cluster computing" redirects here. For the journal, see Cluster Computing (journal).
+
+Technicians working on a large Linux cluster at the Chemnitz University of Technology, Germany
+
+Sun Microsystems Solaris Cluster, with In-Row cooling
+
+A computer cluster is a set of loosely or tightly connected computers that work together so that, in many respects, they can be viewed as a single system. Unlike grid computers, computer clusters have eac

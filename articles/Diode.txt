@@ -1,0 +1,7 @@
+"Electronic component that only allows current to flow in one direction
+
+For data diodes, see Unidirectional network. For other uses, see Diodes (disambiguation).
+
+Close-up view of a silicon diode. The anode is at the right side; the cathode is at the left side (where it is marked with a black band). The square silicon crystal can be seen between the two leads.
+
+Various semiconductor diodes. Bottom: A bridge rectifier. In most diodes, a white or black painted band identifies the cathode into whi

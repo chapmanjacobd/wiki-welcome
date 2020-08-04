@@ -1,0 +1,7 @@
+"Clock regulated by a pendulum
+
+Pendulum clock conceived by Galileo Galilei around 1637. The earliest known pendulum clock design, it was never completed.
+
+Vienna regulator style pendulum wall clock
+
+A pendulum clock is a clock that uses a pendulum, a swinging weight, as its timekeeping element. The advantage of a pendulum for timekeeping is that it is a harmonic oscillator: it swings back and forth in a precise time interval dependent on its length, and resists swinging at other rates. From its

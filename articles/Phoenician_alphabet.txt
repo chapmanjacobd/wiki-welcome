@@ -1,0 +1,39 @@
+It has been suggested that Paleo-Hebrew alphabet be merged into this article. (Discuss) Proposed since July 2020.
+
+Oldest verified alphabet
+
+Phoenician alphabet
+
+Type Abjad 
+
+Languages Phoenician, Punic.
+
+Time period
+
+c. 1050–150 BC
+
+Parent systems
+
+Egyptian hieroglyphs Proto-SinaiticPhoenician alphabet
+
+Child systems
+
+Aramaic alphabet
+
+Greek alphabet
+
+Sister systems
+
+South Arabian alphabet
+
+Moabite alphabet
+
+Direction Right-to-left
+
+ISO 15924 Phnx, 115
+
+Unicode alias
+
+Phoenician
+
+Unicode ra

@@ -1,0 +1,7 @@
+"Type of computer interface based on entering text commands and viewing text output
+
+Screenshot of a sample Bash session in GNOME Terminal 3, Fedora 15.
+
+Screenshot of Windows PowerShell 1.0, running on Windows Vista.
+
+A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. Operating systems implement a command-line interface in a shell for interac

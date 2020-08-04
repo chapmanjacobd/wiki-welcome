@@ -1,0 +1,5 @@
+"Reproduction process that creates a new organism by combining the genetic material of two organisms
+
+In the first stage of sexual reproduction, "meiosis", the number of chromosomes is reduced from a diploid number (2n) to a haploid number (n). During "fertilisation", haploid gametes come together to form a diploid zygote, and the original number of chromosomes is restored.
+
+Sexual reproduction is a type of reproduction that involves a complex life cycle in which a gamete (such as a sperm or egg

@@ -1,0 +1,46 @@
+"Alphabet for Arabic and other languages
+
+Arabic alphabet
+
+Type Abjad 
+
+Languages Arabic
+
+Time period
+
+3rd or 4th century AD to the present
+
+Parent systems
+
+EgyptianProto-SinaiticPhoenicianAramaicNabataeanArabic alphabet
+
+Direction Right-to-left
+
+ISO 15924 Arab, 160
+
+Unicode alias
+
+Arabic
+
+Unicode range
+
+U+0600–U+06FF
+
+Arabic,
+
+U+0750–U+077F
+
+Arabic Supplement,
+
+U+08A0–U+08FF
+
+Arabic Extended-A,
+
+U+FB50–U+FDFF
+
+Arabic Presentation Forms-A,
+
+U+FE70–U+FEFF
+
+Arabic Presentation Forms-B,
+

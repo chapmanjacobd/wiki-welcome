@@ -1,0 +1,3 @@
+Cycle between autotrophs and heterotrophs. Autotrophs use light, carbon dioxide (CO2), and water to form oxygen and complex organic compounds, mainly through the process of photosynthesis (green arrow). Both types of organisms use such compounds via cellular respiration to both generate ATP and again form CO2 and water (two red arrows).
+
+A heterotroph (/ˈhɛtərəˌtroʊf, -ˌtrɒf/; Ancient Greek ἕτερος héteros = "other" plus trophe = "nutrition") is an organism that cannot produce its

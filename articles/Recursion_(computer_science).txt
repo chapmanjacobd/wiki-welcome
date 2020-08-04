@@ -1,0 +1,17 @@
+"Use of functions that call themselves (on smaller inputs)
+
+This article is about recursive approaches to solving problems. For proofs by recursion, see Mathematical induction. For recursion in computer science acronyms, see Recursive acronym § Computer-related examples.
+
+Tree created using the Logo programming language and relying heavily on recursion. Each branch can be seen as a smaller version of a tree.
+
+Programming paradigms
+
+Action
+
+Agent-oriented
+
+Array-oriented
+
+Automata-based
+
+Concurr

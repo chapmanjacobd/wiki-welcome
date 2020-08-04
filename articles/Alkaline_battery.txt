@@ -1,0 +1,13 @@
+"Type of battery
+
+Alkaline battery Size comparison of alkaline batteries (left to right): C, AA, AAA, N, PP3 (9-volt).
+
+Self-discharge rate <0.3%/month
+
+Time durability 5–10 years
+
+Nominal cell voltage 1.5 V
+
+An alkaline battery (IEC code: L) is a type of primary battery which derives its energy from the reaction between zinc metal and manganese dioxide.
+
+Compared with zinc-carbon batteries of the Leclanché cell or zinc chloride types, alkaline batteries have a higher energy density and longe

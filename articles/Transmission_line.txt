@@ -1,0 +1,7 @@
+"This article is about the radio-frequency component. For the movement of electrical energy, see Electric power transmission. For the usage in acoustics, see Acoustic transmission line.
+
+Schematic of a wave moving rightward down a lossless two-wire transmission line. Black dots represent electrons, and the arrows show the electric field.
+
+One of the most common types of transmission line, coaxial cable.
+
+In radio-frequency engineering, a transmission line is a specialized cable or other structur

@@ -1,0 +1,9 @@
+"Set of musical alterations
+
+For use in cryptography, see Key signature (cryptography).
+
+Key signature B♭ major / G minor with two flats placed after the clef.
+
+In musical notation, a key signature is a set of sharp (♯), flat (♭), and rarely, natural (♮) symbols placed together on the staff. Key signatures are generally written immediately after the clef at the beginning of a line of musical notation, although they can appear in other parts of a score, notably after a double barline.
+
+A 

@@ -1,0 +1,5 @@
+Parallelization" redirects here. For parallelization of manifolds, see Parallelization (mathematics).
+
+IBM's Blue Gene/P massively parallel supercomputer
+
+Parallel computing is a type of computation in which many calculations or the execution of processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: bit-level, instruction-level, data, and task parallelism.

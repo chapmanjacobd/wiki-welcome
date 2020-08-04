@@ -1,0 +1,41 @@
+"dephosphorylation enzyme
+
+Adenosinetriphosphatase
+
+Identifiers
+
+EC number 3.6.1.3
+
+CAS number 9000-83-3
+
+Databases
+
+IntEnz IntEnz view
+
+BRENDA BRENDA entry
+
+ExPASy NiceZyme view
+
+KEGG KEGG entry
+
+MetaCyc metabolic pathway
+
+PRIAM profile
+
+PDB structures RCSB PDB PDBe PDBsum
+
+Search
+
+PMC articles
+
+PubMed articles
+
+NCBI proteins
+
+Adenosine triphosphate
+
+Adenosine diphosphate
+
+Adenosine monophosphate
+
+ATPases (EC 3.6.1.3, adenylpyrophosphatase, ATP monophosphatase, triphosphatase, SV40 T-antigen, a

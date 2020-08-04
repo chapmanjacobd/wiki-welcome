@@ -1,0 +1,7 @@
+"Computer networking technology
+
+A twisted pair cable with an 8P8C modular connector attached to a laptop computer, used for Ethernet
+
+An Ethernet over twisted pair port
+
+Ethernet (/ˈiːθərnɛt/) is a family of computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). It was commercially introduced in 1980 and first standardized in 1983 as IEEE 802.3. Ethernet has since been refined to support higher bit rates, 

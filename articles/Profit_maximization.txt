@@ -1,0 +1,3 @@
+"In economics, profit maximization is the short run or long run process by which a firm may determine the price, input, and output levels that lead to the highest profit. Neoclassical economics, currently the mainstream approach to microeconomics, usually models the firm as maximizing profit.
+
+There are several perspectives one can take on this problem. First, since profit equals revenue minus cost, one can plot graphically each of the variables revenue and cost as functions of the level of outp

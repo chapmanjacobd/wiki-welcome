@@ -1,0 +1,5 @@
+International X-ray Observatory concept
+
+An X-ray telescope (XRT) is a telescope that is designed to observe remote objects in the X-ray spectrum. In order to get above the Earth's atmosphere, which is opaque to X-rays, X-ray telescopes must be mounted on high altitude rockets, balloons or artificial satellites.
+
+The basic elements of the telescope are the optics (focusing or collimating), that collects the radiation entering the telescope, and the detector, on which the radiation is collected a

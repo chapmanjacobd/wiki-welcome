@@ -1,0 +1,49 @@
+"Currency of Mexico
+
+Mexican peso
+
+Peso Mexicano (Spanish)
+
+ISO 4217
+
+Code MXN
+
+Number 484
+
+Exponent 2
+
+Denominations
+
+Subunit
+
+ 1/100 centavo
+
+Symbol $ or Mex$
+
+ centavo ¢
+
+Banknotes
+
+ Freq. used $20, $50, $100, $200, $500
+
+ Rarely used $1000
+
+Coins
+
+ Freq. used 10¢, 20¢, 50¢, $1, $2, $5, $10, $20
+
+ Rarely used 5¢, $25, $50, $100
+
+Demographics
+
+User(s) Mexico
+
+Issuance
+
+Central bank Bank of Mexico
+
+ Website www.banxico.org.mx
+
+Printer Bank of Mexico
+
+ Website www.banxico.or

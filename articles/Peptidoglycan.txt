@@ -1,0 +1,5 @@
+"Polymer in bacterial cell walls
+
+Not to be confused with Glycopeptide, Proteoglycan, or Glycoprotein.
+
+Peptidoglycan or murein is a polymer consisting of sugars and amino acids that forms a mesh-like layer outside the plasma membrane of most bacteria, forming the cell wall. The sugar component consists of alternating residues of β-(1,4) linked N-acetylglucosamine (NAG) and N-acetylmuramic acid (NAM). Attached to the N-acetylmuramic acid is a peptide chain of three to five amino acids. The pept

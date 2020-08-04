@@ -1,0 +1,43 @@
+Obervation on the growth of integrated circuit capacity
+
+A semi-log plot of transistor counts for microprocessors against dates of introduction, nearly doubling every two years.
+
+Semiconductor
+
+device
+
+fabrication
+
+MOSFET scaling
+
+(process nodes)
+
+010 µm – 1971
+
+006 µm – 1974
+
+003 µm – 1977
+
+ 1.5 µm – 1981
+
+001 µm – 1984
+
+800 nm – 1987
+
+600 nm – 1990
+
+350 nm – 1993
+
+250 nm – 1996
+
+180 nm – 1999
+
+130 nm – 2001
+
+090 nm – 2003
+
+065 nm – 2005
+
+045 nm – 2007
+
+032 nm �

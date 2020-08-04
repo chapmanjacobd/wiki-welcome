@@ -1,0 +1,5 @@
+"Mounting system for camera or telescope
+
+A large German equatorial mount on the Forststernwarte Jena 50cm Cassegrain reflector telescope.
+
+An equatorial mount is a mount for instruments that compensates for Earth's rotation by having one rotational axis parallel to the Earth's axis of rotation. This type of mount is used for astronomical telescopes and cameras. The advantage of an equatorial mount lies in its ability to allow the instrument attached to it to stay fixed on any celestial object w

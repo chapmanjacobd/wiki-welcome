@@ -1,0 +1,5 @@
+"software assisting the design of electronics systems such as integrated circuits and computer hardware
+
+"ECAD" redirects here. For the Brazilian organization, see ECAD (Brazil). For other uses, see ECAD (disambiguation).
+
+Electronic design automation (EDA), also referred to as electronic computer-aided design (ECAD), is a category of software tools for designing electronic systems such as integrated circuits and printed circuit boards. The tools work together in a design flow that chip designer

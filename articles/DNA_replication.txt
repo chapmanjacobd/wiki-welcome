@@ -1,0 +1,5 @@
+"Biological process
+
+DNA replication: The double helix is un'zipped' and unwound, then each separated strand (turquoise) acts as a template for replicating a new partner strand (green). Nucleotides (bases) are matched to synthesize the new partner strands into two new double helices.
+
+In molecular biology, DNA replication is the biological process of producing two identical replicas of DNA from one original DNA molecule. DNA replication occurs in all living organisms acting as the most essential

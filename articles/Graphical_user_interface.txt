@@ -1,0 +1,7 @@
+GUI" redirects here. For other uses, see Gui (disambiguation).
+
+User interface allowing interaction through graphical icons and visual indicators
+
+The interim Dynabook GUI (Smalltalk-76 running on the Xerox Alto)
+
+The graphical user interface (GUI /ˈdʒiːjuːaɪ/ gee-you-eye or /ˈɡuːi/) is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicator such as primary notation, instead of text-based user interfaces, typed command la

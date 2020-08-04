@@ -1,0 +1,27 @@
+"X-ray space observatory
+
+XMM-Newton Artist's impression of the XMM-Newton spacecraft
+
+Names High Throughput X-ray Spectroscopy Mission
+
+X-ray Multi-Mirror Mission
+
+Mission type X-ray astronomy
+
+Operator European Space Agency
+
+COSPAR ID 1999-066A
+
+SATCAT no. 25989
+
+Website http://sci.esa.int/xmm-newton/
+
+http://xmm.esac.esa.int/
+
+Mission duration Planned: 10 years
+
+Elapsed: 20 years, 7 months, 16 days
+
+Spacecraft properties
+
+Manufacturer Dornier Satellitensysteme, Carl Zeiss, Media Lario, Matra 

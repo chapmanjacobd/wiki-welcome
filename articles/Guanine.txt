@@ -1,0 +1,49 @@
+"Not to be confused with Guanosine, Guanidine, Guanfacine, or Guanamine.
+
+Chemical compound of DNA and RNA
+
+Guanine
+ 
+Names
+
+IUPAC name
+2-amino-9H-purin-6(1H)-one
+
+Other names
+1,9-dihydro-6H-purin-6-one,
+
+2-amino-6-hydroxypurine,
+
+2-aminohypoxanthine,
+
+Guanine
+
+Identifiers
+
+CAS Number
+
+ 73-40-5 Y
+
+3D model (JSmol)
+
+ keto form: Interactive image
+
+enol form: Interactive image
+
+Beilstein Reference
+
+ 147911
+
+ChEBI
+ CHEBI:16235 Y
+
+ChEMBL
+ ChEMBL219568 Y
+
+ChemSpider
+ 744 Y
+
+DrugBank
+ DB02377 Y
+
+ECHA I

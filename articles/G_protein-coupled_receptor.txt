@@ -1,0 +1,36 @@
+"Large protein family
+
+GPCR
+
+The human beta-2 adrenergic receptor in complex with the partial inverse agonist carazolol.
+
+Identifiers
+
+Symbol 7tm_1
+
+Pfam PF00001
+
+InterPro IPR000276
+
+PROSITE PDOC00210
+
+TCDB 9.A.14
+
+OPM superfamily 6
+
+OPM protein 1gzm
+
+CDD cd14964
+
+Available protein structures:
+
+Pfam
+ structures / ECOD
+
+PDB RCSB PDB; PDBe; PDBj
+
+PDBsum structure summary
+
+The seven-transmembrane α-helix structure of bovine rhodopsin
+
+G protein-coupled receptors (GPCRs), also known as seven-(pass)

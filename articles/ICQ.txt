@@ -1,0 +1,23 @@
+"Instant messaging service
+
+For other uses, see ICQ (disambiguation).
+
+ICQ LLC
+
+Screenshot
+
+ICQ New (released 2020)
+
+Original author(s) Mirabilis
+
+Developer(s) ICQ (belonging to Mail.ru Group)
+
+Initial release November 15, 1996; 23 years ago (1996-11-15), Israel
+
+Stable release 10.0.12188 (March 25, 2020)
+
+Repository github.com/mail-ru-im/im-desktop
+
+Written in C++ (Linux/Windows/MacOS), Objective-C/Swift (iOS), Java/Kotlin (Android)
+
+Platform iOS, Android, Windows, MacOS, web application, Linux

@@ -1,0 +1,5 @@
+Biological process of gene regulation
+
+Lentiviral delivery of designed shRNAs and the mechanism of RNA interference in mammalian cells.
+
+RNA interference (RNAi) is a biological process in which RNA molecules inhibit gene expression or translation, by neutralizing targeted mRNA molecules. Historically, RNAi was known by other names, including co-suppression, post-transcriptional gene silencing (PTGS), and quelling. The detailed study of each of these seemingly different processes elucidated that 

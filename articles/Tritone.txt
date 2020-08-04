@@ -1,0 +1,39 @@
+"For other uses, see Tritone (disambiguation).
+
+musical interval
+
+tritoneInverse tritone
+
+Name
+
+Other names augmented fourth, diminished fifth
+
+Abbreviation TT, A4, d5
+
+Size
+
+Semitones 6
+
+Interval class 6
+
+Just interval Pythagorean: 729:512, 1024:729
+
+5-limit: 25:18, 36:25; 45:32, 64:45
+
+7-limit: 7:5, 10:7
+
+13-limit: 13:9, 18:13
+
+Cents
+
+Equal temperament 600
+
+Just intonation Pythagorean: 612, 588
+
+5-limit: 569, 631; 590, 610
+
+7-limit: 583, 617
+
+13-limit: 563, 637
+
+In music theory, the tritone is

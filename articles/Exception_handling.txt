@@ -1,0 +1,5 @@
+Error handling" redirects here. It is not to be confused with Error detection and correction.
+
+This article is about computing. For knowledge, see fact checking and problem solving.
+
+In computing and computer programming, exception handling is the process of responding to the occurrence of exceptions – anomalous or exceptional conditions requiring special processing - during the execution of a program. In general, an exception breaks the normal flow of execution and executes a pre-registered e

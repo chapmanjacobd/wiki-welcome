@@ -1,0 +1,24 @@
+"Programming paradigm based on the concept of objects
+
+"Object-oriented" redirects here. For other meanings of object-oriented, see Object-orientation.
+
+"Object-oriented programming language" redirects here. For a list of object-oriented programming languages, see List of object-oriented programming languages.
+
+Programming paradigms
+
+Action
+
+Agent-oriented
+
+Array-oriented
+
+Automata-based
+
+Concurrent computing
+Relativistic programming
+
+Data-driven
+
+Declarative (contrast: Imperative)
+Functional
+Fu

@@ -1,0 +1,7 @@
+High-performance computing" redirects here. For narrower definitions of HPC, see high-throughput computing and many-task computing. For other uses, see supercomputer (disambiguation).
+
+Extremely powerful computer for its era
+
+The IBM Blue Gene/P supercomputer "Intrepid" at Argonne National Laboratory runs 164,000 processor cores using normal data center air conditioning, grouped in 40 racks/cabinets connected by a high-speed 3-D torus network.
+
+A supercomputer is a computer with a high level of 

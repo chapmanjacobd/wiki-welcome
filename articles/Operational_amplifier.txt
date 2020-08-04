@@ -1,0 +1,24 @@
+"Operational amplifier
+
+A μA741 integrated circuit, one of the most successful operational amplifiers
+
+Type Discrete circuit
+
+Integrated circuit
+
+Invented Karl D. Swartzel Jr.
+
+First production 1967
+
+Pin configuration 
+V+: non-inverting input
+
+V−: inverting input
+
+Vout: output
+
+VS+: positive power supply
+
+VS−: negative power supply
+
+The power supply pins (VS+ and VS−) can be labeled in different ways (See IC power supply pins). Often these pins are left out of the diagram for clarity, and

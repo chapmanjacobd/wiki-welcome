@@ -1,0 +1,39 @@
+"Greater Helsinki, Finland rapid transit system
+
+Helsinki Metro
+
+M300 train
+
+M100, the oldest class still in use, en route to Vuosaari
+
+Overview
+
+Native name Helsingin metro
+
+Helsingfors metro
+
+Locale Greater Helsinki, Finland
+
+Transit type Rapid transit
+
+Number of lines 2
+
+Number of stations 25
+
+5 under construction
+
+Daily ridership 304,000 (2017)
+
+Annual ridership 62,884,000 (2015)
+
+Website HKL Metro
+
+Operation
+
+Began operation 2 August 1982
+
+Operator(s) Helsinki City Transport
+
+Technical
+
+Sys

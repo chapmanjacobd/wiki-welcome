@@ -1,0 +1,21 @@
+"Early electronic digital computing device
+
+Atanasoff–Berry computer (ABC) Atanasoff–Berry computer replica at Durham Center, Iowa State University
+
+Developer John Vincent Atanasoff with help of graduate student Clifford Berry
+
+Release date 1942; 78 years ago (1942)
+
+Units sold 1
+
+CPU More than 300 vacuum tubes @ 60 Hz
+
+Memory 3000 bits
+
+Display Decimal, via a front panel display
+
+Input Decimal, via standard IBM 80-column punched cards
+
+Mass 700 pounds (320 kg)
+
+The Atanasoff–Berry compute

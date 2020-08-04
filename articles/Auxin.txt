@@ -1,0 +1,17 @@
+"Native auxins
+
+Indole-3-acetic acid (IAA) is the most abundant and the basic auxin natively occurring and functioning in plants. It generates the majority of auxin effects in intact plants, and is the most potent native auxin.
+
+There are four more endogenously synthesized auxins in plants.
+
+All auxins are compounds with aromatic ring and a carboxylic acid group:
+
+4-Chloroindole-3-acetic acid (4-CI-IAA)
+
+2-phenylacetic acid (PAA)
+
+Indole-3-butyric acid (IBA)
+
+Indole-3-propionic acid (IPA)
+
+For r

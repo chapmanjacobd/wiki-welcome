@@ -1,0 +1,35 @@
+"American mathematician
+
+Richard Ernest Bellman
+
+Born Richard Ernest Bellman
+
+(1920-08-26)August 26, 1920
+
+New York City, New York, U.S.
+
+Died March 19, 1984(1984-03-19) (aged 63)
+
+Los Angeles, California, U.S.
+
+Alma mater Princeton University
+
+Johns Hopkins University
+
+University of Wisconsin
+
+Brooklyn College
+
+Known for Dynamic programming
+
+Stochastic dynamic programming
+
+Curse of dimensionality
+
+Linear search problem
+
+Bellman equation
+
+Bellman–Ford algorithm
+
+Bellman's lost in a forest prob

@@ -1,0 +1,5 @@
+"Standardized specification for music synthesizers adopting the MIDI protocol
+
+This article is about the electronic musical instrument specification. For the British DJ, see General Midi (DJ).
+
+General MIDI (also known as GM or GM 1) is a standardized specification for electronic musical instruments that respond to MIDI messages. GM was developed by the American MIDI Manufacturers Association (MMA) and the Japan MIDI Standards Committee (JMSC) and first published in 1991. The official specificat

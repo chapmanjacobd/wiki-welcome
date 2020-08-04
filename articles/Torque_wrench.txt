@@ -1,0 +1,5 @@
+A torque wrench
+
+A torque wrench is a tool used to apply a specific torque to a fastener such as a nut or bolt. It is usually in the form of a socket wrench with special internal mechanisms.
+
+A torque wrench is used where the tightness of screws and bolts is crucial. It allows the operator to set the torque applied to the fastener so it can be matched to the specifications for a particular application. This permits proper tension and loading of all parts. A torque wrench uses torque as a proxy f

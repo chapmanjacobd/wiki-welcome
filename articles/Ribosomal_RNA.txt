@@ -1,0 +1,5 @@
+"RNA component of the ribosome, essential for protein synthesis in all living organisms
+
+Three-dimensional views of the ribosome, showing rRNA in dark blue (small subunit) and dark red (large subunit). Lighter colors represent ribosomal proteins.
+
+Ribosomal ribonucleic acid (rRNA) is a type of non-coding RNA which is the primary component of ribosomes, essential to all cells. rRNA is a ribozyme which carries out protein synthesis in ribosomes. Ribosomal RNA is transcribed from ribosomal DNA (rDN

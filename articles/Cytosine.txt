@@ -1,0 +1,56 @@
+"Chemical compound in nucleic acids
+
+Not to be confused with cysteine, cystine, cytisine, or cytidine.
+
+Cytosine
+ 
+Names
+
+IUPAC name
+4-aminopyrimidin-2(1H)-one
+
+Other names
+4-amino-1H-pyrimidine-2-one
+
+Identifiers
+
+CAS Number
+
+ 71-30-7 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:16040 Y
+
+ChEMBL
+ ChEMBL15913 Y
+
+ChemSpider
+ 577 Y
+
+ECHA InfoCard
+ 100.000.681
+
+KEGG
+ C00380 Y
+
+MeSH
+ Cytosine
+
+PubChem CID
+
+ 597
+
+UNII
+ 8J337D1HZY Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID4044456
+
+InChI
+
+InChI=1S/C4H

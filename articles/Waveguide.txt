@@ -1,0 +1,7 @@
+"This article is about waveguides in general. For use in radio and microwave engineering, see Waveguide (radio frequency). For acoustic waveguides, see Waveguide (acoustics). For optical waveguides, see Waveguide (optics).
+
+A section of flexible waveguide with a pressurizable flange
+
+Electric field Ex component of the TE31 mode inside an x-band hollow metal waveguide.
+
+A waveguide is a structure that guides waves, such as electromagnetic waves or sound, with minimal loss of energy by restricting

@@ -1,0 +1,7 @@
+"The study of analyzing information systems in order to study the hidden aspects of the systems
+
+Several terms redirect here. For other uses, see Codebreaker (disambiguation).
+
+Close-up of the rotors in a Fialka cipher machine
+
+Cryptanalysis (from the Greek kryptós, "hidden", and analýein, "to loosen" or "to untie") is the study of analyzing information systems in order to study the hidden aspects of the systems. Cryptanalysis is used to breach cryptographic security systems and gain access to

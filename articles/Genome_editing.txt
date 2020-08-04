@@ -1,0 +1,7 @@
+The different generations of nucleases used for genome editing and the DNA repair pathways used to modify target DNA.
+
+Genome editing, or genome engineering, or gene editing, is a type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism. Unlike early genetic engineering techniques that randomly inserts genetic material into a host genome, genome editing targets the insertions to site specific locations.
+
+ Part of a series on
+
+Genetic 

@@ -1,0 +1,7 @@
+Grid storage" redirects here. For data storage with grid computing, see Grid-oriented storage.
+
+Simplified electrical grid with energy storage.
+
+Simplified grid energy flow with and without idealized energy storage for the course of one day.
+
+Grid energy storage (also called large-scale energy storage) is a collection of methods used for energy storage on a large scale within an electrical power grid. Electrical energy is stored during times when electricity is plentiful and inexpensive (especia

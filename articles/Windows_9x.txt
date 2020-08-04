@@ -1,0 +1,18 @@
+Windows 4.x" redirects here. For the operating system in the NT family, see Windows NT 4.0.
+
+For the Microsoft Windows operating system formerly referred to as Windows 9, see Windows 10.
+
+Windows 9x Screenshot of Windows 95, the first version of Windows in the 9x series
+
+Developer Microsoft
+
+OS family Microsoft Windows
+
+Working state Windows 95 unsupported as of December 31, 2001
+Windows 98/Me unsupported as of July 11, 2006
+
+Source model Closed source
+
+Platforms IA-32
+
+Kernel type Monolithic (D

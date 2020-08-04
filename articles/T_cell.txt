@@ -1,0 +1,28 @@
+"Type of lymphocyte
+
+T lymphocyte
+cell
+
+Scanning electron micrograph of a human T cell
+
+Scanning electron micrograph of a red blood cell (left), a platelet (center), and a T lymphocyte (right)
+
+Details
+
+System Immune system
+
+Identifiers
+
+Latin lymphocytus T
+
+MeSH D013601
+
+TH H2.00.04.1.02007
+
+FMA 62870
+
+Anatomical terms of microanatomy
+
+3D rendering of a T cell
+
+A T cell is a type of lymphocyte, which develops in the thymus gland (hence the name) and plays a central role in the immune response. 

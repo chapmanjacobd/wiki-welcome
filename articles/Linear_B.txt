@@ -1,0 +1,37 @@
+"This article is about the ancient syllabary. For the JavaScript engine, see linear b (script engine).
+
+Not to be confused with Linear Pottery culture.
+
+Syllabic script that was used for writing Mycenaean Greek
+
+Linear B
+
+Type Syllabary with additional ideograms
+
+Languages Mycenaean Greek
+
+Time period
+
+Late Bronze Age
+
+Status Extinct
+
+Parent systems
+
+Linear ALinear B
+
+Sister systems
+
+Cypro-Minoan syllabary
+
+Direction Left-to-right
+
+ISO 15924 Linb, 401
+
+Unicode alias
+
+Linear B
+
+Unicode range
+
+U+1

@@ -1,0 +1,5 @@
+"Attempt to persuade or to determine the truth of a conclusion
+
+This article is about the subject as it is studied in logic and philosophy. For other uses, see Argument (disambiguation).
+
+In logic and philosophy, an argument is a series of statements (in a natural language), called the premises or premisses (both spellings are acceptable), intended to determine the degree of truth of another statement, the conclusion. The logical form of an argument in a natural language can be represented in a 

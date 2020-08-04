@@ -1,0 +1,11 @@
+"Telescope for observations with visible light
+
+The Large Binocular Telescope uses two curved mirrors to gather light
+
+An optical telescope is a telescope that gathers and focuses light, mainly from the visible part of the electromagnetic spectrum, to create a magnified image for direct view, or to make a photograph, or to collect data through electronic image sensors.
+
+There are three primary types of optical telescope:
+
+refractors, which use lenses (dioptrics)
+
+reflectors, which use mirrors (c

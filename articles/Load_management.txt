@@ -1,0 +1,3 @@
+Daily load diagram; Blue shows real load usage and green shows ideal load.
+
+Load management, also known as demand-side management (DSM), is the process of balancing the supply of electricity on the network with the electrical load by adjusting or controlling the load rather than the power station output. This can be achieved by direct intervention of the utility in real time, by the use of frequency sensitive relays triggering the circuit breakers (ripple control), by time clocks, or by using sp

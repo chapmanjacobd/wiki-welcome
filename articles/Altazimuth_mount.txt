@@ -1,0 +1,5 @@
+A Newtonian telescope on a simple Dobsonian mount
+
+An altazimuth or alt-azimuth mount is a simple two-axis mount for supporting and rotating an instrument about two perpendicular axes – one vertical and the other horizontal. Rotation about the vertical axis varies the azimuth (compass bearing) of the pointing direction of the instrument. Rotation about the horizontal axis varies the altitude (angle of elevation) of the pointing direction.
+
+These mounts are used, for example, with telescopes, c

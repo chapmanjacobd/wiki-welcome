@@ -1,0 +1,37 @@
+"Type of memory storage for portable devices
+
+"SDHC" redirects here. For the gene, see SDHC (gene).
+
+Secure Digital
+
+(SD, SDHC, SDXC, SDUC)
+
+From top to bottom: SD, miniSD, microSD
+
+Media type Memory card
+
+Encoding Bit
+
+Capacity SD: Up to 2 GB
+
+SDHC: 2 GB to 32 GB
+
+SDXC: 32 GB to 2 TB
+
+SDUC: 2 TB to 128 TB
+
+Block size Variable
+
+Read mechanism Standard: > 12.5 MB/s
+
+High-speed: > 25 MB/s
+
+UHS-I: > 104 MB/s
+
+UHS-II: > 312 MB/s
+
+UHS-III: > 624 MB/s
+
+Express: > 985 MB/s
+
+Write mechanism Same as Read

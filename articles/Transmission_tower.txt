@@ -1,0 +1,11 @@
+"Structure used to support an overhead power line
+
+Transmission tower A transmission tower
+
+Type Structure, lattice tower and overhead power line
+
+First production 20th century
+
+A transmission tower or power tower (alternatively electricity pylon or variations) is a tall structure, usually a steel lattice tower, used to support an overhead power line.
+
+In electric power grids they are generally used to carry high voltage transmission lines that transport bulk power from generating stations to el

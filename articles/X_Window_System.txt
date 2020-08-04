@@ -1,0 +1,9 @@
+"windowing system for bitmap displays on UNIX-like systems
+
+"X11" redirects here. For other uses, see X11 (disambiguation).
+
+A modern example of a graphical user interface using X11 and KDE Plasma 5.16
+
+The X Window System (X11, or simply X) is a windowing system for bitmap displays, common on Unix-like operating systems.
+
+X provides the basic framework for a GUI environment: drawing and moving windows on the display device and interacting with a mouse and keyboard. X does not mandate the user i

@@ -1,0 +1,3 @@
+"For other uses, see Heuristic (disambiguation).
+
+A heuristic technique, or a heuristic (/hjʊəˈrɪstɪk/; Ancient Greek: εὑρίσκω, heurískō, 'I find, discover'), is any approach to problem solving or self-discovery that employs a practical method that is not guaranteed to be optimal, perfect, or rational, but is nevertheless sufficient for reaching an immediate, short-term goal or approximation. Where finding an optimal solution is impossible or impractical, heuristic methods can be 

@@ -1,0 +1,5 @@
+"Interdisciplinary field of engineering and engineering management that focuses on how to design and manage complex systems over their life cycles
+
+Systems engineering techniques are used in complex projects: spacecraft design, computer chip design, robotics, software integration, and bridge building. Systems engineering uses a host of tools that include modeling and simulation, requirements analysis and scheduling to manage complexity.
+
+Systems engineering is an interdisciplinary field of engin

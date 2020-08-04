@@ -1,0 +1,7 @@
+"The poles of a dipole approximation to the Earth's field
+
+For broader coverage of this topic, see Earth's magnetic field.
+
+Illustration of the difference between geomagnetic poles (Nm and Sm) and geographical poles (Ng and Sg)
+
+The geomagnetic poles are antipodal points where the axis of a best-fitting dipole intersects the surface of Earth. This theoretical dipole is equivalent to a powerful bar magnet at the center of Earth, and comes closer than any other model to describing the magnetic fie

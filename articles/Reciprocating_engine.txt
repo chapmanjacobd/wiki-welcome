@@ -1,0 +1,21 @@
+"Engine utilising one or more reciprocating pistons.
+
+Internal combustion piston engine
+
+Components of a typical, four-stroke cycle, internal combustion piston engine. C. Crankshaft
+
+E. Exhaust camshaft
+
+I. Intake camshaft
+
+P. Piston
+
+R. Connecting rod
+
+S. Spark plug
+
+W. Water jacket for coolant flow
+
+V. Valves
+
+A reciprocating engine, also often known as a piston engine, is typically a heat engine (although there are also pneumatic and hydraulic reciprocating engines) that uses one or more reci

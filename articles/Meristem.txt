@@ -1,0 +1,5 @@
+"Type of plant tissue involved in cell proliferation
+
+Tunica-Corpus model of the apical meristem (growing tip). The epidermal (L1) and subepidermal (L2) layers form the outer layers called the tunica. The inner L3 layer is called the corpus. Cells in the L1 and L2 layers divide in a sideways fashion, which keeps these layers distinct, whereas the L3 layer divides in a more random fashion.
+
+The meristem is a type of tissue found in plants. It consists of undifferentiated cells (meristematic cells

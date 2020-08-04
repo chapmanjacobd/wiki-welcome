@@ -1,0 +1,37 @@
+"DNA-directed DNA polymerase
+
+3D structure of the DNA-binding helix-turn-helix motifs in human DNA polymerase beta (based on PDB file 7ICG)
+
+Identifiers
+
+EC number 2.7.7.7
+
+CAS number 9012-90-2
+
+Databases
+
+IntEnz IntEnz view
+
+BRENDA BRENDA entry
+
+ExPASy NiceZyme view
+
+KEGG KEGG entry
+
+MetaCyc metabolic pathway
+
+PRIAM profile
+
+PDB structures RCSB PDB PDBe PDBsum
+
+Gene Ontology AmiGO / QuickGO
+
+Search
+
+PMC articles
+
+PubMed articles
+
+NCBI proteins
+
+DNA polymerase is an enzyme that synthesizes DNA m

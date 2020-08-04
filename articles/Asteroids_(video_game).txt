@@ -1,0 +1,41 @@
+"1979 video game
+
+Asteroids
+
+Arcade flyer
+
+Developer(s) Atari, Inc.
+
+Publisher(s) Atari, Inc.
+
+Taito (Japan)
+
+Atari Corporation (7800)
+
+Designer(s) Lyle Rains
+
+Ed Logg
+
+Dominic Walsh
+
+Series Asteroids
+
+Platform(s) Arcade, Atari 2600, Atari 7800, Atari 8-bit, Game Boy
+
+Release November 1979: Arcade
+
+1981: 2600, Atari 8-bit
+
+1986: 7800
+
+1992: Game Boy
+
+Genre(s) Multidirectional shooter
+
+Mode(s) Single-player, multiplayer
+
+Cabinet Upright and cocktail
+
+CPU 1 × 6502 @ 1.512 MHz
+
+Sound Discrete circ

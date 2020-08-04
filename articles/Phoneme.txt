@@ -1,0 +1,7 @@
+"Basic unit of phonology
+
+This article is about the speech unit. For the JavaME library, see phoneME. For the collection of phenotypes, see phenome.
+
+ This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters. For an introductory guide on IPA symbols, see Help:IPA.
+
+In phonology and linguistics, a phoneme /ˈfoʊniːm/ is a unit of sound that distinguishes one word from another in a particular l

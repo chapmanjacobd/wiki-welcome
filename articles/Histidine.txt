@@ -1,0 +1,53 @@
+"Chemical compound
+
+l-Histidine
+ 
+Names
+
+IUPAC name
+Histidine
+
+Other names
+2-Amino-3-(1H-imidazol-4-yl)propanoic acid
+
+Identifiers
+
+CAS Number
+
+ 71-00-1 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+Protonated zwitterion: Interactive image
+
+Interactive image
+
+Zwitterion: Interactive image
+
+Protonated zwitterion: Interactive image
+
+ChEBI
+ CHEBI:57595 Y
+
+ChEMBL
+ ChEMBL17962 Y
+
+ChemSpider
+ 6038 Y
+
+DrugBank
+ DB00117 Y
+
+ECHA InfoCard
+ 100.000.678
+
+IUPHAR/BPS
+
+ 3310
+
+KEGG
+ D0

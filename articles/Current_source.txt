@@ -1,0 +1,7 @@
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Current source" – news · newspapers · books · scholar · JSTOR (January 2019) (Learn how and when to remove this template message)
+
+Figure 1: An ideal current source, I, driving a resistor, R, and creating a voltage V
+
+A current source is an electronic circuit that delivers or absorbs an electric

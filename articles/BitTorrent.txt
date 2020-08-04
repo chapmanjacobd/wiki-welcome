@@ -1,0 +1,35 @@
+"This article is about the file sharing protocol. For other uses, see BitTorrent (disambiguation).
+
+BitTorrentOriginal author(s) Bram Cohen
+
+Developer(s) Bram Cohen, David Harrison
+
+Initial release 2001; 19 years ago (2001)
+
+Repository github.com/bittorrent/bittorrent.org
+
+Operating system 
+Android
+
+iOS
+
+Linux
+
+macOS
+
+Windows
+
+Other
+
+Standard(s) The BitTorrent Protocol Specification
+
+Type peer-to-peer file sharing
+
+License Unknown
+
+Website www.bittorrent.org
+
+ Part of a series on
+
+File sharing
+

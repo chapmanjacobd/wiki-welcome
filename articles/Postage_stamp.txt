@@ -1,0 +1,13 @@
+"Small piece of paper that is displayed on an item of mail as evidence of payment for postage
+
+The main components of a stamp:
+
+1. Image
+
+2. Perforations
+
+3. Denomination
+
+4. Country name
+
+A postage stamp is a small piece of paper issued by a post office, postal administration, or other authorized vendors to customers who pay postage (the cost involved in moving, insuring, or registering mail), who then affix the stamp to the face or address-side of any item of mail—an envelope or other postal

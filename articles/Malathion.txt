@@ -1,0 +1,62 @@
+Malathion
+ 
+Names
+
+IUPAC name
+Diethyl 2-butanedioate
+
+Other names
+2-(Dimethoxyphosphinothioylthio) butanedioic acid diethyl ester
+
+Malathion
+
+Carbofos
+
+Maldison
+
+Mercaptothion
+
+Ortho malathion
+
+Identifiers
+
+CAS Number
+
+ 121-75-5 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:6651 Y
+
+ChEMBL
+ ChEMBL1200468 N
+
+ChemSpider
+ 3864 Y
+
+DrugBank
+ DB00772 Y
+
+ECHA InfoCard
+ 100.004.089
+
+KEGG
+ D00534 Y
+
+PubChem CID
+
+ 4004
+
+UNII
+ U5N7SU872W Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID4020791
+
+InChI
+
+InChI=1S/C1

@@ -1,0 +1,19 @@
+"RNA that facilitates the addition of amino acids to a new protein
+
+The interaction of tRNA and mRNA in protein synthesis.
+
+tRNA
+
+Identifiers
+
+Symbol t
+
+Rfam RF00005
+
+Other data
+
+RNA type gene, tRNA
+
+PDB structures PDBe 3icq, 1asy, 1asz, 1il2, 2tra, 3tra, 486d, 1fir, 1yfg, 3eph, 3epj, 3epk, 3epl, 1efw, 1c0a, 2ake, 2azx, 2dr2, 1f7u, 1f7v, 3foz, 2hgp, 2j00 , 2j02, 2ow8, 2v46, 2v48, 2wdg, 2wdh, 2wdk, 2wdm, 2wh1
+
+A transfer RNA (abbreviated tRNA and formerly referred to as sRNA, for soluble RNA) is 

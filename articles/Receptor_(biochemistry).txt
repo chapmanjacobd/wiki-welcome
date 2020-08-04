@@ -1,0 +1,11 @@
+"protein molecule receiving signals for a cell
+
+For other uses, see Receptor (disambiguation).
+
+An example of membrane receptors. Ligands, located outside the cell
+
+Ligands connect to specific receptor proteins based on the shape of the active site of the protein.
+
+The receptor releases a messenger once the ligand has connected to the receptor.
+
+In biochemistry and pharmacology, receptors are chemical structures, composed of protein, that receive and transduce signals that may be integrated into

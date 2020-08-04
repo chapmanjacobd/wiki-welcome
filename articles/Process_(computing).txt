@@ -1,0 +1,5 @@
+A list of processes as displayed by htop
+
+In computing, a process is the instance of a computer program that is being executed by one or many threads. It contains the program code and its activity. Depending on the operating system (OS), a process may be made up of multiple threads of execution that execute instructions concurrently.
+
+While a computer program is a passive collection of instructions, a process is the actual execution of those instructions. Several processes may be associated with

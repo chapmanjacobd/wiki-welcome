@@ -1,0 +1,29 @@
+"Web mapping service by Google
+
+Google Maps
+
+Screenshot
+
+Screenshot of Google Maps on a web browser
+
+Type of site
+
+Web mapping
+
+Available in Multilingual
+
+Owner Google
+
+URL google.com/maps
+
+Commercial Yes
+
+Registration Optional, included with a Google Account
+
+Launched February 8, 2005; 15 years ago (2005-02-08)
+
+Current status Active
+
+Written in C++ (back-end), JavaScript, XML, Ajax (UI)
+
+Google Maps is a web mapping service developed by Google. It offers satellite imagery, aerial photography, 

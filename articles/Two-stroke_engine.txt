@@ -1,0 +1,3 @@
+Two-stroke cycle used in gasoline/petrol engines
+
+A two-stroke (or two-cycle) engine is a type of internal combustion engine that completes a power cycle with two strokes (up and down movements) of the piston during only one crankshaft revolution. This is in contrast to a "four-stroke engine", which requires four strokes of the piston to complete a power cycle during two crankshaft revolutions. In a two-stroke engine, the end of the combustion stroke and the beginning of the compression stroke h

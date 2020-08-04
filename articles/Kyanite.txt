@@ -1,0 +1,37 @@
+"aluminosilicate mineral
+
+Kyanite
+
+General
+
+Category Nesosilicate
+
+Formula
+
+(repeating unit) Al2SiO5
+
+Strunz classification 9.AF.15
+
+Crystal system Triclinic
+
+Crystal class Pinacoidal (1)
+
+(same H-M symbol)
+
+Space group P1
+
+Unit cell a = 7.1262(12) Å
+
+b = 7.852(10) Å
+
+c = 5.5724(10) Å
+
+α = 89.99(2)°, β = 101.11(2)°
+
+γ = 106.03(1)°; Z = 4
+
+Identification
+
+Color Blue, white, rarely green, light gray to gray, rarely yellow, pink, orange, and black, can be zoned
+
+Crystal habit Columnar; fib

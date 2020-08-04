@@ -1,0 +1,5 @@
+"For the taxonomic method, see DNA barcoding.
+
+A UPC-A barcode symbol
+
+A barcode or bar code is a method of representing data in a visual, machine-readable form. Initially, barcodes represented data by varying the widths and spacings of parallel lines. These barcodes, now commonly referred to as linear or one-dimensional (1D), can be scanned by special optical scanners, called barcode readers. Later, two-dimensional (2D) variants were developed, using rectangles, dots, hexagons and other geometr

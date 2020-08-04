@@ -1,0 +1,5 @@
+"Relation between objects in which one object designates, or acts as a means by which to connect to or link to, another object
+
+For other uses, see Reference (disambiguation).
+
+Reference is a relationship between objects in which one object designates, or acts as a means by which to connect to or link to, another object. The first object in this relation is said to refer to the second object. It is called a name for the second object. The second object, the one to which the first object refers, 

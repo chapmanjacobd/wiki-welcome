@@ -1,0 +1,5 @@
+"Minimum level of demand on an electrical grid over a span of time
+
+A coal power station in Taiwan.
+
+The baseload (also base load) on a grid is the minimum level of demand on an electrical grid over a span of time, for example, one week. This demand can be met by unvarying power plants, dispatchable generation, or by a collection of smaller intermittent energy sources, depending on which approach has the best mix of low cost, availability and high reliability in any particular market. The remain

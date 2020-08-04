@@ -1,0 +1,27 @@
+"Mathematical methods for geophysics
+
+Mathematical geophysics is concerned with developing mathematical methods for use in geophysics. As such, it has application in many fields in geophysics, particularly geodynamics and seismology.
+
+Contents
+
+1 Areas of mathematical geophysics
+
+1.1 Geophysical fluid dynamics
+
+1.2 Geophysical inverse theory
+
+1.3 Fractals and complexity
+
+1.4 Data assimilation
+
+1.5 Geophysical statistics
+
+2 See also
+
+3 Notes
+
+4 References
+
+Areas of mathematical geophysics
+
+Geophy

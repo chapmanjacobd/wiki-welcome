@@ -1,0 +1,47 @@
+Abscisic acid
+ 
+Names
+
+Systematic IUPAC name
+(2Z,4E)-5--3-methylpenta-2,4-dienoic acid
+
+Other names
+(2Z,4E)-(S)-5-(1-Hydroxy-2,6,6-trimethyl-4-oxo-2-cyclohexen-1-yl)-3-methyl-2,4-pentanedienoic acid; Dormic acid; Dormin
+
+Identifiers
+
+CAS Number
+
+ 21293-29-8 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+3DMet
+ B00898
+
+Abbreviations
+ ABA
+
+Beilstein Reference
+
+ 2698956
+
+ChEBI
+ CHEBI:2365 N
+
+ChEMBL
+ ChEMBL288040 Y
+
+ChemSpider
+ 4444418 Y
+
+ECHA InfoCard
+ 100.040.275
+
+EC Number
+ 244-319-5
+
+MeSH
+ Abscisic+Ac

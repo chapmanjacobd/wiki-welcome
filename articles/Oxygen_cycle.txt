@@ -1,0 +1,3 @@
+"The biogeochemical cycle of oxygen within its four main reservoirs: the atmosphere, the biosphere, the hydrosphere, and the lithosphere
+
+Main reservoirs and fluxes (in unit 1012 mol/yr) of the modern global O2 cycle on Earth. There are four main reservoirs: terrestrial biosphere (green), marine biosphere (blue), lithosphere (brown), and atmosphere (grey). The major fluxes between these reservoirs are shown in colored arrows, where the green arrows are related to the terrestrial biosphere, blue 

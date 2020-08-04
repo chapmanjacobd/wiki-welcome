@@ -1,0 +1,7 @@
+"Device that modulates an analog carrier signal to encode digital information
+
+This article is about network hardware. For the French political party known as MoDem, see Democratic Movement (France).
+
+Acoustic coupler modem
+
+A modem – a portmanteau of "modulator-demodulator" – is a hardware device that converts data into a format suitable for a transmission medium so that it can be transmitted from one computer to another (historically along telephone wires). A modem modulates one or more ca

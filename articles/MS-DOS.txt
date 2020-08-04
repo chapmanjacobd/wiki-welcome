@@ -1,0 +1,17 @@
+"This article is about Microsoft MS-DOS specifically. For other compatible operating systems of the DOS family, see DOS.
+
+Discontinued computer operating system
+
+MS-DOS
+
+An example of the Microsoft MS-DOS command-line interface, showing that the current directory is the root of drive C
+
+Developer Microsoft
+
+Written in x86 assembly, later versions also used C
+
+OS family DOS
+
+Working state Preserved pieces exist in 32-bit Windows
+
+Source model Closed source; open source for select versions since 2

@@ -1,0 +1,13 @@
+"Type of internal combustion engine
+
+Examples of gas turbine configurations: (1) turbojet, (2) turboprop, (3) turboshaft (electric generator), (4) high-bypass turbofan, (5) low-bypass afterburning turbofan
+
+A gas turbine, also called a combustion turbine, is a type of continuous and internal combustion engine. The main elements common to all gas turbine engines are:
+
+an upstream rotating gas compressor
+
+a combustor
+
+a downstream turbine on the same shaft as the compressor.
+
+A fourth component is

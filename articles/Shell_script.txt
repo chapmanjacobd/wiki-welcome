@@ -1,0 +1,3 @@
+"Script written for the shell, or command line interpreter, of an operating system
+
+This article is about scripting in UNIX-like systems. For batch programming in DOS, OS/2 and Windows, see Batch file. For batch programming in Windows PowerShell shell, see Windows PowerShell § Scripting. For programming in the shells (cmd.exe) in operating systems of the Windows NT/2000 series, see cmd.exe. For shell programming, by means of files called Command Scripts or Procedures on Vax/VMS machines, see DI

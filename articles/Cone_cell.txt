@@ -1,0 +1,21 @@
+Cone cells
+
+Normalized responsivity spectra of human cone cells, S, M, and L types
+
+Details
+
+Location Retina of mammals
+
+Function Color vision
+
+Identifiers
+
+NeuroLex ID sao1103104164
+
+TH H3.11.08.3.01046
+
+FMA 67748
+
+Anatomical terms of neuroanatomy
+
+Cone cells, or cones, are photoreceptor cells in the retinas of vertebrate eyes including the human eye. They respond differently to light of different wavelengths, and are thus responsible for color vision, and function best in relatively bright lig

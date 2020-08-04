@@ -1,0 +1,51 @@
+Programming paradigms
+
+Action
+
+Agent-oriented
+
+Array-oriented
+
+Automata-based
+
+Concurrent computing
+Relativistic programming
+
+Data-driven
+
+Declarative (contrast: Imperative)
+Functional
+Functional logic
+
+Purely functional
+
+Logic
+Abductive logic
+
+Answer set
+
+Concurrent logic
+
+Functional logic
+
+Inductive logic
+
+Constraint
+Constraint logic
+Concurrent constraint logic
+
+Dataflow
+Flow-based
+
+Reactive
+
+Ontology
+
+Differentiable
+
+Dynamic/scripting
+
+Event-driven
+
+Function-level (contrast: Value-level)
+Poin

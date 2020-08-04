@@ -1,0 +1,5 @@
+X-rays start at ~0.008 nm and extend across the electromagnetic spectrum to ~8 nm, over which Earth's atmosphere is opaque.
+
+X-ray astronomy detectors are instruments that detect X-rays for use in the study of X-ray astronomy.
+
+X-ray astronomy is an observational branch of astronomy which deals with the study of X-ray emission from celestial objects. X-radiation is absorbed by the Earth's atmosphere, so instruments to detect X-rays must be taken to high altitude by balloons, sounding rockets, an

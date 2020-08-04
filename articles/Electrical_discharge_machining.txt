@@ -1,0 +1,3 @@
+An electrical discharge machine
+
+Electrical discharge machining (EDM), also known as spark machining, spark eroding, die sinking, wire burning or wire erosion, is a metal fabrication process whereby a desired shape is obtained by using electrical discharges (sparks). Material is removed from the work piece by a series of rapidly recurring current discharges between two electrodes, separated by a dielectric liquid and subject to an electric voltage. One of the electrodes is called the tool-electr

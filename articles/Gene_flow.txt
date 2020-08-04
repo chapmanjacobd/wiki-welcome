@@ -1,0 +1,5 @@
+"The transfer of genetic variation from one population to another
+
+Gene flow is the transfer of alleles from one population to another population through immigration of individuals.
+
+In population genetics, gene flow (also known as gene migration or allele flow) is the transfer of genetic variation from one population to another. If the rate of gene flow is high enough, then two populations are considered to have equivalent allele frequencies and therefore effectively be a single population. It 

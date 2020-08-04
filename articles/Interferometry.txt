@@ -1,0 +1,3 @@
+Figure 1. The light path through a Michelson interferometer. The two light rays with a common source combine at the half-silvered mirror to reach the detector. They may either interfere constructively (strengthening in intensity) if their light waves arrive in phase, or interfere destructively (weakening in intensity) if they arrive out of phase, depending on the exact distances between the three mirrors.
+
+Interferometry is a family of techniques in which waves, usually electromagnetic waves, ar

@@ -1,0 +1,5 @@
+"One of the two main notation techniques for context-free grammars in computer science
+
+Not to be confused with Boyce–Codd normal form.
+
+In computer science, Backus–Naur form or Backus normal form (BNF) is a notation technique for context-free grammars, often used to describe the syntax of languages used in computing, such as computer programming languages, document formats, instruction sets and communication protocols. They are applied wherever exact descriptions of languages are needed: fo

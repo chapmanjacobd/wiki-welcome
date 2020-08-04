@@ -1,0 +1,45 @@
+"Reference frame used in geodesy, surveying, chartography and navigation
+
+Geodesy
+
+Fundamentals
+
+Geodesy
+
+Geodynamics
+
+Geomatics
+
+History
+
+Concepts
+
+Geographical distance
+
+Geoid
+
+Figure of the Earth (Earth radius and Earth's circumference)
+
+Geodetic datum
+
+Geodesic
+
+Geographic coordinate system
+
+Horizontal position representation
+
+Latitude / Longitude
+
+Map projection
+
+Reference ellipsoid
+
+Satellite geodesy
+
+Spatial reference system
+
+Spatial relations
+
+Technologies
+
+Global Nav. Sat. Systems (GNSS

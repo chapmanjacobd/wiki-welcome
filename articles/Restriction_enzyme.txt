@@ -1,0 +1,25 @@
+Restriction Enzyme Glossary
+
+Restriction
+
+The cutting of DNA at specific sites
+
+Enzyme
+
+A protein that catalyzes a chemical reaction
+
+Molecular recognition
+
+Used by restriction enzymes to locate specific sequences of DNA on which to bind and subsequently cleave
+
+Recognition sequence
+
+The DNA sequence to which restriction enzymes bind
+
+Restriction site
+
+The site of the DNA sequence where it is cleaved by the restriction enzyme
+
+Restriction fragment
+
+A DNA fragment resulting from the cutting of a 

@@ -1,0 +1,3 @@
+Diagram illustrating the development process of avian flu vaccine by reverse genetics techniques
+
+Reverse genetics is a method in molecular genetics that is used to help understand the function(s) of a gene by analysing the phenotypic effects caused by genetically engineering specific nucleic acid sequences within the gene. The process proceeds in the opposite direction to forward genetic screens of classical genetics. While forward genetics seeks to find the genetic basis of a phenotype or trai

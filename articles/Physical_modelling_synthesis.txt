@@ -1,0 +1,21 @@
+"Methods used to generate sound waveforms using a computer
+
+Physical modelling synthesis refers to sound synthesis methods in which the waveform of the sound to be generated is computed using a mathematical model, a set of equations and algorithms to simulate a physical source of sound, usually a musical instrument.
+
+Contents
+
+1 General methodology
+
+2 Technologies associated with physical modelling
+
+3 Hardware synthesizers
+
+4 Software synthesizers
+
+5 References
+
+6 Footnotes
+
+7 Further reading
+
+8

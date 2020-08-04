@@ -1,0 +1,3 @@
+"Mixing signals from many telescopes to produce images with high angular resolution
+
+Aperture synthesis or synthesis imaging is a type of interferometry that mixes signals from a collection of telescopes to produce images having the same angular resolution as an instrument the size of the entire collection. At each separation and orientation, the lobe-pattern of the interferometer produces an output which is one component of the Fourier transform of the spatial distribution of the brightness of 

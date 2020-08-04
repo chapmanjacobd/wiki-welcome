@@ -1,0 +1,3 @@
+"Components that are identical for practical purposes
+
+Interchangeable parts are parts (components) that are, for practical purposes, identical. They are made to specifications that ensure that they are so nearly identical that they will fit into any assembly of the same type. One such part can freely replace another, without any custom fitting, such as filing. This interchangeability allows easy assembly of new devices, and easier repair of existing devices, while minimizing both the time and s

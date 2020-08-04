@@ -1,0 +1,60 @@
+ Part of a series on
+
+Machine learning
+
+and
+
+data mining
+
+Problems
+
+Classification
+
+Clustering
+
+Regression
+
+Anomaly detection
+
+AutoML
+
+Association rules
+
+Reinforcement learning
+
+Structured prediction
+
+Feature engineering
+
+Feature learning
+
+Online learning
+
+Semi-supervised learning
+
+Unsupervised learning
+
+Learning to rank
+
+Grammar induction
+
+Supervised learning
+
+(classification • regression)
+
+Decision trees
+
+Ensembles
+Bagging
+
+Boosting
+
+Random forest
+
+k-NN
+
+Linear regression
+
+Naive Bayes
+
+Artif

@@ -1,0 +1,5 @@
+Screenshot of a Microsoft Windows Command Prompt window showing a directory listing.
+
+In computing, a directory is a file system cataloging structure which contains references to other computer files, and possibly other directories. On many computers, directories are known as folders, or drawers, analogous to a workbench or the traditional office filing cabinet.
+
+Files are organized by storing related files in the same directory. In a hierarchical file system (that is, one in which files and dir

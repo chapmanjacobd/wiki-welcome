@@ -1,0 +1,7 @@
+"Networking hardware that forwards data in packets based on hardware address
+
+Avaya ERS 2550T-PWR, a 50-port Ethernet switch
+
+A network switch (also called switching hub, bridging hub, and by the IEEE MAC bridge) is networking hardware that connects devices on a computer network by using packet switching to receive and forward data to the destination device.
+
+A network switch is a multiport network bridge that uses MAC addresses to forward data at the data link layer (layer 2) of the OSI model. 

@@ -1,0 +1,9 @@
+Analogue electronics (American English: analog electronics) are electronic systems with a continuously variable signal, in contrast to digital electronics where signals usually take only two levels. The term "analogue" describes the proportional relationship between a signal and a voltage or current that represents the signal. The word analogue is derived from the Greek word ανάλογος (analogos) meaning "proportional".
+
+Contents
+
+1 Analogue signals
+
+2 Inherent noise
+
+3 Analogue vs digital

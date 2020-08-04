@@ -1,0 +1,5 @@
+The windlass is a well-known application of the wheel and axle.
+
+The wheel and axle is a machine consisting of a wheel attached to a smaller axle so that these two parts rotate together in which a force is transferred from one to the other. A hinge or bearing supports the axle, allowing rotation. It can amplify force; a small force applied to the periphery of the large wheel can move a larger load attached to the axle.
+
+The wheel and axle can be viewed as a version of the lever, with a drive for

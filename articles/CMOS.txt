@@ -1,0 +1,7 @@
+"For other uses, see CMOS (disambiguation).
+
+Technology for constructing integrated circuits
+
+CMOS inverter (a NOT logic gate)
+
+Complementary metal–oxide–semiconductor (CMOS), also known as complementary-symmetry metal–oxide–semiconductor (COS-MOS), is a type of metal–oxide–semiconductor field-effect transistor (MOSFET) fabrication process that uses complementary and symmetrical pairs of p-type and n-type MOSFETs for logic functions. CMOS technology is used for constructing integrate

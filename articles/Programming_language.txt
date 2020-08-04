@@ -1,0 +1,7 @@
+Language for communicating instructions to a machine
+
+The source code for a simple computer program written in the C programming language. When compiled and run, it will give the output "Hello, world!".
+
+A programming language is a formal language comprising a set of instructions that produce various kinds of output. Programming languages are used in computer programming to implement algorithms.
+
+Most programming languages consist of instructions for computers. There are programmable machines th

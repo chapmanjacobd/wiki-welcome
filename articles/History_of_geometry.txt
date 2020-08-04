@@ -1,0 +1,60 @@
+"Historical development of geometry
+
+Part of the "Tab.Geometry." (Table of Geometry) from the 1728 Cyclopaedia.
+
+Geometry
+
+Projecting a sphere to a plane
+
+Outline
+
+History
+
+Branches
+
+Euclidean
+
+Non-Euclidean
+Elliptic
+Spherical
+
+Hyperbolic
+
+Non-Archimedean geometry
+
+Projective
+
+Affine
+
+Synthetic
+
+Analytic
+
+Algebraic
+Arithmetic
+
+Diophantine
+
+Differential
+Riemannian
+
+Symplectic
+
+Discrete differential
+
+Complex
+
+Finite
+
+Discrete/Combinatorial
+Digital
+
+Convex
+
+Computational
+
+Fractal
+
+Incidence
+
+Concep

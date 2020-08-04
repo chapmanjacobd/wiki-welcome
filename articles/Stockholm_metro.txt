@@ -1,0 +1,33 @@
+Stockholm metro
+
+A C20 train on line 17 at Hötorget station
+
+A C6 train on line 14 near Gamla stan
+
+Overview
+
+Native name Stockholms tunnelbana
+
+Owner AB Storstockholms Lokaltrafik
+
+Locale Stockholm, Sweden
+
+Transit type Rapid transit
+
+Number of lines 7
+
+Number of stations 100
+
+Daily ridership 1,2 million (weekday, 2017)
+
+Annual ridership 353 million (2017)
+
+Website SL Official Site (in English)
+
+Operation
+
+Began operation 30 September 1933 (as premetro)
+
+1 October 1950 (as metro)
+
+Operator(s) 

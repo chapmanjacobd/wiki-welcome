@@ -1,0 +1,23 @@
+"Oxygen-transport metalloprotein in red blood cells
+
+hemoglobin
+
+(heterotetramer, (αβ)2)
+
+Structure of human haemoglobin. α and β subunits are in red and blue, respectively, and the iron-containing heme groups in green. From PDB: 1GZX​ Proteopedia Hemoglobin
+
+Protein type metalloprotein, globulin
+
+Function oxygen-transport
+
+Cofactor(s) heme (4)
+
+Subunit nameGeneChromosomal locus
+
+Hb-α1 HBA1 Chr. 16 p13.3
+
+Hb-α2 HBA2 Chr. 16 p13.3
+
+Hb-β HBB Chr. 11 p15.5
+
+Hemoglobin (American English) or

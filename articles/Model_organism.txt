@@ -1,0 +1,9 @@
+"Organisms used to study biology across species
+
+Escherichia coli is a gram-negative prokaryotic model organism
+
+Drosophila melanogaster, one of the most famous subjects for genetics experiments
+
+Saccharomyces cerevisiae, one of the most intensively studied eukaryotic model organisms in molecular and cell biology
+
+A model organism is a non-human species that is extensively studied to understand particular biological phenomena, with the expectation that discoveries made in the model organism will

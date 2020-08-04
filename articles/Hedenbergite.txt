@@ -1,0 +1,43 @@
+"Hedenbergite
+
+General
+
+Category Pyroxenes
+
+Formula
+
+(repeating unit) CaFeSi2O6
+
+Strunz classification 9.DA.15
+
+Crystal system Monoclinic
+
+Crystal class Prismatic (2/m)
+
+(same H-M symbol)
+
+Space group C2/c
+
+Identification
+
+Formula mass 248.09 g/mol
+
+Color brownish green, black
+
+Crystal habit massive, prismatic crystals
+
+Cleavage Good on {110}
+
+Fracture Irregular
+
+Tenacity Brittle
+
+Mohs scale hardness 5.5 - 6.5
+
+Luster Vitreous, dull
+
+Streak white, gray
+
+Diaphaneity Transparent-Opaque
+
+Density 3.

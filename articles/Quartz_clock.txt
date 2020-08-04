@@ -1,0 +1,5 @@
+A basic quartz clock
+
+A quartz clock is a clock that uses an electronic oscillator that is regulated by a quartz crystal to keep time. This crystal oscillator creates a signal with very precise frequency, so that quartz clocks are at least an order of magnitude more accurate than mechanical clocks. Generally, some form of digital logic counts the cycles of this signal and provides a numeric time display, usually in units of hours, minutes, and seconds.
+
+The world's first quartz clock was built i

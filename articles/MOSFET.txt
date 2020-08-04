@@ -1,0 +1,7 @@
+MOS technology" redirects here. For the company, see MOS Technology.
+
+Transistor used for amplifying or switching electronic signals.
+
+MOSFET, showing gate (G), body (B), source (S) and drain (D) terminals. The gate is separated from the body by an insulating layer (pink).
+
+The metal–oxide–semiconductor field-effect transistor (MOSFET, MOS-FET, or MOS FET), also known as the metal–oxide–silicon transistor (MOS transistor, or MOS), is a type of insulated-gate field-effect transistor (IGFE

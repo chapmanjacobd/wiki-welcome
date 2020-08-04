@@ -1,0 +1,69 @@
+"Data distribution using P2P networking technology.
+
+ Part of a series on
+
+File sharing
+
+Technologies
+
+File hosting services
+
+Online video platform
+
+Peer to peer
+
+Usenet
+
+Web hosting
+
+WebRTC
+
+XDCC
+
+Video sharing sites
+
+123Movies
+
+Dailymotion
+
+Putlocker
+
+YouTube
+
+PeerTube
+
+BitTorrent sites
+
+1337x
+
+Demonoid
+
+ExtraTorrent
+
+EZTV
+
+isoHunt
+
+KickassTorrents
+
+Nyaa Torrents
+
+RARBG
+
+Tamil Rockers
+
+The Pirate Bay
+
+YIFY
+
+Academic/scholarly
+
+ICanHazPDF
+
+Internet Archive
+
+Library Genesis
+
+Sci-Hub
+
+AcademicTor

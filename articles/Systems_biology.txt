@@ -1,0 +1,5 @@
+"Computational and mathematical modeling of complex biological systems
+
+An illustration of the systems approach to biology
+
+Systems biology is the computational and mathematical analysis and modeling of complex biological systems. It is a biology-based interdisciplinary field of study that focuses on complex interactions within biological systems, using a holistic approach (holism instead of the more traditional reductionism) to biological research. When it is crossing the field of systems theor

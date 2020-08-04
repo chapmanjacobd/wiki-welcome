@@ -1,0 +1,5 @@
+"This article is about signaling at the cellular level. For systemic signal transduction, see Transduction (physiology).
+
+Simplified representation of major signal transduction pathways in mammals.
+
+Signal transduction is the process by which a chemical or physical signal is transmitted through a cell as a series of molecular events, most commonly protein phosphorylation catalyzed by protein kinases, which ultimately results in a cellular response. Proteins responsible for detecting stimuli are 

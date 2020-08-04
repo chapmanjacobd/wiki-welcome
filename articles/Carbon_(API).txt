@@ -1,0 +1,11 @@
+"Application programming interface (API)
+
+CarbonDeveloper(s) Apple Inc.
+
+Operating system Classic Mac OS, macOS
+
+License Proprietary
+
+Website http://developer.apple.com/referencelibrary/Carbon/ at the Wayback Machine (archived April 20, 2009)
+
+Carbon is one of Apple’s C-based application programming interfaces (APIs) for macOS (formerly Mac OS X), the operating system that powers Macintosh computers. Carbon provided a good degree of backward compatibility for programs that ran on Mac OS 8 and 

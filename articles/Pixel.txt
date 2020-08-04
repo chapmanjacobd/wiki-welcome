@@ -1,0 +1,9 @@
+"Physical point in a raster image
+
+This article is about the picture element. For other uses, including for the plural form "pixels", see Pixel (disambiguation).
+
+ This example shows an image with a portion greatly enlarged so that individual pixels, rendered as small squares, can easily be seen.
+
+A photograph of sub-pixel display elements on a laptop's LCD screen
+
+In digital imaging, a pixel, pel, or picture element is a physical point in a raster image, or the smallest addressable element in a

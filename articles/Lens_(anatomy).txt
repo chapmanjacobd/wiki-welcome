@@ -1,0 +1,27 @@
+"Lens
+
+Light from a single point of a distant object and light from a single point of a near object being brought to a focus by changing the curvature of the lens.
+
+Schematic diagram of the human eye.
+
+Details
+
+Part of Eyeball
+
+System Visual system
+
+Function Refract light
+
+Identifiers
+
+Latin lens crystallin
+
+MeSH D007908
+
+TA A15.2.05.001
+
+FMA 58241
+
+Anatomical terminology
+
+The lens is a transparent biconvex structure in the eye that, along with the cornea, helps to refract light to be focused on

@@ -1,0 +1,7 @@
+Example of a PCI digital I/O expansion card
+
+PCI expansion slot
+
+In computing, an expansion card, expansion board, adapter card or accessory card is a printed circuit board that can be inserted into an electrical connector, or expansion slot, on a computer motherboard, backplane or riser card to add functionality to a computer system via the expansion bus.
+
+An expansion bus is a computer bus which moves information between the internal hardware of a computer system (including the CPU and RAM) an

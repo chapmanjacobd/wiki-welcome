@@ -1,0 +1,37 @@
+"Brussels Metro
+
+Overview
+
+Native name Métro de Bruxelles
+
+Brusselse metro
+
+Locale Brussels-Capital Region
+
+Transit type Rapid transit
+
+Number of lines 4 metro lines (M1,M2,M5,M6)
+
+3 premetro lines (T3,T4,T7)
+
+Number of stations 59 (metro only)
+
+69 (w/ premetro)
+
+Annual ridership 138.3 million (2013)
+
+Website STIB/MIVB
+
+Operation
+
+Began operation 20 September 1976; 43 years ago (1976-09-20)
+
+Operator(s) STIB/MIVB
+
+Number of vehicles 66
+
+Technical
+
+System length 39.9 km (24.8 mi) (metro only)
+
+5

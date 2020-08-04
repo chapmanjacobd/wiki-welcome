@@ -1,0 +1,3 @@
+" A typical five-line staff
+
+In Western musical notation, the staff (US) or stave (UK) (plural for either: staves) is a set of five horizontal lines and four spaces that each represent a different musical pitch or in the case of a percussion staff, different percussion instruments. Appropriate music symbols, depending on the intended effect, are placed on the staff according to their corresponding pitch or function. Musical notes are placed by pitch, percussion notes are placed by instrument, an

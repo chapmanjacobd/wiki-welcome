@@ -1,0 +1,11 @@
+Computer processor" redirects here. For other uses, see Processor § Computing.
+
+"CPU" redirects here. For other uses, see CPU (disambiguation).
+
+Central component of any computer system which executes input/output, arithmetical, and logical operations
+
+An Intel 80486DX2 CPU, as seen from above
+
+Bottom side of an Intel 80486DX2, showing its pins
+
+A central processing unit (CPU), also called a central processor or main processor, is the electronic circuitry within a computer that executes instruc

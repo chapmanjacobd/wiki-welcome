@@ -1,0 +1,54 @@
+"Script used to write the Greek language
+
+Greek alphabet
+
+Type Alphabet 
+
+Languages Greek
+Official script in:
+
+Greece
+
+Cyprus
+
+European Union
+
+Time period
+
+c. 800 BC – present
+
+Parent systems
+
+Egyptian hieroglyphsProto-Sinaitic alphabetPhoenician alphabetGreek alphabet
+
+Child systems
+
+Gothic
+
+Glagolitic
+
+Cyrillic
+
+Coptic
+
+Armenian
+
+Old Italic
+
+Latin
+
+Georgian
+
+Direction Left-to-right
+
+ISO 15924 Grek, 200
+
+Unicode alias
+
+Greek
+
+Unicode range
+
+U+0370–U+03FF Greek and Coptic
+
+U+1F00–U+1FFF Gr

@@ -1,0 +1,7 @@
+"Sequence of frequencies
+
+Harmonics of a string showing the periods of the pure-tone harmonics (period = 1/frequency)
+
+A harmonic series (also overtone series) is the sequence of frequencies, musical tones, or pure tones in which each frequency is an integer multiple of a fundamental.
+
+Pitched musical instruments are often based on an acoustic resonator such as a string or a column of air, which oscillates at numerous modes simultaneously. At the frequencies of each vibrating mode, waves travel 

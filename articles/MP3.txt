@@ -1,0 +1,28 @@
+"Open standard lossy compression format for digital audio
+
+For other uses, see MP3 (disambiguation).
+
+Not to be confused with MPEG-3.
+
+MP3
+
+Filename extension .mp3
+
+.bit (before 1995)
+
+Internet media type 
+audio/mpeg
+
+audio/MPA
+
+audio/mpa-robust
+
+Developed by Karlheinz Brandenburg, Ernst Eberlein, Heinz Gerhäuser, Bernhard Grill, Jürgen Herre and Harald Popp (all of Fraunhofer Society), and others
+
+Initial release 1993; 27 years ago (1993)
+
+Type of format Digital audio
+
+Contained by MPEG-ES
+
+S

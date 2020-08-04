@@ -1,0 +1,26 @@
+"Series of image file formats
+
+"TIF" redirects here. For other uses, see TIF (disambiguation) and TIFF (disambiguation).
+
+TIFFFilename extensions .tiff, .tif
+
+Internet media type 
+image/tiff
+
+image/tiff-fx
+
+Type code TIFF
+
+Uniform Type Identifier (UTI) public.tiff
+
+Developed by Aldus, now Adobe Systems
+
+Initial release 1986; 34 years ago (1986)
+
+Latest release TIFF 6.0
+
+(3 June 1992; 28 years ago (1992-06-03)
+
+TIFF Supplement 2 / 22 March 2002; 18 years ago (2002-03-22))
+
+Type of format Image fi

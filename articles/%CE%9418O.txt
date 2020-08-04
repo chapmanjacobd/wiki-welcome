@@ -1,0 +1,5 @@
+"Measure of the ratio of stable isotopes oxygen-18 and oxygen-16
+
+In geochemistry, paleoclimatology and paleoceanography δ18O or delta-O-18 is a measure of the ratio of stable isotopes oxygen-18 (18O) and oxygen-16 (16O). 
+It is commonly used as a measure of the temperature of precipitation, as a measure of groundwater/mineral interactions, and as an indicator of processes that show isotopic fractionation, like methanogenesis. 
+In paleosciences, 18O:16O data from corals, foraminifera and ice co

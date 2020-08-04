@@ -1,0 +1,3 @@
+A render of a type of home battery.
+
+Home energy storage devices store electricity locally, for later consumption. Electrochemical energy storage products, also known as "Battery Energy Storage System" (or "BESS" for short), at their heart are rechargeable batteries, typically based on lithium-ion or lead-acid controlled by computer with intelligent software to handle charging and dischargning cycles. Companies are also developing smaller flow battery technology for home use. As a local energy s

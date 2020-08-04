@@ -1,0 +1,32 @@
+.htm" and ".html" redirect here. For other uses, see HTM.
+
+For the use of HTML on Wikipedia, see Help:HTML in wikitext.
+
+Hypertext Markup Language
+
+HTML
+
+(Hypertext Markup Language) The official logo of the latest version, HTML5.
+
+Filename extension .html
+
+.htm
+
+Internet media type 
+text/html
+
+Type code TEXT
+
+Developed by WHATWG
+
+Initial release 1993; 27 years ago (1993)
+
+Latest release 5.2
+
+(27 May 2019; 13 months ago (2019-05-27))
+
+Type of format Document file format
+
+Extended from SGML
+
+Exten

@@ -1,0 +1,15 @@
+"Type of resistor, usually with three terminals
+
+This article is about the electrical component. For the measuring instrument, see Potentiometer (measuring instrument).
+
+Potentiometer A typical single-turn potentiometer
+
+Type Passive
+
+Electronic symbol
+
+(IEC Standard)
+
+(ANSI Standard)
+
+A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rh

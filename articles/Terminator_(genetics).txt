@@ -1,0 +1,5 @@
+"Section of genetic sequence that marks the end of gene or operon on genomic DNA for transcription
+
+This article is about genetics. For other uses, see Terminator (disambiguation).
+
+In genetics, a transcription terminator is a section of nucleic acid sequence that marks the end of a gene or operon in genomic DNA during transcription. This sequence mediates transcriptional termination by providing signals in the newly synthesized transcript RNA that trigger processes which release the transcript 

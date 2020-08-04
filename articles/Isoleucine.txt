@@ -1,0 +1,57 @@
+l-Isoleucine
+ 
+Names
+
+IUPAC name
+Isoleucine
+
+Other names
+(2S,3S)-2-amino-3-methylpentanoic acid
+
+Identifiers
+
+CAS Number
+
+ 73-32-5 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+ChEBI
+ CHEBI:58045 Y
+
+ChemSpider
+ 6067 Y
+
+DrugBank
+ DB00167 Y
+
+ECHA InfoCard
+ 100.000.726
+
+IUPHAR/BPS
+
+ 3311
+
+KEGG
+ D00065 Y
+
+PubChem CID
+
+ 791
+
+UNII
+ 04Y7590D77 Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID1047441
+
+InChI
+
+InChI=1S/C6H13NO2/c1-3-4(2)5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/t4-,5-/m0/s1 Y
+
+Key: 

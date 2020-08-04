@@ -1,0 +1,7 @@
+"In energy economics and ecological energetics, energy return on investment (EROI), also sometimes called energy returned on energy invested (ERoEI), is the ratio of the amount of usable energy (the energy) delivered from a particular energy resource to the amount of energy used to obtain that energy resource.
+
+Arithmetically the EROEI can be defined as:
+
+.
+
+When the EROEI of a source of energy is less than or equal to one, that energy source becomes a net "energy sink", and can no longer be use

@@ -1,0 +1,7 @@
+Transmission of language with brief pulses
+
+Chart of the Morse code 26 letters and 10 numerals.
+
+Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes or dits and dahs. Morse code is named after Samuel Morse, an inventor of the telegraph.
+
+The International Morse Code encodes the 26 English letters A through Z, some non-English letters, the Arabic numerals and a small set of punctuation and p

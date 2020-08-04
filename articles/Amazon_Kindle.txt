@@ -1,0 +1,23 @@
+"This page describes the Amazon's E Ink e-readers; for the LCD Fire tablets that formerly had Kindle as a prefix in their names please see Amazon Fire, Fire HD, and Fire HDX.
+
+E-book reading device
+
+Amazon Kindle
+
+Developer Amazon
+
+Manufacturer Foxconn
+
+Product family Kindle
+
+Type E-reader
+
+Release date November 19, 2007; 12 years ago (2007-11-19)
+
+Introductory price Kindle 1: US$399
+
+Operating system Kindle firmware that uses Linux kernels 2.6.10 to 3.0
+
+(latest version available)
+
+Kindle 1: 1.

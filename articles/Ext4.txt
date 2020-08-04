@@ -1,0 +1,20 @@
+ext4Developer(s) Mingming Cao, Andreas Dilger, Alex Zhuravlev (Tomas), Dave Kleikamp, Theodore Ts'o, Eric Sandeen, Sam Naghshineh, others
+
+Full name Fourth extended file system
+
+Introduced 
+Stable: 21 October 2008
+
+Unstable: 10 October 2006
+
+with Linux 2.6.28, 2.6.19
+
+Partition identifier 0x83: MBR / EBR.
+
+EBD0A0A2-B9E5-4433-87C0-68B6B72699C7: GPT Windows BDP.
+
+0FC63DAF-8483-4772-8E79-3D69D8477DE4: GPT Linux filesystem data.
+
+933AC7E1-2EB4-4F13-B844-0E14E2AEF915: GPT /home partition.
+
+3B8F8425-2

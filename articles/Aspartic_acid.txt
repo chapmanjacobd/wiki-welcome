@@ -1,0 +1,44 @@
+"Amino acid
+
+Aspartic acid
+ 
+Names
+
+IUPAC name
+Trivial: Aspartic acid
+
+Systematic: 2-Aminobutanedioic acid
+
+Other names
+Aminosuccinic acid
+
+Asparagic acid
+
+Asparaginic acid
+
+Identifiers
+
+CAS Number
+
+ 617-45-8 Y
+
+56-84-8 (L-isomer) N
+
+1783-96-6 (D-isomer) N
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+Deprotonated zwitterion (aspartate): Interactive image
+
+Interactive image
+
+Zwitterion: Interactive image
+
+Deprotonated zwitterion (aspartate): Interactive image
+
+ChEBI
+ CHEB

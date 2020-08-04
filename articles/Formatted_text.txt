@@ -1,0 +1,23 @@
+"Not to be confused with Text formatting.
+
+"Rich text" redirects here. For text/richtext, see Enriched text.
+
+Formatted text, styled text, or rich text, as opposed to plain text, has styling information beyond the minimum of semantic elements: colours, styles (boldface, italic), sizes, and special features in HTML (such as hyperlinks).
+
+Contents
+
+1 Terminology
+
+2 Beginnings of formatted text
+
+3 Markup languages
+
+4 Formatted document files
+
+5 See also
+
+6 External links
+
+Terminology
+
+Formatted tex

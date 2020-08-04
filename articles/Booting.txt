@@ -1,0 +1,7 @@
+Quick boot" redirects here. For the feature of the Quarterdeck memory manager, see Quickboot (QEMM).
+
+This article is about bootstrapping operating systems. For the general concept, see Bootstrapping.
+
+For other uses, see Boot (disambiguation).
+
+In computing, booting is the process of starting a computer. It can be initiated by hardware such as a button press, or by a software command. After it is switched on, a computer's central processing unit (CPU) has no software in its main memory, so some

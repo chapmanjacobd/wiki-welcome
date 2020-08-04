@@ -1,0 +1,3 @@
+The SIG 550 has four modes: safe (At which the rifle cannot be fired) (S), one round (1), three-round burst (3) and full automatic (obscured by the switch lever).
+
+Selective fire means the capability of a weapon to be adjusted to fire in semi-automatic, burst mode, and/or fully automatic firing mode. The modes are chosen by means of a selector switch, which varies depending on the weapon's design. Some selective-fire weapons have burst fire mechanisms to limit the maximum number of shots fired a

@@ -1,0 +1,19 @@
+"Interpreted programming language first released in 1987
+
+This article is about the programming language. For other uses, see Perl (disambiguation).
+
+Not to be confused with PEARL (programming language).
+
+Perl
+
+Paradigm Multi-paradigm: functional, imperative, object-oriented (class-based), reflective
+
+Designed by Larry Wall
+
+Developer Larry Wall
+
+First appeared December 18, 1987; 32 years ago (1987-12-18)
+
+Stable release 5.32.0 / 20 June 2020; 33 days ago (2020-06-20)
+
+5.30.3 / 1 June 2020; 52 d

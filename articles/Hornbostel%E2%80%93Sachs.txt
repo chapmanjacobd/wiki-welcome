@@ -1,0 +1,5 @@
+"Musical instrument classification system
+
+This article's lead section may not adequately summarize its contents. To comply with Wikipedia's lead section guidelines, please consider modifying the lead to provide an accessible overview of the article's key points in such a way that it can stand on its own as a concise version of the article. (November 2018)
+
+Hornbostel–Sachs or Sachs–Hornbostel is a system of musical instrument classification devised by Erich Moritz von Hornbostel and Curt Sa

@@ -1,0 +1,41 @@
+"Species of fish
+
+Common carp
+
+Conservation status
+
+Vulnerable (IUCN 3.1)
+
+Scientific classification 
+
+Kingdom:
+ Animalia
+
+Phylum:
+ Chordata
+
+Class:
+ Actinopterygii
+
+Order:
+ Cypriniformes
+
+Family:
+ Cyprinidae
+
+Subfamily:
+ Cyprininae
+
+Genus:
+ Cyprinus
+
+Species:
+ C. carpio
+
+Binomial name
+
+Cyprinus carpio
+
+Linnaeus, 1758
+
+The common carp or European carp (Cyprinus carpio) is a widespread freshwater fish of eutrophic waters in lakes and large rivers in Europe and Asia. The native wild populations ar

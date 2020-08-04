@@ -1,0 +1,5 @@
+"Barcode symbology used for tracking trade items in stores
+
+The Universal Product Code (UPC) (redundantly: UPC code) is a barcode symbology that is widely used in the United States, Canada, Europe, Australia, New Zealand, and other countries for tracking trade items in stores.
+
+UPC (technically refers to UPC-A) consists of 12 numeric digits that are uniquely assigned to each trade item. Along with the related EAN barcode, the UPC is the barcode mainly used for scanning of trade items at the poin

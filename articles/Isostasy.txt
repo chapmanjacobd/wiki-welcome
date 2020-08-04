@@ -1,0 +1,5 @@
+"State of gravitational equilibrium between Earth's crust and mantle
+
+Isostasy (Greek ísos "equal", stásis "standstill") is the state of gravitational equilibrium between Earth's crust (or lithosphere) and mantle such that the crust "floats" at an elevation that depends on its thickness and density.
+
+This concept is invoked to explain how different topographic heights can exist at Earth's surface. When a certain area of Earth's crust reaches the state of isostasy, it is said to be in isostatic

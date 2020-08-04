@@ -1,0 +1,61 @@
+"measure of earthquake size, in terms of the energy released
+
+For an overview of different magnitude scales, see Seismic magnitude scales.
+
+ Part of a series on
+
+Earthquakes
+
+Types
+
+Foreshock
+
+Aftershock
+
+Blind thrust
+
+Doublet
+
+Interplate
+
+Intraplate
+
+Megathrust
+
+Remotely triggered
+
+Slow
+
+Submarine
+
+Supershear
+
+Tsunami
+
+Earthquake swarm
+
+Causes
+
+Fault movement
+
+Volcanism
+
+Induced seismicity
+
+Characteristics
+
+Epicenter
+
+Hypocenter
+
+Shadow zone
+
+Seismic waves
+
+P-wave
+
+S-wave
+
+Measurement
+
+Seismome

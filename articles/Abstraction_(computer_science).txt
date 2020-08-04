@@ -1,0 +1,7 @@
+"Technique for arranging complexity of computer systems
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Abstraction" computer science – news · newspapers · books · scholar · JSTOR (June 2011) (Learn how and when to remove this template message)
+
+The essence of abstractions is preserving information that is relevant in a given context, and fo

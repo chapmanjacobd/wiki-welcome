@@ -1,0 +1,27 @@
+"For the episode of the television series The Americans, see Arpanet (The Americans).
+
+Early packet switching network that was the first to implement the protocol suite TCP/IP
+
+ARPANET
+
+ARPANET logical map, March 1977
+
+Type Data
+
+Location United States
+
+Protocols 1822 protocol, NCP, TCP/IP
+
+Operator From 1975, Defense Communications Agency
+
+Established 1969; 51 years ago (1969)
+
+Closed 1990
+
+Commercial? No
+
+Funding From 1966, Advanced Research Projects Agency (ARPA)
+
+ARPANET network map 1974
+
+Th

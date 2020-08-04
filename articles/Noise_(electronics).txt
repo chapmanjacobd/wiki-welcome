@@ -1,0 +1,5 @@
+"This article is about fundamental noise processes in electronics. For electronic noise arising from outside sources, see electromagnetic compatibility and electromagnetic interference. For acoustic noise due to electromagnetic fields, see electromagnetically induced acoustic noise and vibration. For other uses, see Noise (disambiguation).
+
+Analog display of random fluctuations in voltage in pink noise.
+
+In electronics, noise is an unwanted disturbance in an electrical signal.:5 Noise generated 

@@ -1,0 +1,5 @@
+Logical fallacy" redirects here. For an argument problematic for any reason, see Fallacy.
+
+Faulty deductive reasoning due to a logical flaw
+
+In philosophy, a formal fallacy, deductive fallacy, logical fallacy or non sequitur (Latin for "it does not follow") is a pattern of reasoning rendered invalid by a flaw in its logical structure that can neatly be expressed in a standard logic system, for example propositional logic. It is defined as a deductive argument that is invalid. The argument itself

@@ -1,0 +1,3 @@
+"Array used for astronomical observations
+
+An astronomical interferometer is an array of separate telescopes, mirror segments, or radio telescope antennas that work together as a single telescope to provide higher resolution images of astronomical objects such as stars, nebulas and galaxies by means of interferometry. The advantage of this technique is that it can theoretically produce images with the angular resolution of a huge telescope with an aperture equal to the separation between the com

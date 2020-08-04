@@ -1,0 +1,17 @@
+Asus Eee PC
+
+Developer Asus
+
+Type Netbook
+
+Operating system Linux (Xandros)
+
+Windows (XP, 7, 8.1)
+
+CPU Intel (Celeron, Atom)
+
+AMD (AMD Fusion)
+
+Website www.asus.com
+
+The Asus Eee PC is a netbook computer line from Asus, and a part of the Asus Eee product family. At the time of its introduction in late 2007, it was noted for its combination of a lightweight, Linux-based operating system, solid-state drive (SSD), and relatively low cost. Newer models added the options of Microsoft Windows operatin

@@ -1,0 +1,5 @@
+The rotor of a modern steam turbine used in a power plant
+
+A steam turbine is a device that extracts thermal energy from pressurized steam and uses it to do mechanical work on a rotating output shaft. Its modern manifestation was invented by Charles Parsons in 1884.
+
+The steam turbine is a form of heat engine that derives much of its improvement in thermodynamic efficiency from the use of multiple stages in the expansion of the steam, which results in a closer approach to the ideal reversible ex

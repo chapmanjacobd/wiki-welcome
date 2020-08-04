@@ -1,0 +1,35 @@
+"Journaling file system developed by Apple
+
+HFS+Developer(s) Apple Inc.
+
+Full name Hierarchical File System Plus
+
+Introduced January 19, 1998; 22 years ago (1998-01-19) with Mac OS 8.1
+
+Partition identifier Apple_HFS (Apple Partition Map)
+
+* * *
+
+0xAF (MBR) HFS and HFS+
+
+* * *
+
+Apple_HFSX (Apple Partition Map) when HFSX
+
+48465300-0000-11AA-
+
+AA11-00306543ECAC (GPT)
+
+Structures
+
+Directory contents B-tree
+
+File allocation Bitmap
+
+Bad blocks B-tree
+
+Limits
+
+Max. volume size 8 exabyte
+
+Max. file siz

@@ -1,0 +1,43 @@
+"Digital display interface
+
+DisplayPort 
+
+Type 
+Digital audio/video connector
+
+Production history
+
+Designer 
+VESA
+
+Designed 
+May 2006
+
+Manufacturer 
+Various
+
+Produced 
+2008–present
+
+Superseded 
+DVI, VGA, SCART, RGB Component
+
+Superseded by 
+None
+
+General specifications
+
+Length 
+Various
+
+Hot pluggable 
+Yes
+
+External 
+Yes
+
+Audio signal 
+Optional; 1–8 channels, 16 or 24-bit linear PCM; 32–192 kHz sampling rate; maximum bitrate 36,864 kbit/s (4,608 kB/s)
+
+Video signal 
+Optional, maximum resolu

@@ -1,0 +1,23 @@
+"Engineering optimization is the subject which uses optimization techniques to achieve design goals in engineering. It is sometimes referred to as design optimization.
+
+Topics
+
+structural design (including pressure vessel design and welded beam design)
+
+shape optimization
+
+topology optimization (including airfoils)
+
+inverse optimization (a subset of the inverse problem)
+
+processing planning
+
+product designs
+
+electromagnetic optimization
+
+space mapping
+
+aggressive space mapping
+
+yield-driven desi

@@ -1,0 +1,5 @@
+Chess initial position
+
+The game of chess is commonly divided into three phases: the opening, middlegame, and endgame. There is a large body of theory regarding how the game should be played in each of these phases, especially the opening and endgame. Those who write about chess theory, who are often also eminent players, are referred to as "theorists" or "theoreticians".
+
+"Opening theory" commonly refers to consensus, broadly represented by current literature on the openings. "Endgame theory" c

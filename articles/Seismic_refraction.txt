@@ -1,0 +1,3 @@
+Propagating seismic waves (bottom) and related travel time diagram (top) of the direct (blue) and the first refracted phase (green)
+
+Seismic refraction is a geophysical principle (see refraction) governed by Snell's Law. Used in the fields of engineering geology, geotechnical engineering and exploration geophysics, seismic refraction traverses (seismic lines) are performed using a seismograph(s) and/or geophone(s), in an array and an energy source. The seismic refraction method utilizes the refr

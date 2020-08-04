@@ -1,0 +1,3 @@
+"System that relates geological strata to time
+
+This clock representation shows some of the major units of geological time and definitive events of Earth history. The Hadean eon represents the time before fossil record of life on Earth; its upper boundary is now regarded as 4.0 Ga (billion years ago). Other subdivisions reflect the evolution of life; the Archean and Proterozoic are both eons, the Palaeozoic, Mesozoic and Cenozoic are eras of the Phanerozoic eon. The three million year Quaternary

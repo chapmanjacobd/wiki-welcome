@@ -1,0 +1,45 @@
+"Junction between two neurons or a neuron and another cell
+
+This article is about synapses of the nervous system. For other uses, see Synapse (disambiguation).
+
+Structure of a typical chemical synapse
+
+Postsynaptic
+
+density
+
+Voltage-
+
+gated Ca++
+
+channel
+
+Synaptic
+
+vesicle
+
+Neurotransmitter
+
+transporter
+
+Receptor
+
+Neurotransmitter
+
+Axon terminal
+
+Synaptic cleft
+
+Dendrite
+
+Distinguish between pre- and post- synapse
+
+↓ To post-synaptic
+
+neuron
+
+↓ From pre-synaptic
+
+neuron
+
+Neurotransmitter tra

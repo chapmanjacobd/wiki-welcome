@@ -1,0 +1,15 @@
+"Programming language that uses first order logic
+
+This article is about the programming language. For the narrative device, see Prologue. For other uses, see Prologue (disambiguation).
+
+PrologParadigm Logic programming
+
+Designed by Alain Colmerauer, Robert Kowalski
+
+First appeared 1972
+
+Filename extensions .pl, .pro, .P
+
+Major implementations
+
+B-Prolog, Ciao, ECLiPSe, GNU Prolog, Jekejeke Prolog, Poplog Prolog, P#, Quintus Prolog, SICStus, Strawberry, SWI-Prolog, Tau Prolog, tuProlog, WIN-PROLO

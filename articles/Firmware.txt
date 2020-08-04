@@ -1,0 +1,3 @@
+" A television remote control is an example of an engineered product that contains firmware. The firmware monitors the buttons, controls the LEDs, and processes the button presses to send the data in a format the receiving device, in this case, a television set, can understand and process. In fact, the television's motherboard has complex firmware too.
+
+In computing, firmware is a specific class of computer software that provides the low-level control for a device's specific hardware. Firmware c

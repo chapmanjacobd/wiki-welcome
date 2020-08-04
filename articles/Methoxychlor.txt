@@ -1,0 +1,56 @@
+"Synthetic organochloride insecticide, now obsolete.
+
+Methoxychlor
+ 
+Names
+
+IUPAC name
+1,1,1-Trichloro-2,2-bis(4-methoxyphenyl)ethane
+
+Other names
+Methoxcide
+
+Dimethoxy-DDT
+
+Methoxy-DDT
+
+p,p'-Dimethoxydiphenyltrichloroethane
+
+Identifiers
+
+CAS Number
+
+ 72-43-5 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Abbreviations
+ DMDT
+
+ChEBI
+ CHEBI:6842 N
+
+ChEMBL
+ ChEMBL362919 Y
+
+ChemSpider
+ 3972 Y
+
+ECHA InfoCard
+ 100.000.709
+
+KEGG
+ C11043 Y
+
+PubChem CID
+
+ 4115
+
+UNII
+ RIA79UD69L Y
+
+CompTox Dashboard (EPA)
+
+ DTX

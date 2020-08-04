@@ -1,0 +1,42 @@
+"Species of bird
+
+Himalayan monal
+
+Male
+
+Female
+
+Conservation status
+
+Least Concern (IUCN 3.1)
+
+Scientific classification 
+
+Kingdom:
+ Animalia
+
+Phylum:
+ Chordata
+
+Class:
+ Aves
+
+Order:
+ Galliformes
+
+Family:
+ Phasianidae
+
+Genus:
+ Lophophorus
+
+Species:
+ L. impejanus
+
+Binomial name
+
+Lophophorus impejanus
+
+(Latham, 1790)
+
+The Himalayan monal (Lophophorus impejanus), also known as the Impeyan monal and Impeyan pheasant, is a pheasant native to Himalayan forests and shrublands at elevations of 2,100–

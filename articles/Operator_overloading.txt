@@ -1,0 +1,33 @@
+"Feature of some programming languages
+
+Polymorphism
+
+Ad hoc polymorphism
+
+Function overloading
+
+Operator overloading
+
+Parametric polymorphism
+
+Generic function
+
+Generic programming
+
+Subtyping
+
+Virtual function
+
+Single and dynamic dispatch
+
+Double dispatch
+
+Multiple dispatch
+
+v
+
+t
+
+e
+
+In computer programming, operator overloading, sometimes termed operator ad hoc polymorphism, is a specific case of polymorphism, where different operators have different implementations depending on their argument

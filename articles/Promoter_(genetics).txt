@@ -1,0 +1,7 @@
+"Region of DNA encouraging transcription
+
+This article's lead section does not adequately summarize key points of its contents. Please consider expanding the lead to provide an accessible overview of all important aspects of the article. Please discuss this issue on the article's talk page. (November 2016)
+
+1: RNA Polymerase, 2: Repressor, 3: Promoter, 4: Operator, 5: Lactose, 6: lacZ, 7: lacY, 8: lacA.
+
+Top: The transcription of the gene is turned off. There is no lactose to inhibit the repress

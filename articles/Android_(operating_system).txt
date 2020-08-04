@@ -1,0 +1,21 @@
+"For other uses, see Android (disambiguation).
+
+Mobile operating system by Google
+
+Android Commercial logo as used by Google, since 2019
+
+Screenshot
+
+Android 10 home screen with Pixel Launcher
+
+Developer Various (mostly Google and the Open Handset Alliance)
+
+Written in Java (UI), C (core), C++ and others
+
+OS family Unix-like (Modified Linux kernel)
+
+Working state Current
+
+Source model Open source (most devices include proprietary components, such as Google Play)
+
+Initial release September 23, 20

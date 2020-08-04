@@ -1,0 +1,5 @@
+This fluid lipid bilayer cross section is made up entirely of phosphatidylcholine.
+
+The three main structures phospholipids form in solution; the liposome (a closed bilayer), the micelle and the bilayer.
+
+The lipid bilayer (or phospholipid bilayer) is a thin polar membrane made of two layers of lipid molecules. These membranes are flat sheets that form a continuous barrier around all cells. The cell membranes of almost all organisms and many viruses are made of a lipid bilayer, as are the nuclea

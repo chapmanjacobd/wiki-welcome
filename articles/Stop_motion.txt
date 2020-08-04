@@ -1,0 +1,5 @@
+"Animation technique to make a physically manipulated object appear to move on its own
+
+A clay model of a chicken, designed to be used in a clay stop motion animation.
+
+Stop motion is an animated filmmaking technique in which objects are physically manipulated in small increments between individually photographed frames so that they will appear to exhibit independent motion or change when the series of frames is played back. Any kind of object can thus be animated, but puppets with movable joint

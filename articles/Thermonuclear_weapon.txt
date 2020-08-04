@@ -1,0 +1,25 @@
+"2-stage nuclear weapon
+
+1950s fusion bomb design with cylindrical fusion stage
+
+(modern designs use spherical secondaries)
+
+A) fission primary stage
+
+B) fusion secondary stage
+
+1) High-explosive lenses
+
+2) Uranium-238 ("tamper") lined with beryllium reflector
+
+3) Vacuum ("levitated core")
+
+4) Tritium "boost" gas (blue) within plutonium or uranium hollow core
+
+5) Radiation channel filled with polystyrene foam
+
+6) Uranium ("pusher/tamper")
+
+7) Lithium-6 deuteride (fusion fuel)
+
+8) Plutonium ("spa

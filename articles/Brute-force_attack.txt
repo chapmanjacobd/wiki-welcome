@@ -1,0 +1,7 @@
+Cryptanalytic method for unauthorized users to access data
+
+This article is about the cryptanalytic method. For similarly named methods in other disciplines, see Brute force.
+
+The Electronic Frontier Foundation's US$250,000 DES cracking machine contained over 1,800 custom chips and could brute-force a DES key in a matter of days. The photograph shows a DES Cracker circuit board fitted on both sides with 64 Deep Crack chips.
+
+In cryptography, a brute-force attack consists of an attacker submittin

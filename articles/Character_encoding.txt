@@ -1,0 +1,5 @@
+"System using a prescribed set of digital values to represent textual characters
+
+Punched tape with the word "Wikipedia" encoded in ASCII. Presence and absence of a hole represents 1 and 0, respectively; for example, "W" is encoded as "1010111".
+
+In computing, data storage, and data transmission, character encoding is used to represent a repertoire of characters by some kind of encoding system. Depending on the abstraction level and context, corresponding code points and the resulting code space

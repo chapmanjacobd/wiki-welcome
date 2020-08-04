@@ -1,0 +1,32 @@
+"Type of computer memory
+
+"DRAM" redirects here. For other uses, see DRAM (disambiguation).
+
+This article has an unclear citation style. The references used may be made clearer with a different or consistent style of citation and footnoting. (April 2019) (Learn how and when to remove this template message)
+
+Computer memory types
+
+Volatile
+
+RAM
+
+DRAM
+SDRAM
+
+DDR
+
+GDDR
+
+HBM
+
+SRAM
+
+Historical
+
+Williams–Kilburn tube (1946–47)
+
+Delay line memory (1947)
+
+Mellon optical memory (1951)
+
+Selectron tube

@@ -1,0 +1,7 @@
+"Study of a model of computation
+
+This article's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (November 2019) (Learn how and when to remove this template message)
+
+Quantum computer based on superconducting qubits developed by IBM Research in Zürich, Switzerland. The qubits in the device shown here will be cooled to under 1 kelvin using a dilution refrigerator.
+
+Quantum computing is the use of quantum-mec

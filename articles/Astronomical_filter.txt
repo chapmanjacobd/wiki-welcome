@@ -1,0 +1,3 @@
+Ultraviolet filters used in astronomy for blocking the ultraviolet radiation (without affecting the visual image), which causes the camera to heat up when photographing.
+
+An astronomical filter is a telescope accessory consisting of an optical filter used by amateur astronomers to simply improve the details of celestial objects, either for viewing or for photography. Research astronomers, on the other hand, use various band-pass filters for photometry on telescopes, in order to obtain measuremen

@@ -1,0 +1,25 @@
+"For the latest updates, see Opportunity mission timeline.
+
+NASA Mars rover deployed in 2004
+
+Opportunity An artist's portrayal of Opportunity on the surface of Mars.
+
+Mission type Mars rover
+
+Operator NASA
+
+COSPAR ID 2003-032A
+
+SATCAT no. 27849
+
+Website JPL's Mars Exploration Rover
+
+Mission duration Planned: 90 sols (92.5 Earth days)
+
+Final: 5,352 sols (5498 Earth days from landing to mission end; 15 Earth years or 8 Martian years)
+
+Spacecraft properties
+
+Spacecraft type Rover
+
+Launch mass Tota

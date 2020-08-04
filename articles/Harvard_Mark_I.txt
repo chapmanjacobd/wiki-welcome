@@ -1,0 +1,19 @@
+"Harvard Mark I Closeup of input/output and control readers
+
+Also known as IBM Automatic Sequence Controlled Calculator (ASCC)
+
+Developer Howard Aiken / IBM
+
+Release date August 7, 1944; 75 years ago (1944-08-07)
+
+Power 5 horsepower (3.7 kW)
+
+Dimensions 816 cubic feet (23 m3) – 51 feet (16 m) in length, 8 feet (2.4 m) in height, and 2 feet (0.61 m) deep
+
+Mass 9,445 pounds (4.7 short tons; 4.3 t)
+
+Successor Harvard Mark II
+
+The left end consisted of electromechanical computing components
+
+The r

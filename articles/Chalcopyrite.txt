@@ -1,0 +1,23 @@
+Crystal structure of the unit cell of chalcopyrite as depicted using a ball-and-stick model on VESTA. Copper is shown in blue, iron is orange, and sulfur is yellow. This image looks down the same axis as the unit cell structure depiction using tetrahedrons shown below.
+
+Chalcopyrite
+
+General
+
+Category Sulfide mineral
+
+Formula
+
+(repeating unit) CuFeS2
+
+Strunz classification 2.CB.10a
+
+Crystal system Tetragonal
+
+Crystal class Scalenohedral (42m)
+
+H-M symbol: (4 2m)
+
+Space group I42d
+
+Unit cell a = 

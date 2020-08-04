@@ -1,0 +1,25 @@
+AVC1" redirects here. It is not to be confused with AV1 or VC-1.
+
+The most widely used standard for video compression
+
+Advanced Video Coding Advanced video coding for generic audiovisual services
+
+Status In force
+
+Year started 2003
+
+Latest version June 2019
+
+Organization ITU-T (SG16), ISO, IEC
+
+Committee VCEG, MPEG
+
+Base standards H.261, H.262 (aka MPEG-2 Video), H.263, MPEG-1
+
+Related standards H.265, H.266
+
+Domain video compression
+
+Website https://www.itu.int/rec/T-REC-H.264
+
+Advanced Video C

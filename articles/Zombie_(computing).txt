@@ -1,0 +1,5 @@
+"Network connected computer that has been compromised and is used for malicious task without the owner being aware of it
+
+This article is about the term "zombie" in computer security. For "zombie" in UNIX programming, see Zombie process.
+
+In computing, a zombie is a computer connected to the Internet that has been compromised by a hacker, computer virus or trojan horse program and can be used to perform malicious tasks of one sort or another under remote direction. Botnets of zombie computers ar

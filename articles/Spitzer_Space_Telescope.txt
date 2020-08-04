@@ -1,0 +1,29 @@
+"Infrared space observatory
+
+Spitzer Space Telescope An artist rendering of the Spitzer Space Telescope.
+
+Names Space Infrared Telescope Facility
+
+Mission type Infrared space telescope
+
+Operator NASA / JPL / Caltech
+
+COSPAR ID 2003-038A
+
+SATCAT no. 27871
+
+Website www.spitzer.caltech.edu
+
+Mission duration Planned: 2.5 to 5+ years
+
+Primary mission: 5 years, 8 months, 19 days
+
+Elapsed: 16 years, 11 months, 1 day
+
+Spacecraft properties
+
+Manufacturer Lockheed
+
+Ball Aerospace
+
+Launch mass 950 kg (2,09

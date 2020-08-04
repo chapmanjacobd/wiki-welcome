@@ -1,0 +1,38 @@
+"American computer scientist
+
+Leslie Lamport
+
+Born Leslie B. Lamport
+
+(1941-02-07) February 7, 1941 (age 79)
+
+New York City, New York
+
+Alma mater 
+Massachusetts Institute of Technology (BSc)
+
+Brandeis University (PhD)
+
+Known for 
+LaTeX
+
+Sequential consistency
+
+Atomic Register Hierarchy
+
+Lamport's bakery algorithm
+
+Byzantine fault tolerance
+
+Paxos algorithm
+
+Lamport signature
+
+Awards 
+Dijkstra Prize (2000, 2005, and 2014)
+
+IEEE Emanuel R. Piore Award (2004)
+
+IEEE John von Neumann Medal (2008)
+
+Tu

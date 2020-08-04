@@ -1,0 +1,7 @@
+"An equal-area, rectangular map projection
+
+The Gall–Peters projection of the world map
+
+The Gall–Peters projection is a rectangular map projection that maps all areas such that they have the correct sizes relative to each other. Like any equal-area projection, it achieves this goal by distorting most shapes. The projection is a particular example of the cylindrical equal-area projection with latitudes 45° north and south as the regions on the map that have no distortion.
+
+The projection is

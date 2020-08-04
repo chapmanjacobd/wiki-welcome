@@ -1,0 +1,5 @@
+"Type of calendar
+
+A Spanish lunar calendar for 2017
+
+A lunar calendar is a calendar based on the monthly cycles of the Moon's phases (synodic months), in contrast to solar calendars, whose annual cycles are based only directly on the solar year. The most commonly used calendar, the Gregorian calendar, is a solar calendar system that originally evolved out of a lunar calendar system. A purely lunar calendar is also distinguished from a lunisolar calendar, whose lunar months are brought into alig

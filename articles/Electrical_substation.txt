@@ -1,0 +1,31 @@
+Elements of a substation
+
+A: Primary power lines' side
+
+B: Secondary power lines' side
+
+1. Primary power lines
+
+2. Ground wire
+
+3. Overhead lines
+
+4. Transformer for measurement of electric voltage
+
+5. Disconnect switch
+
+6. Circuit breaker
+
+7. Current transformer
+
+8. Lightning arrester
+
+9. Main transformer
+
+10. Control building
+
+11. Security fence
+
+12. Secondary power lines
+
+A 50 Hz electrical substation in Melbourne, Australia. This is showing three of the five 220 kV/66 kV transformers, as wel

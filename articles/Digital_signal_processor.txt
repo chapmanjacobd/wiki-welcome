@@ -1,0 +1,3 @@
+A TMS320 digital signal processor chip found in a guitar effects unit. A crystal oscillator may be seen above.
+
+A digital signal processor (DSP) is a specialized microprocessor chip, with its architecture optimized for the operational needs of digital signal processing. DSPs are fabricated on MOS integrated circuit chips. They are widely used in audio signal processing, telecommunications, digital image processing, radar, sonar and speech recognition systems, and in common consumer electronic de

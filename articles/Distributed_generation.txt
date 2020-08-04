@@ -1,0 +1,3 @@
+Distributed generation, also distributed energy, on-site generation (OSG), or district/decentralized energy, is electrical generation and storage performed by a variety of small, grid-connected or distribution system-connected devices referred to as distributed energy resources (DER).
+
+Conventional power stations, such as coal-fired, gas, and nuclear powered plants, as well as hydroelectric dams and large-scale solar power stations, are centralized and often require electric energy to be transmi

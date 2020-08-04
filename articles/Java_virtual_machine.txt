@@ -1,0 +1,27 @@
+JRE" redirects here. For the podcast by Joe Rogan, see The Joe Rogan Experience.
+
+Virtual machine
+
+Java virtual machineDesigner Sun Microsystems
+
+Bits 32-bit
+
+Introduced 1994
+
+Version 14.0.1
+
+Type Stack and register–register
+
+Encoding Variable
+
+Branching Compare and branch
+
+Endianness Big
+
+Open Yes
+
+Registers
+
+General purpose Per-method operand stack (up to 65535 operands) plus per-method local variables (up to 65535)
+
+Overview of a Java virtual machine (JVM) architecture based on The Java Vir

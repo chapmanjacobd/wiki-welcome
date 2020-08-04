@@ -1,0 +1,29 @@
+Chandra X-ray Observatory Illustration of Chandra
+
+Names Advanced X-ray Astrophysics Facility (AXAF)
+
+Mission type X-ray astronomy
+
+Operator NASA / SAO / CXC
+
+COSPAR ID 1999-040B
+
+SATCAT no. 25867
+
+Website http://chandra.harvard.edu/
+
+Mission duration Planned: 5 years
+
+Elapsed: 21 years, 3 days
+
+Spacecraft properties
+
+Manufacturer TRW Inc.
+
+Launch mass 5,860 kg (12,930 lb)
+
+Dry mass 4,790 kg (10,560 lb)
+
+Dimensions Deployed: 13.8 × 19.5 m (45.3 × 64.0 ft)
+
+Stowed: 11.8 × 4.3 m (38.7 × 14.0 f

@@ -1,0 +1,32 @@
+"Photo messaging application
+
+Snapchat
+
+Original author(s) 
+Evan Spiegel
+
+Bobby Murphy
+
+Reggie Brown
+
+Developer(s) Snap Inc.
+
+Initial release September 2011; 8 years ago (2011-09)
+
+Stable release(s) 
+
+Android 10.87.0.58 / July 24, 2020; 2 days ago (2020-07-24)
+
+iOS 10.87.1.69 / July 22, 2020; 4 days ago (2020-07-22)
+
+Preview release(s) 
+
+Android (Beta) 10.88.0.51 / July 25, 2020; 1 day ago (2020-07-25)
+
+Operating system Android, iOS
+
+Size 204.7 MB (iOS)
+
+62.7 MB (Android)
+
+Available in 32 langua

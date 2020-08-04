@@ -1,0 +1,9 @@
+"For other uses, see Perception (disambiguation).
+
+"Percept" redirects here. For other uses, see Percept (disambiguation).
+
+Organization, identification, and interpretation of sensory information in order to represent and understand the environment
+
+The Necker cube and Rubin vase can be perceived in more than one way.
+
+Humans are able to have a very good guess on the underlying 3D shape category/identity/geometry given a silhouette of that shape. Computer vision researchers have been able to bui

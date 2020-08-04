@@ -1,0 +1,7 @@
+"Electronic device
+
+This article is about electronic amplifiers. For other uses, see Amplifier (disambiguation).
+
+A 100 watt stereo audio amplifier used in home component audio systems in the 1970s.
+
+Amplification means increasing the amplitude (voltage or current) of a time-varying signal by a given factor, as shown here. The graph shows the input (blue) and output voltage (red) of an ideal linear amplifier with an arbitrary signal applied as input. In this example the amplifier has a voltage g

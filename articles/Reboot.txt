@@ -1,0 +1,5 @@
+"Main article: Booting
+
+For other uses, see Reboot (disambiguation).
+
+In computing, rebooting is the process by which a running computer system is restarted, either intentionally or unintentionally. Reboots can be either "cold" (alternatively known as "hard") where the power to the system is physically turned off and back on again, causing an initial boot of the machine, or warm (alternatively known as soft) where the system restarts without the need to interrupt the power. The term restart is u

@@ -1,0 +1,5 @@
+"Set of rules that specify the standards for constructed objects such as buildings and nonbuilding structures
+
+Code Violation: This fire-rated concrete block wall is penetrated by cable trays and electrical cables. The hole should be firestopped to restore the fire-resistance rating of the wall. Instead, it is filled with flammable polyurethane foam.
+
+A building code (also building control or building regulations) is a set of rules that specify the standards for constructed objects such as build

@@ -1,0 +1,3 @@
+"A grid code is a technical specification which defines the parameters a facility connected to a public electric grid has to meet to ensure safe, secure and economic proper functioning of the electric system. The facility can be an electricity generating plant, a consumer, or another network.
+The grid code is specified by an authority responsible for the system integrity and network operation. 
+Its elaboration usually implicates network operators (distribution or transmission system operators), 

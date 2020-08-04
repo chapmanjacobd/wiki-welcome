@@ -1,0 +1,57 @@
+"Chemical compound of DNA
+
+For the similarly spelled B vitamin, see Thiamine.
+
+Thymine
+ 
+Names
+
+IUPAC name
+5-Methylpyrimidine-2,4(1H,3H)-dione
+
+Other names
+5-methyluracil
+
+Identifiers
+
+CAS Number
+
+ 65-71-4 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:17821 N
+
+ChEMBL
+ ChEMBL993 N
+
+ChemSpider
+ 1103 N
+
+ECHA InfoCard
+ 100.000.560
+
+IUPHAR/BPS
+
+ 4581
+
+MeSH
+ Thymine
+
+PubChem CID
+
+ 1135
+
+UNII
+ QR26YLT7LT Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID4052342
+
+InChI
+
+InChI=1S/C5H6N2O2/c1-3-2-6-5(9)7-4(3)8/h

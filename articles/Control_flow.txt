@@ -1,0 +1,25 @@
+"Not to be confused with Flow control (data).
+
+Loop constructs
+
+Do while loop
+
+While loop
+
+For loop
+
+Foreach loop
+
+Infinite loop
+
+Control flow
+
+v
+
+t
+
+e
+
+In computer science, control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. The emphasis on explicit control flow distinguishes an imperative programming language from a declarative programming language.
+
+Within an imperative programming la

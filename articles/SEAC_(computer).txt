@@ -1,0 +1,17 @@
+"SEAC SEAC 1n 1950
+
+Developer Samuel N. Alexander and team
+
+Manufacturer U.S. National Bureau of Standards (NBS)
+
+Release date 1950; 70 years ago (1950)
+
+Units sold 1
+
+CPU @ 1 MHz
+
+Memory 512 words, with each being 45 bits in size (64 acoustic delay lines)
+
+Mass 3,000 pounds (1.5 short tons; 1.4 t) (Central Machine)
+
+SEAC's "last printout," November 1954. However SEAC was reassembled successfully and ran for another ten years until its dismantling in 1964. Printout reads: WIPE YOUR EYE5…… I 

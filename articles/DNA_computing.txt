@@ -1,0 +1,3 @@
+The biocompatible computing device: Deoxyribonucleic acid (DNA)
+
+DNA computing is an emerging branch of computing which uses DNA, biochemistry, and molecular biology hardware, instead of the traditional silicon-based computer technologies. Research and development in this area concerns theory, experiments, and applications of DNA computing. Although the field originally started with the demonstration of a computing application by Len Adleman in 1994, it has now been expanded to several other ave

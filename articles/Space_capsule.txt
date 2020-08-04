@@ -1,0 +1,3 @@
+"Type of spacecraft
+
+A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Capsules are distinguished from satellites primarily by the ability to survive reentry and return a payload to the Earth's surface from orbit. Capsule-based crewed spacecraft such as Soyuz or Orion are often supported by a service or adapter module, and sometimes augmented with an extra module for extended space operations. Capsules make up th

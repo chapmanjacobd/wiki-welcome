@@ -1,0 +1,37 @@
+"Alphabetic writing system
+
+Georgian
+
+damts'erloba "script" in Mkhedruli
+
+Type Alphabet 
+
+Languages Georgian (originally) and other Kartvelian languages
+
+Time period
+
+430 AD – present
+
+Parent systems
+
+Modelled on GreekGeorgian
+
+Direction Left-to-right
+
+ISO 15924 Geor, 240 – Georgian (Mkhedruli)
+
+Geok, 241 – Khutsuri (Asomtavruli and Nuskhuri)
+
+Unicode alias
+
+Georgian
+
+Unicode range
+
+U+10A0–U+10FF Georgian
+
+U+2D00–U+2D2F Georgian Supplement
+
+U+1C90–U+1CBF Georgian Extended
+
+This artic

@@ -1,0 +1,9 @@
+"Electronic circuit
+
+"Silicon chip" redirects here. For the electronics magazine, see Silicon Chip.
+
+"Microchip" redirects here. For other uses, see Microchip (disambiguation).
+
+Erasable programmable read-only memory (EPROM) integrated circuits in dual in-line packages. These packages have a transparent window that shows the die inside. The window is used to erase the memory by exposing the chip to ultraviolet light.
+
+Integrated circuit from an EPROM memory microchip showing the memory blocks, t

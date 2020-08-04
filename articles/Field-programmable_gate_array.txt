@@ -1,0 +1,7 @@
+"Array of logic gates that are reprogrammable
+
+"FPGA" redirects here. It is not to be confused with Flip-chip pin grid array.
+
+A Stratix IV FPGA from Altera
+
+A field-programmable gate array (FPGA) is an integrated circuit designed to be configured by a customer or a designer after manufacturing – hence the term "field-programmable". The FPGA configuration is generally specified using a hardware description language (HDL), similar to that used for an application-specific integrated circuit (ASI

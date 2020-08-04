@@ -1,0 +1,21 @@
+"Adipocyte
+
+Yellow adipose tissue in paraffin
+
+Details
+
+Identifiers
+
+Latin adipocytus
+
+MeSH D017667
+
+TH H2.00.03.0.01005
+
+FMA 63880
+
+Anatomical terms of microanatomy
+
+Adipocytes, also known as lipocytes and fat cells, are the cells that primarily compose adipose tissue, specialized in storing energy as fat. Adipocytes are derived from mesenchymal stem cells which give rise to adipocytes through adipogenesis. In cell culture, adipocytes can also form osteoblasts, myocytes and other cell types.
+
+T

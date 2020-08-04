@@ -1,0 +1,44 @@
+d-Ribose
+ 
+Names
+
+IUPAC name
+(2R,3R,4S,5R)-5-(hydroxymethyl)oxolane-2,3,4-triol
+
+Other names
+d-Ribose
+
+Identifiers
+
+CAS Number
+
+ 50-69-1 Y
+
+3D model (JSmol)
+
+ aldehydo form D-(−)-Ribose: Interactive image
+
+ChEMBL
+ ChEMBL1159662 N
+
+ChemSpider
+ 4470639 aldehydo form D-(−)-Ribose N
+
+DrugBank
+ DB01936 N
+
+EC Number
+ 200-059-4
+
+PubChem CID
+
+ 5779
+
+5311110 aldehydo form D-(−)-Ribose
+
+UNII
+ 681HV46001 Y
+
+InChI
+
+aldehydo form D-(−)-Ribose: InChI=1/C5H10O5/c6-1-3(8)5(10)4(9)2-7/h1,3-5,7-10H,2H2/t3

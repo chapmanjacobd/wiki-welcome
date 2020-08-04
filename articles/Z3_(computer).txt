@@ -1,0 +1,7 @@
+"First working programmable, fully automatic digital computer
+
+Zuse Z3 replica on display at Deutsches Museum in Munich
+
+The Z3 was a German electromechanical computer designed by Konrad Zuse. It was the world's first working programmable, fully automatic digital computer. The Z3 was built with 2,600 relays, implementing a 22-bit word length that operated at a clock frequency of about 4–5 Hz. Program code was stored on punched film. Initial values were entered manually.:32–37
+
+The Z3 was com

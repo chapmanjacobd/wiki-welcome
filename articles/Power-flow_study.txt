@@ -1,0 +1,3 @@
+"In power engineering, the power-flow study, or load-flow study, is a numerical analysis of the flow of electric power in an interconnected system. A power-flow study usually uses simplified notations such as a one-line diagram and per-unit system, and focuses on various aspects of AC power parameters, such as voltages, voltage angles, real power and reactive power. It analyzes the power systems in normal steady-state operation.
+
+Power-flow or load-flow studies are important for planning future 

@@ -1,0 +1,3 @@
+This article may need to be rewritten to comply with Wikipedia's quality standards. You can help. The discussion page may contain suggestions. (February 2012)
+
+Checkpointing is a technique that provides fault tolerance for computing systems. It basically consists of saving a snapshot of the application's state, so that applications can restart from that point in case of failure. This is particularly important for the long running applications that are executed in the failure-prone computing syst

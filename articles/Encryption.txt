@@ -1,0 +1,24 @@
+"Process of converting plaintext to ciphertext
+
+This article is about algorithms for encryption and decryption. For an overview of cryptographic technology in general, see Cryptography. For the album by Pro-jekt, see Encryption (album).
+
+"Encrypt" redirects here. For the film, see Encrypt (film).
+
+ This article is part of a series on
+
+Information security
+
+Related security categories
+
+Automotive security
+
+Cybercrime
+Cybersex trafficking
+
+Computer fraud
+
+Cyberwarfare
+
+Internet security
+
+Mobile se

@@ -1,0 +1,5 @@
+Example of magnitude of the Fourier transform of a bandlimited function
+
+The Nyquist–Shannon sampling theorem is a theorem in the field of digital signal processing which serves as a fundamental bridge between continuous-time signals and discrete-time signals. It establishes a sufficient condition for a sample rate that permits a discrete sequence of samples to capture all the information from a continuous-time signal of finite bandwidth.
+
+Strictly speaking, the theorem only applies to a class

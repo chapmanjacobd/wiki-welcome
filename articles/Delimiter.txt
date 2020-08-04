@@ -1,0 +1,7 @@
+"Characters that specify the boundary between regions in a data stream
+
+This article is about delimiters in computing. For delimiters in human use, see Word divider and digit grouping.
+
+A stylistic depiction of a fragment from a CSV-formatted text file. The commas (shown in red) are used as field delimiters.
+
+A delimiter is a sequence of one or more characters for specifying the boundary between separate, independent regions in plain text or other data streams. An example of a delimiter is the c

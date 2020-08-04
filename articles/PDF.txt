@@ -1,0 +1,31 @@
+"Family of file formats used to present documents
+
+For other uses, see PDF (disambiguation).
+
+Portable Document Format Adobe PDF icon
+
+Filename extension .pdf
+
+Internet media type 
+application/pdf,
+
+application/x-pdf
+
+application/x-bzpdf
+
+application/x-gzpdf
+
+Type code 'PDF ' (including a single space)
+
+Uniform Type Identifier (UTI) com.adobe.pdf
+
+Magic number %PDF
+
+Developed by Adobe Inc. (1993–2008)
+
+ISO (2008–)
+
+Initial release 15 June 1993; 27 years ago (1993-06-15)
+
+Latest release 2.0
+

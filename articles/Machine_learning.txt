@@ -1,0 +1,31 @@
+"For the journal, see Machine Learning (journal).
+
+"Statistical learning" redirects here. For statistical learning in linguistics, see statistical learning in language acquisition.
+
+Scientific study of algorithms and statistical models that computer systems use to perform tasks without explicit instructions
+
+ Part of a series on
+
+Machine learning
+
+and
+
+data mining
+
+Problems
+
+Classification
+
+Clustering
+
+Regression
+
+Anomaly detection
+
+AutoML
+
+Association rules
+
+Reinforcement learning
+
+Structured p

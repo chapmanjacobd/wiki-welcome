@@ -1,0 +1,9 @@
+"Whirlwind I Whirlwind computer elements: core memory (left) and operator console
+
+Product family "Whirlwind Program"/"Whirlwind Project"
+
+Release date April 20, 1951 (1951-04-20)
+
+Whirlwind I was a Cold War-era vacuum tube computer developed by the MIT Servomechanisms Laboratory for the U.S. Navy. It was among the first digital electronic computers that operated in real-time for output, and the first that was not simply an electronic replacement of older mechanical systems.
+
+It was one of the f

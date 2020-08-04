@@ -1,0 +1,35 @@
+Copenhagen MetroOverview
+
+Native name Københavns Metro
+
+Owner Metroselskabet
+
+Locale Copenhagen, Denmark
+
+Transit type Rapid transit
+
+Number of lines 4
+
+Number of stations 39 (+5 under construction)
+
+Daily ridership 220,000 (weekday)
+
+Annual ridership 79 million (2019)
+
+Website M.dk
+
+Operation
+
+Began operation 19 October 2002
+
+Operator(s) ATM
+
+Number of vehicles 34 AnsaldoBreda Driverless Metro (M1+M2)
+
+30 AnsaldoBreda Driverless Metro (M3+M4)
+
+Train length 3 cars
+
+Headway 2–4 minutes
+
+Techni

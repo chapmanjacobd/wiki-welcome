@@ -1,0 +1,31 @@
+"Sterol biosynthesized by all animal cells which is an essential structural component of all animal cell membranes
+
+For the journal, see Cholesterol (journal).
+
+Cholesterol
+ 
+Names
+
+IUPAC name
+cholest-5-en-3β-ol
+
+Systematic IUPAC name
+(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17--2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopentaphenanthren-3-ol
+
+Other names
+Cholesterin, Cholesteryl alcohol
+
+Identifiers
+
+CAS Number
+
+ 57-88-5 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:16113 Y
+
+Ch

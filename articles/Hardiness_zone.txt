@@ -1,0 +1,7 @@
+"Geographical regions defined by climatic conditions for horticultural purposes
+
+Temperature scale used to define USDA hardiness zones. These are annual extreme minimums (an area is assigned to a zone by taking the lowest temperature recorded there in a given year). As shown, the USDA uses a GIS dataset averaged over 1976 to 2005 for its United States maps.
+
+A hardiness zone is a geographic area defined to encompass a certain range of climatic conditions relevant to plant growth and survival.
+
+T

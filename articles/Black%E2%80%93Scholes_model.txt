@@ -1,0 +1,5 @@
+This article's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (July 2020) (Learn how and when to remove this template message)
+
+Mathematical model
+
+The Black–Scholes /ˌblæk ˈʃoʊlz/ or Black–Scholes–Merton model is a mathematical model for the dynamics of a financial market containing derivative investment instruments. From the partial differential equation in the model, known as the Black–Schol

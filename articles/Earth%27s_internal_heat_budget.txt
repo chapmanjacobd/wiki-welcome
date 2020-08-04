@@ -1,0 +1,3 @@
+Global map of the flux of heat, in mW/m2, from Earth's interior to the surface. The largest values of heat flux coincide with mid ocean ridges, and the smallest values of heat flux occur in stable continental interiors.
+
+Earth's internal heat budget is fundamental to the thermal history of the Earth. The flow of heat from Earth's interior to the surface is estimated at terawatts (TW) and comes from two main sources in roughly equal amounts: the radiogenic heat produced by the radioactive decay o

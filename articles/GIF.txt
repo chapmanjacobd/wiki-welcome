@@ -1,0 +1,31 @@
+"For other uses, see GIF (disambiguation).
+
+Bitmap image file format family
+
+GIF An animated GIF of a rotating globe
+
+Filename extension 
+.gif
+
+Internet media type 
+image/gif
+
+Type code GIFf
+
+Uniform Type Identifier (UTI) com.compuserve.gif
+
+Magic number GIF87a/GIF89a
+
+Developed by CompuServe
+
+Initial release June 15, 1987; 33 years ago (1987-06-15)
+
+Latest release 89a
+
+(1989; 31 years ago (1989))
+
+Type of format lossless bitmap image format
+
+Website www.w3.org/Graphics/GIF/spec-gif89a.txt
+
+The 

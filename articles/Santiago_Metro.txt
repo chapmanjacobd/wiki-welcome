@@ -1,0 +1,35 @@
+"Santiago Metro
+
+NS 93 train on an elevated portion of the line 5.
+
+AS-2014 train on the line 6 side of Los Leones.
+
+Overview
+
+Native name Metro de Santiago
+
+Locale Santiago, Chile
+
+Transit type Rapid transit
+
+Number of lines 7
+
+Number of stations 136
+
+Daily ridership 2.35 million (avg. weekday, 2017)
+
+Annual ridership 685 million (2017)
+
+Website Metro de Santiago
+
+Operation
+
+Began operation 15 September 1975
+
+Operator(s) Metro S.A.
+
+Technical
+
+System length 139.7 km (86.8 mi)
+
+Track gauge 1,435

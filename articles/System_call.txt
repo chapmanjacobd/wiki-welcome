@@ -1,0 +1,5 @@
+"Not to be confused with system command.
+
+A high-level overview of the Linux kernel's system call interface, which handles communication between its various components and the userspace
+
+In computing, a system call (commonly abbreviated to syscall) is the programmatic way in which a computer program requests a service from the kernel of the operating system on which it is executed. This may include hardware-related services (for example, accessing a hard disk drive), creation and execution of ne

@@ -1,0 +1,13 @@
+"Magnetic tape recording format for audio recording and playback
+
+This article is about a tape format commonly used for audio recording introduced by Philips in 1963. For other audio, video and data tape cassette formats, see Cassette and cartridge tapes.
+
+Compact Cassette
+
+A TDK SA90 Type II Compact Cassette
+
+Media type Magnetic tape cassette
+
+Encoding Analog signal, in four tracks
+
+Capacity Typically 30 or 45 minutes of audio per side (C60 and C90 formats respectively), 120 minutes also availa

@@ -1,0 +1,31 @@
+"MIPSDesigner MIPS Technologies, Imagination Technologies
+
+Bits 64-bit (32 → 64)
+
+Introduced 1985; 35 years ago (1985)
+
+Version MIPS32/64 Release 6 (2014)
+
+Design RISC
+
+Type Register-Register
+
+Encoding Fixed
+
+Branching Compare and branch
+
+Endianness Bi
+
+Page size 4 KB
+
+Extensions MDMX, MIPS-3D
+
+Open No
+
+Registers
+
+General purpose 32
+
+Floating point 32
+
+MIPS (Microprocessor without Interlocked Pipelined Stages) is a reduced instruction set computer (RISC) instruction set architecture (ISA):A-1:

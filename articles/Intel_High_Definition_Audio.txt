@@ -1,0 +1,25 @@
+"For the marketing term HD audio, see High-resolution audio.
+
+Realtek ALC 882 HD Audio Codec
+
+Intel High Definition Audio (IHDA) (also called HD Audio or development codename Azalia) is a specification for the audio sub-system of personal computers. It was released by Intel in 2004 as successor to their AC'97 PC audio standard.
+
+Contents
+
+1 Features
+
+2 Operating system support
+
+3 Host controller
+
+4 Front panel connector
+
+5 See also
+
+6 References
+
+7 External links
+
+Features
+
+Features of the speci

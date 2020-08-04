@@ -1,0 +1,7 @@
+Interleaver" redirects here. For the fiber-optic device, see optical interleaver.
+
+It has been suggested that Forward error correction be merged into this article. (Discuss) Proposed since August 2019.
+
+scheme for controlling errors in data over noisy communication channels
+
+In computing, telecommunication, information theory, and coding theory, an error correction code, sometimes error correcting code, (ECC) is used for controlling errors in data over unreliable or noisy communication channels.

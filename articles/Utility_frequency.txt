@@ -1,0 +1,5 @@
+"Frequency used on standard electricity grid in a given area
+
+The waveform of 230 volt, 50 Hz compared with 110 V, 60 Hz
+
+The utility frequency, (power) line frequency (American English) or mains frequency (British English) is the nominal frequency of the oscillations of alternating current (AC) in a wide area synchronous grid transmitted from a power station to the end-user. In large parts of the world this is 50 Hz, although in the Americas and parts of Asia it is typically 60 Hz. Current usag

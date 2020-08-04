@@ -1,0 +1,21 @@
+"Version 6 of the Internet Protocol
+
+Parts of this article (those related to RFC 8200 and RFC 8201) need to be updated. Please update this article to reflect recent events or newly available information. (July 2017)
+
+Internet Protocol Version 6 Communication protocol
+
+IPv6 header
+
+Purpose Internetworking protocol
+
+Developer(s) Internet Engineering Task Force
+
+Introduced December 1995; 24 years ago (1995-12)
+
+Based on IPv4
+
+OSI layer Network layer
+
+RFC(s) RFC 2460, RFC 8200
+
+Internet protocol sui

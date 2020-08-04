@@ -1,0 +1,11 @@
+"converter that measures a physical quantity and converts it into a signal
+
+"Sensors" redirects here. For other uses, see Sensors (disambiguation).
+
+"Detector" redirects here. For detector circuits in radio and other signal-related electronics, see Detector (radio).
+
+This article is about the type of device. It is not to be confused with Censor, Censure, or Censer.
+
+Different types of light sensors
+
+In the broadest definition, a sensor is a device, module, machine, or subsystem whose purpose is 

@@ -1,0 +1,39 @@
+"Compare RNA-dependent RNA polymerase.
+
+DNA-Directed RNA Polymerase
+
+RNA Polymerase hetero27mer, Human
+
+Identifiers
+
+EC number 2.7.7.6
+
+CAS number 9014-24-8
+
+Databases
+
+IntEnz IntEnz view
+
+BRENDA BRENDA entry
+
+ExPASy NiceZyme view
+
+KEGG KEGG entry
+
+MetaCyc metabolic pathway
+
+PRIAM profile
+
+PDB structures RCSB PDB PDBe PDBsum
+
+Gene Ontology AmiGO / QuickGO
+
+Search
+
+PMC articles
+
+PubMed articles
+
+NCBI proteins
+
+RNA polymerase (purple) unwinding the DNA double helix and uses one strand (darker oran

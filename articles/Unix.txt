@@ -1,0 +1,17 @@
+"Family of computer operating systems that derive from the original AT&T Unix
+
+Unix Evolution of Unix and Unix-like systems
+
+Developer Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas McIlroy, and Joe Ossanna at Bell Labs
+
+Written in C and assembly language
+
+OS family Unix
+
+Working state Current
+
+Source model Historically closed-source, while some Unix projects (including BSD family and illumos) are open-source
+
+Initial release Development started in 1969
+
+First manual published internally

@@ -1,0 +1,5 @@
+"Microscope that uses visible light
+
+A modern optical microscope with a mercury bulb for fluorescence microscopy. The microscope has a digital camera which is connected to a computer.
+
+The optical microscope, also referred to as a light microscope, is a type of microscope that commonly uses visible light and a system of lenses to generate magnified images of small objects. Optical microscopes are the oldest design of microscope and were possibly invented in their present compound form in the 17t

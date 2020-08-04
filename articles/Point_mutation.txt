@@ -1,0 +1,9 @@
+"Replacement, insertion, or deletion of a single DNA or RNA nucleotide
+
+Illustration of three types of point mutations to a codon.
+
+Schematic of a single-stranded RNA molecule illustrating a series of three-base codons. Each three-nucleotide codon corresponds to an amino acid when translated to protein. When one of these codons is changed by a point mutation, the corresponding amino acid of the protein is changed.
+
+A to G point mutation detected with Sanger sequencing
+
+A point mutation or substi

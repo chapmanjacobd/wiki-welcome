@@ -1,0 +1,11 @@
+"For a non-technical introduction to the topic, see Introduction to genetics.
+
+Complete set of nucleic acid sequences for humans
+
+Genomic information Graphical representation of the idealized human diploid karyotype, showing the organization of the genome into chromosomes. This drawing shows both the female (XX) and male (XY) versions of the 23rd chromosome pair. Chromosomes are shown aligned at their centromeres. The mitochondrial DNA is not shown.
+
+NCBI genome ID 51
+
+Ploidy diploid
+
+Genome siz

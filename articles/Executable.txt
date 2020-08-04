@@ -1,0 +1,46 @@
+"This article is about a general type of computer file. For the specific file type used in some operating systems, see .exe.
+
+Program execution
+
+General concepts
+
+Code
+
+Translation
+Compiler
+Compile-time
+
+Optimizing compiler
+
+Intermediate representation (IR)
+
+Execution
+Runtime system
+Runtime
+
+Executable
+
+Interpreter
+
+Virtual machine
+
+Types of code
+
+Source code
+
+Object code
+
+Bytecode
+
+Machine code
+
+Microcode
+
+Compilation strategies
+
+Just-in-time (JIT)
+Tracing just-in-time
+
+Ahead-of-time (AOT)
+
+Tra

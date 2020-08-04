@@ -1,0 +1,5 @@
+"System that transfers data between components within a computer
+
+Four PCI Express bus card slots (from top to 2nd bottom: ×4, ×16, ×1 and ×16), compared to a 32-bit conventional PCI bus card slot (very bottom)
+
+In computer architecture, a bus (a contraction of the Latin omnibus, and historically also called data highway) is a communication system that transfers data between components inside a computer, or between computers. This expression covers all related hardware components (wire, opti

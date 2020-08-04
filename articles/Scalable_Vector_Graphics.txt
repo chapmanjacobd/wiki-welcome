@@ -1,0 +1,23 @@
+SVG" redirects here. For other uses, see SVG (disambiguation).
+
+For help about SVG images on Wikipedia, see Wikipedia:SVG help.
+
+Open standard for two-dimensional vector graphics
+
+Scalable Vector Graphics
+
+Internet media type image/svg+xml
+
+Uniform Type Identifier (UTI) public.svg-image
+
+Developed by W3C
+
+Initial release 4 September 2001 (18 years ago) (2001-09-04)
+
+Latest release 1.1 (Second Edition)
+
+(16 August 2011; 8 years ago (2011-08-16))
+
+Type of format Vector graphics
+
+Extended from XML

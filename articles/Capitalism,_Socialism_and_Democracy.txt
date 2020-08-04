@@ -1,0 +1,6 @@
+An automated process has detected links on this page on the local or global blacklist. If the links are appropriate you may request whitelisting by following these instructions; otherwise consider removing or replacing them with more appropriate links. (To hide this tag, set the "invisible" field to "true")List of blacklisted links:
+
+http://www.econlib.org/library/LFBooks/Rogge/rggCCS1.html
+Triggered by \\beconlib\\.org\\b on the local blacklist
+
+Capitalism, Socialism and Democracy First edition

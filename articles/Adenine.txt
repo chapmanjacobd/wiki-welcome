@@ -1,0 +1,66 @@
+"Chemical compound in DNA and RNA
+
+Adenine
+ 
+Names
+
+IUPAC name
+9H-purin-6-amine
+
+Other names
+6-aminopurine
+
+Identifiers
+
+CAS Number
+
+ 73-24-5 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Interactive image
+
+ChEBI
+ CHEBI:16708 Y
+
+ChEMBL
+ ChEMBL226345 Y
+
+ChemSpider
+ 185 Y
+
+DrugBank
+ DB00173 Y
+
+ECHA InfoCard
+ 100.000.724
+
+EC Number
+ 200-796-1
+
+IUPHAR/BPS
+
+ 4788
+
+KEGG
+ D00034 Y
+
+PubChem CID
+
+ 190
+
+RTECS number
+ AU6125000
+
+UNII
+ JAC85A2161 Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID6022557
+
+InChI
+
+InChI=1S/C5H5N5

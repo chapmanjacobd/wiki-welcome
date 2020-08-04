@@ -1,0 +1,33 @@
+"Lyon Metro
+
+Overview
+
+Native name Métro de Lyon
+
+Locale Lyon Metropolis, France
+
+Transit type Rapid transit
+
+Number of lines 4
+
+Number of stations 40
+
+Daily ridership 740,000 (weekday avg., 2013)
+
+Annual ridership 212,000,000 (2018)
+
+Operation
+
+Began operation 9 December 1974; 45 years ago (9 December 1974)
+
+Operator(s) TCL
+
+Number of vehicles 73
+
+Technical
+
+System length 32.1 km (19.9 mi)
+
+Track gauge 1,435 mm (4 ft 8 1⁄2 in) standard gauge with roll ways along the rails
+
+Electrification 75

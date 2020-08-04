@@ -1,0 +1,5 @@
+"Magnetic field that extends from the Earth’s inner core to where it meets the solar wind
+
+Computer simulation of the Earth's field in a period of normal polarity between reversals. The lines represent magnetic field lines, blue when the field points towards the center and yellow when away. The rotation axis of the Earth is centered and vertical. The dense clusters of lines are within the Earth's core.
+
+Earth's magnetic field, also known as the geomagnetic field, is the magnetic field that ext

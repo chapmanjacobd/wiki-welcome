@@ -1,0 +1,15 @@
+"Optical disc format for the storage and playback of digital audio and other digital data
+
+"CD" redirects here. For other uses, see CD (disambiguation).
+
+Compact disc
+
+The readable surface of a compact disc includes a spiral track wound tightly enough to cause light to diffract into a full visible spectrum.
+
+Media type Optical disc
+
+Encoding Various
+
+Capacity Typically up to 700 MiB (up to 80 minutes' audio)
+
+Read mechanism 780 nm wavelength (infrared and red edge) semiconductor laser (early pla

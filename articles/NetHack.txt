@@ -1,0 +1,20 @@
+"Classical roguelike ASCII graphics computer game released in 1987
+
+NetHack A released djinni grants the player a wish
+
+Developer(s) The NetHack DevTeam
+
+Initial release July 1987 (1.3d)
+
+Stable release 3.6.6
+ / 8 March 2020; 4 months ago (2020-03-08)
+
+Repository github.com/NetHack/NetHack
+
+Type Roguelike
+
+License NetHack General Public License (derivative of BISON general public license, a precursor to the GPL)
+
+Website www.nethack.org/
+
+NetHack is an open source single-player roguelike video g

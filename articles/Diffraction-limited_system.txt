@@ -1,0 +1,3 @@
+Memorial to Ernst Karl Abbe, who approximated the diffraction limit of a microscope as , where d is the resolvable feature size, λ is the wavelength of light, n is the index of refraction of the medium being imaged in, and θ (depicted as α in the inscription) is the half-angle subtended by the optical objective lens (representing the numerical aperture).
+
+Log-log plot of aperture diameter vs angular resolution at the diffraction limit for various light wavelengths compared with various astron

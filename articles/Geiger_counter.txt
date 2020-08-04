@@ -1,0 +1,15 @@
+"Instrument used for measuring ionizing radiation
+
+Geiger–Müller counter A "two-piece" bench type Geiger–Müller counter with end-window detector
+
+Other names Geiger Muller counter
+
+Uses Particle detector
+
+Inventor Hans Geiger
+
+Walther Müller
+
+Related items Geiger–Müller tube
+
+A Geiger counter is an instrument used for detecting and measuring ionizing radiation. Also known as a Geiger–Muller counter (or Geiger–Müller counter), it is widely used in applications such as radiation dos

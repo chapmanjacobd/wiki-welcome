@@ -1,0 +1,18 @@
+Agon board and initial setup. For this diagram, guards are circular pieces, queens are hex-shaped, and the throne is marked with a star.
+
+Agon (or Queen's Guards or Royal Guards) is an strategy game invented by Anthony Peacock of London, and first published in 1842.
+It is a two player game played on a 6×6×6 hexagonal gameboard, and is notable for being the oldest known board game played on a board of hexagonal cells.
+
+Contents
+
+1 Rules
+
+1.1 Moves
+
+1.2 Captures
+
+1.3 Other rules
+
+2 Variations
+
+3

@@ -1,0 +1,5 @@
+"Form of treatment for genetic disorders and other illnesses
+
+Antisense therapy is a form of treatment that uses antisense oligonucleotides (ASOs) to target messenger RNA (mRNA). ASOs are capable of altering mRNA expression through a variety of mechanisms, including ribonuclease H mediated decay of the pre-mRNA, direct steric blockade, and exon content modulation through splicing site binding on pre-mRNA. Several ASOs have been approved in the United States, European Union, and elsewhere.
+
+Conte

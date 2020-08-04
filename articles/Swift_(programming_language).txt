@@ -1,0 +1,13 @@
+"This article is about the Apple programming language. For the scripting language, see Swift (parallel scripting language).
+
+Programming language initially developed by Apple Inc and now open-source software
+
+Swift
+
+Paradigm Multi-paradigm: protocol-oriented, object-oriented, functional, imperative, block structured Declarative programming
+
+Designed by Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff, and Apple Inc.
+
+Developer Apple Inc. and open-source contributors
+
+First appear

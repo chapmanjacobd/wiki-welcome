@@ -1,0 +1,21 @@
+"Cantilever bridge The Pierre Pflimlin Bridge is a balanced cantilever made of concrete, shown here under construction.
+
+Ancestor Beam bridge, truss bridge
+
+Related None
+
+Descendant Swing bridge
+
+Carries Pedestrians, automobiles, trucks, light rail, heavy rail
+
+Span range Medium
+
+Material Iron, structural steel, prestressed concrete
+
+Movable No
+
+Design effort Medium
+
+Falsework required Very little to none
+
+A cantilever bridge is a bridge built using cantilevers, structures that project horizonta

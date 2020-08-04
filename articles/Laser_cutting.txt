@@ -1,0 +1,9 @@
+Diagram of a laser cutter
+
+Play media
+
+Laser cutting process on a sheet of steel
+
+CAD (top) and stainless steel laser-cut part (bottom)
+
+Laser cutting is a technology that uses a laser to slice materials. While typically used for industrial manufacturing applications, it is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are u

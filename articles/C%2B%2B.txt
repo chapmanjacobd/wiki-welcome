@@ -1,0 +1,20 @@
+CXX" redirects here. For the Roman numerals, see 120 (number).
+
+General-purpose programming language
+
+C++ The C++ logo endorsed by Standard C++
+
+Paradigms Multi-paradigm: procedural, functional, object-oriented, generic
+
+Family C
+
+Designed by Bjarne Stroustrup
+
+Developer ISO/IEC JTC1 (Joint Technical Committee 1) / SC22 (Subcommittee 22) / WG21 (Working Group 21)
+
+First appeared 1985; 35 years ago (1985)
+
+Stable release C++17 (ISO/IEC 14882:2017)
+ / 1 December 2017; 2 years ago (2017-12-01)
+
+Pre

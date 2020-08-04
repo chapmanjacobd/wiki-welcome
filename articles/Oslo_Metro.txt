@@ -1,0 +1,35 @@
+"Oslo Metro
+
+MX3000 on the Østensjø Line
+
+Overview
+
+Native name T-banen i Oslo
+
+Owner Sporveien (main owner)
+
+Ruter (administration, management and ticketing)
+
+Oslo Vognselskap (rolling stock)
+
+Locale Oslo, Bærum, Norway
+
+Transit type Rapid transit
+
+Number of lines 5
+
+Number of stations 101
+
+Daily ridership 323,000 (2018)
+
+Annual ridership 118,000,000 (2018)
+
+Operation
+
+Began operation 31 May 1898 as suburban tram
+
+28 June 1928 as underground tram
+
+22 May 1966 as T-bane
+
+Operator(s) Sporveien

@@ -1,0 +1,23 @@
+"General-purpose, high-level programming language
+
+Python
+
+Paradigm Multi-paradigm: functional, imperative, object-oriented, structured, reflective
+
+Designed by Guido van Rossum
+
+Developer Python Software Foundation
+
+First appeared 1990; 30 years ago (1990)
+
+Stable release 3.8.5
+ / 20 July 2020; 6 days ago (2020-07-20)
+
+Preview release 3.9.0b5
+ / 20 July 2020; 6 days ago (2020-07-20)
+
+Typing discipline Duck, dynamic, gradual (since 3.5)
+
+OS Linux, macOS, Windows Vista (and newer) and more
+
+Licen

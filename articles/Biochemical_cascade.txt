@@ -1,0 +1,3 @@
+"Series of chemical reactions resulting in a cell response
+
+A biochemical cascade, also known as a signaling cascade or signaling pathway, is a series of chemical reactions that occur within a biological cell when initiated by a stimulus. This stimulus, known as a first messenger, acts on a receptor that is transduced to the cell interior through second messengers which amplify the signal and transfer it to effector molecules, causing the cell to respond to the initial stimulus. Most biochemical

@@ -1,0 +1,7 @@
+"Computer graphics images defined by points, lines and curves
+
+This article is about computer illustration. For other uses, see Vector graphics (disambiguation).
+
+Example showing effect of vector graphics versus raster graphics
+
+Vector graphics are computer graphics images that are defined in terms of points on a Cartesian plane, which are connected by lines and curves to form polygons and other shapes. Vector graphics have the unique advantage over raster graphics in that the points, lines, and

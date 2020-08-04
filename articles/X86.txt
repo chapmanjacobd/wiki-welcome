@@ -1,0 +1,25 @@
+"Family of instruction set architectures
+
+This article is about Intel microprocessor architecture in general. For the 32-bit generation of this architecture that is also referred to as "x86", see IA-32.
+
+x86Designer Intel, AMD
+
+Bits 16-bit, 32-bit and 64-bit
+
+Introduced 1978 (16-bit), 1985 (32-bit), 2003 (64-bit)
+
+Design CISC
+
+Type Register–memory
+
+Encoding Variable (1 to 15 bytes)
+
+Branching Condition code
+
+Endianness Little
+
+Page size 8086–i286: None
+
+i386, i486: 4 KB pages
+
+P5 Pentium: ad

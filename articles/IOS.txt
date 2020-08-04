@@ -1,0 +1,19 @@
+"Mobile operating system by Apple
+
+This article is about the mobile operating system developed by Apple. For the router/switch OS developed by Cisco Systems, see Cisco IOS. For other uses, see IOS (disambiguation).
+
+iOS
+
+iOS 13 running on an iPhone X
+
+Developer Apple Inc.
+
+Written in C, C++, Objective-C, Swift, assembly language
+
+OS family Unix-like, based on Darwin (BSD), iOS
+
+Working state Current
+
+Source model Closed, with open-source components
+
+Initial release June 29, 2007; 13 years ago (2

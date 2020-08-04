@@ -1,0 +1,9 @@
+"For other uses, see Transistor (disambiguation).
+
+Solid-state electrically operated switch also used as an amplifier
+
+Assorted discrete transistors. Packages in order from top to bottom: TO-3, TO-126, TO-92, SOT-23.
+
+Metal-oxide-semiconductor field-effect transistor (MOSFET), showing gate (G), body (B), source (S) and drain (D) terminals. The gate is separated from the body by an insulating layer (pink).
+
+A transistor is a semiconductor device used to amplify or switch electronic signals and el

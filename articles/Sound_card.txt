@@ -1,0 +1,22 @@
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (June 2011) (Learn how and when to remove this template message)
+
+Audio interface A Sound Blaster Live! Value card, a typical (circa 2000) PCI sound card.
+
+Connects to via one of:
+PCI
+
+ISA
+
+USB
+
+IEEE 1394
+
+IBM PC Parallel Port
+
+PCI-E
+
+MCA (rare)
+
+PCMCIA interfaces (PC Card, Expresscard)
+
+Line in or out:

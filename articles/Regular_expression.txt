@@ -1,0 +1,13 @@
+Regex" redirects here. For the comic book, see Re:Gex.
+
+Sequence of characters that forms a search pattern
+
+The match results of the pattern (?<=\\.) {2,}(?=)
+
+At least two spaces are matched, but only if they occur directly after a period (.) and before an uppercase letter.
+
+Stephen Cole Kleene, who helped invent the concept
+
+A blacklist on Wikipedia which uses regular expressions to identify bad titles
+
+A regular expression (shortened as regex or regexp; also referred to as rational expression

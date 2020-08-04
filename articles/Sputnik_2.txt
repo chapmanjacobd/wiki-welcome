@@ -1,0 +1,35 @@
+"Artificial satellite
+
+Sputnik 2 Model of Sputnik 2 at the Memorial Museum of Cosmonautics in Moscow
+
+Mission type Bioscience
+
+Operator OKB-1
+
+Harvard designation 1957 Beta 1
+
+COSPAR ID 1957-002A
+
+SATCAT no. 00003
+
+Mission duration 162 days
+
+Orbits completed 2570
+
+Spacecraft properties
+
+Manufacturer OKB-1
+
+Launch mass 508.3 kilograms (1,121 lb)
+
+Start of mission
+
+Launch date 3 November 1957, 02:30 (1957-11-03UTC02:30Z) GMT
+
+Rocket Sputnik 8K71PS
+
+Launch site Baikonur 1/5
+
+End of mission
+
+Decay d

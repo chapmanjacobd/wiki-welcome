@@ -1,0 +1,16 @@
+"General-purpose programming language
+
+Fortran The Fortran Automatic Coding System for the IBM 704 (15 October 1956), the first programmer's reference manual for Fortran
+
+Paradigm multi-paradigm: structured, imperative (procedural, object-oriented), generic, array
+
+Designed by John Backus
+
+Developer John Backus and IBM
+
+First appeared 1957; 63 years ago (1957)
+
+Stable release Fortran 2018 (ISO/IEC 1539-1:2018)
+ / November 28, 2018; 19 months ago (2018-11-28)
+
+Typing discipline strong, static, ma

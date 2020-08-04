@@ -1,0 +1,21 @@
+"A virtual power plant (VPP) is a cloud-based distributed power plant that aggregates the capacities of heterogeneous distributed energy resources (DER) for the purposes of enhancing power generation, as well as trading or selling power on the electricity market. Examples of virtual power plants exist in the United States, Europe, and Australia.
+
+Contents
+
+1 Power generation
+
+2 Ancillary services
+
+3 Energy trading
+
+4 United States
+
+5 Europe
+
+6 Australia
+
+7 See also
+
+8 References
+
+9 External link

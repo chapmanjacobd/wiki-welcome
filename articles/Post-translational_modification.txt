@@ -1,0 +1,5 @@
+"Biological processes
+
+Post-translational modification of insulin. At the top, the ribosome translates a mRNA sequence into a protein, insulin, and passes the protein through the endoplasmic reticulum, where it is cut, folded and held in shape by disulfide (-S-S-) bonds. Then the protein passes through the golgi apparatus, where it is packaged into a vesicle. In the vesicle, more parts are cut off, and it turns into mature insulin.
+
+Post-translational modification (PTM) refers to the covalent an

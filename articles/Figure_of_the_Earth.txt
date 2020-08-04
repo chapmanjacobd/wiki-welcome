@@ -1,0 +1,42 @@
+"For the historical development of the concept, see Spherical Earth and Flat Earth.
+
+Size and shape used to model the Earth for geodesy
+
+Geodesy
+
+Fundamentals
+
+Geodesy
+
+Geodynamics
+
+Geomatics
+
+History
+
+Concepts
+
+Geographical distance
+
+Geoid
+
+Figure of the Earth (Earth radius and Earth's circumference)
+
+Geodetic datum
+
+Geodesic
+
+Geographic coordinate system
+
+Horizontal position representation
+
+Latitude / Longitude
+
+Map projection
+
+Reference ellipsoid
+
+Satellite geodesy
+
+Spatial reference system
+

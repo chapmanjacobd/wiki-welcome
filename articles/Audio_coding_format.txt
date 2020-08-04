@@ -1,0 +1,5 @@
+"Digitally coded format for audio signals
+
+Comparison of coding efficiency between popular audio formats
+
+An audio coding format (or sometimes audio compression format) is a content representation format for storage or transmission of digital audio (such as in digital television, digital radio and in audio and video files). Examples of audio coding formats include MP3, AAC, Vorbis, FLAC, and Opus. A specific software or hardware implementation capable of audio compression and decompression to/fr

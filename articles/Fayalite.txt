@@ -1,0 +1,33 @@
+"Olivine, nesosilicate mineral
+
+Fayalite
+
+Fayalite crystals on substrate. Sample collected from Ochtendung, Eifel, Germany
+
+General
+
+Category Nesosilicate
+
+Formula
+
+(repeating unit) Fe2SiO4
+
+Strunz classification 9.AC.05
+
+Crystal system Orthorhombic
+
+Crystal class Dipyramidal (mmm)
+
+H-M symbol: (2/m 2/m 2/m)
+
+Space group Pbnm
+
+Unit cell a = 4.8211, b = 10.4779
+
+c = 6.0889 ; Z = 4
+
+Identification
+
+Formula mass 203.771 g·mol−1
+
+Color Greenish yellow, yellow-brown, brown; pale yellow to amber in

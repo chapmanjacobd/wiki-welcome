@@ -1,0 +1,5 @@
+"Content management system specifically for web content
+
+See also: Content management system and Enterprise content management
+
+A web content management system (WCM or WCMS) is a software content management system (CMS) specifically for web content. It provides website authoring, collaboration, and administration tools that help users with little knowledge of web programming languages or markup languages create and manage website content. A WCMS provides the foundation for collaboration, providi

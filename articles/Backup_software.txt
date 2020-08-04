@@ -1,0 +1,19 @@
+"Backup software are computer programs used to perform a backup; they create supplementary exact copies of files, databases or entire computers. These programs may later use the supplementary copies to restore the original contents in the event of data loss. Hence they're very useful to users.
+
+ Wikiversity has learning resources about Backup software
+
+Contents
+
+1 Key features
+
+1.1 Volumes
+
+1.2 Data compression
+
+1.3 Access to open files
+
+1.4 Differential and incremental backups
+
+1.5 Schedules
+
+1

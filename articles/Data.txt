@@ -1,0 +1,7 @@
+"For data in computer science, see Data (computing). For the journal, see Scientific Data (journal). For the Star Trek character, see Data (Star Trek). For other uses, see Data (disambiguation) and Datum (disambiguation).
+
+individual units of information
+
+Some of the different types of data.
+
+Data are characteristics or information, usually numerical, that are collected through observation. In a more technical sense, data is a set of values of qualitative or quantitative variables about one or m

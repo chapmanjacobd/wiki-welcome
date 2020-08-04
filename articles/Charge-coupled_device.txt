@@ -1,0 +1,7 @@
+"Device for the movement of electrical charge
+
+A specially developed CCD in a wire-bonded package used for ultraviolet imaging
+
+A charge-coupled device (CCD) is an integrated circuit containing an array of linked, or coupled, capacitors. Under the control of an external circuit, each capacitor can transfer its electric charge to a neighboring capacitor. CCD sensors are a major technology used in digital imaging.
+
+In a CCD image sensor, pixels are represented by p-doped metal–oxide–semiconduc

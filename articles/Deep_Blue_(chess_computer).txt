@@ -1,0 +1,37 @@
+"Chess-playing computer made by IBM
+
+ This article is part of the series on
+
+Chess programming
+
+Board representations
+
+0x88
+
+Bitboards
+
+Chess computers
+
+Belle
+
+Deep Blue
+
+Chess engines
+
+Fritz
+
+GNU Chess
+
+Leela Chess Zero
+
+Stockfish
+
+v
+
+t
+
+e
+
+One of 2 racks of Deep Blue, at the Computer History Museum
+
+Deep Blue was a chess-playing computer developed by IBM. It is known for being the first computer chess-playing system to win both a chess game and a chess match against a reigning world champion u

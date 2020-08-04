@@ -1,0 +1,20 @@
+"Not to be confused with Kobol, a fictional planet in Battlestar Galactica.
+
+Programming language with English-like syntax
+
+COBOL The cover of the COBOL 60 report to CODASYL (April 1960)
+
+Paradigm Procedural, imperative, object-oriented
+
+Designed by Howard Bromberg, Norman Discount, Vernon Reeves, Jean E. Sammet, William Selden, Gertrude Tierney
+
+Developers CODASYL, ANSI, ISO
+
+First appeared 1959; 61 years ago (1959)
+
+Stable release ISO/IEC 1989:2014
+ / 2014
+
+Typing discipline Weak, static
+
+File

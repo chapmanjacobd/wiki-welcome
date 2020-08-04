@@ -1,0 +1,31 @@
+Samples of soils belonging to different soil types
+
+Soil classification deals with the systematic categorization of soils based on distinguishing characteristics as well as criteria that dictate choices in use.
+
+Contents
+
+1 Overview
+
+1.1 Engineering
+
+1.2 Soil science
+
+1.3 OSHA
+
+2 See also
+
+3 References
+
+4 Systems
+
+4.1 Current international system
+
+4.2 Current national systems
+
+4.3 Current technical systems
+
+4.4 Earlier systems of historical interest
+
+4.5 Principles
+
+4.6 Numerical classification

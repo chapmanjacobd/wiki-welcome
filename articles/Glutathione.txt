@@ -1,0 +1,58 @@
+"chemical compound
+
+Glutathione
+ 
+Names
+
+IUPAC name
+(2S)-2-Amino-4-{-2-sulfanylethyl]carbamoyl}butanoic acid
+
+Other names
+γ-L-Glutamyl-L-cysteinylglycine
+
+(2S)-2-Amino-5-amino]-5-oxopentanoic acid
+
+Identifiers
+
+CAS Number
+
+ 70-18-8 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Abbreviations
+ GSH
+
+ChEBI
+ CHEBI:16856 Y
+
+ChEMBL
+ ChEMBL1543 Y
+
+ChemSpider
+ 111188 Y
+
+DrugBank
+ DB00143 Y
+
+ECHA InfoCard
+ 100.000.660
+
+IUPHAR/BPS
+
+ 6737
+
+KEGG
+ C00051 Y
+
+MeSH
+ Glutathione
+
+PubChem CID
+
+ 124886
+
+UNII
+ GAN16C9B8

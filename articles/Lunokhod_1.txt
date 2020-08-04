@@ -1,0 +1,31 @@
+"Lunokhod 1 Model of a Soviet Lunokhod program rover
+
+Mission type Lunar rover
+
+COSPAR ID 1970-095A
+
+Website Lunar and Planetary Department Moscow University Lunokhod 1 page
+
+Spacecraft properties
+
+Launch mass 5,600 kilograms (12,300 lb)
+
+Dry mass 756 kilograms (1,667 lb) (rover only)
+
+Power 180 watts
+
+Start of mission
+
+Launch date November 10, 1970 (1970-11-10)
+
+Rocket Proton-K/D
+
+Launch site Baikonur 81/23
+
+End of mission
+
+Last contact September 14, 1971 (1971-09-15)
+
+Lunar rover
+
+Spacecraft c

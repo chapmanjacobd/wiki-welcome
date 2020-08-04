@@ -1,0 +1,5 @@
+Actuators of the active optics of the Gran Telescopio Canarias.
+
+Active optics is a technology used with reflecting telescopes developed in the 1980s, which actively shapes a telescope's mirrors to prevent deformation due to external influences such as wind, temperature, mechanical stress. Without active optics, the construction of 8 metre class telescopes is not possible, nor would telescopes with segmented mirrors be feasible.
+
+This method is used by, among others, the Nordic Optical Telescope

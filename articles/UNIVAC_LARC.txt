@@ -1,0 +1,5 @@
+UNIVAC LARC at Livermore
+
+The UNIVAC LARC, short for the Livermore Advanced Research Computer, is a mainframe computer designed to a requirement published by Edward Teller in order to run hydrodynamic simulations for nuclear weapon design. It was one of the earliest supercomputers.
+
+LARC supported multiprocessing with two CPUs (called Computers) and an input/output (I/O) Processor (called the Processor). Two LARC machines were built, the first delivered to Livermore in June 1960, and the second 

@@ -1,0 +1,17 @@
+CocoaDeveloper(s) Apple Inc.
+
+Written in C, C++, Objective-C, Swift
+
+Operating system macOS
+
+Type Software framework
+
+License Proprietary
+
+with some open source components
+
+Website Apple Developer
+
+Cocoa is Apple's native object-oriented application programming interface (API) for its desktop operating system macOS.
+
+Cocoa consists of the Foundation Kit, Application Kit, and Core Data frameworks, as included by the Cocoa.h header file, and the libraries and frameworks included by those, such as 

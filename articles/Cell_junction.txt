@@ -1,0 +1,17 @@
+"Multiprotein complex that forms a point of contact or adhesion in animal cells
+
+Cell junction
+
+Details
+
+Identifiers
+
+Latin junctiones cellulares
+
+TH H1.00.01.0.00012
+
+FMA 67394
+
+Anatomical terminology
+
+Cell junctions (or intercellular bridges) are a class of cellular structures consisting of multiprotein complexes that provide contact or adhesion between neighboring cells or between a cell and the extracellular matrix in animals. They also maintain the paracellular barrier of epithelia and cont

@@ -1,0 +1,56 @@
+Aldosterone
+ 
+Names
+
+IUPAC name
+11β,21-Dihydroxy-3,20-dioxopregn-4-en-18-al
+
+Identifiers
+
+CAS Number
+
+ 52-39-1 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:27584 Y
+
+ChEMBL
+ ChEMBL273453 Y
+
+ChemSpider
+ 5633 Y
+
+DrugBank
+ DB04630 Y
+
+ECHA InfoCard
+ 100.000.128
+
+IUPHAR/BPS
+
+ 2872
+
+KEGG
+ D10528 N
+
+MeSH
+ Aldosterone
+
+PubChem CID
+
+ 5839
+
+UNII
+ 4964P6T9RB Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID7022419
+
+InChI
+
+InChI=1S/C21H28O5/c1-20-7-6-13(24)8-12(20)2-3-14-15-4-5-16(18(26)10-22)21(15,11-23)9-17(25

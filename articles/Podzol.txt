@@ -1,0 +1,21 @@
+"Podzol
+
+Podsol, Podosol, Spodosol, Espodossolo
+
+The picture is of a stagnic podzol in upland Wales, and shows the typical sequence of organic topsoil with leached grey-white subsoil with iron-rich horizon below. The example has two weak ironpans.
+
+Used in WRB, USDA soil taxonomy, others
+
+WRB code PZ
+
+Profile O(Ah)EBhsC
+
+Key process podzolization
+
+Parent material quartz rich debris and sediment
+
+Climate humid continental, subarctic, oceanic, equatorial
+
+H: common
+
+O: always, has humified organic

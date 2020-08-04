@@ -1,0 +1,23 @@
+"Specialized subunit within a cell that has a specific function
+
+Organelle
+
+Details
+
+Pronunciation /ɔːrɡəˈnɛl/
+
+Part of Cell
+
+Identifiers
+
+Latin organella
+
+MeSH D015388
+
+TH H1.00.01.0.00009
+
+FMA 63832
+
+Anatomical terms of microanatomy
+
+In cell biology, an organelle is a specialized subunit, usually within a cell, that has a specific function. Organelles are either separately enclosed within their own lipid bilayers (also called membrane-bound organelles) or are spatially distinct functiona

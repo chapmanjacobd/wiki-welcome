@@ -1,0 +1,28 @@
+"1980 video game
+
+Rogue
+
+A representative ASCII-based screenshot of Rogue
+
+Developer(s) A.I. Design (Non-unix versions)
+
+Publisher(s) Epyx (Non-unix versions)
+
+Designer(s) 
+Michael Toy
+
+Glenn Wichman
+
+Ken Arnold
+
+Jon Lane
+
+Platform(s) Amiga, Amstrad CPC, Atari 8-bit, Atari ST, Commodore 64, DOS, Macintosh, TOPS-20, TRS-80 CoCo, Unix, ZX Spectrum
+
+Release 1980
+
+Genre(s) Roguelike
+
+Mode(s) Single-player
+
+Rogue (also known as Rogue: Exploring the Dungeons of Doom) is a dungeon crawling video game b

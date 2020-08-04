@@ -1,0 +1,5 @@
+Biozone types. Each rectangle represents bodies of sedimentary rocks and each line a different taxon. The arrows indicate the taxon first or last appearance.
+
+In biostratigraphy, biostratigraphic units or biozones are intervals of geological strata that are defined on the basis of their characteristic fossil taxa, as opposed to a lithostratigraphic unit which is defined by the lithological properties of the surrounding rock.
+
+A biostratigraphic unit is defined by the zone fossils it contains. Th

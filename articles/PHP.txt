@@ -1,0 +1,21 @@
+"This article is about the scripting language. For other uses, see PHP (disambiguation).
+
+Server-side scripting language originally created in 1994
+
+PHP
+
+Paradigm Imperative, functional, object-oriented, procedural, reflective
+
+Designed by Rasmus Lerdorf
+
+Developer The PHP Development Team, Zend Technologies
+
+First appeared 1995; 25 years ago (1995)
+
+Stable release 7.4.8
+ / July 9, 2020; 17 days ago (2020-07-09)
+
+Preview release 8.0.0 Alpha 2
+ / July 9, 2020; 17 days ago (2020-07-09)
+
+Typing dis

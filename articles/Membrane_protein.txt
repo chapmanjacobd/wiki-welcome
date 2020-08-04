@@ -1,0 +1,3 @@
+Crystal structure of Potassium channel Kv1.2/2.1 Chimera. Calculated hydrocarbon boundaries of the lipid bilayer are indicated by red and blue dots.
+
+Membrane proteins are common proteins that are part of, or interact with, biological membranes. Membrane proteins fall into several broad categories depending on their location. Integral membrane proteins are a permanent part of a cell membrane and can either penetrate the membrane (transmembrane) or associate with one or the other side of a membra

@@ -1,0 +1,9 @@
+"Process of mathematical modelling, performed on a computer
+
+This article is about computer model within a scientific context. For simulating a computer on a computer, see emulator.
+
+"Computer model" redirects here. For computer models of 3 dimensional objects, see 3D modeling.
+
+Process of building a computer model, and the interplay between experiment, simulation, and theory.
+
+Computer simulation is the process of mathematical modelling, performed on a computer, which is designed to predict the

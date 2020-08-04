@@ -1,0 +1,3 @@
+"Technique for imaging the subsurface of the Earth with seismic waves produced by earthquakes or explosions
+
+Seismic tomography is a technique for imaging the subsurface of the Earth with seismic waves produced by earthquakes or explosions. P-, S-, and surface waves can be used for tomographic models of different resolutions based on seismic wavelength, wave source distance, and the seismograph array coverage. The data received at seismometers are used to solve an inverse problem, wherein the lo

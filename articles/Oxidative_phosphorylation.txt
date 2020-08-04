@@ -1,0 +1,5 @@
+"The phosphorylation of ADP to ATP that accompanies the oxidation of a metabolite through the operation of the respiratory chain. Oxidation of compounds establishes a proton gradient across the membrane, providing the energy for ATP synthesis.
+
+The electron transport chain in the cell is the site of oxidative phosphorylation. The NADH and succinate generated in the citric acid cycle are oxidized, releasing the energy of O2 to power the ATP synthase.
+
+Oxidative phosphorylation (UK /ɒkˈsɪd.ə.t

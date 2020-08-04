@@ -1,0 +1,29 @@
+Pioneer 11 An artist's impression of a Pioneer spacecraft on its way to interstellar space.
+
+Mission type Planetary and heliosphere exploration
+
+Operator NASA / ARC
+
+COSPAR ID 1973-019A
+
+SATCAT no. 6421
+
+Website Pioneer Project website(archived)
+
+NASA Archive page
+
+Mission duration 22 years, 5 months, 25 days
+
+Spacecraft properties
+
+Manufacturer TRW
+
+Launch mass 259 kilograms (571 lb)
+
+Power 155 watts (at launch)
+
+Start of mission
+
+Launch date April 6, 1973, 02:11:00 (1973-04-06UTC02:11Z) UTC
+
+R

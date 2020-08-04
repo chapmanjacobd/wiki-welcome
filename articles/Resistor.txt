@@ -1,0 +1,17 @@
+"Passive electrical component providing electrical resistance
+
+Resistor An array of axial-lead resistors
+
+Type Passive
+
+Working principle Electric resistance
+
+Electronic symbol
+
+Two common schematic symbols
+
+Axial-lead resistors on tape. The component is cut from the tape during assembly and the part is inserted into the board.
+
+Size comparison of axial-lead resistors.
+
+A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electr

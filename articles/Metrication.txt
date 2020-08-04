@@ -1,0 +1,5 @@
+A speedometer used in American and British cars, showing the speed of the vehicle in miles per hour (outer, in white) and kilometres per hour (inner, in red) – for Canadian vehicles the scales are reversed, or in km/h only.
+
+A speedometer from an Australian car, showing the speed of the vehicle only in km/h, as in almost all countries.
+
+Metrication or metrification is the act or process of converting the system of measurement traditionally used in a country to the metric system. All over the w

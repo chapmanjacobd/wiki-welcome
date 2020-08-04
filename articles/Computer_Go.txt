@@ -1,0 +1,29 @@
+"This article is about the study of Go (board game) in artificial intelligence. For the computer programming language called Go, see Go (programming language).
+
+Not to be confused with Go software.
+
+Field of artificial intelligence dedicated to creating a computer program that plays Go
+
+ Part of a series on
+
+Go
+
+Game specifics
+
+Rules
+
+Handicaps
+
+Proverbs
+
+List of terms
+
+Strategy and tactics
+
+Opening (theory; strategy)
+
+Fuseki (whole-board openings)
+
+Joseki (corner-based openings)
+
+Life and death

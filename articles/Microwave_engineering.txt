@@ -1,0 +1,3 @@
+"engineering of AC circuits at microwave frequencies, where voltage and current are not well approximated as uniform throughout a wire ("transmission line")
+
+Microwave engineering pertains to the study and design of microwave circuits, components, and systems. Fundamental principles are applied to analysis, design and measurement techniques in this field. The short wavelengths involved distinguish this discipline from Electronic engineering. This is because there are different interactions with 

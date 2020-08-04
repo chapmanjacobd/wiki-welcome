@@ -1,0 +1,38 @@
+"Writing system of the Minoans
+
+Linear A
+
+Type Undeciphered (presumed syllabic and ideographic)
+
+Languages 'Minoan' (unknown)
+
+Time period
+
+MM IB to LM IIIA
+1800–1450 BC
+
+Status Extinct
+
+Child systems
+
+Linear B, Cypro-Minoan syllabary
+
+Sister systems
+
+Cretan hieroglyphs
+
+Direction Left-to-right
+
+ISO 15924 Lina, 400
+
+Unicode alias
+
+Linear A
+
+Unicode range
+
+"U+10600–U+1077F" (PDF).
+
+"Final Accepted Script Proposal" (PDF).
+
+ This article contains Linear A Unicode characters. Without proper rend

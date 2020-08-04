@@ -1,0 +1,9 @@
+Financial-economic agreement reached in 1944
+
+Number of countries having a banking crisis in each year since 1800. The dramatic feature of this graph is the virtual absence of banking crises during the period of the Bretton Woods agreement, 1945 to 1971. This analysis is similar to Figure 10.1 in Reinhart and Rogoff (2009). For more details see the help file for "bankingCrises" in the Ecdat package available from the Comprehensive R Archive Network (CRAN).
+
+ Part of a series on
+
+Economics
+
+Index

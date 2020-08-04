@@ -1,0 +1,70 @@
+"Standard forward contract
+
+Finance
+
+Markets
+
+Assets
+
+Bond
+
+Commodity
+
+Derivatives
+
+Foreign exchange
+
+Money
+
+Over-the-counter
+
+Private equity
+
+Real estate
+
+Spot
+
+Stock
+
+Participants
+
+Investor
+institutional
+
+Retail
+
+Speculator
+
+Locations
+
+Financial centres
+
+Offshore financial centres
+
+Conduit and Sink OFCs
+
+Instruments
+
+Bond
+
+Cash
+
+Collateralised debt obligation
+
+Credit default swap
+
+Time deposit (certificate of deposit)
+
+Credit line
+
+Deposit
+
+Derivative
+
+Futures contract
+
+Indemnity
+
+Insurance
+
+L

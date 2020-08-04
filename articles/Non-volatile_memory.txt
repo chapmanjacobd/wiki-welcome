@@ -1,0 +1,62 @@
+Non-volatile" redirects here. For other uses, see Volatility.
+
+Computer memory that does not lose its contents after being turned off
+
+Computer memory types
+
+Volatile
+
+RAM
+
+DRAM
+SDRAM
+
+DDR
+
+GDDR
+
+HBM
+
+SRAM
+
+Historical
+
+Williams–Kilburn tube (1946–47)
+
+Delay line memory (1947)
+
+Mellon optical memory (1951)
+
+Selectron tube (1952)
+
+Dekatron
+
+T-RAM (2009)
+
+Z-RAM (2002–2010)
+
+Non-volatile
+
+ROM
+
+Mask ROM
+
+PROM
+
+EPROM
+
+EEPROM
+
+Flash memory
+
+NVRAM
+
+ReRAM
+
+Early stage NVRAM
+
+FeRAM
+
+MRAM
+
+PCM (3D XP

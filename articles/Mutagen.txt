@@ -1,0 +1,3 @@
+The international pictogram for chemicals that are sensitising, mutagenic, carcinogenic or toxic to reproduction.
+
+In genetics, a mutagen is a physical or chemical agent that changes the genetic material, usually DNA, of an organism and thus increases the frequency of mutations above the natural background level. As many mutations can cause cancer, mutagens are therefore also likely to be carcinogens, although not always necessarily so. All mutagens have characteristic mutational signatures with

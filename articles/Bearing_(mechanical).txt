@@ -1,0 +1,5 @@
+"Mechanism to constrain relative movement to the desired motion and reduce friction
+
+Ball bearing
+
+A bearing is a machine element that constrains relative motion to only the desired motion, and reduces friction between moving parts. The design of the bearing may, for example, provide for free linear movement of the moving part or for free rotation around a fixed axis; or, it may prevent a motion by controlling the vectors of normal forces that bear on the moving parts. Most bearings facilitate t

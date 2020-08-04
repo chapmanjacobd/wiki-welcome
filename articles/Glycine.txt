@@ -1,0 +1,61 @@
+"Chemical compound
+
+For other uses, see Glycine (disambiguation).
+
+Glycine
+ 
+Names
+
+Other names
+2-Aminoethanoic acid, Glycocoll
+
+Identifiers
+
+CAS Number
+
+ 56-40-6 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+Abbreviations
+ Gly, G
+
+ChEBI
+ CHEBI:15428 Y
+
+ChEMBL
+ ChEMBL773 Y
+
+ChemSpider
+ 730 Y
+
+DrugBank
+ DB00145 Y
+
+ECHA InfoCard
+ 100.000.248
+
+EC Number
+ 200-272-2
+
+IUPHAR/BPS
+
+ 727
+
+KEGG
+ D00011 Y
+
+PubChem CID
+
+ 750
+
+UNII
+ TE7660XO1C Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID9020

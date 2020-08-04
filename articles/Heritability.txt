@@ -1,0 +1,5 @@
+"Estimation of effect of genetic variation on phenotypic variation of a trait
+
+Studies of heritability ask questions such as how much genetic factors play a role in differences in height between people. This is not the same as asking how much genetic factors influence height in any one person.
+
+Heritability is a statistic used in the fields of breeding and genetics that estimates the degree of variation in a phenotypic trait in a population that is due to genetic variation between individuals in

@@ -1,0 +1,9 @@
+A deformable mirror can be used to correct wavefront errors in an astronomical telescope.
+
+Illustration of a (simplified) adaptive optics system. The light first hits a tip–tilt (TT) mirror and then a deformable mirror (DM) which corrects the wavefront. Part of the light is tapped off by a beamsplitter (BS) to the wavefront sensor and the control hardware which sends updated signals to the DM and TT mirrors.
+
+Play media
+
+An artist's impression of adaptive optics.
+
+The wavefront of an aberrated

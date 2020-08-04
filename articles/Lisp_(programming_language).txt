@@ -1,0 +1,27 @@
+LISP" redirects here. For the Internet protocol, see Locator/Identifier Separation Protocol. For the Japanese girl group, see Lisp (group). For the speech impediment, see Lisp.
+
+Programming language family
+
+Lisp
+
+Paradigm Multi-paradigm: functional, procedural, reflective, meta
+
+Designed by John McCarthy
+
+Developer Steve Russell, Timothy P. Hart, and Mike Levin
+
+First appeared 1958; 62 years ago (1958)
+
+Typing discipline Dynamic, strong
+
+Dialects
+
+Arc
+
+AutoLISP
+
+Clojure
+
+Common Lisp
+
+Emacs Lisp

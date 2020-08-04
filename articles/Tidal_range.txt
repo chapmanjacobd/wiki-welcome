@@ -1,0 +1,5 @@
+"Vertical difference between the high tide and the succeeding low tide
+
+Tidal range is the height difference between high tide and low tide. Tides are the rise and fall of sea levels caused by gravitational forces exerted by the Moon and Sun and the rotation of Earth. Tidal range is not constant but changes depending on the locations of the Moon and Sun.
+
+The most extreme tidal range occurs during spring tides, when the gravitational forces of both the Moon and Sun are aligned (syzygy), reinforc

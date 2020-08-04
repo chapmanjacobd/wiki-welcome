@@ -1,0 +1,31 @@
+"Video game digital distribution service
+
+Steam
+
+The Steam client in October 2019, showing the storefront
+
+Developer(s) Valve
+
+Initial release September 12, 2003; 16 years ago (2003-09-12)
+
+Stable release API v020, Package: 1591251555 (June 3, 2020; 51 days ago (2020-06-03)) 
+
+Preview release API v020, Package: 1581732454 (February 14, 2020; 5 months ago (2020-02-14)) 
+
+Platform Windows
+
+macOS
+
+Linux
+
+iOS
+
+Android
+
+Windows Phone
+
+Available in 28 languages
+
+List of languages
+
+English, Bulgarian, 

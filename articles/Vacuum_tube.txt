@@ -1,0 +1,7 @@
+"Device that controls electric current between electrodes in an evacuated container
+
+This article is about the electronic device. For experiments in an evacuated pipe, see Free fall. For the transport system, see Pneumatic tube.
+
+Later thermionic vacuum tubes, mostly miniature style, some with top cap anode connections for higher voltages
+
+A vacuum tube, an electron tube, or valve (British usage) or, colloquially, a tube (North America), is a device that controls electric current flow in a high 

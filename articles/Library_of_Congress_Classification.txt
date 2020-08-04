@@ -1,0 +1,5 @@
+"System of library classification developed by the United States Library of Congress
+
+The Library of Congress Classification (LCC) is a system of library classification developed by the Library of Congress. It is used by most research and academic libraries in the U.S. and several other countries.
+
+LCC should not be confused with LCCN, the system of Library of Congress Control Numbers assigned to all books (and authors), which also defines URLs of their online catalog entries, such as "82006074"

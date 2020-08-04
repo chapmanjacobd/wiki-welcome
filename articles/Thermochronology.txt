@@ -1,0 +1,3 @@
+Approximate temperature curve within depths of Earth. Shows that it gets hotter with increased depth.
+
+Thermochronology is the study of the thermal evolution of a region of a planet. Thermochronologists use radiometric dating along with the closure temperatures that represent the temperature of the mineral being studied at the time given by the date recorded to understand the thermal history of a specific rock, mineral, or geologic unit. It is a subfield within geology, and is closely associated

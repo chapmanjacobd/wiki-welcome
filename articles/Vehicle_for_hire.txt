@@ -1,0 +1,11 @@
+"Vehicle providing shared transport, which transports one or more passengers between locations of the passengers' choice (or close to it)
+
+Taxicab in Perth
+
+Cycle rickshaw in New York City
+
+Eco Chariots cycle rickshaw fleet in London
+
+A vehicle for hire is a vehicle providing shared transport, which transports one or more passengers between locations of the passengers' choice.
+
+Vehicles for hire can be distinguished from conventional modes of public transport in that vehicle for hire passengers 

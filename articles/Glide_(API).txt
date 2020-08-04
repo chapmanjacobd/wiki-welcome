@@ -1,0 +1,12 @@
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Glide" API – news · newspapers · books · scholar · JSTOR (August 2017) (Learn how and when to remove this template message)
+
+GlideOriginal author(s) 3dfx Interactive
+
+Stable release 3.10.00.30303
+ / September 2, 2003; 16 years ago (2003-09-02)
+
+Written in Assembly, C
+
+Operating system Cross-plat

@@ -1,0 +1,3 @@
+"The deductive-nomological model (DN model), also known as Hempel's model, the Hempel–Oppenheim model, the Popper–Hempel model, or the covering law model, is a formal view of scientifically answering questions asking, "Why...?". The DN model poses scientific explanation as a deductive structure—that is, one where truth of its premises entails truth of its conclusion—hinged on accurate prediction or postdiction of the phenomenon to be explained.
+
+Because of problems concerning humans' abi

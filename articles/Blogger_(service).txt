@@ -1,0 +1,27 @@
+Blogging platform currently owned by Google
+
+Blogger
+
+Type of site
+
+Blog host
+
+Available in See below
+
+Owner Google
+
+URL www.blogger.com
+
+Alexa rank 231 (April 2020)
+
+Commercial Yes
+
+Registration Optional, Free
+
+Launched August 23, 1999; 20 years ago (1999-08-23)
+
+Current status Active
+
+Written in Python
+
+Blogger is a blog-publishing service that allows multi-user blogs with time-stamped entries. It was developed by Pyra Labs, which was bought by Google in 2003. The blogs are hosted by Google an

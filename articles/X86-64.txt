@@ -1,0 +1,9 @@
+"Type of instruction set which is a 64-bit version of the x86 instruction set
+
+"AMD64" and "Intel 64" redirect here. For the Intel 64-bit architecture in Itanium chips, see IA-64.
+
+AMD Opteron, the first CPU to introduce the x86-64 extensions in 2003
+
+The five-volume set of the x86-64 Architecture Programmer's Guide, as published and distributed by AMD in 2002
+
+x86-64 (also known as x64, x86_64, AMD64 and Intel 64) is the 64-bit version of the x86 instruction set. It introduces two new modes of 

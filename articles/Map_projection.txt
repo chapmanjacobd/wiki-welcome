@@ -1,0 +1,5 @@
+"Systematic representation of the surface of a sphere or ellipsoid onto a plane
+
+A medieval depiction of the Ecumene (1482, Johannes Schnitzer, engraver), constructed after the coordinates in Ptolemy's Geography and using his second map projection
+
+In cartography, a map projection is a way to flatten a globe's surface into a plane in order to make a map. This requires a systematic transformation of the latitudes and longitudes of locations from the surface of the globe into locations on a plane.

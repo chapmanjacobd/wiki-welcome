@@ -1,0 +1,23 @@
+Probability
+
+Outline
+
+Catalog of articles
+
+Probabilists
+
+Glossary
+
+Notation
+
+Journals
+
+Category
+
+v
+
+t
+
+e
+
+Probability has a dual aspect: on the one hand the likelihood of hypotheses given the evidence for them, and on the other hand the behavior of stochastic processes such as the throwing of dice or coins. The study of the former is historically older in, for example, the law of evidence, while the mathematical treatment of dice began with the work of Cardano, Pascal and Fermat between the 16th

@@ -1,0 +1,5 @@
+"The fluid dynamics of naturally occurring flows, such as lava flows, oceans, and planetary atmospheres, on Earth and other planets
+
+Model forecast of Hurricane Mitch created by the Geophysical Fluid Dynamics Laboratory. The arrows are wind vectors and the grey shading indicates an equivalent potential temperature surface that highlights the surface inflow layer and eyewall region.
+
+Geophysical fluid dynamics, in its broadest meaning, refers to the fluid dynamics of naturally occurring flows, su

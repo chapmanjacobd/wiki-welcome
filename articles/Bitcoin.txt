@@ -1,0 +1,33 @@
+₿" redirects here. It is not to be confused with "฿" for Thai baht.
+
+Decentralized cryptocurrency
+
+Bitcoin
+
+Prevailing bitcoin logo
+
+Denominations
+
+Plural bitcoins
+
+Symbol ₿ (Unicode: U+20BF ₿ BITCOIN SIGN (HTML &#8383;))
+
+Ticker symbol BTC, XBT
+
+Precision 10−8
+
+Subunits
+
+ ​1⁄1000 millibitcoin
+
+ ​1⁄100000000 satoshi
+
+Development
+
+Original author(s) Satoshi Nakamoto
+
+White paper "Bitcoin: A Peer-to-Peer Electronic Cash System"
+
+Implementation(s) Bitcoin Core
+
+Initial release

@@ -1,0 +1,7 @@
+"Number of sets of chromosomes in a cell
+
+See also: List of organisms by chromosome count and Chromosome § Number in various organisms
+
+A haploid set that consists of a single complete set of chromosomes (equal to the monoploid set), as shown in the picture above, must belong to a diploid species. If a haploid set consists of two sets, it must be of a tetraploid (four sets) species.
+
+Ploidy (/ˈplɔɪdi/) is the number of complete sets of chromosomes in a cell, and hence the number of possible 

@@ -1,0 +1,43 @@
+"Not to be confused with Open Document Architecture, OpenDoc, or Office Open XML.
+
+"ODF" redirects here. For other uses, see ODF (disambiguation).
+
+OpenDocument Format
+
+Standardization
+
+Technical specification
+
+OpenFormula
+
+Adoption
+
+Software
+
+Software comparison
+
+v
+
+t
+
+e
+
+OpenDocument Text
+
+Filename extensions
+
+.odt .fodt
+
+Internet media type application/vnd.oasis.
+
+opendocument.text
+
+Uniform Type Identifier (UTI)
+
+org.oasis.opendocument.text
+
+UTI conformation
+
+org.oasis-open.opendocument
+
+publ

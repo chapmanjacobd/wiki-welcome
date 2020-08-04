@@ -1,0 +1,19 @@
+Memory card format
+
+MultiMedia Card 32 MB MMCplus card
+
+Media type Memory card
+
+Capacity Up to 512 GB
+
+Developed by JEDEC
+
+Dimensions Standard: 32 × 24 × 1.4 mm
+
+Weight Standard: ~2.0 g
+
+Usage Portable devices
+
+Extended to Secure Digital (SD)
+
+MultiMediaCard, officially abbreviated as MMC, is a memory card standard used for solid-state storage. Unveiled in 1997 by SanDisk and Siemens AG, MMC is based on a surface-contact low pin-count serial interface using a single memory stack substrate asse

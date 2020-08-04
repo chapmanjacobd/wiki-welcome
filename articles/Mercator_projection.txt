@@ -1,0 +1,9 @@
+"Map projection for navigational use that distorts areas far from the equator
+
+Mercator projection of the world between 85°S and 85°N. Note the size comparison of Greenland and Africa
+
+The Mercator projection with Tissot's indicatrix of deformation.
+
+Mercator 1569 world map (Nova et Aucta Orbis Terrae Descriptio ad Usum Navigantium Emendate Accommodata) showing latitudes 66°S to 80°N.
+
+The Mercator projection (/mərˈkeɪtər/) is a cylindrical map projection presented by Flemish geographer 

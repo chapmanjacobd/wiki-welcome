@@ -1,0 +1,3 @@
+Part of the myosin II structure. Atoms in the heavy chain are colored pink (on the left-hand side); atoms in the light chains are colored faded-orange and faded-yellow (also on the left-hand side).
+
+Myosins (/ˈmaɪəsɪn, -oʊ-/) are a superfamily of motor proteins best known for their roles in muscle contraction and in a wide range of other motility processes in eukaryotes. They are ATP-dependent and responsible for actin-based motility. The term was originally used to describe a group of simi

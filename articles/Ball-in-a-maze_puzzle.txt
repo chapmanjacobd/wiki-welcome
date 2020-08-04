@@ -1,0 +1,5 @@
+A simple wooden ball-in-a-maze
+
+Ball-in-a-maze puzzles are dexterity puzzles which involve manipulating either a maze (or labyrinth) or one or several balls so that the ball or balls are manoeuvered towards a goal. Toys like this have been popular since "Pigs in Clover" was invented by Charles Martin Crandall in the 1880s, with the patent being applied for in 1889.
+
+In some versions a wooden labyrinth is tilted using two knobs and the ball has to be navigated past a series of holes and obstacles

@@ -1,0 +1,5 @@
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Syntax" programming languages – news · newspapers · books · scholar · JSTOR (August 2013) (Learn how and when to remove this template message)
+
+Syntax highlighting and indent style are often used to aid programmers in recognizing elements of source code. This Python code uses color coded highlig

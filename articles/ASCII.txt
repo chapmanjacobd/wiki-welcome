@@ -1,0 +1,26 @@
+"American character encoding standard
+
+Not to be confused with MS Windows-1252 or other types of extended ASCII.
+
+This article is about the character encoding. For other uses, see ASCII (disambiguation).
+
+ASCII ASCII chart from a pre-1972 printer manual
+
+MIME / IANA us-ascii
+
+Alias(es) ISO-IR-006, ANSI_X3.4-1968, ANSI_X3.4-1986, ISO_646.irv:1991, ISO646-US, us, IBM367, cp367
+
+Language(s) English
+
+Classification ISO 646 series
+
+Extensions 
+Unicode
+
+ISO/IEC 8859 (series)
+
+KOI-8
+
+OEM (series)
+
+Wind

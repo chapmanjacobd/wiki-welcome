@@ -1,0 +1,11 @@
+"Protein that controls the rate of DNA transcription
+
+Transcription factor glossary
+
+gene expression – the process by which information from a gene is used in the synthesis of a functional gene product such as a protein
+
+transcription – the process of making messenger RNA (mRNA) from a DNA template by RNA polymerase
+
+transcription factor – a protein that binds to DNA and regulates gene expression by promoting or suppressing transcription
+
+transcriptional regulation – controlling the rate

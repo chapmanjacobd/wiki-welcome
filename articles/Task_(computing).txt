@@ -1,0 +1,3 @@
+A sample thread pool (green boxes) with task queues of waiting tasks (blue) and completed tasks (yellow), in the sense of task as "unit of work".
+
+In computing, a task is a unit of execution or a unit of work. The term is ambiguous; precise alternative terms include process, light-weight process, thread (for execution), step, request, or query (for work). In the adjacent diagram, there are queues of incoming work to do and outgoing completed work, and a thread pool of threads to perform this wor

@@ -1,0 +1,7 @@
+"Small non-coding ribonucleic acid molecule
+
+Diagram of microRNA (miRNA) action with mRNA
+
+Examples of miRNA stem-loops, with the mature miRNAs shown in red
+
+A microRNA (abbreviated miRNA) is a small non-coding RNA molecule (containing about 22 nucleotides) found in plants, animals and some viruses, that functions in RNA silencing and post-transcriptional regulation of gene expression. miRNAs function via base-pairing with complementary sequences within mRNA molecules. As a result, these mRNA mo

@@ -1,0 +1,15 @@
+"A geological contact is a boundary which separates one rock body from another. There are three different types of contacts, which are divided into primary contacts and secondary contacts. Primary contacts include depositional, unconformable, and intrusive contacts. Secondary contacts include those induced by tectonic activity such as fault contacts and shear zones.
+
+Contents
+
+1 Types of contacts
+
+1.1 Depositional
+
+1.1.1 Conformable
+
+1.1.2 Non-conformable
+
+1.1.2.1 Disconformity
+
+1.1.2.2 Angular 

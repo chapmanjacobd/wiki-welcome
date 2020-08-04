@@ -1,0 +1,3 @@
+"History of a branch of mathematics
+
+Algebra can essentially be considered as doing computations similar to those of arithmetic but with non-numerical mathematical objects. However, until the 19th century, algebra consisted essentially of the theory of equations. For example, the fundamental theorem of algebra belongs to the theory of equations and is not, nowadays, considered as belonging to algebra (in fact, every proof must use the completeness of the real numbers, which is not an algebraic p

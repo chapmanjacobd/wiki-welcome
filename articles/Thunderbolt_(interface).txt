@@ -1,0 +1,43 @@
+"Computer hardware interface
+
+THUNDERBOLT 
+
+Production history
+
+Designer 
+Intel & Apple
+
+Manufacturer 
+Various
+
+Produced 
+Since 24 February 2011; 9 years ago (2011-02-24)
+
+Superseded 
+IEEE 1394 (FireWire)
+
+General specifications
+
+Length 
+Maximums:
+3 metres (10 feet) (copper)
+
+60 metres (200 feet) (optical)
+
+Width 
+7.4 mm male (8.3 mm female)
+
+Height 
+4.5 mm male (5.4 mm female)
+
+Hot pluggable 
+Yes
+
+Daisy chain 
+Yes, up to 6 devices
+
+External 
+Yes
+
+Audio signal 
+Via DisplayPort protocol or USB-ba

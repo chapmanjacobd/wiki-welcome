@@ -1,0 +1,67 @@
+Physical layout of the Rankine cycle
+
+1. Pump, 2. Boiler, 3. Turbine, 4. Condenser
+
+Thermodynamics
+
+The classical Carnot heat engine
+
+Branches
+
+Classical
+
+Statistical
+
+Chemical
+
+Quantum thermodynamics
+
+Equilibrium / Non-equilibrium
+
+Laws
+
+Zeroth
+
+First
+
+Second
+
+Third
+
+Systems
+
+State
+
+Equation of state
+
+Ideal gas
+
+Real gas
+
+State of matter
+
+Equilibrium
+
+Control volume
+
+Instruments
+
+Processes
+
+Isobaric
+
+Isochoric
+
+Isothermal
+
+Adiabatic
+
+Isentropic
+
+Isenthalpic
+
+Quasistatic
+
+Polytropic
+
+Free expans

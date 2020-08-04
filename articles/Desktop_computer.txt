@@ -1,0 +1,5 @@
+" A stylized illustration of a desktop personal computer, consisting of a case (containing the motherboard and processor), a monitor, a keyboard and a mouse
+
+Computer designed to be used on a fixed location
+
+A desktop computer is a personal computer designed for regular use at a single location on or near a desk or table due to its size and power requirements. The most common configuration has a case that houses the power supply, motherboard (a printed circuit board with a microprocessor as the 

@@ -1,0 +1,50 @@
+"For other uses, see DDT (disambiguation).
+
+Organochloride known for its insecticidal properties
+
+DDT
+ 
+Names
+
+Preferred IUPAC name
+1-chloro-4-benzene
+
+Identifiers
+
+CAS Number
+
+ 50-29-3 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:16130 Y
+
+ChEMBL
+ ChEMBL416898 N
+
+ChemSpider
+ 2928 Y
+
+ECHA InfoCard
+ 100.000.023
+
+KEGG
+ D07367 Y
+
+PubChem CID
+
+ 3036
+
+UNII
+ CIW5S16655 Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID4020375
+
+InChI
+
+InChI=1S/C14H9Cl5/c15-11-5-1-9(2-6-11)13(14(17,18)19)10-3-7-12(16)8-4-10/h1

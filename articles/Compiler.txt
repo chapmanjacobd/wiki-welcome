@@ -1,0 +1,28 @@
+"Computer program which translates code from one programming language to another
+
+This article is about software to translate computer languages. For the manga, see Compiler (manga).
+
+"Compile" and "compiling" redirect here. For the software company, see Compile (company). For other uses, see compilation.
+
+Program execution
+
+General concepts
+
+Code
+
+Translation
+Compiler
+Compile-time
+
+Optimizing compiler
+
+Intermediate representation (IR)
+
+Execution
+Runtime system
+Runtime
+
+Executable
+
+Interpreter
+

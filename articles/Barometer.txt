@@ -1,0 +1,7 @@
+"Scientific instrument used to measure atmospheric pressure
+
+For broader coverage of this topic, see Pressure measurement.
+
+A barometer is a scientific instrument that is used to measure air pressure in a certain environment. Pressure tendency can forecast short term changes in the weather. Many measurements of air pressure are used within surface weather analysis to help find surface troughs, pressure systems and frontal boundaries.
+
+Barometers and pressure altimeters (the most basic and common

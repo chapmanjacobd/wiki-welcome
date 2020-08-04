@@ -1,0 +1,7 @@
+Wyoming Infrared Observatory
+
+SOFIA is an infrared telescope in an aircraft, allowing high altitude observations
+
+An infrared telescope is a telescope that uses infrared light to detect celestial bodies. Infrared light is one of several types of radiation present in the electromagnetic spectrum.
+
+All celestial objects with a temperature above absolute zero emit some form of electromagnetic radiation. In order to study the universe, scientists use several different types of telescopes to detect t

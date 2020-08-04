@@ -1,0 +1,34 @@
+"Species of yeast
+
+Schizosaccharomyces pombe
+
+Scientific classification
+
+Kingdom:
+ Fungi
+
+Division:
+ Ascomycota
+
+Class:
+ Schizosaccharomycetes
+
+Order:
+ Schizosaccharomycetales
+
+Family:
+ Schizosaccharomycetaceae
+
+Genus:
+ Schizosaccharomyces
+
+Species:
+ S. pombe
+
+Binomial name
+
+Schizosaccharomyces pombe
+
+Lindner (1893)
+
+Schizosaccharomyces pombe, also called "fission yeast", is a species of yeast used in traditional brewing and as a model organism in molecular and cell biology. It is a unicellular 

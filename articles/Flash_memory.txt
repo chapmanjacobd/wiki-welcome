@@ -1,0 +1,43 @@
+"For the neuropsychological concept related to human memory, see Flashbulb memory.
+
+Electronic non-volatile computer storage device
+
+A disassembled USB flash drive. The chip on the left is flash memory. The controller is on the right.
+
+Computer memory types
+
+Volatile
+
+RAM
+
+DRAM
+SDRAM
+
+DDR
+
+GDDR
+
+HBM
+
+SRAM
+
+Historical
+
+Williams–Kilburn tube (1946–47)
+
+Delay line memory (1947)
+
+Mellon optical memory (1951)
+
+Selectron tube (1952)
+
+Dekatron
+
+T-RAM (2009)
+
+Z-RAM (2002–2010)
+
+Non-volatile
+
+ROM
+

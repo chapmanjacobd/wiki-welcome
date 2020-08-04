@@ -1,0 +1,34 @@
+"Reverse transcriptase
+
+(RNA-dependent DNA polymerase)
+
+Crystallographic structure of HIV-1 reverse transcriptase where the two subunits p51 and p66 are colored and the active sites of polymerase and nuclease are highlighted.
+
+Identifiers
+
+Symbol RVT_1
+
+Pfam PF00078
+
+Pfam clan CL0027
+
+InterPro IPR000477
+
+PROSITE PS50878
+
+SCOPe 1hmv / SUPFAM
+
+CDD cd00304
+
+Available protein structures:
+
+Pfam
+ structures / ECOD
+
+PDB RCSB PDB; PDBe; PDBj
+
+PDBsum structure summary
+
+RNA-directed DNA polymerase
+
+Identi

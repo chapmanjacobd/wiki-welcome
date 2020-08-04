@@ -1,0 +1,68 @@
+RAM" redirects here. For other uses, see Ram.
+
+Form of computer data storage
+
+Computer memory types
+
+Volatile
+
+RAM
+
+DRAM
+SDRAM
+
+DDR
+
+GDDR
+
+HBM
+
+SRAM
+
+Historical
+
+Williams–Kilburn tube (1946–47)
+
+Delay line memory (1947)
+
+Mellon optical memory (1951)
+
+Selectron tube (1952)
+
+Dekatron
+
+T-RAM (2009)
+
+Z-RAM (2002–2010)
+
+Non-volatile
+
+ROM
+
+Mask ROM
+
+PROM
+
+EPROM
+
+EEPROM
+
+Flash memory
+
+NVRAM
+
+ReRAM
+
+Early stage NVRAM
+
+FeRAM
+
+MRAM
+
+PCM (3D XPoint)
+
+FeFET memory
+
+Magnetic
+
+Magnetic tape data storage

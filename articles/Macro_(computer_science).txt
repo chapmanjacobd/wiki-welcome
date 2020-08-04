@@ -1,0 +1,42 @@
+"concept in computer science
+
+"Macro language" redirects here. For ISO macrolanguages, see ISO 639 macrolanguage.
+
+Programming paradigms
+
+Action
+
+Agent-oriented
+
+Array-oriented
+
+Automata-based
+
+Concurrent computing
+Relativistic programming
+
+Data-driven
+
+Declarative (contrast: Imperative)
+Functional
+Functional logic
+
+Purely functional
+
+Logic
+Abductive logic
+
+Answer set
+
+Concurrent logic
+
+Functional logic
+
+Inductive logic
+
+Constraint
+Constraint logic
+Concurrent constraint logic
+
+Dataflow
+Flow-base

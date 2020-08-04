@@ -1,0 +1,47 @@
+Toxaphene
+ 
+Names
+
+Other names
+Chlorocamphene, Octachlorocamphene, Polychlorocamphene, Chlorinated camphene
+
+Identifiers
+
+CAS Number
+
+ 8001-35-2 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEMBL
+ ChEMBL1339089 N
+
+ECHA InfoCard
+ 100.029.348
+
+KEGG
+ C15470 Y
+
+UNII
+ 9924JQ4D5J Y
+
+CompTox Dashboard (EPA)
+
+ DTXSID7021368
+
+SMILES
+
+C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl
+
+Properties
+
+Density
+ 1.65 g/cm3
+
+Melting point
+ 65 to 90 °C (149 to 194 °F; 338 to 363 K) 
+
+Boiling point
+ decomposition at 155

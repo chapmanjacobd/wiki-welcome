@@ -1,0 +1,17 @@
+"Form of concrete used in construction
+
+Comparison of non-prestressed beam (top) and prestressed concrete beam (bottom) under load:
+
+1. Non-prestressed beam without load
+
+2. Non-prestressed beam with load
+
+3. Before concrete solidifies, tendons embedded in concrete are tensioned
+
+4. After concrete solidifies, tendons apply compressive stress to concrete
+
+5. Prestressed beam without load
+
+6. Prestressed beam with load
+
+Prestressed concrete is a form of concrete used in construction. It is substan

@@ -1,0 +1,7 @@
+"Engineering discipline that applies automatic control theory to design systems with desired behaviors
+
+Control systems play a critical role in space flight
+
+Control engineering or control systems engineering is an engineering discipline that applies control theory to design systems with desired behaviors in control environments. The discipline of controls overlaps and is usually taught along with electrical engineering and mechanical engineering at many institutions around the world.
+
+The pract

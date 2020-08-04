@@ -1,0 +1,33 @@
+"Constructed human language based on predicate logic
+
+Lojban
+
+la .lojban.
+
+Pronunciation 
+
+Created by Logical Language Group
+
+Date 1987
+
+Setting and usage a logically engineered language for various usages
+
+Purpose Constructed languages
+
+engineered languageslogical languagesLojban
+
+Writing system
+
+Latin and others
+
+Sources Loglan
+
+Language codes
+
+ISO 639-2 jbo
+
+ISO 639-3 jbo
+
+Glottolog lojb1234
+
+This article contains IPA phonetic symbols. Without proper rendering support, you may see question ma

@@ -1,0 +1,7 @@
+"A peripheral or peripheral device is ancillary device used to put information into and get information out of the computer.
+
+Several categories of peripheral devices may be identified, based on their relationship with the computer:
+
+An input device sends data or instructions to the computer, such as a mouse, keyboard, graphics tablet, image scanner, barcode reader, game controller, light pen, light gun, microphone, digital camera, webcam, dance pad, and read-only memory);
+
+An output device prov

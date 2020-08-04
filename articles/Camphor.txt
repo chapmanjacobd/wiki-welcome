@@ -1,0 +1,51 @@
+"Group of stereoisomers
+
+Not to be confused with samphor.
+
+For other uses, see Camphor (disambiguation).
+
+Camphor
+
+(+)- and (−)-camphor
+
+Names
+
+IUPAC name
+1,7,7-Trimethylbicycloheptan-2-one
+
+Other names
+2-Bornanone; Bornan-2-one; 2-Camphanone; Formosa
+
+Identifiers
+
+CAS Number
+
+ 76-22-2 Y
+
+21368-68-3 N
+
+464-49-3 (R) N
+
+464-48-2 (S) N
+
+3D model (JSmol)
+
+ Interactive image
+
+Interactive image
+
+3DMet
+ B04902
+
+Beilstein Reference
+
+ 1907611
+
+ChEBI
+ CHEBI:36773 Y
+
+ChEMBL
+ ChEMBL504760 N
+
+ChemSpider
+ 2

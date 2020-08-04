@@ -1,0 +1,13 @@
+"Storage of digital data readable by computers
+
+Main article: Data storage
+
+1 GiB of SDRAM mounted in a personal computer. An example of primary storage.
+
+15 GiB PATA hard disk drive (HDD) from 1999; when connected to a computer it serves as secondary storage.
+
+160 GB SDLT tape cartridge, an example of off-line storage. When used within a robotic tape library, it is classified as tertiary storage instead.
+
+A spindle of DVD-RW's.
+
+Computer data storage is a technology consisting of computer compo

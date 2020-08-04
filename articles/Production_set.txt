@@ -1,0 +1,39 @@
+"A production set is the set of all combinations of inputs and outputs that achieve a technologically feasible way to produce. It is used as part of profit maximization calculations.
+
+See also
+
+Production–possibility frontier
+
+References
+
+^ Intermediate Microeconomics, Hal R. Varian 1999,W. W. Norton & Company; 5th edition
+
+v
+
+t
+
+e
+
+Microeconomics
+
+Major topics 
+Aggregation
+
+Budget set
+
+Consumer choice
+
+Convexity and non-convexity
+
+Cost
+Average
+
+Marginal
+
+Opportunity
+
+Social
+
+Sunk
+
+Transaction

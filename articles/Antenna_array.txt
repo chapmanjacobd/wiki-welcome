@@ -1,0 +1,3 @@
+A common type of array antenna, a reflective array UHF television antenna. This example consists of eight dipole driven elements mounted in front of a wire screen reflector. The X-shaped dipoles give it a wide bandwidth to cover both the VHF (174–216 MHz) and UHF (470–700 MHz) TV bands. It has a gain of 5 dB VHF and 12 dB UHF and an 18 dB front-to-back ratio.
+
+Large planar array antenna of a VHF Russian mobile air defense radar, the Nebo-M. It consists of 175 folded dipole antennas. An early

@@ -1,0 +1,18 @@
+"Not to be confused with OpenCL.
+
+OpenGL
+
+Video games outsource real-time rendering calculations to the GPU over OpenGL. The rendered results are not sent back to main memory, but to the framebuffer of video memory instead. The display controller will then send this data to the display device.
+
+Original author(s) Silicon Graphics
+
+Developer(s) Khronos Group
+
+(formerly ARB)
+
+Initial release June 30, 1992; 28 years ago (1992-06-30)
+
+Stable release 4.6
+ / July 31, 2017; 2 years ago (2017-07-31)
+
+Wr

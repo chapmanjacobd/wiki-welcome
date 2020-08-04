@@ -1,0 +1,29 @@
+NASA infrared-wavelength space telescope
+
+"NEOWISE" redirects here. For the comet, see C/2020 F3 (NEOWISE).
+
+Wide-field Infrared Survey Explorer Artist concept of WISE spacecraft
+
+Names MIDEX/WISE, Explorer 92
+
+Mission type Infrared telescope
+
+Operator NASA / JPL
+
+COSPAR ID 2009-071A
+
+SATCAT no. 36119
+
+Website http://www.nasa.gov/wise
+
+Mission duration Planned: 10 months
+
+Elapsed: 10 years, 7 months, 11 days
+
+Spacecraft properties
+
+Bus Ball Aerospace RS-300
+
+Manufacturer Ball Aerospace
+
+Lockheed

@@ -1,0 +1,11 @@
+"Blank area that separates words, sentences, syllables, or other written or printed glyphs; precise typographical rules differ according to language and context
+
+Space
+
+In Unicode U+0020 SPACE (HTML &#32; · Note: Representations here of a regular space are replaced with a no-break space)
+
+See also U+00A0 NO-BREAK SPACE (HTML &#160; · &nbsp;, &NonBreakingSpace;)
+
+Other types of spaces
+
+In writing, a space ( ) is a blank area that separates words, sentences, syllables (in syllabification) and ot

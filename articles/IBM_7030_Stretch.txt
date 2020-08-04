@@ -1,0 +1,41 @@
+"IBM Stretch
+
+IBM 7030 maintenance console at the Musée des Arts et Métiers, Paris
+
+Design
+
+Manufacturer IBM
+
+Designer Gene Amdahl
+
+Release date May 1961 (May 1961)
+
+Units sold 9
+
+Price US$7,780,000 (equivalent to $66,560,000 in 2019)
+
+Casing
+
+Weight 70,000 pounds (35 short tons; 32 t)
+
+Power 100 kW @ 110 V
+
+System
+
+Operating system MCP
+
+CPU 64-bit processor
+
+Memory 2048 kilobytes (262144 x 64bits)
+
+MIPS 1.2 MIPS
+
+* * *
+
+v
+
+t
+
+e
+
+The IBM 7030, also known as Stretch, was IBM's first transistori

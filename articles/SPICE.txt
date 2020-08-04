@@ -1,0 +1,28 @@
+"For other uses, see Spice (disambiguation).
+
+SPICE 1Original author(s) Laurence Nagel
+
+Initial release 1973; 47 years ago (1973)
+
+Written in Fortran
+
+Type Electronic circuit simulation
+
+License Public-domain software
+
+Website bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE/
+
+SPICE 2Initial release 1975; 45 years ago (1975)
+
+Stable release 2G.6
+ / 1983
+
+Written in Fortran
+
+Type Electronic circuit simulation
+
+License BSD 3 Clause
+
+Website bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE/
+
+SPICE 3Origina

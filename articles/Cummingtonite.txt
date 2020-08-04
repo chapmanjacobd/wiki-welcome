@@ -1,0 +1,31 @@
+Mineral discovered and named after its place of discovery, Cummington, Massachusetts
+
+Cummingtonite
+
+General
+
+Category Inosilicate
+
+Formula
+
+(repeating unit) (Mg,Fe2+)2(Mg,Fe2+)5Si8O22(OH)2
+
+Strunz classification 9.DE.05
+
+Crystal system Monoclinic
+
+Crystal class Prismatic (2/m)
+
+H-M symbol: (2/m)
+
+Space group Monoclinic
+
+Space group: C2/m
+
+Unit cell a = 9.53 Å, b = 18.23 Å,
+
+c = 5.32 Å; β = 101.97°; Z = 2
+
+Identification
+
+Color Dark green, brown, gray, beige; colorless to pale green in thin

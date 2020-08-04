@@ -1,0 +1,7 @@
+"A container designed to hold gases or liquids at a pressure substantially different from the ambient pressure
+
+A pressure vessel constructed of a horizontal steel pipe.
+
+A pressure vessel is a container designed to hold gases or liquids at a pressure substantially different from the ambient pressure.
+
+Pressure vessels can be dangerous, and fatal accidents have occurred in the history of their development and operation. Consequently, pressure vessel design, manufacture, and operation are regulat

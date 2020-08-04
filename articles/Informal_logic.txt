@@ -1,0 +1,3 @@
+Argument terminology used in logic
+
+Informal logic encompasses the principles of logic and logical thought outside of a formal setting. However, perhaps because of the "informal" in the title, the precise definition of "informal logic" is a matter of some dispute. Ralph H. Johnson and J. Anthony Blair define informal logic as "a branch of logic whose task is to develop non-formal standards, criteria, procedures for the analysis, interpretation, evaluation, criticism and construction of argumenta

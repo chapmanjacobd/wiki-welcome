@@ -1,0 +1,19 @@
+"typographical mark
+
+Not to be confused with Backlash.
+
+\\
+
+Backslash
+
+In Unicode U+005C \ REVERSE SOLIDUS (HTML &#92; · &bsol;)
+
+ ⧵ 
+ ⧹ 
+＼
+
+Reverse solidus operator
+Big reverse solidus
+Fullwidth reverse solidus
+
+The backslash \\ is a typographical mark used mainly in computing and is the mirror image of the common slash /. It is sometimes called a hack, whack, escape (from C/UNIX), reverse slash, slosh, downwhack, backslant, backwhack, bash, reverse slant, and reversed virgule. In Unicod

@@ -1,0 +1,5 @@
+"A parasequence is a fundamental concept of sequence stratigraphy. Parasequences are not directly related to sequences.
+
+Definition
+
+A parasequence is defined as a genetically related succession of bedsets that is bounded by marine flooding surfaces (or their correlative surfaces) on top and at the bottom. The succession is supposed to be relatively conformable in the sense that breaks in deposition within the parasequence are much shorter than the time of deposition of the parasequence itself.

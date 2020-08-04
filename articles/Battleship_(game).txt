@@ -1,0 +1,7 @@
+"Strategy type guessing game for two players
+
+For other uses, see Battleship (disambiguation).
+
+A map of one player's ships and the hits against them, from a game in progress. The grey boxes are the ships placed by the player, and the cross marks show the squares that their opponent has fired upon. The player would be tracking the success of their own shots in a separate grid.
+
+Battleship (also Battleships or Sea Battle) is a strategy type guessing game for two players. It is played on ruled gri

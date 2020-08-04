@@ -1,0 +1,37 @@
+"For the 2013 film, see Computer Chess (film).
+
+1990s pressure-sensory chess computer with LCD screen
+
+ This article is part of the series on
+
+Chess programming
+
+Board representations
+
+0x88
+
+Bitboards
+
+Chess computers
+
+Belle
+
+Deep Blue
+
+Chess engines
+
+Fritz
+
+GNU Chess
+
+Leela Chess Zero
+
+Stockfish
+
+v
+
+t
+
+e
+
+Computer chess includes both hardware (dedicated computers) and software capable of playing chess. Computer chess provides opportunities for players to practice even in the absence of human op

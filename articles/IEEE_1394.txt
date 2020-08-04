@@ -1,0 +1,39 @@
+"Serial bus interface standard, also known as Firewire
+
+"FireWire" redirects here. For other uses, see Firewire (disambiguation).
+
+IEEE 1394 Interface 
+
+Type 
+Serial
+
+Production history
+
+Designer 
+Apple (1394a/b), IEEE P1394 Working Group, Sony, Panasonic, etc.
+
+Designed 
+1986; 34 years ago (1986)
+
+Manufacturer 
+Various
+
+Produced 
+1994–2013
+
+Superseded by 
+Thunderbolt and USB 3.0
+
+General specifications
+
+Length 
+4.5 meters maximum
+
+Width 
+1
+
+Hot pluggable 
+Yes
+
+Daisy chain 
+Yes, up to 63 devic

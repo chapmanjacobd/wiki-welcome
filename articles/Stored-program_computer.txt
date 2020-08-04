@@ -1,0 +1,13 @@
+"See also: Universal Turing machine: Stored-program computer
+
+A stored-program computer is a computer that stores program instructions in electronically or optically accessible memory. This contrasts with systems that stored the program instructions with plugboards or similar mechanisms.
+
+The definition is often extended with the requirement that the treatment of programs and data in memory be interchangeable or uniform.
+
+Contents
+
+1 Description
+
+2 History
+
+2.1 The first stored-program computers

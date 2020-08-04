@@ -1,0 +1,5 @@
+"Set of rules and methods that describe the functionality, organization, and implementation of computer systems
+
+Block diagram of a basic computer with uniprocessor CPU. Black lines indicate data flow, whereas red lines indicate control flow. Arrows indicate the direction of flow.
+
+In computer engineering, computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. Some definitions of architecture define it as describ

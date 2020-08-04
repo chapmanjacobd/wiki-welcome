@@ -1,0 +1,57 @@
+"First epoch of the Quaternary Period
+
+Not to be confused with Plasticine.
+
+Subdivisions of the Quaternary System
+
+System/
+
+Period
+Series/
+
+Epoch
+Stage/
+
+Age
+Age (Ma)
+
+Quaternary
+ Holocene
+ Meghalayan
+ 0
+ 0.0042
+
+Northgrippian
+ 0.0042
+ 0.0082
+
+Greenlandian
+ 0.0082
+ 0.0117
+
+Pleistocene
+ 'Upper'
+ 0.0117
+ 0.129
+
+Chibanian or 'Middle'
+ 0.129
+ 0.774
+
+Calabrian
+ 0.774
+ 1.80
+
+Gelasian
+ 1.80
+ 2.58
+
+Neogene
+ Pliocene
+ Piacenzian
+ 2.58
+ 3.60
+
+Notes and references
+
+Subdivision of the Quaternary Period acco

@@ -1,0 +1,56 @@
+"Chemical compound of RNA
+
+Uracil
+ 
+Names
+
+IUPAC name
+Pyrimidine-2,4(1H,3H)-dione
+
+Other names
+2-oxy-4-oxy pyrimidine,
+
+2,4(1H,3H)-pyrimidinedione,
+
+2,4-dihydroxypyrimidine,
+
+2,4-pyrimidinediol
+
+Identifiers
+
+CAS Number
+
+ 66-22-8 Y
+
+3D model (JSmol)
+
+ lactam form: Interactive image
+
+lactim form: Interactive image
+
+3DMet
+ B00026
+
+Beilstein Reference
+
+ 606623
+
+ChEBI
+ CHEBI:17568 N
+
+ChEMBL
+ ChEMBL566 N
+
+ChemSpider
+ 1141 N
+
+DrugBank
+ DB03419
+
+ECHA InfoCard
+ 100.000.565
+
+EC Number
+ 200-621-9
+
+Gmelin R

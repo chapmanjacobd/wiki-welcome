@@ -1,0 +1,3 @@
+An electrical grid may have many types of generators and loads; generators must be controlled to maintain stable operation of the system.
+
+In an electric power system, automatic generation control (AGC) is a system for adjusting the power output of multiple generators at different power plants, in response to changes in the load. Since a power grid requires that generation and load closely balance moment by moment, frequent adjustments to the output of generators are necessary. The balance can b

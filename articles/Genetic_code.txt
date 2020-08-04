@@ -1,0 +1,5 @@
+"Rules by which information encoded within genetic material is translated into proteins.
+
+"Codon" redirects here. For the plant genus, see Codon (genus).
+
+A series of codons in part of a messenger RNA (mRNA) molecule. Each codon consists of three nucleotides, usually corresponding to a single amino acid. The nucleotides are abbreviated with the letters A, U, G and C. This is mRNA, which uses U (uracil). DNA uses T (thymine) instead. This mRNA molecule will instruct a ribosome to synthesize a pro

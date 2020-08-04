@@ -1,0 +1,29 @@
+"Type of cargo ship
+
+ Two Maersk Line container ships.
+
+Class overview
+
+Name: 
+Container ship
+
+Subclasses: 
+
+(1) Geared or gearless (as per cargo-handling type)
+
+(2) Freighter or pure container (as per passenger carrier-type)
+
+(3) Feeder or world-wide foreign-going vessel (as per trade)
+
+(4) Panamax or post-Panamax vessel (as per breadth of vessel < or > than 32.2m respectively)
+
+Built: 
+1956–present
+
+In service: 
+9,535 ships as of 2010
+
+General characteristics
+
+Propulsion: 
+Typically diesel s

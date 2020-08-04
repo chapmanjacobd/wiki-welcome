@@ -1,0 +1,35 @@
+"Lossy audio compression format
+
+Advanced Audio CodingFilename extension MPEG/3GPP container
+.m4a, .mp4, .3gp
+
+Apple container
+
+.m4a, .m4b, .m4p, .m4r, .m4v
+
+ADTS stream
+
+.aac
+
+Internet media type 
+audio/aac
+
+audio/aacp
+
+audio/3gpp
+
+audio/3gpp2
+
+audio/mp4
+
+audio/mp4a-latm
+
+audio/mpeg4-generic
+
+Developed by Bell, Fraunhofer, Dolby, Sony, Nokia, LG Electronics, NEC, NTT Docomo, Panasonic
+
+Initial release 1997; 23 years ago (1997)
+
+Type of format Audio compression format, Lossy compression
+
+Contain

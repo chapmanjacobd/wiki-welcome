@@ -1,0 +1,7 @@
+"A process in which a series of electron carriers operate together to transfer electrons from donors to any of several different terminal electron acceptors to generate a transmembrane electrochemical gradient.
+
+The electron transport chain in the mitochondrion is the site of oxidative phosphorylation in eukaryotes. The NADH and succinate generated in the citric acid cycle are oxidized, providing energy to power ATP synthase.
+
+Photosynthetic electron transport chain of the thylakoid membrane.
+
+T

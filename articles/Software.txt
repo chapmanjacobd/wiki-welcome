@@ -1,0 +1,11 @@
+"For other uses, see Software (disambiguation).
+
+Not to be confused with Softwear.
+
+"Networked" redirects here. For the 2012 book, see Networked: The New Social Operating System.
+
+Non-tangible executable component of a computer
+
+A diagram showing how the user interacts with application software on a typical desktop computer. The application software layer interfaces with the operating system, which in turn communicates with the hardware. The arrows indicate information flow.
+
+Computer software, 

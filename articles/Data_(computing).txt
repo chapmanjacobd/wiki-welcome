@@ -1,0 +1,5 @@
+Various types of data which can be visualized through a computer device
+
+Data (treated as singular, plural, or as a mass noun) is any sequence of one or more symbols given meaning by specific act(s) of interpretation.
+
+Data (or datum – a single unit of data) requires interpretation to become information. To translate data to information, there must be several known factors considered. The factors involved are determined by the creator of the data and the desired information. The term metadata 

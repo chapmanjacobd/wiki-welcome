@@ -1,0 +1,3 @@
+The graphical user interface is presented (displayed) on the computer screen. It is the result of processed user input and usually the primary interface for human-machine interaction. The touch user interfaces popular on small mobile devices are an overlay of the visual output to the visual input.
+
+User interface design (UI) or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, w

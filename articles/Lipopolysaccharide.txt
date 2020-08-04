@@ -1,0 +1,9 @@
+"Class of molecules found in Gram-negative bacteria
+
+Not to be confused with glycolipid.
+
+Structure of a lipopolysaccharide
+
+Lipopolysaccharides (LPS), also known as lipoglycans and endotoxins, are large molecules consisting of a lipid and a polysaccharide composed of O-antigen, outer core and inner core joined by a covalent bond; they are found in the outer membrane of Gram-negative bacteria.
+
+The term lipooligosaccharide ("LOS") is used to refer to a low-molecular-weight form of bacterial lipo

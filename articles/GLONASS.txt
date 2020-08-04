@@ -1,0 +1,47 @@
+"Russian satellite navigation system, similar to GPS
+
+GLONASS GLONASS logo
+
+Country/ies of origin Soviet Union
+
+Operator(s) Roscosmos
+
+( Russia)
+
+Type Military, civilian
+
+Status Operational
+
+Coverage Global
+
+Accuracy 2.8–7.38 metres
+
+Constellation size
+
+Total satellites 26
+
+Satellites in orbit 24
+
+First launch 12 October 1982
+
+Last launch 16 March 2020
+
+Orbital characteristics
+
+Regime(s) 3x MEO
+
+Orbital height 19,130 km
+
+Geodesy
+
+Fundamentals
+
+Geodesy
+
+Geodynamics
+
+Geomatics
+
+History
+
+Concepts

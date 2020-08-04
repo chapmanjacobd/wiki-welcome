@@ -1,0 +1,11 @@
+"Photodiode used to produce power from light on a large scale
+
+For convection cells on the sun's surface, see Granule (solar physics).
+
+See also: Photovoltaics
+
+A conventional crystalline silicon solar cell (as of 2005). Electrical contacts made from busbars (the larger silver-colored strips) and fingers (the smaller ones) are printed on the silicon wafer.
+
+Symbol of a Photovoltaic cell.
+
+A solar cell, or photovoltaic cell, is an electrical device that converts the energy of light directly into 

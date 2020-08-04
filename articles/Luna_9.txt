@@ -1,0 +1,30 @@
+"Uncrewed space mission of the Soviet Union's Luna programme
+
+Luna 9 A replica of Luna 9 on display in the Museum of Air and Space Paris, Le Bourget.
+
+Mission type Lunar lander
+
+Operator GSMZ Lavochkin
+
+COSPAR ID 1966-006A
+
+SATCAT no. 01954
+
+Mission duration 6 days, 11 hours, 10 minutes
+
+Spacecraft properties
+
+Spacecraft type Ye-6
+
+Manufacturer GSMZ Lavochkin
+
+Launch mass 1580 kg
+
+Landing mass 99 kg
+
+Start of mission
+
+Launch date 31 January 1966, 11:45:00 GMT
+
+Rocket Molniya-M 8K78M s/n 103-32
+

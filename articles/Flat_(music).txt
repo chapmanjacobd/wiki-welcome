@@ -1,0 +1,3 @@
+"In music, flat (Italian bemolle for "soft B") means "lower in pitch". Flat is the opposite of sharp, which is a raising of pitch. In musical notation, flat means "lower in pitch by one semitone (half step)", notated using the symbol ♭ which is derived from a stylised lowercase 'b'. For instance, the music below has a key signature with three flats (indicating either E♭ major or C minor) and the note, D♭, has a flat accidental.
+
+The Unicode character ♭ (U+266D) can be found in the block 

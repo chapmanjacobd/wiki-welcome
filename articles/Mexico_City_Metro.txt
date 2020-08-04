@@ -1,0 +1,31 @@
+Mexico City Metro
+
+FE-10 in line 12 of the Mexico City Metro
+
+Overview
+
+Native name Sistema de Transporte Colectivo - Metro
+
+Owner Sistema de Transporte Colectivo (STC)
+
+Area served Greater Mexico City
+
+Locale Mexico City
+
+Transit type Rapid transit
+
+Number of lines 12
+
+Line number 1-9, 12, A, B
+
+Number of stations 195
+
+Daily ridership 4,534,383 (2019)
+
+Annual ridership 1.655 billion (2019)
+
+Website Metro de la Ciudad de México
+
+Operation
+
+Began operation 4 September 1969; 50 years ago (1969-09

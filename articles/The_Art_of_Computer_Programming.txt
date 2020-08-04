@@ -1,0 +1,31 @@
+"Series of tomes by Donald Knuth
+
+The Art of Computer Programming The Art of Computer Programming, Volume 1: Fundamental Algorithms
+
+Author Donald Knuth
+
+Country United States
+
+Language English
+
+Genre Non-fiction
+
+Monograph
+
+Publisher Addison-Wesley
+
+Publication date
+
+1968– (the book is still incomplete)
+
+Media type Print (Hardcover)
+
+ISBN 0-201-03801-3
+
+Dewey Decimal
+
+519
+
+LC Class QA76.75
+
+The Art of Computer Programming (TAOCP) is a comprehensive monograph written by computer scientist Dona

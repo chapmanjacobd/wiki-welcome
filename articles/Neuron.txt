@@ -1,0 +1,25 @@
+"Electrically excitable cell that communicates via synapses
+
+This article is about the type of cell. For other uses, see Neuron (disambiguation).
+
+"Brain cell" redirects here. For other uses, see Glial cell.
+
+Neuron
+
+Anatomy of a multipolar neuron
+
+Identifiers
+
+MeSH D009474
+
+NeuroLex ID sao1417703748
+
+TA A14.0.00.002
+
+TH H2.00.06.1.00002
+
+FMA 54527
+
+Anatomical terms of neuroanatomy
+
+Schematic of an anatomically accurate single pyramidal neuron, the primary excitatory neuron of cerebral cortex, w

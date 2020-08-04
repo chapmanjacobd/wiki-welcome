@@ -1,0 +1,7 @@
+"Particular size, weight and style of a typeface
+
+This article is about the traditional meaning of "font". For the electronic data file, see Computer font. For other uses, see Font (disambiguation).
+
+In metal typesetting, a font was a particular size, weight and style of a typeface. Each font was a matched set of type, one piece (called a "sort") for each glyph, and a typeface consisting of a range of fonts that shared an overall design. 
+
+In modern usage, with the advent of digital typography, 

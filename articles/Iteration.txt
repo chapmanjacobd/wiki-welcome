@@ -1,0 +1,7 @@
+"Repetition of a process
+
+For other uses, see Iteration (disambiguation).
+
+Iteration is the repetition of a process in order to generate a (possibly unbounded) sequence of outcomes. The sequence will approach some end point or end value. Each repetition of the process is a single iteration, and the outcome of each iteration is then the starting point of the next iteration. 
+
+In mathematics and computer science, iteration (along with the related technique of recursion) is a standard element of al

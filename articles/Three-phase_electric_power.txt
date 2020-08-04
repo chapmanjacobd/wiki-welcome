@@ -1,0 +1,7 @@
+"Common electrical power generation, transmission and distribution method for alternating currents
+
+Not to be confused with Split-phase electric power.
+
+Three-phase transformer with four wire output for 208Y/120 volt service: one wire for neutral, others for A, B and C phases
+
+Three-phase electric power is a common method of alternating current electric power generation, transmission, and distribution. It is a type of polyphase system and is the most common method used by electrical grids worldw

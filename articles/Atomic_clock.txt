@@ -1,0 +1,9 @@
+"Extremely accurate reference clock used as a standard for timekeeping
+
+For a clock updated by radio signals which is sometimes incorrectly called an "atomic clock", see Radio clock. For the clock as a measure for risk of catastrophic destruction, see Doomsday Clock. For other topics, see Atomic Clock (disambiguation).
+
+Atomic clock
+
+FOCS 1, a continuous cold caesium fountain atomic clock in Switzerland, started operating in 2004 at an uncertainty of one second in 30 million years.
+
+Classificati

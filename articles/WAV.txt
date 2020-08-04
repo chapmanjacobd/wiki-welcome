@@ -1,0 +1,21 @@
+"File format standard for storing an audio bitstream on PCs
+
+"Wav" redirects here. For the scientific wave, see Wave. For the waves of water, see Wind wave.
+
+For other meanings of wave sound, see Wave Sound (festival)
+
+Waveform Audio File Format (WAVE/WAV)
+
+Filename extension 
+.wav .wave
+
+Internet media type 
+audio/vnd.wave, audio/wav, audio/wave, audio/x-wav
+
+Type code WAVE
+
+Uniform Type Identifier (UTI) com.microsoft.waveform-audio
+
+Developed by IBM & Microsoft
+
+Initial release August 1991; 28

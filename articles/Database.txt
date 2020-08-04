@@ -1,0 +1,7 @@
+"Organized collection of data
+
+An SQL select statement and its result.
+
+A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.
+
+The database management system (DBMS) is the software that interacts with end users, applications, and the database itself to capture and analyze the data. The DBMS software additionally encompasses the core 

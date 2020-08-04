@@ -1,0 +1,41 @@
+"For code that is completely internal to some CPUs and normally inaccessible to programmers, see Microcode.
+
+Set of instructions executed directly by a computer's central processing unit (CPU)
+
+Program execution
+
+General concepts
+
+Code
+
+Translation
+Compiler
+Compile-time
+
+Optimizing compiler
+
+Intermediate representation (IR)
+
+Execution
+Runtime system
+Runtime
+
+Executable
+
+Interpreter
+
+Virtual machine
+
+Types of code
+
+Source code
+
+Object code
+
+Bytecode
+
+Machine code
+
+Microcode
+
+Compilation strategie

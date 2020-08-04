@@ -1,0 +1,3 @@
+"microLED, also known as micro-LED, mLED or µLED, is an emerging flat-panel display technology. microLED displays consist of arrays of microscopic LEDs forming the individual pixel elements. When compared with widespread LCD technology, microLED displays offer better contrast, response times, and energy efficiency.
+
+Along with OLEDs, microLEDs are primarily aimed at small, low-energy devices such as smartwatches and smartphones. OLED and microLED both offer greatly reduced energy requirements w

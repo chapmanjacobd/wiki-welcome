@@ -1,0 +1,11 @@
+BJT" and "Junction transistor" redirect here. For other uses, see BJT (disambiguation) and Junction transistor (disambiguation).
+
+ NPN
+
+PNP
+
+BJT schematic symbols
+
+Typical individual BJT packages. From top to bottom: TO-3, TO-126, TO-92, SOT-23
+
+A bipolar junction transistor (BJT) is a type of transistor that uses both electrons and holes as charge carriers. Unipolar transistors, such as field-effect transistors, use only one kind of charge carrier. A bipolar transistor allows a small current in

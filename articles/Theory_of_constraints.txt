@@ -1,0 +1,63 @@
+ Part of a series of articles on
+
+Machine industry
+
+Manufacturing methods
+
+Batch production
+
+Job production
+
+Flow production
+
+Lean manufacturing
+
+Agile manufacturing
+
+Industrial technologies
+
+PLM
+
+RCM
+
+TPM
+
+VDM
+
+QRM
+
+TOC
+
+Six Sigma
+
+TQM
+
+ZD
+
+Information and communication
+
+ISA-88
+
+ISA-95
+
+ERP
+
+IEC 62264
+
+B2MML
+
+Process control
+
+PLC
+
+DCS
+
+SCADA
+
+v
+
+t
+
+e
+
+The theory of constraints (TOC) is a management paradigm that views any manageable system as being limited in achieving more of its goals by a ve

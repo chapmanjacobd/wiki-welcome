@@ -1,0 +1,9 @@
+Rotary variable capacitor
+
+Rotary variable capacitor: several rotor positions.
+
+A variable capacitor is a capacitor whose capacitance may be intentionally and repeatedly changed mechanically or electronically. Variable capacitors are often used in L/C circuits to set the resonance frequency, e.g. to tune a radio (therefore it is sometimes called a tuning capacitor or tuning condenser), or as a variable reactance, e.g. for impedance matching in antenna tuners.
+
+Contents
+
+1 Mechanically controlled

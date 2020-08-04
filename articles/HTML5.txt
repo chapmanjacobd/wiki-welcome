@@ -1,0 +1,52 @@
+Fifth and current version of hypertext markup language
+
+HTML5
+
+(HyperText Markup Language)
+
+Filename extension 
+.html, .htm
+
+Internet media type 
+text/html
+
+Type code TEXT
+
+Uniform Type Identifier (UTI) public.html
+
+Developed by W3C
+
+Initial release 28 October 2014
+
+(5 years ago) (2014-10-28)
+
+Type of format Markup language
+
+Standard HTML 5.2
+
+Open format? Yes
+
+HTML
+
+Dynamic HTML
+
+HTML5
+audio
+
+canvas
+
+video
+
+XHTML
+Basic
+
+Mobile Profile
+
+C-HTML
+
+HTML element
+span and div
+
+HTML attribute
+
+HTML fra

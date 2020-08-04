@@ -1,0 +1,30 @@
+"This article is about the current Apple operating system for Mac computers. For pre-2001 versions, see Classic Mac OS.
+
+"OSX" and "OS X" redirect here. For other uses, see OSX (disambiguation).
+
+Operating system for Apple computers
+
+macOS
+
+Developer Apple Inc.
+
+Written in 
+C
+
+C++
+
+Objective-C
+
+Swift
+
+assembly language
+
+OS family Unix, Macintosh
+
+Working state Current
+
+Source model Closed source (with open source components)
+
+Initial release March 24, 2001; 19 years ago (2001-03-24)
+
+Latest rele

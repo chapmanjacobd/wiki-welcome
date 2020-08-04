@@ -1,0 +1,3 @@
+Schematic representation of the pBR322 plasmid, one of the first plasmids widely used as a cloning vector.
+
+A cloning vector is a small piece of DNA that can be stably maintained in an organism, and into which a foreign DNA fragment can be inserted for cloning purposes. The cloning vector may be DNA taken from a virus, the cell of a higher organism, or it may be the plasmid of a bacterium. The vector therefore contains features that allow for the convenient insertion or removal of a DNA fragment

@@ -1,0 +1,7 @@
+A Chain Home transmitter antenna, part of one of the first comprehensive radar systems.
+
+The German Freya worked at higher frequencies, and was thus smaller than its Chain Home counterpart.
+
+The anode block of the original cavity magnetron built by Randal and Boot, which provided a leap forward in radar design.
+
+The history of radar (where radar stands for RAdio Detection And Ranging) started with experiments by Heinrich Hertz in the late 19th century that showed that radio waves were reflected 

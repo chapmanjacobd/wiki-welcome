@@ -1,0 +1,19 @@
+"American geosocial networking and online dating application
+
+Tinder
+
+Example of swiping within Tinder
+
+Developer(s) Tinder Inc.
+
+Initial release September 12, 2012; 7 years ago (2012-09-12)
+
+Stable release(s) 
+
+iOS 11.5.0 / December 6, 2019; 7 months ago (2019-12-06)
+
+Android 11.9.0 / February 13, 2020; 5 months ago (2020-02-13)
+
+Operating system iOS, Android, Web
+
+Available in English, Arabic, Bulgarian, Italian, Catalan, Czech, Danish, French, German, Greek, Hindi, Hebrew, Portuguese and Span

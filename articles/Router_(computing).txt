@@ -1,0 +1,7 @@
+"Device that forwards data packets between computer networks, creating an overlay internetwork
+
+This article is about the network device. For the woodworking tool, see Router (woodworking).
+
+A Cisco ASM/2-32EM router deployed at CERN in 1987
+
+A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the internet, such as a web page or email, is in the form of data packets. A packet is t

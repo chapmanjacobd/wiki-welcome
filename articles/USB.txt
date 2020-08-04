@@ -1,0 +1,27 @@
+"For the portable USB storage device, see USB flash drive. For other uses, see USB (disambiguation).
+
+Industry standard for computer connectors
+
+Universal Serial Bus (USB) 
+The certified USB logo
+
+Type 
+Bus
+
+Production history
+
+Designer 
+Compaq, DEC, IBM, Intel, Microsoft, NEC, and Nortel
+
+Designed 
+January 1996; 24 years ago (1996-01)
+
+Produced 
+Since May 1996
+
+Superseded 
+Serial port, parallel port, game port, Apple Desktop Bus, PS/2 port, and FireWire (IEEE 1394)
+
+General specifications
+
+Leng

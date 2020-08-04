@@ -1,0 +1,7 @@
+"Means by which a user interacts with and controls a machine
+
+For the boundary between computer systems, see Interface (computing). For other uses, see Interface.
+
+The Reactable, an example of a tangible user interface
+
+In the industrial design field of human-computer interaction, a user interface (UI) is the space where interactions between humans and machines occur. The goal of this interaction is to allow effective operation and control of the machine from the human end, whilst the machine si

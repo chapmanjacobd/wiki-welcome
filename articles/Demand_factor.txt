@@ -1,0 +1,5 @@
+"In telecommunication, electronics and the electrical power industry, the term demand factor is used to refer to the fractional amount of some quantity being used relative to the maximum amount that could be used by the same system. The demand factor is always less than or equal to one. As the amount of demand is a time dependent quantity so is the demand factor.
+
+The demand factor is often implicitly averaged over time when the time period of demand is understood by the context.
+
+Electrical eng

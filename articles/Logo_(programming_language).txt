@@ -1,0 +1,33 @@
+"Computer programming language
+
+Logo Example Logo output
+
+Paradigms Multi-paradigm: functional, educational, procedural, reflective
+
+Family Lisp
+
+Designed by Wally Feurzeig, Seymour Papert, Cynthia Solomon
+
+Developer Bolt, Beranek and Newman
+
+First appeared 1967; 53 years ago (1967)
+
+Typing discipline dynamic
+
+Major implementations
+
+UCBLogo, many others
+
+Dialects
+
+StarLogo, NetLogo
+
+Influenced by
+
+Lisp
+
+Influenced
+
+AgentSheets, NetLogo, Smalltalk, Etoys, Scratch, KTurtle, REBOL, Boxer
+
+Logo is a

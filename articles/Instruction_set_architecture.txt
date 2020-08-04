@@ -1,0 +1,31 @@
+"A set of abstract symbols which describe a computer program's operations to a processor
+
+Not to be confused with Industry Standard Architecture.
+
+Machine code
+
+General concepts
+
+Instruction set
+
+Opcode
+Illegal opcode
+
+Opcode table
+
+Operand
+
+Instructions
+
+NOP
+
+Branch
+Indirect branch
+
+v
+
+t
+
+e
+
+In computer science, an instruction set architecture (ISA) is an abstract model of a computer. It is also referred to as architecture or computer architecture. A realization of an ISA, such as a central pro

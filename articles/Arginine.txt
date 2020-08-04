@@ -1,0 +1,59 @@
+"Amino acid
+
+Arginine
+ 
+Names
+
+Other names
+2-Amino-5-guanidinopentanoic acid
+
+Identifiers
+
+CAS Number
+
+ 7200-25-1 N
+
+157-06-2 R N
+
+74-79-3 S N
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+Protonated zwitterion: Interactive image
+
+3DMet
+ B01331
+
+Beilstein Reference
+
+ 1725411, 1725412 R, 1725413 S
+
+ChEBI
+ CHEBI:29016 Y
+
+ChEMBL
+ ChEMBL212301 N
+
+ChEMBL1485 N
+
+ChemSpider
+ 227 Y
+
+64224 R N
+
+6082 S N
+
+DrugBank
+ DB00125 N
+
+ECHA InfoCard
+ 100.000.738
+
+EC Number
+ 230-571-3
+
+Gmelin

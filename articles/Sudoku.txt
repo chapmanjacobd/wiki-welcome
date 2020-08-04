@@ -1,0 +1,9 @@
+"For the disease with a similar name, see Sodoku.
+
+Logic-based number-placement puzzle
+
+A typical Sudoku puzzle…
+
+…and its solution
+
+Sudoku (数独, sūdoku, digit-single) (/suːˈdoʊkuː/, /-ˈdɒk-/, /sə-/, originally called Number Place) is a logic-based, combinatorial number-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called "boxes", "blocks", or "regi

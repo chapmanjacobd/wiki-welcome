@@ -1,0 +1,5 @@
+"Play media
+
+How to use a microarray for genotyping. The video shows the process of extracting genotypes from a human spit sample using microarrays. Genotyping is a major use of DNA microarrays, but with some modifications they can also be used for other purposes such as measurement of gene expression and epigenetic markers.
+
+A DNA microarray (also commonly known as DNA chip or biochip) is a collection of microscopic DNA spots attached to a solid surface. Scientists use DNA microarrays to measur

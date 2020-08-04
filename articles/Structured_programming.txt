@@ -1,0 +1,18 @@
+"Programming paradigm aimed at improving clarity, quality, and development time by using control structures
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (March 2015) (Learn how and when to remove this template message)
+
+Programming paradigms
+
+Action
+
+Agent-oriented
+
+Array-oriented
+
+Automata-based
+
+Concurrent computing
+Relativistic programming
+
+Da

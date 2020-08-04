@@ -1,0 +1,31 @@
+"Sillimanite
+
+General
+
+Category Nesosilicate
+
+Formula
+
+(repeating unit) Al2SiO5
+
+Strunz classification 9.AF.05
+
+Dana classification 52.02.02a.01
+
+Crystal system Orthorhombic
+
+Crystal class Dipyramidal (mmm)
+
+H-M symbol: (2/m 2/m 2/m)
+
+Space group Pbnm
+
+Unit cell a = 7.47 Å, b = 7.66 Å
+
+c = 5.75 Å; Z = 4
+
+Identification
+
+Color Colourless or white to grey, also brown, yellow, yellow-green, grey-green, blue-green, blue; colourless in thin section
+
+Crystal habit Prismatic crystals, fibrous, acicu

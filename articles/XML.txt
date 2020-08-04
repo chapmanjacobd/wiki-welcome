@@ -1,0 +1,36 @@
+"Markup language developed by the W3C for encoding of data
+
+ XML (standard)Status Published
+
+Year started 1996; 24 years ago (1996)
+
+Latest version 1.1 (Second Edition)
+
+September 29, 2006; 13 years ago (2006-09-29)
+
+Editors Tim Bray
+
+Jean Paoli
+
+C. M. Sperberg-McQueen
+
+Eve Maler
+
+François Yergeau
+
+John Cowan
+
+Related standards XML Schema
+
+Domain Data serialization
+
+Abbreviation XML
+
+Website w3.org/TR/xml11
+
+XML (file format)Filename extension 
+.xml
+
+Internet media type application/xml
+
+text/xm

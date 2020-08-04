@@ -1,0 +1,23 @@
+Messaging and VoIP service by Facebook
+
+WhatsApp
+
+Original author(s) Brian Acton, Jan Koum
+
+Developer(s) WhatsApp Inc. (Facebook, Inc.)
+
+Initial release January 2009; 11 years ago (2009-01)
+
+Stable release(s) 
+
+iOS 2.20.80 / July 23, 2020; 3 days ago (2020-07-23)
+
+Android 2.20.195.15 / July 23, 2020; 3 days ago (2020-07-23)
+
+Preview release(s) 
+
+Android (Beta) 2.20.196.10 / July 25, 2020; 1 day ago (2020-07-25)
+
+Written in Erlang
+
+Operating system Android, iOS, KaiOS (there are Windows, macOS an

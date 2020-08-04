@@ -1,0 +1,3 @@
+Light path in a Cassegrain reflecting telescope
+
+The Cassegrain reflector is a combination of a primary concave mirror and a secondary convex mirror, often used in optical telescopes and radio antennas, the main characteristic being that the optical path folds back onto itself, relative to the optical system's primary mirror entrance aperture. This design puts the focal point at a convenient location behind the primary mirror and the convex secondary adds a telephoto effect creating a much longe

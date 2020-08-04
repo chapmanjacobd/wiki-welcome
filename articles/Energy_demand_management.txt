@@ -1,0 +1,5 @@
+"Modification of consumer energy usage during peak hours
+
+Energy demand management, also known as demand-side management (DSM) or demand-side response (DSR), is the modification of consumer demand for energy through various methods such as financial incentives and behavioral change through education.
+
+Usually, the goal of demand-side management is to encourage the consumer to use less energy during peak hours, or to move the time of energy use to off-peak times such as nighttime and weekends. Pe

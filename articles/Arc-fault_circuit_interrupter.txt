@@ -1,0 +1,31 @@
+"a circuit breaker that protects against intermittent faults associated with arcing
+
+ Relevant topics on
+
+Electrical installations
+
+Wiring practice by region or country
+
+North American practice
+
+United Kingdom practice
+
+Regulation of electrical installations
+
+BS 7671 UK wiring regulations
+
+IEC 60364 IEC international standard
+
+Canadian Electrical Code (CEC)
+
+U.S. National Electrical Code (NEC)
+
+Cabling and accessories
+
+AC power plugs and sockets
+
+Cable tray
+
+Electrical conduit
+
+Mineral-insulated

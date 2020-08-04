@@ -1,0 +1,9 @@
+"Signal used to represent data as a sequence of discrete values
+
+This article is about digital signals in electronics. For digital data and systems, see Digital data. For digital signals that specifically represent analog waveforms, see Digital signal (signal processing). For other uses, see Digital signal (disambiguation).
+
+For broader coverage of this topic, see Signal.
+
+A binary signal, also known as a logic signal, is a digital signal with two distinguishable levels
+
+A digital signal is a si

@@ -1,0 +1,33 @@
+Rule-Based" redirects here. For the method of machine translation, see Rule-based machine translation. For methods of machine learning, see Rule-based machine learning.
+
+Programming paradigm based on formal logic
+
+Programming paradigms
+
+Action
+
+Agent-oriented
+
+Array-oriented
+
+Automata-based
+
+Concurrent computing
+Relativistic programming
+
+Data-driven
+
+Declarative (contrast: Imperative)
+Functional
+Functional logic
+
+Purely functional
+
+Logic
+Abductive logic
+
+Answer set
+
+Concurrent logic
+
+Functional 

@@ -1,0 +1,47 @@
+"Metabolic pathway
+
+ Glucose
+
+ G6P
+
+ F6P
+
+ F1,6BP
+
+ GADP
+
+ DHAP
+
+ 1,3BPG
+
+ 3PG
+
+ 2PG
+
+ PEP
+
+ Pyruvate
+
+ HK
+
+ PGI
+
+ PFK
+
+ ALDO
+
+ TPI
+
+ GAPDH
+
+ PGK
+
+ PGM
+
+ ENO
+
+ PK
+
+ Glycolysis
+
+The metabolic pathway of glycolysis converts glucose to pyruvate by via a series of intermediate metabolites. Each chemical modification is performed by a different enzyme. Steps 1 and 3 consume ATP and steps 7 and 10 produce ATP. Since steps 6–10 occur twice per glucose molecule, this leads to a net production of ATP.

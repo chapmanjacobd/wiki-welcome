@@ -1,0 +1,6 @@
+"See also: Load profile
+
+Loch Mhor is used to generate hydro-electric energy at peak demand or in an emergency
+
+Peak demand on an electrical grid is simply the highest electrical power demand that has occurred over a specified time period (Gönen 2008). Peak demand is typically characterized as annual, daily or seasonal and has the unit of power.
+Peak demand, peak load or on-peak are terms used in energy demand management describing a period in which electrical power is expected to be provided f

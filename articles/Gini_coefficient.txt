@@ -1,0 +1,7 @@
+"Not to be confused with Gini impurity.
+
+Measure of inequality in the income or wealth distribution
+
+World map of the GINI coefficients by country. Based on World Bank data ranging from 1992 to 2018.
+
+In economics, the Gini coefficient (/ˈdʒiːni/ JEE-nee), sometimes called the Gini index or Gini ratio, is a measure of statistical dispersion intended to represent the income inequality or wealth inequality within a nation or any other group of people. It was developed by the Italian statisticia

@@ -1,0 +1,3 @@
+"This article is about radiometric dating. For blocking temperature in a ferromagnet, see Superparamagnetism.
+
+In radiometric dating, closure temperature or blocking temperature refers to the temperature of a system, such as a mineral, at the time given by its radiometric date. In physical terms, the closure temperature is the temperature at which a system has cooled so that there is no longer any significant diffusion of the parent or daughter isotopes out of the system and into the external en

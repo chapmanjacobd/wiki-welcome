@@ -1,0 +1,7 @@
+"This article is about the mode of transportation. For other uses, see Walk (disambiguation) and Walking (disambiguation).
+
+Gait of locomotion among legged animals
+
+Computer simulation of a human walk cycle. In this model the head keeps the same level at all times, whereas the hip follows a sine curve.
+
+Walking (also known as ambulation) is one of the main gaits of locomotion among legged animals. Walking is typically slower than running and other gaits. Walking is defined by an 'inverted pendul

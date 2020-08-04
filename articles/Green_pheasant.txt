@@ -1,0 +1,46 @@
+"Species of bird
+
+Green pheasant
+
+Male in Japan
+
+Female in Japan
+
+Conservation status
+
+Least Concern (IUCN 3.1)
+
+Scientific classification 
+
+Kingdom:
+ Animalia
+
+Phylum:
+ Chordata
+
+Class:
+ Aves
+
+Order:
+ Galliformes
+
+Family:
+ Phasianidae
+
+Genus:
+ Phasianus
+
+Species:
+ P. versicolor
+
+Binomial name
+
+Phasianus versicolor
+
+Vieillot, 1825
+
+Synonyms
+
+Phasianus colchicus versicolor
+
+The green pheasant (Phasianus versicolor), also known as Japanese green pheasant, is an omnivorous bird native to the Japane

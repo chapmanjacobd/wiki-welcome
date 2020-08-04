@@ -1,0 +1,51 @@
+Maltose
+
+α-Maltose
+
+β-Maltose
+
+Names
+
+IUPAC name
+(3R,4R,5S,6R)-6-(hydroxymethyl)-5-{oxy}oxane-2,3,4-triol
+
+Other names
+4-O-α-D-Glucopyranosyl-D-glucose
+
+Identifiers
+
+CAS Number
+
+ 69-79-4 Y
+
+3D model (JSmol)
+
+ Interactive image
+
+ChEBI
+ CHEBI:17306 Y
+
+ChEMBL
+ ChEMBL1234209 N
+
+ChemSpider
+ 388329 α-maltose Y
+
+6019 β-maltose Y
+
+ECHA InfoCard
+ 100.000.651
+
+EC Number
+ 200-716-5
+
+PubChem CID
+
+ 6255
+
+UNII
+ 66Y63L379N Y
+
+InChI
+
+InChI=1S/C12H22O11/c13-1-3-5(15)6(16)9(19)12(22-3)23-10-4(2-14)21-11(20)8

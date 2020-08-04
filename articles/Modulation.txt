@@ -1,0 +1,45 @@
+"Process of varying one or more properties of a periodic waveform
+
+For other uses, see Modulation (disambiguation).
+
+This article may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. (February 2017) (Learn how and when to remove this template message)
+
+Passband modulation
+
+Analog modulation
+
+AM
+
+FM
+
+PM
+
+QAM
+
+SM
+
+SSB
+
+Digital modulation
+
+ASK
+
+APSK
+
+CPM
+
+FSK
+
+MFSK
+
+MSK
+
+OOK
+
+PPM
+
+PSK
+
+QAM
+
+SC-F

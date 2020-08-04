@@ -1,0 +1,7 @@
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+
+Find sources: "Job" computing – news · newspapers · books · scholar · JSTOR (February 2016) (Learn how and when to remove this template message)
+
+For other uses, see Job (Unix) and Job stream.
+
+In computing, a job is a unit of work or unit of execution (that performs said work). A component of a job (as a unit

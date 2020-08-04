@@ -1,0 +1,29 @@
+"Lindane
+
+Clinical data
+
+AHFS/Drugs.com Monograph
+
+MedlinePlus a682651
+
+Pregnancy
+
+category 
+C
+
+Routes of
+
+administration Topical
+
+ATC code P03AB02 (WHO) QP53AB02 (WHO) QS02QA01 (WHO)
+
+Legal status
+
+Legal status 
+Production and agricultural use is banned in the 182 countries that are Parties to the Stockholm Convention, but pharmaceutical use is allowed as a second-line treatment for scabies and lice
+
+Pharmacokinetic data
+
+Protein binding 91%
+
+Metabolism Hepatic cytochrome P-450 oxygenase system

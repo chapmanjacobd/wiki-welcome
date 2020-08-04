@@ -1,0 +1,21 @@
+"Family of programming languages
+
+This article is about the programming language family. For other uses, see Algol (disambiguation).
+
+ALGOL A 1965 manual for ALGOL-20
+
+Paradigm Procedural, imperative, structured
+
+Family ALGOL
+
+Designed by Bauer, Bottenbruch, Rutishauser, Samelson, Backus, Katz, Perlis, Wegstein, Naur, Vauquois, van Wijngaarden, Woodger, Green, McCarthy
+
+First appeared 1958; 62 years ago (1958)
+
+Typing discipline Static, strong
+
+Scope Lexical
+
+Influenced
+
+Most subsequent imperati

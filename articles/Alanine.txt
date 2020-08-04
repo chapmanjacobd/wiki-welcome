@@ -1,0 +1,58 @@
+Alanine
+
+L-Alanine
+
+Names
+
+IUPAC name
+Alanine
+
+Other names
+2-Aminopropanoic acid
+
+Identifiers
+
+CAS Number
+
+ 338-69-2 (D-isomer) Y
+
+56-41-7 (L-isomer) Y
+
+302-72-7 (racemic) Y
+
+3D model (JSmol)
+
+ Interactive image
+
+Zwitterion: Interactive image
+
+Interactive image
+
+Zwitterion: Interactive image
+
+3DMet
+ B00011
+
+Beilstein Reference
+
+ 1720248
+
+ChEBI
+ CHEBI:16977 N
+
+ChEMBL
+ ChEMBL66693 Y
+
+ChemSpider
+ 64234 (D-isomer) Y
+
+5735 (L-isomer) Y
+
+582 (Racemic) Y
+
+DrugBank
+ DB00160
+
+ECHA InfoCard
+ 100.000.249
+

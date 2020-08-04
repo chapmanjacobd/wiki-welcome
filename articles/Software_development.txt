@@ -1,0 +1,83 @@
+"Creation and maintaining of programs and applications
+
+For other uses, see Software development (disambiguation).
+
+Software development
+
+Core activities
+
+Processes
+
+Requirements
+
+Design
+
+Engineering
+
+Construction
+
+Testing
+
+Debugging
+
+Deployment
+
+Maintenance
+
+Paradigms and models
+
+Agile
+
+Cleanroom
+
+Incremental
+
+Prototyping
+
+Spiral
+
+V model
+
+Waterfall
+
+Methodologies and frameworks
+
+ASD
+
+DevOps
+
+DAD
+
+DSDM
+
+FDD
+
+IID
+
+Kanban
+
+Lean SD
+
+LeSS
+
+MDD
+
+MSF
+
+PSP
+
+RAD
+
+RUP
+
+SAFe
+
+Scrum
+
+SEMAT
+
+TSP
+
+OpenUP
+
+U

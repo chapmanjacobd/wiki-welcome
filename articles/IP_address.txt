@@ -1,0 +1,8 @@
+"Numerical label used to identify a network interface in an IP network
+
+For the Wikipedia user access level, see Wikipedia:User access levels § Unregistered (IP or not logged in) users.
+
+An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.
+An IP address serves two main functions: host or network interface identification and location addressing.
+
+Internet Protocol version 4 (IPv4)

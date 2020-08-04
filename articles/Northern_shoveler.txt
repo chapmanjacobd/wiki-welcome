@@ -1,0 +1,44 @@
+"Species of bird
+
+Northern shoveler
+
+Male
+
+Female
+
+Conservation status
+
+Least Concern (IUCN 3.1)
+
+Scientific classification 
+
+Kingdom:
+ Animalia
+
+Phylum:
+ Chordata
+
+Class:
+ Aves
+
+Order:
+ Anseriformes
+
+Family:
+ Anatidae
+
+Genus:
+ Spatula
+
+Species:
+ S. clypeata
+
+Binomial name
+
+Spatula clypeata
+
+(Linnaeus, 1758)
+
+Range distribution of Northern shoveler Breeding Resident Passage Non-breeding Vagrant (seasonality uncertain) Extant & Introduced (seasonality uncertain) 
+
+European distribution. Breeding 

@@ -1,0 +1,35 @@
+"Sojourner
+
+Mission type Mars rover
+
+Operator NASA
+
+Website Official website
+
+Mission duration Planned: 7 sols (7 days)
+
+Mission end: 83 sols (85 days)
+
+From arrival on Mars
+
+Spacecraft properties
+
+Dry mass 11.5 kilograms (25 lb) (Rover only)
+
+Start of mission
+
+Launch date December 6, 1996, 06:58:07 UTC
+
+Rocket Delta II 7925 D240
+
+Launch site Cape Canaveral LC-17B
+
+Contractor McDonnell Douglas
+
+Deployed from Mars Pathfinder
+
+Deployment date July 5, 1997 (1997-07-05)
+
+End of mission
+
+Last contact

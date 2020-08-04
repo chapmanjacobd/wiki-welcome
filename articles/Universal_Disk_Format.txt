@@ -1,0 +1,23 @@
+"Vendor-neutral file system, used in practice for DVDs and other optical discs
+
+UDFDeveloper(s) ISO/ECMA/OSTA
+
+Full name Universal Disk Format
+
+Introduced 1995; 25 years ago (1995)
+
+Partition identifier Not assigned but suggested:
+
+0x07 (MBR)
+
+EBD0A0A2-B9E5-4433-87C0-68B6B72699C7 (GPT)
+
+Limits
+
+Max. volume size 2 TiB (with 512 byte sectors), 8 TiB (with 2 KiB sectors, like most optical discs), 16 TiB (with 4 KiB sectors)
+
+Max. file size 16 EiB
+
+Max. filename length 255 bytes (path 1023 bytes)
+
+A

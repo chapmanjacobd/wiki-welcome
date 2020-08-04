@@ -1,0 +1,5 @@
+"Method of reasoning by which premises understood to be true produce logically certain conclusions
+
+Deductive reasoning, also deductive logic, is the process of reasoning from one or more statements (premises) to reach a logically certain conclusion.
+
+Deductive reasoning goes in the same direction as that of the conditionals, and links premises with conclusions. If all premises are true, the terms are clear, and the rules of deductive logic are followed, then the conclusion reached is necessaril

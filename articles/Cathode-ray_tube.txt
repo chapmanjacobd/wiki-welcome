@@ -1,0 +1,19 @@
+"Vacuum tube that can show moving pictures, vector graphics, or text
+
+Cathode ray tube using electromagnetic focus and deflection
+
+A cathode-ray tube as found in an oscilloscope
+
+Cutaway rendering of a color CRT:
+
+1. Three electron emitters (for red, green, and blue phosphor dots)
+
+2. Electron beams
+
+3. Focusing coils
+
+4. Deflection coils
+
+5. Connection for final anodes (referred to as the "ultor" in some receiving tube manuals)
+
+6. Mask for separating beams for red, green, and blue part of the 

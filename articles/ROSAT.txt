@@ -1,0 +1,29 @@
+This article is about the X-ray telecope ROSAT. For the Roman Catholic bishop, see Adalberto Arturo Rosat.
+
+Röntgensatellit
+
+Names ROSAT
+
+Mission type Space Telescope
+
+Operator DLR / NASA
+
+COSPAR ID 1990-049A
+
+SATCAT no. 20638
+
+Website www.dlr.de/en/rosat
+
+Mission duration 8 years and 8 months
+
+Spacecraft properties
+
+Launch mass 2,421 kilograms (5,337 lb)
+
+Start of mission
+
+Launch date 21:48:00, 1 June 1990 (UTC) (1990-06-01T21:48:00Z)
+
+Rocket Delta II 6920-10
+
+Launch site Cape Canaveral LC-17A

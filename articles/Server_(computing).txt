@@ -1,0 +1,7 @@
+"Computer to access a central resource or service on a network
+
+Wikimedia Foundation servers
+
+First WWW server located at CERN with its original sticker that says: "This machine is a server. DO NOT POWER IT DOWN!!"
+
+In computing, a server is a piece of computer hardware or software (computer program) that provides functionality for other programs or devices, called "clients". This architecture is called the client–server model. Servers can provide various functionalities, often called "service

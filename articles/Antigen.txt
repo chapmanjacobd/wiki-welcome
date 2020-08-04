@@ -1,0 +1,5 @@
+"Molecule triggering an immune response (antibody production) in the host
+
+An illustration that shows how antigens induce the immune system response by interacting with an antibody that matches the antigen's molecular structure.
+
+In immunology, an antigen (Ag) is a molecule or molecular structure, such as may be present at the outside of a pathogen, that can be bound to by an antigen-specific antibody (Ab) or B cell antigen receptor (BCR). The presence of antigens in the body normally triggers a

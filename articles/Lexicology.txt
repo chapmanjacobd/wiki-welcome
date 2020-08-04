@@ -1,0 +1,62 @@
+"Linguistic discipline studying words
+
+Not to be confused with lexicography.
+
+Semantics
+
+Linguistic
+
+Logical
+
+Analysis
+
+Computational
+
+Lexical (lexis
+
+lexicology)
+
+Statistical
+
+Structural
+
+Prototype theory
+
+Force dynamics
+
+Unsolved linguistics problems
+
+Theory of descriptions
+
+Computing
+
+Types
+
+Action
+
+Algebraic
+
+Axiomatic
+
+Categorical
+
+Concurrency
+
+Denotational
+
+Game
+
+Operational
+
+Predicate transformational
+
+Theory
+
+Abstract interpretation
+
+Abstract semantic graph
+
+Semantic matching
+
+Analysis
+

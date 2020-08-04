@@ -1,0 +1,15 @@
+"For inductors whose magnetic properties rather than electrical properties matter, see electromagnet.
+
+Passive two-terminal electrical component that stores energy in its magnetic field
+
+Inductor A selection of low-value inductors
+
+Type Passive
+
+Working principle Electromagnetic induction
+
+First production Michael Faraday (1831)
+
+Electronic symbol
+
+An inductor, also called a coil, choke, or reactor, is a passive two-terminal electrical component that stores energy in a magnetic field when electr

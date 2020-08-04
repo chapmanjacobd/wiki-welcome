@@ -1,0 +1,33 @@
+"General-purpose, object-oriented programming language
+
+Objective-CParadigm Reflective, class-based object-oriented
+
+Family C
+
+Designed by Tom Love and Brad Cox
+
+First appeared 1984; 36 years ago (1984)
+
+Stable release 2.0
+
+Typing discipline static, dynamic, weak
+
+OS Cross-platform
+
+Filename extensions .h, .m, .mm, .M
+
+Website developer.apple.com
+
+Major implementations
+
+Clang, GCC
+
+Influenced by
+
+C, Smalltalk
+
+Influenced
+
+Groovy, Java, Nu, Objective-J, TOM, Swift
+
+ Objective-C Programming at Wik

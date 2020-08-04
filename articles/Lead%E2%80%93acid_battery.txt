@@ -1,0 +1,21 @@
+"Lead–acid battery Lead–acid car battery
+
+Specific energy 35–40 Wh/kg
+
+Energy density 80–90 Wh/L
+
+Specific power 180 W/kg
+
+Charge/discharge efficiency 50–95%
+
+Energy/consumer-price 7 (sld) to 18 (fld) Wh/US$
+
+Self-discharge rate 3–20%/month
+
+Cycle durability <350 cycles
+
+Nominal cell voltage 2.1 V
+
+Charge temperature interval Min. −35 °C, max. 45 °C
+
+The lead–acid battery was invented in 1859 by French physicist Gaston Planté and is the earliest type of rechargeable battery. D

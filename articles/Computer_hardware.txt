@@ -1,0 +1,9 @@
+"Physical components of a computer
+
+PDP-11 CPU board
+
+Computer hardware includes the physical parts of a computer, such as the case, central processing unit (CPU), monitor, mouse, keyboard, computer data storage, graphics card, sound card, speakers and motherboard. 
+
+By contrast, software is the set of instructions that can be stored and run by hardware. Hardware is so-termed because it is "hard" or rigid with respect to changes, whereas software is "soft" because it is easy to change.
+
+Hardware

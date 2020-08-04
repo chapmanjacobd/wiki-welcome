@@ -1,0 +1,3 @@
+Figure 1. A mechanical filter made by the Kokusai Electric Company intended for selecting the narrow 2 kHz bandwidth signals in SSB radio receivers. It operates at 455 kHz, a common IF for these receivers, and is dimensioned 45×15×15 mm (​1 3⁄4×​7⁄12×​7⁄12 in).
+
+A mechanical filter is a signal processing filter usually used in place of an electronic filter at radio frequencies. Its purpose is the same as that of a normal electronic filter: to pass a range of signal frequencies, b

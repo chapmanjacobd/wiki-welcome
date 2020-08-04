@@ -1,0 +1,3 @@
+Graphic representation of a minute fraction of the WWW, demonstrating hyperlinks
+
+Information visualization or information visualisation is the study of (interactive) visual representations of abstract data to reinforce human cognition. The abstract data include both numerical and non-numerical data, such as text and geographic information. The naming of subfields is sometimes confusing. One accepted definition is that it's information visualization when the spatial representation is chosen, whe
