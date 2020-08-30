@@ -1,5 +1,3 @@
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
 
-Find sources: "Voltage source" – news · newspapers · books · scholar · JSTOR (November 2010) (Learn how and when to remove this template message)
 
 A voltage source is a two-terminal device which can maintain a fixed voltage. An ideal voltage source can maintain the fixed voltage independent of the load resista

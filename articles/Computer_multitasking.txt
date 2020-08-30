@@ -2,8 +2,6 @@
 
 Concurrent execution of multiple processes
 
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
 
-Find sources: "Computer multitasking" – news · newspapers · books · scholar · JSTOR (February 2012) (Learn how and when to remove this template message)
 
 Modern desktop operating systems are capable of handling large numbers of dif

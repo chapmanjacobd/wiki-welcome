@@ -1,6 +1,5 @@
 "American character encoding standard
 
-Not to be confused with MS Windows-1252 or other types of extended ASCII.
 
 This article is about the character encoding. For other uses, see ASCII (disambiguation).
 

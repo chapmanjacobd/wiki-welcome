@@ -1,4 +1,3 @@
-"Not to be confused with Object-oriented programming.
 
 Program execution
 

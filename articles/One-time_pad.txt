@@ -1,4 +1,3 @@
-"Not to be confused with One-time password.
 
 A format of one-time pad used by the U.S. National Security Agency, code named DIANA. The table on the right is an aid for converting between plaintext and ciphertext using the characters at left as the key.
 

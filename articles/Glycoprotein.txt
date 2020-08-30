@@ -1,6 +1,5 @@
 "Protein with oligosaccaride modifications
 
-Not to be confused with peptidoglycan, proteoglycan, or glycopeptide.
 
 N-linked protein glycosylation (N-glycosylation of N-glycans) at Asn residues (Asn-x-Ser/Thr motifs) in glycoproteins.
 

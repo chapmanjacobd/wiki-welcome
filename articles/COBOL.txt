@@ -1,4 +1,3 @@
-"Not to be confused with Kobol, a fictional planet in Battlestar Galactica.
 
 Programming language with English-like syntax
 

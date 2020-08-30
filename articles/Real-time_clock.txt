@@ -1,4 +1,3 @@
-"Not to be confused with Real-time computing.
 
 Dallas Semiconductor DS1287 real-time clock manufactured in 1988
 

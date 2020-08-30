@@ -1,7 +1,4 @@
-"Not to be confused with application portability.
 
 This article is about portability in itself. For the work required to make software portable, see porting. For other uses, see portability.
 
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
 
-Find sources: "Software portability" – news · newspapers · books · scholar · JSTOR (November 2011) (Learn how and when 

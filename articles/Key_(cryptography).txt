@@ -1,5 +1,3 @@
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
 
-Find sources: "Key" cryptography – news · newspapers · books · scholar · JSTOR (April 2020) (Learn how and when to remove this template message)
 
 In cryptography, a key is a piece of information (a parameter) that determines the functional output of a cryptographic algorithm. For encryption algorithms, a key s

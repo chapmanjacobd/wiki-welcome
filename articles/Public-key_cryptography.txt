@@ -1,5 +1,3 @@
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
 
-Find sources: "Public-key cryptography" – news · newspapers · books · scholar · JSTOR (July 2018) (Learn how and when to remove this template message)
 
 An unpredictable (typically large and random) number is used to begin generation of an acceptable pair of keys suitable for use by an asymmetric key algorithm.

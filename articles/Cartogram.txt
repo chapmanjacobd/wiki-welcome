@@ -1,6 +1,5 @@
 "Map in which geographic space is distorted based on the value of a thematic mapping variable
 
-Not to be confused with Cartography.
 
 Cartogram showing the distribution of the global population. Each of the 15,266 pixels represents the home country of 500,000 people – cartogram by Max Roser for Our World in Data
 

@@ -2,7 +2,6 @@
 
 This article is about the programming language. For other uses, see Ruby (disambiguation).
 
-Not to be confused with Ruby on Rails.
 
 Ruby
 

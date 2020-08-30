@@ -1,3 +1,2 @@
-This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (June 2009) (Learn how and when to remove this template message)
 
 In computing, ASPI (Advanced SCSI Programming Interface) is an Adaptec-developed programming interface which standardizes communication on a computer bus between a SCSI driver module on the one hand and SCSI (and ATAPI) peripherals on the

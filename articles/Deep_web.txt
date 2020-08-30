@@ -2,6 +2,5 @@ Content of the World Wide Web that is not indexed by search engines
 
 This article is about the part of the World Wide Web not indexed by traditional search engines. For other uses, see Deep web (disambiguation).
 
-Not to be confused with Dark web.
 
 The deep web, invisible web, or hidden web are parts of the World Wide Web whose contents are not indexed by standard web search-engines. The opposite term to the deep web is the "surface web", which is accessible to anyone/everyone using the Internet.

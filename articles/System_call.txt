@@ -1,4 +1,3 @@
-"Not to be confused with system command.
 
 A high-level overview of the Linux kernel's system call interface, which handles communication between its various components and the userspace
 

@@ -1,7 +1,5 @@
 "Formatted unit of data carried by a packet-switched network
 
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
 
-Find sources: "Network packet" – news · newspapers · books · scholar · JSTOR (August 2014) (Learn how and when to remove this template message)
 
 A network packet is a formatted unit of data carried by a packet-switched network. A packet consists of 

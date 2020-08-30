@@ -2,7 +2,6 @@
 
 This article is about the programming language. For other uses, see Perl (disambiguation).
 
-Not to be confused with PEARL (programming language).
 
 Perl
 

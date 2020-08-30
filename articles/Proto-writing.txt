@@ -1,6 +1,5 @@
 "Symbol system that conveys information, but does not record language
 
-Not to be confused with Prewriting.
 
  Part of a series on
 

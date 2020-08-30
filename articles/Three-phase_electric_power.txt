@@ -1,6 +1,5 @@
 "Common electrical power generation, transmission and distribution method for alternating currents
 
-Not to be confused with Split-phase electric power.
 
 Three-phase transformer with four wire output for 208Y/120 volt service: one wire for neutral, others for A, B and C phases
 

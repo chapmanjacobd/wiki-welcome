@@ -1,6 +1,5 @@
 "Act of attempting to acquire sensitive information by posing as a trustworthy entity
 
-Not to be confused with Fishing or Pishing.
 
 For more information about Wikipedia-related phishing attempts, see Wikipedia:Phishing emails.
 

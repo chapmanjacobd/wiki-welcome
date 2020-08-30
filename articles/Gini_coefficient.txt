@@ -1,4 +1,3 @@
-"Not to be confused with Gini impurity.
 
 Measure of inequality in the income or wealth distribution
 

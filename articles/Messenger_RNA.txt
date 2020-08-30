@@ -1,6 +1,5 @@
 "RNA that is read by the ribosome to produce a protein
 
-Not to be confused with Mitochondrial DNA (mtDNA).
 
 The "life cycle" of an mRNA in a eukaryotic cell. RNA is transcribed in the nucleus; after processing, it is transported to the cytoplasm and translated by the ribosome. Finally, the mRNA is degraded.
 

@@ -1,6 +1,5 @@
 "A self-operating machine
 
-Not to be confused with automation as a process.
 
 This article is about a self-operating machine. For other uses, see Automaton (disambiguation). For Automata, see Automata (disambiguation).
 

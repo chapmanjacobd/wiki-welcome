@@ -1,6 +1,5 @@
 "short-time bicycle rental service
 
-Not to be confused with Sociable, Tandem bicycle, or Quadracycle.
 
 Bicycle sharing system in Melbourne
 

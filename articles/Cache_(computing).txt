@@ -1,8 +1,6 @@
 "Computing component that transparently stores data so that future requests for that data can be served faster
 
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
 
-Find sources: "Cache" computing – news · newspapers · books · scholar · JSTOR (April 2011) (Learn how and when to remove this template message)
 
  Diagram of a CPU memory cache operation
 

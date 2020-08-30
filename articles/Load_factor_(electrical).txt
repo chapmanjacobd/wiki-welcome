@@ -1,4 +1,3 @@
-"Not to be confused with power factor.
 
 In electrical engineering the load factor is defined as the average load divided by the peak load in a specified time period. It is a measure of the utilization rate, or efficiency of electrical energy usage; a high load factor indicates that load is using the electric system more efficiently, whereas consumers or generators that underutilize the electric distribution will have a low load factor.
 

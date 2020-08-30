@@ -2,7 +2,6 @@
 
 This article is about coding of a worm. For the data storage device, see Write once read many. For other uses, see worm (disambiguation).
 
-Not to be confused with computer virus.
 
 Hex dump of the Blaster worm, showing a message left for Microsoft CEO Bill Gates by the worm programmer
 

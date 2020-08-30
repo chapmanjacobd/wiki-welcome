@@ -1,6 +1,5 @@
 "Computer program that can replicate itself and spread
 
-Not to be confused with computer worm or Trojan horse (computing).
 
 Hex dump of the Blaster worm, showing a message left for Microsoft co-founder Bill Gates by the worm's programmer
 

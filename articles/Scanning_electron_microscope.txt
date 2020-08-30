@@ -1,6 +1,5 @@
 "Type of electron microscope
 
-Not to be confused with Scanning tunneling microscope.
 
 Image of pollen grains taken on an SEM shows the characteristic depth of field of SEM micrographs
 

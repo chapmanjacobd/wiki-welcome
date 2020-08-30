@@ -4,7 +4,6 @@
 
 Object-oriented programming language
 
-Not to be confused with JavaScript.
 
 Java Programming Language
 

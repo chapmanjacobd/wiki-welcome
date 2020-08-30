@@ -1,5 +1,4 @@
 "Any algorithm which solves the search problem
 
-This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
 
 This article needs attention from an expert in computer science. The specific problem is: longstanding subpar state of article structure and content, which is currently list based, dated, and non-encyclopedic, and without external sourcing. See the talk page for details. WikiProject Computer scie

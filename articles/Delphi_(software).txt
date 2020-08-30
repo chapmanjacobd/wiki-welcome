@@ -1,7 +1,5 @@
 "For the macromolecular electrostatics modeling software package, see DelPhi.
 
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
 
-Find sources: "Delphi" software – news · newspapers · books · scholar · JSTOR (December 2019) (Learn how and when to remove this template message)
 
 Delphi is a programming language and an integrated development environment (IDE) for

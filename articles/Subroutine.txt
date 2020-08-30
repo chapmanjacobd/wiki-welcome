@@ -1,5 +1,3 @@
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
 
-Find sources: "Subroutine" – news · newspapers · books · scholar · JSTOR (February 2013) (Learn how and when to remove this template message)
 
 In computer programming, a subroutine is a sequence of program instructions that performs a specific task, packaged as a unit. This unit can then be used in programs wh

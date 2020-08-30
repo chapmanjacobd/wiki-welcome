@@ -1,6 +1,5 @@
 "Technique that uses sound propagation
 
-For other uses, see Sonar (disambiguation). Not to be confused with Sodar or Sonnar.
 
 French F70 type frigates (here, La Motte-Picquet) are fitted with VDS (Variable Depth Sonar) type DUBV43 or DUBV43C towed sonars
 

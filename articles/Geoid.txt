@@ -1,8 +1,6 @@
 "Shape that the ocean surface would take under the influence of the gravity and rotation of Earth alone
 
-Not to be confused with geode.
 
-Not to be confused with GEOID, a geocoding scheme.
 
 Geodesy
 

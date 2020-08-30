@@ -1,6 +1,5 @@
 "Internal combustion engine with quality torque control, internal mixture formation, lean air-fuel-ratio, diffusion flame and compression ignition
 
-Not to be confused with Diesel (game engine).
 
 Diesel engine built by Langen & Wolf under licence, 1898.
 

@@ -1,5 +1,4 @@
 "Study of hardware and software systems that have a "real-time constraint"
 
-This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (April 2014) (Learn how and when to remove this template message)
 
 Real-time computing (RTC), or reactive computing is the computer science term for hardware and software systems subject to a "real-time constraint", for example 

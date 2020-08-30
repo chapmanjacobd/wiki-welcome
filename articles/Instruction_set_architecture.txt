@@ -1,6 +1,5 @@
 "A set of abstract symbols which describe a computer program's operations to a processor
 
-Not to be confused with Industry Standard Architecture.
 
 Machine code
 

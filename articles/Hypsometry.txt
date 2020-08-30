@@ -1,4 +1,3 @@
-"Not to be confused with Hypsometric tints.
 
 Hypsometry (from Greek ὕψος, hupsos, "height" and μέτρον, metron, "measure") is the measurement of land elevation (relative to mean sea level). Bathymetry is the underwater equivalent.
 

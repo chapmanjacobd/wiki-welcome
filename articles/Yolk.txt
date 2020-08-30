@@ -1,6 +1,5 @@
 "Part of an egg which feeds the developing chicken embryo
 
-Not to be confused with Yoke.
 
 The yolk of a chicken egg
 

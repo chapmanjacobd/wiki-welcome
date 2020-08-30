@@ -1,3 +1,2 @@
 "This article is about the concurrency concept. For the multithreading in hardware, see Multithreading (computer architecture). For the form of code consisting entirely of subroutine calls, see Threaded code. For other uses, see Thread (disambiguation).
 
-This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009) (Learn how and when to remove thi

@@ -1,6 +1,5 @@
 "Class of molecules found in Gram-negative bacteria
 
-Not to be confused with glycolipid.
 
 Structure of a lipopolysaccharide
 

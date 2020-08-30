@@ -1,5 +1,4 @@
 "An algorithm that arranges lists in order
 
-This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2019) (Learn how and when to remove this template message)
 
 In computer science, a sorting algorithm is an algorithm that puts elements of a list in a certain order. The most frequently used orders are numerical order and lexicographical order. Efficient sorting is important for optimiz
